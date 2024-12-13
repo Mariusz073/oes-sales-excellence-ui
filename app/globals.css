@@ -1,26 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 255, 255, 255;
-  --background-start-rgb: 26, 26, 26;
-  --background-end-rgb: 26, 26, 26;
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: rgb(var(--background-start-rgb));
-  font-family: 'Inter', sans-serif;
-}
-
-.button {
-  @apply bg-[#ff6b6b] text-white px-6 py-3 rounded-lg text-base font-medium 
-  transition-colors hover:bg-[#ff5252];
-}
-
-.title {
-  @apply text-[#ff6b6b] text-4xl font-semibold mb-10;
+.row-label {
+  @apply absolute -left-2 top-1/2 -translate-y-1/2 text-[#B0B0B0] text-lg -rotate-180;
+  writing-mode: vertical-lr;
+  height: auto;
 }

@@ -1,95 +1,86 @@
-'use client';
+import { getReportData } from "../actions/getReportData";
 
-import { useEffect, useState } from 'react';
-import { useSearchParams } from 'next/navigation';
-import { getReportData, type ReportData } from '../actions/getReportData';
-
-export default function ReportPage() {
-  const searchParams = useSearchParams();
-  const [reportData, setReportData] = useState<ReportData | null>(null);
-
-  useEffect(() => {
-    const fetchReport = async () => {
-      const file = searchParams.get('file');
-      if (!file) return;
-
-      try {
-        const data = await getReportData(file);
-        setReportData(data);
-      } catch (error) {
-        console.error('Error fetching report:', error);
-      }
-    };
-
-    fetchReport();
-  }, [searchParams]);
+export default async function ReportPage({
+  searchParams,
+}: {
+  searchParams: { file: string };
+}) {
+  const reportData = await getReportData(searchParams.file);
 
   if (!reportData) return <div>Loading...</div>;
 
   return (
-    <div className="min-h-screen bg-[#1E1E1E] text-white p-8">
-      <div className="max-w-4xl mx-auto">
+    <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
+      <div className="max-w-5xl mx-auto">
         {/* Header */}
-        <div className="mb-4">
-          <h1 className="text-2xl">
-            <span className="text-white">{reportData.metadata.consultantName}</span>
-            <span className="text-red-500"> | {reportData.metadata.reportType}</span>
+        <div className="mb-8">
+          <h1 className="text-4xl font-light whitespace-nowrap">
+            <span className="text-[#FF6B8A]">{reportData.metadata.consultantName}</span>
+            <span className="text-white"> | Collaborative planning - condensed</span>
           </h1>
-          <p className="text-lg mt-2">
+          <p className="text-xl italic text-gray-400 mt-4">
             Week {reportData.metadata.weekNumber}: {reportData.metadata.dateRange}
           </p>
         </div>
 
         {/* Divider */}
-        <div className="border-t border-gray-600 my-6"></div>
+        <div className="border-t border-gray-600 my-8"></div>
 
         {/* Stats Title */}
-        <h2 className="text-2xl mb-6">Your week in numbers [route 1]:</h2>
+        <h2 className="text-4xl font-light mb-12">Your week in numbers [route 1]:</h2>
 
-        {/* Stats Grid */}
-        <div className="grid grid-cols-3 gap-4">
-          {/* Total Calls */}
-          <div className="bg-[#2A2A2A] p-6 rounded">
-            <h3 className="text-lg mb-4">Total calls</h3>
-            <div className="grid grid-rows-2 gap-4">
-              <div className="text-3xl font-light">{Math.round(reportData.total_number_of_calls)}</div>
-              <div className="text-3xl font-light">
-                {Math.round(reportData.team_average_total_number_of_calls_per_sales_consultant)}
-              </div>
-            </div>
-          </div>
-
-          {/* % over 2 mins */}
-          <div className="bg-[#2A2A2A] p-6 rounded">
-            <h3 className="text-lg mb-4">% over 2 mins</h3>
-            <div className="grid grid-rows-2 gap-4">
-              <div className="text-3xl font-light">
-                {Math.round(reportData.percent_of_calls_over_2_minutes.percentage)}%
-              </div>
-              <div className="text-3xl font-light">
-                {Math.round(reportData.percent_of_calls_over_2_minutes.team_average_percentage)}%
-              </div>
-            </div>
-          </div>
-
-          {/* talking:listening */}
-          <div className="bg-[#2A2A2A] p-6 rounded">
-            <h3 className="text-lg mb-4">talking:listening</h3>
-            <div className="grid grid-rows-2 gap-4">
-              <div className="text-3xl font-light">
-                {Math.round(reportData.average_talking_percentage.individual_average)}:
-                {Math.round(100 - reportData.average_talking_percentage.individual_average)}
-              </div>
-              <div className="text-3xl font-light">
-                {Math.round(reportData.average_talking_percentage.team_average)}:
-                {Math.round(100 - reportData.average_talking_percentage.team_average)}
-              </div>
-            </div>
-          </div>
+        {/* Stats Table */}
+        <div className="bg-[#252525] rounded-lg p-10">
+          <table className="w-full border-separate border-spacing-x-6">
+            <thead>
+              <tr>
+                <th className="text-left pb-8 w-12"></th>
+                <th className="text-center pb-8 w-1/3">
+                  <div className="bg-[#303030] rounded px-4 py-1 text-xl font-light">Total calls</div>
+                </th>
+                <th className="text-center pb-8 w-1/3">
+                  <div className="bg-[#303030] rounded px-4 py-1 text-xl font-light">% over 2 mins</div>
+                </th>
+                <th className="text-center pb-8 w-1/3">
+                  <div className="bg-[#303030] rounded px-4 py-1 text-xl font-light">talking:listening</div>
+                </th>
+              </tr>
+            </thead>
+            <tbody className="text-2xl tracking-wide">
+              <tr>
+                <td className="relative w-12">
+                  <div className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/70 text-lg -rotate-180" style={{ writingMode: 'vertical-lr', height: 'auto' }}>Individual</div>
+                </td>
+                <td className="text-center py-6 font-extralight">
+                  {Math.round(reportData.total_number_of_calls)}
+                </td>
+                <td className="text-center py-6 font-extralight">
+                  {Math.round(reportData.percent_of_calls_over_2_minutes.percentage)}%
+                </td>
+                <td className="text-center py-6 font-extralight">
+                  {Math.round(reportData.average_talking_percentage.individual_average)}:{Math.round(100 - reportData.average_talking_percentage.individual_average)}
+                </td>
+              </tr>
+              <tr>
+                <td className="relative w-12">
+                  <div className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/70 text-lg -rotate-180" style={{ writingMode: 'vertical-lr', height: 'auto' }}>Team</div>
+                </td>
+                <td className="text-center py-6 font-extralight">
+                  {Math.round(reportData.team_average_total_number_of_calls_per_sales_consultant)}
+                </td>
+                <td className="text-center py-6 font-extralight">
+                  {Math.round(reportData.percent_of_calls_over_2_minutes.team_average_percentage)}%
+                </td>
+                <td className="text-center py-6 font-extralight">
+                  {Math.round(reportData.average_talking_percentage.team_average)}:{Math.round(100 - reportData.average_talking_percentage.team_average)}
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
 
         {/* Conversation Analysis */}
-        <div className="mt-8">
+        <div className="mt-12">
           <h2 className="text-2xl mb-6">Conversation Analysis</h2>
           <div className="space-y-4">
             {reportData.conversationAnalysis.condensed.conversations.map((conv) => (
