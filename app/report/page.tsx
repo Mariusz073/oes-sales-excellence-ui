@@ -2,23 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
-
-interface ReportData {
-  consultantName: string;
-  reportType: string;
-  weekNumber: string;
-  dateRange: string;
-  total_number_of_calls: number;
-  team_average_total_number_of_calls_per_sales_consultant: number;
-  percent_of_calls_over_2_minutes: {
-    percentage: number;
-    team_average_percentage: number;
-  };
-  average_talking_percentage: {
-    individual_average: number;
-    team_average: number;
-  };
-}
+import { getReportData, type ReportData } from '../actions/getReportData';
 
 export default function ReportPage() {
   const searchParams = useSearchParams();
@@ -30,12 +14,8 @@ export default function ReportPage() {
       if (!file) return;
 
       try {
-        const response = await fetch(`/api/view-report?file=${encodeURIComponent(file)}`);
-        if (!response.ok) throw new Error('Failed to fetch report');
-        
-        const csvText = await response.text();
-        const parsedData = parseCSV(csvText);
-        setReportData(parsedData);
+        const data = await getReportData(file);
+        setReportData(data);
       } catch (error) {
         console.error('Error fetching report:', error);
       }
@@ -43,67 +23,6 @@ export default function ReportPage() {
 
     fetchReport();
   }, [searchParams]);
-
-  const parseCSV = (csvText: string): ReportData => {
-    const lines = csvText.split('\n').map(line => line.trim());
-    const data: ReportData = {
-      consultantName: '',
-      reportType: '',
-      weekNumber: '',
-      dateRange: '',
-      total_number_of_calls: 0,
-      team_average_total_number_of_calls_per_sales_consultant: 0,
-      percent_of_calls_over_2_minutes: {
-        percentage: 0,
-        team_average_percentage: 0
-      },
-      average_talking_percentage: {
-        individual_average: 0,
-        team_average: 0
-      }
-    };
-
-    let currentSection = '';
-
-    lines.forEach(line => {
-      const [key, value] = line.split(';').map(item => item.trim());
-      
-      // Handle metadata
-      if (key === 'consultantName') data.consultantName = value;
-      if (key === 'reportType') data.reportType = value;
-      if (key === 'weekNumber') data.weekNumber = value;
-      if (key === 'dateRange') data.dateRange = value;
-
-      // Handle statistics
-      if (key === 'total_number_of_calls') {
-        data.total_number_of_calls = Number(value);
-      }
-      if (key === 'team_average_total_number_of_calls_per_sales_consultant') {
-        data.team_average_total_number_of_calls_per_sales_consultant = Number(value);
-      }
-
-      // Handle nested data
-      if (key === 'percent_of_calls_over_2_minutes') {
-        currentSection = 'percent_over_2';
-      } else if (key === 'average_talking_percentage') {
-        currentSection = 'talking_percentage';
-      } else if (currentSection === 'percent_over_2') {
-        if (key === 'percentage') {
-          data.percent_of_calls_over_2_minutes.percentage = Number(value);
-        } else if (key === 'team_average_percentage') {
-          data.percent_of_calls_over_2_minutes.team_average_percentage = Number(value);
-        }
-      } else if (currentSection === 'talking_percentage') {
-        if (key === 'individual_average') {
-          data.average_talking_percentage.individual_average = Number(value);
-        } else if (key === 'team_average') {
-          data.average_talking_percentage.team_average = Number(value);
-        }
-      }
-    });
-
-    return data;
-  };
 
   if (!reportData) return <div>Loading...</div>;
 
@@ -113,11 +32,11 @@ export default function ReportPage() {
         {/* Header */}
         <div className="mb-4">
           <h1 className="text-2xl">
-            <span className="text-white">{reportData.consultantName}</span>
-            <span className="text-red-500"> | {reportData.reportType}</span>
+            <span className="text-white">{reportData.metadata.consultantName}</span>
+            <span className="text-red-500"> | {reportData.metadata.reportType}</span>
           </h1>
           <p className="text-lg mt-2">
-            Week {reportData.weekNumber}: {reportData.dateRange}
+            Week {reportData.metadata.weekNumber}: {reportData.metadata.dateRange}
           </p>
         </div>
 
@@ -134,7 +53,9 @@ export default function ReportPage() {
             <h3 className="text-lg mb-4">Total calls</h3>
             <div className="grid grid-rows-2 gap-4">
               <div className="text-3xl font-light">{Math.round(reportData.total_number_of_calls)}</div>
-              <div className="text-3xl font-light">{Math.round(reportData.team_average_total_number_of_calls_per_sales_consultant)}</div>
+              <div className="text-3xl font-light">
+                {Math.round(reportData.team_average_total_number_of_calls_per_sales_consultant)}
+              </div>
             </div>
           </div>
 
@@ -142,8 +63,12 @@ export default function ReportPage() {
           <div className="bg-[#2A2A2A] p-6 rounded">
             <h3 className="text-lg mb-4">% over 2 mins</h3>
             <div className="grid grid-rows-2 gap-4">
-              <div className="text-3xl font-light">{Math.round(reportData.percent_of_calls_over_2_minutes.percentage)}%</div>
-              <div className="text-3xl font-light">{Math.round(reportData.percent_of_calls_over_2_minutes.team_average_percentage)}</div>
+              <div className="text-3xl font-light">
+                {Math.round(reportData.percent_of_calls_over_2_minutes.percentage)}%
+              </div>
+              <div className="text-3xl font-light">
+                {Math.round(reportData.percent_of_calls_over_2_minutes.team_average_percentage)}%
+              </div>
             </div>
           </div>
 
@@ -160,6 +85,24 @@ export default function ReportPage() {
                 {Math.round(100 - reportData.average_talking_percentage.team_average)}
               </div>
             </div>
+          </div>
+        </div>
+
+        {/* Conversation Analysis */}
+        <div className="mt-8">
+          <h2 className="text-2xl mb-6">Conversation Analysis</h2>
+          <div className="space-y-4">
+            {reportData.conversationAnalysis.condensed.conversations.map((conv) => (
+              <div key={conv.id} className="bg-[#2A2A2A] p-6 rounded">
+                <h3 className="text-lg font-medium mb-2">{conv.type}</h3>
+                <div className="space-y-2 text-sm">
+                  <p><span className="text-gray-400">Student Trigger:</span> {conv.studentTrigger}</p>
+                  <p><span className="text-gray-400">Context & Impact:</span> {conv.contextAndImpact}</p>
+                  <p><span className="text-gray-400">Consultant Response:</span> {conv.consultantResponse}</p>
+                  <p><span className="text-gray-400">Recommended Improvement:</span> {conv.recommendedImprovement}</p>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </div>
