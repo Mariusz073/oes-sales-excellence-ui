@@ -4,7 +4,7 @@ import path from 'path';
 
 export async function GET() {
   try {
-    const csvDir = path.join(process.cwd(), '..', 'csv_reports');
+    const csvDir = path.join(process.cwd(), 'csv_reports');
     
     // Check if directory exists, if not return empty array
     try {

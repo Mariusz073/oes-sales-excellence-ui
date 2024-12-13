@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { useRouter } from 'next/navigation';
 
 interface ProcessingStatus {
   message: string;
@@ -17,6 +18,7 @@ interface CsvFile {
 }
 
 export default function Home() {
+  const router = useRouter();
   const [status, setStatus] = useState<ProcessingStatus | null>(null);
   const [csvFiles, setCsvFiles] = useState<CsvFile[]>([]);
   const [selectedFile, setSelectedFile] = useState<string>('');
@@ -62,31 +64,9 @@ export default function Home() {
     }
   };
 
-  const handleViewReport = async () => {
+  const handleViewReport = () => {
     if (selectedFile) {
-      try {
-        const response = await fetch(`/api/view-report?file=${encodeURIComponent(selectedFile)}`);
-        
-        if (!response.ok) {
-          throw new Error('Failed to fetch report');
-        }
-
-        const blob = await response.blob();
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = selectedFile;
-        document.body.appendChild(a);
-        a.click();
-        window.URL.revokeObjectURL(url);
-        document.body.removeChild(a);
-      } catch (error) {
-        setStatus({
-          message: `Error viewing report: ${error instanceof Error ? error.message : String(error)}`,
-          isError: true
-        });
-        setTimeout(() => setStatus(null), 3000);
-      }
+      router.push(`/report?file=${encodeURIComponent(selectedFile)}`);
     }
   };
 
