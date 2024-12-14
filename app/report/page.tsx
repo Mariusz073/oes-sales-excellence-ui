@@ -17,19 +17,22 @@ export default async function ReportPage({
   return (
     <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
       <div className="max-w-5xl mx-auto">
-        {/* Header */}
-        <div className="mb-8">
-          <h1 className="text-4xl font-light whitespace-nowrap">
-            <span className="text-[#FF6B8A]">{reportData.metadata.consultantName}</span>
-            <span className="text-white"> | Collaborative planning - condensed</span>
-          </h1>
-          <p className="text-xl italic text-gray-400 mt-4">
-            Week {reportData.metadata.weekNumber}: {reportData.metadata.dateRange}
-          </p>
-        </div>
+        {/* Sticky Header */}
+        <div className="sticky top-0 z-50 bg-[#1E1E1E] pt-8">
+          {/* Header */}
+          <div className="mb-8">
+            <h1 className="text-4xl font-light whitespace-nowrap">
+              <span className="text-[#FF6B8A]">{reportData.metadata.consultantName}</span>
+              <span className="text-white"> | Collaborative planning - condensed</span>
+            </h1>
+            <p className="text-xl italic text-gray-400 mt-4">
+              Week {reportData.metadata.weekNumber}: {reportData.metadata.dateRange}
+            </p>
+          </div>
 
-        {/* Divider */}
-        <div className="border-t border-gray-600 my-8"></div>
+          {/* Divider */}
+          <div className="border-t border-gray-600 my-8"></div>
+        </div>
 
         {/* Stats Title */}
         <h2 className="text-4xl font-light mb-12">Your week in numbers [route 1]:</h2>
