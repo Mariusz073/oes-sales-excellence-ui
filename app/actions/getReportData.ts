@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-interface ConversationAnalysis {
+interface ConversationAnalysisCondensed {
   id: number;
   type: string;
   callId: string;
@@ -12,6 +12,16 @@ interface ConversationAnalysis {
   contextAndImpact: string;
   consultantResponse: string;
   recommendedImprovement: string;
+}
+
+interface ConversationAnalysisVerbose {
+  id: number;
+  type: string;
+  callId: string;
+  segmentId?: string;
+  studentTrigger: string;
+  consultantResponse: string;
+  recommendedApproach: string;
 }
 
 interface ThemesData {
@@ -59,10 +69,10 @@ export interface ReportData {
   "Collaborative planning with high-need students:": ThemesData;
   conversationAnalysis: {
     condensed: {
-      conversations: ConversationAnalysis[];
+      conversations: ConversationAnalysisCondensed[];
     };
     verbose: {
-      conversations: ConversationAnalysis[];
+      conversations: ConversationAnalysisVerbose[];
     };
   };
 }

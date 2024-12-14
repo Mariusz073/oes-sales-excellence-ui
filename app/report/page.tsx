@@ -9,10 +9,6 @@ export default async function ReportPage({
 
   if (!reportData) return <div>Loading...</div>;
 
-  // Log the data structure
-  console.log('Report Data:', JSON.stringify(reportData, null, 2));
-
-  // Access the themes data directly from the root
   const themesData = {
     positive_themes: reportData["Collaborative planning with high-need students:"]?.positive_themes || [],
     improvement_themes: reportData["Collaborative planning with high-need students:"]?.improvement_themes || []
@@ -214,6 +210,42 @@ export default async function ReportPage({
             ))}
           </div>
         </div>
+
+        {/* Verbose Conversation Analysis */}
+        <div className="mt-16 space-y-12">
+          {reportData.conversationAnalysis.verbose.conversations.map((conv) => (
+            <div key={conv.id} className="space-y-6">
+              <h2 className="text-3xl font-light">
+                {conv.id}. {conv.type}
+              </h2>
+
+              {/* Student Trigger */}
+              <div className="space-y-2">
+                <h3 className="text-xl font-light italic">Student trigger:</h3>
+                <div className="border border-[#4CAF50] rounded-lg p-6">
+                  <p className="text-lg font-light">{conv.studentTrigger}</p>
+                </div>
+              </div>
+
+              {/* Consultant Response */}
+              <div className="space-y-2">
+                <h3 className="text-xl font-light italic">Consultant response:</h3>
+                <div className="border border-[#4CAF50] rounded-lg p-6">
+                  <p className="text-lg font-light">{conv.consultantResponse}</p>
+                </div>
+              </div>
+
+              {/* Recommended Approach */}
+              <div className="space-y-2">
+                <h3 className="text-xl font-light italic">Recommended approach:</h3>
+                <div className="border border-[#FF6B8A] rounded-lg p-6">
+                  <p className="text-lg font-light">{conv.recommendedApproach}</p>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+
       </div>
     </div>
   );
