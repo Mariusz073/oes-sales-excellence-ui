@@ -79,6 +79,88 @@ export default async function ReportPage({
           </table>
         </div>
 
+        {/* Bar Graph */}
+        <div className="mt-8 bg-[#252525] rounded-lg p-10">
+          {/* Graph Title */}
+          <h2 className="text-3xl font-light mb-8">Collaborative planning with high-need students:</h2>
+
+          <div className="flex items-center gap-6 mb-20">
+            <div className="flex items-center gap-2">
+              <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
+              <span className="text-sm text-gray-300">Team average</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-6 h-[2px] bg-[#4CAF50]"></div>
+              <span className="text-sm text-gray-300">Sales consultant average</span>
+            </div>
+          </div>
+
+          <div className="relative h-[400px] mt-12 mb-16">
+            {/* Y-axis labels */}
+            <div className="absolute -left-6 -top-12 h-[112%] flex flex-col justify-between text-xs text-gray-400">
+              <span>% alignment</span>
+              <span>100</span>
+              <span>90</span>
+              <span>80</span>
+              <span>70</span>
+              <span>60</span>
+              <span>50</span>
+              <span>40</span>
+              <span>30</span>
+              <span>20</span>
+              <span>10</span>
+              <span>0</span>
+            </div>
+
+            {/* Bar */}
+            <div className="relative h-[98%] ml-8">
+              <div className="absolute bottom-0 w-16 bg-[#1E1E1E] h-full">
+                <div 
+                  className="absolute bottom-0 w-full bg-[#4CAF50]" 
+                  style={{ 
+                    height: `${(reportData.average_finalRanking_score_eligible_transcripts / 380) * 100}%` 
+                  }}
+                ></div>
+                {/* Red line for team average */}
+                <div 
+                  className="absolute w-full h-[4px] bg-[#FF6B8A]" 
+                  style={{ 
+                    bottom: `${(reportData.team_average_finalRanking_score_eligible_transcripts / 380) * 100}%` 
+                  }}
+                ></div>
+              </div>
+              {/* X-axis label */}
+              <div className="absolute bottom-[-40px] text-xs text-gray-400 whitespace-nowrap">
+                week_{reportData.metadata.weekNumber}
+                <br />
+                {reportData.metadata.dateRange}
+              </div>
+
+              {/* Timeline */}
+              <div className="absolute bottom-[-80px] left-0 right-0">
+                {/* Week past section */}
+                <div className="relative float-left w-[70px]">
+                  <div className="flex items-center">
+                    <div className="w-2 h-2 rounded-full bg-white"></div>
+                    <div className="w-full h-[1px] bg-white"></div>
+                    <div className="w-2 h-2 rounded-full bg-white"></div>
+                  </div>
+                  <span className="absolute w-full text-center text-xs text-gray-400 mt-2">Week past</span>
+                </div>
+                
+                {/* Future weeks section */}
+                <div className="relative ml-4 flex-1" style={{ marginLeft: '70px' }}>
+                  <div className="flex items-center">
+                    <div className="flex-1 h-[1px] bg-white"></div>
+                    <div className="w-2 h-2 rounded-full bg-white"></div>
+                  </div>
+                  <span className="absolute left-1/2 -translate-x-1/2 text-xs text-gray-400 mt-2">Future weeks</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         {/* Conversation Analysis */}
         <div className="mt-12">
           <h2 className="text-2xl mb-6">Conversation Analysis</h2>

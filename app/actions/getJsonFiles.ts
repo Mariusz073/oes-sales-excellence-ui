@@ -16,7 +16,7 @@ export async function getJsonFiles(): Promise<{ files: JsonFile[] }> {
       .filter((file: string) => file.endsWith('.json'))
       .map((filename: string) => ({
         filename,
-        displayName: filename.replace('.json', '')
+        displayName: filename.replace(' report.json', '').replace('.json', '')
       }));
     
     return { files };

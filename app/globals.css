@@ -7,3 +7,11 @@
   writing-mode: vertical-lr;
   height: auto;
 }
+
+.title {
+  @apply text-4xl font-light mb-8 text-[#FF6B8A];
+}
+
+.button {
+  @apply bg-[#FF6B8A] text-white px-6 py-3 rounded-lg hover:bg-[#ff8da6] transition-colors duration-200;
+}

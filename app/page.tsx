@@ -35,16 +35,16 @@ export default function Home() {
   };
 
   return (
-    <main className="p-5">
+    <main className="min-h-screen bg-[#1E1E1E] text-white p-8 font-extralight">
       <div className="max-w-7xl mx-auto">
         <h1 className="title">Individual Report Page</h1>
         <div className="space-y-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
               <select
-                className="bg-neutral-800 text-white px-4 py-3 rounded-lg text-base 
+                className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                           border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                          appearance-none cursor-pointer min-w-[200px]"
+                          appearance-none cursor-pointer min-w-[200px] font-extralight"
                 value={selectedFile}
                 onChange={(e) => setSelectedFile(e.target.value)}
                 style={{
