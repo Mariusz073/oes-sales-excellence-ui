@@ -30,7 +30,9 @@ export default function Home() {
 
   const handleViewReport = () => {
     if (selectedFile) {
-      router.push(`/report?file=${encodeURIComponent(selectedFile)}`);
+      // Ensure we're using the .json extension
+      const filename = selectedFile.endsWith('.json') ? selectedFile : `${selectedFile}.json`;
+      router.push(`/report?file=${encodeURIComponent(filename)}`);
     }
   };
 

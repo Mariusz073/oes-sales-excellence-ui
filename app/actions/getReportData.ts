@@ -79,7 +79,10 @@ export interface ReportData {
 
 export async function getReportData(filename: string): Promise<ReportData> {
   const jsonDirectory = path.join(process.cwd(), 'json_reports');
-  const filePath = path.join(jsonDirectory, filename);
+  
+  // Ensure filename has .json extension
+  const jsonFilename = filename.replace(/\.[^/.]+$/, '') + '.json';
+  const filePath = path.join(jsonDirectory, jsonFilename);
   
   try {
     const fileContent = fs.readFileSync(filePath, 'utf8');

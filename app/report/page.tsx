@@ -1,4 +1,5 @@
 import { getReportData } from "../actions/getReportData";
+import CreatePdfButton from "../components/CreatePdfButton";
 
 export default async function ReportPage({
   searchParams,
@@ -21,43 +22,48 @@ export default async function ReportPage({
         <div className="sticky top-0 z-50 bg-[#1E1E1E] pt-8">
           {/* Header */}
           <div className="mb-8">
-            <h1 className="text-4xl font-light whitespace-nowrap">
-              <span className="text-[#FF6B8A]">{reportData.metadata.consultantName}</span>
-              <span className="text-white"> | Collaborative planning - condensed</span>
+            <h1 className="text-5xl whitespace-nowrap">
+              <span className="text-[#FF6B8A] font-bold">{reportData.metadata.consultantName} |</span>
+              <span className="text-white text-4xl"> Collaborative planning - condensed</span>
             </h1>
             <p className="text-xl italic text-gray-400 mt-4">
               Week {reportData.metadata.weekNumber}: {reportData.metadata.dateRange}
             </p>
+            
+            {/* Create PDF Button */}
+            <div className="flex justify-center mt-0">
+              <CreatePdfButton />
+            </div>
           </div>
 
           {/* Divider */}
           <div className="border-t border-gray-600 my-8"></div>
         </div>
 
-        {/* Stats Title */}
-        <h2 className="text-4xl font-light mb-12">Your week in numbers [route 1]:</h2>
-
         {/* Stats Table */}
-        <div className="bg-[#252525] rounded-lg p-10">
+        <div className="bg-[#252525] rounded-lg px-10 pb-10">
+          {/* Stats Title */}
+          <h2 className="text-2xl font-bold pt-8 mb-8">Your week in numbers [route 1]:</h2>
+
           <table className="w-full border-separate border-spacing-x-6">
             <thead>
               <tr>
                 <th className="text-left pb-8 w-12"></th>
                 <th className="text-center pb-8 w-1/3">
-                  <div className="bg-[#303030] rounded px-4 py-1 text-xl font-light">Total calls</div>
+                  <div className="bg-[#303030] rounded px-4 py-6 text-xl font-light">Total calls</div>
                 </th>
                 <th className="text-center pb-8 w-1/3">
-                  <div className="bg-[#303030] rounded px-4 py-1 text-xl font-light">% over 2 mins</div>
+                  <div className="bg-[#303030] rounded px-4 py-6 text-xl font-light">% over 2 mins</div>
                 </th>
                 <th className="text-center pb-8 w-1/3">
-                  <div className="bg-[#303030] rounded px-4 py-1 text-xl font-light">talking:listening</div>
+                  <div className="bg-[#303030] rounded px-4 py-6 text-xl font-light">talking:listening</div>
                 </th>
               </tr>
             </thead>
-            <tbody className="text-2xl tracking-wide">
+            <tbody className="text-3xl tracking-wide">
               <tr>
                 <td className="relative w-12">
-                  <div className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/70 text-lg -rotate-180" style={{ writingMode: 'vertical-lr', height: 'auto' }}>Individual</div>
+                  <div className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/80 text-lg -rotate-180" style={{ writingMode: 'vertical-lr', height: 'auto' }}>Individual</div>
                 </td>
                 <td className="text-center py-6 font-extralight">
                   {Math.round(reportData.total_number_of_calls)}
@@ -66,12 +72,12 @@ export default async function ReportPage({
                   {Math.round(reportData.percent_of_calls_over_2_minutes.percentage)}%
                 </td>
                 <td className="text-center py-6 font-extralight">
-                  {Math.round(reportData.average_talking_percentage.individual_average)}:{Math.round(100 - reportData.average_talking_percentage.individual_average)}
+                  {Math.round(reportData.average_talking_percentage.individual_average)} : {Math.round(100 - reportData.average_talking_percentage.individual_average)}
                 </td>
               </tr>
               <tr>
                 <td className="relative w-12">
-                  <div className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/70 text-lg -rotate-180" style={{ writingMode: 'vertical-lr', height: 'auto' }}>Team</div>
+                  <div className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/80 text-lg -rotate-180" style={{ writingMode: 'vertical-lr', height: 'auto' }}>Team</div>
                 </td>
                 <td className="text-center py-6 font-extralight">
                   {Math.round(reportData.team_average_total_number_of_calls_per_sales_consultant)}
@@ -80,7 +86,7 @@ export default async function ReportPage({
                   {Math.round(reportData.percent_of_calls_over_2_minutes.team_average_percentage)}%
                 </td>
                 <td className="text-center py-6 font-extralight">
-                  {Math.round(reportData.average_talking_percentage.team_average)}:{Math.round(100 - reportData.average_talking_percentage.team_average)}
+                  {Math.round(reportData.average_talking_percentage.team_average)} : {Math.round(100 - reportData.average_talking_percentage.team_average)}
                 </td>
               </tr>
             </tbody>
@@ -90,7 +96,7 @@ export default async function ReportPage({
         {/* Bar Graph */}
         <div className="mt-8 bg-[#252525] rounded-lg p-10">
           {/* Graph Title */}
-          <h2 className="text-3xl font-light mb-8">Collaborative planning with high-need students:</h2>
+          <h2 className="text-2xl mb-6 font-bold">Collaborative planning with high-need students:</h2>
 
           <div className="flex items-center gap-6 mb-4">
             <div className="flex items-center gap-2">
@@ -171,7 +177,7 @@ export default async function ReportPage({
 
         {/* Qualitative Analysis Headlines */}
         <div className="mt-16">
-          <h2 className="text-4xl font-light mb-8">Qualitative analysis headlines:</h2>
+          <h2 className="text-2xl mb-6 font-bold">Qualitative analysis headlines:</h2>
           
           <div className="grid grid-cols-2 gap-8">
             {/* Highlights */}
@@ -198,7 +204,7 @@ export default async function ReportPage({
 
         {/* Conversation Analysis */}
         <div className="mt-12">
-          <h2 className="text-2xl mb-6">Conversation Analysis</h2>
+          <h2 className="text-2xl mb-6 font-bold">Conversation Analysis</h2>
           <div className="space-y-4">
             {reportData.conversationAnalysis.condensed.conversations.map((conv) => (
               <div key={conv.id} className="bg-[#2A2A2A] p-6 rounded">
@@ -218,7 +224,7 @@ export default async function ReportPage({
         <div className="mt-16 space-y-12">
           {reportData.conversationAnalysis.verbose.conversations.map((conv) => (
             <div key={conv.id} className="space-y-6">
-              <h2 className="text-3xl font-light">
+              <h2 className="text-2xl mb-6 font-bold">
                 {conv.id}. {conv.type}
               </h2>
 
