@@ -14,6 +14,11 @@ interface ConversationAnalysis {
   recommendedImprovement: string;
 }
 
+interface ThemesData {
+  positive_themes: string[];
+  improvement_themes: string[];
+}
+
 export interface ReportData {
   metadata: {
     consultantName: string;
@@ -51,6 +56,7 @@ export interface ReportData {
   average_finalRanking_score_all_transcripts_over_2_mins: number;
   team_average_finalRanking_score_eligible_transcripts: number;
   team_average_finalRanking_score_all_transcripts_over_2_mins: number;
+  "Collaborative planning with high-need students:": ThemesData;
   conversationAnalysis: {
     condensed: {
       conversations: ConversationAnalysis[];

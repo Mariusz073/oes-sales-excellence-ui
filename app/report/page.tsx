@@ -9,6 +9,15 @@ export default async function ReportPage({
 
   if (!reportData) return <div>Loading...</div>;
 
+  // Log the data structure
+  console.log('Report Data:', JSON.stringify(reportData, null, 2));
+
+  // Access the themes data directly from the root
+  const themesData = {
+    positive_themes: reportData["Collaborative planning with high-need students:"]?.positive_themes || [],
+    improvement_themes: reportData["Collaborative planning with high-need students:"]?.improvement_themes || []
+  };
+
   return (
     <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
       <div className="max-w-5xl mx-auto">
@@ -84,7 +93,7 @@ export default async function ReportPage({
           {/* Graph Title */}
           <h2 className="text-3xl font-light mb-8">Collaborative planning with high-need students:</h2>
 
-          <div className="flex items-center gap-6 mb-20">
+          <div className="flex items-center gap-6 mb-4">
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
               <span className="text-sm text-gray-300">Team average</span>
@@ -95,9 +104,9 @@ export default async function ReportPage({
             </div>
           </div>
 
-          <div className="relative h-[400px] mt-12 mb-16">
+          <div className="relative h-[400px] mt-16 mb-16">
             {/* Y-axis labels */}
-            <div className="absolute -left-6 -top-12 h-[112%] flex flex-col justify-between text-xs text-gray-400">
+            <div className="absolute -left-2 -top-11 h-[110%] flex flex-col justify-between text-xs text-gray-400">
               <span>% alignment</span>
               <span>100</span>
               <span>90</span>
@@ -137,7 +146,7 @@ export default async function ReportPage({
               </div>
 
               {/* Timeline */}
-              <div className="absolute bottom-[-80px] left-0 right-0">
+              <div className="absolute bottom-[-60px] left-0 right-5">
                 {/* Week past section */}
                 <div className="relative float-left w-[70px]">
                   <div className="flex items-center">
@@ -157,6 +166,33 @@ export default async function ReportPage({
                   <span className="absolute left-1/2 -translate-x-1/2 text-xs text-gray-400 mt-2">Future weeks</span>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Qualitative Analysis Headlines */}
+        <div className="mt-16">
+          <h2 className="text-4xl font-light mb-8">Qualitative analysis headlines:</h2>
+          
+          <div className="grid grid-cols-2 gap-8">
+            {/* Highlights */}
+            <div className="bg-[#252525] rounded-lg p-8">
+              <h3 className="text-3xl font-light mb-6 text-[#4CAF50]">Highlights:</h3>
+              <ul className="space-y-4">
+                {themesData.positive_themes.map((theme: string, index: number) => (
+                  <li key={index} className="text-xl font-light">{theme}</li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Opportunities */}
+            <div className="bg-[#252525] rounded-lg p-8">
+              <h3 className="text-3xl font-light mb-6 text-[#FF6B8A]">Opportunities:</h3>
+              <ul className="space-y-4">
+                {themesData.improvement_themes.map((theme: string, index: number) => (
+                  <li key={index} className="text-xl font-light">{theme}</li>
+                ))}
+              </ul>
             </div>
           </div>
         </div>
