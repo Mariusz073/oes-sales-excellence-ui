@@ -22,7 +22,7 @@ interface WeeklyInitiativeProps {
 }
 
 const CircularProgress = ({ percentage, color }: { percentage: number; color: string }) => (
-  <div className="relative w-20 h-20">
+  <div className="relative w-20 h-20" style={{ marginRight: '150px' }}>
     <svg className="w-full h-full" viewBox="0 0 100 100">
       {/* Background circle */}
       <circle
@@ -145,13 +145,13 @@ export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, sub
 
             <div className="flex items-start gap-6">
               <div className="flex-1">
-                <div className="text-[#FF6B8A] text-xl mb-2">Partial compliance</div>
+                <div className="text-[#FFA500] text-xl mb-2">Partial compliance</div>
                 <div className="flex items-center gap-2">
                   <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
-                    <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#FF6B8A" strokeWidth="2"/>
-                    <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#FF6B8A" strokeWidth="2"/>
+                    <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#FFA500" strokeWidth="2"/>
+                    <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#FFA500" strokeWidth="2"/>
                   </svg>
-                  <span className="text-[#FF6B8A]">{partialCompliance.change}%</span>
+                  <span className="text-[#FFA500]">{partialCompliance.change}%</span>
                   <span className="text-gray-400">Since last week</span>
                 </div>
               </div>
