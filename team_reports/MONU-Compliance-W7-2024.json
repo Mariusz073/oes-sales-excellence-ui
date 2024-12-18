@@ -12,14 +12,19 @@
             "partial": 27
         },
         {
-            "title": "10-25_11-01\nweek 1",
+            "title": "10-25_11-01\nweek 5",
             "full": 26,
-            "partial": 35
+            "partial": 45
         },
         {
-            "title": "10-25_11-01\nweek 2",
-            "full": 26,
-            "partial": 49
+            "title": "10-25_11-01\nweek 6",
+            "full": 35,
+            "partial": 41
+        },
+        {
+            "title": "10-22_05-01\nweek 7",
+            "full": 45,
+            "partial": 38
         }
     ],
     "subRequirements": {
@@ -58,7 +63,7 @@
             {
                 "name": "Bob Test",
                 "totalOutbound": 156,
-                "compliant": 146
+                "compliant": 100
             }
         ]
     },
