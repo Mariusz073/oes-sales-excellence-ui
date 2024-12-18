@@ -40,8 +40,7 @@ export default function Home() {
 
   const handleViewTeamReport = () => {
     if (selectedTeam && selectedAnalysis) {
-      // TODO: Implement team report navigation
-      console.log('View team report:', selectedTeam, selectedAnalysis);
+      router.push(`/team_report?team=${selectedTeam}&analysis=${selectedAnalysis}`);
     }
   };
 
