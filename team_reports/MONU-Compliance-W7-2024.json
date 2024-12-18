@@ -1,0 +1,70 @@
+{
+    "complianceRequirement": "Call Recording Disclosure Compliance",
+    "week": 7,
+    "university": "Monash",
+    "reportingPeriod": "12-09_12-13",
+    "firstPageTitle": "Monash full compliance has <em>improved remarkably this week</em>, driven by improved disclosure rates within 2 minutes",
+    "secondPageTitle": "<em>Weekly report initiative 1 |</em> Rapidly improve call recording disclosure compliance",
+    "complianceGraph": [
+        {
+            "title": "Feb-Mar 2024\n2000 hours",
+            "full": 24,
+            "partial": 27
+        },
+        {
+            "title": "10-25_11-01\nweek 1",
+            "full": 26,
+            "partial": 35
+        },
+        {
+            "title": "10-25_11-01\nweek 2",
+            "full": 26,
+            "partial": 49
+        }
+    ],
+    "subRequirements": {
+        "data": [
+            {
+                "title": "Timing of disclosure",
+                "current": 66,
+                "lastWeek": 62
+            },
+            {
+                "title": "Content of disclosure",
+                "current": 82,
+                "lastWeek": 78
+            }
+        ],
+        "verdictsCount": 350
+    },
+    "individualPerformance": {
+        "verdictsCount": 345,
+        "consultantResults": [
+            {
+                "name": "Olive Jerome",
+                "totalOutbound": 124,
+                "compliant": 118
+            },
+            {
+                "name": "Tayla Viglione",
+                "totalOutbound": 156,
+                "compliant": 146
+            },
+            {
+                "name": "Alice Test",
+                "totalOutbound": 145,
+                "compliant": 118
+            },
+            {
+                "name": "Bob Test",
+                "totalOutbound": 156,
+                "compliant": 146
+            }
+        ]
+    },
+    "metadata": {
+        "generatedDate": "2024-12-13",
+        "reportId": "MONU-W7-2024",
+        "dataSource": "OES Sales Excellence.AI"
+    }
+}

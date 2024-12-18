@@ -13,6 +13,8 @@ export default function Home() {
   const router = useRouter();
   const [jsonFiles, setJsonFiles] = useState<JsonFile[]>([]);
   const [selectedFile, setSelectedFile] = useState<string>('');
+  const [selectedTeam, setSelectedTeam] = useState<string>('');
+  const [selectedAnalysis, setSelectedAnalysis] = useState<string>('');
 
   useEffect(() => {
     // Fetch JSON files when component mounts
@@ -33,6 +35,13 @@ export default function Home() {
       // Ensure we're using the .json extension
       const filename = selectedFile.endsWith('.json') ? selectedFile : `${selectedFile}.json`;
       router.push(`/report?file=${encodeURIComponent(filename)}`);
+    }
+  };
+
+  const handleViewTeamReport = () => {
+    if (selectedTeam && selectedAnalysis) {
+      // TODO: Implement team report navigation
+      console.log('View team report:', selectedTeam, selectedAnalysis);
     }
   };
 
@@ -72,6 +81,54 @@ export default function Home() {
                 View report
               </button>
             </div>
+          </div>
+        </div>
+        <h1 className="title font-bold mt-16">Team Report Page</h1>
+        <div className="space-y-4 mt-4">
+          <div className="flex items-center gap-4">
+            <select
+              className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+                        border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
+                        appearance-none cursor-pointer min-w-[200px] font-normal"
+              value={selectedTeam}
+              onChange={(e) => setSelectedTeam(e.target.value)}
+              style={{
+                backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+                backgroundRepeat: 'no-repeat',
+                backgroundPosition: 'right 1rem center',
+                backgroundSize: '1em'
+              }}
+            >
+              <option value="">Team</option>
+              <option value="monash">Monash</option>
+              <option value="sol">SOL</option>
+            </select>
+
+            <select
+              className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+                        border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
+                        appearance-none cursor-pointer min-w-[200px] font-normal"
+              value={selectedAnalysis}
+              onChange={(e) => setSelectedAnalysis(e.target.value)}
+              style={{
+                backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+                backgroundRepeat: 'no-repeat',
+                backgroundPosition: 'right 1rem center',
+                backgroundSize: '1em'
+              }}
+            >
+              <option value="">Kind of analysis</option>
+              <option value="compliance">Compliance - Call recording disclosure</option>
+              <option value="behavioral">Behavioral-Collaborative planning</option>
+            </select>
+
+            <button
+              className={`button ${!selectedTeam || !selectedAnalysis ? 'opacity-50 cursor-not-allowed' : ''}`}
+              onClick={handleViewTeamReport}
+              disabled={!selectedTeam || !selectedAnalysis}
+            >
+              View report
+            </button>
           </div>
         </div>
       </div>
