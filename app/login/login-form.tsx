@@ -88,9 +88,9 @@ export default function LoginForm({ callbackUrl }: { callbackUrl?: string }) {
 
   if (showForgotPassword) {
     return (
-      <div className="mt-8 space-y-6">
-        <div className="rounded-md shadow-sm -space-y-px">
-          <form onSubmit={handleForgotPassword} className="space-y-4">
+      <div className="bg-[#252525] p-6 rounded-lg shadow-lg">
+        <div className="rounded-md">
+          <form onSubmit={handleForgotPassword} className="space-y-3">
             <div>
               <label htmlFor="forgot-password-email" className="sr-only">
                 Username
@@ -100,7 +100,7 @@ export default function LoginForm({ callbackUrl }: { callbackUrl?: string }) {
                 type="text"
                 value={forgotPasswordEmail}
                 onChange={(e) => setForgotPasswordEmail(e.target.value)}
-                className="appearance-none rounded-md relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm"
+                className="bg-[#252525] text-white px-3 py-2 rounded-lg text-base border-none outline-none focus:ring-2 focus:ring-[#FF6B8A] appearance-none w-full font-normal"
                 placeholder="Enter your username"
               />
             </div>
@@ -115,18 +115,18 @@ export default function LoginForm({ callbackUrl }: { callbackUrl?: string }) {
                 {forgotPasswordMessage}
               </p>
             )}
-            <div className="flex items-center justify-between">
+            <div className="flex items-center justify-between px-1">
               <button
                 type="button"
                 onClick={() => setShowForgotPassword(false)}
-                className="text-sm text-indigo-600 hover:text-indigo-500"
+                className="text-sm text-[#FF6B8A] hover:text-[#ff8da6]"
               >
                 Back to login
               </button>
               <button
                 type="submit"
                 disabled={isLoading}
-                className="group relative flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 disabled:opacity-50"
+                className={`button ${isLoading ? 'opacity-50' : ''}`}
               >
                 {isLoading ? "Processing..." : "Reset Password"}
               </button>
@@ -138,8 +138,8 @@ export default function LoginForm({ callbackUrl }: { callbackUrl?: string }) {
   }
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="mt-8 space-y-6">
-      <div className="rounded-md shadow-sm -space-y-px">
+    <form onSubmit={handleSubmit(onSubmit)} className="bg-[#252525] p-6 rounded-lg shadow-lg">
+      <div className="space-y-3">
         <div>
           <label htmlFor="username" className="sr-only">
             Username
@@ -148,11 +148,11 @@ export default function LoginForm({ callbackUrl }: { callbackUrl?: string }) {
             id="username"
             type="text"
             {...register("username")}
-            className="appearance-none rounded-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-t-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm"
+            className="bg-[#252525] text-white px-3 py-2 rounded-lg text-base border-none outline-none focus:ring-2 focus:ring-[#FF6B8A] appearance-none w-full font-normal"
             placeholder="Username"
           />
           {errors.username && (
-            <p className="text-red-500 text-xs mt-1">{errors.username.message}</p>
+            <p className="mt-1 text-sm text-red-600">{errors.username.message}</p>
           )}
         </div>
         <div>
@@ -163,29 +163,29 @@ export default function LoginForm({ callbackUrl }: { callbackUrl?: string }) {
             id="password"
             type="password"
             {...register("password")}
-            className="appearance-none rounded-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-b-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm"
+            className="bg-[#252525] text-white px-3 py-2 rounded-lg text-base border-none outline-none focus:ring-2 focus:ring-[#FF6B8A] appearance-none w-full font-normal"
             placeholder="Password"
           />
           {errors.password && (
-            <p className="text-red-500 text-xs mt-1">{errors.password.message}</p>
+            <p className="mt-1 text-sm text-red-600">{errors.password.message}</p>
           )}
         </div>
       </div>
 
-      {error && <p className="text-red-500 text-sm text-center">{error}</p>}
+      {error && <p className="text-red-600 text-sm text-center">{error}</p>}
 
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between px-1 mt-4">
         <button
           type="button"
           onClick={() => setShowForgotPassword(true)}
-          className="text-sm text-indigo-600 hover:text-indigo-500"
+          className="text-sm text-[#FF6B8A] hover:text-[#ff8da6]"
         >
           Forgot password?
         </button>
         <button
           type="submit"
           disabled={isLoading}
-          className="group relative flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 disabled:opacity-50"
+          className={`button ${isLoading ? 'opacity-50' : ''}`}
         >
           {isLoading ? "Signing in..." : "Sign in"}
         </button>

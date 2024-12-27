@@ -20,14 +20,12 @@ export default async function LoginPage({
   }
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-6">
-      <div className="w-full max-w-md space-y-8">
+    <main className="min-h-screen bg-[#1E1E1E] text-white flex items-center justify-center font-normal">
+      <div className="w-full max-w-md p-8">
+        <h1 className="title text-center mb-8">Sign in to your account</h1>
         <div>
-          <h2 className="mt-6 text-center text-3xl font-bold tracking-tight">
-            Sign in to your account
-          </h2>
+          <LoginForm callbackUrl={searchParams?.callbackUrl} />
         </div>
-        <LoginForm callbackUrl={searchParams?.callbackUrl} />
       </div>
     </main>
   );
