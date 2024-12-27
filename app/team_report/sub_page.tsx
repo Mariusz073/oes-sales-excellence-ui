@@ -15,10 +15,13 @@ interface WeeklyInitiativeProps {
   }>;
   consultants: Array<{
     name: string;
-    compliant: number;
-    totalOutbound: number;
-    ratio: number;
+    result: string;
+    percentage: number;
   }>;
+  averageResult: {
+    name: string;
+    result: string;
+  };
 }
 
 const CircularProgress = ({ percentage, color }: { percentage: number; color: string }) => (
@@ -107,7 +110,7 @@ const SubRequirementsBar = ({ data }: { data: { current: number; lastWeek: numbe
   </div>
 );
 
-export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, subRequirements, consultants }: WeeklyInitiativeProps) => {
+export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, subRequirements, consultants, averageResult }: WeeklyInitiativeProps) => {
   // Extract title and highlight the text between <em> tags in red
   const titleParts = title.split(/<em>|<\/em>/);
   const formattedTitle = titleParts.map((part: string, index: number) => 
@@ -217,11 +220,23 @@ export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, sub
                   {index + 1}
                 </div>
                 <span className="flex-grow">{consultant.name}</span>
-                <span>{consultant.compliant}/{consultant.totalOutbound} ({Math.round(consultant.ratio * 100)}%)</span>
+                <span>{consultant.result}</span>
               </div>
             ))}
 
-            {/* Ellipsis */}
+            {/* First ellipsis */}
+            <div className="text-center text-2xl text-gray-500">...</div>
+
+            {/* Team average */}
+            <div className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+              <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
+                -
+              </div>
+              <span className="flex-grow">{averageResult.name}</span>
+              <span>{averageResult.result}</span>
+            </div>
+
+            {/* Second ellipsis */}
             <div className="text-center text-2xl text-gray-500">...</div>
 
             {/* Bottom 2 performers */}
@@ -231,7 +246,7 @@ export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, sub
                   {consultants.length - 1 + index}
                 </div>
                 <span className="flex-grow">{consultant.name}</span>
-                <span>{consultant.compliant}/{consultant.totalOutbound} ({Math.round(consultant.ratio * 100)}%)</span>
+                <span>{consultant.result}</span>
               </div>
             ))}
           </div>

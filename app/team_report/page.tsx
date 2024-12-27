@@ -1,10 +1,10 @@
 import { getTeamReportData } from "../actions/getTeamReportData";
 import { WeeklyInitiative } from "./sub_page";
 
-interface ComplianceGraph {
+interface Graph {
   title: string;
-  full: number;
-  partial: number;
+  green: number;
+  red: number;
 }
 
 interface SubRequirement {
@@ -15,14 +15,26 @@ interface SubRequirement {
 
 interface ConsultantResult {
   name: string;
-  totalOutbound: number;
-  compliant: number;
+  result: string;
+}
+
+interface AverageResult {
+  name: string;
+  result: string;
 }
 
 interface TeamReportData {
+  type: string;
+  requirement: string;
   firstPageTitle: string;
   secondPageTitle: string;
-  complianceGraph: ComplianceGraph[];
+  graph: {
+    bars: Graph[];
+    greenLabel: string;
+    redLabel: string;
+    blackLabel: string;
+    resultLabel: string;
+  };
   subRequirements: {
     data: SubRequirement[];
     verdictsCount: number;
@@ -30,6 +42,7 @@ interface TeamReportData {
   individualPerformance: {
     verdictsCount: number;
     consultantResults: ConsultantResult[];
+    averageResult: AverageResult;
   };
 }
 
@@ -55,31 +68,24 @@ export default async function TeamReportPage({
   );
 
   // Calculate compliance changes
-  const lastIndex = reportData.complianceGraph.length - 1;
+  const lastIndex = reportData.graph.bars.length - 1;
   const prevIndex = lastIndex - 1;
-  const fullComplianceChange = reportData.complianceGraph[lastIndex].full - reportData.complianceGraph[prevIndex].full;
-  const partialComplianceChange = reportData.complianceGraph[lastIndex].partial - reportData.complianceGraph[prevIndex].partial;
+  const fullComplianceChange = reportData.graph.bars[lastIndex].green - reportData.graph.bars[prevIndex].green;
+  const partialComplianceChange = reportData.graph.bars[lastIndex].red - reportData.graph.bars[prevIndex].red;
 
-  // Sort consultants by compliance ratio and handle ties
+  // Sort consultants by compliance percentage
   const sortedConsultants = [...reportData.individualPerformance.consultantResults]
     .map(consultant => ({
       ...consultant,
-      ratio: consultant.compliant / consultant.totalOutbound
+      percentage: parseInt(consultant.result.match(/\((\d+)%\)$/)?.[1] || '0')
     }))
-    .sort((a, b) => {
-      const ratioA = a.compliant / a.totalOutbound;
-      const ratioB = b.compliant / b.totalOutbound;
-      if (ratioB === ratioA) {
-        return b.compliant - a.compliant;
-      }
-      return ratioB - ratioA;
-    });
+    .sort((a, b) => b.percentage - a.percentage);
 
   // Create array of 12 positions
   const totalBars = 12;
   const bars = Array.from({ length: totalBars }, (_, index) => {
-    if (index < reportData.complianceGraph.length) {
-      return reportData.complianceGraph[index];
+    if (index < reportData.graph.bars.length) {
+      return reportData.graph.bars[index];
     }
     return null;
   });
@@ -98,18 +104,18 @@ export default async function TeamReportPage({
           <div className="flex items-center gap-6 mb-4">
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
-              <span className="text-sm text-gray-300 font-normal">Partial compliance</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.redLabel}</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#4CAF50]"></div>
-              <span className="text-sm text-gray-300 font-normal">Full compliance</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.greenLabel}</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#1E1E1E]"></div>
-              <span className="text-sm text-gray-300 font-normal">No compliance</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.blackLabel}</span>
             </div>
             <div className="flex items-center gap-2 ml-8">
-              <span className="text-sm text-gray-300 font-normal">86% - Full & Partial compliance combined</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.resultLabel}</span>
             </div>
           </div>
 
@@ -137,22 +143,22 @@ export default async function TeamReportPage({
                   {graph ? (
                     <>
                       <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
-                        {graph.full + graph.partial}%
+                        {graph.green + graph.red}%
                       </div>
                       <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
                         {/* Full compliance bar */}
                         <div 
                           className="absolute bottom-0 w-full bg-[#4CAF50]" 
                           style={{ 
-                            height: `${graph.full}%`
+                            height: `${graph.green}%`
                           }}
                         ></div>
                         {/* Partial compliance bar */}
                         <div 
                           className="absolute w-full bg-[#FF6B8A]" 
                           style={{ 
-                            bottom: `${graph.full}%`,
-                            height: `${graph.partial}%`
+                            bottom: `${graph.green}%`,
+                            height: `${graph.red}%`
                           }}
                         ></div>
                       </div>
@@ -175,15 +181,20 @@ export default async function TeamReportPage({
         <WeeklyInitiative 
           title={reportData.secondPageTitle}
           fullCompliance={{
-            percentage: reportData.complianceGraph[lastIndex].full,
+            percentage: reportData.graph.bars[lastIndex].green,
             change: fullComplianceChange
           }}
           partialCompliance={{
-            percentage: reportData.complianceGraph[lastIndex].partial,
+            percentage: reportData.graph.bars[lastIndex].red,
             change: partialComplianceChange
           }}
           subRequirements={reportData.subRequirements.data}
-          consultants={sortedConsultants}
+          consultants={sortedConsultants.map(consultant => ({
+            name: consultant.name,
+            result: consultant.result,
+            percentage: consultant.percentage
+          }))}
+          averageResult={reportData.individualPerformance.averageResult}
         />
       </div>
     </div>
