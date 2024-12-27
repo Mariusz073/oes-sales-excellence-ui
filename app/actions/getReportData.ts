@@ -78,7 +78,7 @@ export interface ReportData {
 }
 
 export async function getReportData(filename: string): Promise<ReportData> {
-  const jsonDirectory = path.join(process.cwd(), 'json_reports');
+  const jsonDirectory = path.join(process.cwd(), 'app/data/json_reports');
   
   // Ensure filename has .json extension
   const jsonFilename = filename.replace(/\.[^/.]+$/, '') + '.json';

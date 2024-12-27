@@ -9,7 +9,7 @@ interface TeamReportFile {
 }
 
 export async function getTeamReportFiles(): Promise<{ files: TeamReportFile[] }> {
-  const jsonDirectory = path.join(process.cwd(), 'team_reports');
+  const jsonDirectory = path.join(process.cwd(), 'app/data/team_reports');
   
   try {
     const files = fs.readdirSync(jsonDirectory)

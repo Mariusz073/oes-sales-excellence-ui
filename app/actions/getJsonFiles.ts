@@ -9,7 +9,7 @@ interface JsonFile {
 }
 
 export async function getJsonFiles(): Promise<{ files: JsonFile[] }> {
-  const jsonDirectory = path.join(process.cwd(), 'json_reports');
+  const jsonDirectory = path.join(process.cwd(), 'app/data/json_reports');
   
   try {
     const files = fs.readdirSync(jsonDirectory)
