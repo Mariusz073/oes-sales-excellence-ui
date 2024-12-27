@@ -1,7 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-export async function getTeamReportData(team: string, analysisType: string) {
+export async function getTeamReportData(team: string, analysisType: string, week: string) {
   try {
     const teamPrefix = team === 'monash' ? 'MONU' : 'SOLU';
     const analysisKeyword = analysisType === 'compliance' ? 'compliance' : 'behavioral';
@@ -21,12 +21,13 @@ export async function getTeamReportData(team: string, analysisType: string) {
     console.log('Available files:', files);
     console.log('Looking for file with:', { teamPrefix, analysisKeyword });
     
-    // Find file that matches both team prefix and analysis type
+    // Find file that matches team prefix, analysis type, and week number
     const matchingFile = files.find(file => {
       const matchesTeam = file.toLowerCase().includes(teamPrefix.toLowerCase());
       const matchesAnalysis = file.toLowerCase().includes(analysisKeyword.toLowerCase());
-      console.log('Checking file:', file, { matchesTeam, matchesAnalysis });
-      return matchesTeam && matchesAnalysis && file.endsWith('.json');
+      const matchesWeek = file.includes(`W${week}`);
+      console.log('Checking file:', file, { matchesTeam, matchesAnalysis, matchesWeek });
+      return matchesTeam && matchesAnalysis && matchesWeek && file.endsWith('.json');
     });
 
     console.log('Matching file found:', matchingFile);

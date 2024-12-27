@@ -3,28 +3,28 @@
     "requirement": "Collaborative planning",
     "week": 7,
     "university": "Monash",    
-    "reportingPeriod": "12-09_12-13",
+    "reportingPeriod": "11-20_11-27",
     "firstPageTitle": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
     "secondPageTitle": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
     "graph": {
         "bars": [ 
             {
-                "title": "10-25_11-01\nweek 1",
-                "upperBound": 75,
-                "lowerBound": 45,
-                "green": 56
+                "title": "10-05_10-12\nweek 9",
+                "upperBound": 34,
+                "lowerBound": 23,
+                "green": 31
             },
             {
-                "title": "10-25_11-01\nweek 2",
-                "upperBound": 65,
-                "lowerBound": 16,
-                "green": 28
+                "title": "10-13_10-20\nweek 10",
+                "upperBound": 45,
+                "lowerBound": 33,
+                "green": 39
             },
             {
-                "title": "12-02_12-06\nweek 6",
+                "title": "11-20_11-27\nweek 11",
                 "upperBound": 60,
-                "lowerBound": 28,
-                "green": 45
+                "lowerBound": 44,
+                "green": 55
             }
         ],
         "greenLabel": "Team average",
@@ -36,31 +36,31 @@
         "consultantResults": [
             {
                 "name": "Olive Jerome",
-                "result": "59% (29%)"
+                "result": "59% (49%)"
             },
             {
                 "name": "Tayla Viglione",
-                "result": "58% (35%)"
+                "result": "58% (22%)"
             },
             {
                 "name": "Alice Test",
-                "result": "35% (20%)"
+                "result": "35% (65%)"
             },
             {
                 "name": "Bob Test",
-                "result": "28% (38%)"
+                "result": "28% (87%)"
             }
         ],
         "averageResult": {
             "name": "Team average",
-            "result": "48% (35%)"
+            "result": "48% (55%)"
         }
     },
     "weeklyInsights": {
         "verdictsCount": 257,
         "insights": [
             {
-                "title": "[THIS IS PLACEHOLDER CONTENT]",
+                "title": "[THIS IS the title for week 5]",
                 "content": "Consultants frequently missed opportunities to deeply explore and align students’ career aspirations with their educational choices. For instance, a student expressed interest in becoming a Deputy Director (Segment 52, Call ID: 565421068435), but the consultant didn’t fully explore how the Master’s program could support this. Similarly, a student’s interest in AI for medicine (Segment 27, Call ID: 590473617210) was not further explored to create a tailored educational plan.",
                 "borderColor": "red"
             },
@@ -77,8 +77,8 @@
         ]
     },
     "metadata": {
-        "generatedDate": "2024-12-13",
-        "reportId": "MONU-B-COLL-W7-2024",
+        "generatedDate": "2024-11-27",
+        "reportId": "MONU-B-COLL-W5-2024",
         "dataSource": "OES Sales Excellence.AI"
     }
 }

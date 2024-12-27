@@ -1,0 +1,77 @@
+{
+    "type": "Compliance",
+    "requirement": "Call Recording Disclosure Compliance",
+    "week": 7,
+    "university": "Monash",
+    "reportingPeriod": "12-09_12-13",
+    "firstPageTitle": "Monash full compliance has <em>improved remarkably this week</em>, driven by improved disclosure rates within 2 minutes",
+    "secondPageTitle": "<em>Weekly report initiative 1 |</em> Rapidly improve call recording disclosure compliance",
+    "graph": {
+        "bars": [
+            {
+                "title": "Feb-Mar 2024\n2000 hours",
+                "green": 24,
+                "red": 27
+            },
+            {
+                "title": "10-25_11-01\nweek 1",
+                "green": 26,
+                "red": 35
+            },
+            {
+                "title": "10-25_11-01\nweek 2",
+                "green": 26,
+                "red": 49
+            }
+        ],
+        "greenLabel": "Full compliance",
+        "redLabel": "Partial compliance",
+        "blackLabel": "No compliance",
+        "resultLabel": "86% = Full & Partial compliance combined"
+    },
+    "subRequirements": {
+        "data": [
+            {
+                "title": "Timing of disclosure",
+                "current": 66,
+                "lastWeek": 62
+            },
+            {
+                "title": "Content of disclosure",
+                "current": 82,
+                "lastWeek": 78
+            }
+        ],
+        "verdictsCount": 350
+    },
+    "individualPerformance": {
+        "verdictsCount": 345,
+        "consultantResults": [
+            {
+                "name": "Olive Jerome",
+                "result": "9/9 (100%)"
+            },
+            {
+                "name": "Tayla Viglione",
+                "result": "5/30 (17%)"
+            },
+            {
+                "name": "Alice Test",
+                "result": "33/42 (79%)"
+            },
+            {
+                "name": "Bob Test",
+                "result": "21/27 (78%)"
+            }
+        ],
+        "averageResult": {
+            "name": "Team average",
+            "result": "188/345 (52%)"
+        }
+    },
+    "metadata": {
+        "generatedDate": "2024-12-13",
+        "reportId": "MONU-C-CALL-W7-2024",
+        "dataSource": "OES Sales Excellence.AI"
+    }
+}

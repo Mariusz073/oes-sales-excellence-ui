@@ -61,9 +61,9 @@ interface TeamReportData {
 export default async function TeamReportPage({
   searchParams,
 }: {
-  searchParams: { team: string; analysis: string };
+  searchParams: { team: string; analysis: string; week: string };
 }): Promise<JSX.Element> {
-  const reportData = await getTeamReportData(searchParams.team, searchParams.analysis) as TeamReportData | null;
+  const reportData = await getTeamReportData(searchParams.team, searchParams.analysis, searchParams.week) as TeamReportData | null;
 
   if (!reportData) {
     return (
@@ -108,7 +108,9 @@ export default async function TeamReportPage({
     <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
-        <h1 className="title font-bold">Team Report Page</h1>
+        <h1 className="title font-bold">
+          Team Report Page <span className="text-white">- {searchParams.team === 'monash' ? 'Monash' : 'SOL'} - {searchParams.analysis === 'compliance' ? 'Compliance' : 'Collaborative'} - Week {searchParams.week}</span>
+        </h1>
 
         {/* First Bar Graph Section */}
         <div className="mt-8 bg-[#252525] rounded-lg p-10">
