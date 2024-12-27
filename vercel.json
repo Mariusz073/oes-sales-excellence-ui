@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "next.config.mjs",
+      "use": "@vercel/next"
+    }
+  ],
+  "functions": {
+    "app/**": {
+      "includeFiles": "{team_reports,json_reports}/**"
+    }
+  }
+}
