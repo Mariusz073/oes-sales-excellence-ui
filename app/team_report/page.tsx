@@ -25,6 +25,12 @@ interface AverageResult {
   result: string;
 }
 
+interface WeeklyInsight {
+  title: string;
+  content: string;
+  borderColor: string;
+}
+
 interface TeamReportData {
   type: string;
   requirement: string;
@@ -45,6 +51,10 @@ interface TeamReportData {
     verdictsCount: number;
     consultantResults: ConsultantResult[];
     averageResult: AverageResult;
+  };
+  weeklyInsights?: {
+    verdictsCount: number;
+    insights: WeeklyInsight[];
   };
 }
 
@@ -201,6 +211,7 @@ export default async function TeamReportPage({
 
         {/* Second Section - Weekly Report Initiative */}
         <WeeklyInitiative 
+          type={reportData.type}
           title={reportData.secondPageTitle}
           fullCompliance={{
             percentage: reportData.graph.bars[lastIndex].green,
@@ -217,6 +228,8 @@ export default async function TeamReportPage({
             percentage: consultant.percentage
           }))}
           averageResult={reportData.individualPerformance.averageResult}
+          weeklyInsights={reportData.weeklyInsights}
+          individualPerformanceCount={reportData.individualPerformance.verdictsCount}
         />
       </div>
     </div>

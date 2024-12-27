@@ -1,14 +1,21 @@
-interface WeeklyInitiativeProps {
+interface WeeklyInsight {
   title: string;
-  fullCompliance: {
+  content: string;
+  borderColor: string;
+}
+
+interface WeeklyInitiativeProps {
+  type: string;
+  title: string;
+  fullCompliance?: {
     percentage: number;
     change: number;
   };
-  partialCompliance: {
+  partialCompliance?: {
     percentage: number;
     change: number;
   };
-  subRequirements: Array<{
+  subRequirements?: Array<{
     title: string;
     current: number;
     lastWeek: number;
@@ -22,6 +29,11 @@ interface WeeklyInitiativeProps {
     name: string;
     result: string;
   };
+  weeklyInsights?: {
+    verdictsCount: number;
+    insights: WeeklyInsight[];
+  };
+  individualPerformanceCount?: number;
 }
 
 const CircularProgress = ({ percentage, color }: { percentage: number; color: string }) => (
@@ -110,7 +122,17 @@ const SubRequirementsBar = ({ data }: { data: { current: number; lastWeek: numbe
   </div>
 );
 
-export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, subRequirements, consultants, averageResult }: WeeklyInitiativeProps) => {
+export const WeeklyInitiative = ({ 
+  type,
+  title, 
+  fullCompliance, 
+  partialCompliance, 
+  subRequirements, 
+  consultants, 
+  averageResult,
+  weeklyInsights,
+  individualPerformanceCount
+}: WeeklyInitiativeProps) => {
   // Extract title and highlight the text between <em> tags in red
   const titleParts = title.split(/<em>|<\/em>/);
   const formattedTitle = titleParts.map((part: string, index: number) => 
@@ -123,137 +145,211 @@ export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, sub
       <h2 className="text-2xl mb-10 font-semibold border-b border-gray-600 pb-4">{formattedTitle}</h2>
 
       <div className="grid grid-cols-2 gap-8">
-        {/* Left Column */}
-        <div>
-          {/* Compliance Verdict */}
-          <h3 className="text-xl mb-6">Compliance verdict</h3>
-          <div className="space-y-8">
-            <div className="flex items-start gap-6">
-              <div className="flex-1">
-                <div className="text-[#FF6B8A] text-xl mb-2">Full compliance</div>
-                <div className="flex items-center gap-2">
-                  <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
-                    <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#4CAF50" strokeWidth="2"/>
-                    <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#4CAF50" strokeWidth="2"/>
-                  </svg>
-                  <span className="text-[#4CAF50]">+{fullCompliance.change}%</span>
-                  <span className="text-gray-400">Since last week</span>
+        {type === 'Compliance' ? (
+          // Compliance Report Layout
+          <>
+            {/* Left Column */}
+            <div>
+              {/* Compliance Verdict */}
+              <h3 className="text-xl mb-6">Compliance verdict</h3>
+              <div className="space-y-8">
+                <div className="flex items-start gap-6">
+                  <div className="flex-1">
+                    <div className="text-[#FF6B8A] text-xl mb-2">Full compliance</div>
+                    <div className="flex items-center gap-2">
+                      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
+                        <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#4CAF50" strokeWidth="2"/>
+                        <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#4CAF50" strokeWidth="2"/>
+                      </svg>
+                      <span className="text-[#4CAF50]">+{fullCompliance?.change}%</span>
+                      <span className="text-gray-400">Since last week</span>
+                    </div>
+                  </div>
+                  <CircularProgress 
+                    percentage={fullCompliance?.percentage || 0}
+                    color="#4CAF50"
+                  />
+                </div>
+
+                <div className="flex items-start gap-6">
+                  <div className="flex-1">
+                    <div className="text-[#FFA500] text-xl mb-2">Partial compliance</div>
+                    <div className="flex items-center gap-2">
+                      <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
+                        <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#FFA500" strokeWidth="2"/>
+                        <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#FFA500" strokeWidth="2"/>
+                      </svg>
+                      <span className="text-[#FFA500]">{partialCompliance?.change}%</span>
+                      <span className="text-gray-400">Since last week</span>
+                    </div>
+                  </div>
+                  <CircularProgress 
+                    percentage={partialCompliance?.percentage || 0}
+                    color="#FF6B8A"
+                  />
                 </div>
               </div>
-              <CircularProgress 
-                percentage={fullCompliance.percentage}
-                color="#4CAF50"
-              />
+
+              {/* Sub-requirements */}
+              {subRequirements && subRequirements.length > 0 && (
+                <div className="mt-12">
+                  <h3 className="text-xl mb-6">Sub-requirements</h3>
+                  
+                  {/* Legend */}
+                  <div className="flex items-center gap-6 mb-4 text-sm text-gray-400">
+                    <div className="flex items-center gap-2">
+                      <div className="w-4 h-[2px] bg-[#4CAF50]"></div>
+                      <span>This week</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-4 h-[2px] bg-[#FF6B8A]"></div>
+                      <span>Last week</span>
+                    </div>
+                  </div>
+
+                  {/* Y-axis labels */}
+                  <div className="flex mb-6">
+                    <div className="w-12 text-sm text-gray-400">
+                      <div>% fulfilled</div>
+                      <div className="mt-2">100</div>
+                    </div>
+                  </div>
+
+                  {/* Bars */}
+                  <div className="relative pl-12">
+                    {/* Y-axis labels */}
+                    <div className="absolute left-0 top-0 h-[80%] flex flex-col justify-between text-sm text-gray-400">
+                      <span>75</span>
+                      <span>50</span>
+                      <span>25</span>
+                      <span>0</span>
+                    </div>
+
+                    {/* Bars container */}
+                    <div className="flex gap-16">
+                      {subRequirements.map((req, index) => (
+                        <SubRequirementsBar key={index} data={req} />
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              )}
             </div>
 
-            <div className="flex items-start gap-6">
-              <div className="flex-1">
-                <div className="text-[#FFA500] text-xl mb-2">Partial compliance</div>
-                <div className="flex items-center gap-2">
-                  <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
-                    <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#FFA500" strokeWidth="2"/>
-                    <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#FFA500" strokeWidth="2"/>
-                  </svg>
-                  <span className="text-[#FFA500]">{partialCompliance.change}%</span>
-                  <span className="text-gray-400">Since last week</span>
-                </div>
-              </div>
-              <CircularProgress 
-                percentage={partialCompliance.percentage}
-                color="#FF6B8A"
-              />
-            </div>
-          </div>
+            {/* Right Column - Individual Performance */}
+            <div>
+              <h3 className="text-xl mb-6">Individual performance</h3>
+              <div className="space-y-4">
+                {/* Top 2 performers */}
+                {consultants.slice(0, 2).map((consultant, index) => (
+                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                    <div className="w-8 h-8 rounded bg-[#4CAF50] flex items-center justify-center">
+                      {index + 1}
+                    </div>
+                    <span className="flex-grow">{consultant.name}</span>
+                    <span>{consultant.result}</span>
+                  </div>
+                ))}
 
-          {/* Sub-requirements */}
-          {subRequirements.length > 0 && (
-            <div className="mt-12">
-              <h3 className="text-xl mb-6">Sub-requirements</h3>
-              
-              {/* Legend */}
-              <div className="flex items-center gap-6 mb-4 text-sm text-gray-400">
-                <div className="flex items-center gap-2">
-                  <div className="w-4 h-[2px] bg-[#4CAF50]"></div>
-                  <span>This week</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <div className="w-4 h-[2px] bg-[#FF6B8A]"></div>
-                  <span>Last week</span>
-                </div>
-              </div>
+                {/* First ellipsis */}
+                <div className="text-center text-2xl text-gray-500">...</div>
 
-              {/* Y-axis labels */}
-              <div className="flex mb-6">
-                <div className="w-12 text-sm text-gray-400">
-                  <div>% fulfilled</div>
-                  <div className="mt-2">100</div>
-                </div>
-              </div>
-
-              {/* Bars */}
-              <div className="relative pl-12">
-                {/* Y-axis labels */}
-                <div className="absolute left-0 top-0 h-[80%] flex flex-col justify-between text-sm text-gray-400">
-                  <span>75</span>
-                  <span>50</span>
-                  <span>25</span>
-                  <span>0</span>
+                {/* Team average */}
+                <div className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                  <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
+                    -
+                  </div>
+                  <span className="flex-grow">{averageResult.name}</span>
+                  <span>{averageResult.result}</span>
                 </div>
 
-                {/* Bars container */}
-                <div className="flex gap-16">
-                  {subRequirements.map((req, index) => (
-                    <SubRequirementsBar key={index} data={req} />
-                  ))}
-                </div>
+                {/* Second ellipsis */}
+                <div className="text-center text-2xl text-gray-500">...</div>
+
+                {/* Bottom 2 performers */}
+                {consultants.slice(-2).map((consultant, index) => (
+                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                    <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
+                      {consultants.length - 1 + index}
+                    </div>
+                    <span className="flex-grow">{consultant.name}</span>
+                    <span>{consultant.result}</span>
+                  </div>
+                ))}
               </div>
             </div>
-          )}
-        </div>
+          </>
+        ) : (
+          // Behavioral Report Layout
+          <>
+            {/* Left Column - Individual Performance */}
+            <div>
+              <h3 className="text-xl mb-6 flex items-center gap-2">
+                Individual performance
+                <span className="text-sm text-gray-400">n={individualPerformanceCount}</span>
+              </h3>
+              <div className="space-y-4">
+                {/* Top 2 performers */}
+                {consultants.slice(0, 2).map((consultant, index) => (
+                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                    <div className="w-8 h-8 rounded bg-[#4CAF50] flex items-center justify-center">
+                      {index + 1}
+                    </div>
+                    <span className="flex-grow">{consultant.name}</span>
+                    <span>{consultant.result}</span>
+                  </div>
+                ))}
 
-        {/* Right Column - Individual Performance */}
-        <div>
-          <h3 className="text-xl mb-6">Individual performance</h3>
-          <div className="space-y-4">
-            {/* Top 2 performers */}
-            {consultants.slice(0, 2).map((consultant, index) => (
-              <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                <div className="w-8 h-8 rounded bg-[#4CAF50] flex items-center justify-center">
-                  {index + 1}
+                {/* First ellipsis */}
+                <div className="text-center text-2xl text-gray-500">...</div>
+
+                {/* Team average */}
+                <div className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                  <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
+                    -
+                  </div>
+                  <span className="flex-grow">{averageResult.name}</span>
+                  <span>{averageResult.result}</span>
                 </div>
-                <span className="flex-grow">{consultant.name}</span>
-                <span>{consultant.result}</span>
-              </div>
-            ))}
 
-            {/* First ellipsis */}
-            <div className="text-center text-2xl text-gray-500">...</div>
+                {/* Second ellipsis */}
+                <div className="text-center text-2xl text-gray-500">...</div>
 
-            {/* Team average */}
-            <div className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-              <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
-                -
+                {/* Bottom 2 performers */}
+                {consultants.slice(-2).map((consultant, index) => (
+                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                    <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
+                      {consultants.length - 1 + index}
+                    </div>
+                    <span className="flex-grow">{consultant.name}</span>
+                    <span>{consultant.result}</span>
+                  </div>
+                ))}
               </div>
-              <span className="flex-grow">{averageResult.name}</span>
-              <span>{averageResult.result}</span>
             </div>
 
-            {/* Second ellipsis */}
-            <div className="text-center text-2xl text-gray-500">...</div>
-
-            {/* Bottom 2 performers */}
-            {consultants.slice(-2).map((consultant, index) => (
-              <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
-                  {consultants.length - 1 + index}
-                </div>
-                <span className="flex-grow">{consultant.name}</span>
-                <span>{consultant.result}</span>
+            {/* Right Column - Weekly Insights */}
+            <div>
+              <h3 className="text-xl mb-6 flex items-center gap-2">
+                Weekly insights
+                <span className="text-sm text-gray-400">n={weeklyInsights?.verdictsCount}</span>
+              </h3>
+              <div className="space-y-4">
+                {weeklyInsights?.insights.map((insight, index) => (
+                  <div 
+                    key={index} 
+                    className="p-4 rounded bg-[#1E1E1E] border-l-4"
+                    style={{ borderColor: insight.borderColor }}
+                  >
+                    <div className="text-sm font-medium mb-2">{insight.title}</div>
+                    <div className="text-sm text-gray-400">{insight.content}</div>
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
-        </div>
+            </div>
+          </>
+        )}
       </div>
     </div>
   );
-}
+};
