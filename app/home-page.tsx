@@ -94,7 +94,14 @@ export default function HomePage({ isAdmin }: HomePageProps) {
   return (
     <main className="min-h-screen bg-[#1E1E1E] text-white p-8 font-normal">
       <div className="max-w-7xl mx-auto">
-        <h1 className="title font-bold">Individual Report Page</h1>
+        <div className="flex items-center justify-between mb-8">
+          <h1 className="title font-bold">Individual Report Page</h1>
+          {isAdmin && (
+            <Link href="/admin" className="button">
+              Admin Panel
+            </Link>
+          )}
+        </div>
         <div className="space-y-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
@@ -203,17 +210,6 @@ export default function HomePage({ isAdmin }: HomePageProps) {
             </button>
           </div>
         </div>
-
-        {isAdmin && (
-          <div className="mt-16 text-center">
-            <Link
-              href="/admin"
-              className="inline-block px-6 py-3 text-sm font-medium text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-            >
-              Admin Panel
-            </Link>
-          </div>
-        )}
       </div>
     </main>
   );
