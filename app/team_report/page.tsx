@@ -4,7 +4,9 @@ import { WeeklyInitiative } from "./sub_page";
 interface Graph {
   title: string;
   green: number;
-  red: number;
+  red?: number;
+  upperBound?: number;
+  lowerBound?: number;
 }
 
 interface SubRequirement {
@@ -35,7 +37,7 @@ interface TeamReportData {
     blackLabel: string;
     resultLabel: string;
   };
-  subRequirements: {
+  subRequirements?: {
     data: SubRequirement[];
     verdictsCount: number;
   };
@@ -71,7 +73,9 @@ export default async function TeamReportPage({
   const lastIndex = reportData.graph.bars.length - 1;
   const prevIndex = lastIndex - 1;
   const fullComplianceChange = reportData.graph.bars[lastIndex].green - reportData.graph.bars[prevIndex].green;
-  const partialComplianceChange = reportData.graph.bars[lastIndex].red - reportData.graph.bars[prevIndex].red;
+  const partialComplianceChange = reportData.type === 'Compliance' 
+    ? reportData.graph.bars[lastIndex].red! - reportData.graph.bars[prevIndex].red!
+    : 0;
 
   // Sort consultants by compliance percentage
   const sortedConsultants = [...reportData.individualPerformance.consultantResults]
@@ -143,24 +147,42 @@ export default async function TeamReportPage({
                   {graph ? (
                     <>
                       <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
-                        {graph.green + graph.red}%
+                        {reportData.type === 'Compliance' ? `${graph.green + graph.red!}%` : `${graph.green}%`}
                       </div>
                       <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
-                        {/* Full compliance bar */}
+                        {/* Green bar */}
                         <div 
                           className="absolute bottom-0 w-full bg-[#4CAF50]" 
                           style={{ 
                             height: `${graph.green}%`
                           }}
                         ></div>
-                        {/* Partial compliance bar */}
-                        <div 
-                          className="absolute w-full bg-[#FF6B8A]" 
-                          style={{ 
-                            bottom: `${graph.green}%`,
-                            height: `${graph.red}%`
-                          }}
-                        ></div>
+                        {reportData.type === 'Compliance' ? (
+                          /* Partial compliance bar for Compliance type */
+                          <div 
+                            className="absolute w-full bg-[#FF6B8A]" 
+                            style={{ 
+                              bottom: `${graph.green}%`,
+                              height: `${graph.red}%`
+                            }}
+                          ></div>
+                        ) : (
+                          /* Upper and Lower bound lines for Behavioral type */
+                          <>
+                            <div 
+                              className="absolute w-full h-[2px] bg-[#FF6B8A]" 
+                              style={{ 
+                                bottom: `${graph.lowerBound}%`
+                              }}
+                            ></div>
+                            <div 
+                              className="absolute w-full h-[2px] bg-[#FF6B8A]" 
+                              style={{ 
+                                bottom: `${graph.upperBound}%`
+                              }}
+                            ></div>
+                          </>
+                        )}
                       </div>
                       {/* X-axis label */}
                       <div className="absolute bottom-[-52px] text-xs text-gray-400 font-normal text-center w-full leading-tight">
@@ -185,10 +207,10 @@ export default async function TeamReportPage({
             change: fullComplianceChange
           }}
           partialCompliance={{
-            percentage: reportData.graph.bars[lastIndex].red,
+            percentage: reportData.type === 'Compliance' ? reportData.graph.bars[lastIndex].red! : 0,
             change: partialComplianceChange
           }}
-          subRequirements={reportData.subRequirements.data}
+          subRequirements={reportData.subRequirements?.data || []}
           consultants={sortedConsultants.map(consultant => ({
             name: consultant.name,
             result: consultant.result,

@@ -166,47 +166,49 @@ export const WeeklyInitiative = ({ title, fullCompliance, partialCompliance, sub
           </div>
 
           {/* Sub-requirements */}
-          <div className="mt-12">
-            <h3 className="text-xl mb-6">Sub-requirements</h3>
-            
-            {/* Legend */}
-            <div className="flex items-center gap-6 mb-4 text-sm text-gray-400">
-              <div className="flex items-center gap-2">
-                <div className="w-4 h-[2px] bg-[#4CAF50]"></div>
-                <span>This week</span>
+          {subRequirements.length > 0 && (
+            <div className="mt-12">
+              <h3 className="text-xl mb-6">Sub-requirements</h3>
+              
+              {/* Legend */}
+              <div className="flex items-center gap-6 mb-4 text-sm text-gray-400">
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-[2px] bg-[#4CAF50]"></div>
+                  <span>This week</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-[2px] bg-[#FF6B8A]"></div>
+                  <span>Last week</span>
+                </div>
               </div>
-              <div className="flex items-center gap-2">
-                <div className="w-4 h-[2px] bg-[#FF6B8A]"></div>
-                <span>Last week</span>
-              </div>
-            </div>
 
-            {/* Y-axis labels */}
-            <div className="flex mb-6">
-              <div className="w-12 text-sm text-gray-400">
-                <div>% fulfilled</div>
-                <div className="mt-2">100</div>
-              </div>
-            </div>
-
-            {/* Bars */}
-            <div className="relative pl-12">
               {/* Y-axis labels */}
-              <div className="absolute left-0 top-0 h-[80%] flex flex-col justify-between text-sm text-gray-400">
-                <span>75</span>
-                <span>50</span>
-                <span>25</span>
-                <span>0</span>
+              <div className="flex mb-6">
+                <div className="w-12 text-sm text-gray-400">
+                  <div>% fulfilled</div>
+                  <div className="mt-2">100</div>
+                </div>
               </div>
 
-              {/* Bars container */}
-              <div className="flex gap-16">
-                {subRequirements.map((req, index) => (
-                  <SubRequirementsBar key={index} data={req} />
-                ))}
+              {/* Bars */}
+              <div className="relative pl-12">
+                {/* Y-axis labels */}
+                <div className="absolute left-0 top-0 h-[80%] flex flex-col justify-between text-sm text-gray-400">
+                  <span>75</span>
+                  <span>50</span>
+                  <span>25</span>
+                  <span>0</span>
+                </div>
+
+                {/* Bars container */}
+                <div className="flex gap-16">
+                  {subRequirements.map((req, index) => (
+                    <SubRequirementsBar key={index} data={req} />
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
+          )}
         </div>
 
         {/* Right Column - Individual Performance */}
