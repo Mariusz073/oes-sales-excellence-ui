@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "consultantName": "Elisha Odhiambo",
+    "weekNumber": 9,
+    "dateRange": "12-23_12-27",
+    "reportType": "Collaborative Planning"
+  },
+  "total_number_of_calls": 153,
+  "team_average_total_number_of_calls_per_sales_consultant": 71.27272727272727,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 24,
+    "team_average_absolute_number": 14.363636363636363
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 15.686274509803921,
+    "team_average_percentage": 19.026111396102866
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 129,
+    "team_average_absolute_number": 56.90909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 84.31372549019608,
+    "team_average_percentage": 53.70116133116986
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.94510594587106,
+    "team_average": 53.962712188868224
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 129,
+    "team_total_excluded_transcripts": 626
+  },
+  "average_finalRanking_score_eligible_transcripts": 178.3,
+  "average_finalRanking_score_all_transcripts_over_2_mins": 116.64,
+  "team_average_finalRanking_score_eligible_transcripts": 152.6,
+  "team_average_finalRanking_score_all_transcripts_over_2_mins": 110.17,
+  "Collaborative planning with high-need students:": {
+    "positive_themes": [
+      "Effective Career Path Alignment & Support",
+      "Proactive Online Study Structure Planning",
+      "Clear Process & Timeline Communication"
+    ],
+    "improvement_themes": [
+      "Enhanced Work-Study Balance Planning",
+      "Deeper Academic & Career Goal Exploration",
+      "Comprehensive Financial & Support Planning"
+    ]
+  },
+  "conversationAnalysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "type": "Strong Career Path Alignment",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_3",
+              "segment_id": "20",
+              "timestamp": "00:27"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "analysis_2",
+                "segment_id": "71",
+                "timestamp": "5:56"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career aspirations, from diploma pursuits to masters in psychology intentions.",
+          "context_impact": "Critical opportunities to align educational pathways with career goals.",
+          "consultant_response": "Consultants effectively validated goals and provided targeted recommendations: 'That's great to hear! Let's explore how our diploma can align with your career goals.'",
+          "improvement": "N/A"
+        },
+        {
+          "id": 2,
+          "type": "Effective Online Learning Path Customization",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_4",
+              "segment_id": "14",
+              "timestamp": "1:14"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "analysis_2",
+                "segment_id": "156",
+                "timestamp": "28:05"
+              }
+            ]
+          },
+          "student_trigger": "Students demonstrated previous online learning success and need for flexibility.",
+          "context_impact": "Strong alignment between needs and program delivery increased enrollment likelihood.",
+          "consultant_response": "Detailed explanation of online options and personalized accommodation of circumstances.",
+          "improvement": "N/A"
+        },
+        {
+          "id": 3,
+          "type": "Clear Enrollment Process Navigation",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_1",
+              "segment_id": "78",
+              "timestamp": "12:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student ready to proceed: 'I just wanted to know the next steps.'",
+          "context_impact": "Critical moment for maintaining enrollment momentum.",
+          "consultant_response": "Clear direction provided: 'Awesome. So what we'll do now is I'll enrol you over the phone. It takes about five minutes.'",
+          "improvement": "N/A"
+        },
+        {
+          "id": 4,
+          "type": "Proactive Career Support",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "4",
+              "segment_id": "176",
+              "timestamp": "7:28"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "1",
+                "segment_id": "32",
+                "timestamp": "5:56"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed strong interest in psychology careers with confidence.",
+          "context_impact": "Validation while providing practical guidance strengthened enrollment consideration.",
+          "consultant_response": "Affirmed capabilities while offering relevant experience and qualification guidance.",
+          "improvement": "Could expand on specific pathway options."
+        },
+        {
+          "id": 5,
+          "type": "Insufficient Work-Study Balance Planning",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_4",
+              "segment_id": "27",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "analysis_1",
+                "segment_id": "89",
+                "timestamp": "14:43"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing concerns about balancing full-time work with studies.",
+          "context_impact": "Critical barrier to enrollment commitment.",
+          "consultant_response": "Surface-level acknowledgment without detailed solutions.",
+          "improvement": "Need deeper exploration of scheduling options and study arrangements."
+        },
+        {
+          "id": 6,
+          "type": "Limited Academic Goal Exploration",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_4",
+              "segment_id": "17",
+              "timestamp": "00:17"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "analysis_1",
+                "segment_id": "15",
+                "timestamp": "00:54"
+              }
+            ]
+          },
+          "student_trigger": "Clear expressions of desire to pursue specific academic fields.",
+          "context_impact": "Missed opportunities to strengthen enrollment through deeper planning.",
+          "consultant_response": "Surface-level acknowledgment without exploring specific aspirations.",
+          "improvement": "Need to engage more deeply with goals and create educational roadmaps."
+        },
+        {
+          "id": 7,
+          "type": "Insufficient Financial Planning Support",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_3",
+              "segment_id": "70",
+              "timestamp": "11:10"
+            }
+          },
+          "student_trigger": "Student expressed concerns about age (60) and financial investment ($17,000).",
+          "context_impact": "Lack of comprehensive financial guidance may impact enrollment.",
+          "consultant_response": "Basic acknowledgment without exploring options or addressing circumstances.",
+          "improvement": "Provide detailed financial planning and address age-related concerns."
+        },
+        {
+          "id": 8,
+          "type": "Inadequate Qualification Discussion",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "1",
+              "segment_id": "29",
+              "timestamp": "5:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "2",
+                "segment_id": "9",
+                "timestamp": "01:13"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity about qualification requirements and outcomes.",
+          "context_impact": "Uncertainty about eligibility could deter enrollment.",
+          "consultant_response": "Generic assurances without detailed exploration of requirements.",
+          "improvement": "Need thorough exploration of qualifications and program alignment."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "type": "Strong Career Path Alignment",
+          "priority": "high",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_3",
+              "segment_id": "20",
+              "timestamp": "00:27"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "analysis_2",
+                "segment_id": "71",
+                "timestamp": "5:56"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated clear career aspirations during their conversations. Primary examples included statements like 'I'm looking into doing a diploma for a year' and expressions of interest in pursuing advanced degrees in psychology. These moments revealed strong motivation and clarity about educational goals.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by responding with enthusiasm and strategic guidance: 'That's great to hear! Let's explore how our diploma can align with your career goals.' This approach effectively validated students' ambitions while facilitating discussions about concrete steps toward their goals. The engagement fostered supportive partnerships that enhanced students' confidence in their chosen educational paths.",
+          "recommended_improvement": "The current approach effectively demonstrates desired behavior by acknowledging aspirations and facilitating goal-oriented discussions. To further enhance this strength, consultants should continue validating career goals while adding specific examples of successful student pathways."
+        },
+        {
+          "id": 2,
+          "type": "Effective Online Learning Path Customization",
+          "priority": "high",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "analysis_4",
+              "segment_id": "14",
+              "timestamp": "1:14"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "analysis_2",
+                "segment_id": "156",
+                "timestamp": "28:05"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated readiness for online learning, with one specifically noting: 'during that unit study with Deakin, I actually found it quite helpful because all the content was laid out really nicely and that worked really well with my study mode.' This created an opportunity for collaborative planning around flexible study options.",
+          "consultant_response": "Consultants excelled in collaborative planning by acknowledging previous online learning experiences and detailing how Monash's online model could accommodate individual needs. The response 'I understand your need for flexibility given your work schedule. Let me outline our online learning options' demonstrated strong alignment with student preferences while fostering supportive dialogue about educational pathways.",
+          "recommended_improvement": "Continue this effective approach by: 1) Acknowledging previous online learning experiences, 2) Detailing specific features of the online learning platform, 3) Connecting flexibility options to individual circumstances, and 4) Collaboratively exploring how online learning supports personal goals."
+        }
+      ]
+    }
+  }
+}
