@@ -82,6 +82,15 @@ export default function ManageUsers() {
       const result = await updateUserPrivileges(formData);
       if ("success" in result) {
         setMessage({ text: result.message || "Changes saved successfully", type: "success" });
+        setSelectedUserId(null);
+        setIsAdmin(false);
+        setPrivileges({
+          individualReports: false,
+          teamMonash: false,
+          teamSOL: false,
+          teamBehavioural: false,
+          teamCollaborative: false,
+        });
       } else {
         setMessage({ text: result.error || "Failed to save changes", type: "error" });
       }
