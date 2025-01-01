@@ -31,21 +31,23 @@ export default function ChangePasswordDialog() {
     }
 
     setMessage(null);
-    startTransition(async () => {
+    startTransition(() => {
       const submitData = new FormData();
-      submitData.append("oldPassword", values.oldPassword);
-      submitData.append("newPassword", values.newPassword);
-      const result = await changePassword(submitData);
-      if ("error" in result) {
-        setMessage({ text: result.error, type: "error" });
-      } else {
-        setMessage({ text: result.message, type: "success" });
-        // Close dialog after successful password change
-        setTimeout(() => {
-          setIsOpen(false);
-          setMessage(null);
-        }, 2000);
-      }
+      submitData.append("oldPassword", values.oldPassword as string);
+      submitData.append("newPassword", values.newPassword as string);
+      
+      changePassword(submitData).then((result) => {
+        if ("error" in result) {
+          setMessage({ text: result.error ?? "", type: "error" });
+        } else {
+          setMessage({ text: result.message, type: "success" });
+          // Close dialog after successful password change
+          setTimeout(() => {
+            setIsOpen(false);
+            setMessage(null);
+          }, 2000);
+        }
+      });
     });
   };
 
