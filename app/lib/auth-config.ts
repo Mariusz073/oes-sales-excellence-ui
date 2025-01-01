@@ -1,6 +1,7 @@
 import { NextAuthOptions } from "next-auth";
 import CredentialsProvider from "next-auth/providers/credentials";
 import { dbOperations } from "../SQLite/db";
+import { UserPrivileges } from "../types/types";
 
 export const authConfig: NextAuthOptions = {
   providers: [
@@ -25,10 +26,14 @@ export const authConfig: NextAuthOptions = {
           return null;
         }
 
+        // Get user privileges
+        const privileges = dbOperations.getUserPrivileges(user.id);
+
         return {
           id: user.id.toString(),
           username: user.username,
-          isAdmin: user.isAdmin
+          isAdmin: user.isAdmin,
+          privileges
         };
       }
     })
@@ -41,6 +46,7 @@ export const authConfig: NextAuthOptions = {
       if (user) {
         token.isAdmin = user.isAdmin;
         token.username = user.username;
+        token.privileges = user.privileges;
       }
       return token;
     },
@@ -49,7 +55,8 @@ export const authConfig: NextAuthOptions = {
         session.user = {
           ...session.user,
           isAdmin: token.isAdmin as boolean,
-          username: token.username as string
+          username: token.username as string,
+          privileges: token.privileges as UserPrivileges
         };
       }
       return session;

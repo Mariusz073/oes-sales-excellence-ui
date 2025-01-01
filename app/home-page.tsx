@@ -11,11 +11,14 @@ interface JsonFile {
   displayName: string;
 }
 
+import { UserPrivileges } from './types/types';
+
 interface HomePageProps {
   isAdmin: boolean;
+  privileges: UserPrivileges;
 }
 
-export default function HomePage({ isAdmin }: HomePageProps) {
+export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   const router = useRouter();
   const [jsonFiles, setJsonFiles] = useState<JsonFile[]>([]);
   const [teamReportFiles, setTeamReportFiles] = useState<JsonFile[]>([]);
@@ -106,12 +109,14 @@ export default function HomePage({ isAdmin }: HomePageProps) {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
                 <select
-                className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+                className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                           border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                          appearance-none cursor-pointer min-w-[200px] font-normal"
+                          appearance-none cursor-pointer min-w-[200px] font-normal
+                          ${!isAdmin && !privileges.individualReports ? 'opacity-50 cursor-not-allowed' : ''}`}
                 value={selectedFile}
                 aria-label="Select individual report"
                 onChange={(e) => setSelectedFile(e.target.value)}
+                disabled={!isAdmin && !privileges.individualReports}
                 style={{
                   backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
                   backgroundRepeat: 'no-repeat',
@@ -155,8 +160,8 @@ export default function HomePage({ isAdmin }: HomePageProps) {
               }}
             >
               <option value="">Team</option>
-              <option value="monash">Monash</option>
-              <option value="sol">SOL</option>
+              {(isAdmin || privileges.teamMonash) && <option value="monash">Monash</option>}
+              {(isAdmin || privileges.teamSOL) && <option value="sol">SOL</option>}
             </select>
 
               <select
@@ -174,8 +179,8 @@ export default function HomePage({ isAdmin }: HomePageProps) {
               }}
             >
               <option value="">Kind of analysis</option>
-              <option value="compliance">Compliance - Call recording disclosure</option>
-              <option value="behavioral">Behavioral-Collaborative planning</option>
+              {(isAdmin || privileges.teamBehavioural) && <option value="behavioral">Behavioral-Collaborative planning</option>}
+              {(isAdmin || privileges.teamCollaborative) && <option value="compliance">Compliance - Call recording disclosure</option>}
             </select>
 
               <select

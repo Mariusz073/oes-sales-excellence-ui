@@ -10,5 +10,5 @@ export default async function Page() {
     redirect("/login");
   }
 
-  return <HomePage isAdmin={session.user.isAdmin} />;
+  return <HomePage isAdmin={session.user.isAdmin} privileges={session.user.privileges} />;
 }
