@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { getJsonFiles } from './actions/getJsonFiles';
 import { getTeamReportFiles } from './actions/getTeamReportFiles';
+import LogoutButton from './components/LogoutButton';
 
 interface JsonFile {
   filename: string;
@@ -99,11 +100,14 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
       <div className="max-w-7xl mx-auto">
         <div className="flex items-center justify-between mb-8">
           <h1 className="title font-bold">Individual Report Page</h1>
-          {isAdmin && (
-            <Link href="/admin" className="button">
-              Admin Panel
-            </Link>
-          )}
+          <div className="flex items-center gap-4">
+            {isAdmin && (
+              <Link href="/admin" className="button">
+                Admin Panel
+              </Link>
+            )}
+            <LogoutButton />
+          </div>
         </div>
         <div className="space-y-4">
           <div className="flex items-center justify-between">
