@@ -1,6 +1,6 @@
 "use server";
 
-import { dbOperations } from "../SQLite/db";
+import { dbOperations } from "../db/postgres";
 import { getServerSession } from "next-auth";
 import { authConfig } from "../lib/auth-config";
 import { UserPrivileges } from "../types/types";
@@ -12,7 +12,7 @@ export async function getAllUsers() {
   }
 
   try {
-    const users = dbOperations.getAllUsers();
+    const users = await dbOperations.getAllUsers();
     return { users };
   } catch (error) {
     console.error("Get users error:", error);
@@ -27,8 +27,8 @@ export async function getUserPrivileges(userId: number) {
   }
 
   try {
-    const privileges = dbOperations.getUserPrivileges(userId);
-    const user = dbOperations.getUserById(userId);
+    const privileges = await dbOperations.getUserPrivileges(userId);
+    const user = await dbOperations.getUserById(userId);
     if (!user) {
       return { error: "User not found" };
     }
@@ -83,7 +83,7 @@ export async function resetUserPassword(formData: FormData) {
 
   try {
     const userId = parseInt(formData.get("userId") as string);
-    const newPassword = dbOperations.resetUserPassword(userId);
+    const newPassword = await dbOperations.resetUserPassword(userId);
     return { success: true, password: newPassword };
   } catch (error) {
     console.error("Reset password error:", error);

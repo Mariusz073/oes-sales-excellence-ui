@@ -1,29 +1,24 @@
 "use server";
 
-import { dbOperations } from "../SQLite/db";
+import { dbOperations } from "../db/postgres";
 import { z } from "zod";
 import crypto from "crypto";
 import { getServerSession } from "next-auth";
 import { authConfig } from "../lib/auth-config";
+import { UserPrivileges } from "../types/types";
 
 const createUserSchema = z.object({
   username: z.string().min(1, "Username is required"),
-  isAdmin: z.boolean().default(false),
+  isAdmin: z.boolean(),
   privileges: z.object({
-    individualReports: z.boolean().default(false),
-    teamMonash: z.boolean().default(false),
-    teamSOL: z.boolean().default(false),
-    teamBehavioural: z.boolean().default(false),
-    teamCollaborative: z.boolean().default(false),
+    individualReports: z.boolean(),
+    teamMonash: z.boolean(),
+    teamSOL: z.boolean(),
+    teamBehavioural: z.boolean(),
+    teamCollaborative: z.boolean(),
     allowedReports: z.array(z.string()).optional(),
-  }).default({
-    individualReports: false,
-    teamMonash: false,
-    teamSOL: false,
-    teamBehavioural: false,
-    teamCollaborative: false,
-  }),
-});
+  }).strict(),
+}).strict();
 
 function generatePassword() {
   const length = 12;
@@ -42,6 +37,26 @@ type CreateUserResult =
   | { success: true; message: string; password: string }
   | { error: string };
 
+function parseFormData(formData: FormData) {
+  const basePrivileges = {
+    individualReports: Boolean(formData.get("privileges.individualReports") === "true"),
+    teamMonash: Boolean(formData.get("privileges.teamMonash") === "true"),
+    teamSOL: Boolean(formData.get("privileges.teamSOL") === "true"),
+    teamBehavioural: Boolean(formData.get("privileges.teamBehavioural") === "true"),
+    teamCollaborative: Boolean(formData.get("privileges.teamCollaborative") === "true")
+  } as const;
+
+  const privileges = formData.has("allowedReports")
+    ? { ...basePrivileges, allowedReports: JSON.parse(formData.get("allowedReports") as string) }
+    : basePrivileges;
+
+  return {
+    username: formData.get("username") as string,
+    isAdmin: formData.get("isAdmin") === "true",
+    privileges: privileges as UserPrivileges
+  };
+}
+
 export async function createUser(formData: FormData): Promise<CreateUserResult> {
   try {
     // Check if user is authenticated and is admin
@@ -50,21 +65,7 @@ export async function createUser(formData: FormData): Promise<CreateUserResult> 
       return { error: "Unauthorized" };
     }
 
-    // Parse form data
-    const rawData = {
-      username: formData.get("username"),
-      isAdmin: formData.get("isAdmin") === "true",
-      privileges: {
-        individualReports: formData.get("privileges.individualReports") === "true",
-        teamMonash: formData.get("privileges.teamMonash") === "true",
-        teamSOL: formData.get("privileges.teamSOL") === "true",
-        teamBehavioural: formData.get("privileges.teamBehavioural") === "true",
-        teamCollaborative: formData.get("privileges.teamCollaborative") === "true",
-        allowedReports: formData.has("allowedReports") 
-          ? JSON.parse(formData.get("allowedReports") as string)
-          : undefined,
-      },
-    };
+    const rawData = parseFormData(formData);
 
     // Validate input
     const result = createUserSchema.safeParse(rawData);
@@ -81,7 +82,7 @@ export async function createUser(formData: FormData): Promise<CreateUserResult> 
         result.data.username,
         password,
         result.data.isAdmin,
-        result.data.privileges
+        result.data.privileges as UserPrivileges
       );
 
       return {

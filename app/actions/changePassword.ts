@@ -1,6 +1,6 @@
 "use server";
 
-import { dbOperations } from "../SQLite/db";
+import { dbOperations } from "../db/postgres";
 import { getServerSession } from "next-auth";
 import { authConfig } from "../lib/auth-config";
 import { z } from "zod";
@@ -27,13 +27,13 @@ export async function changePassword(formData: FormData) {
       return { error: "Invalid input" };
     }
 
-    const user = dbOperations.getUserByUsername(session.user.username);
+    const user = await dbOperations.getUserByUsername(session.user.username);
     if (!user) {
       return { error: "User not found" };
     }
 
     // Verify old password
-    const isValid = dbOperations.verifyPassword(user, result.data.oldPassword);
+    const isValid = await dbOperations.verifyPassword(user, result.data.oldPassword);
     if (!isValid) {
       return { error: "Current password is incorrect" };
     }

@@ -1,5 +1,5 @@
 import "next-auth";
-import { User as DbUser } from "../SQLite/db";
+import { User as DbUser } from "../db/postgres";
 import { UserPrivileges } from "./types";
 
 declare module "next-auth" {

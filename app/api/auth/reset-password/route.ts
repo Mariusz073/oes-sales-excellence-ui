@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { dbOperations } from "../../../SQLite/db";
+import { dbOperations } from "../../../db/postgres";
 import { z } from "zod";
 
 const resetPasswordSchema = z.object({
@@ -20,7 +20,7 @@ export async function POST(request: Request) {
     }
 
     const { token, newPassword } = result.data;
-    const user = dbOperations.getUserByResetToken(token);
+    const user = await dbOperations.getUserByResetToken(token);
 
     if (!user) {
       return NextResponse.json(
@@ -30,7 +30,7 @@ export async function POST(request: Request) {
     }
 
     // Update password and clear reset token
-    dbOperations.updatePassword(user.id, newPassword);
+    await dbOperations.updatePassword(user.id, newPassword);
 
     return NextResponse.json({
       message: "Password has been reset successfully",

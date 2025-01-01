@@ -1,6 +1,6 @@
 import { NextAuthOptions } from "next-auth";
 import CredentialsProvider from "next-auth/providers/credentials";
-import { dbOperations } from "../SQLite/db";
+import { dbOperations } from "../db/postgres";
 import { UserPrivileges } from "../types/types";
 
 export const authConfig: NextAuthOptions = {
@@ -16,18 +16,18 @@ export const authConfig: NextAuthOptions = {
           return null;
         }
 
-        const user = dbOperations.getUserByUsername(credentials.username);
+        const user = await dbOperations.getUserByUsername(credentials.username);
         if (!user) {
           return null;
         }
 
-        const isValid = dbOperations.verifyPassword(user, credentials.password);
+        const isValid = await dbOperations.verifyPassword(user, credentials.password);
         if (!isValid) {
           return null;
         }
 
         // Get user privileges
-        const privileges = dbOperations.getUserPrivileges(user.id);
+        const privileges = await dbOperations.getUserPrivileges(user.id);
 
         return {
           id: user.id.toString(),

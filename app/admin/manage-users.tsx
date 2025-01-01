@@ -3,7 +3,7 @@
 import { useState, useEffect, useTransition } from "react";
 import { getAllUsers, getUserPrivileges, updateUserPrivileges, resetUserPassword, deleteUser } from "../actions/manageUser";
 import { UserPrivileges } from "../types/types";
-import { User } from "../SQLite/db";
+import { User } from "../db/postgres";
 import ManageNamesDialog from "../components/ManageNamesDialog";
 import IndeterminateCheckbox from "../components/IndeterminateCheckbox";
 
