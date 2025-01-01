@@ -220,11 +220,16 @@ export default function ManageUsers() {
                     <label htmlFor="individualReports" className="block text-sm text-white">
                       Individual reports
                     </label>
-                    {!isAdmin && !privileges.individualReports && (
+                    {!isAdmin && (
                       <button
                         type="button"
-                        onClick={() => setIsManageNamesOpen(true)}
-                        className="button bg-gray-700 hover:bg-gray-600 text-sm py-1"
+                        onClick={() => !privileges.individualReports && setIsManageNamesOpen(true)}
+                        className={`button text-sm py-1 ${
+                          privileges.individualReports ? 
+                          'opacity-50 cursor-not-allowed' : 
+                          'bg-gray-700 hover:bg-gray-600'
+                        }`}
+                        disabled={privileges.individualReports}
                       >
                         Manage Names {selectedReports.length > 0 && `(${selectedReports.length})`}
                       </button>
