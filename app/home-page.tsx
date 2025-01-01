@@ -118,11 +118,11 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                 className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                           border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
                           appearance-none cursor-pointer min-w-[200px] font-normal
-                          ${!isAdmin && !privileges.individualReports ? 'opacity-50 cursor-not-allowed' : ''}`}
+                          ${!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0) ? 'opacity-50 cursor-not-allowed' : ''}`}
                 value={selectedFile}
                 aria-label="Select individual report"
                 onChange={(e) => setSelectedFile(e.target.value)}
-                disabled={!isAdmin && !privileges.individualReports}
+                disabled={!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0)}
                 style={{
                   backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
                   backgroundRepeat: 'no-repeat',
@@ -131,11 +131,18 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                 }}
               >
                 <option value="">Select a report</option>
-                {jsonFiles.map((file) => (
-                  <option key={file.filename} value={file.filename}>
-                    {file.displayName}
-                  </option>
-                ))}
+                {jsonFiles
+                  .filter(file => 
+                    isAdmin || 
+                    privileges.individualReports || 
+                    (privileges.allowedReports && privileges.allowedReports.includes(file.filename))
+                  )
+                  .map((file) => (
+                    <option key={file.filename} value={file.filename}>
+                      {file.displayName}
+                    </option>
+                  ))
+                }
               </select>
 
               <button

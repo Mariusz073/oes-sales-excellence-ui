@@ -4,4 +4,5 @@ export interface UserPrivileges {
   teamSOL: boolean;
   teamBehavioural: boolean;
   teamCollaborative: boolean;
+  allowedReports?: string[];
 }

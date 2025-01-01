@@ -15,6 +15,7 @@ const createUserSchema = z.object({
     teamSOL: z.boolean().default(false),
     teamBehavioural: z.boolean().default(false),
     teamCollaborative: z.boolean().default(false),
+    allowedReports: z.array(z.string()).optional(),
   }).default({
     individualReports: false,
     teamMonash: false,
@@ -59,6 +60,9 @@ export async function createUser(formData: FormData): Promise<CreateUserResult> 
         teamSOL: formData.get("privileges.teamSOL") === "true",
         teamBehavioural: formData.get("privileges.teamBehavioural") === "true",
         teamCollaborative: formData.get("privileges.teamCollaborative") === "true",
+        allowedReports: formData.has("allowedReports") 
+          ? JSON.parse(formData.get("allowedReports") as string)
+          : undefined,
       },
     };
 

@@ -28,6 +28,14 @@ db.exec(`
     teamCollaborative INTEGER NOT NULL DEFAULT 0,
     FOREIGN KEY (userId) REFERENCES users(id)
   );
+
+  CREATE TABLE IF NOT EXISTS user_report_permissions (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    userId INTEGER NOT NULL,
+    reportFilename TEXT NOT NULL,
+    FOREIGN KEY (userId) REFERENCES users(id),
+    UNIQUE(userId, reportFilename)
+  );
 `);
 
 interface DbUser {
@@ -46,6 +54,7 @@ interface UserPrivileges {
   teamSOL: boolean;
   teamBehavioural: boolean;
   teamCollaborative: boolean;
+  allowedReports?: string[];
 }
 
 interface DbUserPrivileges {
@@ -151,6 +160,14 @@ export const dbOperations = {
           privileges.teamCollaborative ? 1 : 0
         );
 
+        // Create individual report permissions if provided and not admin
+        if (!isAdmin && !privileges.individualReports && privileges.allowedReports?.length) {
+          const insertReport = db.prepare('INSERT INTO user_report_permissions (userId, reportFilename) VALUES (?, ?)');
+          for (const report of privileges.allowedReports) {
+            insertReport.run(userId, report);
+          }
+        }
+
         return userId;
       } catch (error) {
         if ((error as any).code === 'SQLITE_CONSTRAINT_UNIQUE') {
@@ -182,7 +199,8 @@ export const dbOperations = {
         teamMonash: false,
         teamSOL: false,
         teamBehavioural: false,
-        teamCollaborative: false
+        teamCollaborative: false,
+        allowedReports: []
       };
 
       // Insert default privileges
@@ -200,13 +218,42 @@ export const dbOperations = {
       return defaultPrivileges;
     }
 
+    interface ReportPermission {
+      reportFilename: string;
+    }
+
+    // Get allowed reports if not admin and not all reports allowed
+    const allowedReports = !privileges.individualReports ? 
+      db.prepare('SELECT reportFilename FROM user_report_permissions WHERE userId = ?')
+        .all(userId)
+        .map((row) => (row as ReportPermission).reportFilename) : 
+      [];
+
     return {
       individualReports: Boolean(privileges.individualReports),
       teamMonash: Boolean(privileges.teamMonash),
       teamSOL: Boolean(privileges.teamSOL),
       teamBehavioural: Boolean(privileges.teamBehavioural),
-      teamCollaborative: Boolean(privileges.teamCollaborative)
+      teamCollaborative: Boolean(privileges.teamCollaborative),
+      allowedReports
     };
+  },
+
+  updateUserReportPermissions: (userId: number, reportFilenames: string[]) => {
+    const transaction = db.transaction((userId: number, reportFilenames: string[]) => {
+      // Delete existing permissions
+      db.prepare('DELETE FROM user_report_permissions WHERE userId = ?').run(userId);
+
+      // Insert new permissions
+      if (reportFilenames.length > 0) {
+        const insertReport = db.prepare('INSERT INTO user_report_permissions (userId, reportFilename) VALUES (?, ?)');
+        for (const filename of reportFilenames) {
+          insertReport.run(userId, filename);
+        }
+      }
+    });
+
+    return transaction(userId, reportFilenames);
   },
 
   verifyPassword: (user: User, password: string) => {
@@ -266,6 +313,11 @@ export const dbOperations = {
         privileges.teamCollaborative ? 1 : 0,
         userId
       );
+
+      // Update individual report permissions if provided and not admin
+      if (!isAdmin && !privileges.individualReports && privileges.allowedReports) {
+        dbOperations.updateUserReportPermissions(userId, privileges.allowedReports);
+      }
     });
 
     return transaction(userId, isAdmin, privileges);
@@ -282,7 +334,9 @@ export const dbOperations = {
 
   deleteUser: (userId: number) => {
     const transaction = db.transaction((userId: number) => {
-      // Delete user privileges first due to foreign key constraint
+      // Delete user report permissions
+      db.prepare('DELETE FROM user_report_permissions WHERE userId = ?').run(userId);
+      // Delete user privileges
       db.prepare('DELETE FROM user_privileges WHERE userId = ?').run(userId);
       // Delete user
       db.prepare('DELETE FROM users WHERE id = ?').run(userId);

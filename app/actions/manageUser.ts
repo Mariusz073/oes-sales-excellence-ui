@@ -62,6 +62,9 @@ export async function updateUserPrivileges(formData: FormData) {
       teamSOL: formData.get("privileges.teamSOL") === "true",
       teamBehavioural: formData.get("privileges.teamBehavioural") === "true",
       teamCollaborative: formData.get("privileges.teamCollaborative") === "true",
+      allowedReports: formData.has("allowedReports") 
+        ? JSON.parse(formData.get("allowedReports") as string)
+        : undefined,
     };
 
     await dbOperations.updateUserPrivileges(userId, isAdmin, privileges);
