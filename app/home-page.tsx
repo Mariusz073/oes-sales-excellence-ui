@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { getJsonFiles } from './actions/getJsonFiles';
 import { getTeamReportFiles } from './actions/getTeamReportFiles';
 import LogoutButton from './components/LogoutButton';
+import ChangePasswordDialog from './components/ChangePasswordDialog';
 
 interface JsonFile {
   filename: string;
@@ -101,12 +102,13 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
         <div className="flex items-center justify-between mb-8">
           <h1 className="title font-bold">Individual Report Page</h1>
           <div className="flex items-center gap-4">
+            <ChangePasswordDialog />
+            <LogoutButton />
             {isAdmin && (
               <Link href="/admin" className="button">
                 Admin Panel
               </Link>
             )}
-            <LogoutButton />
           </div>
         </div>
         <div className="space-y-4">
@@ -150,9 +152,11 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
         <div className="space-y-4 mt-4">
           <div className="flex items-center gap-4">
               <select
-              className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+              className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-normal"
+                        appearance-none cursor-pointer min-w-[200px] font-normal
+                        ${!isAdmin && !privileges.teamMonash && !privileges.teamSOL ? 'opacity-50 cursor-not-allowed' : ''}`}
+              disabled={!isAdmin && !privileges.teamMonash && !privileges.teamSOL}
               value={selectedTeam}
               aria-label="Select team"
               onChange={(e) => setSelectedTeam(e.target.value)}
@@ -169,9 +173,11 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             </select>
 
               <select
-              className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+              className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-normal"
+                        appearance-none cursor-pointer min-w-[200px] font-normal
+                        ${!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative ? 'opacity-50 cursor-not-allowed' : ''}`}
+              disabled={!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative}
               value={selectedAnalysis}
               aria-label="Select analysis type"
               onChange={(e) => setSelectedAnalysis(e.target.value)}
