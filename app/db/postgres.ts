@@ -9,7 +9,7 @@ declare global {
 export const prisma = global.prisma || new PrismaClient({
   datasources: {
     db: {
-      url: process.env.POSTGRES_PRISMA_URL
+      url: process.env.POSTGRES_URL_NON_POOLING
     }
   }
 });
