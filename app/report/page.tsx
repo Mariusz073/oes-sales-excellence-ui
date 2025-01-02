@@ -27,7 +27,7 @@ export default async function ReportPage({
           {/* Header */}
           <div className="mb-8">
             <h1 className="text-5xl whitespace-nowrap">
-              <span className="text-[#FF6B8A] font-bold">
+              <span className="text-[#FF6B8A] font-semibold">
                 {reportData.metadata.consultantName} |
               </span>
               <span className="text-white text-4xl">
@@ -35,7 +35,7 @@ export default async function ReportPage({
                 Collaborative planning
               </span>
             </h1>
-            <p className="text-xl italic text-gray-400 mt-4">
+            <p className="text-xl italic text-[#a6a6a6] mt-4">
               Week {reportData.metadata.weekNumber}:{" "}
               {reportData.metadata.dateRange}
             </p>
@@ -47,13 +47,13 @@ export default async function ReportPage({
           </div>
 
           {/* Divider */}
-          <div className="border-t border-gray-600 my-8"></div>
+          <div className="border-t border-[#a6a6a6] my-8"></div>
         </div>
 
         {/* Stats Table */}
         <div className="bg-[#252525] rounded-lg px-10 pb-10">
           {/* Stats Title */}
-          <h2 className="text-2xl font-semibold pt-8 mb-8">
+          <h2 className="text-2xl font-medium pt-8 mb-8">
             Your week in numbers:
           </h2>
 
@@ -146,20 +146,21 @@ export default async function ReportPage({
         {/* Bar Graph */}
         <div className="mt-8 bg-[#252525] rounded-lg p-10">
           {/* Graph Title */}
-          <h2 className="text-2xl mb-6 font-semibold">
+          <h2 className="text-2xl mb-6 font-medium">
             Collaborative planning with high-need students:
           </h2>
 
           <div className="flex items-center gap-6 mb-4">
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
-              <span className="text-sm text-gray-300 font-normal">
+              <span className="text-xs text-[#a6a6a6] font-normal">
                 Team average
               </span>
             </div>
             <div className="flex items-center gap-2">
-              <div className="w-6 h-[2px] bg-[#4CAF50]"></div>
-              <span className="text-sm text-gray-300 font-normal">
+              <div className="w-6 h-[2px] bg-[#78c38e]"></div>
+              {/* <div className="w-6 h-[2px] bg-[#78c38e]"></div> */}
+              <span className="text-xs text-[#a6a6a6] font-normal">
                 Sales consultant average
               </span>
             </div>
@@ -167,7 +168,7 @@ export default async function ReportPage({
 
           <div className="relative h-[400px] mt-16 mb-16">
             {/* Y-axis labels */}
-            <div className="absolute -left-2 -top-11 h-[110%] flex flex-col justify-between text-xs text-gray-400 font-normal">
+            <div className="absolute -left-2 -top-11 h-[110%] flex flex-col justify-between text-xs text-[#a6a6a6] font-normal">
               <span>% alignment</span>
               <span>100</span>
               <span>90</span>
@@ -186,7 +187,7 @@ export default async function ReportPage({
             <div className="relative h-[98%] ml-8">
               <div className="absolute bottom-0 w-16 bg-[#1E1E1E] h-full">
                 <div
-                  className="absolute bottom-0 w-full bg-[#4CAF50]"
+                  className="absolute bottom-0 w-full bg-[#78c38e]"
                   style={{
                     height: `${
                       (reportData.average_finalRanking_score_eligible_transcripts /
@@ -208,7 +209,7 @@ export default async function ReportPage({
                 ></div>
               </div>
               {/* X-axis label */}
-              <div className="absolute bottom-[-40px] text-xs text-gray-400 whitespace-nowrap font-normal">
+              <div className="absolute bottom-[-40px] text-xs text-[#a6a6a6] whitespace-nowrap font-normal">
                 week_{reportData.metadata.weekNumber}
                 <br />
                 {reportData.metadata.dateRange}
@@ -248,14 +249,14 @@ export default async function ReportPage({
 
         {/* Qualitative Analysis Headlines */}
         <div className="mt-16">
-          <h2 className="text-2xl mb-6 font-semibold">
+          <h2 className="text-2xl mb-6 font-medium">
             Qualitative analysis headlines:
           </h2>
 
           <div className="grid grid-cols-2 gap-8">
             {/* Highlights */}
             <div className="bg-[#252525] rounded-lg p-8">
-              <h3 className="text-3xl font-normal mb-6 text-[#4CAF50]">
+              <h3 className="text-3xl font-semibold mb-6 text-[#78c38e]">
                 Highlights:
               </h3>
               <ul className="space-y-4">
@@ -271,7 +272,7 @@ export default async function ReportPage({
 
             {/* Opportunities */}
             <div className="bg-[#252525] rounded-lg p-8">
-              <h3 className="text-3xl font-normal mb-6 text-[#FF6B8A]">
+              <h3 className="text-3xl font-semibold mb-6 text-[#FF6B8A]">
                 Opportunities:
               </h3>
               <ul className="space-y-4">
@@ -289,35 +290,35 @@ export default async function ReportPage({
 
         {/* Conversation Analysis */}
         <div className="mt-12">
-          <h2 className="text-2xl mb-6 font-semibold">Conversation Analysis</h2>
+          <h2 className="text-2xl mb-6 font-medium">Conversation Analysis</h2>
           <div className="space-y-4">
             {reportData.conversationAnalysis.condensed.conversations.map(
               (conv) => (
                 <div key={conv.id} className="bg-[#2A2A2A] p-6 rounded">
-                  <h3 className="text-lg font-medium mb-2">
+                  <h3 className="text-xl font-medium mb-2">
                     {conv.id}. {conv.type}
                   </h3>
-                  <div className="space-y-2 text-sm font-normal">
+                  <div className="space-y-2 text-base font-normal">
                     <p>
-                      <span className="text-gray-400 font-semibold">
+                      <span className="font-semibold">
                         Student Trigger:
                       </span>
                       <br /> {conv.studentTrigger}
                     </p>
                     <p>
-                      <span className="text-gray-400 font-semibold">
+                      <span className="font-semibold">
                         Context & Impact:
                       </span>
                       <br /> {conv.contextAndImpact}
                     </p>
                     <p>
-                      <span className="text-gray-400 font-semibold">
+                      <span className="font-semibold">
                         Consultant Response:
                       </span>
                       <br /> {conv.consultantResponse}
                     </p>
                     <p>
-                      <span className="text-gray-400 font-semibold">
+                      <span className="font-semibold">
                         Recommended Improvement:
                       </span>
                       <br /> {conv.recommendedImprovement}
@@ -333,26 +334,26 @@ export default async function ReportPage({
         <div className="mt-16 space-y-12">
           {reportData.conversationAnalysis.verbose.conversations.map((conv) => (
             <div key={conv.id} className="space-y-6">
-              <h2 className="text-xl mb-6 font-semibold italic">
+              <h2 className="text-xl mb-6 font-medium italic">
                 {conv.id}. {conv.type}
               </h2>
 
               {/* Student Trigger */}
               <div className="space-y-2">
-                <h3 className="text-xl text-gray-300 font-normal italic">
+                <h3 className="text-xl text-[#a6a6a6] font-normal italic">
                   Student trigger:
                 </h3>
-                <div className="border border-[#4CAF50] rounded-lg p-6">
+                <div className="border border-[#78c38e] rounded-lg p-6">
                   <p className="text-lg font-normal">{conv.studentTrigger}</p>
                 </div>
               </div>
 
               {/* Consultant Response */}
               <div className="space-y-2">
-                <h3 className="text-xl text-gray-300 font-normal italic">
+                <h3 className="text-xl text-[#a6a6a6] font-normal italic">
                   Consultant response:
                 </h3>
-                <div className="border border-[#4CAF50] rounded-lg p-6">
+                <div className="border border-[#78c38e] rounded-lg p-6">
                   <p className="text-lg font-normal">
                     {conv.consultantResponse}
                   </p>
@@ -361,7 +362,7 @@ export default async function ReportPage({
 
               {/* Recommended Approach */}
               <div className="space-y-2">
-                <h3 className="text-xl text-gray-300 font-normal italic">
+                <h3 className="text-xl text-[#a6a6a6] font-normal italic">
                   Recommended approach:
                 </h3>
                 <div className="border border-[#FF6B8A] rounded-lg p-6">

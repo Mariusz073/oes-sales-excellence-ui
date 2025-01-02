@@ -80,7 +80,7 @@ const SubRequirementsBar = ({ data }: { data: { current: number; lastWeek: numbe
     {/* Values */}
     <div className="absolute -top-16 left-7 text-sm whitespace-nowrap"
       style={{left: '103px'}}>
-      <span className="text-[#4CAF50]">{Math.round(data.current)}% : </span>
+      <span className="text-[#78c38e]">{Math.round(data.current)}% : </span>
       <span className="text-[#FF6B8A]">{Math.round(data.lastWeek)}%</span>
     </div>
 
@@ -96,7 +96,7 @@ const SubRequirementsBar = ({ data }: { data: { current: number; lastWeek: numbe
 
       {/* Current week bar */}
       <div 
-        className="absolute bottom-0 left-0 right-0 bg-[#4CAF50]"
+        className="absolute bottom-0 left-0 right-0 bg-[#78c38e]"
         style={{ 
           height: `${(data.current / 100) * 180}px`,
           marginBottom: '0px',
@@ -158,16 +158,16 @@ export const WeeklyInitiative = ({
                     <div className="text-[#FF6B8A] text-xl mb-2">Full compliance</div>
                     <div className="flex items-center gap-2">
                       <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
-                        <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#4CAF50" strokeWidth="2"/>
-                        <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#4CAF50" strokeWidth="2"/>
+                        <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#78c38e" strokeWidth="2"/>
+                        <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#78c38e" strokeWidth="2"/>
                       </svg>
-                      <span className="text-[#4CAF50]">+{fullCompliance?.change}%</span>
+                      <span className="text-[#78c38e]">+{fullCompliance?.change}%</span>
                       <span className="text-gray-400">Since last week</span>
                     </div>
                   </div>
                   <CircularProgress 
                     percentage={fullCompliance?.percentage || 0}
-                    color="#4CAF50"
+                    color="#78c38e"
                   />
                 </div>
 
@@ -198,7 +198,7 @@ export const WeeklyInitiative = ({
                   {/* Legend */}
                   <div className="flex items-center gap-6 mb-4 text-sm text-gray-400">
                     <div className="flex items-center gap-2">
-                      <div className="w-4 h-[2px] bg-[#4CAF50]"></div>
+                      <div className="w-4 h-[2px] bg-[#78c38e]"></div>
                       <span>This week</span>
                     </div>
                     <div className="flex items-center gap-2">
@@ -243,7 +243,7 @@ export const WeeklyInitiative = ({
                 {/* Top 2 performers */}
                 {consultants.slice(0, 2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                    <div className="w-8 h-8 rounded bg-[#4CAF50] flex items-center justify-center">
+                    <div className="w-8 h-8 rounded bg-[#78c38e] flex items-center justify-center">
                       {index + 1}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>
@@ -292,7 +292,7 @@ export const WeeklyInitiative = ({
                 {/* Top 2 performers */}
                 {consultants.slice(0, 2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                    <div className="w-8 h-8 rounded bg-[#4CAF50] flex items-center justify-center">
+                    <div className="w-8 h-8 rounded bg-[#78c38e] flex items-center justify-center">
                       {index + 1}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>

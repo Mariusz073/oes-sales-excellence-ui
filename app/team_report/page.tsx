@@ -123,7 +123,7 @@ export default async function TeamReportPage({
               <span className="text-sm text-gray-300 font-normal">{reportData.graph.redLabel}</span>
             </div>
             <div className="flex items-center gap-2">
-              <div className="w-6 h-[2px] bg-[#4CAF50]"></div>
+              <div className="w-6 h-[2px] bg-[#78c38e]"></div>
               <span className="text-sm text-gray-300 font-normal">{reportData.graph.greenLabel}</span>
             </div>
             <div className="flex items-center gap-2">
@@ -164,7 +164,7 @@ export default async function TeamReportPage({
                       <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
                         {/* Green bar */}
                         <div 
-                          className="absolute bottom-0 w-full bg-[#4CAF50]" 
+                          className="absolute bottom-0 w-full bg-[#78c38e]" 
                           style={{ 
                             height: `${graph.green}%`
                           }}
