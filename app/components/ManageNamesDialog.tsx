@@ -70,7 +70,7 @@ export default function ManageNamesDialog({
       <div className="fixed inset-0 bg-black bg-opacity-50" onClick={onClose} />
       <div className="bg-[#252525] text-white p-8 rounded-lg w-full max-w-md relative z-10" onClick={(e) => e.stopPropagation()}>
         <div className="space-y-6">
-          <h2 className="text-xl font-bold">Manage Individual Report Access</h2>
+          <h2 className="text-xl font-semibold">Manage Individual Report Access</h2>
           
           <div className="space-y-4 max-h-[400px] overflow-y-auto">
             {reports.map((report) => (
@@ -85,7 +85,7 @@ export default function ManageNamesDialog({
                             ${allSelected ? 'text-[#FF6B8A]' : 'text-gray-400'} 
                             focus:ring-[#FF6B8A]`}
                 />
-                <label htmlFor={report.filename} className="text-sm">
+                <label htmlFor={report.filename} className="text-base font-medium">
                   {report.displayName}
                 </label>
               </div>
