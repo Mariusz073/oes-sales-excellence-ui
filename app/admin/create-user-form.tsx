@@ -97,7 +97,7 @@ export default function CreateUserForm() {
             required
             className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                       border-none outline-none focus:ring-2 focus:ring-[#FF6B8A] 
-                      appearance-none w-full font-normal"
+                      appearance-none w-full font-medium"
             placeholder="Username"
             disabled={isPending}
           />
@@ -113,7 +113,7 @@ export default function CreateUserForm() {
               onChange={(e) => setIsAdmin(e.target.checked)}
               className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
             />
-            <label htmlFor="isAdmin" className="ml-2 block text-sm text-white">
+            <label htmlFor="isAdmin" className="ml-2 block text-base font-medium text-white">
               Admin (all privileges and Admin Panel access)
             </label>
           </div>
@@ -136,14 +136,14 @@ export default function CreateUserForm() {
                 disabled={isAdmin}
                 label="Individual reports"
               />
-              <label htmlFor="individualReports" className="block text-sm text-white">
+              <label htmlFor="individualReports" className="-ml-2 block text-base font-medium text-white">
                 Individual reports
               </label>
               {!isAdmin && (
                 <button
                   type="button"
                   onClick={() => !privileges.individualReports && setIsManageReportsOpen(true)}
-                  className={`button text-sm py-1 ${
+                  className={`button text-base py-1 ${
                           privileges.individualReports ? 
                           'opacity-50 cursor-not-allowed' : 
                           'bg-gray-700 hover:bg-gray-600'
@@ -165,7 +165,7 @@ export default function CreateUserForm() {
                 disabled={isAdmin}
                 className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
               />
-              <label htmlFor="teamMonash" className="ml-2 block text-sm text-white">
+              <label htmlFor="teamMonash" className="ml-2 block text-base font-medium text-white">
                 Team reports - Monash
               </label>
             </div>
@@ -180,7 +180,7 @@ export default function CreateUserForm() {
                 disabled={isAdmin}
                 className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
               />
-              <label htmlFor="teamSOL" className="ml-2 block text-sm text-white">
+              <label htmlFor="teamSOL" className="ml-2 block text-base font-medium text-white">
                 Team reports - SOL
               </label>
             </div>
@@ -195,7 +195,7 @@ export default function CreateUserForm() {
                 disabled={isAdmin}
                 className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
               />
-              <label htmlFor="teamBehavioural" className="ml-2 block text-sm text-white">
+              <label htmlFor="teamBehavioural" className="ml-2 block text-base font-medium text-white">
                 Team reports - Behavioural
               </label>
             </div>
@@ -210,7 +210,7 @@ export default function CreateUserForm() {
                 disabled={isAdmin}
                 className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
               />
-              <label htmlFor="teamCollaborative" className="ml-2 block text-sm text-white">
+              <label htmlFor="teamCollaborative" className="ml-2 block text-base font-medium text-white">
                 Team reports - Collaborative
               </label>
             </div>
@@ -219,8 +219,8 @@ export default function CreateUserForm() {
 
         {message && (
           <p
-            className={`text-sm ${
-              message.type === "success" ? "text-green-600" : "text-red-600"
+            className={`text-lg ${
+              message.type === "success" ? "text-green-500" : "text-red-600"
             }`}
           >
             {message.text}

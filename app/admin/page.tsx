@@ -23,7 +23,7 @@ export default async function AdminPage() {
         </div>
         <div className="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-x-8">
           <section className="mb-8 lg:mb-0">
-            <h2 className="text-xl font-bold mb-6">Create New User</h2>
+            <h2 className="text-2xl font-semibold mb-6">Create New User</h2>
             <CreateUserForm />
           </section>
           <section>

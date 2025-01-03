@@ -153,14 +153,14 @@ export default function ManageUsers() {
   return (
     <>
       <div>
-        <h2 className="text-xl font-bold mb-6">Manage Users</h2>
+        <h2 className="text-2xl font-semibold mb-6">Manage Users</h2>
         
         <div className="space-y-4">
           <div>
             <select
-              className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+              className="bg-[#252525] text-white px-4 py-3 text-base text font-medium rounded-lg 
                         border-none outline-none focus:ring-2 focus:ring-[#FF6B8A] 
-                        appearance-none w-full font-normal"
+                        appearance-none w-full"
               value={selectedUserId?.toString() || ""}
               onChange={handleUserChange}
               aria-label="Select user to manage"
@@ -194,7 +194,7 @@ export default function ManageUsers() {
                     onChange={handlePrivilegeChange}
                     className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
                   />
-                  <label htmlFor="isAdmin" className="ml-2 block text-sm text-white">
+                  <label htmlFor="isAdmin" className="ml-2 block text-base font-medium text-white">
                     Admin (all privileges and Admin Panel access)
                   </label>
                 </div>
@@ -217,14 +217,14 @@ export default function ManageUsers() {
                       disabled={isAdmin}
                       label="Individual reports"
                     />
-                    <label htmlFor="individualReports" className="block text-sm text-white">
+                    <label htmlFor="individualReports" className="-ml-2 block text-base font-medium text-white">
                       Individual reports
                     </label>
                     {!isAdmin && (
                       <button
                         type="button"
                         onClick={() => !privileges.individualReports && setIsManageNamesOpen(true)}
-                        className={`button text-sm py-1 ${
+                        className={`button text-base font-medium py-1 ${
                           privileges.individualReports ? 
                           'opacity-50 cursor-not-allowed' : 
                           'bg-gray-700 hover:bg-gray-600'
@@ -246,7 +246,7 @@ export default function ManageUsers() {
                       disabled={isAdmin}
                       className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
                     />
-                    <label htmlFor="teamMonash" className="ml-2 block text-sm text-white">
+                    <label htmlFor="teamMonash" className="ml-2 block text-base font-medium text-white">
                       Team reports - Monash
                     </label>
                   </div>
@@ -261,7 +261,7 @@ export default function ManageUsers() {
                       disabled={isAdmin}
                       className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
                     />
-                    <label htmlFor="teamSOL" className="ml-2 block text-sm text-white">
+                    <label htmlFor="teamSOL" className="ml-2 block text-base font-medium text-white">
                       Team reports - SOL
                     </label>
                   </div>
@@ -276,7 +276,7 @@ export default function ManageUsers() {
                       disabled={isAdmin}
                       className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
                     />
-                    <label htmlFor="teamBehavioural" className="ml-2 block text-sm text-white">
+                    <label htmlFor="teamBehavioural" className="ml-2 block text-base font-medium text-white">
                       Team reports - Behavioural
                     </label>
                   </div>
@@ -291,7 +291,7 @@ export default function ManageUsers() {
                       disabled={isAdmin}
                       className="h-4 w-4 text-[#FF6B8A] focus:ring-[#FF6B8A] border-gray-300 rounded"
                     />
-                    <label htmlFor="teamCollaborative" className="ml-2 block text-sm text-white">
+                    <label htmlFor="teamCollaborative" className="ml-2 block text-base font-medium text-white">
                       Team reports - Collaborative
                     </label>
                   </div>
@@ -330,8 +330,8 @@ export default function ManageUsers() {
 
           {message && (
             <p
-              className={`text-sm ${
-                message.type === "success" ? "text-green-600" : "text-red-600"
+              className={`text-lg ${
+                message.type === "success" ? "text-green-500" : "text-red-600"
               }`}
             >
               {message.text}
