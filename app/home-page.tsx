@@ -117,7 +117,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                 <select
                 className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                           border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                          appearance-none cursor-pointer min-w-[200px] font-normal
+                          appearance-none cursor-pointer min-w-[200px] font-medium
                           ${!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0) ? 'opacity-50 cursor-not-allowed' : ''}`}
                 value={selectedFile}
                 aria-label="Select individual report"
@@ -161,7 +161,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               <select
               className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-normal
+                        appearance-none cursor-pointer min-w-[200px] font-medium
                         ${!isAdmin && !privileges.teamMonash && !privileges.teamSOL ? 'opacity-50 cursor-not-allowed' : ''}`}
               disabled={!isAdmin && !privileges.teamMonash && !privileges.teamSOL}
               value={selectedTeam}
@@ -182,7 +182,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               <select
               className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-normal
+                        appearance-none cursor-pointer min-w-[200px] font-medium
                         ${!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative ? 'opacity-50 cursor-not-allowed' : ''}`}
               disabled={!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative}
               value={selectedAnalysis}
@@ -203,7 +203,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               <select
               className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-normal"
+                        appearance-none cursor-pointer min-w-[200px] font-medium"
               value={selectedWeek}
               aria-label="Select week number"
               onChange={(e) => setSelectedWeek(e.target.value)}
