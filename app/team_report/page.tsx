@@ -12,7 +12,7 @@ interface Graph {
 interface SubRequirement {
   title: string;
   current: number;
-  lastWeek: number;
+  last_week: number;
 }
 
 interface ConsultantResult {
@@ -28,32 +28,37 @@ interface AverageResult {
 interface WeeklyInsight {
   title: string;
   content: string;
-  borderColor: string;
+  border_color: string;
+}
+
+interface WeeklyInsights {
+  verdicts_count: number;
+  insights: WeeklyInsight[];
 }
 
 interface TeamReportData {
   type: string;
   requirement: string;
-  firstPageTitle: string;
-  secondPageTitle: string;
+  first_page_title: string;
+  second_page_title: string;
   graph: {
     bars: Graph[];
-    greenLabel: string;
-    redLabel: string;
-    blackLabel: string;
-    resultLabel: string;
+    green_label: string;
+    red_label: string;
+    black_label: string;
+    result_label: string;
   };
-  subRequirements?: {
+  sub_requirements?: {
     data: SubRequirement[];
-    verdictsCount: number;
+    verdicts_count: number;
   };
-  individualPerformance: {
-    verdictsCount: number;
-    consultantResults: ConsultantResult[];
-    averageResult: AverageResult;
+  individual_performance: {
+    verdicts_count: number;
+    consultant_results: ConsultantResult[];
+    average_result: AverageResult;
   };
-  weeklyInsights?: {
-    verdictsCount: number;
+  weekly_insights?: {
+    verdicts_count: number;
     insights: WeeklyInsight[];
   };
 }
@@ -74,7 +79,7 @@ export default async function TeamReportPage({
   }
 
   // Extract titles and highlight the text between <em> tags in red
-  const firstTitleParts = reportData.firstPageTitle.split(/<em>|<\/em>/);
+  const firstTitleParts = reportData.first_page_title.split(/<em>|<\/em>/);
   const formattedFirstTitle = firstTitleParts.map((part: string, index: number) => 
     index % 2 === 1 ? <span key={index} className="text-[#FF6B8A]">{part}</span> : part
   );
@@ -88,7 +93,7 @@ export default async function TeamReportPage({
     : 0;
 
   // Sort consultants by compliance percentage
-  const sortedConsultants = [...reportData.individualPerformance.consultantResults]
+  const sortedConsultants = [...reportData.individual_performance.consultant_results]
     .map(consultant => ({
       ...consultant,
       percentage: parseInt(consultant.result.match(/\((\d+)%\)$/)?.[1] || '0')
@@ -120,18 +125,18 @@ export default async function TeamReportPage({
           <div className="flex items-center gap-6 mb-4">
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.redLabel}</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.red_label}</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#78c38e]"></div>
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.greenLabel}</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.green_label}</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#1E1E1E]"></div>
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.blackLabel}</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.black_label}</span>
             </div>
             <div className="flex items-center gap-2 ml-8">
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.resultLabel}</span>
+              <span className="text-sm text-gray-300 font-normal">{reportData.graph.result_label}</span>
             </div>
           </div>
 
@@ -214,7 +219,7 @@ export default async function TeamReportPage({
         {/* Second Section - Weekly Report Initiative */}
         <WeeklyInitiative 
           type={reportData.type}
-          title={reportData.secondPageTitle}
+          title={reportData.second_page_title}
           fullCompliance={{
             percentage: reportData.graph.bars[lastIndex].green,
             change: fullComplianceChange
@@ -223,15 +228,15 @@ export default async function TeamReportPage({
             percentage: reportData.type === 'Compliance' ? reportData.graph.bars[lastIndex].red! : 0,
             change: partialComplianceChange
           }}
-          subRequirements={reportData.subRequirements?.data || []}
+          subRequirements={reportData.sub_requirements?.data || []}
           consultants={sortedConsultants.map(consultant => ({
             name: consultant.name,
             result: consultant.result,
             percentage: consultant.percentage
           }))}
-          averageResult={reportData.individualPerformance.averageResult}
-          weeklyInsights={reportData.weeklyInsights}
-          individualPerformanceCount={reportData.individualPerformance.verdictsCount}
+          averageResult={reportData.individual_performance.average_result}
+          weeklyInsights={reportData.weekly_insights}
+          individualPerformanceCount={reportData.individual_performance.verdicts_count}
         />
       </div>
     </div>

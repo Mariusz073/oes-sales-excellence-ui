@@ -294,7 +294,7 @@ export default async function ReportPage({
                   <h3 className="text-xl font-medium mb-2">
                     {conv.id}. {conv.title}
                   </h3>
-                  <div className="space-y-2 text-base font-medium">
+                  <div className="space-y-2 text-base font-base">
                     <p>
                       <span className="font-semibold">
                         Student Trigger:

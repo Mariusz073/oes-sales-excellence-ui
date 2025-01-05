@@ -1,7 +1,7 @@
 interface WeeklyInsight {
   title: string;
   content: string;
-  borderColor: string;
+  border_color: string;
 }
 
 interface WeeklyInitiativeProps {
@@ -18,7 +18,7 @@ interface WeeklyInitiativeProps {
   subRequirements?: Array<{
     title: string;
     current: number;
-    lastWeek: number;
+    last_week: number;
   }>;
   consultants: Array<{
     name: string;
@@ -30,7 +30,7 @@ interface WeeklyInitiativeProps {
     result: string;
   };
   weeklyInsights?: {
-    verdictsCount: number;
+    verdicts_count: number;
     insights: WeeklyInsight[];
   };
   individualPerformanceCount?: number;
@@ -75,13 +75,13 @@ const CircularProgress = ({ percentage, color }: { percentage: number; color: st
   </div>
 );
 
-const SubRequirementsBar = ({ data }: { data: { current: number; lastWeek: number; title: string } }) => (
+const SubRequirementsBar = ({ data }: { data: { current: number; last_week: number; title: string } }) => (
   <div className="relative w-28">
     {/* Values */}
     <div className="absolute -top-16 left-7 text-sm whitespace-nowrap"
       style={{left: '103px'}}>
       <span className="text-[#78c38e]">{Math.round(data.current)}% : </span>
-      <span className="text-[#FF6B8A]">{Math.round(data.lastWeek)}%</span>
+      <span className="text-[#FF6B8A]">{Math.round(data.last_week)}%</span>
     </div>
 
     {/* Bar */}
@@ -108,7 +108,7 @@ const SubRequirementsBar = ({ data }: { data: { current: number; lastWeek: numbe
       <div 
         className="absolute left-0 right-0 h-0.5 bg-[#FF6B8A] z-10"
         style={{ 
-          bottom: `${(data.lastWeek / 100) * 180}px`,
+          bottom: `${(data.last_week / 100) * 180}px`,
           transition: 'bottom 0.3s ease'
         }}
       />
@@ -138,6 +138,9 @@ export const WeeklyInitiative = ({
   const formattedTitle = titleParts.map((part: string, index: number) => 
     index % 2 === 1 ? <span key={index} className="text-[#FF6B8A]">{part}</span> : part
   );
+
+  // Filter out consultants with "0/0 (0.00%)" results
+  const filteredConsultants = consultants.filter(consultant => consultant.result !== "0/0 (0.00%)");
 
   return (
     <div className="mt-8 bg-[#252525] rounded-lg p-10">
@@ -241,7 +244,7 @@ export const WeeklyInitiative = ({
               <h3 className="text-xl mb-6">Individual performance</h3>
               <div className="space-y-4">
                 {/* Top 2 performers */}
-                {consultants.slice(0, 2).map((consultant, index) => (
+                {filteredConsultants.slice(0, 2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                     <div className="w-8 h-8 rounded bg-[#78c38e] flex items-center justify-center">
                       {index + 1}
@@ -267,10 +270,10 @@ export const WeeklyInitiative = ({
                 <div className="text-center text-2xl text-gray-500">...</div>
 
                 {/* Bottom 2 performers */}
-                {consultants.slice(-2).map((consultant, index) => (
+                {filteredConsultants.slice(-2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                     <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
-                      {consultants.length - 1 + index}
+                      {filteredConsultants.length - 1 + index}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>
                     <span>{consultant.result}</span>
@@ -290,7 +293,7 @@ export const WeeklyInitiative = ({
               </h3>
               <div className="space-y-4">
                 {/* Top 2 performers */}
-                {consultants.slice(0, 2).map((consultant, index) => (
+                {filteredConsultants.slice(0, 2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                     <div className="w-8 h-8 rounded bg-[#78c38e] flex items-center justify-center">
                       {index + 1}
@@ -316,10 +319,10 @@ export const WeeklyInitiative = ({
                 <div className="text-center text-2xl text-gray-500">...</div>
 
                 {/* Bottom 2 performers */}
-                {consultants.slice(-2).map((consultant, index) => (
+                {filteredConsultants.slice(-2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                     <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
-                      {consultants.length - 1 + index}
+                      {filteredConsultants.length - 1 + index}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>
                     <span>{consultant.result}</span>
@@ -332,14 +335,14 @@ export const WeeklyInitiative = ({
             <div>
               <h3 className="text-xl mb-6 flex items-center gap-2">
                 Weekly insights
-                <span className="text-sm text-gray-400">n={weeklyInsights?.verdictsCount}</span>
+                <span className="text-sm text-gray-400">n={weeklyInsights?.verdicts_count}</span>
               </h3>
               <div className="space-y-4">
                 {weeklyInsights?.insights.map((insight, index) => (
                   <div 
                     key={index} 
                     className="p-4 rounded bg-[#1E1E1E] border-l-4"
-                    style={{ borderColor: insight.borderColor }}
+                    style={{ borderColor: insight.border_color }}
                   >
                     <div className="text-sm font-medium mb-2">{insight.title}</div>
                     <div className="text-sm text-gray-400">{insight.content}</div>
