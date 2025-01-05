@@ -258,7 +258,7 @@ export default async function ReportPage({
                   (theme: { headline: string; explanation: string }, index: number) => (
                     <li key={index} className="mb-4">
                       <div className="text-xl font-medium">{theme.headline}</div>
-                      <div className="text-base font-medium mt-1">{theme.explanation}</div>
+                      <div className="text-lg font-medium mt-1 italic">{theme.explanation}</div>
                     </li>
                   )
                 )}
@@ -275,7 +275,7 @@ export default async function ReportPage({
                   (theme: { headline: string; explanation: string }, index: number) => (
                     <li key={index} className="mb-4">
                       <div className="text-xl font-medium">{theme.headline}</div>
-                      <div className="text-base font-medium mt-1">{theme.explanation}</div>
+                      <div className="text-lg font-medium mt-1 italic">{theme.explanation}</div>
                     </li>
                   )
                 )}

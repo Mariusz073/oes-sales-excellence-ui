@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 216,
+  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 26.6875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.685185185185187,
+    "team_average_percentage": 14.38995377453293
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 167,
+    "team_average_absolute_number": 66.6875
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.31481481481481,
+    "team_average_percentage": 35.61004622546707
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.82461422164799,
+    "team_average": 51.280019574376695
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 167,
+    "team_total_excluded_transcripts": 1067
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 217.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 148.06,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 199.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.04,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 149.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.75,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Student-Centered Pathway Planning",
+        "explanation": "Effectively collaborating with students to create educational pathways that align with their unique circumstances and goals"
+      },
+      {
+        "headline": "Flexible Learning Solutions",
+        "explanation": "Proactively offering adaptable study options to accommodate various student limitations and preferences"
+      },
+      {
+        "headline": "Clear Program Structure Communication",
+        "explanation": "Successfully explaining course components and requirements while maintaining student engagement and understanding"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Support Integration",
+        "explanation": "Need for more comprehensive exploration and integration of support services based on student disclosures"
+      },
+      {
+        "headline": "Deeper Career Planning",
+        "explanation": "More thorough discussion needed of career goals and professional development pathways during educational planning"
+      },
+      {
+        "headline": "Comprehensive Process Navigation",
+        "explanation": "Greater detail needed in explaining enrollment processes and ongoing support mechanisms"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Supporting Students with Disclosed Disabilities",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "not_specified",
+              "segment_id": "213",
+              "timestamp": "5:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed autism and ADHD, expressing past challenges with tertiary education and current readiness to try again with support.",
+          "consultant_response": "Consultant introduced AccessAbility services but missed opportunity for deeper engagement: 'No, it's mainly so that I can let you know that Swinburne has a support system called AccessAbility.'",
+          "context_impact": "Critical moment to demonstrate institutional support and build student confidence in their ability to succeed.",
+          "recommended_approach": "Should explore specific support needs and create collaborative support plan tailored to student's disclosed conditions."
+        },
+        {
+          "id": 2,
+          "title": "Clear Educational Pathway Development",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "not_specified",
+              "segment_id": "46",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call6",
+                "segment_id": "330",
+                "timestamp": "6:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed enthusiasm for study while seeking understanding of progression options and pathway planning.",
+          "consultant_response": "Effectively outlined progression pathways while maintaining enthusiasm and providing practical planning support.",
+          "context_impact": "Opportunity to build confidence through structured pathway planning and clear progression steps.",
+          "recommended_approach": "None needed - excellent example of collaborative planning with clear progression guidance."
+        },
+        {
+          "id": 3,
+          "title": "Effective Work-Study Balance Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "159",
+              "timestamp": "27:22"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "2",
+                "segment_id": "96",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing work commitments with study requirements.",
+          "consultant_response": "Clear explanation of pause options and study flexibility demonstrated strong planning approach.",
+          "context_impact": "Understanding flexibility options crucial for enrollment confidence.",
+          "recommended_approach": "None needed - effectively addressed work-study balance concerns."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "61",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "call_5",
+                "segment_id": "5",
+                "timestamp": "00:41"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about career transitions, including maternity leave and professional development.",
+          "consultant_response": "Focus remained on basic program information without addressing deeper career implications or transition planning.",
+          "context_impact": "Inadequate career planning discussion affected enrollment confidence and program value perception.",
+          "recommended_approach": "Need comprehensive career integration discussions and detailed transition planning."
+        },
+        {
+          "id": 5,
+          "title": "Effective Course Structure Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "22",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "88",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity about program structure, components, and flexibility options.",
+          "consultant_response": "Consultants provided comprehensive information about course structure and accreditation: 'It's a fully accredited course' and 'Look, with this course, it's only four subjects.'",
+          "context_impact": "Clear understanding of course structure crucial for enrollment confidence and decision-making.",
+          "recommended_approach": "None needed - demonstrated excellent clarity and comprehensive information."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Supporting Students with Disclosed Disabilities",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "not_specified",
+              "segment_id": "213",
+              "timestamp": "5:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 5:31 into the call (segment 213), the student made a significant disclosure: 'Yes, I'm autistic and I have ADHD, which is part of the reason why when I tried doing tertiary education after high school, I just could not because it was a bit difficult then, but I mean, I'm getting help now, so that's kind of the reason I'm trying to pursue it again.' This vulnerable moment revealed both past challenges and current determination to succeed with proper support.",
+          "consultant_response": "The consultant introduced AccessAbility services but missed the opportunity for deeper engagement, stating: 'No, it's mainly so that I can let you know that Swinburne has a support system called AccessAbility... So just putting that on your radar because you do have to sign up for it yourself but I'll send you a link for you to look into it.' While providing basic information, this response didn't adequately explore the student's specific needs or create a collaborative support strategy.",
+          "priority": "high",
+          "recommended_approach": "A more effective response should begin with validation: 'I appreciate your openness about these challenges, and I'm glad you're seeking support this time.' Then explore specific needs: 'Can you tell me more about what kind of support has been helpful for you?' Following this, outline detailed support options: 'Based on what you've shared, let me explain how AccessAbility services can provide specific accommodations for your needs.' The conversation should conclude with clear action steps: 'Would you like to discuss the registration process for AccessAbility services now, or would you prefer I send you detailed information to review?'"
+        },
+        {
+          "id": 2,
+          "title": "Clear Educational Pathway Development",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "not_specified",
+              "segment_id": "46",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call6",
+                "segment_id": "330",
+                "timestamp": "6:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated strong motivation and clear interest in understanding progression pathways, with concerns about managing study commitments effectively. Their questions revealed both enthusiasm for study and practical concerns about navigating their educational journey successfully.",
+          "consultant_response": "Consultants effectively validated student motivation while providing clear pathway guidance. They successfully outlined progression options, addressed concerns about workload management, and maintained student enthusiasm while ensuring realistic planning for success.",
+          "priority": "high",
+          "recommended_approach": "This positive example effectively demonstrated collaborative planning and needs no significant improvement. The consultants successfully validated concerns while providing clear progression pathways. The approach could be marginally enhanced by including more detailed discussion of support services available at each educational level."
+        },
+        {
+          "id": 3,
+          "title": "Effective Work-Study Balance Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "159",
+              "timestamp": "27:22"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "2",
+                "segment_id": "96",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing work commitments alongside study requirements. These moments presented crucial opportunities to demonstrate program flexibility and build confidence in successful study management.",
+          "consultant_response": "Consultants effectively explained pause options and study flexibility, demonstrating strong understanding of work-life balance challenges. Their responses helped transform potential barriers into manageable solutions through clear explanation of flexibility options and support structures. The approach successfully built student confidence in their ability to manage multiple commitments.",
+          "priority": "high",
+          "recommended_approach": "While current approaches are effective, consultants could further enhance discussions by: 1) Sharing specific examples of successful work-study strategies, 2) Creating individualized study schedules, 3) Discussing time management techniques, 4) Outlining support services for busy periods, and 5) Establishing regular check-points for workload review."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "61",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "call_5",
+                "segment_id": "5",
+                "timestamp": "00:41"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about career implications, including transitions during maternity leave and professional development opportunities. These moments presented crucial opportunities for comprehensive career planning discussions and demonstrated the need for detailed guidance on integrating educational and professional goals.",
+          "consultant_response": "Consultants typically focused on immediate program details without addressing deeper career implications or providing comprehensive transition planning support. This represented missed opportunities to demonstrate how the program could specifically support students' career goals and professional development needs. The lack of detailed career discussion may have reduced student confidence in the program's value for their professional growth.",
+          "priority": "high",
+          "recommended_approach": "Consultants should implement a comprehensive career integration approach: 1) Begin by acknowledging specific career concerns and transitions, 2) Explore detailed professional goals and aspirations, 3) Map program components to career objectives, 4) Discuss specific support services available during transitions, 5) Create tailored career development plans aligned with academic progress, 6) Set clear milestones for career goal achievement, and 7) Establish regular check-points for career plan review and adjustment."
+        },
+        {
+          "id": 5,
+          "title": "Effective Course Structure Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "22",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "88",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity about program structure, specifically inquiring about majors, minors, electives, and study flexibility. These moments represented critical decision points where clear information could significantly impact enrollment confidence and program understanding.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive information about course structure and accreditation. They effectively communicated both technical details and practical implications: 'It's a fully accredited course' and 'Look, with this course, it's only four subjects.' This approach successfully transformed potential confusion into clear understanding while building confidence in program validity and design. The consultants' responses showed strong awareness of the importance of clear structure communication in supporting student decision-making.",
+          "priority": "high",
+          "recommended_approach": "While the current approach is effective, consultants could further enhance their responses by: 1) Relating course structure to specific career goals, 2) Providing examples of successful study patterns, 3) Creating visual aids or diagrams to illustrate program progression, 4) Discussing how different components build upon each other, and 5) Setting expectations for ongoing support throughout the program. This would create an even stronger foundation for student success."
+        }
+      ]
+    }
+  }
+}

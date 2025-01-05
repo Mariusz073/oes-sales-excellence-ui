@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "consultant_name": "Robert Cecere",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative planning"
+  },
+  "total_number_of_calls": 214,
+  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 26.6875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.897196261682243,
+    "team_average_percentage": 14.38995377453293
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 165,
+    "team_average_absolute_number": 66.6875
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.10280373831776,
+    "team_average_percentage": 35.61004622546707
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.81388765754563,
+    "team_average": 51.280019574376695
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 165,
+    "team_total_excluded_transcripts": 1067
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 187.01,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.99,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 173.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.27,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    }
+  ],
+  "themes": {
+    "positive": [],
+    "improvement": []
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": []
+    },
+    "verbose": {
+      "conversations": []
+    }
+  }
+}
