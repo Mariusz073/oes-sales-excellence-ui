@@ -3,38 +3,56 @@
 const fs = require('fs');
 const path = require('path');
 
-interface ConversationAnalysisCondensed {
-  id: number;
-  type: string;
-  callId: string;
-  segmentId?: string;
-  studentTrigger: string;
-  contextAndImpact: string;
-  consultantResponse: string;
-  recommendedImprovement: string;
+interface RelatedCalls {
+  primary_call: {
+    call_id: string;
+    segment_id: string;
+    timestamp: string | null;
+  };
+  supporting_calls: Array<{
+    call_id: string;
+    segment_id: string;
+    timestamp: string | null;
+  }>;
 }
 
-interface ConversationAnalysisVerbose {
-  id: number;
-  type: string;
-  callId: string;
-  segmentId?: string;
-  studentTrigger: string;
-  consultantResponse: string;
-  recommendedApproach: string;
+interface Theme {
+  headline: string;
+  explanation: string;
 }
 
-interface ThemesData {
-  positive_themes: string[];
-  improvement_themes: string[];
+interface BehavioralScore {
+  label: string;
+  average_final_ranking_score_eligible_transcripts: number;
+  average_final_ranking_score_all_transcripts_over_2_mins: number;
+  team_average_final_ranking_score_eligible_transcripts: number;
+  team_average_final_ranking_score_all_transcripts_over_2_mins: number;
+}
+
+interface ConversationBase {
+  id: number;
+  title: string;
+  type: string;
+  is_aggregated: boolean;
+  related_calls: RelatedCalls;
+  student_trigger: string;
+  consultant_response: string;
+  context_impact: string;
+  recommended_approach: string;
+}
+
+interface ConversationCondensed extends ConversationBase {}
+
+interface ConversationVerbose extends ConversationBase {
+  priority: string;
 }
 
 export interface ReportData {
   metadata: {
-    consultantName: string;
-    reportType: string;
-    weekNumber: number;
-    dateRange: string;
+    consultant_name: string;
+    report_type: string;
+    week_number: number;
+    date_range: string;
   };
   total_number_of_calls: number;
   team_average_total_number_of_calls_per_sales_consultant: number;
@@ -62,17 +80,17 @@ export interface ReportData {
     individual_excluded_transcripts: number;
     team_total_excluded_transcripts: number;
   };
-  average_finalRanking_score_eligible_transcripts: number;
-  average_finalRanking_score_all_transcripts_over_2_mins: number;
-  team_average_finalRanking_score_eligible_transcripts: number;
-  team_average_finalRanking_score_all_transcripts_over_2_mins: number;
-  "Collaborative planning with high-need students:": ThemesData;
-  conversationAnalysis: {
+  behavioral_scores: BehavioralScore[];
+  themes: {
+    positive: Theme[];
+    improvement: Theme[];
+  };
+  conversation_analysis: {
     condensed: {
-      conversations: ConversationAnalysisCondensed[];
+      conversations: ConversationCondensed[];
     };
     verbose: {
-      conversations: ConversationAnalysisVerbose[];
+      conversations: ConversationVerbose[];
     };
   };
 }
@@ -86,7 +104,30 @@ export async function getReportData(filename: string): Promise<ReportData> {
   
   try {
     const fileContent = fs.readFileSync(filePath, 'utf8');
-    const data = JSON.parse(fileContent);
+    const rawData = JSON.parse(fileContent);
+
+    // Transform data to match expected format
+    const data: ReportData = {
+      metadata: {
+        consultant_name: rawData.metadata.consultant_name,
+        report_type: rawData.metadata.report_type,
+        week_number: rawData.metadata.week_number,
+        date_range: rawData.metadata.date_range
+      },
+      total_number_of_calls: rawData.total_number_of_calls,
+      team_average_total_number_of_calls_per_sales_consultant: rawData.team_average_total_number_of_calls_per_sales_consultant,
+      number_of_calls_over_2_minutes: rawData.number_of_calls_over_2_minutes,
+      percent_of_calls_over_2_minutes: rawData.percent_of_calls_over_2_minutes,
+      number_of_calls_under_2_minutes: rawData.number_of_calls_under_2_minutes,
+      percent_of_calls_under_2_minutes: rawData.percent_of_calls_under_2_minutes,
+      average_talking_percentage: rawData.average_talking_percentage,
+      excluded_transcripts: rawData.excluded_transcripts,
+      behavioral_scores: rawData.behavioral_scores,
+      themes: rawData.themes,
+      conversation_analysis: rawData.conversation_analysis
+    };
+
+    console.log('Transformed data:', JSON.stringify(data, null, 2));
     return data;
   } catch (error) {
     console.error('Error reading JSON report:', error);

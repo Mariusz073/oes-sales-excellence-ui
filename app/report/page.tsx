@@ -10,14 +10,7 @@ export default async function ReportPage({
 
   if (!reportData) return <div>Loading...</div>;
 
-  const themesData = {
-    positive_themes:
-      reportData["Collaborative planning with high-need students:"]
-        ?.positive_themes || [],
-    improvement_themes:
-      reportData["Collaborative planning with high-need students:"]
-        ?.improvement_themes || [],
-  };
+  const currentBehavioralScore = reportData.behavioral_scores[reportData.behavioral_scores.length - 1];
 
   return (
     <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
@@ -28,16 +21,16 @@ export default async function ReportPage({
           <div className="mb-8">
             <h1 className="text-5xl whitespace-nowrap">
               <span className="text-[#FF6B8A] font-semibold">
-                {reportData.metadata.consultantName} |
+                {reportData.metadata.consultant_name} |
               </span>
               <span className="text-white text-4xl">
                 {" "}
-                Collaborative planning
+                {reportData.metadata.report_type}
               </span>
             </h1>
             <p className="text-xl italic text-[#a6a6a6] mt-4">
-              Week {reportData.metadata.weekNumber}:{" "}
-              {reportData.metadata.dateRange}
+              Week {reportData.metadata.week_number}:{" "}
+              {reportData.metadata.date_range}
             </p>
 
             {/* Create PDF Button */}
@@ -60,7 +53,9 @@ export default async function ReportPage({
           <table className="w-full border-separate border-spacing-x-6">
             <thead>
               <tr>
-                <th className="text-left pb-8 w-12"></th>
+                <th className="text-left pb-8 w-12">
+                  <span className="sr-only">Category</span>
+                </th>
                 <th className="text-center pb-8 w-1/3">
                   <div className="bg-[#303030] rounded px-4 py-6 text-xl font-normal">
                     Total calls
@@ -169,7 +164,7 @@ export default async function ReportPage({
           <div className="relative h-[400px] mt-16 mb-16">
             {/* Y-axis labels */}
             <div className="absolute -left-2 -top-11 h-[110%] flex flex-col justify-between text-xs text-[#a6a6a6] font-normal">
-              <span>% alignment</span>
+              <span>Score</span>
               <span>100</span>
               <span>90</span>
               <span>80</span>
@@ -183,67 +178,66 @@ export default async function ReportPage({
               <span>0</span>
             </div>
 
-            {/* Bar */}
+            {/* Bars Container */}
             <div className="relative h-[98%] ml-8">
-              <div className="absolute bottom-0 w-16 bg-[#1E1E1E] h-full">
-                <div
-                  className="absolute bottom-0 w-full bg-[#78c38e]"
-                  style={{
-                    height: `${
-                      (reportData.average_finalRanking_score_eligible_transcripts /
-                        380) *
-                      100
-                    }%`,
-                  }}
-                ></div>
-                {/* Red line for team average */}
-                <div
-                  className="absolute w-full h-[4px] bg-[#FF6B8A]"
-                  style={{
-                    bottom: `${
-                      (reportData.team_average_finalRanking_score_eligible_transcripts /
-                        380) *
-                      100
-                    }%`,
-                  }}
-                ></div>
-              </div>
-              {/* X-axis label */}
-              <div className="absolute bottom-[-40px] text-xs text-[#a6a6a6] whitespace-nowrap font-normal">
-                week_{reportData.metadata.weekNumber}
-                <br />
-                {reportData.metadata.dateRange}
-              </div>
-
-              {/* Timeline */}
-              <div className="absolute bottom-[-60px] left-0 right-5">
-                {/* Week past section */}
-                <div className="relative float-left w-[70px]">
-                  <div className="flex items-center">
-                    <div className="w-2 h-2 rounded-full bg-white"></div>
-                    <div className="w-full h-[1px] bg-white"></div>
-                    <div className="w-2 h-2 rounded-full bg-white"></div>
+              {Array.from({ length: 12 }).map((_, index) => {
+                const score = reportData.behavioral_scores[index];
+                const barWidth = 64; // 16px * 4
+                const gapWidth = 16;
+                const totalWidth = barWidth + gapWidth;
+                
+                return (
+                  <div
+                    key={index}
+                    className="absolute bottom-0 h-full"
+                    style={{ left: `${index * totalWidth}px` }}
+                  >
+                    <div className="absolute bottom-0 w-16 bg-[#1E1E1E] h-full">
+                      {score && (
+                        <>
+                          <div
+                            className="absolute bottom-0 w-full bg-[#78c38e]"
+                            style={{
+                              height: `${
+                                (score.average_final_ranking_score_eligible_transcripts /
+                                  380) *
+                                100
+                              }%`,
+                            }}
+                          ></div>
+                          {/* Red line for team average */}
+                          <div
+                            className="absolute w-full h-[4px] bg-[#FF6B8A]"
+                            style={{
+                              bottom: `${
+                                (score.team_average_final_ranking_score_eligible_transcripts /
+                                  380) *
+                                100
+                              }%`,
+                            }}
+                          ></div>
+                        </>
+                      )}
+                    </div>
+                    {/* X-axis label */}
+                    {score && (
+                      <div 
+                        className="absolute text-xs text-[#a6a6a6] whitespace-nowrap font-normal text-center"
+                        style={{
+                          bottom: index % 2 === 0 ? '-40px' : '-60px',
+                          left: '50%',
+                          transform: 'translateX(-50%)',
+                          width: barWidth
+                        }}
+                      >
+                        {score.label}
+                      </div>
+                    )}
                   </div>
-                  <span className="absolute w-full text-center text-xs text-gray-400 mt-2 font-normal">
-                    Week past
-                  </span>
-                </div>
-
-                {/* Future weeks section */}
-                <div
-                  className="relative ml-4 flex-1"
-                  style={{ marginLeft: "70px" }}
-                >
-                  <div className="flex items-center">
-                    <div className="flex-1 h-[1px] bg-white"></div>
-                    <div className="w-2 h-2 rounded-full bg-white"></div>
-                  </div>
-                  <span className="absolute left-1/2 -translate-x-1/2 text-xs text-gray-400 mt-2 font-normal">
-                    Future weeks
-                  </span>
-                </div>
-              </div>
+                );
+              })}
             </div>
+
           </div>
         </div>
 
@@ -253,17 +247,18 @@ export default async function ReportPage({
             Qualitative analysis headlines:
           </h2>
 
-          <div className="grid grid-cols-2 gap-8">
+          <div className="space-y-8">
             {/* Highlights */}
             <div className="bg-[#252525] rounded-lg p-8">
               <h3 className="text-3xl font-semibold mb-6 text-[#78c38e]">
                 Highlights:
               </h3>
               <ul className="space-y-4">
-                {themesData.positive_themes.map(
-                  (theme: string, index: number) => (
-                    <li key={index} className="text-xl font-normal">
-                      {theme}
+                {reportData.themes.positive.map(
+                  (theme: { headline: string; explanation: string }, index: number) => (
+                    <li key={index} className="mb-4">
+                      <div className="text-xl font-medium">{theme.headline}</div>
+                      <div className="text-base font-medium mt-1">{theme.explanation}</div>
                     </li>
                   )
                 )}
@@ -276,10 +271,11 @@ export default async function ReportPage({
                 Opportunities:
               </h3>
               <ul className="space-y-4">
-                {themesData.improvement_themes.map(
-                  (theme: string, index: number) => (
-                    <li key={index} className="text-xl font-normal">
-                      {theme}
+                {reportData.themes.improvement.map(
+                  (theme: { headline: string; explanation: string }, index: number) => (
+                    <li key={index} className="mb-4">
+                      <div className="text-xl font-medium">{theme.headline}</div>
+                      <div className="text-base font-medium mt-1">{theme.explanation}</div>
                     </li>
                   )
                 )}
@@ -292,36 +288,36 @@ export default async function ReportPage({
         <div className="mt-12">
           <h2 className="text-2xl mb-6 font-medium">Conversation Analysis</h2>
           <div className="space-y-4">
-            {reportData.conversationAnalysis.condensed.conversations.map(
+            {reportData.conversation_analysis.condensed.conversations.map(
               (conv) => (
                 <div key={conv.id} className="bg-[#2A2A2A] p-6 rounded">
                   <h3 className="text-xl font-medium mb-2">
-                    {conv.id}. {conv.type}
+                    {conv.id}. {conv.title}
                   </h3>
-                  <div className="space-y-2 text-base font-normal">
+                  <div className="space-y-2 text-base font-medium">
                     <p>
                       <span className="font-semibold">
                         Student Trigger:
                       </span>
-                      <br /> {conv.studentTrigger}
+                      <br /> {conv.student_trigger}
                     </p>
                     <p>
                       <span className="font-semibold">
                         Context & Impact:
                       </span>
-                      <br /> {conv.contextAndImpact}
+                      <br /> {conv.context_impact}
                     </p>
                     <p>
                       <span className="font-semibold">
                         Consultant Response:
                       </span>
-                      <br /> {conv.consultantResponse}
+                      <br /> {conv.consultant_response}
                     </p>
                     <p>
                       <span className="font-semibold">
-                        Recommended Improvement:
+                        Recommended Approach:
                       </span>
-                      <br /> {conv.recommendedImprovement}
+                      <br /> {conv.recommended_approach}
                     </p>
                   </div>
                 </div>
@@ -332,42 +328,42 @@ export default async function ReportPage({
 
         {/* Verbose Conversation Analysis */}
         <div className="mt-16 space-y-12">
-          {reportData.conversationAnalysis.verbose.conversations.map((conv) => (
+          {reportData.conversation_analysis.verbose.conversations.map((conv) => (
             <div key={conv.id} className="space-y-6">
-              <h2 className="text-xl mb-6 font-medium italic">
-                {conv.id}. {conv.type}
+              <h2 className="text-2xl mb-6 font-medium">
+                {conv.id}. {conv.title}
               </h2>
 
               {/* Student Trigger */}
               <div className="space-y-2">
-                <h3 className="text-xl text-[#a6a6a6] font-normal italic">
+                <h3 className="text-xl font-normal italic">
                   Student trigger:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
-                  <p className="text-lg font-normal">{conv.studentTrigger}</p>
+                  <p className="text-lg font-medium">{conv.student_trigger}</p>
                 </div>
               </div>
 
               {/* Consultant Response */}
               <div className="space-y-2">
-                <h3 className="text-xl text-[#a6a6a6] font-normal italic">
+                <h3 className="text-xl font-normal italic">
                   Consultant response:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
-                  <p className="text-lg font-normal">
-                    {conv.consultantResponse}
+                  <p className="text-lg font-medium">
+                    {conv.consultant_response}
                   </p>
                 </div>
               </div>
 
               {/* Recommended Approach */}
               <div className="space-y-2">
-                <h3 className="text-xl text-[#a6a6a6] font-normal italic">
+                <h3 className="text-xl font-normal italic">
                   Recommended approach:
                 </h3>
                 <div className="border border-[#FF6B8A] rounded-lg p-6">
-                  <p className="text-lg font-normal">
-                    {conv.recommendedApproach}
+                  <p className="text-lg font-medium">
+                    {conv.recommended_approach}
                   </p>
                 </div>
               </div>

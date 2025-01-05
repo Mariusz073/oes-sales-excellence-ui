@@ -14,10 +14,23 @@ export async function getJsonFiles(): Promise<{ files: JsonFile[] }> {
   try {
     const files = fs.readdirSync(jsonDirectory)
       .filter((file: string) => file.endsWith('.json'))
-      .map((filename: string) => ({
-        filename,
-        displayName: filename.replace(' report.json', '').replace('.json', '')
-      }));
+      .map((filename: string) => {
+        // Extract name from filename by removing various suffixes and replacing hyphens
+        const nameOnly = filename
+          .replace(' report.json', '')
+          .replace('_report_test.json', '')
+          .replace('.json', '')
+          .replace(/-/g, ' ');
+        
+        // Split by spaces and take first two parts (name and surname)
+        const nameParts = nameOnly.split(' ');
+        const displayName = nameParts.slice(0, 2).join(' ');
+        
+        return {
+          filename,
+          displayName
+        };
+      });
     
     return { files };
   } catch (error) {
