@@ -106,7 +106,7 @@ const SubRequirementsBar = ({ data }: { data: { current: number; last_week: numb
 
       {/* Last week line */}
       <div 
-        className="absolute left-0 right-0 h-0.5 bg-[#FF6B8A] z-10"
+        className="absolute left-0 right-0 h-1 bg-[#FF6B8A] z-10"
         style={{ 
           bottom: `${(data.last_week / 100) * 180}px`,
           transition: 'bottom 0.3s ease'
@@ -154,17 +154,17 @@ export const WeeklyInitiative = ({
             {/* Left Column */}
             <div>
               {/* Compliance Verdict */}
-              <h3 className="text-xl mb-6">Compliance verdict</h3>
+              <h3 className="text-xl font-medium mb-6">Compliance verdict</h3>
               <div className="space-y-8">
                 <div className="flex items-start gap-6">
                   <div className="flex-1">
-                    <div className="text-[#FF6B8A] text-xl mb-2">Full compliance</div>
+                    <div className="text-[#78c38e] text-xl font-medium mb-2">Full compliance</div>
                     <div className="flex items-center gap-2">
                       <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
                         <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#78c38e" strokeWidth="2"/>
                         <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#78c38e" strokeWidth="2"/>
                       </svg>
-                      <span className="text-[#78c38e]">+{fullCompliance?.change}%</span>
+                      <span className="text-[#78c38e]">{fullCompliance?.change}%</span>
                       <span className="text-gray-400">Since last week</span>
                     </div>
                   </div>
@@ -176,13 +176,13 @@ export const WeeklyInitiative = ({
 
                 <div className="flex items-start gap-6">
                   <div className="flex-1">
-                    <div className="text-[#FFA500] text-xl mb-2">Partial compliance</div>
+                    <div className="text-[#ff6b8a] text-xl font-medium mb-2">Partial compliance</div>
                     <div className="flex items-center gap-2">
                       <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
-                        <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#FFA500" strokeWidth="2"/>
-                        <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#FFA500" strokeWidth="2"/>
+                        <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#ff6b8a" strokeWidth="2"/>
+                        <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#ff6b8a" strokeWidth="2"/>
                       </svg>
-                      <span className="text-[#FFA500]">{partialCompliance?.change}%</span>
+                      <span className="text-[#ff6b8a]">{partialCompliance?.change}%</span>
                       <span className="text-gray-400">Since last week</span>
                     </div>
                   </div>
@@ -196,10 +196,10 @@ export const WeeklyInitiative = ({
               {/* Sub-requirements */}
               {subRequirements && subRequirements.length > 0 && (
                 <div className="mt-12">
-                  <h3 className="text-xl mb-6">Sub-requirements</h3>
+                  <h3 className="text-xl font-medium mb-6">Sub-requirements</h3>
                   
                   {/* Legend */}
-                  <div className="flex items-center gap-6 mb-4 text-sm text-gray-400">
+                  <div className="flex items-center gap-6 mb-4 text-sm text-gray-300">
                     <div className="flex items-center gap-2">
                       <div className="w-4 h-[2px] bg-[#78c38e]"></div>
                       <span>This week</span>
@@ -212,7 +212,7 @@ export const WeeklyInitiative = ({
 
                   {/* Y-axis labels */}
                   <div className="flex mb-6">
-                    <div className="w-12 text-sm text-gray-400">
+                    <div className="w-12 text-sm text-gray-300">
                       <div>% fulfilled</div>
                       <div className="mt-2">100</div>
                     </div>
@@ -221,7 +221,7 @@ export const WeeklyInitiative = ({
                   {/* Bars */}
                   <div className="relative pl-12">
                     {/* Y-axis labels */}
-                    <div className="absolute left-0 top-0 h-[80%] flex flex-col justify-between text-sm text-gray-400">
+                    <div className="absolute left-0 top-0 h-[80%] flex flex-col justify-between text-sm text-gray-300">
                       <span>75</span>
                       <span>50</span>
                       <span>25</span>
@@ -241,7 +241,7 @@ export const WeeklyInitiative = ({
 
             {/* Right Column - Individual Performance */}
             <div>
-              <h3 className="text-xl mb-6">Individual performance</h3>
+              <h3 className="text-xl font-medium mb-6">Individual performance</h3>
               <div className="space-y-4">
                 {/* Top 2 performers */}
                 {filteredConsultants.slice(0, 2).map((consultant, index) => (
