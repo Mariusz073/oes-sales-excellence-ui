@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 163,
+  "team_average_total_number_of_calls_per_sales_consultant": 112.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 37,
+    "team_average_absolute_number": 31.4375
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.699386503067483,
+    "team_average_percentage": 17.574969778800735
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 126,
+    "team_average_absolute_number": 80.75
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.30061349693251,
+    "team_average_percentage": 44.925030221199265
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.578641582171464,
+    "team_average": 51.79297964004172
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 126,
+    "team_total_excluded_transcripts": 1292
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Career-Aligned Educational Planning",
+        "explanation": "Consultants effectively connect study pathways with students' professional goals while maintaining practical feasibility."
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Proactively offering adaptable study arrangements to accommodate diverse student circumstances and commitments."
+      },
+      {
+        "headline": "Supportive Transition Guidance",
+        "explanation": "Providing clear direction while validating student concerns during educational and career transitions."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Financial Planning Depth",
+        "explanation": "Need for more thorough exploration of financial concerns and comprehensive support options available."
+      },
+      {
+        "headline": "Work-Study Balance Solutions",
+        "explanation": "Opportunity to provide more detailed flexible study arrangements and support systems for working students."
+      },
+      {
+        "headline": "Personal Circumstance Integration",
+        "explanation": "Required deeper engagement with individual situations and barriers affecting academic choices."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "22",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career aspirations, including police force ambitions and law career goals.",
+          "consultant_response": "Effective alignment of course options with career objectives: 'Yes, we have a course that came about earlier this year - the Undergraduate Certificate of Criminal Justice and Criminology.'",
+          "context_impact": "Critical opportunity to demonstrate practical pathways to career goals through education.",
+          "recommended_approach": "None needed - excellent demonstration of career-aligned planning."
+        },
+        {
+          "id": 2,
+          "title": "Inadequate Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "N/A",
+              "segment_id": "19",
+              "timestamp": "4:19"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "N/A",
+                "segment_id": "111",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about financial commitments and affordability.",
+          "consultant_response": "Basic HECS information provided without exploring personal circumstances or comprehensive support options.",
+          "context_impact": "Financial concerns presenting major barrier to enrollment commitment.",
+          "recommended_approach": "Need deeper exploration of financial concerns and available support mechanisms."
+        },
+        {
+          "id": 3,
+          "title": "Effective Flexible Study Options",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1985",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concerns about balancing work and study commitments.",
+          "consultant_response": "Clear explanation of online learning options and flexible study arrangements tailored to work schedules.",
+          "context_impact": "Opportunity to showcase program flexibility and support options.",
+          "recommended_approach": "None needed - effectively addressed flexibility concerns."
+        },
+        {
+          "id": 4,
+          "title": "Supportive Career Transition Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed strong motivation to study law while showing uncertainty about eligibility.",
+          "consultant_response": "Effectively acknowledged challenges while presenting viable alternatives: 'We have a pathway option into those courses for you.'",
+          "context_impact": "Critical moment for balancing career aspirations with practical pathway planning.",
+          "recommended_approach": "None needed - demonstrated excellent transition support."
+        },
+        {
+          "id": 6,
+          "title": "Strong Support System Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "41",
+              "timestamp": "7:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about support in online learning environment.",
+          "consultant_response": "Provided comprehensive overview of lecturer and peer support systems.",
+          "context_impact": "Essential for building confidence in online study format.",
+          "recommended_approach": "None needed - effectively addressed support concerns."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "22",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career aspirations, with statements like 'I'm looking for an online course...to join the police force next year' and 'So I decided to take the leap and give myself a second chance at a career and study law.' These moments presented critical opportunities for meaningful pathway planning that could significantly impact enrollment decisions.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by immediately aligning course options with career goals: 'Yes, we have a course that came about earlier this year - the Undergraduate Certificate of Criminal Justice and Criminology... this will go towards that as well.' This approach effectively balanced immediate educational needs with long-term career aspirations, helping to reduce anxiety about commitment while showing clear pathways forward.",
+          "priority": "high",
+          "recommended_approach": "The consultants' approach effectively demonstrated best practices in career-aligned educational planning. To enhance such interactions further: 1) Acknowledge career goals explicitly, 2) Explore specific requirements and interests within chosen field, 3) Outline flexibility options that complement career objectives, 4) Create detailed action plans with clear milestones."
+        },
+        {
+          "id": 2,
+          "title": "Inadequate Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "N/A",
+              "segment_id": "19",
+              "timestamp": "4:19"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "N/A",
+                "segment_id": "111",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about financial commitments, with statements like 'I just don't want to back out here until I've had enough money' and 'I do need to know the cost though because my husband's pretty tight with money.' These moments revealed critical financial barriers to enrollment that required thorough exploration and support.",
+          "consultant_response": "Consultants typically provided basic HECS information without exploring personal financial circumstances or offering comprehensive support options. The surface-level responses missed opportunities to address deeper financial anxieties and demonstrate available support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "Consultants should: 1) Acknowledge financial concerns empathetically: 'I understand that managing study costs is an important consideration,' 2) Explore specific concerns: 'Let's discuss what aspects of the financial commitment concern you most,' 3) Outline comprehensive support options including HECS-HELP, payment plans, and scholarships, 4) Create personalized financial planning strategies aligned with individual circumstances."
+        },
+        {
+          "id": 3,
+          "title": "Effective Flexible Study Options",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1985",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concerns about managing work commitments alongside their studies, highlighting the need for flexible learning options that could accommodate their professional responsibilities while maintaining academic progress.",
+          "consultant_response": "The consultant effectively addressed these concerns by providing a comprehensive overview of flexible study arrangements: 'If you are working and have a family, the benefit to studying online is that you don't have to be in a classroom for set times.' This response demonstrated understanding of work-life balance challenges while offering practical solutions.",
+          "priority": "high",
+          "recommended_approach": "The current approach effectively addresses flexibility needs. To enhance further: 1) Share specific examples of how other working students successfully manage their studies, 2) Explore the student's unique schedule to suggest tailored study patterns, 3) Discuss specific support services available for working students, 4) Create a collaborative plan that integrates work commitments with study requirements."
+        },
+        {
+          "id": 4,
+          "title": "Supportive Career Transition Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed strong motivation to study law while showing uncertainty about eligibility: 'I need a career change and I've always wanted to study law and obviously, like, be a lawyer.' This moment presented a critical opportunity to balance career aspirations with practical pathway planning while maintaining student engagement.",
+          "consultant_response": "The consultant effectively acknowledged the immediate challenge while presenting viable alternatives: 'You're potentially not going to be eligible for the Bachelor of Law or Graduate Entry, but what we have instead is a pathway option into those courses for you.' This approach maintained the student's career motivation while providing realistic solutions.",
+          "priority": "high",
+          "recommended_approach": "The current approach effectively balances career aspirations with practical pathways. Consider enhancing future interactions by: 1) Outlining specific milestones and timelines for the pathway program, 2) Providing examples of successful transitions to law studies through alternative pathways, 3) Creating detailed study plans that maintain momentum toward career goals."
+        },
+        {
+          "id": 6,
+          "title": "Strong Support System Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "41",
+              "timestamp": "7:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student explicitly asked about online learning support: 'So it was more around the support and ability to connect with lecturers and fellow students.' This showed clear readiness for collaborative planning around educational support needs.",
+          "consultant_response": "The consultant effectively addressed these concerns by providing comprehensive information about available support systems, including lecturer accessibility and peer connection opportunities. This demonstrated strong alignment with collaborative planning principles by ensuring the student understood the full support framework available to them.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach was highly effective. To enhance further: 1) Create a personalized support plan outlining key contact points and engagement opportunities, 2) Share specific examples of successful online learning experiences to reinforce confidence in the support systems, 3) Discuss proactive engagement strategies with support services."
+        }
+      ]
+    }
+  }
+}
