@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 171,
+  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 41,
+    "team_average_absolute_number": 20.636363636363637
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.976608187134502,
+    "team_average_percentage": 22.487986165053538
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 130,
+    "team_average_absolute_number": 58.09090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.0233918128655,
+    "team_average_percentage": 50.23928656221919
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.94618797133802,
+    "team_average": 51.07068109184601
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 130,
+    "team_total_excluded_transcripts": 639
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 134.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.26,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.05,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 120.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 80.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Educational Journey Mapping",
+        "explanation": "Effectively partnering with students to create clear pathways aligned with their career goals and circumstances"
+      },
+      {
+        "headline": "Flexible Study Solutions",
+        "explanation": "Successfully demonstrating program adaptability to accommodate diverse student needs and commitments"
+      },
+      {
+        "headline": "Career Path Integration",
+        "explanation": "Proactively connecting educational choices with long-term career aspirations and professional development"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Strategic Career Planning",
+        "explanation": "Need for deeper exploration of career goals and structured development pathways"
+      },
+      {
+        "headline": "Work-Study Integration",
+        "explanation": "Opportunity to provide more comprehensive strategies for balancing professional and academic commitments"
+      },
+      {
+        "headline": "Support Framework Utilization",
+        "explanation": "Need for better articulation of available support services and resources"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Change Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "1",
+              "segment_id": "15",
+              "timestamp": "00:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking career change after 15 years in fashion and having three children",
+          "consultant_response": "Consultant demonstrated understanding: 'Let's discuss what you've enjoyed in your past experiences and how we can build on that for your future.'",
+          "context_impact": "Critical opportunity to validate career transition and provide clear pathway",
+          "recommended_approach": "None needed - exemplary collaborative planning demonstrated"
+        },
+        {
+          "id": 2,
+          "title": "Clear Course Structure Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "4",
+              "segment_id": "36",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1983",
+                "segment_id": "176",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking clarity on program structure and timing",
+          "consultant_response": "Provided clear explanation: 'We have six teaching periods a year. They run for six weeks each and you complete one unit at a time.'",
+          "context_impact": "Understanding course structure crucial for enrollment confidence",
+          "recommended_approach": "Could enhance with personalized schedule planning"
+        },
+        {
+          "id": 3,
+          "title": "Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing specific career goals, including police force aspirations",
+          "consultant_response": "Effectively identified relevant programs: 'We have a course that came about earlier this year - the Undergraduate Certificate of Criminal Justice and Criminology.'",
+          "context_impact": "Opportunity to demonstrate program relevance to career objectives",
+          "recommended_approach": "Could explore more detailed career progression pathways"
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1982",
+              "segment_id": "43",
+              "timestamp": "6:43"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "12",
+                "timestamp": "2:15"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing work commitments alongside studies",
+          "consultant_response": "Basic acknowledgment without detailed planning: 'Yes, it is designed for people who are working.'",
+          "context_impact": "Essential for ensuring student confidence in program manageability",
+          "recommended_approach": "Need comprehensive strategies and support systems for work-study integration"
+        },
+        {
+          "id": 5,
+          "title": "Support Services Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "unknown",
+              "segment_id": "22",
+              "timestamp": "5:36"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "unknown",
+                "segment_id": "21",
+                "timestamp": "4:19"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about academic transitions and program success",
+          "consultant_response": "Generic responses about course popularity without addressing specific support needs",
+          "context_impact": "Critical opportunity to build confidence through support frameworks",
+          "recommended_approach": "Create structured transition plans with clear support mechanisms and pathways"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Change Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "1",
+              "segment_id": "15",
+              "timestamp": "00:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a significant life transition: 'I'm just looking into another career, yeah, it was 15 years in fashion of all things and then I've just had three children... over the last six years.' This vulnerable moment revealed both determination and uncertainty about career change, creating a crucial opportunity for supportive engagement.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning skills by responding: 'I understand that changing careers is a big step. Let's discuss what you've enjoyed in your past experiences and how we can build on that for your future. I can help you outline a plan that fits your new goals.' This response effectively validated the student's decision while offering structured support for future planning. The approach created a supportive environment that encouraged further exploration of educational pathways.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach was exemplary and should be maintained as a model for similar interactions. To further enhance such discussions: 1) Explore transferable skills from previous career, 2) Discuss specific career transition support services available, 3) Create detailed educational pathway plans, and 4) Connect students with relevant alumni or career mentors."
+        },
+        {
+          "id": 2,
+          "title": "Clear Course Structure Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "4",
+              "segment_id": "36",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1983",
+                "segment_id": "176",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity about program structure, timing, and progression pathways, indicating a common need for clear information about how the program is delivered and structured to help them visualize their educational journey.",
+          "consultant_response": "Consultants consistently provided clear, structured explanations of the program format: 'We have six teaching periods a year. They run for six weeks each and you complete one unit at a time.' This approach effectively demonstrated program organization while highlighting flexibility. The explanations included both immediate course structure and potential progression pathways, helping students understand their full educational journey.",
+          "priority": "high",
+          "recommended_approach": "While current responses are strong, enhance by: 1) Creating visual timelines of study periods, 2) Mapping potential progression pathways based on student goals, 3) Discussing specific schedule planning with individual students, and 4) Providing written summaries of discussed options."
+        },
+        {
+          "id": 3,
+          "title": "Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed clear career aspirations, including specific goals like joining the police force, creating opportunities to demonstrate program relevance to professional goals.",
+          "consultant_response": "Consultants effectively connected program components to career objectives, identifying relevant courses and explaining their alignment with career goals. This approach validated student aspirations while maintaining enrollment momentum.",
+          "priority": "high",
+          "recommended_approach": "Further enhance by: 1) Mapping specific career progression pathways, 2) Identifying key skill development opportunities within courses, 3) Creating long-term career development plans, 4) Discussing industry connections, and 5) Exploring specific requirements for targeted careers."
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1982",
+              "segment_id": "43",
+              "timestamp": "6:43"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "12",
+                "timestamp": "2:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing full-time work alongside studies, seeking practical strategies and support systems for balancing professional and academic commitments.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without engaging in detailed planning or support discussions: 'Yes, it is designed for people who are working.' This surface-level response missed opportunities to demonstrate comprehensive support mechanisms and practical strategies for success.",
+          "priority": "high",
+          "recommended_approach": "Enhance support by: 1) Exploring specific work schedules and commitments, 2) Providing detailed flexible study options, 3) Creating personalized study plans, 4) Discussing specific support services available, and 5) Sharing successful examples from other working students."
+        },
+        {
+          "id": 5,
+          "title": "Support Services Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "unknown",
+              "segment_id": "22",
+              "timestamp": "5:36"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "unknown",
+                "segment_id": "21",
+                "timestamp": "4:19"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about academic transitions and program success, particularly when entering new fields: 'I've never obviously studied in the medical or science field as such.' These disclosures revealed crucial needs for comprehensive support framework understanding.",
+          "consultant_response": "Consultants provided generic responses about program popularity without addressing specific support mechanisms or building student confidence through concrete resources. This approach missed opportunities to demonstrate available support systems and transition assistance.",
+          "priority": "high",
+          "recommended_approach": "Improve by: 1) Detailing available support services specific to student needs, 2) Creating structured transition plans with clear milestones, 3) Explaining success resources and how to access them, 4) Connecting with relevant support teams during enrollment, and 5) Developing proactive support strategies tailored to student circumstances."
+        }
+      ]
+    }
+  }
+}

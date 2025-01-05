@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "consultant_name": "Ramon Keane",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative planning"
+  },
+  "total_number_of_calls": 0,
+  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 0,
+    "team_average_absolute_number": 20.636363636363637
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 0.0,
+    "team_average_percentage": 22.487986165053538
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 0,
+    "team_average_absolute_number": 58.09090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 0.0,
+    "team_average_percentage": 50.23928656221919
+  },
+  "average_talking_percentage": {
+    "individual_average": null,
+    "team_average": 51.07068109184601
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 0,
+    "team_total_excluded_transcripts": 639
+  },
+  "behavioral_scores": [],
+  "themes": {
+    "positive": [],
+    "improvement": []
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": []
+    },
+    "verbose": {
+      "conversations": []
+    }
+  }
+}

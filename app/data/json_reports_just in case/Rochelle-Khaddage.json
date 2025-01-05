@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "consultant_name": "Rochelle Khaddage",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 142,
+  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 57,
+    "team_average_absolute_number": 26.6875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 40.140845070422536,
+    "team_average_percentage": 14.38995377453293
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 85,
+    "team_average_absolute_number": 66.6875
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 59.859154929577464,
+    "team_average_percentage": 35.61004622546707
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.54855379164028,
+    "team_average": 51.280019574376695
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 85,
+    "team_total_excluded_transcripts": 1067
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 209.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.26,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 160.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 126.2,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 195.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.15,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Proactive Support Planning",
+        "explanation": "Consultants effectively guide students through educational decisions by providing comprehensive support systems and clear direction"
+      },
+      {
+        "headline": "Flexible Study Accommodation",
+        "explanation": "Clear presentation and customization of study arrangements to meet individual student circumstances and commitments"
+      },
+      {
+        "headline": "Solution-Focused Guidance",
+        "explanation": "Creative identification and presentation of alternative pathways to address student concerns and barriers"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Transition Support",
+        "explanation": "Need for more detailed exploration of accelerated pathways and career change opportunities"
+      },
+      {
+        "headline": "Comprehensive Need Assessment",
+        "explanation": "Better exploration of student circumstances and concerns needed before presenting solutions"
+      },
+      {
+        "headline": "Financial Planning Guidance",
+        "explanation": "More thorough discussion of funding options and financial support strategies required"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1986",
+              "segment_id": "116",
+              "timestamp": "19:16"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_4",
+                "segment_id": "119",
+                "timestamp": "16:35"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed needs for flexibility with work schedules and part-time study options.",
+          "consultant_response": "Consultants provided comprehensive explanations of flexible options: 'I understand your need for flexibility. Let me outline our online learning options and evening classes.'",
+          "context_impact": "Critical need to demonstrate how program flexibility could accommodate various student commitments.",
+          "recommended_approach": "None needed - excellent demonstration of program flexibility and accommodation."
+        },
+        {
+          "id": 2,
+          "title": "Effective Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed clear career goals: 'I'm looking to join the police force next year.'",
+          "consultant_response": "Consultant provided targeted solution: 'Yes, we have a course that came about earlier this year - the Undergraduate Certificate of Criminal Justice and Criminology.'",
+          "context_impact": "Critical opportunity to align course selection with career aspirations.",
+          "recommended_approach": "None needed - excellent alignment of course options with career goals."
+        },
+        {
+          "id": 3,
+          "title": "Strong Support System Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_1",
+              "segment_id": "80",
+              "timestamp": "6:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_2",
+                "segment_id": "82",
+                "timestamp": "6:40"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about accessing support while studying online.",
+          "consultant_response": "Detailed explanation of seven-day support availability: 'You've got support from 8 a.m. through 9 p.m. on weekdays and 10 through 6 p.m. on weekends.'",
+          "context_impact": "Critical need to address potential isolation fears in online learning environment.",
+          "recommended_approach": "Could enhance with more personalized support planning."
+        },
+        {
+          "id": 4,
+          "title": "Missed Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_4",
+              "segment_id": "157",
+              "timestamp": "5:46"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "2",
+                "segment_id": "108",
+                "timestamp": "18:00"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking accelerated pathways for career transitions.",
+          "consultant_response": "Generic program information without exploring accelerated options or career pathways.",
+          "context_impact": "Critical enrollment decision point based on career change timeline.",
+          "recommended_approach": "Need detailed career transition planning and pathway exploration."
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call3",
+              "segment_id": "130",
+              "timestamp": "10:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "unspecified",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about program costs and funding options.",
+          "consultant_response": "Basic cost information provided without exploring funding options or payment plans.",
+          "context_impact": "Financial concerns represent significant barrier to enrollment decisions.",
+          "recommended_approach": "Provide comprehensive information about available financial support, payment plans, and scholarship opportunities."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1986",
+              "segment_id": "116",
+              "timestamp": "19:16"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_4",
+                "segment_id": "119",
+                "timestamp": "16:35"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed needs for flexibility in managing their studies alongside work commitments. The primary example involved a student seeking work-schedule accommodation, while supporting cases demonstrated similar concerns about part-time study options and course load management. These inquiries revealed a critical need for understanding program flexibility.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive flexible learning solutions. Their responses effectively outlined available options: 'I understand your need for flexibility given your work schedule. Let me outline our online learning options and evening classes that might suit your situation better.' Supporting examples showed similar strength in explaining unit load adjustments: 'In July, you can go ahead and just start doing three units if you want to. In November, you can then drop down to one unit if you find that you're really busy.'",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging specific flexibility needs, 2) Outlining available options clearly, 3) Discussing how different arrangements can accommodate various schedules, and 4) Collaborating with students to identify their optimal study arrangement. Additionally, provide concrete examples of how other students have successfully managed similar situations."
+        },
+        {
+          "id": 2,
+          "title": "Effective Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed clear career aspirations: 'I'm looking for an online course, I'm not sure if I want to do the whole course or just some selected subjects because I'm to join the police force next year.' This statement revealed both immediate educational interests and future career goals, presenting a crucial opportunity for collaborative planning that could significantly impact enrollment decisions.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by providing a targeted solution: 'Yes, I guess we do have a course that kind of came about a bit earlier this year. It's called the Undergraduate Certificate of Criminal Justice and Criminology... this will go towards that as well.' This response effectively aligned course offerings with the student's career goals while addressing their desire for flexibility in course commitment.",
+          "priority": "high",
+          "recommended_approach": "To enhance this already strong approach: 1) Explicitly acknowledge the career goal, 2) Explore specific requirements for police force entry, 3) Create a clear pathway that aligns course selection with career objectives, and 4) Establish follow-up points to ensure continued alignment with career goals."
+        },
+        {
+          "id": 3,
+          "title": "Strong Support System Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_1",
+              "segment_id": "80",
+              "timestamp": "6:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_2",
+                "segment_id": "82",
+                "timestamp": "6:40"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students voiced concerns about online study support, with primary example asking: 'If I start studying and if I'm stuck somewhere online, will the tutors at this university will be able to assist me if I need assistance?' This revealed underlying anxiety about potential isolation in the online learning environment.",
+          "consultant_response": "Consultants provided detailed and reassuring responses about support availability: 'You've got seven-day support with your tutors. So your online learning advisor, you've got them from 8 a.m. through 9 p.m. on weekdays and then 10 through 6 p.m. on weekends as well. So you can get in touch with them, email, call, there's a live chat function as well.' This comprehensive answer effectively addressed isolation concerns while highlighting multiple support access points.",
+          "priority": "high",
+          "recommended_approach": "Enhance this strong foundation by: 1) Acknowledging online learning concerns explicitly, 2) Exploring preferred support methods, 3) Providing detailed support system overview, 4) Sharing successful online student experiences, and 5) Creating personalized support utilization plans."
+        },
+        {
+          "id": 4,
+          "title": "Missed Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_4",
+              "segment_id": "157",
+              "timestamp": "5:46"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "2",
+                "segment_id": "108",
+                "timestamp": "18:00"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed urgency about career transitions, with primary example stating: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' These inquiries represented critical decision points requiring comprehensive career pathway guidance.",
+          "consultant_response": "Consultants typically provided generic program information without exploring accelerated options or creating detailed career transition plans. Responses focused on standard program requirements rather than addressing the immediate need for expedited career change pathways.",
+          "priority": "high",
+          "recommended_approach": "Enhance career transition support by: 1) Acknowledging career change goals explicitly, 2) Exploring previous qualifications and experience thoroughly, 3) Identifying potential accelerated pathways, 4) Creating detailed transition timelines, 5) Discussing industry-specific requirements, and 6) Providing examples of successful career changers."
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call3",
+              "segment_id": "130",
+              "timestamp": "10:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "unspecified",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed direct concerns about program costs and funding options, with questions like 'What about fees and stuff?' These inquiries represented crucial moments for collaborative financial planning and support, indicating significant potential barriers to enrollment that required comprehensive guidance.",
+          "consultant_response": "Consultants typically provided basic cost information without exploring available funding mechanisms or creating detailed financial plans. Responses focused on stating unit costs rather than developing comprehensive financial support strategies and payment options.",
+          "priority": "high",
+          "recommended_approach": "Implement structured financial planning by: 1) Exploring individual financial circumstances, 2) Explaining all available funding options including scholarships and payment plans, 3) Creating detailed financial timelines, 4) Providing specific support program information, and 5) Developing personalized financial management strategies."
+        }
+      ]
+    }
+  }
+}

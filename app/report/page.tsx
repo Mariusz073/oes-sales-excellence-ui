@@ -34,9 +34,9 @@ export default async function ReportPage({
             </p>
 
             {/* Create PDF Button */}
-            <div className="flex justify-center mt-0">
-              <CreatePdfButton />
-            </div>
+            {/*<div className="flex justify-center mt-0">
+              <CreatePdfButton /> */}
+            {/* </div> */}
           </div>
 
           {/* Divider */}
