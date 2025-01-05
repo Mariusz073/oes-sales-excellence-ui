@@ -258,7 +258,7 @@ export default async function ReportPage({
                   (theme: { headline: string; explanation: string }, index: number) => (
                     <li key={index} className="mb-4">
                       <div className="text-xl font-medium">{theme.headline}</div>
-                      <div className="text-lg font-medium mt-1 italic">{theme.explanation}</div>
+                      <div className="text-lg font-normal mt-1 italic">{theme.explanation}</div>
                     </li>
                   )
                 )}
@@ -275,7 +275,7 @@ export default async function ReportPage({
                   (theme: { headline: string; explanation: string }, index: number) => (
                     <li key={index} className="mb-4">
                       <div className="text-xl font-medium">{theme.headline}</div>
-                      <div className="text-lg font-medium mt-1 italic">{theme.explanation}</div>
+                      <div className="text-lg font-normal mt-1 italic">{theme.explanation}</div>
                     </li>
                   )
                 )}
@@ -340,7 +340,7 @@ export default async function ReportPage({
                   Student trigger:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
-                  <p className="text-lg font-medium">{conv.student_trigger}</p>
+                  <p className="text-lg font-normal">{conv.student_trigger}</p>
                 </div>
               </div>
 
@@ -350,7 +350,7 @@ export default async function ReportPage({
                   Consultant response:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
-                  <p className="text-lg font-medium">
+                  <p className="text-lg font-normal">
                     {conv.consultant_response}
                   </p>
                 </div>
@@ -362,7 +362,7 @@ export default async function ReportPage({
                   Recommended approach:
                 </h3>
                 <div className="border border-[#FF6B8A] rounded-lg p-6">
-                  <p className="text-lg font-medium">
+                  <p className="text-lg font-normal">
                     {conv.recommended_approach}
                   </p>
                 </div>
