@@ -162,10 +162,14 @@ export const WeeklyInitiative = ({
                     <div className="flex items-center gap-2">
                       <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
                         <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#78c38e" strokeWidth="2"/>
-                        <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#78c38e" strokeWidth="2"/>
+                        {(fullCompliance?.change || 0) >= 0 ? (
+                          <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#78c38e" strokeWidth="2"/>
+                        ) : (
+                          <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#78c38e" strokeWidth="2"/>
+                        )}
                       </svg>
                       <span className="text-[#78c38e]">{fullCompliance?.change}%</span>
-                      <span className="text-gray-400">Since last week</span>
+                      <span className="text-gray-300">Since last week</span>
                     </div>
                   </div>
                   <CircularProgress 
@@ -180,10 +184,14 @@ export const WeeklyInitiative = ({
                     <div className="flex items-center gap-2">
                       <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none">
                         <path d="M2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2" stroke="#ff6b8a" strokeWidth="2"/>
-                        <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#ff6b8a" strokeWidth="2"/>
+                        {(partialCompliance?.change || 0) >= 0 ? (
+                          <path d="M12 8L12 16M12 8L16 12M12 8L8 12" stroke="#ff6b8a" strokeWidth="2"/>
+                        ) : (
+                          <path d="M12 16L12 8M12 16L16 12M12 16L8 12" stroke="#ff6b8a" strokeWidth="2"/>
+                        )}
                       </svg>
                       <span className="text-[#ff6b8a]">{partialCompliance?.change}%</span>
-                      <span className="text-gray-400">Since last week</span>
+                      <span className="text-gray-300">Since last week</span>
                     </div>
                   </div>
                   <CircularProgress 
