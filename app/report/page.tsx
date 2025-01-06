@@ -80,7 +80,7 @@ export default async function ReportPage({
                     className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/80 text-lg -rotate-180 font-semibold"
                     style={{ writingMode: "vertical-lr", height: "auto" }}
                   >
-                    Individual
+                    Individ.
                   </div>
                 </td>
                 <td className="text-center py-6 font-normal">
