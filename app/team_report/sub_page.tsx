@@ -1,6 +1,7 @@
 'use client';
 
 import React from 'react';
+import { IndividualPerformanceDialog } from '../components/IndividualPerformanceDialog';
 
 interface WeeklyInsight {
   title: string;
@@ -329,6 +330,13 @@ export const WeeklyInitiative = ({
                     <span>{consultant.result}</span>
                   </div>
                 ))}
+                {/* View all button */}
+                <IndividualPerformanceDialog 
+                  consultants={consultants}
+                  averageResult={averageResult}
+                  showNonCompliance={showNonCompliance}
+                  onToggleCompliance={() => setShowNonCompliance(!showNonCompliance)}
+                />
               </div>
             </div>
           </>
