@@ -78,7 +78,7 @@ export const IndividualPerformanceDialog = ({
       <Dialog.Trigger asChild>
         <div className="flex justify-center mt-4">
           <button 
-            className="px-4 py-2 bg-[#FF6B8A] text-white rounded hover:bg-[#ff8ba4] transition-colors"
+            className="px-4 py-2 bg-[#FF6B8A] text-white font-medium rounded hover:bg-[#ff8ba4] transition-colors"
             aria-label="View all individual performance data"
           >
           View all
