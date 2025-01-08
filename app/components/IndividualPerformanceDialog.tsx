@@ -40,12 +40,19 @@ export const IndividualPerformanceDialog = ({
   // Find the index where team average should be inserted
   const getTeamAverageIndex = () => {
     const avgPercentage = parseFloat(averageResult.result.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
-    return sortedConsultants.findIndex(consultant => {
-      const consultantPercentage = parseFloat(consultant.result.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
-      return showNonCompliance 
-        ? consultantPercentage < avgPercentage 
-        : consultantPercentage <= avgPercentage;
-    });
+    if (showNonCompliance) {
+      // For non-compliance mode, we want team average after consultants with higher non-compliance (lower compliance)
+      return sortedConsultants.findIndex(consultant => {
+        const consultantPercentage = parseFloat(consultant.result.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
+        return consultantPercentage > avgPercentage;
+      });
+    } else {
+      // For compliance mode, we want team average after consultants with higher compliance
+      return sortedConsultants.findIndex(consultant => {
+        const consultantPercentage = parseFloat(consultant.result.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
+        return consultantPercentage <= avgPercentage;
+      });
+    }
   };
 
   const teamAverageIndex = getTeamAverageIndex();
@@ -69,16 +76,18 @@ export const IndividualPerformanceDialog = ({
   return (
     <Dialog.Root>
       <Dialog.Trigger asChild>
-        <button 
-          className="w-full mt-4 px-4 py-2 bg-[#1E1E1E] text-white rounded hover:bg-[#2A2A2A] transition-colors"
-          aria-label="View all individual performance data"
-        >
+        <div className="flex justify-center mt-4">
+          <button 
+            className="px-4 py-2 bg-[#FF6B8A] text-white rounded hover:bg-[#ff8ba4] transition-colors"
+            aria-label="View all individual performance data"
+          >
           View all
-        </button>
+          </button>
+        </div>
       </Dialog.Trigger>
       <Dialog.Portal>
-        <Dialog.Overlay className="fixed inset-0 bg-black/50" />
-        <Dialog.Content className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-[#252525] text-white p-8 rounded-lg w-[600px] max-h-[80vh] overflow-y-auto">
+        <Dialog.Overlay className="fixed inset-0 bg-black/50 z-50" />
+        <Dialog.Content className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-[#252525] text-white p-8 rounded-lg w-[600px] max-h-[80vh] overflow-y-auto z-50">
           <div className="grid grid-cols-[auto_280px] items-center mb-6">
             <Dialog.Title className="text-xl font-medium">Individual performance</Dialog.Title>
             <div className="grid grid-cols-[48px_1fr] items-center gap-3 justify-end">
