@@ -1,3 +1,7 @@
+'use client';
+
+import React from 'react';
+
 interface WeeklyInsight {
   title: string;
   content: string;
@@ -133,6 +137,13 @@ export const WeeklyInitiative = ({
   weeklyInsights,
   individualPerformanceCount
 }: WeeklyInitiativeProps) => {
+  const [showNonCompliance, setShowNonCompliance] = React.useState(false);
+
+  // Sort consultants based on toggle state
+  const sortedConsultants = React.useMemo(() => {
+    const filtered = consultants.filter(consultant => consultant.result !== "0/0 (0.00%)");
+    return showNonCompliance ? [...filtered].reverse() : filtered;
+  }, [consultants, showNonCompliance]);
   // Extract title and highlight the text between <em> tags in red
   const titleParts = title.split(/<em>|<\/em>/);
   const formattedTitle = titleParts.map((part: string, index: number) => 
@@ -249,12 +260,35 @@ export const WeeklyInitiative = ({
 
             {/* Right Column - Individual Performance */}
             <div>
-              <h3 className="text-xl font-medium mb-6">Individual performance</h3>
+                <div className="grid grid-cols-[auto_280px] items-center mb-6">
+                  <h3 className="text-xl font-medium">Individual performance</h3>
+                  <div className="grid grid-cols-[48px_1fr] items-center gap-3 justify-end">
+                    <button
+                    onClick={() => setShowNonCompliance(!showNonCompliance)}
+                    className={`relative w-12 h-6 rounded-full transition-colors duration-200 ease-in-out ${
+                      showNonCompliance ? 'bg-[#FF6B8A]' : 'bg-[#78c38e]'
+                    }`}
+                    aria-label={`Toggle ${showNonCompliance ? 'compliance' : 'non-compliance'} rate view`}
+                  >
+                    <span
+                      className={`absolute top-1 left-1 w-4 h-4 bg-white rounded-full transition-transform duration-200 ease-in-out ${
+                        showNonCompliance ? 'transform translate-x-6' : ''
+                      }`}
+                    />
+                    <span className="sr-only">
+                      {showNonCompliance ? 'Switch to compliance rate' : 'Switch to non-compliance rate'}
+                    </span>
+                  </button>
+                    <span className="text-lg text-gray-300 whitespace-nowrap">
+                      {showNonCompliance ? 'Non-compliance rate' : 'Compliance rate'}
+                    </span>
+                </div>
+              </div>
               <div className="space-y-4">
                 {/* Top 2 performers */}
-                {filteredConsultants.slice(0, 2).map((consultant, index) => (
+                {sortedConsultants.slice(0, 2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                    <div className="w-8 h-8 rounded bg-[#78c38e] flex items-center justify-center">
+                    <div className={`w-8 h-8 rounded ${showNonCompliance ? 'bg-[#FF6B8A]' : 'bg-[#78c38e]'} flex items-center justify-center`}>
                       {index + 1}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>
@@ -278,10 +312,10 @@ export const WeeklyInitiative = ({
                 <div className="text-center text-2xl text-gray-500">...</div>
 
                 {/* Bottom 2 performers */}
-                {filteredConsultants.slice(-2).map((consultant, index) => (
+                {sortedConsultants.slice(-2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                    <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
-                      {filteredConsultants.length - 1 + index}
+                    <div className={`w-8 h-8 rounded ${showNonCompliance ? 'bg-[#78c38e]' : 'bg-[#FF6B8A]'} flex items-center justify-center`}>
+                      {sortedConsultants.length - 1 + index}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>
                     <span>{consultant.result}</span>
