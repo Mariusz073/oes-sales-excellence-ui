@@ -139,10 +139,18 @@ export const WeeklyInitiative = ({
 }: WeeklyInitiativeProps) => {
   const [showNonCompliance, setShowNonCompliance] = React.useState(false);
 
-  // Sort consultants based on toggle state
+  // Sort consultants based on percentage from result string and toggle state
   const sortedConsultants = React.useMemo(() => {
     const filtered = consultants.filter(consultant => consultant.result !== "0/0 (0.00%)");
-    return showNonCompliance ? [...filtered].reverse() : filtered;
+    const sorted = [...filtered].sort((a, b) => {
+      // Extract percentages from result strings (format: "X/Y (Z%)")
+      const getPercentage = (result: string) => {
+        const match = result.match(/\((\d+(?:\.\d+)?)%\)/);
+        return match ? parseFloat(match[1]) : 0;
+      };
+      return getPercentage(b.result) - getPercentage(a.result);
+    });
+    return showNonCompliance ? sorted.reverse() : sorted;
   }, [consultants, showNonCompliance]);
   // Extract title and highlight the text between <em> tags in red
   const titleParts = title.split(/<em>|<\/em>/);
@@ -335,7 +343,7 @@ export const WeeklyInitiative = ({
               </h3>
               <div className="space-y-4">
                 {/* Top 2 performers */}
-                {filteredConsultants.slice(0, 2).map((consultant, index) => (
+                {sortedConsultants.slice(0, 2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                     <div className="w-8 h-8 rounded bg-[#78c38e] flex items-center justify-center">
                       {index + 1}
@@ -361,10 +369,10 @@ export const WeeklyInitiative = ({
                 <div className="text-center text-2xl text-gray-500">...</div>
 
                 {/* Bottom 2 performers */}
-                {filteredConsultants.slice(-2).map((consultant, index) => (
+                {sortedConsultants.slice(-2).map((consultant, index) => (
                   <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                     <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
-                      {filteredConsultants.length - 1 + index}
+                      {sortedConsultants.length - 1 + index}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>
                     <span>{consultant.result}</span>
