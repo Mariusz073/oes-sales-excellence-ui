@@ -292,7 +292,10 @@ export default async function ReportPage({
               (conv) => (
                 <div key={conv.id} className="bg-[#2A2A2A] p-6 rounded">
                   <h3 className="text-xl font-medium mb-2">
-                    {conv.id}. {conv.title}
+                    {conv.id}. {conv.title} 
+                    <span className="text-sm text-[#a6a6a6] ml-2">
+                      (Call ID: {conv.related_calls.primary_call.call_id})
+                    </span>
                   </h3>
                   <div className="space-y-2 text-base font-base">
                     <p>
