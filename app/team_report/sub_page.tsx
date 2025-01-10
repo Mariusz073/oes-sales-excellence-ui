@@ -41,8 +41,9 @@ interface WeeklyInitiativeProps {
   }>;
   consultants: Array<{
     name: string;
-    result: string;
-    percentage: number;
+    result?: string;
+    percentage?: number;
+    percentage_high_need?: string;
   }>;
   averageResult: {
     name: string;
@@ -156,14 +157,23 @@ export const WeeklyInitiative = ({
 
   // Sort consultants based on percentage from result string and toggle state
   const sortedConsultants = React.useMemo(() => {
-    const filtered = consultants.filter(consultant => consultant.result !== "0/0 (0.00%)");
+    const filtered = consultants.filter(consultant => {
+      const resultStr = consultant.result || consultant.percentage_high_need;
+      if (resultStr === "0/0 (0.00%)" || resultStr === "0/0 (0.0%)") return false;
+      
+      const match = resultStr?.match(/\((\d+(?:\.\d+)?)%\)/);
+      const percentage = match ? parseFloat(match[1]) : 0;
+      return percentage > 0;
+    });
+    
     const sorted = [...filtered].sort((a, b) => {
       // Extract percentages from result strings (format: "X/Y (Z%)")
-      const getPercentage = (result: string) => {
-        const match = result.match(/\((\d+(?:\.\d+)?)%\)/);
+      const getPercentage = (consultant: { result?: string; percentage_high_need?: string }) => {
+        const resultStr = consultant.result || consultant.percentage_high_need;
+        const match = resultStr?.match(/\((\d+(?:\.\d+)?)%\)/);
         return match ? parseFloat(match[1]) : 0;
       };
-      return getPercentage(b.result) - getPercentage(a.result);
+      return getPercentage(b) - getPercentage(a);
     });
     return showNonCompliance ? sorted.reverse() : sorted;
   }, [consultants, showNonCompliance]);
@@ -315,7 +325,83 @@ export const WeeklyInitiative = ({
                       {index + 1}
                     </div>
                     <span className="flex-grow">{consultant.name}</span>
-                    <span>{consultant.result}</span>
+                    <span>{consultant.result || consultant.percentage_high_need}</span>
+                  </div>
+                ))}
+
+                {/* First ellipsis */}
+                <div className="text-center text-2xl text-gray-500">...</div>
+
+                {/* Team average */}
+                <div className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                  <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
+                    -
+                  </div>
+                  <span className="flex-grow">{averageResult.name}</span>
+                  <span>{averageResult.result}</span>
+                </div>
+
+                {/* Second ellipsis */}
+                <div className="text-center text-2xl text-gray-500">...</div>
+
+                {/* Bottom 2 performers */}
+                {sortedConsultants.slice(-2).map((consultant, index) => (
+                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                    <div className={`w-8 h-8 rounded ${showNonCompliance ? 'bg-[#78c38e]' : 'bg-[#FF6B8A]'} flex items-center justify-center`}>
+                      {sortedConsultants.length - 1 + index}
+                    </div>
+                    <span className="flex-grow">{consultant.name}</span>
+                    <span>{consultant.result || consultant.percentage_high_need}</span>
+                  </div>
+                ))}
+                {/* View all button */}
+                <IndividualPerformanceDialog 
+                  consultants={consultants}
+                  averageResult={averageResult}
+                  showNonCompliance={showNonCompliance}
+                  onToggleCompliance={() => setShowNonCompliance(!showNonCompliance)}
+                />
+              </div>
+            </div>
+          </>
+        ) : (
+          // Behavioral Report Layout
+          <>
+            {/* Left Column - Individual Performance */}
+            <div>
+              <div className="grid grid-cols-[auto_280px] items-center mb-6">
+                <h3 className="text-xl font-medium flex items-center gap-2">
+                  Individual performance
+                  <span className="text-sm text-gray-400">n={individualPerformanceCount}</span>
+                </h3>
+                <div className="grid grid-cols-[48px_1fr] items-center gap-3 justify-end">
+                  <button
+                    onClick={() => setShowNonCompliance(!showNonCompliance)}
+                    className={`relative w-12 h-6 rounded-full transition-colors duration-200 ease-in-out ${
+                      showNonCompliance ? 'bg-[#FF6B8A]' : 'bg-[#78c38e]'
+                    }`}
+                    aria-label={`Toggle ${showNonCompliance ? 'compliance' : 'non-compliance'} rate view`}
+                  >
+                    <span
+                      className={`absolute top-1 left-1 w-4 h-4 bg-white rounded-full transition-transform duration-200 ease-in-out ${
+                        showNonCompliance ? 'transform translate-x-6' : ''
+                      }`}
+                    />
+                  </button>
+                  <span className="text-lg text-gray-300 whitespace-nowrap">
+                    {showNonCompliance ? 'Non-compliance rate' : 'Compliance rate'}
+                  </span>
+                </div>
+              </div>
+              <div className="space-y-4">
+                {/* Top 2 performers */}
+                {sortedConsultants.slice(0, 2).map((consultant, index) => (
+                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+                    <div className={`w-8 h-8 rounded ${showNonCompliance ? 'bg-[#FF6B8A]' : 'bg-[#78c38e]'} flex items-center justify-center`}>
+                      {index + 1}
+                    </div>
+                    <span className="flex-grow">{consultant.name}</span>
+                    <span>{consultant.result || consultant.percentage_high_need}</span>
                   </div>
                 ))}
 
@@ -344,6 +430,7 @@ export const WeeklyInitiative = ({
                     <span>{consultant.result}</span>
                   </div>
                 ))}
+
                 {/* View all button */}
                 <IndividualPerformanceDialog 
                   consultants={consultants}
@@ -351,55 +438,6 @@ export const WeeklyInitiative = ({
                   showNonCompliance={showNonCompliance}
                   onToggleCompliance={() => setShowNonCompliance(!showNonCompliance)}
                 />
-              </div>
-            </div>
-          </>
-        ) : (
-          // Behavioral Report Layout
-          <>
-            {/* Left Column - Individual Performance */}
-            <div>
-              <h3 className="text-xl mb-6 flex items-center gap-2">
-                Individual performance
-                <span className="text-sm text-gray-400">n={individualPerformanceCount}</span>
-              </h3>
-              <div className="space-y-4">
-                {/* Top 2 performers */}
-                {sortedConsultants.slice(0, 2).map((consultant, index) => (
-                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                    <div className="w-8 h-8 rounded bg-[#78c38e] flex items-center justify-center">
-                      {index + 1}
-                    </div>
-                    <span className="flex-grow">{consultant.name}</span>
-                    <span>{consultant.result}</span>
-                  </div>
-                ))}
-
-                {/* First ellipsis */}
-                <div className="text-center text-2xl text-gray-500">...</div>
-
-                {/* Team average */}
-                <div className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                  <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
-                    -
-                  </div>
-                  <span className="flex-grow">{averageResult.name}</span>
-                  <span>{averageResult.result}</span>
-                </div>
-
-                {/* Second ellipsis */}
-                <div className="text-center text-2xl text-gray-500">...</div>
-
-                {/* Bottom 2 performers */}
-                {sortedConsultants.slice(-2).map((consultant, index) => (
-                  <div key={index} className="flex items-center gap-4 bg-[#1E1E1E] p-4 rounded">
-                    <div className="w-8 h-8 rounded bg-[#FF6B8A] flex items-center justify-center">
-                      {sortedConsultants.length - 1 + index}
-                    </div>
-                    <span className="flex-grow">{consultant.name}</span>
-                    <span>{consultant.result}</span>
-                  </div>
-                ))}
               </div>
             </div>
 

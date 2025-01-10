@@ -31,7 +31,11 @@ export const IndividualPerformanceDialog = ({
   const sortedConsultants = React.useMemo(() => {
     const filtered = consultants.filter(consultant => {
       const resultStr = consultant.result || consultant.percentage_high_need;
-      return resultStr !== "0/0 (0.00%)";
+      if (resultStr === "0/0 (0.00%)" || resultStr === "0/0 (0.0%)") return false;
+      
+      const match = resultStr?.match(/\((\d+(?:\.\d+)?)%\)/);
+      const percentage = match ? parseFloat(match[1]) : 0;
+      return percentage > 0;
     });
     const sorted = [...filtered].sort((a, b) => {
       const getPercentage = (consultant: Consultant) => {
