@@ -78,7 +78,7 @@ export function WeeklyInsightsDialog({ isOpen, onClose, verboseInsights }: Weekl
             
             return (
               <div key={index} className="flex flex-col gap-2">
-                <div className="text-lg font-medium">{insight.title}</div>
+                <div className="text-lg font-medium bg-[#404040] px-4 py-2 rounded mb-3">{insight.title}</div>
                 <div className="italic font-medium">Student trigger:</div>
                 <div className="border border-[#78c38e] rounded-lg px-6 py-3">
                   <div className="text-white font-medium">{insight.content.student_trigger}</div>
