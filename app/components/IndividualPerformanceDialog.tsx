@@ -5,7 +5,10 @@ import * as Dialog from '@radix-ui/react-dialog';
 
 interface Consultant {
   name: string;
-  result: string;
+  result?: string;
+  percentage_high_need?: string;
+  high_need_score?: string;
+  all_score?: string;
 }
 
 interface IndividualPerformanceDialogProps {
@@ -26,13 +29,17 @@ export const IndividualPerformanceDialog = ({
 }: IndividualPerformanceDialogProps) => {
   // Sort consultants based on percentage from result string
   const sortedConsultants = React.useMemo(() => {
-    const filtered = consultants.filter(consultant => consultant.result !== "0/0 (0.00%)");
+    const filtered = consultants.filter(consultant => {
+      const resultStr = consultant.result || consultant.percentage_high_need;
+      return resultStr !== "0/0 (0.00%)";
+    });
     const sorted = [...filtered].sort((a, b) => {
-      const getPercentage = (result: string) => {
-        const match = result.match(/\((\d+(?:\.\d+)?)%\)/);
+      const getPercentage = (consultant: Consultant) => {
+        const resultStr = consultant.result || consultant.percentage_high_need;
+        const match = resultStr?.match(/\((\d+(?:\.\d+)?)%\)/);
         return match ? parseFloat(match[1]) : 0;
       };
-      return getPercentage(b.result) - getPercentage(a.result);
+      return getPercentage(b) - getPercentage(a);
     });
     return showNonCompliance ? sorted.reverse() : sorted;
   }, [consultants, showNonCompliance]);
@@ -43,13 +50,15 @@ export const IndividualPerformanceDialog = ({
     if (showNonCompliance) {
       // For non-compliance mode, we want team average after consultants with higher non-compliance (lower compliance)
       return sortedConsultants.findIndex(consultant => {
-        const consultantPercentage = parseFloat(consultant.result.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
+        const resultStr = consultant.result || consultant.percentage_high_need;
+        const consultantPercentage = parseFloat(resultStr?.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
         return consultantPercentage > avgPercentage;
       });
     } else {
       // For compliance mode, we want team average after consultants with higher compliance
       return sortedConsultants.findIndex(consultant => {
-        const consultantPercentage = parseFloat(consultant.result.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
+        const resultStr = consultant.result || consultant.percentage_high_need;
+        const consultantPercentage = parseFloat(resultStr?.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0");
         return consultantPercentage <= avgPercentage;
       });
     }
@@ -121,7 +130,7 @@ export const IndividualPerformanceDialog = ({
                   {index + 1}
                 </div>
                 <span className="flex-grow">{consultant.name}</span>
-                <span>{consultant.result}</span>
+                <span>{consultant.result || consultant.percentage_high_need}</span>
               </div>
             ))}
 
@@ -144,7 +153,7 @@ export const IndividualPerformanceDialog = ({
                   {index + teamAverageIndex + 1}
                 </div>
                 <span className="flex-grow">{consultant.name}</span>
-                <span>{consultant.result}</span>
+                <span>{consultant.result || consultant.percentage_high_need}</span>
               </div>
             ))}
           </div>

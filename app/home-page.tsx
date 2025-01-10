@@ -196,7 +196,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               }}
             >
               <option value="">Kind of analysis</option>
-              {(isAdmin || privileges.teamBehavioural) && <option value="behavioral">Behavioral-Collaborative planning</option>}
+              {(isAdmin || privileges.teamBehavioural) && <option value="behavioural">Behavioural-Collaborative planning</option>}
               {(isAdmin || privileges.teamCollaborative) && <option value="compliance">Compliance - Call recording disclosure</option>}
             </select>
 

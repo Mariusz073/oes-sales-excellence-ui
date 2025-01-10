@@ -1,0 +1,173 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 7,
+    "university": "Monash",    
+    "reporting_period": "12-09_12-13",
+    "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [ 
+            {
+                "title": "11-11_11-15\nweek 3",
+                "upper_bound": 75,
+                "lower_bound": 45,
+                "green": 56
+            },
+            {
+                "title": "10-25_11-01\nweek 6",
+                "upper_bound": 65,
+                "lower_bound": 16,
+                "green": 28
+            },
+            {
+                "title": "12-02_12-06\nweek 9",
+                "upper_bound": 60,
+                "lower_bound": 28,
+                "green": 36
+            },
+            {
+                "title": "12-02_12-06\nweek 10",
+                "upper_bound": 67,
+                "lower_bound": 33,
+                "green": 56
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 345,
+        "consultant_results": [
+            {
+                "name": "Elisha Odhiambo",
+                "rank": 1,
+                "high_need_score": "100.0%",
+                "all_score": "100.0%",
+                "percentage_high_need": "17/17 (100.0%)"
+            },
+            {
+                "name": "Olive Jerome",
+                "rank": 2,
+                "high_need_score": "100.0%",
+                "all_score": "100.0%",
+                "percentage_high_need": "18/20 (90.0%)"
+            },
+            {
+                "name": "Michael Whyte",
+                "rank": 10,
+                "high_need_score": "100.0%",
+                "all_score": "100.0%",
+                "percentage_high_need": "10/20 (50.0%)"
+            },
+            {
+                "name": "Alyssa Pennacchia",
+                "rank": 11,
+                "high_need_score": "100.0%",
+                "all_score": "100.0%",
+                "percentage_high_need": "12/20 (60.0%)"
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "100.0%",
+            "all_score": "100.0%",
+            "percentage_high_need": "14/20 (70.0%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Career Path Excellence",
+                        "content": "When students expressed specific career goals (e.g., joining police force), consultants effectively connected these to relevant programs like the \"Undergraduate Certificate of Criminal Justice and Criminology,\" demonstrating strong alignment between aspirations and educational pathways."
+                    },
+                    {
+                        "title": "Proactive Documentation Support",
+                        "content": "When students expressed concerns about citizenship documentation, consultants provided clear alternative solutions, such as accepting visa grant letters with official transcripts, effectively removing potential enrollment barriers."
+                    },
+                    {
+                        "title": "Flexible Study Solutions",
+                        "content": "Consultants effectively addressed work-life balance concerns by explaining flexible study options, including the ability to adjust course load before census and emphasizing online study flexibility, helping build enrollment confidence."
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Enhanced Financial Guidance",
+                        "content": "When students expressed concerns about program costs and payment options, consultants typically provided only basic fee information without exploring comprehensive financial planning or available support mechanisms."
+                    },
+                    {
+                        "title": "Study Management Support",
+                        "content": "While students sought specific guidance on managing study workload alongside existing commitments, consultants often provided only basic hour requirements without exploring practical time management strategies or available support resources."
+                    },
+                    {
+                        "title": "Process Navigation Support",
+                        "content": "Students expressing confusion about administrative processes received minimal guidance without detailed explanations, creating risks of application delays or incomplete submissions."
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Career Path Excellence",
+                        "content": {
+                            "student_trigger": "Students seeking guidance on course options that align with their career goals, with one noting 'I'm looking for an online course... because I'm to join the police force next year' and others expressing interest in psychology and counseling pathways.",
+                            "consultant_response": "Consultants demonstrated excellent collaborative planning by immediately connecting aspirations to specific programs: 'It's called the Undergraduate Certificate of Criminal Justice and Criminology... this will go towards that as well.'",
+                            "recommended_approach": "While responses were strong, enhance by: 1) Acknowledging career goals 2) Explore specific requirements 3) Discuss specialization options 4) Create clear progression pathways 5) Share success stories"
+                        }
+                    },
+                    {
+                        "title": "Proactive Documentation Support",
+                        "content": {
+                            "student_trigger": "The student revealed potential documentation barriers by expressing concerns about citizenship requirements: 'Yeah, I don't have my citizenship yet.'",
+                            "consultant_response": "The consultant demonstrated effective collaborative planning by immediately addressing the citizenship concern with clear alternative solutions. By confirming that 'just the visa grant letter will be sufficient as well, along with your official transcript,' the consultant provided actionable guidance while maintaining a supportive tone.",
+                            "recommended_approach": "While the current approach is excellent, enhance similar interactions by: 1) Explaining why alternative documentation is acceptable 2) Proactively addressing other common documentation concerns 3) Providing a checklist of required documents 4) Offering ongoing support through the documentation process"
+                        }
+                    },
+                    {
+                        "title": "Flexible Study Solutions",
+                        "content": {
+                            "student_trigger": "Multiple students demonstrated thoughtful consideration of study management, with statements about starting cautiously and questions about accommodating work schedules.",
+                            "consultant_response": "Consultants demonstrated excellent collaborative planning by effectively communicating program flexibility and study load options. Key responses included 'You can always increase it or decrease it before census' and detailed explanations of online study flexibility.",
+                            "recommended_approach": "While responses were effective, enhance by: 1) Exploring specific scheduling preferences early 2) Creating detailed study plans aligned with individual circumstances 3) Discussing typical time commitments for different load options 4) Setting clear check-in points 5) Sharing success stories"
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Enhanced Financial Guidance",
+                        "content": {
+                            "student_trigger": "Multiple students expressed significant concerns about program costs and payment options. These financial discussions represented critical decision points in their enrollment journey.",
+                            "consultant_response": "Consultants typically provided basic fee information without engaging in meaningful financial planning discussions. This surface-level approach missed opportunities to address financial barriers and explore available support options in detail.",
+                            "recommended_approach": "A more effective approach would: 1) Explore specific financial circumstances and concerns 2) Discuss available payment plans and financial aid options in detail 3) Explain scholarship opportunities and application processes 4) Create personalized financial planning timelines 5) Offer connections to financial support services"
+                        }
+                    },
+                    {
+                        "title": "Study Management Support",
+                        "content": {
+                            "student_trigger": "Multiple students sought specific guidance on managing study workload alongside existing commitments. These inquiries indicated crucial need for practical study management strategies.",
+                            "consultant_response": "Consultants provided basic information about study hours without exploring specific management strategies or support resources. This limited approach failed to address practical concerns about balancing study with other commitments.",
+                            "recommended_approach": "Develop comprehensive study management approach: 1) Review current commitments and schedules 2) Discuss specific time management strategies 3) Create detailed study plans 4) Identify potential challenges and solutions 5) Connect with relevant support services 6) Schedule regular check-ins"
+                        }
+                    },
+                    {
+                        "title": "Process Navigation Support",
+                        "content": {
+                            "student_trigger": "Multiple students expressed confusion about administrative processes, including credit transfers and RPL applications. Their questions indicated significant need for clear guidance and support in navigating these procedures.",
+                            "consultant_response": "Consultants provided minimal guidance without detailed process explanations or support planning. This approach left students unclear about next steps and requirements, potentially impacting their ability to complete necessary procedures effectively.",
+                            "recommended_approach": "Implement a comprehensive process planning approach: 1) Break down procedures into clear, manageable steps 2) Create detailed timeline-based action plans 3) Provide specific documentation guidance and templates 4) Schedule regular check-in points 5) Maintain ongoing support through completion"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2024-12-13",
+        "report_id": "MONU-B-COLL-W7-2024",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

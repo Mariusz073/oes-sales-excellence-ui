@@ -7,6 +7,8 @@ interface Graph {
   red?: number;
   upperBound?: number;
   lowerBound?: number;
+  upper_bound?: number;
+  lower_bound?: number;
 }
 
 interface SubRequirement {
@@ -17,12 +19,18 @@ interface SubRequirement {
 
 interface ConsultantResult {
   name: string;
-  result: string;
+  result?: string;
+  percentage_high_need?: string;
+  high_need_score?: string;
+  all_score?: string;
 }
 
 interface AverageResult {
   name: string;
   result: string;
+  percentage_high_need?: string;
+  high_need_score?: string;
+  all_score?: string;
 }
 
 interface WeeklyInsight {
@@ -70,6 +78,22 @@ export default async function TeamReportPage({
 }): Promise<JSX.Element> {
   const reportData = await getTeamReportData(searchParams.team, searchParams.analysis, searchParams.week) as TeamReportData | null;
 
+  // Transform data for behavioral reports
+  if (reportData && (reportData.type === 'behavioural' || reportData.type === 'behavioral')) {
+    // Update average result to use percentage_high_need
+    if (reportData.individual_performance.average_result.percentage_high_need) {
+      reportData.individual_performance.average_result.result = 
+        reportData.individual_performance.average_result.percentage_high_need;
+    }
+
+    // Transform graph data to use upperBound and lowerBound
+    reportData.graph.bars = reportData.graph.bars.map(bar => ({
+      ...bar,
+      upperBound: bar.upper_bound,
+      lowerBound: bar.lower_bound
+    }));
+  }
+
   if (!reportData) {
     return (
       <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light flex items-center justify-center">
@@ -94,10 +118,23 @@ export default async function TeamReportPage({
 
   // Sort consultants by compliance percentage
   const sortedConsultants = [...reportData.individual_performance.consultant_results]
-    .map(consultant => ({
-      ...consultant,
-      percentage: parseInt(consultant.result.match(/\((\d+)%\)$/)?.[1] || '0')
-    }))
+    .map(consultant => {
+      // Handle both compliance and behavioral data structures
+      const percentageStr = (reportData.type === 'behavioural' || reportData.type === 'behavioral')
+        ? consultant.percentage_high_need 
+        : consultant.result;
+      
+      // Extract percentage from either format
+      const percentageMatch = percentageStr?.match(/\((\d+(?:\.\d+)?)%\)$/);
+      const percentage = percentageMatch ? parseFloat(percentageMatch[1]) : 0;
+
+      return {
+        ...consultant,
+        // For behavioral reports, use percentage_high_need as result
+        result: (reportData.type === 'behavioural' || reportData.type === 'behavioral') ? consultant.percentage_high_need : consultant.result,
+        percentage
+      };
+    })
     .sort((a, b) => b.percentage - a.percentage);
 
   // Create array of 12 positions
@@ -123,18 +160,24 @@ export default async function TeamReportPage({
           <h2 className="text-2xl mb-6 font-semibold">{formattedFirstTitle}</h2>
 
           <div className="flex items-center gap-6 mb-4">
+            {/* Red line legend - show for both compliance and behavioral */}
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.red_label}</span>
+              <span className="text-sm text-gray-300 font-normal">
+                {reportData.type === 'Compliance' ? 'Partial compliance' : reportData.graph.red_label}
+              </span>
             </div>
+            {/* Green line legend */}
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#78c38e]"></div>
               <span className="text-sm text-gray-300 font-normal">{reportData.graph.green_label}</span>
             </div>
+            {/* Black line legend */}
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#1E1E1E]"></div>
               <span className="text-sm text-gray-300 font-normal">{reportData.graph.black_label}</span>
             </div>
+            {/* Result label */}
             <div className="flex items-center gap-2 ml-8">
               <span className="text-sm text-gray-300 font-normal">{reportData.graph.result_label}</span>
             </div>

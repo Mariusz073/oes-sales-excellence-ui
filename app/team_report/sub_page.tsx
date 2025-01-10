@@ -5,8 +5,22 @@ import { IndividualPerformanceDialog } from '../components/IndividualPerformance
 
 interface WeeklyInsight {
   title: string;
-  content: string;
-  border_color: string;
+  content: string | {
+    student_trigger: string;
+    consultant_response: string;
+    recommended_approach: string;
+  };
+  border_color?: string;
+}
+
+interface WeeklyInsightGroup {
+  positive: WeeklyInsight[];
+  opportunities: WeeklyInsight[];
+}
+
+interface WeeklyInsights {
+  concise: WeeklyInsightGroup;
+  verbose: WeeklyInsightGroup;
 }
 
 interface WeeklyInitiativeProps {
@@ -36,7 +50,7 @@ interface WeeklyInitiativeProps {
   };
   weeklyInsights?: {
     verdicts_count: number;
-    insights: WeeklyInsight[];
+    insights: WeeklyInsight[] | WeeklyInsights;
   };
   individualPerformanceCount?: number;
 }
@@ -396,16 +410,51 @@ export const WeeklyInitiative = ({
                 <span className="text-sm text-gray-400">n={weeklyInsights?.verdicts_count}</span>
               </h3>
               <div className="space-y-4">
-                {weeklyInsights?.insights.map((insight, index) => (
-                  <div 
-                    key={index} 
-                    className="p-4 rounded bg-[#1E1E1E] border-l-4"
-                    style={{ borderColor: insight.border_color }}
-                  >
-                    <div className="text-sm font-medium mb-2">{insight.title}</div>
-                    <div className="text-sm text-gray-400">{insight.content}</div>
-                  </div>
-                ))}
+                {Array.isArray(weeklyInsights?.insights) ? (
+                  // Handle compliance report insights (array format)
+                  weeklyInsights.insights.map((insight, index) => (
+                    <div 
+                      key={index} 
+                      className="p-4 rounded bg-[#1E1E1E] border-l-4"
+                      style={{ borderColor: insight.border_color }}
+                    >
+                      <div className="text-sm font-medium mb-2">{insight.title}</div>
+                      <div className="text-sm text-gray-400">
+                        {typeof insight.content === 'string' ? insight.content : insight.content.consultant_response}
+                      </div>
+                    </div>
+                  ))
+                ) : (
+                  // Handle behavioural report insights (grouped format)
+                  weeklyInsights?.insights && (
+                    <>
+                      {/* Positive insights */}
+                      {weeklyInsights.insights.concise.positive.map((insight, index) => (
+                        <div 
+                          key={`positive-${index}`} 
+                          className="p-4 rounded bg-[#1E1E1E] border-l-4 border-[#78c38e]"
+                        >
+                          <div className="text-sm font-medium mb-2">{insight.title}</div>
+                          <div className="text-sm text-gray-400">
+                            {typeof insight.content === 'string' ? insight.content : insight.content.consultant_response}
+                          </div>
+                        </div>
+                      ))}
+                      {/* Opportunities */}
+                      {weeklyInsights.insights.concise.opportunities.map((insight, index) => (
+                        <div 
+                          key={`opportunity-${index}`} 
+                          className="p-4 rounded bg-[#1E1E1E] border-l-4 border-[#FF6B8A]"
+                        >
+                          <div className="text-sm font-medium mb-2">{insight.title}</div>
+                          <div className="text-sm text-gray-400">
+                            {typeof insight.content === 'string' ? insight.content : insight.content.consultant_response}
+                          </div>
+                        </div>
+                      ))}
+                    </>
+                  )
+                )}
               </div>
             </div>
           </>

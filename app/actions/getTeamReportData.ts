@@ -4,7 +4,7 @@ import path from 'path';
 export async function getTeamReportData(team: string, analysisType: string, week: string) {
   try {
     const teamPrefix = team === 'monash' ? 'MONU' : 'SOLU';
-    const analysisKeyword = analysisType === 'compliance' ? 'compliance' : 'behavioral';
+    const analysisKeyword = analysisType === 'compliance' ? 'compliance' : 'behavioural';
     
     const teamReportsDir = path.join(process.cwd(), 'app/data/team_reports');
     console.log('Looking in directory:', teamReportsDir);
