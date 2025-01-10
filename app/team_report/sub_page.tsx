@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { IndividualPerformanceDialog } from '../components/IndividualPerformanceDialog';
+import { WeeklyInsightsDialog } from '../components/WeeklyInsightsDialog';
 
 interface WeeklyInsight {
   title: string;
@@ -51,7 +52,16 @@ interface WeeklyInitiativeProps {
   };
   weeklyInsights?: {
     verdicts_count: number;
-    insights: WeeklyInsight[] | WeeklyInsights;
+    insights: WeeklyInsight[] | {
+      concise: {
+        positive: WeeklyInsight[];
+        opportunities: WeeklyInsight[];
+      };
+      verbose: {
+        positive: WeeklyInsight[];
+        opportunities: WeeklyInsight[];
+      };
+    };
   };
   individualPerformanceCount?: number;
 }
@@ -154,6 +164,7 @@ export const WeeklyInitiative = ({
   individualPerformanceCount
 }: WeeklyInitiativeProps) => {
   const [showNonCompliance, setShowNonCompliance] = React.useState(false);
+  const [showWeeklyInsightsDialog, setShowWeeklyInsightsDialog] = React.useState(false);
 
   // Sort consultants based on percentage from result string and toggle state
   const sortedConsultants = React.useMemo(() => {
@@ -177,6 +188,7 @@ export const WeeklyInitiative = ({
     });
     return showNonCompliance ? sorted.reverse() : sorted;
   }, [consultants, showNonCompliance]);
+
   // Extract title and highlight the text between <em> tags in red
   const titleParts = title.split(/<em>|<\/em>/);
   const formattedTitle = titleParts.map((part: string, index: number) => 
@@ -187,7 +199,7 @@ export const WeeklyInitiative = ({
   const filteredConsultants = consultants.filter(consultant => consultant.result !== "0/0 (0.00%)");
 
   return (
-    <div className="mt-8 bg-[#252525] rounded-lg p-10">
+    <div className="mt-8 bg-[#252525] rounded-lg px-8 py-10">
       {/* Title */}
       <h2 className="text-2xl mb-10 font-semibold border-b border-gray-600 pb-4">{formattedTitle}</h2>
 
@@ -442,58 +454,68 @@ export const WeeklyInitiative = ({
             </div>
 
             {/* Right Column - Weekly Insights */}
-            <div>
-              <h3 className="text-xl mb-6 flex items-center gap-2">
-                Weekly insights
-                <span className="text-sm text-gray-400">n={weeklyInsights?.verdicts_count}</span>
-              </h3>
-              <div className="space-y-4">
-                {Array.isArray(weeklyInsights?.insights) ? (
-                  // Handle compliance report insights (array format)
-                  weeklyInsights.insights.map((insight, index) => (
-                    <div 
-                      key={index} 
-                      className="p-4 rounded bg-[#1E1E1E] border-l-4"
-                      style={{ borderColor: insight.border_color }}
-                    >
-                      <div className="text-sm font-medium mb-2">{insight.title}</div>
-                      <div className="text-sm text-gray-400">
-                        {typeof insight.content === 'string' ? insight.content : insight.content.consultant_response}
-                      </div>
-                    </div>
-                  ))
-                ) : (
-                  // Handle behavioural report insights (grouped format)
-                  weeklyInsights?.insights && (
-                    <>
-                      {/* Positive insights */}
-                      {weeklyInsights.insights.concise.positive.map((insight, index) => (
-                        <div 
-                          key={`positive-${index}`} 
-                          className="p-4 rounded bg-[#1E1E1E] border-l-4 border-[#78c38e]"
-                        >
-                          <div className="text-sm font-medium mb-2">{insight.title}</div>
-                          <div className="text-sm text-gray-400">
-                            {typeof insight.content === 'string' ? insight.content : insight.content.consultant_response}
-                          </div>
-                        </div>
-                      ))}
-                      {/* Opportunities */}
-                      {weeklyInsights.insights.concise.opportunities.map((insight, index) => (
+            <div className="-mt-2">
+              <div className="flex justify-between items-center mb-6">
+                <h3 className="text-xl font-medium flex items-center gap-2">
+                  Weekly insights
+                  <span className="text-sm text-gray-400">n={weeklyInsights?.verdicts_count}</span>
+                </h3>
+                <div className="flex justify-center">
+                  <button 
+                    onClick={() => setShowWeeklyInsightsDialog(true)}
+                    className="px-4 py-2 bg-[#FF6B8A] text-white font-medium rounded hover:bg-[#ff8ba4] transition-colors"
+                    aria-label="View all weekly insights"
+                  >
+                    View more
+                  </button>
+                </div>
+              </div>
+              <div className="space-y-8">
+                {weeklyInsights?.insights && !Array.isArray(weeklyInsights.insights) && (
+                  <>
+                    {/* Top 3 opportunities from concise section */}
+                    <div className="space-y-4">
+                      <h4 className="text-xl font-medium italic bg-[#404040] w-full px-4 py-2 rounded">Top 3 opportunities:</h4>
+                      {weeklyInsights.insights.concise.opportunities.slice(0, 3).map((insight, index) => (
                         <div 
                           key={`opportunity-${index}`} 
-                          className="p-4 rounded bg-[#1E1E1E] border-l-4 border-[#FF6B8A]"
+                          className="border border-[#FF6B8A] rounded-lg px-6 py-3"
                         >
-                          <div className="text-sm font-medium mb-2">{insight.title}</div>
-                          <div className="text-sm text-gray-400">
+                          <div className="text-lg font-medium mb-2">{insight.title}</div>
+                          <div className="text-base font-normal text-white">
                             {typeof insight.content === 'string' ? insight.content : insight.content.consultant_response}
                           </div>
                         </div>
                       ))}
-                    </>
-                  )
+                    </div>
+
+                    {/* Top 3 positive from concise section */}
+                    <div className="space-y-4">
+                      <h4 className="text-xl font-medium italic bg-[#404040] w-full px-4 py-2 rounded">Top 3 positive:</h4>
+                      {weeklyInsights.insights.concise.positive.slice(0, 3).map((insight, index) => (
+                        <div 
+                          key={`positive-${index}`} 
+                          className="border border-[#78c38e] rounded-lg px-6 py-3"
+                        >
+                          <div className="text-lg font-medium mb-2">{insight.title}</div>
+                          <div className="text-base font-normal text-white">
+                            {typeof insight.content === 'string' ? insight.content : insight.content.consultant_response}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </>
                 )}
               </div>
+
+              {/* Weekly Insights Dialog */}
+              {weeklyInsights?.insights && !Array.isArray(weeklyInsights.insights) && (
+                <WeeklyInsightsDialog
+                  isOpen={showWeeklyInsightsDialog}
+                  onClose={() => setShowWeeklyInsightsDialog(false)}
+                  verboseInsights={weeklyInsights.insights.verbose}
+                />
+              )}
             </div>
           </>
         )}

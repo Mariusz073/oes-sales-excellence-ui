@@ -151,7 +151,7 @@ export default async function TeamReportPage({
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <h1 className="title font-bold">
-          Team Report Page <span className="text-white">- {searchParams.team === 'monash' ? 'Monash' : 'SOL'} - {searchParams.analysis === 'compliance' ? 'Compliance' : 'Collaborative'} - Week {searchParams.week}</span>
+          Team Report Page <span className="text-white">- {searchParams.team === 'monash' ? 'Monash' : 'SOL'} - {searchParams.analysis === 'compliance' ? 'Compliance' : 'Behavioural'} - Week {searchParams.week}</span>
         </h1>
 
         {/* First Bar Graph Section */}

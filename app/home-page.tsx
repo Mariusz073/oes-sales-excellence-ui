@@ -34,7 +34,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   useEffect(() => {
     if (selectedTeam && selectedAnalysis) {
       const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
-      const analysisType = selectedAnalysis === 'compliance' ? 'Compliance' : 'Behavioral';
+      const analysisType = selectedAnalysis === 'compliance' ? 'Compliance' : 'Behavioural';
       
       // Get all files that match the pattern
       const matchingFiles = teamReportFiles.filter(file => 
