@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 199,
+  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 73,
+    "team_average_absolute_number": 26.6875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 36.68341708542713,
+    "team_average_percentage": 14.38995377453293
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 126,
+    "team_average_absolute_number": 66.6875
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 63.31658291457286,
+    "team_average_percentage": 35.61004622546707
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.89149297629491,
+    "team_average": 51.280019574376695
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 126,
+    "team_total_excluded_transcripts": 1067
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 171.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.94,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Proactive Study Planning",
+        "explanation": "Successfully adapting program structures and options to accommodate student circumstances and commitments"
+      },
+      {
+        "headline": "Clear Pathway Navigation",
+        "explanation": "Effectively guiding students through qualification requirements and alternative entry options"
+      },
+      {
+        "headline": "Career Integration Planning",
+        "explanation": "Successfully connecting educational choices to career goals while providing clear progression pathways"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Support Services Integration",
+        "explanation": "Need for more comprehensive exploration of available support services for students with specific needs"
+      },
+      {
+        "headline": "Financial Planning Depth",
+        "explanation": "Opportunity for more detailed engagement in discussing financial options and payment solutions"
+      },
+      {
+        "headline": "Study-Life Balance Planning",
+        "explanation": "Better integration needed of work, family, and study commitments into educational planning"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1982",
+                "segment_id": "45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students indicated challenges with shift work scheduling and personal commitments.",
+          "consultant_response": "Consultants effectively outlined study options and created personalized study plans.",
+          "context_impact": "Understanding flexible options crucial for enrollment confidence.",
+          "recommended_approach": "Could enhance by exploring specific work-life patterns more deeply."
+        },
+        {
+          "id": 2,
+          "title": "Clear Entry Requirements Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_1",
+              "segment_id": "26",
+              "timestamp": "2:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_4",
+                "segment_id": "16",
+                "timestamp": "3:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed uncertainty about entry requirements and alternative pathways.",
+          "consultant_response": "Provided comprehensive explanation of entry pathways and qualification recognition.",
+          "context_impact": "Clear pathway explanation increased confidence in program accessibility.",
+          "recommended_approach": "None needed - excellent pathway guidance."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "3",
+                "segment_id": "122",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on qualification recognition and career progression paths.",
+          "consultant_response": "Effectively explained qualification pathways and career progression opportunities.",
+          "context_impact": "Understanding career implications crucial for enrollment confidence.",
+          "recommended_approach": "Could provide more specific examples of successful graduate outcomes."
+        },
+        {
+          "id": 4,
+          "title": "Effective Course Structure Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1982",
+              "segment_id": "45",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed understanding of basic fundamentals while seeking clarity about course depth.",
+          "consultant_response": "Clear explanation of course structure and depth requirements.",
+          "context_impact": "Aligning course structure with student expectations crucial for enrollment decision.",
+          "recommended_approach": "None needed - consultant successfully balanced course explanation with student's knowledge level."
+        },
+        {
+          "id": 5,
+          "title": "Limited Health Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_1",
+              "segment_id": "173",
+              "timestamp": "3:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed having an autoimmune condition impacting studies.",
+          "consultant_response": "Brief mention of AccessAbility program without detailed exploration.",
+          "context_impact": "Critical opportunity to demonstrate support systems.",
+          "recommended_approach": "Should engage in deeper discussion about available support services."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_1",
+              "segment_id": "51",
+              "timestamp": "4:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_4",
+                "segment_id": "38",
+                "timestamp": "7:08"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed significant concerns about program affordability.",
+          "consultant_response": "Provided basic loan information without exploring comprehensive support options.",
+          "context_impact": "Financial uncertainty represents critical barrier to enrollment.",
+          "recommended_approach": "Need proactive discussion of all available financial support mechanisms."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1982",
+                "segment_id": "45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity about flexible study arrangements to accommodate work and personal commitments. These inquiries revealed needs for balancing study with existing responsibilities, creating crucial opportunities for collaborative planning around program structure and delivery options.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive explanations of flexible study options and helping create personalized study plans. They effectively communicated how programs could accommodate various scheduling needs, explaining part-time structures and self-paced learning opportunities while maintaining academic quality standards.",
+          "priority": "high",
+          "recommended_approach": "While the current approach is effective, consultants could enhance support by: 1) Exploring specific scheduling needs in more detail, 2) Creating detailed weekly study plans aligned with personal schedules, 3) Discussing strategies for managing peak pressure periods, 4) Setting up regular check-points to adjust plans as needed, and 5) Providing examples of successful flexible study arrangements."
+        },
+        {
+          "id": 2,
+          "title": "Clear Entry Requirements Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_1",
+              "segment_id": "26",
+              "timestamp": "2:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_4",
+                "segment_id": "16",
+                "timestamp": "3:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed significant uncertainty about entry requirements and qualification recognition, particularly regarding work experience pathways and regional recognition requirements. These discussions presented crucial opportunities for collaborative planning around program access and eligibility.",
+          "consultant_response": "Consultants provided detailed explanations of entry pathways and qualification recognition requirements, effectively validating work experience while clearly outlining alternative entry options. Their approach successfully built student confidence by demonstrating multiple viable pathways to program entry.",
+          "priority": "high",
+          "recommended_approach": "Continue this strong approach while: 1) Providing specific examples of successful pathway transitions, 2) Creating clear action plans with specific next steps, 3) Offering to connect students with current learners who entered through similar pathways, and 4) Scheduling follow-up discussions to support the application process."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "3",
+                "segment_id": "122",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sought clarity on qualification recognition and career progression opportunities, demonstrating the need for clear understanding of how their educational choices would impact their professional futures and industry recognition.",
+          "consultant_response": "Consultants effectively explained qualification pathways and career progression opportunities, connecting program benefits to career goals while providing clear, confident information about industry recognition. They demonstrated excellent collaborative planning by helping students understand how their educational choices aligned with their professional aspirations.",
+          "priority": "high",
+          "recommended_approach": "Continue this strong approach while enhancing with: 1) Specific examples of successful graduates, 2) Detailed career progression pathways, 3) Industry-specific recognition details, 4) Regular check-ins on career goal alignment, and 5) Connections to industry networking opportunities."
+        },
+        {
+          "id": 4,
+          "title": "Effective Course Structure Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1982",
+              "segment_id": "45",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 45, the student demonstrated existing knowledge of fundamentals while expressing uncertainty about the course's depth and complexity. This created an important opportunity for collaborative planning, as the student needed clarity about how the course would build on their current understanding and meet their educational needs.",
+          "consultant_response": "The consultant showed excellent judgment in their response: 'So look, with this course, it's only four subjects. It's a grad cert level, so you won't go too in-depth with those things in particular.' This clear, direct explanation demonstrated strong collaborative planning by: 1) Acknowledging the student's current knowledge level, 2) Providing specific course structure information, and 3) Setting appropriate expectations about course depth. The consultant effectively balanced being informative with being responsive to the student's specific concerns.",
+          "priority": "Medium",
+          "recommended_approach": "This interaction demonstrates effective collaborative planning that could be replicated by: 1) Actively listening to understand the student's current knowledge level, 2) Providing clear, specific information about course structure and expectations, and 3) Ensuring explanations are tailored to the student's background and needs. The key is maintaining transparency while adapting the discussion to the student's demonstrated understanding."
+        },
+        {
+          "id": 5,
+          "title": "Limited Health Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_1",
+              "segment_id": "173",
+              "timestamp": "3:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed having an autoimmune condition that could impact their studies, presenting a critical opportunity for collaborative planning around health-related study adjustments and support services.",
+          "consultant_response": "The consultant provided only brief mention of the AccessAbility program without engaging in meaningful discussion about specific support services or accommodation options. This surface-level response missed the opportunity to demonstrate comprehensive support and ensure student confidence in available assistance.",
+          "priority": "high",
+          "recommended_approach": "Enhance support planning by: 1) Acknowledging health disclosures empathetically, 2) Exploring potential study impacts collaboratively, 3) Providing comprehensive information about support services and accommodations, 4) Creating preliminary support plans, and 5) Offering to arrange meetings with relevant support staff. Additionally, discuss flexible assessment options and study load adjustments as needed."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "Call_1",
+              "segment_id": "51",
+              "timestamp": "4:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "Call_4",
+                "segment_id": "38",
+                "timestamp": "7:08"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about program affordability and financial options, with specific mentions of government assistance and payment flexibility needs. These moments represented critical barriers to enrollment requiring comprehensive financial planning.",
+          "consultant_response": "Consultants typically focused on providing basic loan information without engaging in deeper exploration of financial support options or the students' specific circumstances. This represented missed opportunities to address underlying financial concerns and develop comprehensive support strategies.",
+          "priority": "high",
+          "recommended_approach": "To enhance financial planning discussions, consultants should: 1) Proactively introduce various funding options, 2) Explore specific financial circumstances sensitively, 3) Create detailed payment plans, 4) Connect students with financial advisors when needed, and 5) Follow up on financial aid applications. This comprehensive approach would help reduce financial barriers while ensuring students understand all available support options."
+        }
+      ]
+    }
+  }
+}

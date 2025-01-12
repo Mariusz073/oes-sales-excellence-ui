@@ -1,47 +1,191 @@
 {
   "metadata": {
     "consultant_name": "Valentina William",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 0,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 258,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 66,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 25.581395348837212,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 192,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 74.4186046511628,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": null,
-    "team_average": 51.280019574376695
+    "individual_average": 53.50600858264364,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 0,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 192,
+    "team_total_excluded_transcripts": 2625
   },
-  "behavioral_scores": [],
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    }
+  ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Effective Work-Study Integration",
+        "explanation": "Consultants successfully help students create balanced study plans that accommodate work commitments and personal responsibilities"
+      },
+      {
+        "headline": "Inclusive Decision Support",
+        "explanation": "Strong emphasis on including partners and family members in educational planning through shared communication and collaborative discussions"
+      },
+      {
+        "headline": "Proactive Financial Planning",
+        "explanation": "Consultants provide clear, detailed explanations of costs and payment options to help students make informed financial decisions"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Long-term Planning",
+        "explanation": "Consultants need to better develop and maintain engagement plans for students with extended enrollment timelines"
+      },
+      {
+        "headline": "Deeper Support Integration",
+        "explanation": "More comprehensive integration of available support services needed when addressing student concerns and challenges"
+      },
+      {
+        "headline": "Strategic Career Alignment",
+        "explanation": "Greater emphasis needed on connecting educational pathways with students' specific career goals and professional experience"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Partner Inclusion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870128711",
+              "segment_id": "44",
+              "timestamp": "00:44"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated partner's involvement stating 'Yes, my partner is Aisha Baba.'",
+          "consultant_response": "Consultant committed to including both parties in email communications about course information.",
+          "context_impact": "Including partner in communications enhances shared decision-making process.",
+          "recommended_approach": "None needed - excellent example of collaborative communication."
+        },
+        {
+          "id": 2,
+          "title": "Clear Financial Planning Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870224186",
+              "segment_id": "13",
+              "timestamp": "02:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked about upfront fees and HECS-HELP arrangements.",
+          "consultant_response": "Provided detailed breakdown of fees and payment options, including specific amounts and flexibility in payment methods.",
+          "context_impact": "Transparent fee discussion crucial for informed enrollment decisions.",
+          "recommended_approach": "None needed - comprehensive financial guidance provided."
+        },
+        {
+          "id": 3,
+          "title": "Missed Long-term Planning Opportunity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864035920",
+              "segment_id": "15",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed extended timeline: 'I'm not ready to do anything for at least another six to twelve months.'",
+          "consultant_response": "Minimal response: 'No worries at all,' without exploring future planning options.",
+          "context_impact": "Opportunity to develop long-term engagement plan missed.",
+          "recommended_approach": "Should engage in detailed discussion about preparation steps and planning for future enrollment."
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Partner Inclusion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870128711",
+              "segment_id": "44",
+              "timestamp": "00:44"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 44, the student stated: 'Yes, my partner is Aisha Baba.' This presented a crucial opportunity for collaborative planning that could significantly impact enrollment decisions. The student's explicit mention of their partner's name indicated the importance of including both parties in the educational journey, requiring a response that would acknowledge and facilitate shared decision-making.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately committing to include both parties in communications: 'I'll include you both in that email that I'll send out about this particular course.' This response effectively recognized the partner's role in the decision-making process, established clear communication channels, and created an inclusive environment for future discussions. The approach validated the importance of shared decision-making while ensuring both parties would have access to necessary information.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach effectively demonstrated collaborative planning best practices. To further enhance this strategy, consultants should: 1) Acknowledge the partner's role immediately when mentioned, 2) Ensure all communication includes both parties, 3) Validate the importance of shared decision-making, and 4) Create opportunities for both individuals to engage in the enrollment process. This approach builds trust and supports more effective decision-making."
+        },
+        {
+          "id": 2,
+          "title": "Clear Financial Planning Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870224186",
+              "segment_id": "13",
+              "timestamp": "02:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 13, the student inquired: 'Okay, so is there any upfront fees at all, like I know you said like it goes on your HECS debt and all that, but is there anything that I need to pay before I start studying?' This question presented a critical moment for collaborative planning around financial commitments, directly impacting the student's enrollment decision process. The specific nature of the query indicated a need for clear, detailed information about financial obligations.",
+          "consultant_response": "The consultant provided comprehensive information: 'The short answer is no, the long answer is that there is a student services and amenities fee, which comes to $50 per subject you choose to enroll in. So say if you enroll into two subjects, that's $100 etc. That's up to you. So you could choose to defer that to HECS or you can pay it up front.' This response effectively broke down the financial components, provided specific examples, and outlined available payment options, demonstrating strong collaborative planning around financial decision-making.",
+          "priority": "High",
+          "recommended_approach": "This response exemplifies effective collaborative planning around financial matters. For consistent success, consultants should: 1) Provide clear breakdowns of all fees, 2) Use specific examples to illustrate costs, 3) Explain all payment options available, and 4) Empower students with choice in payment arrangements. This approach ensures students can make informed financial decisions while feeling supported in their educational investment."
+        },
+        {
+          "id": 3,
+          "title": "Missed Long-term Planning Opportunity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864035920",
+              "segment_id": "15",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student clearly stated: 'I'm not ready to do anything for at least another six to twelve months.' This declaration of an extended timeline presented a prime opportunity for collaborative long-term planning. The student's openness about their timeline indicated readiness to discuss future possibilities while signaling a need for structured preparation guidance.",
+          "consultant_response": "The consultant's response was minimal: 'No worries at all,' followed by 'It sounds like a future intake might suit you well.' This response failed to capitalize on the opportunity to engage in meaningful long-term planning. While it acknowledged the student's timeline, it didn't explore how this period could be used effectively to prepare for future study, potentially reducing future enrollment likelihood.",
+          "priority": "High",
+          "recommended_approach": "A more effective response would begin with: 'I understand your timeline. Let's explore how we can use these next 6-12 months to prepare effectively for your studies.' The consultant should then: 1) Discuss specific preparation activities that align with the student's interests, 2) Create a timeline for exploring program options and requirements, 3) Establish check-in points for ongoing engagement, 4) Provide relevant resources for self-directed research, and 5) Set up future contact points to maintain connection. This approach would demonstrate true collaborative planning while maintaining student engagement throughout the extended timeline."
+        }
+      ]
     }
   }
 }

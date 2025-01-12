@@ -1,47 +1,299 @@
 {
   "metadata": {
     "consultant_name": "Alexandra Kepas",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 0,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 266,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 91,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 34.21052631578947,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 175,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 65.78947368421053,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": null,
-    "team_average": 51.280019574376695
+    "individual_average": 54.25159296714314,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 0,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 175,
+    "team_total_excluded_transcripts": 2625
   },
-  "behavioral_scores": [],
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    }
+  ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Strategic Pathway Alignment",
+        "explanation": "Consultants excel at connecting educational pathways to career goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong ability to develop adaptable study plans that accommodate student circumstances while empowering decision-making"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Effective identification and integration of relevant support mechanisms while maintaining clear pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Context Integration",
+        "explanation": "Greater emphasis needed on incorporating individual circumstances and challenges into educational planning"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "More thorough exploration required of financial options and support pathways within appropriate role boundaries"
+      },
+      {
+        "headline": "Work-Life-Study Balance Planning",
+        "explanation": "Deeper discussion needed of practical strategies for managing multiple commitments while maintaining study success"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career-Aligned Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863745577",
+              "segment_id": "53",
+              "timestamp": "10:53"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863745577",
+                "segment_id": "129",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing clear career aspirations, with one noting: 'I enjoy managing people, coaching people, bringing the best out of them.'",
+          "consultant_response": "Consultant effectively demonstrated pathway options: 'you can use either of the courses to project you into a higher level role.'",
+          "context_impact": "Career goal alignment crucial for enrollment commitment and program selection confidence.",
+          "recommended_approach": "None needed - exemplary career-program alignment"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593777682616",
+              "segment_id": "95",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593777682616",
+                "segment_id": "109",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on managing study workload alongside existing commitments.",
+          "consultant_response": "Consultant advised: 'I usually recommend two as a really good starting point... you'll always have until the census date to adjust.'",
+          "context_impact": "Clear load management guidance increased confidence in program success.",
+          "recommended_approach": "None needed - excellent balance of structure and flexibility"
+        },
+        {
+          "id": 3,
+          "title": "Effective Prior Learning Recognition",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593645396367",
+              "segment_id": "13",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about credit transfer possibilities from previous engineering studies.",
+          "consultant_response": "Consultant validated experience: 'We should be able to get you in a similar spot as you previously were' while explaining process.",
+          "context_impact": "Clear validation of prior learning increased pathway planning confidence.",
+          "recommended_approach": "None needed - strong demonstration of collaborative planning"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870308373",
+              "segment_id": "25",
+              "timestamp": "5:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared significant life event: 'I went to do my degree in teaching but I unexpectedly fell pregnant with my second child and I was very ill.'",
+          "consultant_response": "Basic procedural response without addressing personal circumstances or exploring flexible solutions.",
+          "context_impact": "Insufficient acknowledgment reduced confidence in available support options.",
+          "recommended_approach": "Should validate experience and explore specific support options aligned with circumstances"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593645016682",
+              "segment_id": "19",
+              "timestamp": "3:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593946808643",
+                "segment_id": "21",
+                "timestamp": "5:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking financial clarity: 'Just wanted to confirm again like fees and when they have to be paid.'",
+          "consultant_response": "Basic information about Commonwealth supported places without exploring specific options or support pathways.",
+          "context_impact": "Limited financial planning discussion reduced enrollment confidence.",
+          "recommended_approach": "Need comprehensive financial planning discussion including payment options and support mechanisms"
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career-Aligned Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863745577",
+              "segment_id": "53",
+              "timestamp": "10:53"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863745577",
+                "segment_id": "129",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "At segment 53, the student articulated clear career aspirations: 'I think what I've realized is what I enjoy doing is sort of managing people, coaching people, bringing the best out of them, helping them realize their goals.' This revealed both immediate educational interests and longer-term professional objectives, creating an ideal opportunity for strategic program alignment.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by connecting programs directly to career goals: 'Yeah, and this is that one, like you can use this, either of the courses I've just spoken about to be able to achieve that as well... whether you go on and become a registered psychologist or kind of stop after the graduate diploma and just use all of your work experience, previous qualifications plus this to kind of project you into a higher level role.' This approach effectively validated aspirations while showing multiple pathways to achieve goals.",
+          "priority": "high",
+          "recommended_approach": "This represents best practice in collaborative planning. Consultants should: 1) Explicitly acknowledge stated career goals, 2) Present multiple pathway options with clear progression routes, 3) Show how each path supports professional aspirations, 4) Validate existing experience while showing growth opportunities, and 5) Create clear action steps aligned with career objectives. Additionally, establishing future check-points would enhance the collaborative planning process."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593777682616",
+              "segment_id": "95",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593777682616",
+                "segment_id": "109",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated need for clear guidance on managing study workload alongside existing commitments. Their inquiries revealed both desire for structure and concern about maintaining balance, creating crucial opportunities for collaborative planning around study load management.",
+          "consultant_response": "The consultant provided excellent structured guidance while emphasizing flexibility: 'I usually recommend two as a really good starting point... If you start off and you think that it's too much, you'll always have until the census date to adjust.' This approach effectively balanced clear direction with student autonomy, creating confidence in their ability to manage study loads successfully while maintaining option for adjustment.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained, demonstrating: 1) Clear initial recommendations based on common success patterns, 2) Emphasis on flexibility options and adjustment periods, 3) Information about specific support mechanisms and timelines, 4) Support for student autonomy in decision-making while providing structured guidance, and 5) Clear explanation of adjustment processes and deadlines."
+        },
+        {
+          "id": 3,
+          "title": "Effective Prior Learning Recognition",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593645396367",
+              "segment_id": "13",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 13, the student inquired about credit transfer possibilities from previous engineering studies, demonstrating proactive engagement with educational planning and desire to maximize prior learning experiences. This inquiry revealed both academic confidence and strategic thinking about pathway efficiency.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately validating prior learning while setting clear expectations: 'We should be able to get you in a similar spot as you previously were, given you had completed so many units and it's still within the last 10 years.' This response effectively balanced encouragement with transparent process explanation, creating confidence in the recognition pathway.",
+          "priority": "medium",
+          "recommended_approach": "This represents best practice by: 1) Immediately validating prior learning experiences and their value, 2) Setting clear expectations about the credit assessment process, 3) Outlining specific next steps while maintaining appropriate boundaries, 4) Building confidence through clear communication of likely outcomes, and 5) Maintaining appropriate scope while demonstrating support for the recognition process."
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870308373",
+              "segment_id": "25",
+              "timestamp": "5:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 25, the student vulnerably shared: 'I went to do my degree in teaching but I unexpectedly fell pregnant with my second child and I was very ill.' This disclosure represented a critical moment for collaborative planning, demonstrating trust and need for understanding how personal circumstances could impact their educational journey. The statement revealed both past challenges and current need for flexible solutions.",
+          "consultant_response": "The consultant's procedural response failed to acknowledge the emotional aspects of the student's experience or explore how their circumstances could inform a more suitable study approach. The interaction missed a crucial opportunity to demonstrate how the program could accommodate their specific needs while maintaining appropriate pre-enrollment boundaries. This surface-level engagement left potential barriers unaddressed.",
+          "priority": "high",
+          "recommended_approach": "An effective approach would: 1) Acknowledge and validate the student's experience: 'Thank you for sharing that with me. I understand how challenging that must have been,' 2) Explore specific flexibility needs: 'Let's discuss how our program flexibility could work better for your situation,' 3) Discuss relevant support mechanisms available within the program, 4) Create a preliminary study plan that accounts for their personal situation, and 5) Outline post-enrollment support services while maintaining appropriate sales role boundaries. This comprehensive approach ensures students feel supported while developing practical solutions."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593645016682",
+              "segment_id": "19",
+              "timestamp": "3:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593946808643",
+                "segment_id": "21",
+                "timestamp": "5:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity around financial aspects, with direct questions like: 'Just wanted to confirm again like fees and when they have to be paid.' These inquiries revealed a critical need for comprehensive financial planning discussions to support confident enrollment decisions. The pattern of questions indicated uncertainty about managing program costs effectively.",
+          "consultant_response": "Consultants typically provided basic information about Commonwealth supported places without exploring specific payment options or developing comprehensive financial plans. This surface-level approach missed opportunities for collaborative financial planning that could address underlying concerns and build confidence in program affordability. The responses failed to create clear understanding of financial pathways and support options.",
+          "priority": "high",
+          "recommended_approach": "To provide comprehensive financial planning support, consultants should: 1) Acknowledge financial concerns empathetically, 2) Explore specific financial circumstances and needs, 3) Present all available payment options and support mechanisms, 4) Develop tailored payment timelines, 5) Create clear action steps for securing financial support, and 6) Offer to review plans at key decision points. This approach ensures students have both practical solutions and confidence in their ability to manage program costs while maintaining appropriate pre-enrollment boundaries."
+        }
+      ]
     }
   }
 }

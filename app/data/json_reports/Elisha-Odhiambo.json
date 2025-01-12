@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Elisha Odhiambo",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 156,
-  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "total_number_of_calls": 260,
+  "team_average_total_number_of_calls_per_sales_consultant": 190.27272727272728,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 40,
-    "team_average_absolute_number": 20.636363636363637
+    "absolute_number": 50,
+    "team_average_absolute_number": 47.81818181818182
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 25.64102564102564,
-    "team_average_percentage": 22.487986165053538
+    "percentage": 19.230769230769234,
+    "team_average_percentage": 27.97747921684568
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 116,
-    "team_average_absolute_number": 58.09090909090909
+    "absolute_number": 210,
+    "team_average_absolute_number": 142.45454545454547
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 74.35897435897436,
-    "team_average_percentage": 50.23928656221919
+    "percentage": 80.76923076923077,
+    "team_average_percentage": 62.93161169224523
   },
   "average_talking_percentage": {
-    "individual_average": 51.024566138494535,
-    "team_average": 51.07068109184601
+    "individual_average": 49.27083116082727,
+    "team_average": 50.24181666108455
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 116,
-    "team_total_excluded_transcripts": 639
+    "individual_excluded_transcripts": 210,
+    "team_total_excluded_transcripts": 1567
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 120.48,
       "team_average_final_ranking_score_eligible_transcripts": 149.83,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 190.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.56,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Proactive Educational Planning",
-        "explanation": "Effectively engaging students in exploring and mapping educational journeys while validating prior learning"
+        "headline": "Career-Education Alignment Excellence",
+        "explanation": "Consultants demonstrate exceptional skill in connecting educational pathways with professional goals while maintaining appropriate boundaries"
       },
       {
-        "headline": "Flexible Study Solutions",
-        "explanation": "Successfully developing personalized study arrangements that accommodate work and life commitments"
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong ability to adapt program structures to accommodate students' work and life commitments through collaborative planning"
       },
       {
-        "headline": "Clear Program Communication",
-        "explanation": "Providing comprehensive explanations of course structures and requirements while maintaining student engagement"
+        "headline": "Proactive Support Navigation",
+        "explanation": "Effective guidance in connecting students with appropriate resources while maintaining clear role boundaries"
       }
     ],
     "improvement": [
       {
-        "headline": "Enhanced Career Integration",
-        "explanation": "Need deeper exploration of career goals and transition pathways when planning educational journeys"
+        "headline": "Enhanced Financial Planning",
+        "explanation": "Need for more comprehensive exploration and presentation of financial support options when addressing cost concerns"
       },
       {
-        "headline": "Comprehensive Support Planning",
-        "explanation": "More thorough discussion needed of available support mechanisms including financial and academic resources"
+        "headline": "Work-Study Balance Strategy",
+        "explanation": "Greater emphasis needed on developing detailed plans for integrating study requirements with work commitments"
       },
       {
-        "headline": "Personal Context Integration",
-        "explanation": "Should better incorporate individual circumstances and emotional aspects when developing solutions"
+        "headline": "Alternative Pathway Communication",
+        "explanation": "More thorough exploration needed when discussing alternative options and pathways for students"
       }
     ]
   },
@@ -89,75 +96,99 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Career Transition Planning",
-          "type": "improvement",
+          "title": "Exemplary Career-Aligned Pathway Planning",
+          "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "3",
-              "segment_id": "52",
-              "timestamp": "9:58"
+              "call_id": "593946605156",
+              "segment_id": "26",
+              "timestamp": "3:00"
             },
             "supporting_calls": [
               {
-                "call_id": "1",
-                "segment_id": "24",
-                "timestamp": "4:24"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed interest in career transitions and professional development",
-          "consultant_response": "Basic acknowledgment without exploring specific career transition needs or creating detailed plans",
-          "context_impact": "Opportunity to align educational planning with career goals",
-          "recommended_approach": "Should engage in detailed career goal exploration and create specific educational transition plans"
-        },
-        {
-          "id": 2,
-          "title": "Support Resource Planning",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "1",
-              "segment_id": "280",
-              "timestamp": "46:40"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "591330759172_1983",
-                "segment_id": "22",
+                "call_id": "591330759172_1961",
+                "segment_id": "19",
                 "timestamp": null
               }
             ]
           },
-          "student_trigger": "Students expressing various support needs including academic and financial concerns",
-          "consultant_response": "Limited exploration of available support mechanisms and resources",
-          "context_impact": "Critical opportunity to build confidence through comprehensive support planning",
-          "recommended_approach": "Need to engage in detailed support planning and resource connection"
+          "student_trigger": "Multiple students expressed uncertainty about educational pathways and career alignment, seeking guidance on program selection.",
+          "consultant_response": "Consultants provided targeted validation and clear pathway information: 'The Graduate Diploma is actually geared towards future students just like yourself' and 'The Undergraduate Certificate of Criminal Justice and Criminology will go towards that as well.'",
+          "context_impact": "Critical decision point requiring clear guidance while maintaining student autonomy",
+          "recommended_approach": "None needed - exemplary demonstration of career-education alignment"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Integration Success",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593785939243",
+              "segment_id": "70",
+              "timestamp": "13:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778417423",
+                "segment_id": "42",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on program structure and flexibility options for work-life balance.",
+          "consultant_response": "Detailed program mechanics explanation: 'We have six teaching periods each year, which run for six weeks each followed by two-week breaks' and 'Our online model takes into account students like yourself who've got full-time roles.'",
+          "context_impact": "Clear structure explanation enabled confident decision-making about program fit",
+          "recommended_approach": "None needed - excellent demonstration of program flexibility communication"
         },
         {
           "id": 3,
-          "title": "Personal Context Integration",
+          "title": "Limited Financial Support Planning",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_4",
-              "segment_id": "15",
-              "timestamp": "03:00"
+              "call_id": "593946945154",
+              "segment_id": "41",
+              "timestamp": "05:25"
             },
             "supporting_calls": [
               {
-                "call_id": "call_2",
-                "segment_id": "3",
-                "timestamp": "00:15"
+                "call_id": "593777586597",
+                "segment_id": "80",
+                "timestamp": "05:15"
               }
             ]
           },
-          "student_trigger": "Parents shared concerns about non-traditional educational backgrounds including mental health challenges",
-          "consultant_response": "Focus on procedural aspects without addressing emotional context or specific support needs",
-          "context_impact": "Required sensitive handling to build confidence in university as viable option",
-          "recommended_approach": "Should acknowledge personal circumstances and explore specific support needs before discussing pathways"
+          "student_trigger": "Multiple students voiced concerns about program costs: 'My main concern is about the tuition fees is quite high' and 'I'm just shocked at the price.'",
+          "consultant_response": "Basic responses mentioning scholarships without comprehensive exploration: 'Yeah, most definitely. So what we have are scholarships available.'",
+          "context_impact": "Insufficient financial planning discussion created uncertainty about program affordability",
+          "recommended_approach": "Need detailed financial planning discussions covering all support options and payment plans while maintaining appropriate boundaries"
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Planning Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947145379",
+              "segment_id": "37",
+              "timestamp": "6:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593869644711",
+                "segment_id": "46",
+                "timestamp": "46:00"
+              }
+            ]
+          },
+          "student_trigger": "Students consistently expressed work-study balance concerns: 'I think it would be a stretch, but I could probably do it.'",
+          "consultant_response": "Surface-level acknowledgment without detailed planning: 'Ah, I can see. Yeah, so you're looking for that flexibility around your studies while also working.'",
+          "context_impact": "Insufficient exploration of flexibility options reduced student confidence in program manageability",
+          "recommended_approach": "Develop comprehensive work-study integration plans with specific flexibility options"
         }
       ]
     },
@@ -165,141 +196,99 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Study Flexibility Planning",
+          "title": "Exemplary Career-Aligned Pathway Planning",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "88",
-              "timestamp": null
+              "call_id": "593946605156",
+              "segment_id": "26",
+              "timestamp": "3:00"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1982",
-                "segment_id": "45",
+                "call_id": "591330759172_1961",
+                "segment_id": "19",
                 "timestamp": null
               }
             ]
           },
-          "student_trigger": "Multiple students expressed specific needs for flexible study arrangements, particularly around work schedules and family commitments. These moments represented critical opportunities for collaborative planning to demonstrate program feasibility and build confidence in successful study management.",
-          "consultant_response": "Consultants demonstrated excellent collaborative planning by engaging students in detailed discussions about flexible study options. They effectively communicated how the program model could accommodate various commitments: 'Our model is actually designed for people like yourself who have full-time roles and other commitments.' This approach helped students understand practical study management while building confidence in their ability to succeed.",
+          "student_trigger": "Multiple students demonstrated uncertainty about educational pathways, with questions like 'Should I be going for another bachelor's?' and expressing specific career goals such as joining the police force. These moments presented crucial opportunities for collaborative planning that could significantly impact enrollment decisions while requiring careful balance of guidance and student autonomy.",
+          "consultant_response": "Consultants demonstrated exceptional collaborative planning skills by providing targeted validation and clear pathway information. Responses effectively addressed student concerns while creating clear connections between program choices and career goals. For example: 'The Graduate Diploma is actually geared towards future students just like yourself...' and 'The Undergraduate Certificate of Criminal Justice and Criminology will go towards that as well.' These responses showed strong ability to maintain student engagement while providing concrete guidance within appropriate professional boundaries.",
           "priority": "high",
-          "recommended_approach": "Continue this effective approach while enhancing with specific examples of successful study arrangements. Consider: 1) Exploring specific scheduling challenges, 2) Developing detailed study plans incorporating student-specific needs, 3) Sharing examples of successful flexible study arrangements, and 4) Creating contingency plans for managing peak workload periods."
+          "recommended_approach": "While current approach is highly effective, consultants should continue to: 1) Begin with explicit acknowledgment of career transition goals, 2) Create detailed mapping of program elements to career objectives, 3) Identify specific support resources at each stage, and 4) Develop clear action plans with measurable milestones, all while maintaining appropriate sales role boundaries."
         },
         {
           "id": 2,
-          "title": "Proactive Credit Recognition Planning",
+          "title": "Flexible Study Integration Success",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_1",
-              "segment_id": "49",
-              "timestamp": "03:30"
+              "call_id": "593785939243",
+              "segment_id": "70",
+              "timestamp": "13:45"
             },
             "supporting_calls": [
               {
-                "call_id": "call_3",
-                "segment_id": "26",
-                "timestamp": "04:10"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students sought guidance about continuing their education after interruptions, expressing concerns about credit recognition and transfer processes. These moments presented opportunities for collaborative planning around academic progression while validating prior learning achievements.",
-          "consultant_response": "Consultants demonstrated strong collaborative planning skills by providing clear validation of prior learning while proactively offering to verify specific details: 'Yes, typically it's around seven years... I'll definitely double check with admissions and faculty.' This approach effectively addressed concerns while maintaining supportive partnerships and demonstrating commitment to student success.",
-          "priority": "high",
-          "recommended_approach": "Maintain this proactive approach while enhancing with: 1) Specific timeline planning for credit verification, 2) Detailed progression maps showing prior learning integration, 3) Clear next steps for documentation submission, and 4) Regular progress updates during the verification process."
-        },
-        {
-          "id": 3,
-          "title": "Clear Financial Aid Planning",
-          "type": "positive",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Call1",
-              "segment_id": "64",
-              "timestamp": "11:39"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "At 11:39, the student expressed specific concerns about HECS availability for their graduate certificate program, stating: 'I think, actually, one of my concerns, just in terms of the graduate certificate, I think it just comes down to the HECS.' This represented a crucial moment where financial concerns could significantly impact enrollment decisions.",
-          "consultant_response": "The consultant demonstrated effective collaborative planning by providing detailed information about C-HELP as an alternative to HECS: 'So with the C-HELP, it's available to you based on postgraduate courses, but it still works the same way, where the only thing that you'll need to provide is your tax file number.' This clear communication addressed the immediate concern while maintaining focus on practical solutions.",
-          "priority": "high",
-          "recommended_approach": "While the response was strong, consider enhancing by: 1) Exploring additional financial support options, 2) Creating detailed payment timelines, 3) Offering to email comprehensive financial information, and 4) Scheduling follow-up discussions to address any remaining financial concerns."
-        },
-        {
-          "id": 4,
-          "title": "Career Transition Planning",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "3",
-              "segment_id": "52",
-              "timestamp": "9:58"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "1",
-                "segment_id": "24",
-                "timestamp": "4:24"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed interest in career transitions, including shifts from current roles to new professional paths. These moments presented crucial opportunities for detailed career development planning and educational alignment.",
-          "consultant_response": "While consultants acknowledged career interests, they often missed opportunities for deeper exploration and planning. Responses remained surface-level without engaging in detailed discussions about career goals or creating specific transition plans that aligned educational pathways with professional objectives.",
-          "priority": "high",
-          "recommended_approach": "Begin with thorough career exploration: 'What aspects of this new field interest you most?' Then create detailed plans: 1) Map specific courses to career objectives, 2) Discuss industry trends and requirements, 3) Create concrete transition timelines, and 4) Identify key milestones in the career change journey."
-        },
-        {
-          "id": 5,
-          "title": "Support Resource Planning",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "1",
-              "segment_id": "280",
-              "timestamp": "46:40"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "591330759172_1983",
-                "segment_id": "22",
+                "call_id": "593778417423",
+                "segment_id": "42",
                 "timestamp": null
               }
             ]
           },
-          "student_trigger": "Students expressed various support needs, including academic assistance, financial guidance, and study resources. These moments presented opportunities for comprehensive support planning and confidence building through clear resource access strategies.",
-          "consultant_response": "Consultants provided basic information about support services without engaging in detailed planning or resource connection. Responses lacked collaborative exploration of specific support needs and development of comprehensive support strategies tailored to individual circumstances.",
+          "student_trigger": "Students consistently sought clarity on program structure impacts, asking questions about time commitment and work-life balance implications. These inquiries represented crucial moments for demonstrating program flexibility while maintaining focus on practical implementation and student success planning.",
+          "consultant_response": "Consultants provided clear, structured information about program mechanics and flexibility options: 'We have six teaching periods each year, which run for six weeks each followed by two-week breaks' and 'Our online model takes into account students like yourself who've got full-time roles.' These responses effectively communicated program structure while maintaining appropriate focus on enrollment decisions and student success planning.",
           "priority": "high",
-          "recommended_approach": "Start with thorough needs assessment: 'Let's explore what type of support would be most helpful.' Then: 1) Create detailed support plans incorporating multiple resources, 2) Explain specific access procedures, 3) Schedule support service introductions, and 4) Plan regular check-ins to monitor support effectiveness."
+          "recommended_approach": "To maintain this high standard, consultants should: 1) Continue providing clear program structure explanations, 2) Share specific examples of successful study patterns, 3) Present clear visualization of program timelines, 4) Discuss strategic use of break periods, and 5) Demonstrate practical implementation through sample schedules, all while maintaining appropriate sales role boundaries."
         },
         {
-          "id": 6,
-          "title": "Personal Context Integration",
+          "id": 3,
+          "title": "Limited Financial Support Planning",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_4",
-              "segment_id": "15",
-              "timestamp": "03:00"
+              "call_id": "593946945154",
+              "segment_id": "41",
+              "timestamp": "05:25"
             },
             "supporting_calls": [
               {
-                "call_id": "call_2",
-                "segment_id": "3",
-                "timestamp": "00:15"
+                "call_id": "593777586597",
+                "segment_id": "80",
+                "timestamp": "05:15"
               }
             ]
           },
-          "student_trigger": "Parents approached consultants with concerns about their children's non-traditional educational backgrounds, including mental health challenges. One mother shared: 'He didn't finish year 11 due to mental health issues but he's now 22 and he's just completed a Cert 3 in IT.' These situations required sensitive handling to build confidence in university as a viable option.",
-          "consultant_response": "Consultants focused primarily on procedural aspects rather than engaging with the emotional context: 'Now, it's postgraduate, so if we're looking at either two documents...' This approach missed opportunities to acknowledge personal circumstances and explore specific support needs before discussing pathways.",
+          "student_trigger": "Multiple students expressed significant concerns about program costs with statements like 'My main concern is about the tuition fees is quite high' and 'I'm just shocked at the price.' These reactions revealed critical financial barriers requiring comprehensive planning support while maintaining appropriate professional boundaries.",
+          "consultant_response": "Consultants typically provided surface-level responses about scholarship availability without engaging in detailed financial planning discussions. The common response pattern was exemplified by: 'Yeah, most definitely. So what we have are scholarships available.' This approach failed to address the depth of student concerns or provide comprehensive financial pathways.",
           "priority": "high",
-          "recommended_approach": "Begin with empathetic acknowledgment: 'Thank you for sharing your son's journey. His completion of the Cert 3 shows great determination.' Then: 1) Explore specific interests and goals, 2) Discuss available support services, 3) Create personalized study plans incorporating support mechanisms, and 4) Offer regular check-ins to monitor progress and adjustments."
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge and validate financial concerns explicitly, 2) Provide clear overview of all available financial support options, 3) Explain payment plan structures and flexibility, 4) Connect students with appropriate financial advisors when needed, and 5) Create preliminary financial planning frameworks that help students understand their options while maintaining appropriate sales role boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Planning Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947145379",
+              "segment_id": "37",
+              "timestamp": "6:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593869644711",
+                "segment_id": "46",
+                "timestamp": "46:00"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students emphasized the need for work-study balance, expressing concerns like 'I think it would be a stretch, but I could probably do it' and sharing details about flexible work arrangements. These statements revealed critical need for detailed planning around study integration while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgments without detailed solutions: 'Ah, I can see. Yeah, so you're looking for that flexibility around your studies while also working.' This surface-level response failed to address practical aspects of managing work-study balance or provide concrete planning support within appropriate role boundaries.",
+          "priority": "high",
+          "recommended_approach": "A comprehensive approach while maintaining sales role boundaries should: 1) Explore specific work commitments and scheduling needs, 2) Present relevant program flexibility options, 3) Share high-level examples of successful work-study integration, 4) Position detailed study planning as a post-enrollment benefit, and 5) Create preliminary frameworks for managing peak work periods, all while ensuring appropriate pre-enrollment guidance."
         }
       ]
     }

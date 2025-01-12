@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Shelton Frimpong",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 209,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 262,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 58,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 89,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 27.751196172248804,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 33.969465648854964,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 151,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 173,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 72.24880382775119,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 66.03053435114504,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": 48.61950935153717,
-    "team_average": 51.280019574376695
+    "individual_average": 53.58376677811446,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 151,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 173,
+    "team_total_excluded_transcripts": 2625
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 120.5,
       "team_average_final_ranking_score_eligible_transcripts": 178.81,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 135.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.51,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Career-Aligned Educational Planning",
-        "explanation": "Effectively connecting course options with students' professional goals while outlining clear progression pathways"
+        "headline": "Adaptive Program Customization",
+        "explanation": "Consultants excel at tailoring educational pathways and study arrangements to match individual student circumstances while maintaining role boundaries"
       },
       {
-        "headline": "Flexible Study Solutions",
-        "explanation": "Successfully demonstrating program adaptability to accommodate diverse student work and life commitments"
+        "headline": "Strategic Career Integration",
+        "explanation": "Effective alignment of program benefits with professional goals while providing appropriate high-level guidance"
       },
       {
-        "headline": "Proactive Support Integration",
-        "explanation": "Taking initiative to outline comprehensive support systems and resources available throughout student journey"
+        "headline": "Support System Navigation",
+        "explanation": "Strong ability to connect students with relevant resources while maintaining clear pre-enrollment scope"
       }
     ],
     "improvement": [
       {
-        "headline": "Enhanced Goal Exploration",
-        "explanation": "Need for deeper discussion of student career aspirations and long-term educational objectives"
+        "headline": "Financial Partnership Planning",
+        "explanation": "More comprehensive exploration needed of funding options and payment plans within pre-enrollment context"
       },
       {
-        "headline": "Comprehensive Financial Planning",
-        "explanation": "More thorough exploration needed of financial support options and payment strategies"
+        "headline": "Work-Life Study Integration",
+        "explanation": "Enhanced discussion required of specific strategies for balancing study with existing commitments"
       },
       {
-        "headline": "Emotional Support Enhancement",
-        "explanation": "Greater emphasis needed on validating and addressing student concerns while providing practical guidance"
+        "headline": "Pathway Timeline Development",
+        "explanation": "Greater emphasis needed on collaborative creation of realistic study completion timelines"
       }
     ]
   },
@@ -89,105 +96,123 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Flexible Study Options Discussion",
+          "title": "Exemplary Program Customization",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "88",
-              "timestamp": null
+              "call_id": "593644845863",
+              "segment_id": "76",
+              "timestamp": "5:45"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777623988",
+                "segment_id": "33",
+                "timestamp": "6:50"
+              }
+            ]
           },
-          "student_trigger": "Student indicated challenges with shift work scheduling.",
-          "consultant_response": "Consultant proactively discussed: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster.'",
-          "context_impact": "Addressing work-study balance concerns is crucial for student confidence in program completion.",
-          "recommended_approach": "None needed - excellent example of collaborative planning addressing student needs."
+          "student_trigger": "Multiple students expressed need for flexible study arrangements to accommodate work and life commitments",
+          "consultant_response": "Effectively emphasized student control: 'It's all entirely up to yourself in terms of how much workload you can pick up...'",
+          "context_impact": "Clear explanation of program flexibility significantly increased student confidence in manageability",
+          "recommended_approach": "None needed - excellent demonstration of collaborative planning within role boundaries"
         },
         {
           "id": 2,
-          "title": "Effective Course Structure Communication",
+          "title": "Strategic Career-Course Alignment",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1982",
-              "segment_id": "45",
-              "timestamp": null
+              "call_id": "593946585652",
+              "segment_id": "151",
+              "timestamp": "2:34"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593863757322",
+                "segment_id": "15",
+                "timestamp": "15:36"
+              }
+            ]
           },
-          "student_trigger": "The student expressed understanding of basic fundamentals while seeking clarity about course depth.",
-          "consultant_response": "The consultant effectively explained: 'So look, with this course, it's only four subjects. It's a grad cert level, so you won't go too in-depth with those things in particular.'",
-          "context_impact": "This represents a key moment where aligning course structure with student expectations could influence enrollment decision.",
-          "recommended_approach": "None needed - consultant successfully balanced course explanation with student's expressed knowledge level."
+          "student_trigger": "Students seeking direct career application: 'Pretty much just to enhance skill set and knowledge because it's pretty applicable to my work'",
+          "consultant_response": "Clear connection of program benefits to professional objectives while maintaining appropriate boundaries",
+          "context_impact": "Strong alignment between course content and career goals increased enrollment consideration",
+          "recommended_approach": "Could enhance with specific workplace application examples"
         },
         {
           "id": 3,
-          "title": "Career-Aligned Course Planning",
+          "title": "Proactive Support Integration",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1961",
-              "segment_id": "19",
-              "timestamp": null
+              "call_id": "593778275284",
+              "segment_id": "134",
+              "timestamp": "2:14"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777652582",
+                "segment_id": "34",
+                "timestamp": "5:45"
+              }
+            ]
           },
-          "student_trigger": "Student expressed clear career goal of joining police force next year.",
-          "consultant_response": "Consultant suggested relevant pathway: 'Yes, we have a course that came about earlier this year - the Undergraduate Certificate of Criminal Justice and Criminology.'",
-          "context_impact": "Critical opportunity to demonstrate course alignment with career aspirations.",
-          "recommended_approach": "Could explore specific police force requirements and timeline alignment."
+          "student_trigger": "Students seeking clarity on available support throughout their educational journey",
+          "consultant_response": "Effectively outlined support framework: 'They're going to be assisting you, supporting you for the journey'",
+          "context_impact": "Clear support system communication increased student confidence in success",
+          "recommended_approach": "Could provide more specific examples of support benefits"
         },
         {
           "id": 4,
-          "title": "Limited Career Goal Exploration",
+          "title": "Limited Financial Planning",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "3",
-              "segment_id": "17",
-              "timestamp": "3:00"
+              "call_id": "594021260479",
+              "segment_id": "24",
+              "timestamp": null
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1985",
+                "call_id": "593869668020",
                 "segment_id": "22",
                 "timestamp": null
               }
             ]
           },
-          "student_trigger": "Students expressed desire for career change or advancement through education.",
-          "consultant_response": "Basic course information provided without exploring career aspirations or creating detailed study plans.",
-          "context_impact": "Missed opportunity to align educational planning with career objectives.",
-          "recommended_approach": "Should engage in deeper discussion of career goals and develop aligned study pathways."
+          "student_trigger": "Multiple students expressed uncertainty about financial support options and subsidy eligibility",
+          "consultant_response": "Typically deferred to email follow-up rather than addressing financial concerns directly",
+          "context_impact": "Insufficient financial guidance left students uncertain about cost management",
+          "recommended_approach": "Need comprehensive discussion of financial planning options during initial consultation"
         },
         {
           "id": 5,
-          "title": "Financial Planning Support Enhancement",
+          "title": "Insufficient Work-Life Integration",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1986",
-              "segment_id": "49",
-              "timestamp": "1:06"
+              "call_id": "593645141931",
+              "segment_id": "53",
+              "timestamp": "52:53"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1987",
-                "segment_id": "55",
-                "timestamp": null
+                "call_id": "593778275284",
+                "segment_id": "116",
+                "timestamp": "2:56"
               }
             ]
           },
-          "student_trigger": "Students inquiring about course costs, available subsidies, and financial support mechanisms.",
-          "consultant_response": "Basic responses about Commonwealth support without exploring full range of options.",
-          "context_impact": "Financial considerations representing critical decision factors requiring comprehensive guidance.",
-          "recommended_approach": "Should provide detailed financial planning including all support options and payment plans."
+          "student_trigger": "Students expressed significant concerns about balancing work, family, and study commitments",
+          "consultant_response": "Generic flexibility statements without exploring specific solutions",
+          "context_impact": "Lack of detailed planning left students uncertain about program manageability",
+          "recommended_approach": "Should develop tailored plans demonstrating realistic program integration"
         }
       ]
     },
@@ -195,105 +220,123 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Flexible Study Options Discussion",
+          "title": "Exemplary Program Customization",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "88",
-              "timestamp": null
+              "call_id": "593644845863",
+              "segment_id": "76",
+              "timestamp": "5:45"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777623988",
+                "segment_id": "33",
+                "timestamp": "6:50"
+              }
+            ]
           },
-          "student_trigger": "At segment 88, the student expressed concerns about managing their shift work schedule alongside their studies, indicating a need for flexible learning options that could accommodate their variable work hours. This represented a crucial moment for addressing work-life-study balance concerns that could significantly impact their confidence in program completion.",
-          "consultant_response": "The consultant demonstrated excellent collaborative planning skills by acknowledging the challenge and immediately engaging in solution-focused discussion: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster.' This response showed empathy while proactively addressing the practical aspects of balancing work and study commitments. The approach effectively demonstrated the institution's ability to accommodate diverse student needs.",
+          "student_trigger": "Multiple students demonstrated need for flexible study arrangements to accommodate various work and life commitments. Primary example showed clear articulation of scheduling needs: 'So what I'm trying to do is study business management, the degree level, and do it part-time and online.' Supporting cases revealed similar patterns of students seeking to balance educational goals with existing responsibilities.",
+          "consultant_response": "Consultants demonstrated excellence in collaborative planning while maintaining appropriate boundaries: 'It's all entirely up to yourself in terms of how much workload you can pick up... our lectures are all live but they're also recorded.' This approach effectively balanced providing comprehensive information with emphasizing student autonomy, creating a supportive yet empowering dialogue about study options.",
           "priority": "high",
-          "recommended_approach": "The consultant's approach was ideal and could serve as a model for similar situations. They validated the student's concerns while offering practical solutions, creating a collaborative atmosphere for planning. This example effectively demonstrates how to balance empathy with practical guidance in addressing student needs."
+          "recommended_approach": "This interaction serves as a model for collaborative planning within role boundaries. Consultants should: 1) Acknowledge specific flexibility needs, 2) Outline available options clearly, 3) Emphasize student control over learning experience, 4) Provide specific examples of how programs accommodate various schedules, and 5) Create clear connections between flexibility options and student success."
         },
         {
           "id": 2,
-          "title": "Effective Course Structure Communication",
+          "title": "Strategic Career-Course Alignment",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1982",
-              "segment_id": "45",
-              "timestamp": null
+              "call_id": "593946585652",
+              "segment_id": "151",
+              "timestamp": "2:34"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593863757322",
+                "segment_id": "15",
+                "timestamp": "15:36"
+              }
+            ]
           },
-          "student_trigger": "During the conversation, the student demonstrated basic understanding of fundamentals while seeking specific clarity about the depth and structure of the course. This moment represented a critical opportunity to align course expectations with the student's current knowledge level and learning goals.",
-          "consultant_response": "The consultant provided a clear, concise explanation that effectively addressed the student's needs: 'So look, with this course, it's only four subjects. It's a grad cert level, so you won't go too in-depth with those things in particular.' This response successfully balanced providing structural information while acknowledging the student's existing understanding, demonstrating strong collaborative planning by tailoring the explanation to the student's level.",
-          "priority": "medium",
-          "recommended_approach": "The consultant's approach was optimal, providing clear, targeted information while maintaining awareness of the student's knowledge level. No improvements needed as the response effectively addressed the student's needs while maintaining appropriate depth of explanation."
+          "student_trigger": "Multiple students demonstrated clear professional development focus, with the primary example stating: 'Pretty much just to enhance skill set and knowledge because it's pretty applicable to my work at the moment.' Supporting cases showed similar motivation to apply course knowledge directly to their current roles.",
+          "consultant_response": "Consultants excelled at connecting program benefits to professional objectives while maintaining appropriate pre-enrollment boundaries. The approach validated professional aspirations while creating clear pathways for advancement, effectively demonstrating how course content could enhance current work performance without overstepping into detailed career planning.",
+          "priority": "high",
+          "recommended_approach": "To enhance this effective approach, consultants should: 1) Provide high-level examples of course-career alignment, 2) Create clear connections between program outcomes and professional growth, 3) Maintain focus on educational planning rather than detailed career guidance, 4) Share relevant success stories within appropriate boundaries, and 5) Document discussed pathways for student reference."
         },
         {
           "id": 3,
-          "title": "Career-Aligned Course Planning",
+          "title": "Proactive Support Integration",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1961",
-              "segment_id": "19",
-              "timestamp": null
+              "call_id": "593778275284",
+              "segment_id": "134",
+              "timestamp": "2:14"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777652582",
+                "segment_id": "34",
+                "timestamp": "5:45"
+              }
+            ]
           },
-          "student_trigger": "At segment 19, the student expressed: 'I'm looking for an online course, I'm not sure if I want to do the whole course or just some selected subjects because I'm to join the police force next year.' This statement revealed both immediate educational interests and future career aspirations, presenting a crucial opportunity for collaborative planning that could significantly impact enrollment decisions.",
-          "consultant_response": "The consultant responded with a targeted solution: 'Yes, I guess we do have a course that kind of came about a bit earlier this year. It's called the Undergraduate Certificate of Criminal Justice and Criminology... this will go towards that as well.' This approach demonstrated understanding of both immediate needs and long-term career goals.",
+          "student_trigger": "Multiple students sought clarity about available support systems, expressing concerns about managing study commitments effectively. These inquiries represented crucial opportunities to demonstrate institutional support infrastructure while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants effectively communicated support framework while maintaining role boundaries: 'They're going to be assisting you, supporting you for the journey.' This approach successfully positioned post-enrollment support services while avoiding detailed coaching that would exceed pre-enrollment scope.",
           "priority": "high",
-          "recommended_approach": "To enhance this interaction, the consultant could first acknowledge the career goal: 'Your interest in joining the police force is an excellent starting point.' Then explore specific requirements: 'Let's look at how our Criminal Justice certificate aligns with police force requirements and your timeline.' Finally, outline flexibility options: 'We can structure your study to complement your police force application process. How does that sound?'"
+          "recommended_approach": "Continue this effective approach by: 1) Outlining available support services at high level, 2) Maintaining clear pre-enrollment boundaries, 3) Creating clear transition expectations to post-enrollment support, 4) Providing examples of support benefits within role scope, and 5) Documenting support options discussed."
         },
         {
           "id": 4,
-          "title": "Limited Career Goal Exploration",
+          "title": "Limited Financial Planning",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "3",
-              "segment_id": "17",
-              "timestamp": "3:00"
+              "call_id": "594021260479",
+              "segment_id": "24",
+              "timestamp": null
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1985",
+                "call_id": "593869668020",
                 "segment_id": "22",
                 "timestamp": null
               }
             ]
           },
-          "student_trigger": "Multiple students expressed desires for career advancement or transition through education, including statements about wanting to change careers or enhance professional opportunities. These moments presented crucial opportunities for meaningful collaborative planning around career objectives.",
-          "consultant_response": "Consultants typically provided basic course information and entry requirements without exploring career aspirations or developing comprehensive study plans aligned with professional goals. This represented a missed opportunity for deeper engagement with students' career objectives and creation of tailored educational pathways.",
+          "student_trigger": "Multiple students expressed uncertainty about financial support options and subsidy eligibility, seeking clarity on managing program costs effectively. These moments represented crucial opportunities for collaborative financial planning within appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically provided minimal financial guidance, often deferring to email follow-up rather than addressing concerns directly. This approach missed opportunities to create clear financial plans and demonstrate available support options during initial consultation.",
           "priority": "high",
-          "recommended_approach": "Should begin with deeper exploration of career objectives: 'Tell me more about your career goals and how you see education supporting them.' Then create detailed study plans aligned with these goals, including: 1) Discussion of potential career pathways, 2) Timeline options that match career objectives, 3) Specific course selections that support intended career outcomes, 4) Industry requirements and qualifications, and 5) Relevant success stories from similar career transitions."
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Address subsidy eligibility during initial consultation, 2) Provide clear overview of payment options, 3) Create basic financial planning scenarios, 4) Explain process for accessing financial support, and 5) Connect students with financial advisors when appropriate."
         },
         {
           "id": 5,
-          "title": "Financial Planning Support Enhancement",
+          "title": "Insufficient Work-Life Integration",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1986",
-              "segment_id": "49",
-              "timestamp": "1:06"
+              "call_id": "593645141931",
+              "segment_id": "53",
+              "timestamp": "52:53"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1987",
-                "segment_id": "55",
-                "timestamp": null
+                "call_id": "593778275284",
+                "segment_id": "116",
+                "timestamp": "2:56"
               }
             ]
           },
-          "student_trigger": "Multiple students raised financial concerns through direct questions about costs, subsidies, and support options: 'What I want to know is how much is the cost for the whole course and can I apply subsidy?' These inquiries revealed financial considerations as crucial factors in enrollment decisions.",
-          "consultant_response": "Consultants typically provided limited responses focused on basic Commonwealth support information or deflected to other team members: 'If you're a permanent resident, you can get commonwealth support' without exploring comprehensive financial planning options or addressing underlying affordability concerns.",
+          "student_trigger": "Multiple students expressed significant concerns about managing competing commitments, stating: 'I was just getting a feel for it because I mean just trying to balance with my current workload' and 'I do work and I've got a young child so that's probably the only thing that'll hold me up.' These moments presented crucial opportunities for collaborative planning around work-life-study balance.",
+          "consultant_response": "Consultants typically provided generic flexibility statements without exploring specific solutions or developing tailored plans. This surface-level approach failed to demonstrate how programs could realistically fit within students' existing commitments or provide concrete strategies for success.",
           "priority": "high",
-          "recommended_approach": "Consultants should implement a comprehensive financial planning approach: 1) Acknowledge the importance of financial planning in educational decisions, 2) Provide detailed breakdowns of course costs and payment structures, 3) Explore all available financial support options including scholarships and grants, 4) Discuss budgeting strategies and financial management resources, 5) Offer to connect students with financial advisors for detailed planning."
+          "recommended_approach": "Consultants should enhance their approach by: 1) Using detailed exploration questions to understand current commitments, 2) Developing concrete study plans showing realistic program integration, 3) Providing examples of successful work-life-study balance strategies, 4) Outlining available flexibility options and support services, and 5) Creating clear action plans for managing commitments effectively."
         }
       ]
     }

@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Mrudang Pancholi",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 84,
-  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "total_number_of_calls": 218,
+  "team_average_total_number_of_calls_per_sales_consultant": 190.27272727272728,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 22,
-    "team_average_absolute_number": 20.636363636363637
+    "absolute_number": 72,
+    "team_average_absolute_number": 47.81818181818182
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 26.190476190476193,
-    "team_average_percentage": 22.487986165053538
+    "percentage": 33.02752293577982,
+    "team_average_percentage": 27.97747921684568
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 62,
-    "team_average_absolute_number": 58.09090909090909
+    "absolute_number": 146,
+    "team_average_absolute_number": 142.45454545454547
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 73.80952380952381,
-    "team_average_percentage": 50.23928656221919
+    "percentage": 66.97247706422019,
+    "team_average_percentage": 62.93161169224523
   },
   "average_talking_percentage": {
-    "individual_average": 51.38513866950045,
-    "team_average": 51.07068109184601
+    "individual_average": 48.00065924285977,
+    "team_average": 50.24181666108455
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 62,
-    "team_total_excluded_transcripts": 639
+    "individual_excluded_transcripts": 146,
+    "team_total_excluded_transcripts": 1567
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 102.3,
       "team_average_final_ranking_score_eligible_transcripts": 149.83,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 127.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.49,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Career-Aligned Educational Planning",
-        "explanation": "Effectively connecting program pathways with students' professional goals and development needs"
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Consultants effectively connect educational pathways with career goals while maintaining appropriate advisory boundaries"
       },
       {
-        "headline": "Flexible Study Options Communication",
-        "explanation": "Successfully presenting adaptable learning arrangements that accommodate student circumstances"
+        "headline": "Flexible Study Solutions",
+        "explanation": "Strong demonstration of adapting program options and delivery methods to accommodate varied student circumstances"
       },
       {
-        "headline": "Clear Application Guidance",
-        "explanation": "Providing structured, supportive direction through application and documentation processes"
+        "headline": "Alternative Pathway Navigation",
+        "explanation": "Excellence in guiding students to viable program alternatives while maintaining engagement and focus on goals"
       }
     ],
     "improvement": [
       {
-        "headline": "Deeper Motivation Exploration",
-        "explanation": "More thorough investigation of students' underlying goals and aspirations needed"
+        "headline": "Enhanced Support Integration",
+        "explanation": "Need for more comprehensive exploration of support services and creation of preliminary support plans"
       },
       {
-        "headline": "Enhanced Decision Support",
-        "explanation": "More comprehensive guidance needed when students evaluate multiple program options"
+        "headline": "Career Experience Utilization",
+        "explanation": "Required improvement in leveraging students' professional backgrounds for more personalized educational planning"
       },
       {
-        "headline": "Documentation Planning Support",
-        "explanation": "Proactive collaboration needed on documentation and eligibility requirements"
+        "headline": "Information Depth Enhancement",
+        "explanation": "Opportunity to provide more detailed program information when students demonstrate readiness for deeper planning"
       }
     ]
   },
@@ -89,135 +96,111 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Career-Focused MBA Planning",
+          "title": "Healthcare Career Integration",
           "type": "positive",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "MBA_Call_1",
-              "segment_id": "24",
-              "timestamp": "5:52"
+              "call_id": "594021109275",
+              "segment_id": "25",
+              "timestamp": "5:07"
             },
-            "supporting_calls": [
-              {
-                "call_id": "MBA_Call_2",
-                "segment_id": "25",
-                "timestamp": "6:05"
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "Students expressing clear career motivations for pursuing MBA, particularly business analytics skills",
-          "consultant_response": "Effectively validated career goals and explored specific interests in business analytics",
-          "context_impact": "Strong alignment between career goals and program benefits",
-          "recommended_approach": "N/A"
+          "student_trigger": "Doctor in public hospital seeking program relevance to healthcare role",
+          "consultant_response": "Consultant effectively recognized professional background: 'Yeah wonderful... we can even get you started directly with the master's program'",
+          "context_impact": "Clear validation of experience while presenting advancement pathway increased enrollment confidence",
+          "recommended_approach": "Could explore specific healthcare management aspects in more detail"
         },
         {
           "id": 2,
-          "title": "Effective Study Flexibility Discussion",
+          "title": "Work-Study Balance Planning",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call2",
-              "segment_id": "18",
-              "timestamp": "8:56"
+              "call_id": "593786250922",
+              "segment_id": "54",
+              "timestamp": "3:54"
             },
             "supporting_calls": [
               {
-                "call_id": "Call4",
-                "segment_id": "33",
-                "timestamp": "0:34"
+                "call_id": "593869623371",
+                "segment_id": "163",
+                "timestamp": "27:48"
               }
             ]
           },
-          "student_trigger": "Students expressing needs for flexible study arrangements",
-          "consultant_response": "Clear explanation of flexible options and teaching periods",
-          "context_impact": "Opportunity to demonstrate program adaptability",
-          "recommended_approach": "Could enhance with more specific scheduling exploration"
+          "student_trigger": "Multiple students expressing concerns about managing work commitments with study",
+          "consultant_response": "Clear confirmation of '100% online and part-time' options while addressing specific scheduling needs",
+          "context_impact": "Built strong confidence in program manageability through clear flexibility options",
+          "recommended_approach": "Could provide more detailed time management strategies"
         },
         {
           "id": 3,
-          "title": "Clear Application Requirements Discussion",
-          "type": "positive",
-          "is_aggregated": false,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call_1",
-              "segment_id": "63",
-              "timestamp": "10:40"
+              "call_id": "593946809474",
+              "segment_id": "48",
+              "timestamp": "9:35"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777598278",
+                "segment_id": "1",
+                "timestamp": "10:57"
+              }
+            ]
           },
-          "student_trigger": "Student seeking guidance on application next steps",
-          "consultant_response": "Provided comprehensive breakdown of required documentation and submission process",
-          "context_impact": "Critical moment for providing clear process direction",
-          "recommended_approach": "N/A"
+          "student_trigger": "Students revealing personal circumstances requiring support consideration",
+          "consultant_response": "Basic acknowledgment without exploring available support mechanisms or creating concrete plans",
+          "context_impact": "Missed opportunities to demonstrate comprehensive support planning affected confidence",
+          "recommended_approach": "Should proactively discuss specific support services and create preliminary support plans"
         },
         {
           "id": 4,
-          "title": "Missed Personal Motivation Exploration",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Call2",
-              "segment_id": "14",
-              "timestamp": "0:44"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "CS_Call_1",
-                "segment_id": "47",
-                "timestamp": "7:40"
-              }
-            ]
-          },
-          "student_trigger": "Students expressing personal goals and career aspirations",
-          "consultant_response": "Surface-level acknowledgment without deeper exploration",
-          "context_impact": "Missed opportunities to build stronger program alignment",
-          "recommended_approach": "Probe deeper into motivations and connect to program benefits"
-        },
-        {
-          "id": 5,
-          "title": "Missed Multi-Offer Evaluation Opportunity",
+          "title": "Career Experience Integration",
           "type": "improvement",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1983",
-              "segment_id": "30",
-              "timestamp": "5:00"
+              "call_id": "593778336614",
+              "segment_id": "50",
+              "timestamp": null
             },
             "supporting_calls": []
           },
-          "student_trigger": "Student stated: 'I'm still looking at other offers from universities so I'm just trying to figure out what's going to be the best option.'",
-          "consultant_response": "Basic acknowledgment without exploring decision criteria",
-          "context_impact": "Critical moment for differentiation and support in decision-making",
-          "recommended_approach": "Should initiate detailed exploration of student's decision factors"
+          "student_trigger": "Student sharing significant Tesla sales and management experience",
+          "consultant_response": "Surface-level acknowledgment without exploring transferable skills",
+          "context_impact": "Missed opportunity to leverage professional experience for pathway planning",
+          "recommended_approach": "Should explicitly connect past experiences to academic pathways and program benefits"
         },
         {
-          "id": 6,
-          "title": "Documentation Planning Support Needed",
-          "type": "improvement",
+          "id": 5,
+          "title": "Alternative Program Navigation",
+          "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "unknown",
-              "segment_id": "36",
-              "timestamp": "5:36"
+              "call_id": "593777669777",
+              "segment_id": "65",
+              "timestamp": null
             },
             "supporting_calls": [
               {
-                "call_id": "Call3",
-                "segment_id": "104",
-                "timestamp": "5:10"
+                "call_id": "593645478066",
+                "segment_id": "88",
+                "timestamp": null
               }
             ]
           },
-          "student_trigger": "Students expressing uncertainty about documentation requirements",
-          "consultant_response": "Basic procedural responses without addressing underlying concerns",
-          "context_impact": "Documentation concerns affecting enrollment confidence",
-          "recommended_approach": "Need proactive documentation planning and comprehensive support"
+          "student_trigger": "Students requiring alternative program options due to eligibility or availability",
+          "consultant_response": "Consultant effectively suggested alternatives: 'We can surely try getting you started with something else called either business management or project management'",
+          "context_impact": "Quick pivoting to relevant alternatives maintained student engagement",
+          "recommended_approach": "None needed - excellent handling of program alternatives"
         }
       ]
     },
@@ -225,135 +208,111 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Career-Focused MBA Planning",
+          "title": "Healthcare Career Integration",
           "type": "positive",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "MBA_Call_1",
-              "segment_id": "24",
-              "timestamp": "5:52"
+              "call_id": "594021109275",
+              "segment_id": "25",
+              "timestamp": "5:07"
             },
-            "supporting_calls": [
-              {
-                "call_id": "MBA_Call_2",
-                "segment_id": "25",
-                "timestamp": "6:05"
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "At 5:52 into the call, the student articulated clear professional motivation: 'So MBA is basically, you know, you need to have those business analytics and all those things in order to really understand the scope and what you want to do further.' This demonstrated strong career-focused readiness for collaborative planning.",
-          "consultant_response": "The consultant demonstrated excellent collaborative planning by validating specific career aspirations and creating explicit connections between program features and professional development goals. The approach effectively acknowledged the student's objectives while facilitating deeper exploration of their needs.",
-          "priority": "high",
-          "recommended_approach": "Continue this effective practice of acknowledging specific career aspirations early, creating explicit program-career connections, using probing questions to uncover detailed needs, and maintaining career relevance focus throughout discussions."
+          "student_trigger": "A healthcare professional initiated discussion by sharing: 'I'm a doctor in a public hospital and so forth, so therefore it's more of, I thought it might be relevant to my line of work and I've been a bit curious to know more about this aspect of things.' This presented a clear opportunity for career-aligned educational planning while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately recognizing professional qualifications: 'Yeah wonderful. I mean, yeah, if you have a bit of an experience as well, then we can even get you started directly with the master's program as well if you wish to, right?' This approach validated experience while presenting relevant educational pathways, creating a strong foundation for enrollment discussion.",
+          "priority": "High",
+          "recommended_approach": "While the initial response was positive, consultants should explore deeper into specific aspects of healthcare management that interest the student. For example: 'Could you tell me more about which aspects of your current role you're looking to enhance through this program?' This creates opportunity for more tailored program alignment while maintaining appropriate boundaries."
         },
         {
           "id": 2,
-          "title": "Effective Study Flexibility Discussion",
+          "title": "Work-Study Balance Planning",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call2",
-              "segment_id": "18",
-              "timestamp": "8:56"
+              "call_id": "593786250922",
+              "segment_id": "54",
+              "timestamp": "3:54"
             },
             "supporting_calls": [
               {
-                "call_id": "Call4",
-                "segment_id": "33",
-                "timestamp": "0:34"
+                "call_id": "593869623371",
+                "segment_id": "163",
+                "timestamp": "27:48"
               }
             ]
           },
-          "student_trigger": "Students expressed needs for flexible study arrangements, with particular emphasis on balancing education with other commitments. This created opportunities for demonstrating program adaptability and collaborative planning.",
-          "consultant_response": "Consultants effectively communicated program flexibility, explaining: 'at Monash Online we have six different teaching periods throughout the year, so you can pretty much get started whenever you're ready.' This demonstrated understanding of work-life balance needs while providing practical solutions.",
-          "priority": "high",
-          "recommended_approach": "While effective, enhance by exploring specific scheduling needs and preferences, then tailoring detailed explanations of how teaching periods can accommodate these requirements. Use collaborative questions like 'What kind of study schedule would work best for you?' to develop personalized solutions."
+          "student_trigger": "Multiple students expressed significant concerns about balancing work commitments with study requirements. One student specifically asked: 'is it like possible to study from there?' while others discussed full-time work obligations. These moments presented critical opportunities for collaborative planning around flexible study arrangements.",
+          "consultant_response": "Consultants consistently demonstrated effective collaborative planning by confirming flexible study options and addressing specific concerns. The primary response, 'Yeah absolutely, yeah these are all the 100% online and a part-time course,' provided immediate reassurance while maintaining a supportive tone. This was reinforced across interactions with clear discussion of video recordings and flexible access options.",
+          "priority": "High",
+          "recommended_approach": "To further enhance this strength, consultants should: 1) Explore specific scheduling preferences: 'What study times typically work best with your schedule?', 2) Discuss concrete examples of successful work-study balance strategies, 3) Collaboratively develop preliminary study schedules aligned with work commitments, and 4) Outline available flexibility options for different program components."
         },
         {
           "id": 3,
-          "title": "Clear Application Requirements Discussion",
-          "type": "positive",
-          "is_aggregated": false,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call_1",
-              "segment_id": "63",
-              "timestamp": "10:40"
+              "call_id": "593946809474",
+              "segment_id": "48",
+              "timestamp": "9:35"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777598278",
+                "segment_id": "1",
+                "timestamp": "10:57"
+              }
+            ]
           },
-          "student_trigger": "The student explicitly asked about next steps in the application process, demonstrating readiness to proceed: 'So I just wanted to know, what's the best way of going about proceeding, what's the best next step to take to apply?'",
-          "consultant_response": "The consultant provided exemplary guidance by detailing required documentation comprehensively: 'You can respond with your resume, references, transcript, degree certificate, and proof of citizenship.' This created clarity and confidence while maintaining a supportive tone.",
-          "priority": "high",
-          "recommended_approach": "The approach taken was highly effective. Enhancement could include brief checks for understanding and offering specific support for document preparation if needed."
+          "student_trigger": "Multiple instances emerged where students revealed significant personal circumstances requiring support consideration. These disclosures presented crucial opportunities for comprehensive support planning while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically provided only basic acknowledgment without exploring available support mechanisms or creating concrete support plans. This surface-level approach missed opportunities to demonstrate comprehensive student support and build confidence in institutional commitment to student success.",
+          "priority": "High",
+          "recommended_approach": "A stronger approach should: 1) Acknowledge personal circumstances with genuine empathy, 2) Explore specific impacts on study plans, 3) Present relevant support services within appropriate pre-enrollment boundaries, 4) Create preliminary support plans that connect to post-enrollment resources, and 5) Maintain clear distinction between sales role and support services."
         },
         {
           "id": 4,
-          "title": "Missed Personal Motivation Exploration",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Call2",
-              "segment_id": "14",
-              "timestamp": "0:44"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "CS_Call_1",
-                "segment_id": "47",
-                "timestamp": "7:40"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed personal goals and career aspirations, creating opportunities for deeper exploration of their motivations and how the program could support their journey.",
-          "consultant_response": "Consultants typically provided surface-level acknowledgments without exploring the deeper implications of students' goals or connecting these to program benefits. This missed crucial opportunities to build stronger alignment between student aspirations and program offerings.",
-          "priority": "high",
-          "recommended_approach": "Begin with acknowledging expressed goals: 'I see you're motivated about your path.' Then probe deeper: 'Could you tell me more about what specifically interests you?' Finally, connect insights to program features: 'Let me show you how our program can help you achieve these specific goals.'"
-        },
-        {
-          "id": 5,
-          "title": "Missed Multi-Offer Evaluation Opportunity",
+          "title": "Career Experience Integration",
           "type": "improvement",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1983",
-              "segment_id": "30",
-              "timestamp": "5:00"
+              "call_id": "593778336614",
+              "segment_id": "50",
+              "timestamp": null
             },
             "supporting_calls": []
           },
-          "student_trigger": "At segment 30, the student revealed: 'I'm still looking at other offers from universities so I'm just trying to figure out what's going to be the best option.' This statement presented a critical opportunity for collaborative planning, as the student was actively seeking guidance in evaluating multiple educational pathways.",
-          "consultant_response": "The consultant's response was minimal and non-engaging: 'Course not a problem now that's fine...please feel free to reach out.' This approach missed the opportunity to understand the student's decision criteria or demonstrate program value.",
-          "priority": "high",
-          "recommended_approach": "A more effective approach would begin with: 'I understand you're comparing different options - let's explore what's most important in your decision.' This should be followed by specific questions about their priorities: 'What factors are you considering when comparing programs?' Then highlight relevant program strengths that align with their criteria."
+          "student_trigger": "At segment 50, the student shared significant professional experience: 'So in the last sort of three years I was working at Tesla in sales and then before that I was a manager at Nando's.' This disclosure presented a valuable opportunity to connect past professional experience with future academic pathways.",
+          "consultant_response": "The consultant's response was limited to basic acknowledgment: 'Would any of that align with sort of the requirements?' This surface-level response missed the opportunity to explore transferable skills and create meaningful connections between professional experience and academic goals.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would begin with: 'Your experience at Tesla and in management roles has given you valuable transferable skills that could benefit your studies.' Then explore specific connections: 'How did your technical sales role at Tesla influence your interest in this program?' Finally, create explicit links between past experience and program components while maintaining appropriate boundaries."
         },
         {
-          "id": 6,
-          "title": "Documentation Planning Support Needed",
-          "type": "improvement",
+          "id": 5,
+          "title": "Alternative Program Navigation",
+          "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "unknown",
-              "segment_id": "36",
-              "timestamp": "5:36"
+              "call_id": "593777669777",
+              "segment_id": "65",
+              "timestamp": null
             },
             "supporting_calls": [
               {
-                "call_id": "Call3",
-                "segment_id": "104",
-                "timestamp": "5:10"
+                "call_id": "593645478066",
+                "segment_id": "88",
+                "timestamp": null
               }
             ]
           },
-          "student_trigger": "Students expressed uncertainty about documentation requirements and citizenship status, creating anxiety about their ability to proceed with enrollment.",
-          "consultant_response": "Consultants typically focused on basic procedural responses about required documents without addressing underlying concerns or providing comprehensive support planning.",
-          "priority": "high",
-          "recommended_approach": "Begin by acknowledging documentation concerns empathetically, then engage in collaborative planning: 'Let's work together to understand your specific situation and create a clear plan for gathering the required documents.' Provide step-by-step guidance and offer ongoing support throughout the process."
+          "student_trigger": "Across multiple calls, students expressed interest in programs that required alternative options due to availability or eligibility constraints. These situations presented critical moments for maintaining student engagement while transitioning to different program options.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by quickly identifying and suggesting relevant alternatives: 'We can surely try getting you started with something else called either business management or project management.' This approach maintained student engagement while effectively transitioning to viable options. The responses showed strong ability to pivot conversations constructively while keeping focus on student goals.",
+          "priority": "High",
+          "recommended_approach": "This effective approach should be maintained by: 1) Acknowledging the original program interest, 2) Quickly transitioning to relevant alternatives, 3) Highlighting key benefits that align with student circumstances, and 4) Maintaining enthusiasm while exploring new options. Additionally, consultants should explain how alternative programs can still meet the student's original goals and objectives."
         }
       ]
     }

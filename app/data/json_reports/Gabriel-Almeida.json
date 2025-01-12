@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Gabriel Almeida",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 188,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 95,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 55,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 25,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 29.25531914893617,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 26.31578947368421,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 133,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 70,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 70.74468085106383,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 73.68421052631578,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": 51.82894558192043,
-    "team_average": 51.280019574376695
+    "individual_average": 45.9701594520092,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 133,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 70,
+    "team_total_excluded_transcripts": 2625
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 146.28,
       "team_average_final_ranking_score_eligible_transcripts": 178.81,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 126.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.5,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Proactive Flexibility Solutions",
-        "explanation": "Consultants effectively address work-life balance concerns through tailored study options and support"
+        "headline": "Proactive Support System Integration",
+        "explanation": "Consultants excel at connecting available support resources to individual student circumstances while maintaining role boundaries"
       },
       {
-        "headline": "Career-Aligned Planning",
-        "explanation": "Strong connection of program offerings with students' specific career goals and aspirations"
+        "headline": "Strategic Educational Planning",
+        "explanation": "Consultants demonstrate expertise in creating manageable study plans that align with student preferences and circumstances"
       },
       {
-        "headline": "Clear Process Navigation",
-        "explanation": "Detailed guidance provided on enrollment requirements and academic pathways"
+        "headline": "Effective Prior Learning Recognition",
+        "explanation": "Consultants skillfully validate and incorporate students' existing qualifications into personalized educational pathways"
       }
     ],
     "improvement": [
       {
-        "headline": "Enhanced Career Transition Support",
-        "explanation": "Need for deeper exploration of career change aspirations and structured transition planning"
+        "headline": "Enhanced Competitive Discussion",
+        "explanation": "Consultants need to better explore and address student considerations of alternative institutions"
       },
       {
-        "headline": "Comprehensive Support Integration",
-        "explanation": "Opportunity to better connect students with available support services and resources"
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "More thorough exploration of financial support options and payment strategies needed during planning discussions"
       },
       {
-        "headline": "Financial Planning Guidance",
-        "explanation": "Required more thorough discussion of financial options and support mechanisms"
+        "headline": "Strategic Research Integration",
+        "explanation": "Better incorporation of students' independent research needed to strengthen collaborative planning process"
       }
     ]
   },
@@ -89,123 +96,111 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Flexible Study Options Discussion",
+          "title": "Effective Support System Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644663874",
+              "segment_id": "137",
+              "timestamp": "23:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about online learning support availability",
+          "consultant_response": "Provided comprehensive support details: 'You're going to have a team of student advisors available seven days a week, up to 9 p.m. on weekdays and 6 p.m. on weekends'",
+          "context_impact": "Clear support information crucial for building confidence in online learning success",
+          "recommended_approach": "None needed - excellent support system communication within role boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Prior Learning Integration",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
               "call_id": "591330759172_1981",
-              "segment_id": "88",
+              "segment_id": "29",
               "timestamp": null
             },
             "supporting_calls": [
               {
-                "call_id": "Online_Study_Call",
-                "segment_id": "56",
+                "call_id": "593644981737",
+                "segment_id": "63",
                 "timestamp": null
               }
             ]
           },
-          "student_trigger": "Students expressed needs for flexibility due to work commitments and scheduling challenges",
-          "consultant_response": "Effectively highlighted online study benefits and flexibility: 'definitely online is much more flexible, so you can keep your job and studying at the same time'",
-          "context_impact": "Clear understanding of flexible study options crucial for enrollment confidence",
-          "recommended_approach": "Could enhance with specific examples of successful study arrangements"
-        },
-        {
-          "id": 2,
-          "title": "Recognition of Prior Learning",
-          "type": "positive",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "call_1",
-              "segment_id": "104",
-              "timestamp": "4:20"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "call_2",
-                "segment_id": "51",
-                "timestamp": "2:15"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students seeking recognition for previous qualifications and experience",
-          "consultant_response": "Proactively acknowledged value of previous studies and discussed credit transfer opportunities",
-          "context_impact": "Recognition of prior learning significantly influences enrollment confidence",
-          "recommended_approach": "Could provide more specific details about credit transfer processes"
+          "student_trigger": "Multiple students seeking validation of prior qualifications and experience",
+          "consultant_response": "Clear validation provided: 'You are eligible based on your Bachelor' and 'with your Certificate IV and work experience, you are eligible to start'",
+          "context_impact": "Recognition of prior learning significantly influenced enrollment confidence",
+          "recommended_approach": "None needed - excellent balance of validation and guidance"
         },
         {
           "id": 3,
-          "title": "Career Goal Integration",
+          "title": "Collaborative ADHD Support Planning",
           "type": "positive",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "4",
-              "segment_id": "29",
-              "timestamp": "4:29"
+              "call_id": "594021477172",
+              "segment_id": "92",
+              "timestamp": "16:02"
             },
-            "supporting_calls": [
-              {
-                "call_id": "N/A",
-                "segment_id": "28",
-                "timestamp": "04:26"
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "Students expressed specific career goals in teaching and fleet management",
-          "consultant_response": "Effectively connected program elements to career goals, demonstrating pathway value",
-          "context_impact": "Clear career pathway alignment crucial for enrollment decisions",
-          "recommended_approach": "Could enhance with industry connection discussions"
+          "student_trigger": "Student disclosed ADHD diagnosis and potential support needs",
+          "consultant_response": "Balanced acknowledgment of needs with clear pre-enrollment support guidance",
+          "context_impact": "Appropriate support discussion enhanced student confidence",
+          "recommended_approach": "None needed - excellent maintenance of role boundaries"
         },
         {
           "id": 4,
-          "title": "Limited Career Transition Support",
+          "title": "Inadequate Competitive Analysis",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_2",
-              "segment_id": "23",
-              "timestamp": "5:23"
+              "call_id": "594021477172",
+              "segment_id": "72",
+              "timestamp": "12:54"
             },
             "supporting_calls": [
               {
-                "call_id": "call_3",
-                "segment_id": "21",
-                "timestamp": "4:05"
+                "call_id": "594021477172",
+                "segment_id": "76",
+                "timestamp": "12:57"
               }
             ]
           },
-          "student_trigger": "Multiple students seeking guidance for career transitions through education",
-          "consultant_response": "Surface-level responses focused on process rather than career guidance",
-          "context_impact": "Lack of comprehensive career planning reduces transition confidence",
-          "recommended_approach": "Need deeper exploration of career goals and structured transition planning"
+          "student_trigger": "Students mentioning consideration of other universities",
+          "consultant_response": "Basic acknowledgment without investigating competitive concerns",
+          "context_impact": "Limited exploration of selection criteria reduced engagement opportunity",
+          "recommended_approach": "Develop structured approach to exploring university selection criteria"
         },
         {
           "id": 5,
-          "title": "Limited Financial Support Discussion",
+          "title": "Limited Financial Planning",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Trang_Call",
-              "segment_id": "84",
-              "timestamp": "5:40"
+              "call_id": "593645530436",
+              "segment_id": "242",
+              "timestamp": "4:02"
             },
             "supporting_calls": [
               {
-                "call_id": "call_1",
-                "segment_id": "78",
-                "timestamp": null
+                "call_id": "594021547497",
+                "segment_id": "30",
+                "timestamp": "6:02"
               }
             ]
           },
-          "student_trigger": "Students expressing concerns about course costs and financial barriers",
-          "consultant_response": "Basic cost information provided without exploring support options",
-          "context_impact": "Financial clarity crucial for enrollment decisions",
-          "recommended_approach": "Need comprehensive discussion of financial aid and payment options"
+          "student_trigger": "Students expressing significant cost concerns and comparing institutions",
+          "consultant_response": "Basic acknowledgment without exploring comprehensive financial solutions",
+          "context_impact": "Insufficient financial planning created potential enrollment barriers",
+          "recommended_approach": "Implement structured financial planning discussion incorporating all support options"
         }
       ]
     },
@@ -213,123 +208,111 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Flexible Study Options Discussion",
+          "title": "Effective Support System Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644663874",
+              "segment_id": "137",
+              "timestamp": "23:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 137, the student explicitly asked: 'How much support do you get?' This question revealed underlying anxiety about online learning support systems, presenting a crucial opportunity for collaborative planning while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by providing comprehensive yet appropriately bounded support information: 'This course has been running for more than seven years... you're going to have a team of student advisors available seven days a week, up to 9 p.m. on weekdays and 6 p.m. on weekends.' This response effectively balanced detailed support information with appropriate role boundaries.",
+          "priority": "high",
+          "recommended_approach": "While exemplary, the approach could be further enhanced by: 1) Briefly exploring specific support concerns, 2) Providing clear examples of support availability, 3) Maintaining focus on enrollment-relevant information, and 4) Creating clear distinction between pre and post-enrollment support."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Prior Learning Integration",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
               "call_id": "591330759172_1981",
-              "segment_id": "88",
+              "segment_id": "29",
               "timestamp": null
             },
             "supporting_calls": [
               {
-                "call_id": "Online_Study_Call",
-                "segment_id": "56",
+                "call_id": "593644981737",
+                "segment_id": "63",
                 "timestamp": null
               }
             ]
           },
-          "student_trigger": "Multiple students expressed needs for flexibility in their study arrangements, particularly regarding work commitments and scheduling challenges. These moments represented crucial opportunities to demonstrate how course structures could accommodate their specific situations while maintaining academic progress.",
-          "consultant_response": "Consultants effectively highlighted the benefits of online study options and flexible delivery modes, specifically addressing work-study balance concerns. The approach demonstrated understanding of student needs while providing practical solutions: 'definitely online is much more flexible, so you can keep your job and studying at the same time.' This clear connection between program flexibility and student needs helped build confidence in program manageability.",
+          "student_trigger": "Across multiple calls, students sought validation of prior learning and qualifications. The primary example shows: 'I wanted to know about recognition of prior learning, whether I'd be eligible.' Similar patterns emerged in supporting calls, demonstrating consistent need for qualification validation.",
+          "consultant_response": "Consultants consistently demonstrated strong collaborative planning by effectively validating prior learning while maintaining appropriate boundaries. Primary example: 'You are eligible based on your Bachelor.' Supporting calls showed similar strength: 'with your Certificate IV and work experience, you are eligible to start.' These responses built confidence while staying within pre-enrollment scope.",
           "priority": "high",
-          "recommended_approach": "While current approach is effective, consultants should enhance by: 1) Providing specific examples of how current students successfully manage their studies, 2) Creating individualized study plans based on student circumstances, 3) Discussing detailed support resources for flexible learning, and 4) Setting up follow-up check-ins to monitor study plan effectiveness."
-        },
-        {
-          "id": 2,
-          "title": "Recognition of Prior Learning",
-          "type": "positive",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "call_1",
-              "segment_id": "104",
-              "timestamp": "4:20"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "call_2",
-                "segment_id": "51",
-                "timestamp": "2:15"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed interest in having their previous qualifications recognized, with examples including a former correctional officer and students with completed diploma units seeking credit transfers. These moments represented critical opportunities to demonstrate understanding and provide pathways for academic recognition.",
-          "consultant_response": "Consultants demonstrated strong collaborative planning by immediately acknowledging the value of previous studies and proactively discussing credit transfer possibilities. They effectively validated students' past achievements while creating clear paths forward, using language that built confidence in the transfer process.",
-          "priority": "high",
-          "recommended_approach": "Consultants should enhance approach by: 1) Asking specific questions about previous study content to identify maximum credit opportunities, 2) Explaining the credit transfer process in detail, including timeframes and documentation, 3) Creating preliminary study plans accounting for anticipated credits, and 4) Providing examples of successful credit transfer outcomes."
+          "recommended_approach": "This high standard should be maintained by: 1) Promptly acknowledging prior learning queries, 2) Providing clear eligibility confirmation, 3) Connecting experience to program relevance, 4) Maintaining appropriate RPL advice boundaries, and 5) Guiding to post-enrollment support for detailed RPL processes."
         },
         {
           "id": 3,
-          "title": "Career Goal Integration",
+          "title": "Collaborative ADHD Support Planning",
           "type": "positive",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "4",
-              "segment_id": "29",
-              "timestamp": "4:29"
+              "call_id": "594021477172",
+              "segment_id": "92",
+              "timestamp": "16:02"
             },
-            "supporting_calls": [
-              {
-                "call_id": "N/A",
-                "segment_id": "28",
-                "timestamp": "04:26"
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "Students articulated clear career aspirations in teaching and fleet management, seeking educational pathways aligned with these goals. These expressions of specific career objectives presented prime opportunities for demonstrating program value and relevance.",
-          "consultant_response": "Consultants effectively connected program elements to career goals, highlighting relevant majors and pathways while showing clear understanding of student aspirations. This approach successfully positioned courses as valuable stepping stones toward specific career objectives.",
+          "student_trigger": "At segment 92, the student disclosed: 'I have ADHD, and that may give me access to additional needs...' This disclosure presented a crucial opportunity for collaborative planning around support services while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant demonstrated excellent boundary maintenance while being supportive, acknowledging the disclosure while staying within pre-enrollment scope. The response effectively balanced providing general support information while deferring detailed planning to post-enrollment specialists.",
           "priority": "high",
-          "recommended_approach": "To further enhance career alignment, consultants should: 1) Discuss industry connections and practical experience opportunities, 2) Share success stories from graduates in similar fields, 3) Create detailed career progression maps, and 4) Connect students with relevant industry mentors or alumni."
+          "recommended_approach": "This exemplary approach should be maintained by: 1) Acknowledging support needs with empathy, 2) Providing high-level overview of available services, 3) Maintaining clear pre-enrollment boundaries, 4) Creating clear pathway to post-enrollment support planning, and 5) Ensuring student confidence in support availability."
         },
         {
           "id": 4,
-          "title": "Limited Career Transition Support",
+          "title": "Inadequate Competitive Analysis",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_2",
-              "segment_id": "23",
-              "timestamp": "5:23"
+              "call_id": "594021477172",
+              "segment_id": "72",
+              "timestamp": "12:54"
             },
             "supporting_calls": [
               {
-                "call_id": "call_3",
-                "segment_id": "21",
-                "timestamp": "4:05"
+                "call_id": "594021477172",
+                "segment_id": "76",
+                "timestamp": "12:57"
               }
             ]
           },
-          "student_trigger": "Multiple students expressed desire to transition careers through education, seeking guidance on pathway changes. These moments represented crucial opportunities for comprehensive career planning support and transition guidance.",
-          "consultant_response": "Consultants typically provided procedural responses focused on course eligibility and basic requirements, missing opportunities to explore the emotional and practical aspects of career transitions. Responses lacked deeper engagement with career aspirations or structured planning support.",
+          "student_trigger": "Students explicitly mentioned considering other institutions, with significant statements including: 'There were a couple of other universities, and that was an additional barrier' and 'I would, if I don't get into trimester one somewhere else, then I would take up the Swinburne.' These moments presented crucial opportunities for collaborative exploration of decision criteria.",
+          "consultant_response": "Consultants typically provided basic acknowledgments or immediately shifted to discussing alternative start dates without exploring underlying decision criteria. This approach missed valuable opportunities to understand and address specific competitive concerns through collaborative planning.",
           "priority": "high",
-          "recommended_approach": "Consultants should implement a more comprehensive approach: 1) Begin with exploring motivations and career goals, 2) Create structured transition plans incorporating both practical and emotional support, 3) Provide examples of successful career transitions, and 4) Connect students with relevant industry insights and resources."
+          "recommended_approach": "A stronger collaborative approach should: 1) Acknowledge the value of comparing options, 2) Explore specific features attracting students to other institutions, 3) Discuss how Swinburne addresses these preferences, 4) Develop comparison frameworks collaboratively, and 5) Create clear value propositions based on student priorities."
         },
         {
           "id": 5,
-          "title": "Limited Financial Support Discussion",
+          "title": "Limited Financial Planning",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Trang_Call",
-              "segment_id": "84",
-              "timestamp": "5:40"
+              "call_id": "593645530436",
+              "segment_id": "242",
+              "timestamp": "4:02"
             },
             "supporting_calls": [
               {
-                "call_id": "call_1",
-                "segment_id": "78",
-                "timestamp": null
+                "call_id": "594021547497",
+                "segment_id": "30",
+                "timestamp": "6:02"
               }
             ]
           },
-          "student_trigger": "Multiple students expressed significant concerns about course costs and financial barriers to enrollment. These moments represented critical opportunities for comprehensive financial planning support and guidance.",
-          "consultant_response": "Consultants typically provided basic cost information without exploring financial solutions or available support mechanisms. This limited approach failed to address significant enrollment barriers or demonstrate understanding of financial concerns.",
+          "student_trigger": "Multiple students expressed significant financial concerns, with the primary example highlighting a '$40,000 difference' compared to other institutions. These moments represented critical opportunities for comprehensive financial planning discussions within appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgments without exploring available financial solutions or support options. This pattern showed a tendency to defer detailed financial conversations rather than addressing them collaboratively within appropriate scope.",
           "priority": "high",
-          "recommended_approach": "Consultants should: 1) Proactively discuss various financial support options including payment plans, scholarships, and financial aid, 2) Create individualized financial plans aligned with student circumstances, 3) Connect students with financial advisors for detailed planning, and 4) Provide specific resources for exploring additional funding opportunities."
+          "recommended_approach": "An enhanced approach should include: 1) Immediate overview of all financial support options, 2) Clear scholarship information and eligibility criteria, 3) Flexible payment plan options, 4) Value proposition discussion comparing costs with benefits, 5) Clear financial planning next steps, and 6) Appropriate pre-enrollment financial guidance boundaries."
         }
       ]
     }

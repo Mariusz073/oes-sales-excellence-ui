@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 272,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 66,
+    "team_average_absolute_number": 66.9375
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 24.264705882352942,
+    "team_average_percentage": 27.152770300641205
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 206,
+    "team_average_absolute_number": 164.0625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 75.73529411764706,
+    "team_average_percentage": 66.59722969935879
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.58879116889092,
+    "team_average": 52.131005633998484
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 206,
+    "team_total_excluded_transcripts": 2625
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants excel at breaking down complex educational pathways into clear, actionable steps while maintaining boundaries"
+      },
+      {
+        "headline": "Experience Recognition Integration",
+        "explanation": "Consultants effectively validate and incorporate students' professional experiences when developing educational plans"
+      },
+      {
+        "headline": "Supportive Progress Navigation",
+        "explanation": "Consultants create strong collaborative partnerships to help students overcome challenges while maintaining momentum"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Work-Study Balance Enhancement",
+        "explanation": "More thorough exploration needed when helping students balance study commitments with work responsibilities"
+      },
+      {
+        "headline": "Documentation Challenge Resolution",
+        "explanation": "Stronger collaborative approaches needed when helping students overcome documentation and process barriers"
+      },
+      {
+        "headline": "Experience-Requirement Alignment",
+        "explanation": "More effective guidance needed in exploring how student experience satisfies specific program requirements"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870133516",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593870369414",
+                "segment_id": "24",
+                "timestamp": null
+              },
+              {
+                "call_id": "594020713250",
+                "segment_id": "75",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about program pathways with statements like 'So there's a few moving parts here' and seeking clarity on program correlations.",
+          "consultant_response": "Consultants provided specific, tailored guidance: 'What we will have to do is put you into what we call the Undergraduate Certificate first' while explaining progression options.",
+          "context_impact": "Clear pathway guidance while maintaining appropriate boundaries proved crucial for student confidence and decision-making.",
+          "recommended_approach": "None needed - exemplary demonstration of collaborative planning"
+        },
+        {
+          "id": 2,
+          "title": "Experience Recognition and Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863742623",
+              "segment_id": "31",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863894778",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students presenting completed qualifications and extensive professional experience: 'I've worked for over 10 years' and highlighting relevant diplomas.",
+          "consultant_response": "Consultants effectively validated qualifications and highlighted benefits: 'Based off your diploma, we're actually able to offer you eight exemptions' while exploring career alignment.",
+          "context_impact": "Recognition of prior learning and experience created clear pathways while validating professional achievements.",
+          "recommended_approach": "Could enhance by creating more detailed experience-requirement mapping"
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870133516",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863978819",
+                "segment_id": "3",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing challenges with work transitions: 'I've had a bit much going on' and 'I've just started a new job.'",
+          "consultant_response": "Basic acknowledgment without exploring solutions: 'I understand that starting a new job can be challenging' without developing specific strategies.",
+          "context_impact": "Missed opportunity to build confidence in managing dual commitments through collaborative planning.",
+          "recommended_approach": "Should explore specific work patterns and develop practical strategies while discussing relevant support services"
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593778315452",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed frustration with documentation delays: 'I'm just waiting for them to send it through to me.'",
+          "consultant_response": "Provided basic email checking guidance without developing a shared resolution strategy.",
+          "context_impact": "Lack of collaborative problem-solving increased anxiety about enrollment progress.",
+          "recommended_approach": "Should create collaborative action plan to address documentation challenges while maintaining momentum"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870133516",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593870369414",
+                "segment_id": "24",
+                "timestamp": null
+              },
+              {
+                "call_id": "594020713250",
+                "segment_id": "75",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about program pathways and requirements. One student acknowledged complexity with 'So there's a few moving parts here,' while others sought clarity about program correlations and progression options. These moments represented crucial opportunities for collaborative planning that could significantly impact enrollment decisions and student confidence.",
+          "consultant_response": "Consultants demonstrated exceptional collaborative planning skills by providing clear, specific guidance while maintaining appropriate professional boundaries. Key responses included: 'What we will have to do is put you into what we call the Undergraduate Certificate first' and detailed explanations of progression pathways. This approach effectively transformed student uncertainty into constructive pathway evaluation, helping them understand their options while maintaining confidence in the process. The consultants' ability to balance guidance with student autonomy created strong partnerships in educational planning.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained and enhanced by: 1) Acknowledging pathway complexity when present, 2) Providing specific, actionable next steps, 3) Clearly explaining program requirements and eligibility, 4) Maintaining appropriate boundaries in academic guidance, and 5) Creating collaborative dialogue about alignment with student goals. Additionally, consultants should continue exploring specific benefits of each option while ensuring students feel empowered in their decision-making process."
+        },
+        {
+          "id": 2,
+          "title": "Experience Recognition and Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863742623",
+              "segment_id": "31",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863894778",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students presented significant professional qualifications and experience, with statements like 'I've worked for over 10 years' and detailed discussions of relevant diplomas. These disclosures created opportunities for meaningful collaborative planning that could validate experience while supporting career advancement goals.",
+          "consultant_response": "Consultants effectively validated qualifications and strategically leveraged prior learning recognition, with responses like 'Based off your diploma, we're actually able to offer you eight exemptions.' This approach successfully acknowledged professional achievements while creating clear pathways forward. The consultants' ability to translate experience into concrete advantages maintained strong momentum toward enrollment while building student confidence.",
+          "priority": "high",
+          "recommended_approach": "To optimize these interactions, consultants should: 1) Begin by acknowledging professional achievements, 2) Explore specific career goals and aspirations, 3) Create detailed mappings between experience and program requirements, 4) Develop concrete action plans leveraging prior learning, and 5) Maintain focus on career advancement benefits. Additionally, enhance the experience validation process by providing specific examples of how prior learning credits accelerate program completion."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870133516",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863978819",
+                "segment_id": "3",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing work and study commitments, with statements like 'I've had a bit much going on at the moment' and 'I've just started a new job, I just kind of want to settle into the routine.' These moments presented crucial opportunities for collaborative planning around work-study integration.",
+          "consultant_response": "Current responses often failed to adequately address underlying concerns about time management and work-study balance. While consultants showed basic understanding with statements like 'I understand that starting a new job can be challenging,' many missed opportunities to explore potential solutions or develop collaborative strategies. This approach potentially undermined student confidence in their ability to manage dual commitments.",
+          "priority": "high",
+          "recommended_approach": "To enhance these interactions, consultants should: 1) Begin by validating work-study balance concerns, 2) Explore specific work commitments and schedule patterns, 3) Share concrete examples of successful work-study management strategies, 4) Discuss flexible study options and support services in detail, and 5) Collaborate on creating practical strategies for balancing commitments. This approach would transform basic acknowledgment into meaningful planning that builds student confidence."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593778315452",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 10, the student expressed significant frustration regarding documentation delays: 'I'm just waiting for them to send it through to me.' This moment presented a critical opportunity to demonstrate collaborative problem-solving and maintain enrollment momentum while addressing administrative barriers that were creating anxiety and potential delays.",
+          "consultant_response": "The consultant's approach fell short by defaulting to basic troubleshooting suggestions about checking email folders without developing a true collaborative resolution strategy. While providing practical steps, this response failed to address the student's underlying concerns or establish a strong sense of partnership in resolving the challenge. The lack of a shared action plan left the student without clear next steps or confidence in the process.",
+          "priority": "high",
+          "recommended_approach": "A stronger collaborative approach should begin with: 'I understand your frustration with these delays. Let's work together to get this resolved.' The consultant should then: 1) Explore what steps the student has already taken, 2) Develop a clear action plan with specific timeframes, 3) Offer to follow up at key points if needed, 4) Ensure the student feels supported throughout the process, and 5) Create backup plans for potential continued delays. This approach maintains momentum while building confidence in the enrollment journey."
+        }
+      ]
+    }
+  }
+}

@@ -1,47 +1,383 @@
 {
   "metadata": {
     "consultant_name": "Sebastian Saunders",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 0,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 265,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 92,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 34.71698113207547,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 173,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 65.28301886792453,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": null,
-    "team_average": 51.280019574376695
+    "individual_average": 52.82201907709976,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 0,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 173,
+    "team_total_excluded_transcripts": 2625
   },
-  "behavioral_scores": [],
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 124.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.68,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    }
+  ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively guide students through educational pathways while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of aligning program structures with individual circumstances to build student confidence"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Clear guidance on available support services while maintaining appropriate role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Work-Life Balance",
+        "explanation": "Need for deeper exploration of strategies to manage study alongside existing commitments"
+      },
+      {
+        "headline": "Financial Planning Integration",
+        "explanation": "More thorough collaborative exploration needed when discussing payment options and financial planning"
+      },
+      {
+        "headline": "Career Goal Alignment",
+        "explanation": "Greater emphasis needed on connecting educational pathways with broader career aspirations"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594020716318",
+              "segment_id": "178",
+              "timestamp": "2:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172",
+                "segment_id": "78",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking clarity on educational pathways aligned with career goals.",
+          "consultant_response": "Provided structured explanations maintaining appropriate boundaries: 'Exact same units, so it doesn't change anything tangible in terms of what you're learning.'",
+          "context_impact": "Clear pathway guidance crucial for enrollment confidence.",
+          "recommended_approach": "Could further explore specific career alignment"
+        },
+        {
+          "id": 2,
+          "title": "Effective Law Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593785665325",
+              "segment_id": "10",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed doubt about law program eligibility due to incomplete undergraduate degree.",
+          "consultant_response": "Outlined clear Criminal Justice certificate pathway: 'You just need to do those four units, maintain a 60% average.'",
+          "context_impact": "Alternative pathway presentation renewed student confidence.",
+          "recommended_approach": "Could explore specific legal career goals"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870125631",
+              "segment_id": "25",
+              "timestamp": "4:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593870125631",
+                "segment_id": "44",
+                "timestamp": "8:00"
+              }
+            ]
+          },
+          "student_trigger": "Students initiating discussion of study load planning across semesters.",
+          "consultant_response": "Validated approach while highlighting beneficial structure: 'So we run in a trimester structure, which sounds like would actually suit you quite well.'",
+          "context_impact": "Built confidence in program flexibility and success potential.",
+          "recommended_approach": "Could develop more detailed timeline planning"
+        },
+        {
+          "id": 4,
+          "title": "Document Submission Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870296634",
+              "segment_id": "45",
+              "timestamp": "8:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on resume requirements.",
+          "consultant_response": "Provided simple, actionable instruction: 'Just update it with your recent experience and that's all we'd need.'",
+          "context_impact": "Clear guidance maintained application momentum.",
+          "recommended_approach": "None needed - demonstrated clear guidance"
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594021131144",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593645166295",
+                "segment_id": "57",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking guidance on managing full-time work with studies.",
+          "consultant_response": "Basic flexibility information provided without detailed planning strategies.",
+          "context_impact": "Critical planning needed for student confidence in managing commitments.",
+          "recommended_approach": "Should explore specific schedules and develop tailored study plans"
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947233416",
+              "segment_id": "114",
+              "timestamp": "3:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty: 'With fees I'm trying to work it out... I don't know what I'm going to do yet.'",
+          "consultant_response": "Basic fee information provided without exploring specific concerns or payment options.",
+          "context_impact": "Financial uncertainty creating barrier to enrollment confidence.",
+          "recommended_approach": "Need to explore circumstances and create collaborative payment plan"
+        },
+        {
+          "id": 7,
+          "title": "Study-Life Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864143703",
+              "segment_id": "47",
+              "timestamp": "6:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593864448504",
+                "segment_id": "48",
+                "timestamp": "4:20"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sharing significant personal challenges impacting study.",
+          "consultant_response": "Minimal acknowledgment without exploring solutions or support options.",
+          "context_impact": "Missed opportunity to build confidence in managing commitments.",
+          "recommended_approach": "Should discuss flexible study options and specific support services"
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594020716318",
+              "segment_id": "178",
+              "timestamp": "2:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172",
+                "segment_id": "78",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated strategic thinking about educational progression, seeking clarity on pathways aligned with career goals. Key example included specific inquiry about teaching pathway requirements: 'Is there some sort of pathway that you guys offer so that I can make English a major or minor in the secondary master's teaching.'",
+          "consultant_response": "Consultants provided comprehensive pathway explanations while maintaining appropriate professional boundaries. They effectively validated student understanding while encouraging autonomy: 'For the minor, what we need is two first year level units that relate to that teaching area and two second year level units that relate to that area.'",
+          "priority": "high",
+          "recommended_approach": "While responses were strong, consultants could enhance interactions by: 1) Exploring specific career aspirations, 2) Discussing how each qualification contributes to career progression, 3) Highlighting industry-relevant skills developed, and 4) Creating timelines aligning educational milestones with career goals."
+        },
+        {
+          "id": 2,
+          "title": "Effective Law Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593785665325",
+              "segment_id": "10",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed significant doubt about law program eligibility: 'I have only done an undergrad but I didn't finish the undergrad and I'm currently working as a police officer, so I'm assuming there's no way for me to enrol in law?' This revealed both career aspirations and perceived barriers.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by presenting a viable alternative pathway: 'We do have what's called the Undergraduate Certificate of Criminal Justice and Criminology, which is our law pathway... you just need to do those four units, maintain a 60% average.' This effectively addressed concerns while leveraging current experience.",
+          "priority": "high",
+          "recommended_approach": "To further enhance this strong approach: 1) Acknowledge value of police background, 2) Explore specific career goals within law, 3) Create detailed semester planning, and 4) Discuss available transition support services."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870125631",
+              "segment_id": "25",
+              "timestamp": "4:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593870125631",
+                "segment_id": "44",
+                "timestamp": "8:00"
+              }
+            ]
+          },
+          "student_trigger": "Students initiated study planning discussions, with one stating 'I'd sort of look at doing it three units per semester, and then one unit over the summer.' This demonstrated proactive engagement in managing course load effectively while maintaining academic progress.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by validating student approaches while providing structural guidance: 'So we run in a trimester structure, which sounds like would actually suit you quite well.' They effectively balanced affirmation of student preferences with necessary program information.",
+          "priority": "high",
+          "recommended_approach": "To enhance these interactions: 1) Discuss specific timeline implications, 2) Explore potential challenges and solutions, 3) Share success stories from similar students, 4) Outline available support mechanisms, and 5) Create preliminary schedule visualizations."
+        },
+        {
+          "id": 4,
+          "title": "Document Submission Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870296634",
+              "segment_id": "45",
+              "timestamp": "8:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 45, the student expressed uncertainty about resume requirements, needing specific guidance on necessary updates. This represented a potential barrier to application progress if not addressed effectively.",
+          "consultant_response": "The consultant provided clear, actionable guidance: 'Yes, if you could just update it with your recent experience and that's all we'd need.' This simple yet effective response maintained momentum in the application process while empowering the student to take necessary action.",
+          "priority": "medium",
+          "recommended_approach": "This interaction exemplified best practices by: 1) Providing clear, specific instructions, 2) Keeping requirements simple and achievable, 3) Empowering student action, and 4) Maintaining process momentum. Continue this approach for similar document-related guidance."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594021131144",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593645166295",
+                "segment_id": "57",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing full-time work alongside studies, seeking clarity on study hour requirements and flexibility options. These inquiries represented critical moments for collaborative planning to address work-study balance concerns.",
+          "consultant_response": "Consultants typically provided basic information about flexibility without engaging in deeper exploration: 'So, there's no set times that you need to be logged on.' This surface-level response missed opportunities for meaningful collaborative planning that could address student concerns more effectively.",
+          "priority": "high",
+          "recommended_approach": "Enhanced approach should: 1) Explore specific work patterns and schedules, 2) Provide concrete examples of successful work-study balance strategies, 3) Develop personalized study plans aligned with work commitments, 4) Discuss available support services, and 5) Create clear action plans with regular review points."
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947233416",
+              "segment_id": "114",
+              "timestamp": "3:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 114, the student expressed significant financial uncertainty: 'With fees I'm trying to work it out... I don't know what I'm going to do yet.' This revealed both practical concerns about payment options and emotional uncertainty about financial commitments.",
+          "consultant_response": "The consultant focused primarily on administrative fee information without exploring the student's specific financial concerns or preferences. This approach missed the opportunity to engage in meaningful financial planning discussion that could address both practical and emotional aspects of the student's uncertainty.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would begin with: 'I understand that figuring out the financial aspects can feel overwhelming. Let's explore your options together.' Then: 1) Investigate specific financial concerns, 2) Present relevant payment pathways, 3) Explain both immediate and long-term implications, 4) Check understanding throughout, and 5) Create a clear action plan for next steps."
+        },
+        {
+          "id": 7,
+          "title": "Study-Life Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864143703",
+              "segment_id": "47",
+              "timestamp": "6:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593864448504",
+                "segment_id": "48",
+                "timestamp": "4:20"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant personal challenges, with one noting: 'I've got little kids and so I ended up dropping out because it was too hard, but they're in kindergarten now.' This revealed both past struggles and current hope for success, creating a critical opportunity for supportive planning.",
+          "consultant_response": "Consultants provided minimal acknowledgment with responses like 'Okay, easy, easy' without exploring solutions or discussing support options. These responses missed crucial opportunities to build confidence and develop tailored support plans that could prevent similar challenges from recurring.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge specific challenges of balancing family and study, 2) Explore student-specific needs and potential barriers, 3) Discuss flexible study options and support services, 4) Share success stories of similar students, and 5) Develop preliminary study plans that account for family responsibilities while building confidence in success potential."
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "consultant_name": "Tayla Viglione",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 93,
+  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 22,
+    "team_average_absolute_number": 20.636363636363637
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.655913978494624,
+    "team_average_percentage": 22.487986165053538
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 71,
+    "team_average_absolute_number": 58.09090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.34408602150538,
+    "team_average_percentage": 50.23928656221919
+  },
+  "average_talking_percentage": {
+    "individual_average": 43.60295325803235,
+    "team_average": 51.07068109184601
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 71,
+    "team_total_excluded_transcripts": 639
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 149.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 128.19,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 167.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.82,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 147.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.88,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Program Structure Clarity",
+        "explanation": "Consultants effectively communicate course requirements and progression pathways to help students understand their educational journey"
+      },
+      {
+        "headline": "Professional Experience Recognition",
+        "explanation": "Consultants validate work experience and qualifications to build student confidence in their academic potential"
+      },
+      {
+        "headline": "Support Resource Integration",
+        "explanation": "Consultants actively connect students with learning resources and support services to ensure their success"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Work-Study Balance Planning",
+        "explanation": "Need to create more detailed study plans that address specific scheduling challenges and commitments"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "Must provide more comprehensive guidance on funding options and payment planning to address financial concerns"
+      },
+      {
+        "headline": "Special Circumstances Support",
+        "explanation": "Need better exploration and accommodation planning for students with health or disability support needs"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Limited Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "1",
+              "segment_id": "40",
+              "timestamp": "6:41"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "2",
+                "segment_id": "172",
+                "timestamp": "5:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing full-time work alongside studies.",
+          "consultant_response": "Basic acknowledgment without exploring flexible options or developing personalized study plans.",
+          "context_impact": "Work-study balance concerns creating significant barrier to enrollment commitment.",
+          "recommended_approach": "Should engage in detailed discussion of flexible study options and create collaborative study plans tailored to work schedules."
+        },
+        {
+          "id": 2,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1983",
+              "segment_id": "15",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "unknown",
+                "segment_id": "34",
+                "timestamp": "5:25"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about program costs and seeking clarity on funding options.",
+          "consultant_response": "Basic cost information provided without exploring comprehensive funding options or support services.",
+          "context_impact": "Financial uncertainty creating significant barrier to enrollment commitment.",
+          "recommended_approach": "Should proactively discuss payment plans, financial aid options, and guide through funding processes."
+        },
+        {
+          "id": 3,
+          "title": "Inadequate Special Circumstances Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "4",
+              "segment_id": "73",
+              "timestamp": "11:53"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "N/A",
+                "segment_id": "429",
+                "timestamp": "7:09"
+              }
+            ]
+          },
+          "student_trigger": "Students disclosing health and disability support needs, including anxiety support and medical procedures.",
+          "consultant_response": "Basic acknowledgment without exploring specific support needs or available resources.",
+          "context_impact": "Critical opportunity to demonstrate understanding and available support mechanisms.",
+          "recommended_approach": "Should validate concerns empathetically and develop tailored support plans with clear resource connections."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Program Structure Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "120",
+              "timestamp": "13:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "3",
+                "segment_id": "175",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity about program structure and progression pathways. The primary example showed a student inquiring about intake flexibility, while supporting cases revealed needs for understanding academic requirements and progression options. These inquiries demonstrated students' need to understand how their studies would align with their professional and personal commitments.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive program explanations tailored to working professionals. The primary example showed strong awareness of student needs: 'We design it this way as most students are professionals with work and family commitments.' Supporting cases revealed similar clarity in communicating progression requirements: 'Just so long as you maintain a weighted average mark of 60 or higher, then you're able to progress with the remaining eight units.' This approach effectively built student confidence while maintaining an encouraging tone.",
+          "priority": "high",
+          "recommended_approach": "The current approach effectively addresses student needs by providing clear, detailed information about program structure and flexibility. To enhance this further: 1) Incorporate success stories from similar students, 2) Create visual timelines of study progression, 3) Provide written summaries of options discussed, 4) Include regular check-ins for understanding, 5) Establish clear next steps for progression planning."
+        },
+        {
+          "id": 2,
+          "title": "Limited Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "1",
+              "segment_id": "40",
+              "timestamp": "6:41"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "2",
+                "segment_id": "172",
+                "timestamp": "5:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing full-time work alongside studies. At segment 40, a student explicitly asked: 'Because I work full-time, so I'm just trying to understand how I can do this sort of after hours and so forth.' Supporting cases revealed similar needs for schedule flexibility and travel accommodation. These moments represented critical opportunities to demonstrate the institution's ability to support working professionals.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without engaging in meaningful exploration of flexible study options. The primary response was limited to 'Yeah, no, that's fair enough,' missing opportunities to showcase available flexibility and support mechanisms. This approach failed to address the students' underlying concerns about managing their professional and academic commitments effectively.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would begin with acknowledging the challenge: 'I understand balancing full-time work with study requires careful planning. Let's explore how we can make this work for you.' The consultant should then: 1) Explore specific work schedules and preferences, 2) Present detailed flexible study options including asynchronous learning and evening classes, 3) Develop customized study plans aligned with work commitments, 4) Share success stories from working professionals, 5) Create concrete action plans with clear support mechanisms, 6) Follow up with written summaries of discussed options."
+        },
+        {
+          "id": 3,
+          "title": "Effective Professional Experience Recognition",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "3",
+              "segment_id": "119",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared their significant professional journey: 'I've been working in a company, Carthage Australia, for the last 13 years, starting in the workshop and working up to a manager of the business.' This disclosure presented a prime opportunity to validate their experience and align it with program requirements while building confidence in their academic potential.",
+          "consultant_response": "The consultant effectively validated the student's experience by stating: 'Your work experience sounds like exactly what we look for in a candidate for the GradCert entry.' This response demonstrated understanding of the program requirements while building the student's confidence in their qualifications. By directly connecting their professional experience to program suitability, the consultant strengthened the student's confidence in their ability to succeed.",
+          "priority": "medium",
+          "recommended_approach": "The current approach was highly effective. To enhance further: 1) Connect specific experience to program benefits, 2) Highlight how theoretical concepts will complement practical knowledge, 3) Share examples of how similar professionals have succeeded, 4) Discuss opportunities to apply workplace scenarios in assignments, 5) Create clear pathways for leveraging professional experience in academic work."
+        },
+        {
+          "id": 4,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1983",
+              "segment_id": "15",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "unknown",
+                "segment_id": "34",
+                "timestamp": "5:25"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed financial concerns, with the primary example showing uncertainty about departmental funding: 'I'm just trying to figure out whether or not the department will pay for it.' Supporting cases revealed similar needs for understanding costs and payment options, with one student explicitly identifying funding as a key decision criterion: 'Yes, one of my criteria to work it out was for best funding.'",
+          "consultant_response": "Consultants typically provided basic cost information without engaging in deeper financial planning discussions. Responses remained largely transactional, missing opportunities to explore funding options and support services. For example, one consultant simply stated costs without discussing payment flexibility: 'So each subject comes to $4,837.50 and that figure is due in the first week of each teaching period.'",
+          "priority": "high",
+          "recommended_approach": "Consultants should adopt a more comprehensive approach to financial planning: 1) Acknowledge the importance of financial clarity, 2) Explore specific funding options including employer support, scholarships, and payment plans, 3) Provide guidance on documentation needed for HR/department funding requests, 4) Connect students with financial advisors for detailed planning, 5) Create step-by-step guides for accessing different funding sources, 6) Follow up with written resources and clear next steps for securing financial support."
+        },
+        {
+          "id": 5,
+          "title": "Inadequate Special Circumstances Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "4",
+              "segment_id": "73",
+              "timestamp": "11:53"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "N/A",
+                "segment_id": "429",
+                "timestamp": "7:09"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students disclosed health and disability support needs. At segment 73, a student shared: 'I used to get, um, oh, what's it called? Disability support, for anxiety, but I don't know if that counts as a disability.' Another student at segment 429 disclosed upcoming surgery: 'I am having a surgery in March. I was just wondering, so should I go for the next intake?' These vulnerable disclosures represented critical moments to demonstrate the institution's commitment to inclusive support.",
+          "consultant_response": "Consultants provided basic acknowledgment without deeply exploring specific support needs or available resources. Responses lacked the empathy and collaborative exploration needed to build confidence in support mechanisms. In both cases, consultants missed opportunities to demonstrate comprehensive understanding of available accommodations and support services.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach should: 1) Begin with empathetic validation of concerns, 2) Explore specific support needs through targeted questions about previous successful accommodations, 3) Present detailed support options including disability services, medical accommodations, and flexible study arrangements, 4) Develop personalized support plans addressing specific needs, 5) Connect directly with relevant support services for detailed planning, 6) Provide written summaries of available resources and next steps, 7) Schedule follow-up discussions to ensure support alignment."
+        }
+      ]
+    }
+  }
+}

@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Michael Whyte",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 126,
-  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "total_number_of_calls": 136,
+  "team_average_total_number_of_calls_per_sales_consultant": 190.27272727272728,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 36,
-    "team_average_absolute_number": 20.636363636363637
+    "absolute_number": 35,
+    "team_average_absolute_number": 47.81818181818182
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 28.57142857142857,
-    "team_average_percentage": 22.487986165053538
+    "percentage": 25.735294117647058,
+    "team_average_percentage": 27.97747921684568
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 90,
-    "team_average_absolute_number": 58.09090909090909
+    "absolute_number": 101,
+    "team_average_absolute_number": 142.45454545454547
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 71.42857142857143,
-    "team_average_percentage": 50.23928656221919
+    "percentage": 74.26470588235294,
+    "team_average_percentage": 62.93161169224523
   },
   "average_talking_percentage": {
-    "individual_average": 49.09955535582434,
-    "team_average": 51.07068109184601
+    "individual_average": 52.61698681378899,
+    "team_average": 50.24181666108455
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 90,
-    "team_total_excluded_transcripts": 639
+    "individual_excluded_transcripts": 101,
+    "team_total_excluded_transcripts": 1567
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 102.56,
       "team_average_final_ranking_score_eligible_transcripts": 149.83,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 115.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.25,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Career-Aligned Educational Planning",
-        "explanation": "Successfully mapping program pathways to students' professional goals and aspirations"
+        "headline": "Adaptive Study Integration",
+        "explanation": "Consultants excel at collaboratively creating flexible study plans that accommodate diverse student circumstances and commitments"
       },
       {
-        "headline": "Flexible Study Solutions",
-        "explanation": "Effectively accommodating diverse student circumstances through adaptable study arrangements"
+        "headline": "Strategic Career Alignment",
+        "explanation": "Strong demonstration of connecting educational pathways to career goals while maintaining appropriate guidance boundaries"
       },
       {
-        "headline": "Clear Requirements Communication",
-        "explanation": "Providing transparent and detailed guidance on prerequisites and eligibility criteria"
+        "headline": "Proactive Support Navigation",
+        "explanation": "Effective engagement in connecting students with appropriate resources while maintaining clear professional boundaries"
       }
     ],
     "improvement": [
       {
-        "headline": "Enhanced Career Transition Support",
-        "explanation": "Need for deeper exploration of career change aspirations before presenting solutions"
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "Need for deeper collaborative exploration of financial options and support mechanisms before advisor referral"
       },
       {
-        "headline": "Comprehensive Pathway Planning",
-        "explanation": "Opportunity to create more detailed educational roadmaps aligned with student goals"
+        "headline": "Work-Life Balance Integration",
+        "explanation": "Greater emphasis needed on detailed exploration of flexible study options for students with multiple commitments"
       },
       {
-        "headline": "Academic Confidence Building",
-        "explanation": "Room to better address and support concerns about university-level study readiness"
+        "headline": "Timeline and Goal Alignment",
+        "explanation": "More thorough discussion needed around student timing preferences and creation of concrete action plans"
       }
     ]
   },
@@ -89,207 +96,93 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Strong Career-Education Alignment",
+          "title": "Effective Work-Life Balance Planning",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call 1",
-              "segment_id": "61",
-              "timestamp": "12:53"
+              "call_id": "593946903912",
+              "segment_id": "32",
+              "timestamp": "5:30"
             },
             "supporting_calls": [
               {
-                "call_id": "Call 3",
-                "segment_id": "85",
-                "timestamp": "12:05"
+                "call_id": "593870345168",
+                "segment_id": "55",
+                "timestamp": "5:55"
               }
             ]
           },
-          "student_trigger": "Students expressed clear career progression goals and professional development aspirations across multiple calls",
-          "consultant_response": "Effectively mapped educational pathways to career goals while validating professional aspirations",
-          "context_impact": "Critical opportunity to demonstrate program value and career pathway alignment",
-          "recommended_approach": "Could enhance by creating more detailed career development timelines"
+          "student_trigger": "Students expressed need for flexibility with work schedules and family commitments: 'I just wanted something to balance with family and home.'",
+          "consultant_response": "Consultant demonstrated understanding: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster.'",
+          "context_impact": "Clear discussion of flexible options increased student confidence in managing commitments",
+          "recommended_approach": "None needed - exemplary collaborative planning"
         },
         {
           "id": 2,
-          "title": "Effective Program Requirements Communication",
+          "title": "Career Transition Support",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "58",
-              "timestamp": null
+              "call_id": "594020781014",
+              "segment_id": "43",
+              "timestamp": "7:10"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1982",
-                "segment_id": "55",
-                "timestamp": null
+                "call_id": "593864021290",
+                "segment_id": "11",
+                "timestamp": "00:11"
               }
             ]
           },
-          "student_trigger": "Students sought clarity on program requirements and pathways to advanced degrees",
-          "consultant_response": "Provided detailed prerequisites including APAC accreditation requirements",
-          "context_impact": "Clear communication critical for understanding eligibility and options",
-          "recommended_approach": "Could explore student background before presenting requirements"
+          "student_trigger": "Students expressing desire to transition careers: 'I was looking to kind of sidestep a little bit, and thought that project management might help.'",
+          "consultant_response": "Effective exploration of course alignment with career objectives while maintaining appropriate boundaries",
+          "context_impact": "Critical opportunity to demonstrate program relevance to career goals",
+          "recommended_approach": "Could enhance with specific examples of successful transitions"
         },
         {
           "id": 3,
-          "title": "Flexible Study Options Support",
-          "type": "positive",
+          "title": "Financial Support Navigation",
+          "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "88",
-              "timestamp": null
+              "call_id": "593869703395",
+              "segment_id": "148",
+              "timestamp": "25:45"
             },
             "supporting_calls": [
               {
-                "call_id": "Call 1",
-                "segment_id": "60",
-                "timestamp": "10:00"
+                "call_id": "593778220432",
+                "segment_id": "48",
+                "timestamp": "11:45"
               }
             ]
           },
-          "student_trigger": "Students indicated challenges with work-study balance and scheduling flexibility",
-          "consultant_response": "Proactively discussed flexible study options and online learning opportunities",
-          "context_impact": "Key moment for building confidence in program completion ability",
-          "recommended_approach": "Could provide more specific examples of successful work-study management"
+          "student_trigger": "Multiple students seeking information about scholarships and financial assistance options",
+          "consultant_response": "Basic referral to advisors without immediate guidance: 'The student advisors will be the ones to talk to you about scholarships.'",
+          "context_impact": "Financial planning significantly impacts enrollment confidence",
+          "recommended_approach": "Should provide immediate scholarship information while facilitating advisor connections"
         },
         {
           "id": 4,
-          "title": "Clear Psychology Registration Guidance",
-          "type": "positive",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Solomon_Call",
-              "segment_id": "71",
-              "timestamp": "5:51"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "Student inquired about whether the graduate diploma would be sufficient for Psychology Association registration",
-          "consultant_response": "Provided clear guidance about registration requirements while maintaining engagement",
-          "context_impact": "Critical moment for providing career path clarity",
-          "recommended_approach": "Could enhance by exploring specific career goals before outlining requirements"
-        },
-        {
-          "id": 5,
-          "title": "Effective Study Format Discussion",
-          "type": "positive",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "591330759172_1984",
-              "segment_id": "21",
-              "timestamp": null
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "Student asked about flexibility between online and classroom-based study options",
-          "consultant_response": "Consultant explained options clearly: 'You could study online and then potentially transfer to campus, applying credit for completed units'",
-          "context_impact": "Addressing study format flexibility was important for student confidence in program fit",
-          "recommended_approach": "None needed - effectively addressed study format flexibility needs"
-        },
-        {
-          "id": 6,
-          "title": "Missed Career Transition Support",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "591330759172_1983",
-              "segment_id": "80",
-              "timestamp": null
-            },
-            "supporting_calls": [
-              {
-                "call_id": "Call 3",
-                "segment_id": "46",
-                "timestamp": "7:45"
-              }
-            ]
-          },
-          "student_trigger": "Students expressed significant career transition aspirations and development goals",
-          "consultant_response": "Focused on logistics without exploring career goals or creating transition plans",
-          "context_impact": "Crucial opportunity to validate career changes and explore educational alignment",
-          "recommended_approach": "Need to validate career aspirations and map detailed educational pathways"
-        },
-        {
-          "id": 7,
-          "title": "Insufficient Academic Confidence Building",
+          "title": "Timeline Planning Enhancement",
           "type": "improvement",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call_3",
-              "segment_id": "23",
-              "timestamp": "3:00"
+              "call_id": "593777718389",
+              "segment_id": "40",
+              "timestamp": "7:40"
             },
             "supporting_calls": []
           },
-          "student_trigger": "Student revealed anxiety about never having studied at university level",
-          "consultant_response": "Focused on entry requirements without addressing academic confidence concerns",
-          "context_impact": "Student needed reassurance and support regarding academic readiness",
-          "recommended_approach": "Should validate concerns and outline available academic support systems"
-        },
-        {
-          "id": 8,
-          "title": "Missed Alternative Pathway Guidance",
-          "type": "improvement",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "CALL004",
-              "segment_id": "45",
-              "timestamp": "7:36"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "Parent inquired about university entry alternatives",
-          "consultant_response": "Limited engagement without exploring available options",
-          "context_impact": "Critical moment for providing comprehensive guidance on educational pathways",
-          "recommended_approach": "Should explore available pathways and facilitate collaborative planning discussion"
-        },
-        {
-          "id": 9,
-          "title": "Insufficient English Language Support",
-          "type": "improvement",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Language_Eligibility_Call",
-              "segment_id": "78",
-              "timestamp": "12:58"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "Student expressed concerns about English language proficiency requirements",
-          "consultant_response": "Focused on document review without addressing immediate language concerns",
-          "context_impact": "Student needed clear guidance on language requirements and support options",
-          "recommended_approach": "Should provide immediate guidance on language requirements and available support services"
-        },
-        {
-          "id": 10,
-          "title": "Inadequate Outdated Qualifications Discussion",
-          "type": "improvement",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "HR_Research_Call",
-              "segment_id": "34",
-              "timestamp": "6:00"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "Student concerned about outdated qualifications: 'my studies are too old now or not relevant'",
-          "consultant_response": "Provided basic requirements without addressing concerns about dated studies",
-          "context_impact": "Student needed reassurance and clear pathways despite outdated qualifications",
-          "recommended_approach": "Should explore recognition of prior learning and alternative pathways"
+          "student_trigger": "Student indicated urgency: 'I think as soon as I can would be good.'",
+          "consultant_response": "Limited acknowledgment without exploring reasons for urgency or specific timing needs",
+          "context_impact": "Missed opportunity to understand timeline motivations and create clear enrollment plan",
+          "recommended_approach": "Should probe motivation behind timeline preference and align with available intake periods"
         }
       ]
     },
@@ -297,207 +190,93 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Strong Career-Education Alignment",
+          "title": "Effective Work-Life Balance Planning",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call 1",
-              "segment_id": "61",
-              "timestamp": "12:53"
+              "call_id": "593946903912",
+              "segment_id": "32",
+              "timestamp": "5:30"
             },
             "supporting_calls": [
               {
-                "call_id": "Call 3",
-                "segment_id": "85",
-                "timestamp": "12:05"
+                "call_id": "593870345168",
+                "segment_id": "55",
+                "timestamp": "5:55"
               }
             ]
           },
-          "student_trigger": "Multiple students articulated clear career development goals, ranging from specific professional skill development to broader career transitions. The primary example demonstrated strong motivation with clear objectives: 'Career progress, personal development, professional psychology, my passion, counseling.' Supporting examples included students seeking leadership development and government policy roles.",
-          "consultant_response": "Consultants effectively validated career aspirations while mapping educational pathways. In the primary example, the consultant responded: 'That's fantastic. So in terms of mapping out your journey towards becoming a psychologist, let's discuss how our program can align with your career goals.' This approach demonstrated understanding of career objectives while providing clear guidance on educational pathways.",
+          "student_trigger": "Multiple students expressed concerns about balancing study with work and family commitments. The primary example stated: 'I just wanted something to balance with family and home.' Supporting examples showed similar patterns of seeking flexibility around work schedules, demonstrating a crucial need for collaborative planning around study management.",
+          "consultant_response": "Consultants demonstrated excellence in collaborative planning by acknowledging specific challenges and working with students to develop personalized solutions. In the primary example, the consultant responded: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster.' This approach effectively validated concerns while actively engaging students in solution development.",
           "priority": "high",
-          "recommended_approach": "To enhance these positive interactions, consultants should: 1) Begin by acknowledging career aspirations, 2) Explore specific professional goals and timeline expectations, 3) Map detailed educational pathways to career objectives, 4) Discuss industry connections and networking opportunities, and 5) Create concrete action plans with measurable milestones. This comprehensive approach ensures students understand how their education directly supports their career development."
+          "recommended_approach": "This represents best practice in collaborative planning. Consultants should: 1) Acknowledge specific challenges faced by each student, 2) Actively invite input about their unique situation, 3) Collaboratively explore flexible study options, 4) Provide concrete examples of successful study management strategies, 5) Ensure students feel confident in their ability to balance commitments through clear planning."
         },
         {
           "id": 2,
-          "title": "Effective Program Requirements Communication",
+          "title": "Career Transition Support",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "58",
-              "timestamp": null
+              "call_id": "594020781014",
+              "segment_id": "43",
+              "timestamp": "7:10"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1982",
-                "segment_id": "55",
-                "timestamp": null
+                "call_id": "593864021290",
+                "segment_id": "11",
+                "timestamp": "00:11"
               }
             ]
           },
-          "student_trigger": "Multiple students sought clarity on program requirements and pathways. In the primary interaction, the student asked 'What are the requirements?' while another inquired about pathways to advanced degrees through professional courses. These questions represented critical decision points where students needed clear guidance about their educational options and eligibility.",
-          "consultant_response": "The consultant demonstrated strong knowledge and clarity in explaining program requirements. For advanced programs, they specified: 'You would need an APAC accredited degree to get into that bridging course... three years of relevant work experience with two references.' This direct and informative approach helped students understand their eligibility and options.",
+          "student_trigger": "Students expressed desires to transition careers or explore new professional pathways. The primary example stated: 'I was looking to kind of sidestep a little bit, and thought that project management might help.' Supporting examples showed similar patterns of career exploration needs, creating opportunities for collaborative career planning.",
+          "consultant_response": "Consultants effectively engaged with career transition goals by exploring program alignment and providing relevant course information while maintaining appropriate pre-enrollment boundaries. This balanced approach demonstrated understanding of career objectives while creating clear pathways forward, helping students visualize their career progression through education.",
           "priority": "high",
-          "recommended_approach": "While the responses were effective in providing clear information, they could be enhanced by first acknowledging the students' goals and exploring their backgrounds collaboratively: 'I understand you're interested in advancing your studies. Could you tell me more about your current qualifications and what you're hoping to achieve? This will help us identify the best pathway for you.' This approach would maintain the clarity while creating a more personalized discussion."
+          "recommended_approach": "To further enhance this strong foundation, consultants should: 1) Share specific examples of successful career transitions from similar backgrounds, 2) Create clear pathway maps showing course-career alignment, 3) Establish milestone check-points for career planning, 4) Provide relevant industry insights while maintaining appropriate boundaries, 5) Maintain focus on achievable career progression steps through education."
         },
         {
           "id": 3,
-          "title": "Flexible Study Options Support",
-          "type": "positive",
+          "title": "Financial Support Navigation",
+          "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "88",
-              "timestamp": null
+              "call_id": "593869703395",
+              "segment_id": "148",
+              "timestamp": "25:45"
             },
             "supporting_calls": [
               {
-                "call_id": "Call 1",
-                "segment_id": "60",
-                "timestamp": "10:00"
+                "call_id": "593778220432",
+                "segment_id": "48",
+                "timestamp": "11:45"
               }
             ]
           },
-          "student_trigger": "Students across multiple calls expressed concerns about balancing work commitments with study requirements. The primary example highlighted challenges with shift work scheduling, while supporting cases demonstrated similar needs for flexibility in course delivery and assessment completion.",
-          "consultant_response": "Consultants demonstrated strong collaborative planning by proactively addressing flexibility concerns and exploring suitable study options. The primary response effectively acknowledged the challenge while offering solutions: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster.' Supporting examples showed similar proactive approaches to discussing online learning opportunities and flexible assessment arrangements.",
+          "student_trigger": "Multiple students expressed need for financial support information, with direct requests for scholarship and financial assistance options. This pattern indicated a critical need for comprehensive financial planning support, with students seeking clarity on managing educational investments.",
+          "consultant_response": "Consultants typically defaulted to basic advisor referrals without engaging in meaningful financial planning discussions: 'The student advisors will be the ones to talk to you about scholarships.' This approach missed opportunities for immediate support and collaborative financial planning, potentially leaving students uncertain about their financial pathway.",
           "priority": "high",
-          "recommended_approach": "Best practice in these situations includes: 1) Validating work-life balance concerns, 2) Exploring specific scheduling challenges, 3) Presenting multiple flexibility options, 4) Sharing successful student examples, and 5) Creating individualized study plans that accommodate work commitments. Additional enhancement could include providing specific examples of how other working students have successfully managed similar challenges."
+          "recommended_approach": "Consultants should enhance financial support discussions by: 1) Providing immediate overview of available scholarship types and financial options, 2) Exploring specific financial needs and concerns in detail, 3) Creating preliminary financial plans while awaiting advisor input, 4) Establishing clear follow-up processes for financial planning, 5) Ensuring students feel supported throughout the financial planning process with concrete next steps."
         },
         {
           "id": 4,
-          "title": "Clear Psychology Registration Guidance",
-          "type": "positive",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Solomon_Call",
-              "segment_id": "71",
-              "timestamp": "5:51"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "At 5:51 into the call (segment 71), the student asked: 'The other question is, would the graduate diploma be enough to allow me to register with the Psychology Association.' This inquiry demonstrated careful consideration of their career pathway and qualification requirements.",
-          "consultant_response": "The consultant provided clear, direct information about registration requirements, stating: 'No, you wouldn't be able to become a fully registered psychologist.' This honest and straightforward approach helped set accurate expectations while maintaining the student's engagement in exploring their career pathway.",
-          "priority": "high",
-          "recommended_approach": "To enhance this interaction, the consultant should first acknowledge the importance of the question: 'That's an excellent question about registration requirements.' Then explore the student's specific career goals: 'Could you tell me more about your career aspirations in psychology?' Finally, outline the complete qualification pathway: 'Let me explain the steps needed for full registration and how our programs can support your journey.'"
-        },
-        {
-          "id": 5,
-          "title": "Effective Study Format Discussion",
-          "type": "positive",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "591330759172_1984",
-              "segment_id": "21",
-              "timestamp": null
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "The student inquired about flexibility between study formats: 'If I do online for a while and then I decide like a year into it, I want to do class-based, is that a possibility?' This question revealed the student's need for adaptable learning options and demonstrated forward thinking about their educational journey.",
-          "consultant_response": "The consultant provided a clear and comprehensive explanation of the available options: 'It's potential, yeah, so you could study online and then potentially have to withdraw from the online course and enroll on campus, applying for credit for the units you've completed.' This response effectively addressed the student's need for flexibility while maintaining transparency about the process involved.",
-          "priority": "high",
-          "recommended_approach": "The consultant's handling of this inquiry was effective and aligned well with collaborative planning principles. To further enhance this type of response, consider adding: 'Let's discuss your current situation and what might influence your study mode preferences in the future. This will help us plan the most flexible pathway for you.' This additional layer of exploration would strengthen the collaborative nature of the planning process."
-        },
-        {
-          "id": 6,
-          "title": "Missed Career Transition Support",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "591330759172_1983",
-              "segment_id": "80",
-              "timestamp": null
-            },
-            "supporting_calls": [
-              {
-                "call_id": "Call 3",
-                "segment_id": "46",
-                "timestamp": "7:45"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed significant career transition aspirations, including career changes after 20+ years and desires for leadership development. These moments presented crucial opportunities for meaningful career exploration and educational alignment.",
-          "consultant_response": "Consultants focused primarily on logistics without exploring career goals or creating transition plans. The primary response: 'Yeah, of course. And want to make sure that it's going to work logistically for everyone' missed the opportunity to engage in deeper career planning discussions.",
-          "priority": "high",
-          "recommended_approach": "A more effective approach would begin with: 'A career transition is a significant step, and it's great that you're considering how education can support this change. Could you tell me more about what's driving this decision?' Then: 1) Explore specific career goals, 2) Discuss how existing experience adds value, 3) Present various educational pathways, 4) Create detailed transition plans, and 5) Outline available support services."
-        },
-        {
-          "id": 7,
-          "title": "Insufficient Academic Confidence Building",
+          "title": "Timeline Planning Enhancement",
           "type": "improvement",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "Call_3",
-              "segment_id": "23",
-              "timestamp": "3:00"
+              "call_id": "593777718389",
+              "segment_id": "40",
+              "timestamp": "7:40"
             },
             "supporting_calls": []
           },
-          "student_trigger": "At segment 23, the student revealed significant anxiety about their academic preparedness, stating 'So to be honest, I've never really studied at a university level.' This admission demonstrated vulnerability and uncertainty about their ability to succeed in higher education.",
-          "consultant_response": "The consultant focused primarily on work experience requirements without addressing the underlying concerns about academic readiness. While this validated their qualifications, it missed the opportunity to explore and address their anxieties about university-level study.",
+          "student_trigger": "When discussing potential start dates, the student indicated clear urgency: 'I think as soon as I can would be good.' This response suggested both motivation and potential time sensitivity that warranted deeper exploration to understand the driving factors behind their timeline preference.",
+          "consultant_response": "The consultant missed a crucial opportunity for collaborative planning by not exploring the underlying motivations and specific timeline needs. The response lacked engagement with the student's sense of urgency and failed to create a clear action plan for enrollment timing.",
           "priority": "high",
-          "recommended_approach": "An effective approach would begin with acknowledging the student's feelings: 'I understand that transitioning into university-level study can be daunting. Let's address any concerns you have.' The consultant should then explore specific concerns, discuss available support services, and create a concrete plan for accessing academic support resources."
-        },
-        {
-          "id": 8,
-          "title": "Missed Alternative Pathway Guidance",
-          "type": "improvement",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "CALL004",
-              "segment_id": "45",
-              "timestamp": "7:36"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "At 7:36 into the call, the parent inquired about alternative university entry pathways: 'What other avenues can she take to get into a university?' This represented a critical need for guidance and support in exploring educational options.",
-          "consultant_response": "The consultant provided a limited response: 'Yeah, honestly, I can't speak for the undergraduate courses because they're not the ones we cover.' This missed a significant opportunity to engage in meaningful discussion about available pathways.",
-          "priority": "high",
-          "recommended_approach": "A more collaborative approach would begin with: 'I understand your interest in exploring all possible university entry paths. While I can't speak directly about undergraduate admissions, I can help you understand the various pathways available.' Then: 1) Explore specific areas of interest, 2) Discuss alternative entry options, 3) Outline bridging programs, and 4) Create an action plan for exploring each potential pathway."
-        },
-        {
-          "id": 9,
-          "title": "Insufficient English Language Support",
-          "type": "improvement",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Language_Eligibility_Call",
-              "segment_id": "78",
-              "timestamp": "12:58"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "The student explicitly expressed concerns about their English proficiency: 'I'm a bit confusing about my eligibility and then my English level also.' This statement revealed both academic and language-related anxieties that needed addressing.",
-          "consultant_response": "The consultant's response focused primarily on document review without addressing the immediate concerns about English language proficiency. This approach missed an opportunity to provide immediate guidance about language requirements and available support services.",
-          "priority": "high",
-          "recommended_approach": "A more effective approach would begin with: 'Thank you for being open about your English language concerns. Let me explain our English requirements and the support we offer.' The consultant should then outline specific requirements, discuss available language support services, explain pre-program preparation options, and detail ongoing support throughout studies."
-        },
-        {
-          "id": 10,
-          "title": "Inadequate Outdated Qualifications Discussion",
-          "type": "improvement",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "HR_Research_Call",
-              "segment_id": "34",
-              "timestamp": "6:00"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "The student expressed significant concern about their outdated qualifications: 'my studies are too old now or not relevant.' This revealed anxiety about qualification currency affecting their enrollment eligibility.",
-          "consultant_response": "The consultant provided basic program requirements without addressing the specific concerns about outdated qualifications. This missed an opportunity to explore recognition of prior learning options and alternative pathways.",
-          "priority": "high",
-          "recommended_approach": "An effective response should acknowledge the concern about dated qualifications, discuss recognition of prior learning options, explore alternative pathways, and highlight how work experience could complement or supersede older qualifications. The consultant should create a clear plan for qualification assessment and pathway planning."
+          "recommended_approach": "To demonstrate effective collaborative planning, consultants should: 1) Acknowledge the urgency: 'I understand you're keen to begin your studies quickly', 2) Explore motivations: 'Can you tell me more about what's driving your timeline?', 3) Present specific options: 'Let me outline our upcoming intake dates and what each would mean for your goals', 4) Create an action plan: 'Based on your needs, let's map out the steps to get you started in your preferred intake.'"
         }
       ]
     }

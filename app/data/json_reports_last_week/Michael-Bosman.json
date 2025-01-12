@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 10,
+    "date_range": "12-30_01-03",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 130,
+  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 25,
+    "team_average_absolute_number": 20.636363636363637
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.230769230769234,
+    "team_average_percentage": 22.487986165053538
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 105,
+    "team_average_absolute_number": 58.09090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.76923076923077,
+    "team_average_percentage": 50.23928656221919
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.01891533173735,
+    "team_average": 51.07068109184601
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 105,
+    "team_total_excluded_transcripts": 639
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 123.65,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.46,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 155.8,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.0,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 185.93,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.68,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Flexible Study Solutions",
+        "explanation": "Effectively presenting and adapting program options to accommodate diverse student circumstances and schedules"
+      },
+      {
+        "headline": "Strategic Timeline Planning",
+        "explanation": "Creating customized enrollment and study plans that account for visa requirements and personal circumstances"
+      },
+      {
+        "headline": "Career-Aligned Planning",
+        "explanation": "Developing educational pathways that directly connect with students' professional goals and aspirations"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Proactive Need Exploration",
+        "explanation": "Need for deeper investigation of student circumstances and goals before presenting solutions"
+      },
+      {
+        "headline": "Enhanced Support Integration",
+        "explanation": "More comprehensive incorporation of support services and resources in planning discussions"
+      },
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "Opportunity to develop more detailed strategies for managing study alongside work commitments"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Visa-Sensitive Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_2",
+              "segment_id": "88",
+              "timestamp": "12:46"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about permanent residency application timing and visa uncertainty.",
+          "consultant_response": "Offered flexible solution: 'we'll be starting in July, teaching period four... I might put this one on hold for you and then once you get your new visa, send that through.'",
+          "context_impact": "Visa timeline constraints creating enrollment pressure.",
+          "recommended_approach": "Could provide interim support resources during visa processing period."
+        },
+        {
+          "id": 2,
+          "title": "Effective Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest in police force career pathway.",
+          "consultant_response": "Identified relevant program: 'Yes, I guess we do have a course that kind of came about a bit earlier this year. It's called the Undergraduate Certificate of Criminal Justice and Criminology.'",
+          "context_impact": "Critical moment to align educational planning with career goals.",
+          "recommended_approach": "Could explore specific police force requirements more deeply."
+        },
+        {
+          "id": 3,
+          "title": "Limited Initial Need Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "6",
+              "timestamp": "00:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about enrollment options.",
+          "consultant_response": "Immediately transferred to advisors without exploring needs.",
+          "context_impact": "Missed opportunity for early engagement and support.",
+          "recommended_approach": "Should investigate student needs before transfer and provide initial guidance."
+        },
+        {
+          "id": 4,
+          "title": "Empathetic Personal Circumstance Response",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1982",
+              "segment_id": "45",
+              "timestamp": "07:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared significant personal challenges affecting their studies.",
+          "consultant_response": "Expressed empathy and outlined flexible support options.",
+          "context_impact": "Critical moment requiring sensitive handling and support.",
+          "recommended_approach": "None needed - exemplary handling of sensitive situation."
+        },
+        {
+          "id": 5,
+          "title": "Professional Experience Recognition",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Executive-level student seeking program options.",
+          "consultant_response": "Focused on basic study modes rather than experience recognition.",
+          "context_impact": "Opportunity to leverage professional experience for admission.",
+          "recommended_approach": "Should explore recognition of prior learning and alternative entry paths."
+        },
+        {
+          "id": 6,
+          "title": "Limited Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "56",
+              "timestamp": "10:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "176",
+                "timestamp": "24:40"
+              }
+            ]
+          },
+          "student_trigger": "Full-time working student sought clarity on study time commitments.",
+          "consultant_response": "Provided basic weekly hour guidelines without exploring specific strategies.",
+          "context_impact": "Balance concerns could impact enrollment decision.",
+          "recommended_approach": "Should develop personalized study plan considering work commitments."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Visa-Sensitive Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_2",
+              "segment_id": "88",
+              "timestamp": "12:46"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 88 (12:46), the student expressed significant concern about visa timing: 'because in March 17 I need to launch my permanent residency and we are not sure when our visa will be granted.' This revealed both anxiety about enrollment timing and need for flexible planning around immigration requirements.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by offering a practical solution that accommodated visa uncertainty: 'we'll be starting in July, teaching period four... I might put this one on hold for you and then once you get your new visa, send that through.' This approach effectively balanced maintaining enrollment momentum while respecting visa timing constraints.",
+          "priority": "high",
+          "recommended_approach": "While the response was strong, enhancement opportunities include: 1) Providing interim program resources during the visa waiting period, 2) Scheduling regular check-ins for visa status updates, 3) Creating a clear timeline of enrollment steps aligned with visa processing, 4) Offering to connect with international student support services, and 5) Documenting specific next steps for both visa and enrollment processes."
+        },
+        {
+          "id": 2,
+          "title": "Effective Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 19, the student expressed: 'I'm looking for an online course, I'm not sure if I want to do the whole course or just some selected subjects because I'm to join the police force next year.' This statement revealed both immediate educational interests and future career aspirations, presenting a crucial opportunity for collaborative planning that could significantly impact enrollment decisions.",
+          "consultant_response": "The consultant responded with a targeted solution: 'Yes, I guess we do have a course that kind of came about a bit earlier this year. It's called the Undergraduate Certificate of Criminal Justice and Criminology... this will go towards that as well.' This approach demonstrated understanding of the student's need for flexibility while maintaining focus on their career goals.",
+          "priority": "high",
+          "recommended_approach": "To enhance this interaction, the consultant could: 1) Acknowledge the career goal more explicitly, 2) Explore specific police force entry requirements, 3) Create a timeline aligning study with career progression, 4) Discuss how each subject supports police force preparation, and 5) Establish regular check-ins to monitor progress toward both educational and career goals."
+        },
+        {
+          "id": 3,
+          "title": "Limited Initial Need Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "call_4",
+              "segment_id": "6",
+              "timestamp": "00:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 6 (00:22), student expressed uncertainty about options: 'I was just sort of wondering what my options are because I wasn't enrolled in any subjects.' This represented a crucial moment for establishing support and understanding student needs.",
+          "consultant_response": "Consultant immediately proceeded with transfer: 'What I might need to do is put you through to our student advisors.' This procedural response missed the opportunity to engage with the student's needs and demonstrate commitment to support.",
+          "priority": "high",
+          "recommended_approach": "An effective approach should: 1) Acknowledge uncertainty and express willingness to help, 2) Explore specific concerns and circumstances before transfer, 3) Provide initial guidance about available options, 4) Ensure warm handover to student advisors with context about student's situation, and 5) Follow up to confirm student received needed support."
+        },
+        {
+          "id": 4,
+          "title": "Empathetic Personal Circumstance Response",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1982",
+              "segment_id": "45",
+              "timestamp": "07:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 7:25 into the call (segment 45), the student revealed significant personal challenges: 'There's some circumstances here hindered me like my husband died my little kid.' This disclosure required sensitive handling and supportive planning.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by responding with empathy and understanding: 'I'm so sorry to hear that you've had to deal with such difficulties' and proceeded to outline flexible support options available. This approach created a safe space while maintaining focus on practical educational planning.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach was exemplary and could be further supported by: 1) Documenting specific support arrangements agreed upon, 2) Scheduling regular check-ins to monitor progress, 3) Creating clear communication channels for ongoing support, 4) Connecting with relevant support services, and 5) Ensuring all team members are aware of required flexibility."
+        },
+        {
+          "id": 5,
+          "title": "Professional Experience Recognition",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about lacking traditional qualifications despite extensive executive experience as a global CEO. This presented a crucial opportunity to demonstrate how significant professional experience could support their academic aspirations.",
+          "consultant_response": "The consultant focused primarily on discussing study modes rather than addressing how the student's significant professional experience could be leveraged for admission. This missed the opportunity to explore alternative entry pathways or recognition of prior learning options that could benefit the student.",
+          "priority": "high",
+          "recommended_approach": "An effective approach would begin with strong acknowledgment of their professional achievements and then: 1) Explore specific aspects of their executive experience, 2) Discuss recognition of prior learning opportunities, 3) Outline alternative entry pathways, 4) Share success stories of similar professionals, and 5) Create a clear action plan leveraging their experience."
+        },
+        {
+          "id": 6,
+          "title": "Limited Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "56",
+              "timestamp": "10:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "176",
+                "timestamp": "24:40"
+              }
+            ]
+          },
+          "student_trigger": "Working student expressed significant concern about balancing commitments: 'I'm working full-time and I've got a life outside and I'm just trying to get the clearest possible idea I can in terms of the actual input from me in terms of hours.' Later followed up seeking flexibility options if balance proved difficult.",
+          "consultant_response": "Provided basic weekly hour guidelines (15-25 hours) without exploring specific scheduling strategies or developing personalized solutions for work-life balance. This surface-level response missed the opportunity for meaningful collaborative planning.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Explore specific work patterns and available study times, 2) Discuss energy management and productivity preferences, 3) Create concrete strategies for managing peak work periods, 4) Outline available flexibility options and support resources, and 5) Schedule regular check-ins to assess and adjust the plan."
+        }
+      ]
+    }
+  }
+}

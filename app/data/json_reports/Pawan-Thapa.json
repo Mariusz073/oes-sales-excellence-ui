@@ -1,47 +1,333 @@
 {
   "metadata": {
     "consultant_name": "Pawan Thapa",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 0,
-  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "total_number_of_calls": 206,
+  "team_average_total_number_of_calls_per_sales_consultant": 190.27272727272728,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 20.636363636363637
+    "absolute_number": 64,
+    "team_average_absolute_number": 47.81818181818182
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 22.487986165053538
+    "percentage": 31.06796116504854,
+    "team_average_percentage": 27.97747921684568
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 58.09090909090909
+    "absolute_number": 142,
+    "team_average_absolute_number": 142.45454545454547
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 50.23928656221919
+    "percentage": 68.93203883495146,
+    "team_average_percentage": 62.93161169224523
   },
   "average_talking_percentage": {
-    "individual_average": null,
-    "team_average": 51.07068109184601
+    "individual_average": 51.49985166214891,
+    "team_average": 50.24181666108455
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 0,
-    "team_total_excluded_transcripts": 639
+    "individual_excluded_transcripts": 142,
+    "team_total_excluded_transcripts": 1567
   },
-  "behavioral_scores": [],
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 128.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.78,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    }
+  ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Consultants excel at connecting student career aspirations with educational pathways while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Proactive Schedule Accommodation",
+        "explanation": "Strong demonstration of adapting program timing to student commitments while providing specific, actionable options"
+      },
+      {
+        "headline": "Clear Process Navigation",
+        "explanation": "Effective communication of enrollment processes and timelines that builds student confidence in decision-making"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Financial Planning Support",
+        "explanation": "Need for more comprehensive exploration of payment options and financial support mechanisms during enrollment discussions"
+      },
+      {
+        "headline": "Deeper Personal Circumstance Exploration",
+        "explanation": "Required more thorough understanding of individual student situations before providing educational guidance"
+      },
+      {
+        "headline": "Comprehensive Support Integration",
+        "explanation": "Opportunity to better incorporate available support mechanisms when addressing student concerns and planning needs"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863678457",
+              "segment_id": "22",
+              "timestamp": "3:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021420839",
+                "segment_id": "136",
+                "timestamp": null
+              },
+              {
+                "call_id": "593778205565",
+                "segment_id": "22",
+                "timestamp": "5:35"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on career transitions and pathway options, particularly from business backgrounds into psychology and related fields.",
+          "consultant_response": "Consultants effectively validated career transitions while maintaining appropriate boundaries, providing relevant examples and clear pathways forward.",
+          "context_impact": "Clear career transition guidance crucial for student confidence in program selection.",
+          "recommended_approach": "Could enhance by creating more detailed pathway mapping from previous experience to new career goals."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Schedule Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593786165644",
+              "segment_id": "9",
+              "timestamp": "00:09"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593870336447",
+                "segment_id": "48",
+                "timestamp": "9:49"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing specific timing concerns around work commitments and holiday plans.",
+          "consultant_response": "Consultants provided comprehensive scheduling options with specific dates and durations: 'Teaching period 3, starting on the 5th of May, finishing on the 13th of June... June intake, starts on the 30th of June.'",
+          "context_impact": "Clear timing options increased student confidence in program compatibility.",
+          "recommended_approach": "None needed - excellent demonstration of collaborative planning."
+        },
+        {
+          "id": 3,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593777618211",
+              "segment_id": "72",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021035827",
+                "segment_id": "133",
+                "timestamp": "19:00"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on program costs: 'How much fees are supposed to be paid and whether or not there are payments plans.'",
+          "consultant_response": "Basic fee statements without exploring circumstances: 'The cost per unit is $4637.50. You just pay one unit at a time.'",
+          "context_impact": "Financial uncertainty creating potential barriers to enrollment decisions.",
+          "recommended_approach": "Should provide detailed overview of payment options and develop personalized financial planning strategies."
+        },
+        {
+          "id": 4,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644651915",
+              "segment_id": "28",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778313911",
+                "segment_id": "38",
+                "timestamp": "5:05"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing support needs: 'I wonder my English not enough for the psychology course.'",
+          "consultant_response": "Basic referrals provided without comprehensive exploration of support options or creating clear support plans.",
+          "context_impact": "Limited support discussion may reduce student confidence in program accessibility.",
+          "recommended_approach": "Should provide structured overview of available support services while maintaining pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Effective Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863819922",
+                "segment_id": "117",
+                "timestamp": "15:33"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on enrollment processes: 'So, I just want to confirm like last time that I get enrolled automatically.'",
+          "consultant_response": "Provided immediate clarity: 'No, no, no, it'll be allocated to you automatically,' followed by clear process steps and timelines.",
+          "context_impact": "Clear process understanding essential for enrollment confidence and commitment.",
+          "recommended_approach": "Could enhance by creating more detailed milestone planning aligned with individual circumstances."
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863678457",
+              "segment_id": "22",
+              "timestamp": "3:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021420839",
+                "segment_id": "136",
+                "timestamp": null
+              },
+              {
+                "call_id": "593778205565",
+                "segment_id": "22",
+                "timestamp": "5:35"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed interest in career transitions, particularly from business backgrounds into psychology-related fields. Key examples included statements like: 'I've always had a passion for psychology. As a matter of fact, I went through a more international business bachelor's degree.' These disclosures revealed both career aspirations and potential concerns about transition feasibility.",
+          "consultant_response": "Consultants demonstrated excellence in collaborative planning by validating career transitions while maintaining appropriate guidance boundaries. They effectively shared relevant examples: 'We have students from marketing and IT looking to psychology... already had a passion for it,' making transitions feel achievable while avoiding overly specific career advice. Supporting responses provided clear career guidance within pre-enrollment limits, such as explaining potential work opportunities while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "To optimize career transition support, consultants should: 1) Validate career change aspirations immediately, 2) Share relevant success stories while maintaining appropriate boundaries, 3) Create clear educational pathways aligned with career goals, 4) Connect program features to transition requirements, and 5) Reference post-enrollment career support services when appropriate. Additionally, create structured transition plans that acknowledge existing skills while focusing on educational pathways."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Schedule Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593786165644",
+              "segment_id": "9",
+              "timestamp": "00:09"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593870336447",
+                "segment_id": "48",
+                "timestamp": "9:49"
+              }
+            ]
+          },
+          "student_trigger": "At segment 9, the student expressed specific timing concerns: 'I just want to know when the best starting date... because I've got two holiday plans for this year.' This demonstrated clear planning needs and readiness to discuss scheduling options. Supporting examples showed similar patterns with work commitments and personal schedules requiring accommodation.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by providing comprehensive timing options: 'Teaching period 3, starting on the 5th of May, finishing on the 13th of June... June intake, starts on the 30th of June and finishes on the 8th of August.' This detailed response effectively addressed student concerns by outlining specific dates and durations. The approach balanced program requirements with student needs while maintaining a supportive and solution-focused tone.",
+          "priority": "High",
+          "recommended_approach": "This interaction exemplifies best practices in collaborative planning. Consultants should: 1) Acknowledge specific scheduling concerns immediately, 2) Provide multiple intake options with exact dates and durations, 3) Present information in a clear, structured manner that allows students to visualize how the program fits their commitments, 4) Maintain a supportive tone while delivering practical solutions, and 5) Create clear decision-making timelines aligned with student needs."
+        },
+        {
+          "id": 3,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593777618211",
+              "segment_id": "72",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021035827",
+                "segment_id": "133",
+                "timestamp": "19:00"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on financial aspects, with direct questions like: 'How much fees are supposed to be paid and whether or not there are payments plans.' These inquiries indicated readiness to engage in detailed financial planning discussions and need for clarity about financial commitments. Supporting examples showed similar patterns of students seeking to understand payment options and financial support availability.",
+          "consultant_response": "Consultants typically provided basic fee information without exploring payment options or creating comprehensive financial plans. Responses focused on stating costs: 'The cost per unit is $4637.50. You just pay one unit at a time' without engaging in meaningful financial planning discussions or addressing potential financial barriers to enrollment. This approach missed opportunities to build student confidence through detailed financial planning.",
+          "priority": "High",
+          "recommended_approach": "To enhance financial planning discussions, consultants should: 1) Begin by acknowledging the importance of financial clarity, 2) Explore specific financial circumstances appropriately, 3) Provide comprehensive overview of payment options and plans, 4) Create clear financial planning timelines, 5) Reference financial support services when appropriate, and 6) Maintain focus on enrollment while ensuring financial confidence. Example approach: 'Let's explore the payment options available and create a plan that aligns with your circumstances. Would you like to start with understanding our payment plans or scholarship opportunities?'"
+        },
+        {
+          "id": 4,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644651915",
+              "segment_id": "28",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778313911",
+                "segment_id": "38",
+                "timestamp": "5:05"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed various support needs, with primary example stating: 'I wonder my English not enough for the psychology course.' These moments revealed significant anxiety about program preparedness and need for support service awareness. Supporting examples showed similar patterns of students seeking clarity on available assistance.",
+          "consultant_response": "Consultants typically defaulted to basic referrals without comprehensive exploration of support options or creating clear support plans. These responses missed opportunities to build student confidence through detailed explanation of available assistance while maintaining appropriate pre-enrollment boundaries. The approach failed to address underlying concerns about program accessibility.",
+          "priority": "High",
+          "recommended_approach": "An enhanced support service discussion should: 1) Acknowledge specific support needs explicitly, 2) Provide structured overview of relevant support services, 3) Explain access procedures clearly, 4) Connect support services to student success, 5) Maintain enrollment focus while demonstrating support commitment, and 6) Create clear next steps for accessing assistance. Example approach: 'I understand your concern about language support. Let me outline the various support services available to our students, including language assistance and academic support resources.'"
+        },
+        {
+          "id": 5,
+          "title": "Effective Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593863819922",
+                "segment_id": "117",
+                "timestamp": "15:33"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on enrollment processes, with one asking: 'So, I just want to confirm like last time that I get enrolled automatically.' This revealed both previous experience with enrollment processes and need for clear guidance. Supporting examples showed similar patterns of students seeking process understanding and timeline clarity.",
+          "consultant_response": "Consultants provided clear, step-by-step guidance through enrollment processes while maintaining momentum. Responses included immediate clarity: 'No, no, no, it'll be allocated to you automatically' followed by specific process steps and timelines. This approach effectively addressed immediate concerns while creating clear next steps and maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "To optimize process navigation, consultants should: 1) Acknowledge student's current understanding level, 2) Provide clear, structured process explanations, 3) Create specific timelines aligned with student circumstances, 4) Outline support available at each step, 5) Maintain momentum while ensuring comprehension, and 6) Set clear expectations for next steps. Example approach: 'Let's map out the enrollment process together, considering your timeline and circumstances. I'll guide you through each step to ensure you're comfortable with the process.'"
+        }
+      ]
     }
   }
 }

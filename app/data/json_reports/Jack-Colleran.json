@@ -1,47 +1,311 @@
 {
   "metadata": {
     "consultant_name": "Jack Colleran",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 0,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 127,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 35,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 27.559055118110237,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 92,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 72.44094488188976,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": null,
-    "team_average": 51.280019574376695
+    "individual_average": 52.02458223664876,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 0,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 92,
+    "team_total_excluded_transcripts": 2625
   },
-  "behavioral_scores": [],
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    }
+  ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Career-Aligned Educational Planning",
+        "explanation": "Consultants effectively guide students through pathways that align with professional goals while validating career aspirations"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong collaborative approach to developing personalized study arrangements that accommodate work and life commitments"
+      },
+      {
+        "headline": "Proactive Solution Development",
+        "explanation": "Consultants excel at identifying and presenting viable alternatives when challenges arise during educational planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Financial Planning",
+        "explanation": "More comprehensive collaborative discussions needed around financial options and payment planning strategies"
+      },
+      {
+        "headline": "Career Integration Depth",
+        "explanation": "Greater emphasis required on exploring specific career aspirations before presenting educational solutions"
+      },
+      {
+        "headline": "Support Framework Integration",
+        "explanation": "Better incorporation needed of available support mechanisms when developing collaborative study plans"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career-Aligned Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593946854306",
+              "segment_id": "6",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593869625191",
+                "segment_id": "18",
+                "timestamp": "3:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career goals, with one stating: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.'",
+          "consultant_response": "Consultants effectively explored pathways: 'Let's explore different pathways to reach your goal - there might be multiple routes available.'",
+          "context_impact": "Clear career goals created opportunity for meaningful collaborative planning.",
+          "recommended_approach": "None needed - exemplary collaborative career planning."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870168030",
+              "segment_id": "68",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593946569545",
+                "segment_id": "41",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed needs for balancing work commitments with study requirements.",
+          "consultant_response": "Consultants provided clear options: 'You can pick anywhere between one and four units each teaching period... it's completely up to yourself.'",
+          "context_impact": "Detailed flexibility options increased student confidence in program manageability.",
+          "recommended_approach": "None needed - strong demonstration of collaborative planning."
+        },
+        {
+          "id": 3,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864016591",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593869594318",
+                "segment_id": "26",
+                "timestamp": "5:26"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed significant concerns about program costs: 'I'm just struggling with like how I'm going to pay for it.'",
+          "consultant_response": "Limited guidance provided, focusing on cost comparisons rather than comprehensive financial planning.",
+          "context_impact": "Unaddressed financial concerns created potential enrollment barriers.",
+          "recommended_approach": "Should proactively discuss available financial support options and create collaborative payment plans."
+        },
+        {
+          "id": 4,
+          "title": "Alternative Pathway Solutions",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864067417",
+              "segment_id": "87",
+              "timestamp": "14:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student encountered barrier with five-year leadership experience requirement.",
+          "consultant_response": "Consultant immediately offered viable solution: 'However, if you contact our campus, you may be eligible there.'",
+          "context_impact": "Swift identification of alternative pathway prevented potential loss of enrollment opportunity.",
+          "recommended_approach": "None needed - excellent example of proactive solution development."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870403061",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594020915058",
+                "segment_id": "26",
+                "timestamp": "5:30"
+              }
+            ]
+          },
+          "student_trigger": "Students sought understanding of career implications: 'How would that look like for me, like if I tried to apply for a job?'",
+          "consultant_response": "Surface-level responses provided without deeper career alignment discussion.",
+          "context_impact": "Limited career exploration reduced student confidence in program value.",
+          "recommended_approach": "Should explore specific career aspirations and align course choices with professional goals."
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career-Aligned Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593946854306",
+              "segment_id": "6",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593869625191",
+                "segment_id": "18",
+                "timestamp": "3:30"
+              }
+            ]
+          },
+          "student_trigger": "At segment 6, multiple students articulated clear educational and career goals, with one stating: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' These statements revealed both career aspirations and desire for efficiency, creating ideal opportunities for collaborative pathway planning that could significantly impact enrollment decisions.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning skills by responding with inclusive language and multiple options: 'Let's explore different pathways to reach your goal - there might be multiple routes available.' This approach effectively validated student goals while creating open dialogue about possibilities. The consistent use of collaborative language positioned consultants as partners in the planning process, encouraging active student engagement in decision-making.",
+          "priority": "High",
+          "recommended_approach": "This interaction serves as a model for collaborative planning. Consultants should: 1) Validate student goals explicitly, 2) Use inclusive language that positions them as partners in the planning process, 3) Acknowledge multiple pathway possibilities, 4) Demonstrate willingness to explore options collaboratively, and 5) Create clear connections between student aspirations and available educational routes."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870168030",
+              "segment_id": "68",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593946569545",
+                "segment_id": "41",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing work commitments with study requirements: 'I'm working full-time, like I'm working all five days, so is it possible to do like part-time?' These interactions demonstrated clear need for flexible study options and collaborative planning to ensure program manageability. The students' proactive inquiries about flexibility showed their readiness to engage in detailed planning discussions.",
+          "consultant_response": "Consultants consistently demonstrated strong collaborative planning skills by providing comprehensive explanations of flexible study options: 'You can pick anywhere between one and four units each teaching period, except for your first teaching period, it's between one and three. So it's completely up to yourself about how many units you'd like to go forward with.' This approach effectively addressed student concerns while emphasizing their autonomy in choosing study loads that fit their circumstances.",
+          "priority": "High",
+          "recommended_approach": "The approach effectively balances information delivery with student empowerment. To enhance further: 1) Explore specific work patterns to suggest optimal unit combinations, 2) Share examples of successful study patterns from similar students, 3) Develop preliminary study plans aligned with individual circumstances, 4) Discuss potential adjustment strategies as circumstances change, and 5) Create clear checkpoints for reviewing and adjusting study load."
+        },
+        {
+          "id": 3,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864016591",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593869594318",
+                "segment_id": "26",
+                "timestamp": "5:26"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant financial concerns, with one stating: 'I'm just struggling with like how I'm going to pay for it.' These moments represented critical opportunities for collaborative financial planning that could significantly impact enrollment confidence. The explicit expression of payment concerns indicated readiness for detailed financial discussions.",
+          "consultant_response": "Consultants typically provided minimal guidance, focusing on cost comparisons rather than comprehensive financial planning: 'No, so it's pretty much equivalent across the board.' This approach missed valuable opportunities to address immediate financial concerns and create concrete payment plans. The limited responses failed to demonstrate collaborative planning around financial solutions.",
+          "priority": "High",
+          "recommended_approach": "A more effective collaborative approach would: 1) Immediately acknowledge and validate financial concerns, 2) Explore specific payment options and financial aid opportunities, 3) Create a structured financial planning framework, 4) Outline clear next steps for financial planning, 5) Discuss scholarship opportunities and timelines, and 6) Establish follow-up points to review and adjust financial plans as needed."
+        },
+        {
+          "id": 4,
+          "title": "Alternative Pathway Solutions",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864067417",
+              "segment_id": "87",
+              "timestamp": "14:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At the 14:05 mark, the student encountered a significant barrier upon learning about the five-year leadership experience requirement. This moment represented a critical juncture where the student's educational journey could have ended without proper intervention. The requirement posed a substantial challenge that needed immediate addressing to maintain enrollment momentum.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by immediately identifying and presenting an alternative solution: 'However, if you contact our campus, you may be eligible there.' This response showcased multiple strengths: 1) Quick thinking in identifying an alternative pathway, 2) Maintaining positive engagement while being transparent about options, 3) Providing a concrete next step for the student to pursue. The approach effectively kept the enrollment conversation active while acknowledging current limitations.",
+          "priority": "High",
+          "recommended_approach": "To further enhance such interactions, consultants should: 1) First acknowledge the student's concern about the requirements, 2) Provide specific details about campus alternatives including any different requirements, 3) Offer to facilitate initial campus contact, 4) Outline clear expectations about the alternative pathway process, and 5) Create a follow-up plan to ensure student success in pursuing the campus option."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870403061",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594020915058",
+                "segment_id": "26",
+                "timestamp": "5:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought to understand the career implications of their course choices, with questions like 'How would that look like for me, like if I tried to apply for a job?' These inquiries demonstrated strong interest in aligning educational choices with career aspirations, presenting crucial opportunities for collaborative career planning that could significantly impact enrollment decisions.",
+          "consultant_response": "Consultants typically provided surface-level responses about the relative importance of majors versus minors without engaging in deeper exploration of career implications or professional goals. This approach missed valuable opportunities to demonstrate how course choices could enhance career prospects and failed to create meaningful dialogue about long-term professional planning.",
+          "priority": "High",
+          "recommended_approach": "To improve these interactions, consultants should: 1) Acknowledge the importance of career planning in educational decisions, 2) Explore specific career aspirations through targeted questions, 3) Connect course elements to concrete career outcomes, 4) Discuss how both major and minor choices can enhance employability, 5) Share examples of successful career transitions, and 6) Create opportunities for ongoing career-focused planning discussions."
+        }
+      ]
     }
   }
 }

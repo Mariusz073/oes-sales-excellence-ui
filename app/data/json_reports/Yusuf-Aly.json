@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Yusuf Aly",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 214,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 257,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 61,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 79,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 28.504672897196258,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 30.739299610894943,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 153,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 178,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 71.49532710280374,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 69.26070038910505,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": 48.5876587725569,
-    "team_average": 51.280019574376695
+    "individual_average": 53.53953367940489,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 153,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 178,
+    "team_total_excluded_transcripts": 2625
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 132.4,
       "team_average_final_ranking_score_eligible_transcripts": 178.81,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 226.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.47,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Effective Educational Pathway Planning",
-        "explanation": "Successfully guiding students through study options while considering their unique circumstances and goals"
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Consultants effectively connect educational pathways with career goals while maintaining appropriate guidance boundaries"
       },
       {
-        "headline": "Proactive Solution Presentation",
-        "explanation": "Taking initiative to present specific solutions that align with student needs and timelines"
+        "headline": "Proactive Support Integration",
+        "explanation": "Strong identification and connection of students to relevant support services and stakeholders throughout planning process"
       },
       {
-        "headline": "Strong Credit Recognition Support",
-        "explanation": "Clearly explaining credit transfer options while maintaining focus on academic progression"
+        "headline": "Flexible Study Option Planning",
+        "explanation": "Skilled adaptation of study pathways and workload recommendations based on individual circumstances and evidence-based success patterns"
       }
     ],
     "improvement": [
       {
-        "headline": "Enhanced Career Integration",
-        "explanation": "Need for deeper exploration of career goals when planning educational pathways"
+        "headline": "Enhanced Financial Planning",
+        "explanation": "Need for more comprehensive discussion of financial implications and funding options during pathway planning"
       },
       {
-        "headline": "Comprehensive Support Planning",
-        "explanation": "More thorough discussion needed of support services based on individual student needs"
+        "headline": "Long-term Engagement Strategy",
+        "explanation": "Opportunity to develop more structured planning and preparation guidance for extended enrollment timelines"
       },
       {
-        "headline": "Technology Confidence Building",
-        "explanation": "Better addressing student anxieties about technology through detailed support planning"
+        "headline": "Work-Life Integration Planning",
+        "explanation": "Required deeper exploration of practical strategies for balancing study commitments with work and personal responsibilities"
       }
     ]
   },
@@ -89,105 +96,69 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Cross-Institutional Study Planning",
+          "title": "Strategic Career-Education Alignment",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_1",
-              "segment_id": "18",
-              "timestamp": "02:18"
+              "call_id": "594020882653",
+              "segment_id": "38",
+              "timestamp": null
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593644891069",
+                "segment_id": "111",
+                "timestamp": "2:40"
+              }
+            ]
           },
-          "student_trigger": "Student studying law at Charles Sturt expressed need for contract law as cross-institutional study.",
-          "consultant_response": "Provided specific information about Contract Law availability starting March 10th and confirmed feasibility.",
-          "context_impact": "Immediate enrollment opportunity through addressing specific academic requirement.",
-          "recommended_approach": "None required - exemplary handling of situation."
+          "student_trigger": "Multiple students expressed sophisticated career goals: 'I think the best lawyers in the world, like a lot of them study psychology as well.'",
+          "consultant_response": "Consultants effectively connected interests to specific programs: 'So criminal justice and criminology is the best fit for you based on our conversations.'",
+          "context_impact": "Strategic alignment of career goals with educational pathways significantly enhanced student confidence",
+          "recommended_approach": "None needed - exemplary career-education planning"
         },
         {
           "id": 2,
-          "title": "Effective Credit Recognition Discussion",
+          "title": "Effective Study Load Planning",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_1",
-              "segment_id": "50",
-              "timestamp": null
+              "call_id": "593870266353",
+              "segment_id": "302",
+              "timestamp": "08:38"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593644826507",
+                "segment_id": "196",
+                "timestamp": "39:30"
+              }
+            ]
           },
-          "student_trigger": "Student sought guidance about potential pathways and credit recognition for previous studies.",
-          "consultant_response": "Clear explanation of credit transfer possibilities toward psychology degree.",
-          "context_impact": "Critical opportunity to address uncertainty about academic progression.",
-          "recommended_approach": "Could explore specific subjects of interest for detailed planning"
+          "student_trigger": "Students expressing workload concerns: 'I don't want to overwhelm myself because I will be working full-time.'",
+          "consultant_response": "Clear options with supporting data: 'Perfect that's a very wise choice I think two is probably the number that we see where our students have the most success.'",
+          "context_impact": "Evidence-based study load guidance increased student confidence in program manageability",
+          "recommended_approach": "Consider adding more specific work-study integration strategies"
         },
         {
           "id": 3,
-          "title": "Limited Career Change Support",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "unspecified",
-              "segment_id": "179",
-              "timestamp": "4:00"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "call_3",
-                "segment_id": "44",
-                "timestamp": "4:45"
-              }
-            ]
-          },
-          "student_trigger": "Students expressed career change motivations alongside personal interest.",
-          "consultant_response": "Focused on administrative details without exploring career aspirations.",
-          "context_impact": "Missed opportunity to align education with career goals.",
-          "recommended_approach": "Need deeper exploration of career goals and pathway alignment"
-        },
-        {
-          "id": 4,
-          "title": "Technology Support Planning Gap",
-          "type": "improvement",
+          "title": "Proactive Partner Inclusion",
+          "type": "positive",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1983",
-              "segment_id": "218",
-              "timestamp": "36:40"
+              "call_id": "593870128711",
+              "segment_id": "44",
+              "timestamp": "00:44"
             },
             "supporting_calls": []
           },
-          "student_trigger": "Student expressed significant technology anxiety: 'I've always been afraid of technology.'",
-          "consultant_response": "Provided basic reassurance without detailed support planning.",
-          "context_impact": "Technology fears could significantly impact online learning success.",
-          "recommended_approach": "Should develop comprehensive technology support plan and explore specific concerns."
-        },
-        {
-          "id": 5,
-          "title": "Effective Life Stage Consideration",
-          "type": "positive",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "call_2",
-              "segment_id": "74",
-              "timestamp": "12:55"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "call_2",
-                "segment_id": "87",
-                "timestamp": "13:10"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed concerns about age and family responsibilities.",
-          "consultant_response": "Provided specific degree options and costs while acknowledging life circumstances.",
-          "context_impact": "Critical moment for addressing mature student needs.",
-          "recommended_approach": "Could enhance with more flexible study options discussion"
+          "student_trigger": "Student identified partner's involvement in decision-making process",
+          "consultant_response": "Created inclusive communication: 'I'll include you both in that email about this particular course.'",
+          "context_impact": "Enhanced decision-making through effective stakeholder inclusion",
+          "recommended_approach": "None needed - exemplary stakeholder engagement"
         }
       ]
     },
@@ -195,105 +166,69 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Cross-Institutional Study Planning",
+          "title": "Strategic Career-Education Alignment",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_1",
-              "segment_id": "18",
-              "timestamp": "02:18"
+              "call_id": "594020882653",
+              "segment_id": "38",
+              "timestamp": null
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593644891069",
+                "segment_id": "111",
+                "timestamp": "2:40"
+              }
+            ]
           },
-          "student_trigger": "At segment 18 (02:18), the student revealed their specific academic need: 'I'm actually studying a law degree through Charles Sturt so I was just enquiring, I need to do contract law as a prostitutional study.' This presented a clear opportunity for direct, solution-focused collaborative planning.",
-          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately providing specific, actionable information: 'Right, so with Swinburne Online's contract law as one of the pre-school units is being offered in the first teaching period of this year, so that would begin March the 10th, so it should be possible to organise for that.' This response effectively addressed the immediate need while providing clear timeline information.",
-          "priority": "high",
-          "recommended_approach": "The consultant's approach serves as a model for handling similar situations. They provided specific dates, confirmed feasibility, and showed understanding of the cross-institutional study process. This combination of practical information and supportive guidance effectively facilitates enrollment decisions."
+          "student_trigger": "Multiple students demonstrated sophisticated understanding of career-education alignment, with statements like 'I think the best lawyers in the world, like a lot of them study psychology as well.' These insights revealed both immediate educational interests and long-term career aspirations, creating ideal opportunities for strategic pathway planning that could significantly impact enrollment decisions.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by strategically connecting students' expressed interests to specific program options: 'So criminal justice and criminology is the best fit for you based on our conversations.' This approach effectively validated students' interdisciplinary interests while providing clear direction for their academic journeys. The responses balanced immediate educational needs with long-term career aspirations, helping to build confidence in program selection while maintaining appropriate professional boundaries.",
+          "priority": "High",
+          "recommended_approach": "To maintain and enhance this effective practice, consultants should: 1) Actively listen for both explicit and implicit career goals, 2) Connect expressed interests to specific program features and outcomes, 3) Validate career aspirations while providing practical educational guidance, 4) Create space for students to explore how different aspects of programs align with their career goals, and 5) Develop clear pathways that connect current educational choices to future career success."
         },
         {
           "id": 2,
-          "title": "Effective Credit Recognition Discussion",
+          "title": "Effective Study Load Planning",
           "type": "positive",
-          "is_aggregated": false,
+          "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "call_1",
-              "segment_id": "50",
-              "timestamp": null
+              "call_id": "593870266353",
+              "segment_id": "302",
+              "timestamp": "08:38"
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593644826507",
+                "segment_id": "196",
+                "timestamp": "39:30"
+              }
+            ]
           },
-          "student_trigger": "The student expressed uncertainty about pathway options and potential credit recognition for previous studies, seeking clarity on how past academic work might contribute to their future degree progression.",
-          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately addressing credit transfer possibilities: 'Well, that's no worries. It might be worth checking if you passed anything, because anything that you passed in that time frame would count as a credit towards your psych degree.' This approach effectively transformed uncertainty into clear direction while maintaining flexibility.",
-          "priority": "high",
-          "recommended_approach": "While effective, the interaction could be enhanced by exploring specific subjects of interest and creating a more detailed educational roadmap. Consider discussing particular areas of study that interest the student and mapping these to potential credit opportunities."
+          "student_trigger": "Multiple students demonstrated thoughtful consideration of their study capacity, with statements like 'I don't want to overwhelm myself because I will be working full-time' and 'Can I drop down to one subject later if two becomes too much?' These inquiries revealed both self-awareness and proactive planning mindsets, creating ideal opportunities for collaborative workload planning.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by providing evidence-based guidance while validating student concerns: 'Perfect that's a very wise choice I think two is probably the number that we see where our students have the most success.' This approach effectively balanced validation with data-driven guidance, helping to build confidence in students' ability to manage their studies successfully while maintaining realistic expectations about workload management.",
+          "priority": "High",
+          "recommended_approach": "To enhance this positive practice, consultants should: 1) Acknowledge and validate student self-awareness about workload management, 2) Share relevant student success data and examples, 3) Explore specific work patterns and study preferences in detail, 4) Collaboratively develop realistic study schedules that accommodate work commitments, and 5) Outline available support services for managing study load effectively."
         },
         {
           "id": 3,
-          "title": "Limited Career Change Support",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "unspecified",
-              "segment_id": "179",
-              "timestamp": "4:00"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "call_3",
-                "segment_id": "44",
-                "timestamp": "4:45"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed career change motivations alongside personal interest, with one stating 'It'll be my own personal interest and also for a career change as well.' These moments presented crucial opportunities to explore career transition goals.",
-          "consultant_response": "Consultants typically moved directly to administrative matters without exploring career change aspirations, missing vital opportunities for meaningful collaborative planning that could have strengthened students' confidence in their chosen directions.",
-          "priority": "high",
-          "recommended_approach": "Begin by acknowledging both personal and professional goals: 'It's great that you're considering both personal growth and career change. Let's explore how this program aligns with your goals.' Then: 1) Discuss specific career aspirations, 2) Explore relevant course content and specializations, 3) Outline potential career outcomes, 4) Share industry insights, and 5) Create a detailed educational roadmap connecting studies to career objectives."
-        },
-        {
-          "id": 4,
-          "title": "Technology Support Planning Gap",
-          "type": "improvement",
+          "title": "Proactive Partner Inclusion",
+          "type": "positive",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1983",
-              "segment_id": "218",
-              "timestamp": "36:40"
+              "call_id": "593870128711",
+              "segment_id": "44",
+              "timestamp": "00:44"
             },
             "supporting_calls": []
           },
-          "student_trigger": "The student expressed significant anxiety about technology use, stating: 'I've always been afraid of technology.' This admission revealed a deep-seated concern about navigating the online learning environment, presenting a critical moment for addressing potential barriers to successful enrollment and course completion.",
-          "consultant_response": "The consultant provided basic acknowledgment without exploring specific areas of technological anxiety or developing a comprehensive support plan. This missed an important opportunity to build confidence in accessing online learning resources.",
-          "priority": "high",
-          "recommended_approach": "Begin with empathetic acknowledgment: 'I understand technology can feel overwhelming, and it's normal to have these concerns.' Then: 1) Explore specific technology concerns, 2) Outline available technical support services, 3) Offer orientation session opportunities, 4) Discuss 24/7 support availability, and 5) Create step-by-step plan for building technology confidence."
-        },
-        {
-          "id": 5,
-          "title": "Effective Life Stage Consideration",
-          "type": "positive",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "call_2",
-              "segment_id": "74",
-              "timestamp": "12:55"
-            },
-            "supporting_calls": [
-              {
-                "call_id": "call_2",
-                "segment_id": "87",
-                "timestamp": "13:10"
-              }
-            ]
-          },
-          "student_trigger": "Multiple students expressed significant concerns about age and family responsibilities, with one stating 'I'm already like in my 40s right and then I've got two kids to feed.' These disclosures highlighted the complex balance of family commitments with educational aspirations.",
-          "consultant_response": "Consultants demonstrated strong collaborative planning by providing specific, relevant options tailored to students' situations, including detailed course information and cost considerations. This approach effectively addressed both academic and practical concerns while showing understanding of mature student needs.",
-          "priority": "high",
-          "recommended_approach": "To enhance this interaction, explore additional flexible study options specifically designed for mature students with family responsibilities, including: 1) Part-time study arrangements, 2) Online learning options, 3) Evening class availability, 4) Support services for parent students, and 5) Financial assistance opportunities. Emphasize how these options can help balance family commitments with academic goals."
+          "student_trigger": "At segment 44, the student explicitly mentioned their partner's involvement: 'My partner is Aisha Baba.' This presented a crucial opportunity for collaborative planning that acknowledged the importance of shared decision-making in the educational journey.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately acknowledging and incorporating the partner's role: 'I'll include you both in that email that I'll send out about this particular course.' This approach effectively established clear communication channels while respecting the shared nature of the decision-making process. The response created an inclusive environment for future discussions and ensured both parties would have access to necessary information.",
+          "priority": "High",
+          "recommended_approach": "This interaction exemplifies best practices in stakeholder inclusion. To maintain this standard, consultants should: 1) Immediately acknowledge partner involvement when mentioned, 2) Establish clear multi-party communication channels, 3) Create opportunities for all stakeholders to engage in the process, and 4) Provide shared access to relevant information while maintaining appropriate boundaries."
         }
       ]
     }

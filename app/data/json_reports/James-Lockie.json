@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "James Lockie",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 82,
-  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "total_number_of_calls": 255,
+  "team_average_total_number_of_calls_per_sales_consultant": 190.27272727272728,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 24,
-    "team_average_absolute_number": 20.636363636363637
+    "absolute_number": 50,
+    "team_average_absolute_number": 47.81818181818182
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 29.268292682926827,
-    "team_average_percentage": 22.487986165053538
+    "percentage": 19.607843137254903,
+    "team_average_percentage": 27.97747921684568
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 58,
-    "team_average_absolute_number": 58.09090909090909
+    "absolute_number": 205,
+    "team_average_absolute_number": 142.45454545454547
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 70.73170731707317,
-    "team_average_percentage": 50.23928656221919
+    "percentage": 80.3921568627451,
+    "team_average_percentage": 62.93161169224523
   },
   "average_talking_percentage": {
-    "individual_average": 59.378328761180875,
-    "team_average": 51.07068109184601
+    "individual_average": 54.2381571319099,
+    "team_average": 50.24181666108455
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 58,
-    "team_total_excluded_transcripts": 639
+    "individual_excluded_transcripts": 205,
+    "team_total_excluded_transcripts": 1567
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 50.78,
       "team_average_final_ranking_score_eligible_transcripts": 149.83,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.23,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Career-Aligned Education Planning",
-        "explanation": "Consultants effectively map educational pathways to support students' professional goals and aspirations"
+        "headline": "Proactive Study Management",
+        "explanation": "Consultants excel at collaboratively exploring study commitments while emphasizing flexibility and support options"
       },
       {
-        "headline": "Flexible Study Solutions",
-        "explanation": "Strong demonstration of adapting program delivery to accommodate diverse student circumstances and needs"
+        "headline": "Clear Process Navigation",
+        "explanation": "Consultants guide students through enrollment steps while maintaining active dialogue and addressing concerns"
       },
       {
-        "headline": "Proactive Support Integration",
-        "explanation": "Effective connection of students with resources and support systems based on identified needs"
+        "headline": "Supportive Decision Framework",
+        "explanation": "Consultants create positive foundations for planning through enthusiastic engagement and structured guidance"
       }
     ],
     "improvement": [
       {
-        "headline": "Work-Life Balance Planning",
-        "explanation": "Need for deeper exploration of strategies to manage study commitments alongside other responsibilities"
+        "headline": "Financial Planning Depth",
+        "explanation": "Consultants need to engage more deeply in collaborative discussions about payment options and support mechanisms"
       },
       {
-        "headline": "Financial Navigation Support",
-        "explanation": "Enhanced guidance needed in exploring funding options and creating comprehensive financial plans"
+        "headline": "Documentation Guidance",
+        "explanation": "Enhanced collaborative approach needed when helping students navigate documentation requirements"
       },
       {
-        "headline": "Career Requirement Integration",
-        "explanation": "More detailed planning needed to align program pathways with specific professional requirements"
+        "headline": "Alternative Pathway Exploration",
+        "explanation": "More thorough exploration of options needed when standard pathways aren't immediately available"
       }
     ]
   },
@@ -89,123 +96,87 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Career-Aligned Planning",
+          "title": "Effective Study Load Management",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1961",
-              "segment_id": "13",
-              "timestamp": null
+              "call_id": "593786215250",
+              "segment_id": "124",
+              "timestamp": "2:04"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1981",
-                "segment_id": "63",
-                "timestamp": null
+                "call_id": "593777605730",
+                "segment_id": "159",
+                "timestamp": "14:15"
               }
             ]
           },
-          "student_trigger": "Students expressing clear professional goals and seeking educational pathway guidance",
-          "consultant_response": "Clear explanation of progression pathways and professional alignment with examples",
-          "context_impact": "Critical opportunity to demonstrate program alignment with career aspirations",
-          "recommended_approach": "Continue effective approach while adding more specific milestone planning"
+          "student_trigger": "Multiple students seeking clarity on managing full-time study commitments alongside existing responsibilities.",
+          "consultant_response": "Consultants provided specific breakdowns while emphasizing flexibility: 'Full-time is about 30 hours a week... you can adjust that as you go through the course.'",
+          "context_impact": "Clear explanation of study requirements enabled informed decisions about workload management.",
+          "recommended_approach": "Could enhance by incorporating more detailed discussion of support services and time management strategies."
         },
         {
           "id": 2,
-          "title": "Strong Flexibility Solutions",
+          "title": "Proactive Enrollment Guidance",
           "type": "positive",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "80",
-              "timestamp": null
+              "call_id": "593870454138",
+              "segment_id": "72",
+              "timestamp": "12:00"
             },
-            "supporting_calls": [
-              {
-                "call_id": "591330759172_1981",
-                "segment_id": "88",
-                "timestamp": null
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "Students expressing need for flexible study options due to various commitments",
-          "consultant_response": "Comprehensive explanation of intermission options, course duration flexibility, and online study possibilities",
-          "context_impact": "Key moment to demonstrate program adaptability and support options",
-          "recommended_approach": "None needed - excellent demonstration of flexible solution planning"
+          "student_trigger": "Student demonstrated readiness to explore enrollment steps and support options.",
+          "consultant_response": "Consultant outlined comprehensive process: 'We could complete your enrollment call today... go over contact details, support available, and discuss how much study you'd like to begin with.'",
+          "context_impact": "Created clear understanding of process while maintaining strong student engagement.",
+          "recommended_approach": "None needed - exemplary demonstration of collaborative process guidance."
         },
         {
           "id": 3,
-          "title": "Limited Financial Planning Support",
+          "title": "Limited Financial Planning Discussion",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1982",
-              "segment_id": "31",
-              "timestamp": null
+              "call_id": "593870454138",
+              "segment_id": "39",
+              "timestamp": "6:12"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1983",
-                "segment_id": "42",
-                "timestamp": null
+                "call_id": "593870454138",
+                "segment_id": "213",
+                "timestamp": "14:20"
               }
             ]
           },
-          "student_trigger": "Students seeking clarity on HECS eligibility and financial options",
-          "consultant_response": "Basic reassurance without comprehensive financial guidance",
-          "context_impact": "Critical financial decision point influencing enrollment commitment",
-          "recommended_approach": "Need detailed HECS information and connection to financial support resources"
+          "student_trigger": "Multiple students inquiring about costs and payment timing: 'Yeah, and how much is that?' and 'So when will I start paying?'",
+          "consultant_response": "Consultants gave direct cost answers without exploring payment options or financial support mechanisms.",
+          "context_impact": "Basic cost information provided without exploring support options may have limited student confidence.",
+          "recommended_approach": "Should engage in deeper collaborative discussion about financial options and available support."
         },
         {
           "id": 4,
-          "title": "Insufficient Work-Life Balance Support",
+          "title": "Documentation Support Enhancement",
           "type": "improvement",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1962",
-              "segment_id": "60",
-              "timestamp": null
+              "call_id": "594082572350",
+              "segment_id": "8",
+              "timestamp": "00:44"
             },
-            "supporting_calls": [
-              {
-                "call_id": "4",
-                "segment_id": "24",
-                "timestamp": "3:57"
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "Students expressing concerns about managing studies alongside existing commitments",
-          "consultant_response": "Limited exploration of specific challenges and support mechanisms",
-          "context_impact": "Critical moment for demonstrating understanding and providing practical solutions",
-          "recommended_approach": "Need comprehensive discussion of study management strategies and support services"
-        },
-        {
-          "id": 5,
-          "title": "Limited Career Requirements Planning",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "591330759172_1963",
-              "segment_id": "12",
-              "timestamp": null
-            },
-            "supporting_calls": [
-              {
-                "call_id": "591330759172_1964",
-                "segment_id": "37",
-                "timestamp": null
-              }
-            ]
-          },
-          "student_trigger": "Students seeking guidance on meeting specific professional registration requirements",
-          "consultant_response": "Basic acknowledgment without comprehensive pathway planning",
-          "context_impact": "Crucial moment for ensuring alignment between program and career requirements",
-          "recommended_approach": "Should develop detailed plans addressing specific registration requirements and alternatives"
+          "student_trigger": "Student expressing uncertainty: 'I'm a bit unsure... what do I actually send you guys about that?'",
+          "consultant_response": "Basic information provided without creating collaborative solution plan.",
+          "context_impact": "Opportunity to prevent enrollment barriers through structured documentation guidance.",
+          "recommended_approach": "Should validate concerns and create structured documentation checklist together with student."
         }
       ]
     },
@@ -213,123 +184,87 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Career-Aligned Planning",
+          "title": "Effective Study Load Management",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1961",
-              "segment_id": "13",
-              "timestamp": null
+              "call_id": "593786215250",
+              "segment_id": "124",
+              "timestamp": "2:04"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1981",
-                "segment_id": "63",
-                "timestamp": null
+                "call_id": "593777605730",
+                "segment_id": "159",
+                "timestamp": "14:15"
               }
             ]
           },
-          "student_trigger": "Multiple students demonstrated clear career advancement goals, with examples including interest in clinical psychology and business development. These moments represented prime opportunities for collaborative career pathway planning, with students actively seeking guidance on aligning their education with professional aspirations.",
-          "consultant_response": "Consultants effectively engaged in career-aligned planning by providing structured guidance and connecting program features to professional goals. They successfully outlined progression pathways while maintaining focus on practical feasibility and career relevance. Notable examples included clear explanations of required qualifications and timeline-based planning that demonstrated understanding of industry requirements.",
+          "student_trigger": "Multiple students sought guidance on managing full-time study commitments. Primary example at segment 124: 'Well, with full-time, so how many hours a day would I need to do?' Supporting instance at segment 159: 'I think I'd be able to do full-time.' These inquiries demonstrated clear needs for collaborative planning around study management and workload balance.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through structured yet flexible responses. They provided clear time expectations while maintaining dialogue about schedule management: 'Full-time is about 30 hours a week of study... you can adjust that as you go through the course.' This approach effectively balanced providing concrete information with collaborative exploration of management strategies, helping students understand both requirements and flexibility options.",
           "priority": "high",
-          "recommended_approach": "Continue this strong approach while incorporating more specific career milestone planning. Include questions like: 'What specific career goals would you like to achieve through this program?' and 'How can we structure your study path to best support your professional development?' Additionally, provide visual pathway maps and regular progress check-ins throughout the discussion."
+          "recommended_approach": "While the current approach is strong, it could be enhanced by: 1) Exploring specific time management strategies based on student circumstances, 2) Discussing available support services in detail, 3) Creating preliminary study schedule templates together, 4) Setting up follow-up checkpoints for plan adjustment. Questions like 'What strategies have you used before to manage multiple commitments?' could lead to more personalized support suggestions."
         },
         {
           "id": 2,
-          "title": "Strong Flexibility Solutions",
+          "title": "Proactive Enrollment Guidance",
           "type": "positive",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1981",
-              "segment_id": "80",
-              "timestamp": null
+              "call_id": "593870454138",
+              "segment_id": "72",
+              "timestamp": "12:00"
             },
-            "supporting_calls": [
-              {
-                "call_id": "591330759172_1981",
-                "segment_id": "88",
-                "timestamp": null
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "Students expressed various needs for flexible study arrangements, citing work schedules, family commitments, and geographic constraints. These situations presented opportunities to demonstrate program adaptability and support mechanisms, with students actively seeking solutions to balance their studies with other responsibilities.",
-          "consultant_response": "Consultants provided comprehensive flexibility solutions, effectively explaining: 'You have up to six intermissions you could use throughout the course. Each intermission just refers to taking off a teaching period... you can stretch this course out to 4.8 or five years in duration.' This detailed response demonstrated strong understanding of student needs and proactive solution-finding, while maintaining focus on practical implementation.",
+          "student_trigger": "At segment 72, the consultant recognized student readiness and initiated collaborative planning: 'So if you wanted to we could complete your enrollment call today...' This demonstrated excellent awareness of the opportunity to guide the student through next steps while maintaining engagement.",
+          "consultant_response": "The consultant excelled in collaborative planning by: 1) Clearly outlining the enrollment process steps, 2) Emphasizing available support mechanisms, 3) Maintaining interactive dialogue throughout, and 4) Regularly inviting student input and questions. This comprehensive approach created a supportive environment where the student felt actively involved in their enrollment journey.",
           "priority": "high",
-          "recommended_approach": "This approach serves as a model for flexibility discussions. Continue to validate student needs while providing concrete options and maintaining open dialogue. Consider creating a checklist of flexibility options to ensure consistent coverage and document successful flexibility plans as resources for similar situations."
+          "recommended_approach": "This exemplary approach should be maintained and shared as best practice. Key elements include: 1) Clear process explanation, 2) Regular check-ins for questions, 3) Emphasis on available support, 4) Active student involvement in planning. The consultant's proactive yet collaborative style effectively guides while maintaining student engagement throughout the process."
         },
         {
           "id": 3,
-          "title": "Limited Financial Planning Support",
+          "title": "Limited Financial Planning Discussion",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1982",
-              "segment_id": "31",
-              "timestamp": null
+              "call_id": "593870454138",
+              "segment_id": "39",
+              "timestamp": "6:12"
             },
             "supporting_calls": [
               {
-                "call_id": "591330759172_1983",
-                "segment_id": "42",
-                "timestamp": null
+                "call_id": "593870454138",
+                "segment_id": "213",
+                "timestamp": "14:20"
               }
             ]
           },
-          "student_trigger": "At multiple points, students sought clarity about HECS eligibility and financial options, with one specifically asking: 'I know it's a separate process I have to apply for it but just to see that it is a HECS fee eligible course.' These moments represented crucial opportunities for comprehensive financial planning guidance.",
-          "consultant_response": "Consultants typically provided basic reassurance without exploring specific financial needs or developing comprehensive funding plans. Responses focused on simple confirmations rather than detailed guidance about HECS processes and available financial support options.",
+          "student_trigger": "Multiple instances of financial inquiries were identified: 'Yeah, and how much is that?' (segment 39) and 'So when will I start paying?' (segment 213). These questions indicated clear opportunities for collaborative financial planning discussions that would address both immediate costs and longer-term payment management.",
+          "consultant_response": "Consultants generally provided direct but limited responses about costs without engaging in deeper financial planning discussions. For example, one consultant simply stated: 'It's $55 to sit that test.' This approach missed opportunities to explore payment options, discuss available financial support, or engage in collaborative planning around financial management.",
           "priority": "high",
-          "recommended_approach": "Implement a systematic approach to financial planning: 1) Acknowledge the importance of financial considerations, 2) Explore specific funding needs and eligibility criteria, 3) Provide detailed HECS information and application guidance, 4) Connect students with financial advisors or support services, 5) Document financial plans and follow up as needed. Use questions like: 'Would you like me to explain the HECS application process in detail?' and 'Shall we explore all available funding options together?'"
+          "recommended_approach": "To enhance these interactions, consultants should: 1) Acknowledge financial concerns explicitly, 2) Explore available payment options and support mechanisms, 3) Engage in collaborative discussion about managing costs, 4) Present various financial pathways and assist in evaluating options, 5) Ensure students feel supported in their financial planning process. A more effective response might begin: 'I understand you're concerned about costs. Let's explore the various payment options and support available to help you manage this investment in your education.'"
         },
         {
           "id": 4,
-          "title": "Insufficient Work-Life Balance Support",
+          "title": "Documentation Support Enhancement",
           "type": "improvement",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "591330759172_1962",
-              "segment_id": "60",
-              "timestamp": null
+              "call_id": "594082572350",
+              "segment_id": "8",
+              "timestamp": "00:44"
             },
-            "supporting_calls": [
-              {
-                "call_id": "4",
-                "segment_id": "24",
-                "timestamp": "3:57"
-              }
-            ]
+            "supporting_calls": []
           },
-          "student_trigger": "Multiple students expressed concerns about managing study commitments alongside work and family responsibilities. A notable example involved a single parent stating: 'I'm just trying to work out whether it's feasible for me to do this now.' These moments represented crucial opportunities for demonstrating comprehensive support options.",
-          "consultant_response": "Consultants typically provided basic acknowledgment without exploring specific challenges or developing comprehensive support plans. Responses focused on program information rather than collaborative problem-solving around managing multiple commitments.",
+          "student_trigger": "At segment 8, student expressed significant uncertainty about documentation requirements: 'I'm a bit unsure... what do I actually send you guys about that?' This presented a crucial opportunity for collaborative planning around documentation requirements and submission process.",
+          "consultant_response": "The consultant provided basic information without fully engaging with the student's expressed confusion or creating a collaborative solution. While factually accurate, this response missed the opportunity to build student confidence through structured guidance and shared planning.",
           "priority": "high",
-          "recommended_approach": "Begin with empathy: 'I understand balancing multiple commitments can be challenging. Let's explore this together.' Then investigate specific needs: 'Could you share your main concerns about managing your commitments?' Finally, develop tailored solutions: 'Based on your situation, here are some specific strategies and support options available.' Include examples of successful students in similar situations."
-        },
-        {
-          "id": 5,
-          "title": "Limited Career Requirements Planning",
-          "type": "improvement",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "591330759172_1963",
-              "segment_id": "12",
-              "timestamp": null
-            },
-            "supporting_calls": [
-              {
-                "call_id": "591330759172_1964",
-                "segment_id": "37",
-                "timestamp": null
-              }
-            ]
-          },
-          "student_trigger": "Multiple students sought guidance on meeting professional registration requirements, with specific questions about accreditation levels and industry recognition. These inquiries represented critical opportunities for detailed career pathway planning and alignment with professional standards.",
-          "consultant_response": "Consultants typically provided basic acknowledgment without developing comprehensive plans or exploring alternative pathways. This approach missed opportunities to demonstrate understanding of professional needs and showcase relevant program features.",
-          "priority": "high",
-          "recommended_approach": "Implement a systematic approach: 1) Acknowledge registration importance, 2) Explore specific requirements and deadlines, 3) Map potential pathways aligned with registration needs, 4) Consider alternative solutions if direct matches aren't available, 5) Create timeline-based plans maintaining professional standing. Document discussions and maintain updated information about professional registration requirements."
+          "recommended_approach": "A stronger collaborative planning approach would: 1) Validate documentation concerns explicitly, 2) Create a shared checklist of requirements to review together, 3) Examine current documents for completeness, 4) Provide examples of successful submissions, 5) Set up a pre-submission check. Begin with: 'I understand this can be confusing. Let's work through the requirements together to ensure you have everything you need.'"
         }
       ]
     }

@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Robert Cecere",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 214,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 279,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 49,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 80,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 22.897196261682243,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 28.673835125448026,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 165,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 199,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 77.10280373831776,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 71.32616487455196,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": 57.81388765754563,
-    "team_average": 51.280019574376695
+    "individual_average": 49.21647446911725,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 165,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 199,
+    "team_total_excluded_transcripts": 2625
   },
   "behavioral_scores": [
     {
@@ -52,18 +52,281 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 111.27,
       "team_average_final_ranking_score_eligible_transcripts": 178.81,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 241.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 142.91,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
     }
   ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Consultants excel at connecting educational pathways with professional goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Proactive Study Load Management",
+        "explanation": "Strong ability to develop personalized study arrangements that accommodate diverse work-life circumstances"
+      },
+      {
+        "headline": "Credit Recognition Planning",
+        "explanation": "Effective collaboration in exploring and explaining credit transfer opportunities while setting clear expectations"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Greater integration needed of specific support resources and mechanisms during planning discussions"
+      },
+      {
+        "headline": "Financial Planning Depth",
+        "explanation": "Enhanced discussion needed of financial options and support mechanisms during planning conversations"
+      },
+      {
+        "headline": "Concurrent Study Management",
+        "explanation": "More comprehensive guidance needed for students balancing multiple program commitments"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870158892",
+              "segment_id": "59",
+              "timestamp": "11:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about balancing full-time work with study: 'I don't know if I'm, like, doing part-time would be better.'",
+          "consultant_response": "Provided practical guidance: 'If you're working full-time, just start term one in January with one unit... you're looking at about 12 hours of study a week.'",
+          "context_impact": "Critical decision point regarding study load management impacting enrollment likelihood.",
+          "recommended_approach": "Consider exploring specific work schedules for more personalized planning."
+        },
+        {
+          "id": 2,
+          "title": "Career-Focused Course Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644850683",
+              "segment_id": "129",
+              "timestamp": "12:09"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593645239483",
+                "segment_id": "221",
+                "timestamp": "3:41"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed clear professional goals, from family business aspirations to becoming 'a deaf role model for little deaf children.'",
+          "consultant_response": "Strong pathway alignment: 'Based on that, we can definitely map out some options in our accounting program that suit your goals.'",
+          "context_impact": "Essential alignment between career goals and educational pathways.",
+          "recommended_approach": "None needed - exemplary career-aligned educational planning."
+        },
+        {
+          "id": 3,
+          "title": "Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593777558218",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021054390",
+                "segment_id": "51",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking credit recognition: 'I have done four units and I have passed three of them.'",
+          "consultant_response": "Detailed guidance: 'For those three units to be exempt... communications and technology, understanding digital revolution, and IT problem solving.'",
+          "context_impact": "Clear credit transfer guidance crucial for enrollment confidence.",
+          "recommended_approach": "None needed - strong demonstration of credit transfer planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870237703",
+              "segment_id": "32",
+              "timestamp": "5:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021534045",
+                "segment_id": "328",
+                "timestamp": "322:12"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing anxiety about online learning success and study management.",
+          "consultant_response": "Basic acknowledgment without exploring specific support mechanisms.",
+          "context_impact": "Missed opportunity to build confidence through support planning.",
+          "recommended_approach": "Should create detailed support plans and demonstrate available resources."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593778403380",
+              "segment_id": "39",
+              "timestamp": "5:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593786161233",
+                "segment_id": "245",
+                "timestamp": "4:15"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on financial support options and government allowances.",
+          "consultant_response": "Basic referral without exploring options: 'That's not organized through us.'",
+          "context_impact": "Critical barrier to enrollment requiring comprehensive guidance.",
+          "recommended_approach": "Need deeper collaborative discussion of financial support pathways."
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870158892",
+              "segment_id": "59",
+              "timestamp": "11:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 59, the student expressed significant uncertainty about managing their studies alongside full-time work commitments: 'I don't know if I'm, like, doing part-time would be better.' This statement revealed both immediate concerns about study load management and a need for structured guidance in creating a sustainable academic plan.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by providing detailed, practical solutions: 'If you're working full-time, just start term one in January with one unit... you're probably looking at about 12 hours of study a week, maybe 15 hours... and you can commit to your studies at any time during the week that suits you best.' This response effectively balanced encouraging enrollment while ensuring realistic expectations about time commitments.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong approach, consultants should: 1) Explore specific work patterns and commitments, 2) Create preliminary study schedules aligned with work hours, 3) Discuss various study modes and flexibility options, 4) Outline support resources for time management, and 5) Establish clear communication channels for ongoing flexibility needs."
+        },
+        {
+          "id": 2,
+          "title": "Career-Focused Course Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644850683",
+              "segment_id": "129",
+              "timestamp": "12:09"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593645239483",
+                "segment_id": "221",
+                "timestamp": "3:41"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed meaningful professional aspirations. The primary example involved a student sharing their business goals: 'My strategy is looking for a business, a family business, so I need to learn more about accounting.' Supporting examples included aspirations to become 'a deaf role model for little deaf children.' These moments presented crucial opportunities for collaborative educational planning aligned with career objectives.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through balanced validation and practical guidance. In the primary example, the consultant responded with clear pathway alignment: 'Based on that, we can definitely map out some options in our accounting program that suit your goals for running a family business.' Supporting examples showed similar strength in connecting formal education benefits with career goals while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "This represents best practice in career-aligned planning. Maintain this approach by: 1) Acknowledging and validating career goals, 2) Connecting specific program elements to stated objectives, 3) Creating clear pathways linking education to career aspirations, 4) Maintaining encouraging dialogue while setting realistic expectations, and 5) Discussing practical experience components that support career development."
+        },
+        {
+          "id": 3,
+          "title": "Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593777558218",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021054390",
+                "segment_id": "51",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated proactive interest in credit transfer opportunities, with the primary example stating: 'I have done four units and I have passed three of them.' These inquiries consistently showed students seeking to optimize their academic journey through recognition of prior learning.",
+          "consultant_response": "Consultants demonstrated excellence in collaborative planning by providing detailed credit transfer guidance: 'For those three units to be exempt... communications and technology, understanding digital revolution, and IT problem solving.' This approach effectively balanced encouraging credit recognition while maintaining clear expectations about processes and requirements.",
+          "priority": "high",
+          "recommended_approach": "Maintain this strong approach by: 1) Immediately acknowledging prior learning achievements, 2) Providing specific examples of transferable credits, 3) Outlining clear application procedures, 4) Maintaining engagement with individual circumstances, and 5) Creating clear action plans for credit application processes."
+        },
+        {
+          "id": 4,
+          "title": "Limited Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870237703",
+              "segment_id": "32",
+              "timestamp": "5:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021534045",
+                "segment_id": "328",
+                "timestamp": "322:12"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed anxiety about online learning success and study management. These concerns revealed the need for comprehensive support planning to build confidence in program completion capability.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring specific support mechanisms or creating detailed success strategies. Generic responses like 'lean on the student team' missed opportunities to demonstrate concrete support planning.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach should: 1) Investigate specific online learning concerns, 2) Demonstrate available support resources with concrete examples, 3) Create tailored support plans addressing individual needs, 4) Establish regular check-points for reviewing progress, 5) Document specific strategies for accessing help, and 6) Build confidence through clear success pathways."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593778403380",
+              "segment_id": "39",
+              "timestamp": "5:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593786161233",
+                "segment_id": "245",
+                "timestamp": "4:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on financial support options, particularly regarding government allowances and payment arrangements. These inquiries represented critical moments for comprehensive financial planning to address potential enrollment barriers.",
+          "consultant_response": "Consultants typically provided basic referrals without exploring available options: 'That's not organized through us... I'll send you a link.' This minimal response failed to engage in collaborative planning around financial solutions or demonstrate available support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge financial concerns explicitly, 2) Explore available payment options and support mechanisms, 3) Create preliminary financial plans aligned with circumstances, 4) Provide clear information about scholarship opportunities, 5) Set up clear next steps for financial planning, while maintaining appropriate boundaries regarding financial advice."
+        }
+      ]
     }
   }
 }

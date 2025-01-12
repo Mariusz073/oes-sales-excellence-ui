@@ -1,47 +1,299 @@
 {
   "metadata": {
     "consultant_name": "Luke Williams",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 0,
-  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "total_number_of_calls": 258,
+  "team_average_total_number_of_calls_per_sales_consultant": 190.27272727272728,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 20.636363636363637
+    "absolute_number": 54,
+    "team_average_absolute_number": 47.81818181818182
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 22.487986165053538
+    "percentage": 20.930232558139537,
+    "team_average_percentage": 27.97747921684568
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 58.09090909090909
+    "absolute_number": 204,
+    "team_average_absolute_number": 142.45454545454547
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 50.23928656221919
+    "percentage": 79.06976744186046,
+    "team_average_percentage": 62.93161169224523
   },
   "average_talking_percentage": {
-    "individual_average": null,
-    "team_average": 51.07068109184601
+    "individual_average": 47.458981339097264,
+    "team_average": 50.24181666108455
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 0,
-    "team_total_excluded_transcripts": 639
+    "individual_excluded_transcripts": 204,
+    "team_total_excluded_transcripts": 1567
   },
-  "behavioral_scores": [],
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 108.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.68,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    }
+  ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Consultants effectively break down complex educational journeys into manageable steps while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of adapting program options and study arrangements to accommodate diverse student circumstances and commitments"
+      },
+      {
+        "headline": "Support System Connection",
+        "explanation": "Effective integration of support resources while maintaining clear role boundaries between pre-enrollment guidance and post-enrollment services"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Goal Integration",
+        "explanation": "Greater depth needed in exploring and aligning educational pathways with students' specific career aspirations and professional goals"
+      },
+      {
+        "headline": "Financial Planning Development",
+        "explanation": "More comprehensive exploration required of financial options and support mechanisms to build student confidence in program accessibility"
+      },
+      {
+        "headline": "Personal Circumstance Adaptation",
+        "explanation": "Enhanced exploration needed of how individual circumstances impact study planning and support requirements"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864435261",
+              "segment_id": "46",
+              "timestamp": "5:46"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778234838",
+                "segment_id": "45",
+                "timestamp": "8:25"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed feeling overwhelmed by large program commitments, seeking ways to make their academic journey more manageable.",
+          "consultant_response": "Consultants effectively suggested structured approaches: 'Do the graduate certificate first and then move on up into the master's thereafter because those first four units are part of our Masters.'",
+          "context_impact": "Breaking down complex educational pathways into clear steps significantly increased student confidence.",
+          "recommended_approach": "Could enhance by developing more detailed milestone planning"
+        },
+        {
+          "id": 2,
+          "title": "Strong Work-Study Balance Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593869550154",
+              "segment_id": "49",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about managing full-time work with studies.",
+          "consultant_response": "Consultant effectively highlighted: '99% of people doing this course are full-time workers. The course has been made for full-time employees, gives you flexibility.'",
+          "context_impact": "Clear explanation of program flexibility increased student confidence in managing commitments.",
+          "recommended_approach": "None needed - excellent example of addressing work-life balance concerns"
+        },
+        {
+          "id": 3,
+          "title": "Strategic WAM Score Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594021024452",
+              "segment_id": "84",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about WAM score (69.44) being below program requirements.",
+          "consultant_response": "Consultant provided clear explanation: 'we take two of the units out of the advanced course and as long as you get a 60 average mark in those two units, no unit lower than 55, we then put you into the remaining six units.'",
+          "context_impact": "Clear pathway guidance provided while maintaining pre-enrollment boundaries.",
+          "recommended_approach": "None needed - excellent balance of guidance and boundaries"
+        },
+        {
+          "id": 4,
+          "title": "Missed Career Development Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947160306",
+              "segment_id": "31",
+              "timestamp": "31:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778410833",
+                "segment_id": "18",
+                "timestamp": "1:17"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific career interests and goals without receiving deeper exploration.",
+          "consultant_response": "Basic acknowledgment without exploring career goals or program alignment.",
+          "context_impact": "Limited career alignment discussion reduced perceived program value and relevance.",
+          "recommended_approach": "Should explore specific career goals and align program benefits with professional aspirations"
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863675797",
+              "segment_id": "196",
+              "timestamp": "3:16"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593777698489",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed significant concerns about financial planning and payment options.",
+          "consultant_response": "Basic acknowledgment of concerns without exploring specific options or support mechanisms.",
+          "context_impact": "Limited financial planning discussion reduced student confidence in proceeding.",
+          "recommended_approach": "Should provide detailed financial pathway options and explore available support mechanisms"
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864435261",
+              "segment_id": "46",
+              "timestamp": "5:46"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778234838",
+                "segment_id": "45",
+                "timestamp": "8:25"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed feeling overwhelmed by the prospect of committing to large programs, seeking ways to break down their educational journey into more manageable steps. This pattern revealed both interest in progression and anxiety about commitment, creating crucial opportunities for collaborative planning.",
+          "consultant_response": "Consultants demonstrated exceptional collaborative planning skills by suggesting structured approaches that transformed overwhelming programs into manageable steps. The primary response effectively suggested: 'Do the graduate certificate first and then move on up into the master's thereafter because those first four units are part of our Masters.' This approach validated student concerns while providing clear, actionable steps forward. The consistent focus on breaking down larger goals into achievable milestones showed strong understanding of student needs while maintaining progression focus.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong approach, consultants should: 1) Create detailed milestone maps showing progression through each qualification level, 2) Develop personalized timelines accounting for individual circumstances, 3) Share specific examples of successful student progression patterns, 4) Set up regular check-points to review and adjust goals as needed, and 5) Document agreed-upon progression plans for future reference."
+        },
+        {
+          "id": 2,
+          "title": "Strong Work-Study Balance Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593869550154",
+              "segment_id": "49",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about managing their studies alongside full-time work commitments, stating 'I just work full-time at the moment as well.' This represented a critical moment for addressing potential barriers to enrollment and demonstrating program flexibility.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately addressing the concern with specific reassurance: '99% of the people doing this course are in the same situation as yourself and are full-time workers. The course has been made for full-time employees, gives you that flexibility to do the coursework whatever time of day or night that you set aside to do so.' This response effectively normalized the student's situation while highlighting the program's built-in flexibility.",
+          "priority": "high",
+          "recommended_approach": "This approach serves as a model for addressing work-study balance concerns. Consultants should: 1) Normalize the situation by sharing relevant student demographics, 2) Highlight specific flexible study features, 3) Emphasize program design for working professionals, 4) Provide concrete examples of how other students manage their time, and 5) Create clear connections between program flexibility and student's specific work circumstances."
+        },
+        {
+          "id": 3,
+          "title": "Strategic WAM Score Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594021024452",
+              "segment_id": "84",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 84, the student expressed significant concern about their WAM score being below the required cut-off at 69.44, stating: 'Right, the other thing is that my WAM score is just like below the cut-off, so like 69.44.' This revealed both academic concern and readiness to explore alternative pathways.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by providing a detailed, structured explanation: 'we take two of the units out of the advanced course and as long as you get a 60 average mark in those two units, no unit lower than 55, we then put you into the remaining six units of the advanced course.' This response effectively balanced providing clear direction while maintaining appropriate pre-enrollment boundaries and ensuring student understanding of the process.",
+          "priority": "high",
+          "recommended_approach": "This interaction serves as an excellent model for similar situations. Key elements to replicate include: 1) Clear explanation of specific requirements, 2) Focus on available options rather than detailed academic planning, 3) Maintaining appropriate scope of guidance while addressing concerns, 4) Creating a structured pathway forward that builds student confidence, and 5) Ensuring clear understanding of progression requirements."
+        },
+        {
+          "id": 4,
+          "title": "Missed Career Development Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947160306",
+              "segment_id": "31",
+              "timestamp": "31:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778410833",
+                "segment_id": "18",
+                "timestamp": "1:17"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific career interests and goals, including statements like 'I want to study psychology... do you have any child psychology courses?' These moments presented prime opportunities for collaborative pathway planning aligned with career aspirations.",
+          "consultant_response": "Consultants generally provided basic acknowledgment without exploring career goals or creating clear connections between program benefits and professional aspirations. This approach missed valuable opportunities to demonstrate program value and create career-aligned educational plans. The limited engagement with career goals potentially reduced student confidence in program relevance.",
+          "priority": "high",
+          "recommended_approach": "An effective response should: 1) Acknowledge and explore specific career interests, 2) Discuss how program elements support career goals, 3) Create clear connections between coursework and professional development, 4) Share relevant success stories while maintaining appropriate pre-enrollment boundaries, 5) Develop preliminary career advancement roadmaps, and 6) Document specific career objectives to inform program planning."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863675797",
+              "segment_id": "196",
+              "timestamp": "3:16"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593777698489",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about financial planning, with statements like 'trying to work it out roughly what financially is the best way to do it' and similar inquiries about payment options and support. These moments represented crucial opportunities for collaborative financial planning.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without engaging in detailed financial planning or exploring specific options. This limited response approach missed opportunities to create comprehensive financial plans that could have increased student confidence in proceeding with enrollment. The lack of detailed financial guidance potentially created barriers to enrollment progression.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge financial concerns with empathy, 2) Explore specific financial needs and circumstances, 3) Present detailed information about available payment options and support mechanisms, 4) Create collaborative financial plans aligned with student circumstances, 5) Ensure clear next steps for financial planning, and 6) Document specific financial considerations for follow-up discussions."
+        }
+      ]
     }
   }
 }

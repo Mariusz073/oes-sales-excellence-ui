@@ -1,47 +1,311 @@
 {
   "metadata": {
     "consultant_name": "Stephen Taylor",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
-    "report_type": "Collaborative planning"
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
   },
-  "total_number_of_calls": 0,
-  "team_average_total_number_of_calls_per_sales_consultant": 93.375,
+  "total_number_of_calls": 307,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 26.6875
+    "absolute_number": 87,
+    "team_average_absolute_number": 66.9375
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 14.38995377453293
+    "percentage": 28.338762214983714,
+    "team_average_percentage": 27.152770300641205
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 0,
-    "team_average_absolute_number": 66.6875
+    "absolute_number": 220,
+    "team_average_absolute_number": 164.0625
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 0.0,
-    "team_average_percentage": 35.61004622546707
+    "percentage": 71.66123778501628,
+    "team_average_percentage": 66.59722969935879
   },
   "average_talking_percentage": {
-    "individual_average": null,
-    "team_average": 51.280019574376695
+    "individual_average": 52.44395592932139,
+    "team_average": 52.131005633998484
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 0,
-    "team_total_excluded_transcripts": 1067
+    "individual_excluded_transcripts": 220,
+    "team_total_excluded_transcripts": 2625
   },
-  "behavioral_scores": [],
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    }
+  ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Life-Stage Sensitive Planning",
+        "explanation": "Consultants effectively adapt educational planning discussions to diverse life transitions while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Strategic Career Integration",
+        "explanation": "Strong alignment of educational pathways with career aspirations while maintaining clear advisory scope"
+      },
+      {
+        "headline": "Flexible Study Management",
+        "explanation": "Effective validation and exploration of study arrangements that accommodate varying student circumstances"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Work-Study Integration",
+        "explanation": "Need for more comprehensive exploration of strategies to balance work commitments with study requirements"
+      },
+      {
+        "headline": "Documentation Support Framework",
+        "explanation": "Greater emphasis needed on structured guidance through application requirements while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "More effective communication needed about available support mechanisms while maintaining pre-enrollment scope"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Post-Retirement Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593786218476",
+              "segment_id": "13",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking meaningful post-retirement engagement: 'I'm 60 and thinking that I might finish up work... I still want to be doing stuff.'",
+          "consultant_response": "Validated aspirations while exploring suitable options: 'Let's explore what options we have that allow you to study part-time, keeping your interests in mind.'",
+          "context_impact": "Addressing retirement transition concerns crucial for building enrollment confidence",
+          "recommended_approach": "None needed - exemplary handling of life-stage transition planning"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Pathway Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "24",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593777665069",
+                "segment_id": "70",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing specific career transition goals and seeking educational alignment",
+          "consultant_response": "Provided structured exploration of options while maintaining appropriate boundaries: 'Let's explore different pathways to reach your goal - there might be multiple routes available.'",
+          "context_impact": "Clear pathway guidance enhanced student confidence in program selection",
+          "recommended_approach": "Could explore specific aspects of previous experience more deeply"
+        },
+        {
+          "id": 3,
+          "title": "Flexible Study Management Success",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863752717",
+              "segment_id": "1",
+              "timestamp": "4:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593645227860",
+                "segment_id": "13",
+                "timestamp": "03:29"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking validation for careful study load management",
+          "consultant_response": "Clear validation with progression guidance: 'Starting with one unit is perfectly fine, and we can adjust as you become more comfortable.'",
+          "context_impact": "Supporting thoughtful progression while maintaining completion focus",
+          "recommended_approach": "Could provide more specific examples of successful study arrangements"
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594020967887",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593785860842",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing full-time work with study commitments",
+          "consultant_response": "Focused on limitations rather than solutions: 'I wouldn't recommend studying full-time and working full-time.'",
+          "context_impact": "Limited exploration of balance strategies reduced confidence in program manageability",
+          "recommended_approach": "Should provide detailed strategies and examples of successful work-study integration"
+        },
+        {
+          "id": 5,
+          "title": "Documentation Support Framework",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644814858",
+              "segment_id": "25",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644814858",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about documentation requirements and submission process",
+          "consultant_response": "Provided minimal guidance without exploring alternatives or offering specific assistance",
+          "context_impact": "Insufficient guidance created potential barriers to enrollment completion",
+          "recommended_approach": "Need to implement comprehensive documentation guidance framework while maintaining appropriate boundaries"
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Post-Retirement Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593786218476",
+              "segment_id": "13",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 13, the student expressed post-retirement aspirations: 'I'm 60 and thinking that I might finish up work at some stage where I am in the next few years but I still want to be doing stuff because I can't stand the thought of being bored.' This statement revealed both a significant life transition and clear motivation to pursue education as a means of maintaining engagement and purpose.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by validating the student's aspirations while creating a framework for exploring suitable educational pathways: 'I understand that wanting to stay engaged after work is important. Let's explore what options we have that allow you to study part-time, keeping your interests in mind.' This approach effectively acknowledged the life transition while maintaining focus on creating a personalized educational plan.",
+          "priority": "High",
+          "recommended_approach": "To maintain this high standard: 1) Acknowledge the significance of life transitions, 2) Validate desire for continued engagement, 3) Present flexible study options aligned with retirement goals, 4) Maintain focus on personal interests, and 5) Create tailored study plans that support post-retirement aspirations while maintaining appropriate boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Pathway Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1981",
+              "segment_id": "24",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593777665069",
+                "segment_id": "70",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students presented specific career transition goals, with the primary example expressing: 'I want to get into the education space and ideally I'd like to get in there faster.' Supporting examples showed similar patterns of students seeking to align educational choices with career objectives.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning skills by providing clear pathway guidance while maintaining appropriate boundaries. The approach effectively balanced career aspirations with educational planning: 'Let's explore different pathways to reach your goal - there might be multiple routes available.' This maintained focus on educational options while acknowledging career objectives.",
+          "priority": "High",
+          "recommended_approach": "Enhance this strong approach by: 1) Acknowledging career goals while staying within educational planning boundaries, 2) Focusing on program pathways rather than specific career advice, 3) Maintaining collaborative dialogue that empowers student decision-making, 4) Creating clear connections between program features and career development, and 5) Providing structured guidance while avoiding detailed career planning."
+        },
+        {
+          "id": 3,
+          "title": "Flexible Study Management Success",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593863752717",
+              "segment_id": "1",
+              "timestamp": "4:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593645227860",
+                "segment_id": "13",
+                "timestamp": "03:29"
+              }
+            ]
+          },
+          "student_trigger": "Students consistently expressed desire for careful study load management, with varying levels of confidence about managing academic commitments. The primary example stated: 'I'd rather just start with the one first unit,' demonstrating thoughtful consideration about managing study commitments.",
+          "consultant_response": "Consultants provided strong support for flexible study arrangements while maintaining focus on successful progression. Responses validated student preferences while ensuring clear understanding of options: 'Starting with one unit is perfectly fine, and we can adjust as you become more comfortable.' This approach effectively balanced immediate comfort with long-term success planning.",
+          "priority": "High",
+          "recommended_approach": "While the current approach is strong, enhance by: 1) Exploring specific timeframes more deeply, 2) Creating clear progression milestones, 3) Providing examples of successful study arrangements, 4) Setting clear expectations about progression options, and 5) Developing specific action plans that balance flexibility with completion goals."
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594020967887",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593785860842",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing full-time work alongside studies. One student specifically noted: 'I do work full-time but like I do really really want to study,' highlighting both strong motivation and anxiety about balancing commitments. These interactions presented crucial opportunities for collaborative planning to address work-life-study integration.",
+          "consultant_response": "Consultants typically focused on limitations rather than solutions, with responses like: 'Look, some people try studying full-time and working full-time. I wouldn't recommend it.' This approach missed opportunities to explore viable strategies and create confidence-building plans for managing multiple commitments while maintaining appropriate advisory boundaries.",
+          "priority": "High",
+          "recommended_approach": "Implement a more effective approach by: 1) Validating student motivation to study, 2) Exploring specific work patterns and commitments, 3) Presenting various part-time and flexible study options, 4) Sharing high-level examples of successful work-study integration, 5) Creating preliminary planning frameworks, and 6) Maintaining appropriate boundaries while discussing support services available for working students."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Support Framework",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644814858",
+              "segment_id": "25",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644814858",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about documentation requirements, with statements like: 'Resume I don't have, but anyway, I can do that one' and questions about reference letters. These moments revealed significant need for guidance in documentation preparation and submission.",
+          "consultant_response": "Consultants provided minimal guidance, often responding with brief acknowledgments like 'That's all right' without exploring alternatives or offering specific assistance. This approach failed to demonstrate proactive support and left students without clear direction for completing requirements.",
+          "priority": "High",
+          "recommended_approach": "To enhance documentation support while maintaining appropriate boundaries: 1) Provide clear, step-by-step guidance for each required document, 2) Offer templates and examples where appropriate, 3) Explain alternative documentation options, 4) Create specific timelines for preparation and submission, 5) Establish high-level check-points for reviewing progress, and 6) Maintain proactive communication throughout the process."
+        }
+      ]
     }
   }
 }

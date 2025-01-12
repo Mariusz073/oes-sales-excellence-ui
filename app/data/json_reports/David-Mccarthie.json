@@ -1,0 +1,450 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 249,
+  "team_average_total_number_of_calls_per_sales_consultant": 231.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 71,
+    "team_average_absolute_number": 66.9375
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.514056224899598,
+    "team_average_percentage": 27.152770300641205
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 178,
+    "team_average_absolute_number": 164.0625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.4859437751004,
+    "team_average_percentage": 66.59722969935879
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.20145763068037,
+    "team_average": 52.131005633998484
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 178,
+    "team_total_excluded_transcripts": 2625
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 235.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 121.42,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Work-Life Integration",
+        "explanation": "Consultants excel at creating personalized study plans that effectively balance academic goals with professional and personal commitments"
+      },
+      {
+        "headline": "Career-Aligned Pathway Planning",
+        "explanation": "Strong demonstration of connecting program components to career aspirations while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective anticipation and integration of support resources at critical planning and decision points"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Transition Planning Depth",
+        "explanation": "Need for more comprehensive exploration of challenges and solutions during major life and career transitions"
+      },
+      {
+        "headline": "Individual Circumstance Integration",
+        "explanation": "Opportunity to better incorporate personal circumstances when developing study plans and support strategies"
+      },
+      {
+        "headline": "Documentation Process Support",
+        "explanation": "Room to enhance guidance and planning through enrollment documentation requirements"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594021159847",
+              "segment_id": "206",
+              "timestamp": "3:26"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644707873",
+                "segment_id": "49",
+                "timestamp": "2:31"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing full-time work with studies: 'I would prefer to do full-time but I am working full-time as well.'",
+          "consultant_response": "Provided practical solutions: 'Let's start with two units for you this teaching period' while explaining flexibility options.",
+          "context_impact": "Critical opportunity to demonstrate program flexibility and support options.",
+          "recommended_approach": "Could enhance by creating more detailed study plans aligned with specific work schedules."
+        },
+        {
+          "id": 2,
+          "title": "Career-Aligned Educational Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644914663",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644953420",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career transition goals, particularly in teaching and education fields.",
+          "consultant_response": "Effectively validated career goals while providing targeted pathway guidance: 'This course here is actually a direct pathway to becoming a behavioral therapist.'",
+          "context_impact": "Opportunity to align educational pathways with career aspirations.",
+          "recommended_approach": "Could strengthen by exploring specific specializations aligned with career goals."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594082609708",
+              "segment_id": "11",
+              "timestamp": "00:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought specific process information about application timelines.",
+          "consultant_response": "Immediate recognition and action: 'Let me just get one of our expert graduate diploma course consultants on the phone with you.'",
+          "context_impact": "Swift connection to expert resources demonstrated strong support system.",
+          "recommended_approach": "None needed - exemplary support coordination."
+        },
+        {
+          "id": 4,
+          "title": "Effective Part-Time Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947071545",
+              "segment_id": "184",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778425812",
+                "segment_id": "60",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing need for flexible study options due to parenting responsibilities: 'I am a single mum' and 'I've just had a baby, he's 8 weeks old'",
+          "consultant_response": "Provided detailed breakdown: 'If you want to be part-time we usually recommend starting with two units... but if you want to start a bit slower then just start with the one unit'",
+          "context_impact": "Clear explanation of flexible options significantly increased student confidence in managing course commitments",
+          "recommended_approach": "Could enhance by exploring specific scheduling preferences and available support resources"
+        },
+        {
+          "id": 5,
+          "title": "Personal Goal Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947173868",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking education background: 'I wanted to get a teaching background so we felt comfortable with the education aspect of homeschooling'",
+          "consultant_response": "Engaged positively with goals: 'Amazing, I get that. Let's explore how our courses can help you gain that teaching background'",
+          "context_impact": "Clear personal motivation provided direction for educational pathway planning",
+          "recommended_approach": "Could explore specific homeschooling challenges to better tailor recommendations"
+        },
+        {
+          "id": 6,
+          "title": "Strategic Career Advancement Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864041856",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021366051",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking career progression: 'I've been in childcare for five years and finished my diploma, wanted to further my studies into Bachelor of Education'",
+          "consultant_response": "Created clear qualification-aligned pathways: 'With your ATAR, we could get you into the pathway course, the Bachelor of Educational Studies'",
+          "context_impact": "Pathway guidance helped students visualize achievable career advancement opportunities",
+          "recommended_approach": "Could explore specific teaching interests and specialization preferences more deeply"
+        },
+        {
+          "id": 7,
+          "title": "Limited Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593778186178",
+              "segment_id": "94",
+              "timestamp": "2:41"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778186178",
+                "segment_id": "73",
+                "timestamp": "2:47"
+              }
+            ]
+          },
+          "student_trigger": "Students showing uncertainty about documentation requirements: 'I haven't got anything like that, I've just got the transcript.'",
+          "consultant_response": "Basic information provided without comprehensive support or clear action plans.",
+          "context_impact": "Limited guidance on requirements created potential enrollment barriers.",
+          "recommended_approach": "Develop detailed documentation checklists and explore verification alternatives."
+        },
+        {
+          "id": 8,
+          "title": "Insufficient Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870317990",
+              "segment_id": "114",
+              "timestamp": "20:32"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644648048",
+                "segment_id": "89",
+                "timestamp": "3:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing concerns about major life transitions alongside study commitments.",
+          "consultant_response": "Basic acknowledgment without deeper exploration of specific challenges and solutions.",
+          "context_impact": "Missed opportunities to create comprehensive transition support plans.",
+          "recommended_approach": "Should develop detailed transition plans addressing specific challenges and support needs."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594021159847",
+              "segment_id": "206",
+              "timestamp": "3:26"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644707873",
+                "segment_id": "49",
+                "timestamp": "2:31"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing full-time work alongside studies. The primary example stated: 'I would prefer to do full-time but I am working full-time as well.' These moments presented crucial opportunities for collaborative planning to address work-life-study balance while demonstrating program flexibility.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by offering practical solutions and clear guidance: 'Let's start with two units for you this teaching period. Now I'll help you pick...' This approach effectively balanced academic progress with practical constraints while maintaining student engagement. Supporting calls showed similar strength in explaining unit requirements and time commitments, helping students make informed decisions about their study approach.",
+          "priority": "high",
+          "recommended_approach": "To optimize work-study planning, consultants should: 1) Begin with thorough exploration of work commitments and scheduling constraints, 2) Create detailed study plans that accommodate work patterns, 3) Discuss strategies for managing peak periods in both work and study, 4) Outline available flexibility options for assignment submission and attendance, 5) Connect students with relevant support services for ongoing study management, and 6) Schedule regular check-points to review and adjust study plans as needed."
+        },
+        {
+          "id": 2,
+          "title": "Career-Aligned Educational Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593644914663",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644953420",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career transition goals, particularly in teaching and education fields. These disclosures presented crucial opportunities for meaningful pathway planning that aligned with professional aspirations while maintaining appropriate advisory boundaries in career guidance.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing targeted guidance while validating career goals: 'This course here is actually a direct pathway to becoming a behavioral therapist.' The responses showed strong understanding of career alignment while maintaining appropriate boundaries in career guidance. Consultants effectively connected program elements to career objectives without overstepping into detailed career planning.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate sales role boundaries, consultants should: 1) Explicitly connect program elements to career goals, 2) Explore specific specializations aligned with student backgrounds, 3) Discuss relevant industry requirements and timelines, 4) Create detailed progression plans that map educational milestones to career objectives, and 5) Position detailed career planning as a valuable post-enrollment benefit."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594082609708",
+              "segment_id": "11",
+              "timestamp": "00:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought specific process information: 'I just wanted to know roughly what the turnaround time for that application process.' This demonstrated both readiness to engage in the enrollment process and desire for clear, accurate information about next steps.",
+          "consultant_response": "The consultant's response exemplified effective collaborative planning through immediate recognition and action: 'Great question. Let me just get one of our expert graduate diploma course consultants on the phone with you.' This approach succeeded by validating the question's importance while demonstrating proactive support through expert connection. The quick identification of when specialist input would be valuable created confidence in the support system.",
+          "priority": "high",
+          "recommended_approach": "Maintain this exemplary approach by: 1) Acknowledging queries immediately to show active listening, 2) Quickly identifying when specialist knowledge would be beneficial, 3) Clearly communicating next steps in connecting with experts, 4) Proactively facilitating expert connections while maintaining appropriate service boundaries, and 5) Following up to ensure all questions were addressed satisfactorily."
+        },
+        {
+          "id": 4,
+          "title": "Effective Part-Time Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947071545",
+              "segment_id": "184",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778425812",
+                "segment_id": "60",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant needs for flexible study arrangements due to parenting responsibilities. The primary example came at segment 184: 'I am a single mum so I want to see how that goes,' while a supporting case involved a new mother stating 'I've just had a baby, he's 8 weeks old.' These situations presented crucial opportunities for collaborative planning to address specific lifestyle needs and study management concerns.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning by providing comprehensive, flexible options: 'If you want to be part-time we usually recommend starting with two units which is about 20 to 24 hours of study per week. But if you want to start a bit slower than that then just start with the one unit.' This approach effectively validated students' needs while offering clear, actionable pathways. The response included specific hour requirements and progression options, enabling informed decision-making while maintaining flexibility.",
+          "priority": "high",
+          "recommended_approach": "To further enhance this effective approach, consultants should: 1) Begin by acknowledging and validating specific circumstances; 2) Present multiple flexibility options with clear time commitments; 3) Discuss available support services and resources; 4) Create collaborative action plans with defined milestones; 5) Set up regular check-points for plan adjustments; and 6) Ensure students understand all available flexibility options. Additionally, exploring specific scheduling preferences and potential challenges would create more targeted support strategies."
+        },
+        {
+          "id": 5,
+          "title": "Personal Goal Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593947173868",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 17, the student revealed their personal motivation: 'I wanted to get a teaching background so we felt comfortable with the education aspect of homeschooling.' This statement demonstrated a clear personal goal connecting educational aspirations with practical family needs, providing an excellent opportunity for collaborative planning.",
+          "consultant_response": "The consultant positively engaged with the student's goals: 'Amazing, I get that. Let's explore how our courses can help you gain that teaching background to give you confidence in your homeschooling efforts.' This response effectively validated the student's motivations while positioning educational pathways as solutions to achieve their personal goals, demonstrating understanding of the unique context.",
+          "priority": "medium",
+          "recommended_approach": "To enhance this interaction, consultants should: 1) Explore specific aspects of homeschooling the student wants to develop; 2) Discuss particular subjects or teaching methods of interest; 3) Connect course components directly to homeschooling needs; 4) Create a personalized study plan addressing specific educational goals; 5) Identify relevant support resources; and 6) Establish regular progress review points. This would create an even more tailored educational pathway aligned with their specific homeschooling objectives."
+        },
+        {
+          "id": 6,
+          "title": "Strategic Career Advancement Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864041856",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594021366051",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "At segment 26, one student shared: 'I've been in childcare for five years and I've just finished my diploma so I wanted to further my studies into the Bachelor of Education.' This and similar cases demonstrated clear career progression goals, presenting opportunities for collaborative planning to align existing qualifications with future educational pathways.",
+          "consultant_response": "The consultants demonstrated excellent collaborative planning by acknowledging existing qualifications while presenting clear advancement pathways: 'With your ATAR, we could get you into the pathway course, the Bachelor of Educational Studies. This pathway is probably the most popular way of getting people into the Bachelor of Early Childhood and Primary.' This response effectively validated the student's experience while outlining specific progression options, creating a clear vision for career advancement.",
+          "priority": "high",
+          "recommended_approach": "To enhance these strong interactions, consultants should: 1) Explore specific areas of teaching interest; 2) Discuss preferred age groups and teaching methodologies; 3) Identify relevant course components that address professional development needs; 4) Create clear progression milestones; 5) Connect current qualifications to future outcomes; and 6) Outline specific support resources available throughout the journey. This approach would create even more personalized educational pathways aligned with career goals."
+        },
+        {
+          "id": 7,
+          "title": "Limited Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593778186178",
+              "segment_id": "94",
+              "timestamp": "2:41"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778186178",
+                "segment_id": "73",
+                "timestamp": "2:47"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about documentation requirements with statements like 'I haven't got anything like that, I've just got the transcript' and 'What so you need like a police officer to sign it or something?' These questions revealed significant confusion about enrollment requirements and need for comprehensive guidance.",
+          "consultant_response": "Consultants provided basic information about document signing requirements without engaging in detailed collaborative planning around documentation preparation. The responses missed opportunities to explore specific challenges, develop clear action plans, or discuss alternative verification options when standard documentation was unavailable.",
+          "priority": "high",
+          "recommended_approach": "To enhance documentation support, consultants should: 1) Acknowledge documentation concerns and normalize questions, 2) Provide comprehensive overview of required documents, 3) Create collaborative checklist of needed items, 4) Explore alternative verification options when needed, 5) Set clear next steps and timelines, and 6) Offer ongoing support through the documentation process while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 8,
+          "title": "Insufficient Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593870317990",
+              "segment_id": "114",
+              "timestamp": "20:32"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593644648048",
+                "segment_id": "89",
+                "timestamp": "3:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing major life transitions alongside their studies, presenting crucial opportunities for comprehensive transition support planning that were not fully utilized.",
+          "consultant_response": "Consultants provided basic acknowledgment of transition challenges without engaging in detailed exploration of specific obstacles or developing comprehensive support strategies. This approach missed opportunities to create concrete action plans addressing unique transition needs.",
+          "priority": "high",
+          "recommended_approach": "To better support students through transitions, consultants should: 1) Explore specific transition challenges in detail, 2) Develop comprehensive support plans addressing each identified challenge, 3) Create clear timelines with specific milestones, 4) Identify and connect relevant support resources, 5) Establish regular check-points to monitor progress, and 6) Ensure students understand all available flexibility options during transition periods."
+        }
+      ]
+    }
+  }
+}

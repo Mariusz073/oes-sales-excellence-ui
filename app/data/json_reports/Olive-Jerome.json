@@ -1,35 +1,35 @@
 {
   "metadata": {
     "consultant_name": "Olive Jerome",
-    "week_number": 10,
-    "date_range": "12-30_01-03",
+    "week_number": 11,
+    "date_range": "01-06_01-10",
     "report_type": "Collaborative Planning"
   },
   "total_number_of_calls": 24,
-  "team_average_total_number_of_calls_per_sales_consultant": 78.72727272727273,
+  "team_average_total_number_of_calls_per_sales_consultant": 190.27272727272728,
   "number_of_calls_over_2_minutes": {
-    "absolute_number": 17,
-    "team_average_absolute_number": 20.636363636363637
+    "absolute_number": 20,
+    "team_average_absolute_number": 47.81818181818182
   },
   "percent_of_calls_over_2_minutes": {
-    "percentage": 70.83333333333334,
-    "team_average_percentage": 22.487986165053538
+    "percentage": 83.33333333333334,
+    "team_average_percentage": 27.97747921684568
   },
   "number_of_calls_under_2_minutes": {
-    "absolute_number": 7,
-    "team_average_absolute_number": 58.09090909090909
+    "absolute_number": 4,
+    "team_average_absolute_number": 142.45454545454547
   },
   "percent_of_calls_under_2_minutes": {
-    "percentage": 29.166666666666668,
-    "team_average_percentage": 50.23928656221919
+    "percentage": 16.666666666666664,
+    "team_average_percentage": 62.93161169224523
   },
   "average_talking_percentage": {
-    "individual_average": 50.10980324866017,
-    "team_average": 51.07068109184601
+    "individual_average": 50.51500731424452,
+    "team_average": 50.24181666108455
   },
   "excluded_transcripts": {
-    "individual_excluded_transcripts": 7,
-    "team_total_excluded_transcripts": 639
+    "individual_excluded_transcripts": 4,
+    "team_total_excluded_transcripts": 1567
   },
   "behavioral_scores": [
     {
@@ -52,35 +52,42 @@
       "average_final_ranking_score_all_transcripts_over_2_mins": 62.62,
       "team_average_final_ranking_score_eligible_transcripts": 149.83,
       "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 60.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 52.85,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
     }
   ],
   "themes": {
     "positive": [
       {
-        "headline": "Proactive Solution Navigation",
-        "explanation": "Effectively guiding students through educational pathways while offering concrete solutions to barriers"
+        "headline": "Career Pathway Integration",
+        "explanation": "Successfully aligning educational pathways with professional goals while maintaining appropriate pre-enrollment guidance boundaries"
       },
       {
-        "headline": "Flexible Support Adaptation",
-        "explanation": "Demonstrating adaptability in accommodating student circumstances and creating personalized pathways"
+        "headline": "Flexible Study Solutions",
+        "explanation": "Effectively demonstrating program adaptability and study options that accommodate student work-life circumstances"
       },
       {
-        "headline": "Constructive Problem Resolution",
-        "explanation": "Working collaboratively to address immediate concerns while maintaining supportive engagement"
+        "headline": "Alternative Entry Planning",
+        "explanation": "Skillfully presenting and exploring alternative qualification pathways when standard entry requirements aren't met"
       }
     ],
     "improvement": [
       {
-        "headline": "Comprehensive Career Integration",
-        "explanation": "Need for deeper exploration of career goals and their alignment with educational pathways"
+        "headline": "Support Service Communication",
+        "explanation": "Need for clearer integration of available support services while maintaining appropriate pre-enrollment boundaries"
       },
       {
-        "headline": "Proactive Resource Connection",
-        "explanation": "Opportunity to better connect students with support services and resources during planning"
+        "headline": "Documentation Challenge Response",
+        "explanation": "Opportunity to provide more comprehensive guidance and support when students face documentation barriers"
       },
       {
-        "headline": "Immediate Qualification Validation",
-        "explanation": "Need for more immediate reassurance and guidance regarding qualification relevance"
+        "headline": "Process Navigation Clarity",
+        "explanation": "Room for improvement in providing detailed enrollment guidance and clear next steps"
       }
     ]
   },
@@ -89,99 +96,111 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Navigation of Complex Pathways",
+          "title": "Career-Aligned MBA Planning",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "CALL_1",
-              "segment_id": "22",
-              "timestamp": "6:22"
+              "call_id": "594021018539",
+              "segment_id": "19",
+              "timestamp": "4:00"
             },
             "supporting_calls": [
               {
-                "call_id": "CALL_2",
-                "segment_id": "51",
-                "timestamp": "10:51"
+                "call_id": "593644576361",
+                "segment_id": "31",
+                "timestamp": "00:31"
               }
             ]
           },
-          "student_trigger": "Students expressed feeling overwhelmed by complex educational pathways and multiple enrollment options.",
-          "consultant_response": "Consultants demonstrated strong collaborative planning through empathetic acknowledgment and structured guidance: 'I totally understand how overwhelming it can be. Let's work together to clarify your path.'",
-          "context_impact": "Confusion about educational pathways could significantly impact enrollment decisions.",
-          "recommended_approach": "Could provide more visual aids or documentation to support pathway understanding."
+          "student_trigger": "Students expressed clear career advancement goals, with one stating 'I do want to grow the career bit more and get into the C-suite space' while others identified similar professional development needs.",
+          "consultant_response": "Consultants effectively positioned MBA benefits: 'So the MBA is for people who have worked in some sort of managerial aspect and they're wanting to then progress further.'",
+          "context_impact": "Career advancement discussions provided opportunities to demonstrate program value while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Could enhance by including more structured discussion of program elements supporting career progression"
         },
         {
           "id": 2,
-          "title": "Proactive IT Support Solutions",
+          "title": "Alternative Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864482831",
+              "segment_id": "56",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778542812",
+                "segment_id": "67",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about not meeting standard entry requirements for desired programs.",
+          "consultant_response": "Consultants provided detailed progression paths: 'We can start you in the Graduate Certificate... complete with a weighted average mark of 60... then articulate into the Master's course.'",
+          "context_impact": "Clear alternative pathway planning maintained student engagement despite eligibility concerns.",
+          "recommended_approach": "None needed - exemplary demonstration of collaborative pathway planning"
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Balance Planning",
           "type": "positive",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "IT_Support_Call",
-              "segment_id": "26",
-              "timestamp": "00:45"
+              "call_id": "593785725038",
+              "segment_id": "175",
+              "timestamp": null
             },
             "supporting_calls": []
           },
-          "student_trigger": "Student expressed frustration about IT support accessibility.",
-          "consultant_response": "Consultant offered personal assistance: 'What I can do is if you want to pop them through to me, I can see if maybe it's an IT issue that we might be able to help with.'",
-          "context_impact": "Critical moment requiring alternative solution to maintain engagement.",
-          "recommended_approach": "Could provide additional IT resource information for future reference."
-        },
-        {
-          "id": 3,
-          "title": "Flexible Study Path Discussion",
-          "type": "positive",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Family_Commitments_Call",
-              "segment_id": "41",
-              "timestamp": "5:45"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "Student expressed desire to balance studies with family responsibilities.",
-          "consultant_response": "Effectively explored flexible study options and previous credentials to create suitable pathway.",
-          "context_impact": "Key opportunity to demonstrate understanding of work-life balance needs.",
-          "recommended_approach": "Could expand discussion of support services available."
+          "student_trigger": "Student indicated challenges with balancing full-time work and study commitments.",
+          "consultant_response": "Consultant effectively outlined flexible study options: 'Let me show you how our online learning options can accommodate your schedule.'",
+          "context_impact": "Addressing work-study balance crucial for enrollment confidence.",
+          "recommended_approach": "None needed - strong demonstration of flexible planning"
         },
         {
           "id": 4,
-          "title": "Career Planning Integration Gap",
+          "title": "Documentation Challenge Response",
           "type": "improvement",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "CALL_3",
-              "segment_id": "40",
-              "timestamp": "6:33"
+              "call_id": "593644976187",
+              "segment_id": "10",
+              "timestamp": "00:09"
             },
             "supporting_calls": []
           },
-          "student_trigger": "Students expressing specific career advancement goals through education.",
-          "consultant_response": "Provided generic enrollment information without exploring career aspirations in detail.",
-          "context_impact": "Missed opportunities to align educational pathways with career objectives.",
-          "recommended_approach": "Need deeper exploration of career goals and program alignment."
+          "student_trigger": "Student expressed distress: 'I've lost all of my details... I completed a certificate in professional adolescent counselling' due to house fire.",
+          "consultant_response": "Consultant provided basic referral: 'Yeah sure I will just need to actually pop you through the campus' without exploring immediate solutions.",
+          "context_impact": "Lost documentation created significant enrollment barrier requiring immediate support.",
+          "recommended_approach": "Should demonstrate empathy while providing comprehensive guidance on documentation solutions"
         },
         {
           "id": 5,
-          "title": "Historical Qualification Support",
+          "title": "Support Service Integration",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "UK_Degree_Call",
-              "segment_id": "109",
-              "timestamp": "N/A"
+              "call_id": "593785725038",
+              "segment_id": "152",
+              "timestamp": null
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777579522",
+                "segment_id": "14",
+                "timestamp": null
+              }
+            ]
           },
-          "student_trigger": "Students expressing concern about older qualifications and their current relevance.",
-          "consultant_response": "Deferred guidance to future consultations rather than providing immediate support.",
-          "context_impact": "Critical moment requiring immediate reassurance and clear guidance.",
-          "recommended_approach": "Should provide immediate validation while explaining evaluation process."
+          "student_trigger": "Students disclosed specific needs (ADHD) and sought clarity on available support.",
+          "consultant_response": "Basic acknowledgment without thorough exploration of available pre and post-enrollment support options.",
+          "context_impact": "Clear support service information crucial for student confidence while maintaining enrollment focus.",
+          "recommended_approach": "Should provide more comprehensive overview of support services while maintaining appropriate boundaries"
         }
       ]
     },
@@ -189,99 +208,111 @@
       "conversations": [
         {
           "id": 1,
-          "title": "Effective Navigation of Complex Pathways",
+          "title": "Career-Aligned MBA Planning",
           "type": "positive",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "CALL_1",
-              "segment_id": "22",
-              "timestamp": "6:22"
+              "call_id": "594021018539",
+              "segment_id": "19",
+              "timestamp": "4:00"
             },
             "supporting_calls": [
               {
-                "call_id": "CALL_2",
-                "segment_id": "51",
-                "timestamp": "10:51"
+                "call_id": "593644576361",
+                "segment_id": "31",
+                "timestamp": "00:31"
               }
             ]
           },
-          "student_trigger": "At multiple points across conversations, students expressed feeling overwhelmed by pathway complexity: 'The pathways are so confusing, there's so many different avenues.' This consistent theme indicated a common need for structured guidance through complex educational pathways.",
-          "consultant_response": "Consultants demonstrated exemplary collaborative planning by acknowledging confusion and offering structured support. The primary response showed both empathy and partnership: 'I totally understand how overwhelming it can be. Let's work together to clarify your path.' This approach successfully transformed student uncertainty into collaborative planning opportunities.",
+          "student_trigger": "Multiple students demonstrated clear career advancement goals, particularly expressing interest in C-suite positions. The primary example stated: 'I do want to grow the career bit more and get into the C-suite space,' while supporting examples showed similar career progression focus. These moments presented crucial opportunities for collaborative educational planning while maintaining appropriate guidance boundaries.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by effectively aligning MBA benefits with career goals while staying within pre-enrollment guidance scope. One consultant responded: 'So the MBA is for people who have worked in some sort of managerial aspect and they're wanting to then progress further.' This approach validated professional contexts while initiating structured discussions about educational pathways that support career progression.",
           "priority": "high",
-          "recommended_approach": "While effective, consultants should: 1) Ask more targeted questions about long-term goals, 2) Create visual aids or simplified pathway maps, 3) Follow up key points with confirmation questions, and 4) Document specific concerns for follow-up communications."
+          "recommended_approach": "While maintaining strong career guidance boundaries, consultants should: 1) Create structured exploration of how specific program elements support career goals, 2) Provide clear frameworks for progression planning, 3) Include appropriate examples of career pathway alignment, and 4) Maintain focus on educational planning rather than detailed career guidance."
         },
         {
           "id": 2,
-          "title": "Proactive IT Support Solutions",
+          "title": "Alternative Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "593864482831",
+              "segment_id": "56",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "593778542812",
+                "segment_id": "67",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students across multiple calls expressed concerns about not meeting standard entry requirements, creating opportunities for collaborative pathway planning. Primary example showed explicit concern about discipline relevance, while supporting examples demonstrated similar qualification uncertainties.",
+          "consultant_response": "Consultants excelled at collaborative planning by providing detailed alternative pathways while maintaining student engagement. They effectively explained Graduate Certificate to Masters progression options, stating: 'We can start you in the Graduate Certificate... complete with a weighted average mark of 60... then articulate into the Master's course.' This approach demonstrated strong ability to address immediate concerns while creating clear future pathways.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained: 1) Acknowledge eligibility concerns directly, 2) Present alternative pathways clearly and positively, 3) Provide specific progression criteria, 4) Maintain encouraging tone, and 5) Confirm student understanding of proposed pathways."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Balance Planning",
           "type": "positive",
           "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "IT_Support_Call",
-              "segment_id": "26",
-              "timestamp": "00:45"
+              "call_id": "593785725038",
+              "segment_id": "175",
+              "timestamp": null
             },
             "supporting_calls": []
           },
-          "student_trigger": "At segment 26, student expressed clear frustration about IT support accessibility: 'I thought I'd be able to grab the IT number from you guys.' This moment represented a critical juncture requiring alternative solutions to maintain engagement.",
-          "consultant_response": "The consultant demonstrated exceptional collaborative planning by offering creative solutions: 'What I can do is if you want to pop them through to me, I can see if maybe it's an IT issue that we might be able to help with.' This response showcased initiative in finding alternative pathways when standard channels weren't available.",
-          "priority": "high",
-          "recommended_approach": "The strong response could be further enhanced by: 1) Acknowledging frustration more explicitly, 2) Gathering specific details about the IT issue, 3) Outlining multiple support options, and 4) Providing clear next steps regardless of outcome."
-        },
-        {
-          "id": 3,
-          "title": "Flexible Study Path Discussion",
-          "type": "positive",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "Family_Commitments_Call",
-              "segment_id": "41",
-              "timestamp": "5:45"
-            },
-            "supporting_calls": []
-          },
-          "student_trigger": "Students consistently expressed needs for flexible study arrangements to accommodate work and family responsibilities. This represented a critical opportunity for demonstrating understanding and offering tailored solutions.",
-          "consultant_response": "Consultants effectively explored flexible study options and evaluated previous credentials to create suitable pathways. The approach demonstrated strong collaborative planning by considering individual circumstances while maintaining academic standards.",
-          "priority": "high",
-          "recommended_approach": "To enhance this approach: 1) Create detailed flexibility plans, 2) Discuss specific support services available, 3) Outline multiple study format options, 4) Document agreed arrangements, and 5) Schedule regular check-ins to assess effectiveness."
+          "student_trigger": "Student expressed significant concerns about balancing full-time work commitments with study requirements, seeking guidance on flexible study options that could accommodate their schedule. This presented an opportunity for collaborative planning focused on practical study solutions.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by actively engaging with the student's circumstances and providing tailored solutions. They effectively outlined flexible study options while maintaining realistic expectations: 'Let me show you how our online learning options can accommodate your schedule. We can structure your study load to align with your work commitments.' This approach showed excellent awareness of work-life balance needs.",
+          "priority": "medium",
+          "recommended_approach": "Continue this effective approach by: 1) Actively listening to work-life balance concerns, 2) Presenting flexible study options clearly, 3) Providing specific examples of successful work-study integration, 4) Discussing available support services appropriately, and 5) Confirming proposed approaches align with student needs."
         },
         {
           "id": 4,
-          "title": "Career Planning Integration Gap",
+          "title": "Documentation Challenge Response",
           "type": "improvement",
-          "is_aggregated": true,
+          "is_aggregated": false,
           "related_calls": {
             "primary_call": {
-              "call_id": "CALL_3",
-              "segment_id": "40",
-              "timestamp": "6:33"
+              "call_id": "593644976187",
+              "segment_id": "10",
+              "timestamp": "00:09"
             },
             "supporting_calls": []
           },
-          "student_trigger": "Students clearly articulated career advancement goals through their educational pursuits, presenting prime opportunities for integrated career and academic planning.",
-          "consultant_response": "Consultants often focused on procedural aspects without exploring professional backgrounds or career aspirations in detail. This approach missed opportunities to demonstrate how programs could specifically support career advancement goals.",
+          "student_trigger": "Student faced significant documentation challenges due to house fire, expressing distress: 'I've lost all of my details... I completed a certificate in professional adolescent counselling.' This presented a crucial opportunity for empathetic support and collaborative problem-solving.",
+          "consultant_response": "Consultant provided only basic procedural response: 'Yeah sure I will just need to actually pop you through the campus' without exploring immediate solutions or available support resources. The interaction missed opportunities for collaborative planning and failed to address both practical and emotional aspects of the situation.",
           "priority": "high",
-          "recommended_approach": "A stronger approach would: 1) Explore specific career advancement goals, 2) Connect program benefits to career objectives, 3) Discuss industry-relevant skills development, 4) Create clear pathways aligned with professional aspirations, and 5) Integrate career services resources."
+          "recommended_approach": "Enhanced approach should: 1) Acknowledge emotional impact empathetically, 2) Explore immediate documentation solutions, 3) Outline available support resources clearly, 4) Create structured plan for documentation recovery, 5) Provide clear next steps, and 6) Follow up with written summary of discussed solutions."
         },
         {
           "id": 5,
-          "title": "Historical Qualification Support",
+          "title": "Support Service Integration",
           "type": "improvement",
           "is_aggregated": true,
           "related_calls": {
             "primary_call": {
-              "call_id": "UK_Degree_Call",
-              "segment_id": "109",
-              "timestamp": "N/A"
+              "call_id": "593785725038",
+              "segment_id": "152",
+              "timestamp": null
             },
-            "supporting_calls": []
+            "supporting_calls": [
+              {
+                "call_id": "593777579522",
+                "segment_id": "14",
+                "timestamp": null
+              }
+            ]
           },
-          "student_trigger": "Students expressed significant concern about the current relevance and applicability of older qualifications, particularly international degrees from previous decades.",
-          "consultant_response": "Consultants often deferred guidance to future consultations rather than providing immediate reassurance and clear next steps. This approach created unnecessary anxiety and delayed the collaborative planning process.",
+          "student_trigger": "Multiple students disclosed specific needs requiring support services, including one stating: 'I do have ADHD but I am on medication so it should be fine so I just figured I'd reach out if I like was struggling at all.' These disclosures presented opportunities for appropriate support service discussion while maintaining enrollment focus.",
+          "consultant_response": "While maintaining appropriate boundaries, consultants missed opportunities to properly integrate support service information into planning discussions. Responses typically provided basic acknowledgment without ensuring clear understanding of available resources and access procedures.",
           "priority": "high",
-          "recommended_approach": "Consultants should: 1) Provide immediate validation of qualification value, 2) Explain the evaluation process clearly, 3) Explore professional experience gained since qualification, 4) Discuss any potential bridging requirements, and 5) Create clear documentation pathways."
+          "recommended_approach": "Enhance support service discussion by: 1) Acknowledging specific needs empathetically, 2) Providing clear overview of relevant support services within appropriate boundaries, 3) Explaining pre and post-enrollment support access, 4) Ensuring clear communication channels, 5) Following up on administrative concerns promptly, and 6) Documenting support needs for smooth transition to student success teams."
         }
       ]
     }
