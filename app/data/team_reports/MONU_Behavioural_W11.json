@@ -1,36 +1,36 @@
 {
     "type": "behavioural",
     "requirement": "Collaborative planning",
-    "week": 7,
+    "week": 11,
     "university": "Monash",    
-    "reporting_period": "12-09_12-13",
+    "reporting_period": "01-06_01-10",
     "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
     "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
     "graph": {
         "bars": [ 
             {
-                "title": "11-11_11-15\nweek 3",
-                "upper_bound": 75,
-                "lower_bound": 45,
-                "green": 56
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 269.55,
+                "lower_bound": 118.89,
+                "green": 159.84
             },
             {
-                "title": "10-25_11-01\nweek 6",
-                "upper_bound": 65,
-                "lower_bound": 16,
-                "green": 28
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 201.34,
+                "lower_bound": 51.41,
+                "green": 152.60
             },
             {
-                "title": "12-02_12-06\nweek 9",
-                "upper_bound": 60,
-                "lower_bound": 28,
-                "green": 36
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 185.93,
+                "lower_bound": 14.00,
+                "green": 149.83
             },
             {
-                "title": "12-02_12-06\nweek 10",
-                "upper_bound": 67,
-                "lower_bound": 33,
-                "green": 56
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 190.51,
+                "lower_bound": 60.45,
+                "green": 135.45
             }
         ],
         "green_label": "Team average",
@@ -43,36 +43,78 @@
             {
                 "name": "Elisha Odhiambo",
                 "rank": 1,
-                "high_need_score": "100.0%",
-                "all_score": "100.0%",
+                "high_need_score": "50.13%",
+                "all_score": "37.25%",
                 "percentage_high_need": "17/17 (100.0%)"
             },
             {
-                "name": "Olive Jerome",
+                "name": "James Lockie",
                 "rank": 2,
-                "high_need_score": "100.0%",
-                "all_score": "100.0%",
+                "high_need_score": "48.34%",
+                "all_score": "27.17%",
                 "percentage_high_need": "18/20 (90.0%)"
             },
             {
+                "name": "Alyssa Pennacchia",
+                "rank": 3,
+                "high_need_score": "41.42%",
+                "all_score": "30.60%",
+                "percentage_high_need": "12/20 (60.0%)"
+            },
+            {
+                "name": "Tayla Viglione",
+                "rank": 4,
+                "high_need_score": "34.22%",
+                "all_score": "31.62%",
+                "percentage_high_need": "14/20 (70.0%)"
+            },
+            {
+                "name": "Pawan Thapa",
+                "rank": 5,
+                "high_need_score": "33.80%",
+                "all_score": "28.89%",
+                "percentage_high_need": "14/20 (70.0%)"
+            },
+            {
+                "name": "Mrudang Pancholi",
+                "rank": 6,
+                "high_need_score": "33.65%",
+                "all_score": "24.87%",
+                "percentage_high_need": "14/20 (70.0%)"
+            },
+            {
+                "name": "Ramon Keane",
+                "rank": 7,
+                "high_need_score": "32.63%",
+                "all_score": "27.74%",
+                "percentage_high_need": "14/20 (70.0%)"
+            },
+            {
                 "name": "Michael Whyte",
-                "rank": 10,
-                "high_need_score": "100.0%",
-                "all_score": "100.0%",
+                "rank": 8,
+                "high_need_score": "30.47%",
+                "all_score": "25.86%",
                 "percentage_high_need": "10/20 (50.0%)"
             },
             {
-                "name": "Alyssa Pennacchia",
-                "rank": 11,
-                "high_need_score": "100.0%",
-                "all_score": "100.0%",
-                "percentage_high_need": "12/20 (60.0%)"
+                "name": "Luke Williams",
+                "rank": 9,
+                "high_need_score": "28.66%",
+                "all_score": "25.18%",
+                "percentage_high_need": "14/20 (70.0%)"
+            },
+            {
+                "name": "Olive Jerome",
+                "rank": 10,
+                "high_need_score": "15.91%",
+                "all_score": "13.91%",
+                "percentage_high_need": "18/20 (90.0%)"
             }
         ],
         "average_result": {
             "name": "Team average",
-            "high_need_score": "100.0%",
-            "all_score": "100.0%",
+            "high_need_score": "35.64%",
+            "all_score": "28.33%",
             "percentage_high_need": "14/20 (70.0%)"
         }
     },
@@ -167,7 +209,7 @@
     },
     "metadata": {
         "generated_date": "2024-12-13",
-        "report_id": "MONU-B-COLL-W7-2024",
+        "report_id": "MONU-B-COLL-W11-2024",
         "data_source": "OES Sales Excellence.AI"
     }
 }
