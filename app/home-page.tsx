@@ -11,6 +11,12 @@ import ChangePasswordDialog from './components/ChangePasswordDialog';
 interface JsonFile {
   filename: string;
   displayName: string;
+  weekNumber: number;
+}
+
+interface TeamReportFile {
+  filename: string;
+  displayName: string;
 }
 
 import { UserPrivileges } from './types/types';
@@ -23,14 +29,30 @@ interface HomePageProps {
 export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   const router = useRouter();
   const [jsonFiles, setJsonFiles] = useState<JsonFile[]>([]);
-  const [teamReportFiles, setTeamReportFiles] = useState<JsonFile[]>([]);
-  const [selectedFile, setSelectedFile] = useState<string>('');
+  const [teamReportFiles, setTeamReportFiles] = useState<TeamReportFile[]>([]);
+  const [selectedPerson, setSelectedPerson] = useState<string>('');
+  const [selectedPersonWeek, setSelectedPersonWeek] = useState<string>('');
+  const [availablePersonWeeks, setAvailablePersonWeeks] = useState<number[]>([]);
   const [selectedTeam, setSelectedTeam] = useState<string>('');
   const [selectedAnalysis, setSelectedAnalysis] = useState<string>('');
   const [selectedWeek, setSelectedWeek] = useState<string>('');
   const [availableWeeks, setAvailableWeeks] = useState<string[]>([]);
 
-  // Update available weeks when team or analysis changes
+  // Update available weeks for individual reports when person changes
+  useEffect(() => {
+    if (selectedPerson) {
+      const personFiles = jsonFiles.filter(file => file.filename.startsWith(selectedPerson));
+      const weeks = personFiles.map(file => file.weekNumber)
+        .sort((a, b) => a - b);
+      setAvailablePersonWeeks(weeks);
+      setSelectedPersonWeek(''); // Reset selected week when person changes
+    } else {
+      setAvailablePersonWeeks([]);
+      setSelectedPersonWeek('');
+    }
+  }, [selectedPerson, jsonFiles]);
+
+  // Update available weeks for team reports when team or analysis changes
   useEffect(() => {
     if (selectedTeam && selectedAnalysis) {
       const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
@@ -82,10 +104,13 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   };
 
   const handleViewReport = () => {
-    if (selectedFile) {
-      // Ensure we're using the .json extension
-      const filename = selectedFile.endsWith('.json') ? selectedFile : `${selectedFile}.json`;
-      window.open(`/report?file=${encodeURIComponent(filename)}`, '_blank');
+    if (selectedPerson && selectedPersonWeek) {
+      const selectedFile = jsonFiles.find(
+        file => file.filename.startsWith(selectedPerson) && file.weekNumber === parseInt(selectedPersonWeek)
+      );
+      if (selectedFile) {
+        window.open(`/report?file=${encodeURIComponent(selectedFile.filename)}`, '_blank');
+      }
     }
   };
 
@@ -115,43 +140,70 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
                 <select
-                className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
-                          border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                          appearance-none cursor-pointer min-w-[200px] font-medium
-                          ${!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0) ? 'opacity-50 cursor-not-allowed' : ''}`}
-                value={selectedFile}
-                aria-label="Select individual report"
-                onChange={(e) => setSelectedFile(e.target.value)}
-                disabled={!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0)}
-                style={{
-                  backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
-                  backgroundRepeat: 'no-repeat',
-                  backgroundPosition: 'right 1rem center',
-                  backgroundSize: '1em'
-                }}
-              >
-                <option value="">Select a report</option>
-                {jsonFiles
-                  .filter(file => 
-                    isAdmin || 
-                    privileges.individualReports || 
-                    (privileges.allowedReports && privileges.allowedReports.includes(file.filename))
-                  )
-                  .map((file) => (
-                    <option key={file.filename} value={file.filename}>
-                      {file.displayName}
-                    </option>
-                  ))
-                }
-              </select>
+                  className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+                            border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
+                            appearance-none cursor-pointer min-w-[200px] font-medium
+                            ${!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0) ? 'opacity-50 cursor-not-allowed' : ''}`}
+                  value={selectedPerson}
+                  aria-label="Select a report"
+                  onChange={(e) => setSelectedPerson(e.target.value)}
+                  disabled={!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0)}
+                  style={{
+                    backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+                    backgroundRepeat: 'no-repeat',
+                    backgroundPosition: 'right 1rem center',
+                    backgroundSize: '1em'
+                  }}
+                >
+                  <option value="">Select a report</option>
+                  {Array.from(new Set(jsonFiles.map(file => file.filename.replace(/_W\d+\.json$/, ''))))
+                    .filter(filename => 
+                      isAdmin || 
+                      privileges.individualReports || 
+                      (privileges.allowedReports && privileges.allowedReports.some(allowed => allowed.startsWith(filename)))
+                    )
+                    .map((filename) => {
+                      const displayName = jsonFiles.find(file => file.filename.startsWith(filename))?.displayName;
+                      return (
+                        <option key={filename} value={filename}>
+                          {displayName}
+                        </option>
+                      );
+                    })
+                  }
+                </select>
 
-              <button
-                className={`button ${!selectedFile ? 'opacity-50 cursor-not-allowed' : ''}`}
-                onClick={handleViewReport}
-                disabled={!selectedFile}
-              >
-                View report
-              </button>
+                <select
+                  className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+                            border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
+                            appearance-none cursor-pointer min-w-[200px] font-medium
+                            ${!selectedPerson ? 'opacity-50 cursor-not-allowed' : ''}`}
+                  value={selectedPersonWeek}
+                  aria-label="Select week number"
+                  onChange={(e) => setSelectedPersonWeek(e.target.value)}
+                  disabled={!selectedPerson}
+                  style={{
+                    backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+                    backgroundRepeat: 'no-repeat',
+                    backgroundPosition: 'right 1rem center',
+                    backgroundSize: '1em'
+                  }}
+                >
+                  <option value="">Week number</option>
+                  {availablePersonWeeks.map((week) => (
+                    <option key={week} value={week}>
+                      Week {week}
+                    </option>
+                  ))}
+                </select>
+
+                <button
+                  className={`button ${!selectedPerson || !selectedPersonWeek ? 'opacity-50 cursor-not-allowed' : ''}`}
+                  onClick={handleViewReport}
+                  disabled={!selectedPerson || !selectedPersonWeek}
+                >
+                  View report
+                </button>
             </div>
           </div>
         </div>

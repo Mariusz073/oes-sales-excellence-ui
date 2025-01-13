@@ -6,6 +6,7 @@ const path = require('path');
 interface JsonFile {
   filename: string;
   displayName: string;
+  weekNumber: number;
 }
 
 export async function getJsonFiles(): Promise<{ files: JsonFile[] }> {
@@ -15,20 +16,23 @@ export async function getJsonFiles(): Promise<{ files: JsonFile[] }> {
     const files = fs.readdirSync(jsonDirectory)
       .filter((file: string) => file.endsWith('.json'))
       .map((filename: string) => {
-        // Extract name from filename by removing various suffixes and replacing hyphens
+        // Extract week number from filename (e.g., name-surname_W11.json)
+        const weekMatch = filename.match(/_W(\d+)\.json$/);
+        const weekNumber = weekMatch ? parseInt(weekMatch[1]) : 0;
+
+        // Extract name from filename
         const nameOnly = filename
-          .replace(' report.json', '')
-          .replace('_report_test.json', '')
-          .replace('.json', '')
-          .replace(/-/g, ' ');
-        
+          .replace(/_W\d+\.json$/, '') // Remove week number and extension
+          .replace(/-/g, ' '); // Replace hyphens with spaces
+
         // Split by spaces and take first two parts (name and surname)
         const nameParts = nameOnly.split(' ');
         const displayName = nameParts.slice(0, 2).join(' ');
         
         return {
           filename,
-          displayName
+          displayName,
+          weekNumber
         };
       });
     
