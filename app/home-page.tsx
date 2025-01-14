@@ -12,11 +12,14 @@ interface JsonFile {
   filename: string;
   displayName: string;
   weekNumber: number;
+  dateRange?: string;
 }
 
 interface TeamReportFile {
   filename: string;
   displayName: string;
+  weekNumber: number;
+  reportingPeriod?: string;
 }
 
 import { UserPrivileges } from './types/types';
@@ -142,7 +145,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                 <select
                   className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                             border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                            appearance-none cursor-pointer min-w-[200px] font-medium
+                            appearance-none cursor-pointer min-w-[250px] font-medium
                             ${!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0) ? 'opacity-50 cursor-not-allowed' : ''}`}
                   value={selectedPerson}
                   aria-label="Select a report"
@@ -176,7 +179,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                 <select
                   className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                             border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                            appearance-none cursor-pointer min-w-[200px] font-medium
+                            appearance-none cursor-pointer min-w-[250px] font-medium
                             ${!selectedPerson ? 'opacity-50 cursor-not-allowed' : ''}`}
                   value={selectedPersonWeek}
                   aria-label="Select week number"
@@ -189,12 +192,17 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                     backgroundSize: '1em'
                   }}
                 >
-                  <option value="">Week number</option>
-                  {availablePersonWeeks.map((week) => (
-                    <option key={week} value={week}>
-                      Week {week}
-                    </option>
-                  ))}
+                  <option value="">Week</option>
+                  {availablePersonWeeks.map((week) => {
+                    const personFile = jsonFiles.find(file => 
+                      file.filename.startsWith(selectedPerson) && file.weekNumber === week
+                    );
+                    return (
+                      <option key={week} value={week}>
+                        Week {week}: {personFile?.dateRange?.replace('_', ' - ')}
+                      </option>
+                    );
+                  })}
                 </select>
 
                 <button
@@ -213,7 +221,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               <select
               className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-medium
+                        appearance-none cursor-pointer min-w-[250px] font-medium
                         ${!isAdmin && !privileges.teamMonash && !privileges.teamSOL ? 'opacity-50 cursor-not-allowed' : ''}`}
               disabled={!isAdmin && !privileges.teamMonash && !privileges.teamSOL}
               value={selectedTeam}
@@ -234,7 +242,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               <select
               className={`bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-medium
+                        appearance-none cursor-pointer min-w-[250px] font-medium
                         ${!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative ? 'opacity-50 cursor-not-allowed' : ''}`}
               disabled={!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative}
               value={selectedAnalysis}
@@ -255,7 +263,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               <select
               className="bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
                         border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                        appearance-none cursor-pointer min-w-[200px] font-medium"
+                        appearance-none cursor-pointer min-w-[250px] font-medium"
               value={selectedWeek}
               aria-label="Select week number"
               onChange={(e) => setSelectedWeek(e.target.value)}
@@ -267,12 +275,19 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                 backgroundSize: '1em'
               }}
             >
-              <option value="">Week number</option>
-              {availableWeeks.map((week) => (
-                <option key={week} value={week}>
-                  Week {week}
-                </option>
-              ))}
+              <option value="">Week</option>
+              {availableWeeks.map((week) => {
+                const teamFile = teamReportFiles.find(file => 
+                  file.filename.includes(`_W${week}`) && 
+                  file.filename.includes(selectedTeam === 'monash' ? 'MONU' : 'SOL') &&
+                  file.filename.includes(selectedAnalysis === 'compliance' ? 'Compliance' : 'Behavioural')
+                );
+                return (
+                  <option key={week} value={week}>
+                    Week {week}: {teamFile?.reportingPeriod?.replace('_', ' - ')}
+                  </option>
+                );
+              })}
             </select>
 
             <button

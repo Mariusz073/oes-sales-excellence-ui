@@ -7,6 +7,7 @@ interface JsonFile {
   filename: string;
   displayName: string;
   weekNumber: number;
+  dateRange?: string;
 }
 
 export async function getJsonFiles(): Promise<{ files: JsonFile[] }> {
@@ -29,11 +30,27 @@ export async function getJsonFiles(): Promise<{ files: JsonFile[] }> {
         const nameParts = nameOnly.split(' ');
         const displayName = nameParts.slice(0, 2).join(' ');
         
-        return {
-          filename,
-          displayName,
-          weekNumber
-        };
+        // Read and parse the JSON file to get the date range
+        const filePath = path.join(jsonDirectory, filename);
+        try {
+          const fileContent = fs.readFileSync(filePath, 'utf8');
+          const jsonData = JSON.parse(fileContent);
+          const dateRange = jsonData.metadata?.date_range;
+
+          return {
+            filename,
+            displayName,
+            weekNumber,
+            dateRange
+          };
+        } catch (error) {
+          console.error(`Error reading file ${filename}:`, error);
+          return {
+            filename,
+            displayName,
+            weekNumber
+          };
+        }
       });
     
     return { files };
