@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { IndividualPerformanceDialog } from '../components/IndividualPerformanceDialog';
+import { BehavioralPerformanceDialog } from '../components/BehavioralPerformanceDialog';
 import { WeeklyInsightsDialog } from '../components/WeeklyInsightsDialog';
 
 interface WeeklyInsight {
@@ -45,10 +46,14 @@ interface WeeklyInitiativeProps {
     result?: string;
     percentage?: number;
     percentage_high_need?: string;
+    high_need_score?: string;
+    all_score?: string;
   }>;
   averageResult: {
     name: string;
     result: string;
+    high_need_score?: string;
+    all_score?: string;
   };
   weeklyInsights?: {
     verdicts_count: number;
@@ -444,7 +449,7 @@ export const WeeklyInitiative = ({
                 ))}
 
                 {/* View all button */}
-                <IndividualPerformanceDialog 
+                <BehavioralPerformanceDialog 
                   consultants={consultants}
                   averageResult={averageResult}
                   showNonCompliance={showNonCompliance}

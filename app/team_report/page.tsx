@@ -278,9 +278,17 @@ export default async function TeamReportPage({
           consultants={sortedConsultants.map(consultant => ({
             name: consultant.name,
             result: consultant.result,
-            percentage: consultant.percentage
+            percentage: consultant.percentage,
+            high_need_score: consultant.high_need_score,
+            all_score: consultant.all_score,
+            percentage_high_need: consultant.percentage_high_need
           }))}
-          averageResult={reportData.individual_performance.average_result}
+          averageResult={{
+            name: reportData.individual_performance.average_result.name,
+            result: reportData.individual_performance.average_result.result,
+            high_need_score: reportData.individual_performance.average_result.high_need_score,
+            all_score: reportData.individual_performance.average_result.all_score
+          }}
           weeklyInsights={reportData.weekly_insights}
           individualPerformanceCount={reportData.individual_performance.verdicts_count}
         />
