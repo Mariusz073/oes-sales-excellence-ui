@@ -96,7 +96,7 @@ export const BehavioralPerformanceDialog = ({
       </Dialog.Trigger>
       <Dialog.Portal>
         <Dialog.Overlay className="fixed inset-0 bg-black/50 z-50" />
-        <Dialog.Content className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-[#252525] text-white p-8 rounded-lg w-[900px] max-h-[80vh] overflow-y-auto z-50 font-medium">
+        <Dialog.Content className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-[#252525] text-white p-8 rounded-lg w-[1200px] max-h-[80vh] overflow-y-auto z-50 font-medium">
           <div className="grid grid-cols-[auto_280px] items-center mb-6">
             <Dialog.Title className="text-xl font-medium">Individual performance</Dialog.Title>
             <div className="grid grid-cols-[48px_1fr] items-center gap-3 justify-end">
@@ -120,18 +120,24 @@ export const BehavioralPerformanceDialog = ({
           </div>
 
           {/* Header row */}
-          <div className="grid grid-cols-[60px_1fr_200px_200px_200px] gap-4 mb-4 px-4">
+          <div className="grid grid-cols-[60px_300px_200px_200px_200px] gap-4 mb-4 px-4">
             <div>Rank</div>
             <div>Name</div>
-            <div className="text-right">Collaborative-planning score (high-need calls only)</div>
-            <div className="text-right">Collaborative-planning score (All calls)</div>
+            <div className="text-right">
+              <div>Collaborative-planning score</div>
+              <div className="text-sm text-gray-400">(high-need calls only)</div>
+            </div>
+            <div className="text-right">
+              <div>Collaborative-planning score</div>
+              <div className="text-sm text-gray-400">(All calls)</div>
+            </div>
             <div className="text-right">% of high-need calls</div>
           </div>
 
           <div className="space-y-4">
             {/* Consultants above average */}
             {sortedConsultants.slice(0, teamAverageIndex).map((consultant, index) => (
-              <div key={consultant.name} className="grid grid-cols-[60px_1fr_200px_200px_200px] items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+              <div key={consultant.name} className="grid grid-cols-[60px_300px_200px_200px_200px] items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                 <div 
                   className="w-8 h-8 rounded flex items-center justify-center"
                   style={{ backgroundColor: getSquareColor(index, sortedConsultants.length, true) }}
@@ -146,7 +152,7 @@ export const BehavioralPerformanceDialog = ({
             ))}
 
             {/* Team average */}
-            <div className="grid grid-cols-[60px_1fr_200px_200px_200px] items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+            <div className="grid grid-cols-[60px_300px_200px_200px_200px] items-center gap-4 bg-[#1E1E1E] p-4 rounded">
               <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
                 -
               </div>
@@ -158,7 +164,7 @@ export const BehavioralPerformanceDialog = ({
 
             {/* Consultants below average */}
             {sortedConsultants.slice(teamAverageIndex).map((consultant, index) => (
-              <div key={consultant.name} className="grid grid-cols-[60px_1fr_200px_200px_200px] items-center gap-4 bg-[#1E1E1E] p-4 rounded">
+              <div key={consultant.name} className="grid grid-cols-[60px_300px_200px_200px_200px] items-center gap-4 bg-[#1E1E1E] p-4 rounded">
                 <div 
                   className="w-8 h-8 rounded flex items-center justify-center"
                   style={{ backgroundColor: getSquareColor(index + teamAverageIndex, sortedConsultants.length, false) }}
