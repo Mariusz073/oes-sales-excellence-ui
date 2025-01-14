@@ -207,14 +207,17 @@ export default async function TeamReportPage({
                   {graph ? (
                     <>
                       <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
-                        {reportData.type === 'Compliance' ? `${graph.green + graph.red!}%` : `${graph.green}%`}
+                        {reportData.type === 'Compliance' 
+                          ? `${graph.green + graph.red!}%` 
+                          : `${Math.round((graph.green / 380) * 100)}%`}
                       </div>
                       <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
                         {/* Green bar */}
                         <div 
                           className="absolute bottom-0 w-full bg-[#78c38e]" 
                           style={{ 
-                            height: `${graph.green}%`
+                            height: `${(reportData.type === 'behavioural' || reportData.type === 'behavioral') ? 
+                              (graph.green / 380) * 100 : graph.green}%`
                           }}
                         ></div>
                         {reportData.type === 'Compliance' ? (
@@ -232,13 +235,13 @@ export default async function TeamReportPage({
                             <div 
                               className="absolute w-full h-[2px] bg-[#FF6B8A]" 
                               style={{ 
-                                bottom: `${graph.lowerBound}%`
+                                bottom: `${(graph.lowerBound / 380) * 100}%`
                               }}
                             ></div>
                             <div 
                               className="absolute w-full h-[2px] bg-[#FF6B8A]" 
                               style={{ 
-                                bottom: `${graph.upperBound}%`
+                                bottom: `${(graph.upperBound / 380) * 100}%`
                               }}
                             ></div>
                           </>
