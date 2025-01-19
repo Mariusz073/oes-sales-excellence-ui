@@ -1,0 +1,263 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 12,
+    "university": "SOL",
+    "reporting_period": "01-13_01-17",
+    "first_page_title": "<em>SOL Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [
+            {
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 224.46,
+                "lower_bound": 107.02,
+                "green": 181.48
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 199.83,
+                "lower_bound": 91.28,
+                "green": 160.73
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 207.62,
+                "lower_bound": 115.25,
+                "green": 178.81
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 241.99,
+                "lower_bound": 88.46,
+                "green": 174.2
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "upper_bound": 212.73,
+                "lower_bound": 113.6,
+                "green": 157.75
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 4129,
+        "consultant_results": [
+            {
+                "name": "Nicholas Bowers",
+                "high_need_score": "212.7",
+                "all_score": "140.4",
+                "percentage_high_need": "17/244 (7.0%)",
+                "rank": 1
+            },
+            {
+                "name": "Gabriel Almeida",
+                "high_need_score": "204.0",
+                "all_score": "116.8",
+                "percentage_high_need": "10/277 (3.6%)",
+                "rank": 2
+            },
+            {
+                "name": "Yusuf Aly",
+                "high_need_score": "186.0",
+                "all_score": "132.4",
+                "percentage_high_need": "25/268 (9.3%)",
+                "rank": 3
+            },
+            {
+                "name": "Shelton Frimpong",
+                "high_need_score": "182.1",
+                "all_score": "97.8",
+                "percentage_high_need": "17/281 (6.0%)",
+                "rank": 4
+            },
+            {
+                "name": "Jack Colleran",
+                "high_need_score": "177.0",
+                "all_score": "130.8",
+                "percentage_high_need": "15/243 (6.2%)",
+                "rank": 5
+            },
+            {
+                "name": "David Mccarthie",
+                "high_need_score": "168.5",
+                "all_score": "138.6",
+                "percentage_high_need": "34/242 (14.0%)",
+                "rank": 6
+            },
+            {
+                "name": "Valentina William",
+                "high_need_score": "157.3",
+                "all_score": "107.2",
+                "percentage_high_need": "16/181 (8.8%)",
+                "rank": 7
+            },
+            {
+                "name": "Alexandra Kepas",
+                "high_need_score": "154.8",
+                "all_score": "124.5",
+                "percentage_high_need": "12/263 (4.6%)",
+                "rank": 8
+            },
+            {
+                "name": "Rochelle Khaddage",
+                "high_need_score": "152.8",
+                "all_score": "119.2",
+                "percentage_high_need": "20/209 (9.6%)",
+                "rank": 9
+            },
+            {
+                "name": "Robert Cecere",
+                "high_need_score": "150.5",
+                "all_score": "123.8",
+                "percentage_high_need": "22/294 (7.5%)",
+                "rank": 10
+            },
+            {
+                "name": "Sarah Charlwood",
+                "high_need_score": "145.3",
+                "all_score": "125.9",
+                "percentage_high_need": "21/211 (10.0%)",
+                "rank": 11
+            },
+            {
+                "name": "Jake Mckinnis",
+                "high_need_score": "137.6",
+                "all_score": "73.7",
+                "percentage_high_need": "17/296 (5.7%)",
+                "rank": 12
+            },
+            {
+                "name": "Sebastian Saunders",
+                "high_need_score": "131.9",
+                "all_score": "111.4",
+                "percentage_high_need": "20/252 (7.9%)",
+                "rank": 13
+            },
+            {
+                "name": "Stephen Taylor",
+                "high_need_score": "124.0",
+                "all_score": "94.0",
+                "percentage_high_need": "21/290 (7.2%)",
+                "rank": 14
+            },
+            {
+                "name": "Michael Kiag",
+                "high_need_score": "114.8",
+                "all_score": "81.9",
+                "percentage_high_need": "22/215 (10.2%)",
+                "rank": 15
+            },
+            {
+                "name": "Bridgett Young",
+                "high_need_score": "113.6",
+                "all_score": "96.7",
+                "percentage_high_need": "14/363 (3.9%)",
+                "rank": 16
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "157.8",
+            "all_score": "113.4",
+            "percentage_high_need": "303/4129 (7.3%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Strategic Pathway Planning Excellence",
+                        "content": "Student trigger: Students seeking expedited educational pathways and clear progression options | Context/impact: Clear pathway guidance crucial for building student confidence in program fit and completion ability | Consultant response: Effectively explained pathways while maintaining scope: 'So you're going into the Bachelor of Educational Studies, which is literally known as the pathway course' | Improvement: None needed - demonstrates ideal balance of guidance and boundaries"
+                    },
+                    {
+                        "title": "Effective Study Load Management",
+                        "content": "Student trigger: Students expressing concerns about balancing study with work and family commitments | Context/impact: Clear guidance on realistic study loads significantly increased student confidence | Consultant response: Provided balanced recommendations: 'That's a very wise way to approach it... A lot of our most successful students are doing two units at a time' | Improvement: Could enhance with specific flexible study options"
+                    },
+                    {
+                        "title": "Strategic Support Integration",
+                        "content": "Student trigger: Students seeking clarity on accessing support resources and managing study challenges | Context/impact: Clear support service navigation enhanced student confidence while maintaining boundaries | Consultant response: Provided clear overview of support transitions: 'Once enrolled, you'll have access to our student success advisors' | Improvement: Could enhance with specific timeline for support access"
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Limited Context Integration",
+                        "content": "Student trigger: Students providing rich background information about professional and educational experiences | Context/impact: Limited exploration of circumstances reduced ability to provide targeted solutions | Consultant response: Surface-level acknowledgment without meaningfully incorporating context into planning | Improvement: Should explore circumstances more thoroughly while maintaining appropriate boundaries"
+                    },
+                    {
+                        "title": "Limited Alternative Pathway Development",
+                        "content": "Student trigger: Students encountering program availability barriers requiring alternative solutions | Context/impact: Missed opportunities to maintain engagement through exploration of viable alternatives | Consultant response: Focused on limitations without exploring alternative pathways or options | Improvement: Should proactively explore alternative pathways while maintaining enrollment focus"
+                    },
+                    {
+                        "title": "Unclear Process Navigation",
+                        "content": "Student trigger: Student expressed need for guidance on documentation requirements and submission process | Context/impact: Lack of clear process guidance could delay application progress | Consultant response: Failed to provide specific documentation requirements or submission steps | Improvement: Should provide clear document checklist and submission process steps"
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Strategic Pathway Planning Excellence",
+                        "content": {
+                            "student_trigger": "Multiple students sought clarity on expedited educational pathways and progression options. Primary example: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' Supporting cases revealed similar desires for clear understanding of program progression options. These interactions presented crucial opportunities for pathway guidance while maintaining appropriate pre-enrollment boundaries.",
+                            "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear pathway guidance while maintaining appropriate scope. Primary example: 'So you're going into the Bachelor of Educational Studies, which is literally known as the pathway course.' Supporting examples showed consistent skill in outlining program structures and progression options without overstepping into detailed career planning. This approach effectively balanced student needs with appropriate pre-enrollment guidance.",
+                            "recommended_approach": "Continue this exemplary approach by: 1) Acknowledging specific pathway interests, 2) Explaining program structure clearly, 3) Maintaining appropriate pre-enrollment boundaries, 4) Focusing on program features rather than detailed career planning, 5) Creating clear next steps for enrollment consideration, and 6) Ensuring consistent focus on enrollment-relevant information."
+                        }
+                    },
+                    {
+                        "title": "Effective Study Load Management",
+                        "content": {
+                            "student_trigger": "Multiple students expressed concerns about managing study loads alongside existing commitments. Primary example: 'I've got three little kids under eight so I need to make sure I have time for them and the family and everything else.' Supporting examples showed similar needs for balancing ambition with practical constraints.",
+                            "consultant_response": "Consultants demonstrated exemplary collaborative planning by validating student approaches while providing practical guidance within appropriate role boundaries. Primary example: 'That's a very wise way to approach it... A lot of our most successful students are doing two at a time all the way through.' Supporting interactions showed similar skill in balancing encouragement with realistic expectations.",
+                            "recommended_approach": "While maintaining strong current practices, consultants should enhance support by: 1) Explicitly acknowledging student self-awareness about workload management, 2) Providing high-level overview of flexible study options relevant to enrollment, 3) Mentioning available post-enrollment support services while maintaining role boundaries, 4) Offering clear next steps for enrollment while emphasizing support structures, and 5) Creating clearer picture of how workload can be adjusted as needed."
+                        }
+                    },
+                    {
+                        "title": "Strategic Support Integration",
+                        "content": {
+                            "student_trigger": "Multiple students sought clarity on accessing support resources and managing study challenges. Primary example: 'If I get accepted, is there someone who can help with course planning?' Supporting examples revealed similar needs for clear guidance on support system navigation while maintaining appropriate role boundaries.",
+                            "consultant_response": "Consultants consistently demonstrated effective support service integration while maintaining clear role boundaries. Primary example: 'Yes, absolutely. Once enrolled, you'll have access to our student success advisors who can help with detailed course planning.' Supporting interactions showed similar skill in balancing immediate guidance with appropriate post-enrollment resource referral.",
+                            "recommended_approach": "To enhance this positive practice, consultants should: 1) Provide clear overview of support service transitions, 2) Maintain strict role boundaries while ensuring effective handoffs, 3) Outline general support availability without promising specific post-enrollment services, 4) Create clear expectations about support access timing and processes, and 5) Demonstrate understanding of specific support needs while staying within appropriate pre-enrollment guidance scope."
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Limited Context Integration",
+                        "content": {
+                            "student_trigger": "Multiple students provided rich background information about their professional and educational experiences. These disclosures presented valuable opportunities to create personalized planning approaches while maintaining appropriate boundaries. Primary and supporting examples demonstrated consistent pattern of students offering context that could inform pathway planning.",
+                            "consultant_response": "Consultants typically acknowledged information at a surface level without meaningfully incorporating it into planning discussions. Responses focused on administrative details rather than leveraging student context to enhance planning conversations and demonstrate understanding of individual circumstances.",
+                            "recommended_approach": "To enhance context integration while maintaining boundaries: 1) Actively acknowledge shared context, 2) Connect background to relevant program features, 3) Use context to personalize planning discussions, 4) Highlight how previous experiences might benefit their studies, 5) Direct detailed academic planning to post-enrollment support services, and 6) Create clear connection between student circumstances and program benefits."
+                        }
+                    },
+                    {
+                        "title": "Limited Alternative Pathway Development",
+                        "content": {
+                            "student_trigger": "Multiple students encountered program availability barriers requiring alternative solutions. Primary example: 'I'm interested in doing the graphics design... but doing it online and when I go to enroll all I see is options for classroom.' Supporting examples showed similar needs for creative pathway solutions.",
+                            "consultant_response": "Consultants typically focused on limitations rather than exploring alternatives: 'Unfortunately that program isn't available online.' This approach failed to maintain student engagement or explore potential alternative pathways that could meet their educational goals.",
+                            "recommended_approach": "Enhance alternative pathway exploration by: 1) Acknowledging specific program interests, 2) Exploring underlying goals and requirements, 3) Presenting creative alternatives that align with student needs, 4) Discussing comparable program options, 5) Creating clear action plans for exploring alternatives while maintaining enrollment focus, and 6) Ensuring all viable pathways are considered before concluding limitations."
+                        }
+                    },
+                    {
+                        "title": "Unclear Process Navigation",
+                        "content": {
+                            "student_trigger": "Student expressed specific need for guidance on documentation requirements and submission process. This indicated clear need for structured process guidance while maintaining enrollment momentum.",
+                            "consultant_response": "The consultant failed to provide necessary clarity about administrative procedures and documentation requirements, potentially creating barriers to enrollment completion and reducing application momentum.",
+                            "recommended_approach": "Effective process guidance should: 1) Provide clear, itemized document checklist, 2) Explain submission process steps and options, 3) Set realistic timeline expectations, 4) Outline available support for document preparation, 5) Create clear action plan with specific next steps and deadlines, and 6) Ensure student understands complete submission requirements."
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2025-01-19",
+        "report_id": "SOL-B-COLL-W12-2025",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

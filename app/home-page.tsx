@@ -62,10 +62,15 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
       const analysisType = selectedAnalysis === 'compliance' ? 'Compliance' : 'Behavioural';
       
       // Get all files that match the pattern
-      const matchingFiles = teamReportFiles.filter(file => 
-        file.filename.includes(prefix) && 
-        file.filename.includes(analysisType)
-      );
+      const matchingFiles = teamReportFiles.filter(file => {
+        const filename = file.filename;
+        // Handle both naming patterns for behavioral reports
+        if (analysisType === 'Behavioural') {
+          return filename.includes(prefix) && 
+                 (filename.includes('Behavioural-COLL') || filename.includes('Behavioural'));
+        }
+        return filename.includes(prefix) && filename.includes(analysisType);
+      });
 
       // Extract week numbers
       const weeks = matchingFiles.map(file => {
@@ -277,11 +282,18 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             >
               <option value="">Week</option>
               {availableWeeks.map((week) => {
-                const teamFile = teamReportFiles.find(file => 
-                  file.filename.includes(`_W${week}`) && 
-                  file.filename.includes(selectedTeam === 'monash' ? 'MONU' : 'SOL') &&
-                  file.filename.includes(selectedAnalysis === 'compliance' ? 'Compliance' : 'Behavioural')
-                );
+                const teamFile = teamReportFiles.find(file => {
+                  const filename = file.filename;
+                  const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
+                  const isCorrectTeam = filename.includes(prefix);
+                  const hasCorrectWeek = filename.includes(`W${week}`);
+                  
+                  if (selectedAnalysis === 'behavioural') {
+                    return isCorrectTeam && hasCorrectWeek && 
+                           (filename.includes('Behavioural-COLL') || filename.includes('Behavioural'));
+                  }
+                  return isCorrectTeam && hasCorrectWeek && filename.includes('Compliance');
+                });
                 return (
                   <option key={week} value={week}>
                     Week {week}: {teamFile?.reportingPeriod?.replace('_', ' - ')}
