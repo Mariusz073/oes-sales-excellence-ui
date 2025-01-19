@@ -137,8 +137,8 @@ export default async function TeamReportPage({
     })
     .sort((a, b) => b.percentage - a.percentage);
 
-  // Create array of 12 positions
-  const totalBars = 12;
+  // Create array of 13 positions
+  const totalBars = 13;
   const bars = Array.from({ length: totalBars }, (_, index) => {
     if (index < reportData.graph.bars.length) {
       return reportData.graph.bars[index];
@@ -201,7 +201,7 @@ export default async function TeamReportPage({
             </div>
 
             {/* Bars Container */}
-            <div className="relative h-[98%] ml-8 grid grid-cols-12 gap-4">
+            <div className="relative h-[98%] ml-8 grid" style={{ gridTemplateColumns: 'repeat(13, calc((100% - 96px) / 13))', gap: '8px' }}>
               {bars.map((graph, index) => (
                 <div key={index} className="relative">
                   {graph ? (
