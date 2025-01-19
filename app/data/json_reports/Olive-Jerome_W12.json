@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "consultant_name": "Olive Jerome",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 44,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 9,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 20.454545454545457,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 35,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 79.54545454545455,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 72.75784047314768,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 35,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 124.86,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.31,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 172.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.44,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 179.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 62.62,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 60.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 52.85,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 82.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.8,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Support Navigation",
+        "explanation": "Consultants skillfully guide students to appropriate resources while maintaining clear role boundaries"
+      },
+      {
+        "headline": "Flexible Communication Adaptation",
+        "explanation": "Strong demonstration of adjusting communication approaches to match student circumstances and preferences"
+      },
+      {
+        "headline": "Value-Focused Planning",
+        "explanation": "Clear connection of educational planning to future value and career outcomes"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Schedule Planning",
+        "explanation": "Need for more comprehensive exploration of timing solutions when students express scheduling challenges"
+      },
+      {
+        "headline": "Proactive Needs Assessment",
+        "explanation": "Opportunity to better explore and understand student needs before proposing solutions"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "Room to enhance discussions of alternative options when primary paths aren't immediately available"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Disability Support Services Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388646202",
+              "segment_id": "7",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about available disability support services.",
+          "consultant_response": "Consultant immediately confirmed support availability: 'Yeah absolutely in regards to disability support systems we do offer support for students with disabilities in multitude of facets...'",
+          "context_impact": "Clear support confirmation built student confidence in program accessibility.",
+          "recommended_approach": "Could enhance by exploring specific needs while maintaining boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Schedule Accommodation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389171669",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388673075",
+                "segment_id": "91",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed work commitments affecting availability.",
+          "consultant_response": "Offered alternative communication methods: 'Are you all right if I send you the text message with the contact number?'",
+          "context_impact": "Immediate need for flexible communication while maintaining momentum.",
+          "recommended_approach": "Could develop more structured follow-up plans."
+        },
+        {
+          "id": 3,
+          "title": "Effective Value Proposition Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388774173",
+              "segment_id": "247",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about course investment value.",
+          "consultant_response": "Effectively framed course as foundation for future success: 'What you're putting down now is just the foundation on what you're going to be able to achieve.'",
+          "context_impact": "Critical moment for building confidence in educational investment.",
+          "recommended_approach": "Could strengthen with specific alumni success examples."
+        },
+        {
+          "id": 4,
+          "title": "Inadequate Elite Athlete Support Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388646202",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about elite athlete support programs.",
+          "consultant_response": "Brief negative response without alternatives: 'Definitely can't say that we offer that sort of support.'",
+          "context_impact": "Missed opportunity to explore alternative support options.",
+          "recommended_approach": "Should explore specific needs and discuss available flexibility options."
+        },
+        {
+          "id": 5,
+          "title": "Limited Course Timing Flexibility",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389171669",
+              "segment_id": "39",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested course start date change.",
+          "consultant_response": "Simply stated enrollment closure without exploring alternatives.",
+          "context_impact": "Missed opportunity to explore alternative solutions.",
+          "recommended_approach": "Should discuss alternative dates and interim preparation options."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Account Setup Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389139543",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389154772",
+                "segment_id": "55",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on account setup process.",
+          "consultant_response": "Basic information provided without detailed guidance or exploration.",
+          "context_impact": "Limited planning reduced student clarity about next steps.",
+          "recommended_approach": "Should offer step-by-step guidance while encouraging questions."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Disability Support Services Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388646202",
+              "segment_id": "7",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 7, the student inquired about disability support services availability, indicating a critical need for understanding institutional support mechanisms before making an enrollment decision. This inquiry represented a key moment for addressing potential barriers to enrollment and demonstrating institutional commitment to inclusive education.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by immediately confirming support availability with confidence and clarity: 'Yeah absolutely in regards to disability support systems we do offer support for students with disabilities in multitude of facets...' This response effectively acknowledged the importance of the inquiry while maintaining appropriate boundaries between sales and support roles. The approach helped build student confidence in program accessibility while staying within scope.",
+          "priority": "high",
+          "recommended_approach": "While the response was positive, the consultant could enhance their approach by: 1) Probing further into specific types of support the student might need, 2) Asking clarifying questions about particular concerns, 3) Providing a clearer picture of how support services integrate with academic programs. This would help create a stronger foundation for decision-making while maintaining appropriate boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Schedule Accommodation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389171669",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388673075",
+                "segment_id": "91",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students indicated work commitments affecting their availability for enrollment discussions. Primary example: 'No worries. I'm just at work at the moment, so I may not be able to do it now.' This revealed an immediate need for flexible communication approaches while highlighting the importance of maintaining enrollment momentum.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by immediately adapting their approach and offering flexible solutions: 'Are you all right if I send you the text message with the contact number?' This response showed excellent awareness of student circumstances while providing practical solutions that respected work commitments. The approach effectively balanced immediate needs with enrollment progress.",
+          "priority": "High",
+          "recommended_approach": "To further enhance collaborative planning, consultants could: 1) Explore preferred future contact times, 2) Develop structured follow-up plans, 3) Offer multiple communication channel options, and 4) Create clear action items that accommodate work schedules. This would strengthen the process while maintaining appropriate boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Value Proposition Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388774173",
+              "segment_id": "247",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concerns about course investment value, asking 'Is it going to be worth my time and money?' This moment presented a crucial opportunity for collaborative discussion about educational investment and future benefits.",
+          "consultant_response": "The consultant effectively framed the discussion in terms of future value: 'What you're putting down now is just the foundation on what you're going to be able to achieve in the future.' This approach successfully normalized investment concerns while maintaining focus on long-term benefits, demonstrating strong collaborative planning through future-oriented discussion.",
+          "priority": "High",
+          "recommended_approach": "To further enhance the current approach, consultants could: 1) Incorporate specific alumni success stories, 2) Explore student's specific career goals in more detail, 3) Create clearer connections between course content and future opportunities, and 4) Develop more structured discussion points around return on investment."
+        },
+        {
+          "id": 4,
+          "title": "Inadequate Elite Athlete Support Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388646202",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 8, the student inquired about programs for elite athletes, indicating a specific need for specialized support understanding. This moment presented an opportunity to explore alternative support options and demonstrate institutional flexibility in meeting unique student needs.",
+          "consultant_response": "The consultant's brief response, 'Definitely can't say that we offer that sort of support,' fell short of effective collaborative planning. The response missed opportunities to explore the student's specific needs, discuss available alternatives, or demonstrate institutional commitment to supporting diverse student populations.",
+          "priority": "high",
+          "recommended_approach": "An enhanced approach should: 1) Acknowledge the importance of athlete support, 2) Explore specific needs: 'Could you tell me more about what type of support would be most helpful?' 3) Discuss available alternatives: 'While we may not have a specific elite athlete program, let me outline our flexible study options that could help you balance athletic commitments with study.'"
+        },
+        {
+          "id": 5,
+          "title": "Limited Course Timing Flexibility",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389171669",
+              "segment_id": "39",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed interest in changing their start date: 'I was wondering if I could change it to teaching period 1.' This request demonstrated proactive engagement with course planning and revealed an opportunity for collaborative discussion about timing options and alternatives.",
+          "consultant_response": "The consultant's response was limited to stating enrollment closure: 'Teaching period 1, unfortunately, our enrollments for that teaching period close as of December last year.' This approach missed the opportunity to engage in collaborative planning around alternative start dates or interim preparation options.",
+          "priority": "High",
+          "recommended_approach": "A stronger collaborative planning approach would: 1) Acknowledge the student's proactive planning, 2) Explain current timing constraints while exploring alternative start dates, 3) Discuss preparation activities for their current start date, and 4) Create an interim engagement plan. This would maintain student enthusiasm while working within institutional constraints."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Account Setup Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389139543",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389154772",
+                "segment_id": "55",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on account setup and preparation steps, indicating a need for clear direction in beginning their academic journey. These moments presented opportunities for collaborative planning around initial program engagement.",
+          "consultant_response": "Consultants typically provided basic information without detailed guidance or exploration of student needs. The limited engagement in planning these crucial first steps potentially reduced student confidence and clarity about proceeding with enrollment. Responses often lacked the collaborative element needed to ensure student understanding.",
+          "priority": "medium",
+          "recommended_approach": "Consultants should enhance their approach by: 1) Offering to guide students through the account setup process step-by-step, 2) Encouraging questions throughout the explanation, 3) Confirming understanding at key points, 4) Clearly explaining what resources become available after account creation, and 5) Setting clear expectations about the transition to student support services."
+        }
+      ]
+    }
+  }
+}

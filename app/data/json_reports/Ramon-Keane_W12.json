@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "consultant_name": "Ramon Keane",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 223,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 70,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.390134529147986,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 153,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.60986547085201,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.905757894302766,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 153,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 123.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.4,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 179.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 112.56,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career-Educational Integration",
+        "explanation": "Expert alignment of educational pathways with career aspirations while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Proactive Support Resource Navigation",
+        "explanation": "Effective direction to relevant support services while clearly defining role boundaries throughout planning"
+      },
+      {
+        "headline": "Flexible Application Management",
+        "explanation": "Skillful adaptation of enrollment processes and timelines to match individual student circumstances"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Program Specialization Planning",
+        "explanation": "Need for deeper exploration of program specializations and their alignment with specific career goals"
+      },
+      {
+        "headline": "Financial Planning Integration",
+        "explanation": "Opportunity to better incorporate financial planning and support options into educational discussions"
+      },
+      {
+        "headline": "Support Resource Utilization",
+        "explanation": "Required improvement in proactive integration of support resources into planning conversations"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "MBA Specialization Alignment",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465123000",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "E-commerce director seeking digital specialization in MBA program.",
+          "consultant_response": "Focused on administrative matters rather than discussing specialization options.",
+          "context_impact": "Missed opportunity to explore program alignment with specific career needs.",
+          "recommended_approach": "Should explore digital specialization options while maintaining appropriate career guidance boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Financial Options Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229842652",
+              "segment_id": "9",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested comprehensive information about course costs and financial support.",
+          "consultant_response": "Provided basic cost information without exploring available support mechanisms.",
+          "context_impact": "Limited financial planning guidance impacted enrollment confidence.",
+          "recommended_approach": "Should discuss FEE-HELP details and available financial support resources while maintaining appropriate scope."
+        },
+        {
+          "id": 6,
+          "title": "Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "5",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Brief acknowledgment response presented opportunity for deeper planning discussion.",
+          "consultant_response": "Simple acknowledgment without exploring planning opportunities.",
+          "context_impact": "Missed opportunity to explore goals and available support mechanisms.",
+          "recommended_approach": "Should transition to exploring goals and highlighting relevant support resources within role boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Path Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318591236",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454088883",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple professionals demonstrated clear career progression motives. The primary call featured an ERP implementation specialist, while the supporting call included a project manager stating: 'I'm a project manager currently, but my tertiary qualifications aren't in project management, so I'm wanting to bolster that in my tertiary education.' Both cases presented clear opportunities for strategic career-education alignment.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by connecting educational opportunities to both immediate and long-term career benefits. For the project manager, the consultant effectively balanced institutional value with career relevance: 'Monash is the number one business faculty in Australia, so our alumni in this field are particularly highly sought-after in terms of bolstering a resume and formalising your experience into a qualification.' This approach successfully validated professional experience while maintaining appropriate career guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging current professional experience, 2) Connecting program benefits to immediate work applications, 3) Highlighting institutional value proposition, 4) Maintaining focus on educational planning while respecting career guidance boundaries, and 5) Directing to appropriate post-enrollment career support resources."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Application Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229842652",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about their application status and timeline: 'I've applied at a few units just in case, because I didn't know what the situation would be with Monash and whether, like, you know, I'd get accepted or not.' This revealed anxiety about the application process and need for clear guidance.",
+          "consultant_response": "The consultant provided immediate reassurance and clear next steps: 'So we have received your application, thank you very much for that. Let me ask, are we your first choice?... That's good to know because we'll try to handle your application quickly as well because the deadline is coming up in a few weeks time.' This response effectively addressed concerns while demonstrating proactive support and priority handling.",
+          "priority": "High",
+          "recommended_approach": "This interaction demonstrates excellent collaborative planning through: 1) Immediate acknowledgment of concerns, 2) Clear status updates, 3) Proactive timeline management, 4) Priority handling communication, and 5) Building confidence through transparent process explanation. Continue this approach while maintaining appropriate enrollment support boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454105967",
+              "segment_id": "24",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594319514773",
+                "segment_id": "158",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students presented complex eligibility questions requiring support service navigation. The primary call student expressed visa status uncertainty: 'I'm currently on 482 visa, so I don't know.' Supporting calls involved similar complex eligibility matters requiring clear guidance.",
+          "consultant_response": "Consultants maintained clear boundaries while providing effective guidance and referrals. For visa concerns: 'Look, I'm not sure that we can definitely accept this one, but the best way to have an assessment done would be to send us your documents and we can just confirm that, okay?' This response demonstrated appropriate scope while ensuring clear next steps.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging specific concerns clearly, 2) Providing immediate guidance within role boundaries, 3) Explaining assessment processes transparently, 4) Directing to appropriate support services, and 5) Ensuring clear understanding of next steps while maintaining appropriate consulting scope."
+        },
+        {
+          "id": 4,
+          "title": "MBA Specialization Alignment",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465123000",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The e-commerce director articulated clear specialization interests: 'I'm interested in doing the master's MBA but more kind of specialised in digital, because I'm the director of e-commerce in Solomon Island.' This presented a clear opportunity to align program features with specific career specialization needs.",
+          "consultant_response": "The consultant focused primarily on administrative matters: 'Okay, so then you mentioned your previous study, so what's your highest level of education currently...' This approach missed the opportunity to explore how the program could support the student's digital specialization interests while maintaining appropriate career guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "An enhanced approach should: 1) Acknowledge digital specialization interests explicitly, 2) Outline relevant program components while maintaining appropriate boundaries, 3) Highlight how program structure supports digital focus, 4) Connect to relevant post-enrollment support services, and 5) Create clear understanding of specialization options within program framework."
+        },
+        {
+          "id": 5,
+          "title": "Financial Options Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229842652",
+              "segment_id": "9",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student requested comprehensive financial information: 'Can I get an outline of how much the course is going to cost, what I'm looking at, and other options as well with CPS support too?' This indicated a need for detailed financial planning guidance while maintaining appropriate consulting boundaries.",
+          "consultant_response": "The consultant provided only basic cost details without exploring available support options or engaging in collaborative financial planning discussion. This limited response missed an opportunity to address potential financial concerns and build enrollment confidence while maintaining appropriate scope.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach should: 1) Explain FEE-HELP basics including salary thresholds, 2) Direct to official resources for detailed information, 3) Highlight available student support services, 4) Discuss payment flexibility options while maintaining appropriate boundaries, and 5) Create clear understanding of financial support mechanisms within proper consulting scope."
+        },
+        {
+          "id": 6,
+          "title": "Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "5",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Brief acknowledgment response: 'Yeah, good, thanks' presented an opportunity to deepen the planning discussion and explore support needs while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant's simple acknowledgment 'Alright, no worries' missed an opportunity to engage in meaningful planning discussion and gather important context about the student's goals while maintaining proper consulting scope.",
+          "priority": "High",
+          "recommended_approach": "An enhanced collaborative approach would involve: 1) Transitioning from basic acknowledgment to exploring educational goals, 2) Identifying potential support needs within appropriate boundaries, 3) Highlighting relevant support services available during enrollment process, 4) Creating foundation for ongoing planning discussions, and 5) Maintaining clear distinction between pre-enrollment guidance and post-enrollment support."
+        }
+      ]
+    }
+  }
+}

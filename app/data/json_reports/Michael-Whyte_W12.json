@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 140,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 46,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.857142857142854,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 94,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.14285714285714,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.27743115118099,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 94,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 190.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.09,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 108.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.47,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 150.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.56,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 115.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.25,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 125.74,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.98,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Program Flexibility Communication",
+        "explanation": "Successfully explaining program structure and flexibility options while addressing individual student circumstances"
+      },
+      {
+        "headline": "Strategic Career-Aligned Planning",
+        "explanation": "Effectively connecting educational pathways to professional goals while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Skillfully introducing relevant support services while staying within pre-enrollment guidance limits"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Goal Exploration",
+        "explanation": "Need for deeper exploration of student motivations and aspirations before providing program recommendations"
+      },
+      {
+        "headline": "Comprehensive Timeline Planning",
+        "explanation": "Opportunity to create more thorough planning frameworks when students face complex scheduling decisions"
+      },
+      {
+        "headline": "Value Demonstration Enhancement",
+        "explanation": "Need for stronger demonstration of program benefits and value while maintaining enrollment focus"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454307707",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed need for part-time study options while managing work commitments",
+          "consultant_response": "Consultant effectively outlined: 'The way we're structured is you study in six-week blocks where you'll just study one unit at a time which is part-time and then you can just fit in your study whenever you're available.'",
+          "context_impact": "Clear explanation of program flexibility increased student confidence in managing work-study balance",
+          "recommended_approach": "None needed - excellent explanation of program flexibility"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Path Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "5",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought guidance on psychology pathway with existing childcare diploma",
+          "consultant_response": "Consultant outlined complete pathway while maintaining boundaries: 'Starting off with a bachelor degree in psychology and then carrying on from there, going on to do her honours and then going on to her master's.'",
+          "context_impact": "Providing clear progression requirements while maintaining appropriate role boundaries",
+          "recommended_approach": "Could enhance by exploring current qualification relevance"
+        },
+        {
+          "id": 3,
+          "title": "Effective Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318914179",
+              "segment_id": "193",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216681369",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed various support needs from academic guidance to program planning",
+          "consultant_response": "Consultants effectively introduced available support while staying within pre-enrollment scope",
+          "context_impact": "Clear positioning of support services built confidence while maintaining appropriate boundaries",
+          "recommended_approach": "Could provide more specific examples of post-enrollment support options"
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594453552953",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594217235102",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed program interests without detailed exploration of goals and motivations",
+          "consultant_response": "Consultants moved directly to program information without exploring career motivations",
+          "context_impact": "Missed opportunities to strengthen program alignment with career aspirations",
+          "recommended_approach": "Should probe career goals and motivations before providing program guidance"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Timeline Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100940617",
+              "segment_id": "41",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concerns about managing enrollment timing with pending honors offers",
+          "consultant_response": "Focused only on immediate processing time without exploring comprehensive timeline options",
+          "context_impact": "Insufficient support for complex enrollment timeline planning",
+          "recommended_approach": "Should develop thorough timeline framework considering all pathway options and deadlines"
+        },
+        {
+          "id": 6,
+          "title": "Missed Value Demonstration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101533625",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about additional course benefits and access",
+          "consultant_response": "Limited response focusing only on immediate query without exploring broader value proposition",
+          "context_impact": "Missed opportunity to enhance perceived program value",
+          "recommended_approach": "Should comprehensively discuss program benefits and resources while maintaining enrollment focus"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454307707",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 29, the student expressed: 'And this diploma, four questions, five eligible scores, can I do it in part-time because I'm currently working?' This inquiry revealed both immediate scheduling needs and longer-term concerns about balancing work and study commitments, presenting a crucial opportunity for collaborative planning that could significantly impact enrollment confidence.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by providing a clear, structured response: 'The way we're structured is you study in six-week blocks where you'll just study one unit at a time which is part-time and then you can just fit in your study whenever you're available.' This approach effectively addressed multiple aspects of the student's concerns by: 1) Confirming part-time availability, 2) Explaining the structured approach to study periods, 3) Emphasizing flexibility in scheduling, and 4) Maintaining appropriate boundaries while providing valuable information.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach serves as an excellent model for similar situations, demonstrating how to: 1) Acknowledge specific student circumstances, 2) Present program structure clearly and concisely, 3) Emphasize flexibility within established frameworks, 4) Maintain appropriate pre-enrollment boundaries, and 5) Build student confidence through clear information delivery."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Path Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "5",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 5, the student presented a specific academic scenario: 'I have this particular student who would like to study psychology has got a diploma in child care.' This statement created an opportunity for collaborative planning by presenting both current qualifications and future aspirations, requiring clear guidance while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning within appropriate boundaries by providing a comprehensive yet focused outline of the academic journey: 'Yeah, so her first steps would have to be starting off with a bachelor degree in psychology and then carrying on from there, going on to do her honours and then going on to her master's if eventually she wishes to become a qualified psychologist.' This response effectively balanced detailed guidance with appropriate scope, further strengthened by proper referral to campus team resources.",
+          "priority": "High",
+          "recommended_approach": "While the response was strong, consultants could enhance their approach by: 1) Acknowledging the value of existing qualifications in the learning journey, 2) Briefly explaining how the campus team can provide detailed program information, 3) Offering to document the student's interests for a smooth handover, and 4) Creating clearer connections between current experience and future study path."
+        },
+        {
+          "id": 3,
+          "title": "Effective Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318914179",
+              "segment_id": "193",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216681369",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed various support needs ranging from academic guidance to program planning assistance. The primary example showed direct support request: 'I can book in a time where a dedicated course maybe next week sometime.' Supporting cases demonstrated similar patterns of students seeking clarity about available support services.",
+          "consultant_response": "Consultants consistently demonstrated excellent balance in support service integration while maintaining appropriate pre-enrollment boundaries. The primary response effectively positioned available support: 'They're just kind of there to give you that little bit extra support.' Supporting interactions showed similar skill in introducing support services while maintaining enrollment focus.",
+          "priority": "High",
+          "recommended_approach": "To enhance this strong foundation: 1) Provide more specific examples of available post-enrollment support services, 2) Create clearer connections between expressed needs and support options, 3) Set appropriate expectations about support timing and access, 4) Document support interests for effective follow-up, and 5) Maintain clear boundaries while demonstrating comprehensive support availability."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594453552953",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594217235102",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed program interests without receiving detailed goal exploration. One student stated: 'my ultimate goal is to do my doctorate' while another directly inquired about a specific program: 'I'm enquiring regarding the Master of Nates Practitioner Program.' These moments presented crucial opportunities for deeper exploration of career goals and motivations.",
+          "consultant_response": "Consultants consistently moved directly to program information without exploring career motivations or long-term goals. In the primary example, the focus remained on administrative processes rather than understanding career objectives. Supporting interactions showed similar patterns of missed opportunities for deeper career goal exploration.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Explore specific career aspirations before discussing programs, 2) Probe motivations for chosen career paths, 3) Connect program features to stated career goals, 4) Discuss potential specializations aligned with career objectives, 5) Document career goals for more targeted follow-up, and 6) Create clear connections between current experience and future aspirations."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Timeline Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100940617",
+              "segment_id": "41",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed timeline concerns: 'I don't know how fast the process is... I'm still waiting on honors offers.' This situation required comprehensive timeline planning while maintaining appropriate enrollment focus and demonstrated need for structured guidance through complex decision points.",
+          "consultant_response": "The consultant focused narrowly on processing time: 'Should have an answer for you either today or early tomorrow' without exploring comprehensive timeline options or creating clear planning frameworks. This response failed to address the complexity of the student's situation or provide guidance for managing multiple pathway possibilities.",
+          "priority": "High",
+          "recommended_approach": "To enhance timeline planning: 1) Acknowledge multiple pathway considerations, 2) Create flexible timeline framework considering all options, 3) Maintain appropriate pre-enrollment boundaries, 4) Document key decision points and deadlines, 5) Establish clear follow-up processes, 6) Create connections to relevant support resources, and 7) Develop contingency plans for different scenario outcomes."
+        },
+        {
+          "id": 6,
+          "title": "Missed Value Demonstration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101533625",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 1, the student asked: 'Did me participating in this course, would I gain access to anything?' This question presented a key opportunity to enhance perceived program value while maintaining appropriate pre-enrollment focus and demonstrating comprehensive understanding of program benefits.",
+          "consultant_response": "The consultant provided a minimal response: 'As far as I'm aware, there's not. I can double check for you just to see if there's anything extra.' This approach missed the opportunity to explore and demonstrate program value through appropriate discussion of benefits and resources, potentially impacting student confidence in program selection.",
+          "priority": "High",
+          "recommended_approach": "To effectively demonstrate program value: 1) Acknowledge value-related questions enthusiastically, 2) Outline key program benefits and resources within appropriate boundaries, 3) Connect benefits to student goals and circumstances, 4) Maintain focus on enrollment-relevant factors, 5) Create clear connections to post-enrollment support resources, 6) Document specific value interests for appropriate follow-up, and 7) Provide relevant examples of student success outcomes."
+        }
+      ]
+    }
+  }
+}

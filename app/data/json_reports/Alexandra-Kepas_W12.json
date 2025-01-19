@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 263,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 71,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.996197718631176,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 192,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.00380228136882,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.61829386859735,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 192,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.77,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.51,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Work-Study Balance Planning",
+        "explanation": "Successfully guiding students in planning flexible study arrangements while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Effective Program Navigation Support",
+        "explanation": "Breaking down complex educational pathways into manageable steps while staying within consultation scope"
+      },
+      {
+        "headline": "Proactive Momentum Building",
+        "explanation": "Converting student enthusiasm into concrete action steps while maintaining engagement throughout the process"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Pathway Discussion",
+        "explanation": "Need for better connection between program features and career goals while avoiding detailed career planning"
+      },
+      {
+        "headline": "Strategic Digital Support Integration",
+        "explanation": "More comprehensive guidance needed on navigating online learning systems and available support resources"
+      },
+      {
+        "headline": "Strengthened Support Service Navigation",
+        "explanation": "Clearer positioning needed of post-enrollment support services to build student confidence during pre-enrollment"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229586112",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594230368185",
+                "segment_id": "92",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing full-time work with study commitments",
+          "consultant_response": "Consultants effectively explained flexible study options: 'You can fluctuate depending on when you feel more comfortable and if work is busier'",
+          "context_impact": "Clear flexibility options increased confidence in program manageability",
+          "recommended_approach": "None needed - demonstrates ideal balance of guidance and boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Effective Enthusiasm Translation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319520226",
+              "segment_id": "15",
+              "timestamp": "5:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed excitement about returning to study",
+          "consultant_response": "Immediate translation to action: 'I'll take you through what that looks like... step one is just refilling your enrollment form now'",
+          "context_impact": "Consultant successfully channeled enthusiasm into concrete enrollment steps",
+          "recommended_approach": "None needed - excellent example of momentum-driven planning"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594311939123",
+              "segment_id": "71",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed having dyslexia and expressed uncertainty about support",
+          "consultant_response": "Effectively acknowledged needs: 'There's additional support that you can acquire on that basis. I'll send you information about our accessibility team'",
+          "context_impact": "Clear introduction of accessibility services built student confidence",
+          "recommended_approach": "None needed - excellent support service positioning"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Pathway Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465168220",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed career alignment concerns during program discussions",
+          "consultant_response": "Basic responses about restrictions without exploring alternatives",
+          "context_impact": "Limited program-career connection reduced student confidence",
+          "recommended_approach": "Should better connect program features to career goals while maintaining appropriate boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Digital Learning Navigation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319520226",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest and potential anxiety about online platform access",
+          "consultant_response": "Focused on procedural steps instead of addressing platform navigation concerns",
+          "context_impact": "Missed opportunity to build confidence in online learning capabilities",
+          "recommended_approach": "Should provide overview of learning platform and available support resources while maintaining role boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Limited Support Service Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216789953",
+              "segment_id": "151",
+              "timestamp": "24:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about program structure and placement requirements",
+          "consultant_response": "Provided basic timing without effectively positioning support services",
+          "context_impact": "Basic response missed opportunity for strategic support service discussion",
+          "recommended_approach": "Should acknowledge placement importance while clearly positioning post-enrollment support services"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229586112",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594230368185",
+                "segment_id": "92",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing full-time work commitments alongside studies. Primary example: 'How many units, because I do want to do it full-time, but I'm also working full-time.' Supporting example: 'So just because you start off with one method of study doesn't mean you need to consistently do that.' These questions revealed critical needs for clarity about study flexibility options.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning while maintaining appropriate boundaries: 'You can fluctuate depending on when you feel more comfortable and confident and if work's going to be busier... You can only do up to two, but you can fluctuate your studies between the one to two if you know work's going to be busier during one time of the year.' This response effectively balanced providing practical guidance with maintaining appropriate pre-enrollment focus.",
+          "priority": "High",
+          "recommended_approach": "This exemplary approach should be maintained by: 1) Acknowledging work-study balance concerns promptly, 2) Explaining flexible study options within role boundaries, 3) Providing relevant examples while maintaining appropriate scope, 4) Focusing on enrollment-relevant information, 5) Directing detailed study planning to post-enrollment resources"
+        },
+        {
+          "id": 2,
+          "title": "Effective Enthusiasm Translation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319520226",
+              "segment_id": "15",
+              "timestamp": "5:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 5:27 into the call, the student expressed clear enthusiasm: 'I'm just excited to start studying again, that's all.' This spontaneous expression of positive energy presented an ideal opportunity for collaborative planning, indicating readiness to engage in concrete enrollment steps.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by immediately translating enthusiasm into action: 'I'll take you through what that looks like... Essentially, step one is just refilling your enrollment form now over the phone.' This response effectively maintained positive momentum while making the process tangible and manageable. The consultant's approach successfully balanced maintaining enthusiasm with providing practical guidance.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach perfectly aligned with collaborative planning best practices by effectively channeling enthusiasm into action while maintaining momentum. Continue this approach of immediate conversion of positive energy into concrete steps while validating student excitement."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594311939123",
+              "segment_id": "71",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed having dyslexia with uncertainty about support availability: 'I've got dyslexia, I don't know if that qualifies as a disability, but yeah, I've got dyslexia, that's it.' This disclosure represented a crucial moment for demonstrating institutional support while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant effectively acknowledged the need while staying within their role: 'I would say yes in the sense that there's additional support that you can acquire on that basis. I'll send you some additional information and I would recommend having a look into our accessibility team.' This response successfully balanced immediate reassurance with appropriate referral to specialized support services.",
+          "priority": "High",
+          "recommended_approach": "The interaction could be enhanced by: 1) Providing more specific information about accessibility resources, 2) Outlining the support request process, 3) Connecting support services to program success, and 4) Creating clear next steps for engagement with support teams, all while maintaining enrollment focus"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Pathway Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465168220",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed significant career pathway concerns: 'I don't know whether that is included in humanities for example, like do you know how I would go, because I don't want to do the degree and then realise I can't teach English at the end of it.' These queries revealed both immediate program questions and longer-term career planning needs.",
+          "consultant_response": "Consultants typically provided limited responses focused on restrictions: 'Yeah, so you wouldn't be able to teach English, that's its own specialty teaching area.' This approach missed opportunities to explore alternative pathways or connect program features to career objectives while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "Consultants should enhance responses by: 1) Acknowledging career goals while maintaining clear role boundaries, 2) Highlighting program features that support various career paths, 3) Directing to appropriate career planning resources, 4) Emphasizing post-enrollment support options, and 5) Maintaining focus on program alignment while avoiding specific career promises"
+        },
+        {
+          "id": 5,
+          "title": "Digital Learning Navigation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319520226",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed both interest and potential concern about online access: 'Yeah, obviously just how do I get online, that sort of thing, that's all interesting at the moment.' This indicated both curiosity and possible anxiety about navigating the online learning environment.",
+          "consultant_response": "The consultant's response focused primarily on enrollment procedures: 'I'll take you through what that looks like... Essentially, step one is just refilling your enrollment form now over the phone.' This missed the opportunity to address the student's specific concerns about online platform access and navigation.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would be to: 1) Acknowledge the student's interest in the online experience, 2) Provide a high-level overview of the learning platform's key features, 3) Explain available support resources, saying something like: 'The online platform is very user-friendly. Once enrolled, you'll have access to our student hub with comprehensive resources, and our support team is always available to help you get comfortable with the environment.'"
+        },
+        {
+          "id": 6,
+          "title": "Limited Support Service Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216789953",
+              "segment_id": "151",
+              "timestamp": "24:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 24:15, the student inquired about program structure: 'And then when I transfer to Masters of Teaching in April, is it a year course and it involves placement as well?' This question presented an opportunity for strategic planning discussion while maintaining appropriate boundaries around detailed placement information.",
+          "consultant_response": "The consultant provided basic information: 'So it's a two-year program if you study full-time and you'll have placement like throughout your studies.' While providing general timing, this response missed the opportunity for collaborative planning and failed to effectively position post-enrollment support services.",
+          "priority": "High",
+          "recommended_approach": "An ideal response would be: 'The Master's program is typically two years full-time, including professional placements throughout your studies. While I can't provide specific placement details at this stage, our dedicated placement team will work with you after enrollment to plan these around your circumstances. They'll help you understand the requirements and timing in detail. Would you like me to explain how our placement support services work once you're enrolled?'"
+        }
+      ]
+    }
+  }
+}

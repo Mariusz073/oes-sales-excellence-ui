@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 290,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 93,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.068965517241374,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 197,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.93103448275862,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 47.57161677371924,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 197,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 124.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.05,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Planning Integration",
+        "explanation": "Successfully balancing program flexibility with student needs while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Clear Pathway Navigation",
+        "explanation": "Effectively guiding students through educational options while staying within pre-enrollment scope"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Appropriately positioning support services while maintaining clear role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Goal Integration",
+        "explanation": "Need for better alignment of program benefits with career goals while maintaining appropriate scope"
+      },
+      {
+        "headline": "Strategic Process Navigation",
+        "explanation": "Opportunity to provide clearer guidance through complex enrollment processes"
+      },
+      {
+        "headline": "Support Resource Communication",
+        "explanation": "Room to improve explanation of available support services while setting clear expectations"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389408877",
+              "segment_id": "35",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "166",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about managing study loads alongside other commitments",
+          "consultant_response": "Provided specific guidance while emphasizing flexibility: 'You're not going to get locked in. You can change that as you go, and if you start with two and it's not working out, you have until the census date to drop a unit.'",
+          "context_impact": "Clear guidance on flexibility options enhanced student confidence in program manageability",
+          "recommended_approach": "Could enhance by highlighting available post-enrollment support services"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "148",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concerns about career transition impact after 30 years in current field",
+          "consultant_response": "Presented targeted solution addressing time and progression concerns: 'single major...eight elective units...two-year course instead of three years'",
+          "context_impact": "Tailored pathway planning directly influenced enrollment consideration",
+          "recommended_approach": "None needed - excellent balance of guidance and boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Online Learning Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454420198",
+              "segment_id": "176",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed anxiety about first-time online learning experience",
+          "consultant_response": "Provided reassurance while staying within scope: 'Just keep in mind, it is still guided. You're still going to be interacting with people.'",
+          "context_impact": "Effectively addressed online learning concerns while maintaining appropriate support boundaries",
+          "recommended_approach": "Could further clarify distinction between pre and post-enrollment support"
+        },
+        {
+          "id": 4,
+          "title": "Enhanced Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454420198",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "17",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing specific career goals seeking educational guidance",
+          "consultant_response": "Provided basic program information without effectively demonstrating career alignment",
+          "context_impact": "Limited career-program alignment discussion affected enrollment confidence",
+          "recommended_approach": "Should better highlight program-career alignment while maintaining appropriate guidance scope"
+        },
+        {
+          "id": 5,
+          "title": "Process Navigation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389103620",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464713408",
+                "segment_id": "36",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing confusion about enrollment processes and next steps",
+          "consultant_response": "Provided basic information without ensuring understanding or offering structured support",
+          "context_impact": "Lack of clear process guidance created uncertainty about enrollment pathway",
+          "recommended_approach": "Should create clear process roadmap while maintaining appropriate guidance boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319496222",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on available support mechanisms",
+          "consultant_response": "Focused on past issues without providing clear support structure",
+          "context_impact": "Limited support framework explanation reduced enrollment confidence",
+          "recommended_approach": "Should outline support framework while maintaining pre-enrollment boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389408877",
+              "segment_id": "35",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "166",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated thoughtful consideration of study load management. Primary example showed student expressing: 'I think I'm just gonna, I'll probably start with two to see how I go, see how I can handle it.' Supporting examples included exploration of full-time study options and progression paths, indicating critical need for flexible planning support.",
+          "consultant_response": "Consultants demonstrated excellence in collaborative planning by providing clear guidance while emphasizing flexibility. Primary response effectively addressed concerns: 'Absolutely. Remember, you're not going to get locked in. You can change that as you go. And yeah, if you start with two and it's not working out, you have until the census date to drop a unit without getting a penalty.' This approach successfully balanced guidance with student autonomy while maintaining appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "To optimize this pattern: 1) Acknowledge student self-awareness about workload management, 2) Provide clear information about study flexibility options, 3) Highlight relevant support services while maintaining pre-enrollment boundaries, 4) Create clear pathways for accessing additional support when needed, 5) Focus discussion on enrollment-relevant flexibility features"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "148",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant career transition concerns: 'I've been doing what I'm doing now for 30 years and not go in there and then they're like, oh, you've got to start at a junior salary because that would just kill me.' This revealed deep concerns about maintaining professional standing while transitioning careers through education.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by offering a tailored solution: 'Because the other option is, if you are concerned about the time, we do have this single major... That course does have eight elective units... So that would be a two-year course instead of three years.' This effectively addressed both time and career progression concerns while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "Continue this exemplary approach by: 1) Acknowledging career transition concerns while maintaining appropriate boundaries, 2) Focusing on program features that support career development, 3) Avoiding specific career outcome promises, 4) Creating clear connections between program benefits and student goals, 5) Directing detailed career planning to appropriate post-enrollment resources"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Online Learning Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454420198",
+              "segment_id": "176",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 176, the student expressed significant anxiety about online learning: 'It's just pressure. I'm thinking like I've never done online courses before.' This statement revealed both apprehension about the online format and crucial need for support system clarification.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by providing reassurance while staying within appropriate pre-enrollment scope: 'Just keep in mind, it is still guided. You're still going to be interacting with people.' This response effectively highlighted the supportive nature of the online learning environment without overstepping into detailed study planning.",
+          "priority": "High",
+          "recommended_approach": "To enhance this positive practice: 1) Acknowledge and validate online learning concerns, 2) Provide high-level overview of available support systems, 3) Clearly differentiate between pre-enrollment guidance and post-enrollment support, 4) Direct detailed study planning questions to appropriate support services, 5) Maintain focus on enrollment decision-relevant information"
+        },
+        {
+          "id": 4,
+          "title": "Enhanced Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454420198",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "17",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific career goals seeking educational guidance. Primary example: 'I want to pursue my career as a teacher in the future, so I thought I would do a master's in education primary online.' Supporting example showed similar need for career-aligned educational guidance.",
+          "consultant_response": "Consultants typically provided basic program information without effectively exploring career alignment or maintaining appropriate boundaries between general guidance and specific career planning. This approach missed opportunities to demonstrate program value while staying within proper pre-enrollment scope.",
+          "priority": "High",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge career goals, 2) Provide high-level program alignment information, 3) Direct detailed career planning to appropriate resources, 4) Focus on enrollment-relevant program features, 5) Clearly differentiate between general guidance and specific career planning"
+        },
+        {
+          "id": 5,
+          "title": "Process Navigation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389103620",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464713408",
+                "segment_id": "36",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed confusion about enrollment processes. Key example: 'Okay so sorry I'm confused now so I have to do the other one first yeah?' This indicated significant need for clearer process explanation and guidance.",
+          "consultant_response": "Consultants typically provided basic information without ensuring full understanding: 'Do you just need to enroll and just pass one more unit in that course all the units are the same so when you pass and you do your course transfer any units that you pass in the educational studies course will get credited to you.' This approach lacked structured guidance and clear next steps.",
+          "priority": "High",
+          "recommended_approach": "A stronger approach would: 1) Break down processes into clear, manageable steps, 2) Confirm understanding at each stage, 3) Provide written follow-up resources, 4) Establish clear support checkpoints, 5) Create structured follow-up plans while maintaining appropriate pre-enrollment boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319496222",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on enrollment status and support mechanisms: 'You're still enrolled, just to confirm that detail.' This represented an opportunity for strategic support framework discussion while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant focused primarily on past issues rather than future support: 'And I'm just so sorry for that journey we've had together trying to confirm all of those details.' This missed the opportunity to build confidence through clear support structure and failed to maintain appropriate collaborative planning approach.",
+          "priority": "High",
+          "recommended_approach": "To enhance support integration: 1) Confirm current status clearly, 2) Outline available support framework, 3) Connect support to student needs, 4) Create clear action items, 5) Maintain pre-enrollment boundaries while building confidence, 6) Reference specific post-enrollment resources"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 183,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 39,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.311475409836063,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 144,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.68852459016394,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.11722296414304,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 144,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 134.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.26,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.05,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 120.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 80.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 157.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.28,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 155.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.72,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Effectively guiding students through educational pathways by connecting their background with clear progression options"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Successfully incorporating support services into planning discussions while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Experience-Based Planning",
+        "explanation": "Effectively leveraging professional experience to enable targeted educational planning and program recommendations"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Prerequisites Management",
+        "explanation": "Need for more proactive exploration of prerequisite requirements and alternative pathway options"
+      },
+      {
+        "headline": "Comprehensive Study Planning",
+        "explanation": "Opportunity to provide more thorough exploration of flexible study arrangements and support mechanisms"
+      },
+      {
+        "headline": "Goal-Aligned Program Matching",
+        "explanation": "Need for deeper investigation of student goals when exploring and recommending program options"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "41",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216647364",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students revealed significant professional backgrounds, including extensive business ownership experience.",
+          "consultant_response": "Consultants effectively suggested appropriate entry points based on experience: 'You would need to start in the Graduate Certificate based on work experience if you were to apply.'",
+          "context_impact": "Recognition of professional experience enabled precise program recommendations and pathway planning.",
+          "recommended_approach": "None needed - exemplary demonstration of experience-based pathway guidance."
+        },
+        {
+          "id": 2,
+          "title": "Effective Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389071859",
+              "segment_id": "61-66",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229587266",
+                "segment_id": "40-45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing health conditions and learning disabilities during studies.",
+          "consultant_response": "Provided clear support mechanism guidance: 'Our student advisors who will be your support moving forward after you're enrolled can guide you through those steps.'",
+          "context_impact": "Clear support service guidance increased student confidence while maintaining appropriate boundaries.",
+          "recommended_approach": "Could enhance by providing clearer overview of transition to post-enrollment support."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Alternative Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319545092",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594312341769",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking alternative pathways when primary program options weren't suitable.",
+          "consultant_response": "Provided specific alternatives while maintaining boundaries: 'The only other thing that we could suggest for you instead is a master of computer science...'",
+          "context_impact": "Clear presentation of viable alternatives maintained enrollment momentum.",
+          "recommended_approach": "Could enhance by providing clearer transition timelines."
+        },
+        {
+          "id": 4,
+          "title": "Limited Prerequisites Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100947009",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594217427792",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about lacking prerequisites, particularly math requirements.",
+          "consultant_response": "Basic responses without exploring solutions: 'Unfortunately with this course you need to have at least one year of management experience.'",
+          "context_impact": "Insufficient guidance on prerequisites created potential enrollment barriers.",
+          "recommended_approach": "Should explore alternative pathways and preparatory options while maintaining appropriate boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Study Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230387337",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388749119",
+                "segment_id": "12",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed uncertainty about managing study commitments alongside work.",
+          "consultant_response": "Basic overviews without exploring specific solutions: 'There are various courses available to choose from.'",
+          "context_impact": "Limited exploration of flexible study options reduced enrollment confidence.",
+          "recommended_approach": "Should provide comprehensive overview of flexible study options and support mechanisms."
+        },
+        {
+          "id": 6,
+          "title": "Missed Program Alignment Opportunity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "9",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student clarified interest in online courses rather than Masters program.",
+          "consultant_response": "Simply redirected to alternative program without exploring online offerings.",
+          "context_impact": "Opportunity missed to explore relevant online program options.",
+          "recommended_approach": "Should explore student's specific interests and discuss relevant online program options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "41",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216647364",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated significant professional backgrounds, with one revealing '17 years of business ownership' and another discussing extensive industry experience. These disclosures presented crucial opportunities for collaborative planning by aligning substantial experience with appropriate educational pathways. The students' willingness to share their professional backgrounds created perfect moments for tailored guidance that could significantly impact enrollment decisions.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning by immediately recognizing the value of professional experience and providing clear, targeted guidance: 'You would need to start in the Graduate Certificate based on work experience if you were to apply.' This approach effectively balanced acknowledging significant experience while maintaining focus on academic pathways. The consultants successfully validated professional experience while providing clear direction on academic progression options, creating confidence in the recommended pathways.",
+          "priority": "High",
+          "recommended_approach": "This strong practice should be maintained and enhanced by: 1) Immediately acknowledging and validating significant professional experience, 2) Providing clear guidance on how experience maps to program entry requirements, 3) Suggesting appropriate starting points based on experience level, 4) Outlining potential progression pathways, and 5) Maintaining focus on educational pathways while staying within proper boundaries regarding detailed experience assessment."
+        },
+        {
+          "id": 2,
+          "title": "Effective Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389071859",
+              "segment_id": "61-66",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229587266",
+                "segment_id": "40-45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing health conditions and learning disabilities during their studies. In one case, a student inquired about transferring a previous care plan, while another discussed an ongoing dyslexia diagnosis. These situations presented critical opportunities to demonstrate institutional support while maintaining appropriate pre-enrollment boundaries and building confidence in available assistance.",
+          "consultant_response": "Consultants effectively balanced immediate reassurance with appropriate referral to post-enrollment support services, stating: 'Our student advisors who will be your support moving forward after you're enrolled can guide you through those steps.' This approach successfully acknowledged concerns while maintaining proper boundaries, provided high-level information about available support mechanisms, and clearly explained the role of student advisors in developing detailed support plans post-enrollment.",
+          "priority": "High",
+          "recommended_approach": "While current practice is strong, consultants could enhance their approach by: 1) Providing a clearer overview of the transition process to post-enrollment support, 2) Highlighting the range and depth of support services available, 3) Explaining how support needs are assessed and accommodated, 4) Emphasizing the institution's commitment to student success, and 5) Maintaining appropriate pre-enrollment boundaries while building confidence in available support."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Alternative Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319545092",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594312341769",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought alternative pathways when primary options weren't suitable, with one explicitly asking: 'I don't know if there's any like bridging courses or anything that you can do.' These moments required skillful navigation of program options while maintaining appropriate boundaries and ensuring students remained engaged in the enrollment process.",
+          "consultant_response": "Consultants successfully presented viable alternatives while staying within role scope, stating: 'The only other thing that we could suggest for you instead is a master of computer science... you could use your science degree for entering that course.' This approach effectively addressed student needs while maintaining focus on enrollment possibilities and demonstrating flexibility in finding suitable pathways.",
+          "priority": "High",
+          "recommended_approach": "To enhance this strong practice, consultants should: 1) Acknowledge original program interest, 2) Present clear alternative pathways, 3) Explain qualification alignment, 4) Provide high-level transition timelines, 5) Position post-enrollment support for detailed planning, and 6) Maintain focus on finding suitable pathways while staying within appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Limited Prerequisites Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100947009",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594217427792",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about prerequisites, with one stating: 'I know one of the prerequisites are like having math in year 12, but like I've never done any math subject.' Another noted: 'Management? Nope.' These moments required careful navigation of experience requirements while maintaining enrollment momentum and exploring viable alternatives.",
+          "consultant_response": "Consultants provided basic responses without exploring solutions: 'Unfortunately with this course you need to have at least one year of management experience' and 'You would have to speak to our campus just because we don't actually offer that course, so I'm not fully up on all the entry criteria.' These responses failed to address underlying concerns or explore alternative pathways, potentially impacting student confidence and enrollment progression.",
+          "priority": "High",
+          "recommended_approach": "A more effective collaborative planning approach would: 1) Acknowledge prerequisite concerns directly, 2) Explore alternative pathways or preparatory options, 3) Discuss relevant bridging programs or experience-building opportunities, 4) Maintain engagement by focusing on viable solutions, and 5) Stay within appropriate pre-enrollment boundaries while providing constructive guidance toward meeting requirements."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Study Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230387337",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388749119",
+                "segment_id": "12",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about managing study commitments alongside work, with explicit statements like 'I'm not sure how I can manage my study commitments with my job.' These concerns represented crucial moments for demonstrating program flexibility and support options while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants provided only basic overviews without exploring specific solutions, offering generic statements like 'There are various courses available to choose from' and 'You should be fine managing your work in this at the same time.' These responses missed opportunities to demonstrate program value through flexible study options and support mechanisms.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge specific work-study balance concerns, 2) Provide comprehensive overview of flexible study options and program structures, 3) Explain available learning support systems, 4) Highlight various study load options and their implications, 5) Demonstrate how flexibility features accommodate different work schedules, and 6) Maintain appropriate boundaries while building confidence in ability to succeed."
+        },
+        {
+          "id": 6,
+          "title": "Missed Program Alignment Opportunity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "9",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student clearly stated their specific interest: 'So actually, I was not interested in the Masters of Marketing... I was actually interested in some of the online courses.' This presented a crucial opportunity to redirect the conversation toward relevant online program options that could better serve the student's needs and maintain enrollment momentum.",
+          "consultant_response": "The consultant's response was limited to: 'Yeah, this isn't the boot camp. You've inquired with the postgraduate degrees. The boot camp is run through the campus. You'll need to have a chat with them directly.' While accurately identifying the misalignment, this response failed to explore other suitable online programs or maintain engagement in the enrollment process.",
+          "priority": "High",
+          "recommended_approach": "A stronger collaborative planning approach would: 1) Thank the student for clarifying their interests, 2) Explore specific areas or outcomes they're seeking, 3) Present relevant online program options, 4) Discuss how available programs align with their goals, 5) Maintain engagement by focusing on finding suitable alternatives, and 6) Stay within appropriate pre-enrollment boundaries while demonstrating program value and flexibility."
+        }
+      ]
+    }
+  }
+}

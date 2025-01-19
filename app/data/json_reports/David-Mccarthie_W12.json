@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 242,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 71,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.338842975206614,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 171,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.66115702479338,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.213426450774286,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 171,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 235.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 121.42,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 168.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.55,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career-Program Alignment",
+        "explanation": "Effectively connecting educational pathways with career goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Successfully adapting program recommendations based on individual circumstances while setting realistic expectations"
+      },
+      {
+        "headline": "Proactive Process Navigation",
+        "explanation": "Demonstrating initiative in guiding students through next steps while maintaining clear role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Integration",
+        "explanation": "Need for more comprehensive understanding of student circumstances while maintaining sales focus"
+      },
+      {
+        "headline": "Study Load Planning",
+        "explanation": "Opportunity to provide more strategic guidance on aligning study periods with work commitments"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "Room for more proactive exploration of alternative options when primary pathways aren't suitable"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100737108",
+              "segment_id": "1",
+              "timestamp": "0:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100699938",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing desire for career transitions, including teacher's aid seeking pathway into teaching and mid-life career change aspirations.",
+          "consultant_response": "Effectively presented pathway options while maintaining appropriate career guidance scope: 'The great thing is it does sound like you're gonna be eligible for our pathway into the Bachelor of Education Primary.'",
+          "context_impact": "Clear alignment of educational pathways with career goals strengthened enrollment confidence while maintaining appropriate boundaries.",
+          "recommended_approach": "None needed - exemplary handling of career guidance boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Clear Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312232565",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100902889",
+                "segment_id": "170",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on next steps in enrollment process with specific documentation questions.",
+          "consultant_response": "Providing structured outlines while confirming understanding: 'I'll walk you through our next steps together. First, I'll review your documents right now.'",
+          "context_impact": "Proactive guidance through process steps maintained momentum and built student confidence.",
+          "recommended_approach": "None needed - strong process guidance demonstrated"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216690446",
+              "segment_id": "180",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388770500",
+                "segment_id": "222",
+                "timestamp": "7:19"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking flexible study arrangements to balance work and life commitments.",
+          "consultant_response": "Provided balanced guidance: 'Let's start with one unit for your first teaching period to gain that confidence, then you can adjust based on your comfort level.'",
+          "context_impact": "Tailored study load recommendations enhanced student confidence in program manageability.",
+          "recommended_approach": "Could further emphasize post-enrollment support for detailed planning"
+        },
+        {
+          "id": 5,
+          "title": "Limited Study Period Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464580551",
+              "segment_id": "82",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressing interest in understanding teaching period structure and flexibility options.",
+          "consultant_response": "Basic information provided without exploring personalized scheduling options or work-study balance.",
+          "context_impact": "Missed opportunities to create confidence through personalized study planning discussions.",
+          "recommended_approach": "Engage in collaborative discussion about aligning study periods with work commitments while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Limited Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101451406",
+              "segment_id": "3",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student encountering program availability barriers requiring alternative solutions.",
+          "consultant_response": "Focused on limitations rather than solutions: 'Unfortunately that program isn't available online.'",
+          "context_impact": "Missed opportunity to maintain engagement through exploration of viable alternatives.",
+          "recommended_approach": "Should proactively explore alternative pathways while maintaining enrollment focus"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100737108",
+              "segment_id": "1",
+              "timestamp": "0:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100699938",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire for career transitions, with primary example revealing current role as teacher's aid with Year 10 education seeking pathway into teaching at age 35, while supporting example stated 'I want to go back and do some study and have sort of a kind of a mid-life career change.' These statements represented crucial moments for collaborative planning that could significantly impact enrollment decisions.",
+          "consultant_response": "Consultants demonstrated excellence in identifying and presenting viable pathways while maintaining appropriate career guidance boundaries. Primary example: 'The great thing is it does sound like you're gonna be eligible for our pathway into the Bachelor of Education Primary... we can pop you into the Bachelor of Educational Studies as your pathway.' These responses effectively built confidence while maintaining clear role boundaries and focusing on educational pathways rather than detailed career planning.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging career aspirations while focusing on educational pathways, 2) Providing clear program information relevant to career goals, 3) Maintaining appropriate pre-enrollment boundaries, 4) Referring detailed career planning to post-enrollment support services, and 5) Creating confidence through targeted educational guidance."
+        },
+        {
+          "id": 2,
+          "title": "Clear Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312232565",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100902889",
+                "segment_id": "170",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "At critical decision points, students sought clarity about next steps with specific questions about documentation and process requirements: 'So what exactly happens next with my application? What do I need to do?' These moments represented key opportunities for maintaining momentum through clear process guidance while building student confidence.",
+          "consultant_response": "Consultants excelled at providing clear, structured responses that maintained momentum while ensuring student understanding: 'I'll walk you through our next steps together. First, I'll review your documents right now. Then, once confirmed, we'll discuss your study preferences and create your enrollment plan.' This approach effectively balanced immediate action with clear communication and student involvement.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach by: 1) Providing clear, step-by-step process outlines that engage students in the planning, 2) Confirming student understanding at each stage while maintaining momentum, 3) Setting clear expectations about timelines and responsibilities, and 4) Maintaining engagement through regular check-points and clear communication."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216690446",
+              "segment_id": "180",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388770500",
+                "segment_id": "222",
+                "timestamp": "7:19"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on managing study loads alongside work and life commitments. Primary example expressed uncertainty about ideal unit load, while supporting example indicated need for part-time study flexibility. These inquiries presented critical opportunities for collaborative planning around program manageability.",
+          "consultant_response": "Consultants provided strategic guidance while maintaining appropriate boundaries: 'Let's start with one unit for your first teaching period to gain that confidence, then you can adjust based on your comfort level.' This approach effectively balanced immediate planning needs with appropriate pre-enrollment scope, creating confidence while deferring detailed planning to post-enrollment support services.",
+          "priority": "High",
+          "recommended_approach": "Enhance this strong approach by: 1) Exploring high-level scheduling needs, 2) Providing clear unit load options, 3) Explaining flexibility to adjust, 4) Highlighting post-enrollment planning support, and 5) Maintaining focus on enrollment decision-making rather than detailed study planning."
+        },
+        {
+          "id": 5,
+          "title": "Limited Study Period Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464580551",
+              "segment_id": "82",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students showed clear interest in understanding how teaching periods could accommodate their schedules: 'I work full-time and need to understand how the study periods would fit with my commitments.' These moments created opportunities for collaborative planning around study load and timing that were often underutilized.",
+          "consultant_response": "Current approaches typically provided basic information about teaching period structure without exploring personalized options: 'We have multiple teaching periods throughout the year.' This missed opportunities to engage in meaningful discussion about how different study loads and timing options could align with student commitments.",
+          "priority": "High",
+          "recommended_approach": "Improve these discussions by: 1) Exploring student work patterns and commitments through targeted questions, 2) Explaining how different study loads might align with schedules while maintaining appropriate boundaries, 3) Discussing flexibility options without moving into detailed study planning, and 4) Referencing post-enrollment support for detailed study planning needs."
+        },
+        {
+          "id": 6,
+          "title": "Limited Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101451406",
+              "segment_id": "3",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student encountered program availability barriers, requiring exploration of alternative solutions: 'I'm interested in doing the graphics design... but doing it online and when I go to enroll all I see is options for classroom.' This presented a critical opportunity for collaborative exploration of viable alternatives.",
+          "consultant_response": "Consultant focused on limitations rather than solutions: 'Unfortunately that program isn't available online.' This approach failed to maintain student engagement or explore potential alternative pathways that could meet their educational goals.",
+          "priority": "High",
+          "recommended_approach": "Enhance alternative pathway exploration by: 1) Acknowledging specific program interests, 2) Exploring underlying goals and requirements, 3) Presenting creative alternatives that align with student needs, 4) Discussing comparable program options, and 5) Creating clear action plans for exploring alternatives while maintaining enrollment focus."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 287,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 34,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 11.846689895470384,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 253,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 88.15331010452961,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 47.67949946573413,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 253,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 269.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 182.46,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 178.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.64,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.48,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 190.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.56,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.07,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Expert Program Flexibility Integration",
+        "explanation": "Consultants effectively align program structures with student work commitments while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Consultants successfully connect program features to career goals while staying within enrollment guidance scope"
+      },
+      {
+        "headline": "Proactive Support Resource Navigation",
+        "explanation": "Consultants appropriately direct students to relevant support services while maintaining pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Financial Planning Discussion",
+        "explanation": "Need for more comprehensive exploration of payment options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Deeper Student Interest Investigation",
+        "explanation": "Opportunity to better explore student interests and connect them to program features within sales role scope"
+      },
+      {
+        "headline": "Strengthened Online Learning Support",
+        "explanation": "Need for better explanation of online learning support structures while maintaining appropriate boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Expert Course Flexibility Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388988780",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454465914",
+                "segment_id": "45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Full-time professionals expressing concerns about balancing work commitments with study requirements",
+          "consultant_response": "Effectively explained program design: 'all our courses pretty much have a 99% cohort of full-time workers, so they are designed for people who are in the position like yourself'",
+          "context_impact": "Clear demonstration of program flexibility increased student confidence in managing work-study balance",
+          "recommended_approach": "Could enhance by more explicitly positioning detailed planning support as post-enrollment benefit"
+        },
+        {
+          "id": 2,
+          "title": "Limited Financial Planning Engagement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388805363",
+              "segment_id": "92",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594453621161",
+                "segment_id": "main",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about course costs and payment options",
+          "consultant_response": "Basic cost information provided without exploring payment options or discussing value proposition",
+          "context_impact": "Limited financial planning discussion affected student confidence in proceeding",
+          "recommended_approach": "Should provide comprehensive overview of payment options and FEE-HELP while maintaining appropriate boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Effective Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "4:55",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454356948",
+                "segment_id": "44",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking to align educational choices with career progression goals",
+          "consultant_response": "Effectively acknowledged career goals while focusing discussions on program relevance",
+          "context_impact": "Successfully connected program features to career development while maintaining boundaries",
+          "recommended_approach": "None needed - excellent balance of career guidance within role boundaries"
+        },
+        {
+          "id": 4,
+          "title": "Online Learning Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319450701",
+              "segment_id": "114",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed first-time online learning concerns: 'I've never done any course on Monash Online'",
+          "consultant_response": "Basic acknowledgment without detailed support information",
+          "context_impact": "Addressing online learning concerns critical for enrollment confidence",
+          "recommended_approach": "Should provide specific online learning support details while maintaining appropriate boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Strategic Support Resource Direction",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319450701",
+              "segment_id": "92",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested additional program information and support resources",
+          "consultant_response": "Consultant proactively offered relevant resources: 'I can send you our course guide which outlines the full program structure'",
+          "context_impact": "Proactive resource sharing crucial for informed decision-making",
+          "recommended_approach": "None needed - excellent proactive resource provision within role boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Interest Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464587992",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed strong interest in artificial intelligence aspects of program",
+          "consultant_response": "Basic acknowledgment without exploring interests or demonstrating program relevance",
+          "context_impact": "Missed opportunity to align specific interests with program features",
+          "recommended_approach": "Should explore specific interests and connect to program features while maintaining sales role boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Expert Course Flexibility Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388988780",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454465914",
+                "segment_id": "45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple interactions showed professionals expressing concern about managing study alongside work commitments. Primary example: 'I am currently a full-time teacher, so I was interested in the flexibility of the course.' Supporting examples demonstrated similar needs for schedule accommodation while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately contextualizing the program's flexibility: 'all our courses pretty much have a 99% cohort of full-time workers, so they are designed for people who are in the position like yourself and this course is pretty much full of teachers as well.' This response effectively validated concerns while providing concrete evidence of program suitability. Supporting examples showed consistent ability to demonstrate flexibility while maintaining appropriate pre-enrollment guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "To enhance this positive practice: 1) Acknowledge specific professional contexts, 2) Provide concrete examples of successful work-study integration, 3) Position learning advisors as post-enrollment resource for detailed planning, 4) Focus on flexibility features relevant to enrollment decisions, 5) Clearly differentiate between pre and post-enrollment support services"
+        },
+        {
+          "id": 2,
+          "title": "Limited Financial Planning Engagement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388805363",
+              "segment_id": "92",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594453621161",
+                "segment_id": "main",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed financial concerns, with one noting: 'Yeah, it's still a lot of money... I was just hoping that I can get that loan, but it seems like it's not possible?' These inquiries indicated clear need for financial planning guidance within appropriate boundaries.",
+          "consultant_response": "Consultants typically provided basic cost information without exploring payment options or discussing value proposition. Responses often missed opportunities to explain available financial pathways while maintaining appropriate pre-enrollment boundaries. This pattern of minimal financial discussion potentially impacted student confidence in proceeding with enrollment.",
+          "priority": "high",
+          "recommended_approach": "Enhanced approach should: 1) Provide overview of payment options available, 2) Explain basic FEE-HELP information for eligible students, 3) Highlight flexibility in payment arrangements, 4) Direct to appropriate financial resources, 5) Refer to student advisors for specific financial planning needs, 6) Maintain focus on enrollment-relevant financial information"
+        },
+        {
+          "id": 3,
+          "title": "Effective Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "4:55",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454356948",
+                "segment_id": "44",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire to align educational choices with career progression, exemplified by: 'I want to continue that, you know, because I want to pursue a professional career.' These situations required careful balance between supporting career aspirations and maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants effectively acknowledged career goals while focusing discussions on program relevance rather than detailed career planning. They demonstrated skill in exploring how programs could support career transitions without overstepping into detailed career guidance or making specific promises about outcomes.",
+          "priority": "High",
+          "recommended_approach": "Continue current approach while: 1) Acknowledging career aspirations within appropriate scope, 2) Focusing on program alignment with career goals, 3) Maintaining high-level discussion without detailed career planning, 4) Referring specific career planning needs to post-enrollment support services, 5) Preserving clear role boundaries throughout interactions"
+        },
+        {
+          "id": 4,
+          "title": "Online Learning Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319450701",
+              "segment_id": "114",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant uncertainty about online learning: 'I've never done any course on Monash Online.' This statement presented a crucial opportunity to address online learning anxiety while maintaining appropriate support boundaries. The student's expression of both uncertainty and willingness to try indicated an ideal moment for collaborative planning focused on building confidence in the online learning environment.",
+          "consultant_response": "The consultant provided only basic acknowledgment of online learning concerns without offering specific, confidence-building information about available support structures. This gap in collaborative planning could impact the student's confidence in proceeding with enrollment, as it left unexplored opportunities to address specific anxieties about the online learning mode.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge online learning concerns explicitly, 2) Provide overview of key support features within pre-enrollment scope, 3) Highlight available technical support and learning resources, 4) Preview post-enrollment learning advisor support while maintaining boundaries, 5) Focus on building confidence in online learning structure while preserving appropriate role limitations"
+        },
+        {
+          "id": 5,
+          "title": "Strategic Support Resource Direction",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319450701",
+              "segment_id": "92",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a need for additional program information, creating an opportunity for proactive resource sharing and collaborative planning. This moment indicated the student's readiness for detailed program exploration while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by proactively offering relevant resources and explaining their value: 'I can send you our course guide which outlines the full program structure.' This approach showed strong alignment with collaborative planning principles by anticipating needs and providing specific, valuable resources while maintaining appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "Continue current approach while: 1) Identifying opportunities for strategic resource sharing, 2) Explaining how each resource supports decision-making, 3) Maintaining clear pre-enrollment boundaries, 4) Directing to appropriate support services when needed, 5) Preserving focus on enrollment-relevant information"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Interest Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464587992",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed specific academic interest: 'Yeah, I'm really interested in the artificial intelligence.' This presented a valuable opportunity to explore specific interests and demonstrate program relevance while maintaining appropriate sales role boundaries.",
+          "consultant_response": "The consultant provided minimal acknowledgment: 'Excellent.' This basic response failed to explore the student's interests or demonstrate program relevance. The interaction missed an opportunity to connect specific interests to program features while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "High",
+          "recommended_approach": "Enhanced approach should: 1) Acknowledge specific interests explicitly, 2) Explore relevant program features within sales role scope, 3) Connect interests to program outcomes appropriately, 4) Maintain focus on enrollment-relevant aspects, 5) Preview post-enrollment opportunities while preserving role boundaries, 6) Avoid detailed academic planning beyond pre-enrollment scope"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "metadata": {
+    "consultant_name": "Yusuf Aly",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 268,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 75,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.985074626865668,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 193,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.01492537313433,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.76960191924262,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 193,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 224.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.03,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 193.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.72,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 189.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.4,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 226.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.47,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 185.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.36,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Load Management",
+        "explanation": "Effectively guiding students through sustainable workload planning while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Career-Aligned Program Guidance",
+        "explanation": "Successfully connecting educational pathways to career goals while staying within proper consultative scope"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Appropriately introducing and connecting students with relevant support resources while maintaining clear role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Goal Exploration",
+        "explanation": "Need for deeper investigation of student aspirations and potential barriers to inform pathway planning"
+      },
+      {
+        "headline": "Comprehensive Option Discussion",
+        "explanation": "More thorough exploration needed of available study pathways and alternative options"
+      },
+      {
+        "headline": "Process Navigation Clarity",
+        "explanation": "Clearer guidance needed on enrollment steps and documentation requirements"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217446540",
+              "segment_id": "327",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about balancing ambitious completion goals with work and family commitments.",
+          "consultant_response": "Consultants provided balanced recommendations focusing on sustainable progress: 'Most people start with two units. It is up to you though' and 'I would suggest two or three units at a time is going to put you in the best place.'",
+          "context_impact": "Clear guidance on realistic study loads significantly increased student confidence in program completion.",
+          "recommended_approach": "Could enhance by outlining specific flexible study options and support services"
+        },
+        {
+          "id": 2,
+          "title": "Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454090014",
+              "segment_id": "unknown",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101115623",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed specific career goals including mental health support and NDIS industry aspirations.",
+          "consultant_response": "Consultants effectively connected programs to career goals: 'The Bachelor of Social Science with a major in Behavioural Studies would align well with your wellbeing officer aspirations.'",
+          "context_impact": "Appropriate career alignment discussion significantly enhanced program relevance while maintaining boundaries.",
+          "recommended_approach": "None needed - exemplary maintenance of role boundaries while enhancing program relevance"
+        },
+        {
+          "id": 3,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319468735",
+              "segment_id": "43",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101005867",
+                "segment_id": "39",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on accessing resources and support services, including specific needs like ADHD support.",
+          "consultant_response": "Consultants maintained appropriate boundaries while ensuring effective support connections: 'Student support services, including accessibility services, can help with personalised study plans.'",
+          "context_impact": "Clear support service navigation significantly enhanced student confidence in program success.",
+          "recommended_approach": "Could strengthen by providing clearer roadmap of support service transitions"
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389385835",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389252766",
+                "segment_id": "121",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about program progression and course structure preferences.",
+          "consultant_response": "Basic information provided without exploring student aspirations or creating meaningful dialogue about preferences.",
+          "context_impact": "Missed opportunities to understand broader educational goals and align course structure.",
+          "recommended_approach": "Should engage in deeper discussion about student goals while maintaining boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Option Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100964592",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594217512798",
+                "segment_id": "2",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on pathways and recognition options, including credit transfer possibilities.",
+          "consultant_response": "Provided basic information without adequately exploring available pathways or experience recognition options.",
+          "context_impact": "Limited pathway exploration created potential barriers to enrollment progress.",
+          "recommended_approach": "Should provide more comprehensive overview of pathways while maintaining role boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Unclear Process Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229813144",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed need for guidance on documentation requirements and submission process.",
+          "consultant_response": "Failed to provide specific documentation requirements or submission process details.",
+          "context_impact": "Lack of clear process guidance could delay application progress.",
+          "recommended_approach": "Should provide clear document checklist and submission process steps"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217446540",
+              "segment_id": "327",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing study loads alongside existing commitments. Primary example: 'I've got three little kids as well under eight so I also need to make sure I have time for them and the family and the house and everything else.' Supporting example: 'I'm just trying to weigh my options because I am trying to finish a bachelor's as quickly as possible.' These statements revealed crucial needs for collaborative planning around sustainable study loads.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning by validating student approaches while providing practical guidance within appropriate role boundaries. Primary example: 'That's a very wise way to approach it... A lot of our most successful students are doing two at a time all the way through.' Supporting example: 'Four at a time is going to be a huge amount of study... I would suggest two or three units at a time is going to put you in the best place.' These responses effectively balanced validation with practical guidance while maintaining appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "While maintaining strong current practices, consultants should enhance support by: 1) Explicitly acknowledging student self-awareness about workload management, 2) Providing high-level overview of flexible study options relevant to enrollment, 3) Mentioning available post-enrollment support services while maintaining role boundaries, 4) Offering clear next steps for enrollment while emphasizing support structures, and 5) Creating clearer picture of how workload can be adjusted as needed while staying within pre-enrollment guidance scope."
+        },
+        {
+          "id": 2,
+          "title": "Career-Aligned Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454090014",
+              "segment_id": "unknown",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101115623",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed clear career aspirations requiring strategic program alignment. Primary example: 'But we're also talking about becoming a well-being and mental health support officer, opening up her own organization in a few years.' Supporting example: 'I want to go into the NDIS industry and I want to own my business.' These statements presented crucial opportunities for collaborative planning that balanced career guidance with appropriate enrollment focus.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by effectively connecting programs to career goals while maintaining appropriate boundaries. Primary example: 'What I would say is if you're considering university study and you want to work as a youth and wellbeing officer, probably the best course that we can let you know about would be our Bachelor of Social Science with a major in Behavioural Studies.' Supporting examples showed similar skill in maintaining focus on program relevance while staying within proper scope of pre-enrollment guidance.",
+          "priority": "High",
+          "recommended_approach": "This interaction exemplifies best practices in collaborative planning. Consultants should continue to: 1) Acknowledge specific career goals without moving into detailed career planning, 2) Focus discussion on program relevance to stated goals, 3) Maintain clear boundaries while exploring educational pathways, 4) Connect program benefits to career aspirations within appropriate scope, and 5) Create clear understanding of how educational choices support career development while staying within pre-enrollment guidance role."
+        },
+        {
+          "id": 3,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594319468735",
+              "segment_id": "43",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101005867",
+                "segment_id": "39",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on accessing support resources, with particular emphasis on specific needs. Primary example: 'Mal has ADHD so I feel like he would probably benefit from some in-class opportunities rather than it wholly and solely being responsible for accessing learning on his own.' Supporting examples revealed similar needs for clear guidance on support system navigation while maintaining appropriate role boundaries.",
+          "consultant_response": "Consultants consistently demonstrated effective support service integration while maintaining clear role boundaries. Primary example: 'Rest assured that even if Malachi decided to go down the online path, he would still have full access to our student support services, one of which is accessibility, which can help with personalised study plans and advocacy and concessions for students with ADHD and similar circumstances.' This response exemplified appropriate balance between acknowledging specific support needs and maintaining pre-enrollment service discussions.",
+          "priority": "High",
+          "recommended_approach": "To enhance this positive practice, consultants should: 1) Provide clear overview of support service transitions, 2) Maintain strict role boundaries while ensuring effective handoffs, 3) Outline general support availability without promising specific post-enrollment services, 4) Create clear expectations about support access timing and processes, and 5) Demonstrate understanding of specific support needs while staying within appropriate pre-enrollment guidance scope."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389385835",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389252766",
+                "segment_id": "121",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students indicated uncertainty requiring deeper exploration. Primary example: 'I'm just wondering what the story is...' Supporting example: 'I would prefer just to go straight for the core units in the course.' These statements presented clear opportunities for meaningful dialogue about educational goals and preferences, crucial for effective collaborative planning.",
+          "consultant_response": "Consultants frequently provided surface-level responses without exploring underlying goals or creating meaningful dialogue. Primary example: 'The Graduate Diploma of Psychology Advanced is our honours equivalent at Swinburne Online.' Supporting example: 'No worries at all, you can always pick up academic skills for success later.' These responses missed opportunities to understand broader educational goals and align course structures with student needs.",
+          "priority": "High",
+          "recommended_approach": "Consultants should enhance goal exploration by: 1) Using open questions to understand educational aspirations, 2) Creating collaborative dialogue about options and opportunities, 3) Exploring reasons behind stated preferences, 4) Connecting course structures to student goals, and 5) Maintaining appropriate boundaries while facilitating deeper understanding of student needs and motivations."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Option Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100964592",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594217512798",
+                "segment_id": "2",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on pathways and recognition options. Primary example: 'I'm working in child protection at the moment... What sort of credits will I be able to get?' Supporting examples revealed similar needs for comprehensive pathway exploration while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants provided basic information without adequately exploring available options or creating clear understanding of pathways. Primary example showed limited engagement with experience recognition opportunities, while supporting interactions similarly failed to create comprehensive understanding of available routes forward.",
+          "priority": "High",
+          "recommended_approach": "To enhance option discussions, consultants should: 1) Acknowledge specific pathway interests, 2) Explore relevant experience within appropriate assessment boundaries, 3) Outline various pathway options clearly, 4) Create clear framework for option exploration, and 5) Maintain appropriate scope while ensuring comprehensive understanding of available choices."
+        },
+        {
+          "id": 6,
+          "title": "Unclear Process Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229813144",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed time-sensitive documentation needs: 'I'm wanting to apply for the 7th of July intake... I just wanted to get all my paperwork through.' This indicated a clear need for process guidance and timeline clarity.",
+          "consultant_response": "The consultant failed to provide necessary clarity about administrative procedures and documentation requirements, potentially creating barriers to enrollment completion and reducing application momentum.",
+          "priority": "High",
+          "recommended_approach": "Effective process guidance should: 1) Provide clear, itemized document checklist, 2) Explain submission process steps and options, 3) Set realistic timeline expectations, 4) Outline available support for document preparation, and 5) Create clear action plan with specific next steps and deadlines."
+        }
+      ]
+    }
+  }
+}

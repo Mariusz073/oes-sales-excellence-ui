@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "consultant_name": "Mrudang Pancholi",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 246,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 78,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.70731707317073,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 168,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.29268292682927,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.36696994672813,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 168,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 133.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.87,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 51.41,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.15,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 170.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.3,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 127.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.49,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 133.28,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.18,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Program Flexibility Integration",
+        "explanation": "Successfully adapting program structure and options to accommodate individual student circumstances while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Strategic Support Resource Navigation",
+        "explanation": "Appropriately introducing and positioning support services while maintaining clear pre-enrollment consultation boundaries"
+      },
+      {
+        "headline": "Clear Pathway Communication",
+        "explanation": "Effectively explaining educational pathways and requirements at appropriate detail level for pre-enrollment discussions"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Context Integration",
+        "explanation": "Need for more effective incorporation of student circumstances in program planning discussions"
+      },
+      {
+        "headline": "Proactive Financial Guidance",
+        "explanation": "Opportunity to provide more comprehensive financial planning guidance while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Strategic Alternative Pathway Discussion",
+        "explanation": "Room for improvement in exploring alternative options when primary pathways aren't immediately suitable"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Financial Options Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464691403",
+              "segment_id": "71",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389172699",
+                "segment_id": "38",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking clarity on financial support options and Commonwealth-supported funding",
+          "consultant_response": "Basic confirmation without comprehensive support option exploration: 'Well, we don't have any CSPs available, unfortunately'",
+          "context_impact": "Insufficient financial guidance affecting enrollment confidence",
+          "recommended_approach": "Should provide clear financial pathways overview while maintaining role boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Missed Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312155347",
+              "segment_id": "62",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about Masters program ineligibility",
+          "consultant_response": "Brief negative response without exploring alternatives: 'Of project management, no, unfortunately not'",
+          "context_impact": "Limited pathway discussion potentially discouraged student from pursuing education goals",
+          "recommended_approach": "Should explore Graduate Certificate and other qualifying pathways leading to Masters eligibility"
+        },
+        {
+          "id": 6,
+          "title": "Family Commitment Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312481407",
+              "segment_id": "family_discussion",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student needed to discuss study commitment with spouse",
+          "consultant_response": "Shifted focus to academic history instead of addressing family commitment concerns",
+          "context_impact": "Missed opportunity to address family considerations in program planning",
+          "recommended_approach": "Should acknowledge family commitments while highlighting flexible study options"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Travel-Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100959778",
+              "segment_id": "63",
+              "timestamp": "6:63"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 6:63 into the call, the student expressed significant concern about managing their studies during planned travel: 'I'm planning on traveling from probably like June so those last three months I may have to defer because I'm just like not sure on my internet connection.' This presented a critical opportunity for collaborative planning as the ability to maintain academic progress during travel would directly impact enrollment decision.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately accessing practical tools and providing specific solutions: 'Let me have a look for you just I'll open the course planner will tell me exactly when it's available. Okay, so you can do your first one in March, second in May.' This response effectively showed how course structure could accommodate travel while maintaining academic progress. By providing concrete timing options and demonstrating flexibility, the consultant addressed concerns while maintaining enrollment momentum.",
+          "priority": "High",
+          "recommended_approach": "This interaction exemplifies best practices in collaborative planning. For similar scenarios, consultants should: 1) Immediately acknowledge practical concerns 2) Use available tools to demonstrate specific solutions 3) Show how course flexibility can accommodate student needs 4) Create clear timelines that align with student circumstances while maintaining academic progress"
+        },
+        {
+          "id": 2,
+          "title": "Effective Health-Conscious Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318561846",
+              "segment_id": "36",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed health-related study capacity concerns: 'Is it possible to do one subject this semester, this upcoming semester? Just because I'm pregnant and it's just a little bit, I'm not feeling 100% best.' This disclosure presented an opportunity to demonstrate program flexibility while maintaining appropriate planning boundaries.",
+          "consultant_response": "The consultant effectively balanced support needs with role boundaries, explaining: 'Yeah, so by default you'll only ever be assigned one subject at a time anyway. Let me bring up the course plan for you.' This demonstrated excellent collaborative planning by highlighting built-in flexibility while maintaining focus on enrollment-relevant decisions.",
+          "priority": "high",
+          "recommended_approach": "To enhance this positive practice: 1) Acknowledge health-related concerns while focusing on program flexibility, 2) Provide high-level study mode overview, 3) Position post-enrollment learning coaches appropriately, 4) Highlight relevant flexibility features, and 5) Direct detailed planning questions to appropriate support services"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "136",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed significant work commitments: 'I'm working two jobs, so basically full-time hours.' This presented an opportunity to address work-study balance while maintaining appropriate planning boundaries.",
+          "consultant_response": "The consultant provided effective guidance while maintaining role scope: 'There is one interactive session once a week, typically happens after hours. If you could attend, that's great. If not, you will have the video recordings later on to watch as well.' This successfully addressed immediate concerns while avoiding detailed study planning.",
+          "priority": "high",
+          "recommended_approach": "To enhance this approach: 1) Acknowledge work commitments while focusing on program flexibility, 2) Highlight enrollment-relevant flexibility features, 3) Position post-enrollment support appropriately, 4) Maintain focus on immediate enrollment decisions, and 5) Direct detailed planning to appropriate resources"
+        },
+        {
+          "id": 4,
+          "title": "Limited Financial Options Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464691403",
+              "segment_id": "71",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389172699",
+                "segment_id": "38",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on financial arrangements. The primary example at segment 71 asked: 'Am I eligible for any Commonwealth-assisted, like, receipts?' Supporting examples showed similar needs for FEE-HELP guidance, indicating crucial moments for financial planning support.",
+          "consultant_response": "Consultants typically provided basic confirmation without exploring available options: 'Well, we don't have any CSPs available, unfortunately' This limited approach missed opportunities to build enrollment confidence through comprehensive financial planning guidance while maintaining role boundaries.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge the financial consideration importance 2) Provide high-level overview of available options including FEE-HELP 3) Direct to appropriate resources for detailed information 4) Highlight availability of financial advisors post-enrollment 5) Maintain appropriate pre-enrollment guidance boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Missed Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312155347",
+              "segment_id": "62",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about program accessibility, stating 'So at the moment I can't get into the Masters.' This statement presented a crucial opportunity to explore alternative pathways and maintain student engagement with the institution despite current ineligibility.",
+          "consultant_response": "The consultant's response was limited to confirming the ineligibility: 'Of project management, no, unfortunately not, no.' This approach missed the opportunity to engage in collaborative planning around alternative pathways or stepping stones toward the student's goals.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would begin by acknowledging the current situation while maintaining optimism: 'While you don't currently meet the Masters requirements, let's explore alternative pathways that could help you reach that goal.' Then: 1) Outline Graduate Certificate options leading to Masters eligibility 2) Explain additional qualifying pathways available 3) Create clear progression timelines 4) Maintain appropriate pre-enrollment boundaries while building confidence in alternative routes"
+        },
+        {
+          "id": 6,
+          "title": "Family Commitment Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312481407",
+              "segment_id": "family_discussion",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student indicated need for family discussion: 'I just probably need to have a conversation with my wife around picking up some study.' This revealed the importance of family considerations in enrollment decision-making.",
+          "consultant_response": "The consultant missed the opportunity by shifting focus to academic history: 'Not a problem and did you study anything related to human resource before?' This failed to address family commitment considerations in program planning.",
+          "priority": "High",
+          "recommended_approach": "To improve planning in such situations: 1) Acknowledge family considerations' importance 2) Outline relevant flexibility options 3) Highlight support services while maintaining boundaries 4) Provide high-level work-life-study balance guidance 5) Position detailed planning as post-enrollment benefit"
+        }
+      ]
+    }
+  }
+}

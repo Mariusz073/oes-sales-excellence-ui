@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "consultant_name": "James Lockie",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 281,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 29,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 10.320284697508896,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 252,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 89.6797153024911,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.62095813500871,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 252,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.95,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 14.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 50.78,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.23,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 115.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Effectively presenting support mechanisms and flexible options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Transparent Program Planning",
+        "explanation": "Clear communication of program details and pathways enabling informed decision-making"
+      },
+      {
+        "headline": "Professional Development Alignment",
+        "explanation": "Successfully connecting educational offerings to students' career and skill development goals"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Guidance Boundaries",
+        "explanation": "Need for better balance between providing career insights and maintaining appropriate role scope"
+      },
+      {
+        "headline": "Future Engagement Planning",
+        "explanation": "More proactive approach needed for maintaining meaningful connection with future enrollment prospects"
+      },
+      {
+        "headline": "Academic Recognition Discussion",
+        "explanation": "Better integration of prior learning discussions while maintaining appropriate guidance boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "16",
+              "timestamp": "16:1"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about maintaining full-time work while studying",
+          "consultant_response": "Highlighted relevant support systems while maintaining boundaries: 'Most of our students are in a similar boat... we give you a dedicated student coach'",
+          "context_impact": "Demonstrated understanding of common work-study balance challenges facing potential students",
+          "recommended_approach": "None needed - excellent balance of support and boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Professional Skills Enhancement Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101138767",
+              "segment_id": "1",
+              "timestamp": "0:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking opportunities to enhance professional skill set",
+          "consultant_response": "Presented flexible pathway options aligned with skill-building objectives, suggesting both master's and graduate certificate options",
+          "context_impact": "Successfully aligned educational offerings with professional development goals",
+          "recommended_approach": "None needed - strong alignment with student goals while maintaining boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Transparent Financial Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229899017",
+              "segment_id": "82",
+              "timestamp": "4:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Direct inquiry about program costs and financial options",
+          "consultant_response": "Provided clear cost breakdown and FEE-HELP eligibility: 'project management's $18,550, data science $20,800 and both are fee help eligible'",
+          "context_impact": "Enabled informed decision-making through clear financial information",
+          "recommended_approach": "Could enhance by mentioning post-enrollment financial support resources"
+        },
+        {
+          "id": 4,
+          "title": "Career Guidance Boundary Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229899017",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216743152",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking detailed career transition guidance and job prospect information",
+          "consultant_response": "Provided either overly detailed career advice or insufficient guidance about program-career alignment",
+          "context_impact": "Missed opportunities to provide appropriate high-level career guidance while maintaining role boundaries",
+          "recommended_approach": "Should provide high-level career insights while clearly maintaining pre-enrollment boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Future Enrollment Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101138767",
+              "segment_id": "47",
+              "timestamp": "0:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated inability to commit in the next few months",
+          "consultant_response": "Simply acknowledged timing without exploring future options or maintaining engagement",
+          "context_impact": "Missed opportunity to maintain engagement for future enrollment",
+          "recommended_approach": "Should explore timeline preferences and establish clear future contact strategy"
+        },
+        {
+          "id": 6,
+          "title": "Prior Learning Recognition Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318989166",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about recognition of previous studies",
+          "consultant_response": "Gave brief negative response without exploring alternative benefits of prior learning",
+          "context_impact": "Missed opportunity to validate past experience while maintaining appropriate boundaries",
+          "recommended_approach": "Should acknowledge value of past studies while clearly explaining recognition policies"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "16",
+              "timestamp": "16:1"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about balancing full-time work commitments with study, stating 'I can't work part-time I have to keep working full-time.' This represented a crucial opportunity to demonstrate program flexibility and available support while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant effectively addressed work-study balance concerns while maintaining appropriate role boundaries: 'Most of our students are in a very similar kind of boat to that. We also give you a dedicated student coach as part of what we do that's free of charge but they're there to help you get that balance in your work and life.' This response successfully balanced reassurance with appropriate pre-enrollment boundaries, emphasizing available support without overstepping into detailed study planning.",
+          "priority": "high",
+          "recommended_approach": "The consultant demonstrated best practice by: 1) Acknowledging common work-study challenges 2) Highlighting flexible study options at a high level 3) Mentioning post-enrollment support availability without detailed promises 4) Sharing general examples of successful working students 5) Maintaining clear boundaries between pre and post-enrollment support roles"
+        },
+        {
+          "id": 2,
+          "title": "Professional Skills Enhancement Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101138767",
+              "segment_id": "1",
+              "timestamp": "0:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed clear professional development motivation: 'I'm looking for opportunities to build my skill set toolkit.' This indicated a strong focus on career enhancement through education and presented an excellent opportunity for collaborative planning focused on professional development outcomes.",
+          "consultant_response": "The consultant effectively aligned educational offerings with the student's goals, suggesting flexible pathways: 'It's a good degree and it's got a specialization at the end of it... you could even start with a grad cert if you wanted to.' This demonstrated appropriate high-level guidance while maintaining role boundaries, offering options that addressed the student's professional development needs without overstepping into detailed career planning.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging professional development goals 2) Connecting program features to skill enhancement 3) Presenting flexible study options 4) Maintaining appropriate career guidance boundaries 5) Referencing post-enrollment support for detailed planning"
+        },
+        {
+          "id": 3,
+          "title": "Transparent Financial Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229899017",
+              "segment_id": "82",
+              "timestamp": "4:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student directly inquired about program costs and financial options, indicating the critical role of financial understanding in their decision-making process. This presented an opportunity for transparent collaborative planning around program investments.",
+          "consultant_response": "The consultant provided comprehensive yet appropriate cost information: 'They're about twenty thousand each total... project management's $18,550, data science $20,800 and there's both fee help eligible.' This transparent approach to financial planning supported informed decision-making while maintaining appropriate boundaries around financial advice.",
+          "priority": "high",
+          "recommended_approach": "Enhance this strong foundation by: 1) Providing clear cost breakdowns 2) Explaining FEE-HELP eligibility 3) Mentioning available financial support resources 4) Referring to appropriate services for specific questions 5) Maintaining appropriate boundaries while supporting informed decisions"
+        },
+        {
+          "id": 4,
+          "title": "Career Guidance Boundary Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229899017",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216743152",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought detailed career guidance, from specific questions about job prospects ('Which one do you feel like there's more job prospects?') to transition planning for police force entry. These interactions presented challenging opportunities to maintain appropriate role boundaries while providing valuable guidance.",
+          "consultant_response": "Consultants either provided overly detailed career advice or gave insufficient guidance about program-career alignment. Responses ranged from vague statements ('You can never go wrong with data') to detailed career transition advice beyond appropriate pre-enrollment scope. Both approaches created potential for misaligned expectations about available career guidance.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge career interests supportively 2) Provide high-level program-career connections 3) Maintain clear pre-enrollment boundaries 4) Reference post-enrollment career services for detailed guidance 5) Focus on program features relevant to professional development"
+        },
+        {
+          "id": 5,
+          "title": "Future Enrollment Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101138767",
+              "segment_id": "47",
+              "timestamp": "0:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student clearly indicated timing constraints: 'I'm not going to be in a position to commit to anything like that in the next few months though.' This presented an opportunity for maintaining engagement through collaborative future planning, rather than accepting a simple delay.",
+          "consultant_response": "The consultant's response ('That's absolutely fine too. That happens a lot... But yeah, just have a read of my email and when it comes time, get in touch') failed to engage in proactive planning for future enrollment. While acknowledging the timing issue, the response missed opportunities to explore specific timelines and maintain meaningful engagement.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge timing constraints supportively 2) Explore specific timeline preferences 3) Discuss future intake dates 4) Set up specific follow-up plans 5) Provide relevant resources for future consideration 6) Create clear next steps for maintaining engagement"
+        },
+        {
+          "id": 6,
+          "title": "Prior Learning Recognition Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318989166",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student inquired about recognition of previous studies while exploring a potential change in direction toward psychology. This presented an opportunity to acknowledge past academic achievements while providing appropriate guidance about pathways forward.",
+          "consultant_response": "The consultant's brief response about pathway length and FEE-HELP eligibility missed opportunities to validate the student's academic background while maintaining appropriate boundaries. The interaction could have better balanced recognition of past achievement with clear guidance about current options.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge and validate previous academic achievements 2) Explain recognition policies clearly while maintaining appropriate boundaries 3) Focus on how past learning provides valuable foundation 4) Connect previous experience to current program benefits 5) Reference appropriate support services for detailed academic planning"
+        }
+      ]
+    }
+  }
+}

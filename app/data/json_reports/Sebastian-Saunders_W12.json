@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "consultant_name": "Sebastian Saunders",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 252,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 85,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 33.730158730158735,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 167,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 66.26984126984127,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.909568719454164,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 167,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 124.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.68,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 131.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Path Planning",
+        "explanation": "Effectively guiding students through program options and study load choices while maintaining appropriate enrollment boundaries"
+      },
+      {
+        "headline": "Career Pathway Integration",
+        "explanation": "Successfully validating program-career alignment while maintaining appropriate pre-enrollment guidance scope"
+      },
+      {
+        "headline": "Structured Support Navigation",
+        "explanation": "Strategic integration of support resources while maintaining clear pre-enrollment scope and role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for deeper investigation of student circumstances to provide targeted collaborative planning support"
+      },
+      {
+        "headline": "Strengthened Process Guidance",
+        "explanation": "Opportunity for more comprehensive navigation through enrollment requirements while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Strategic Concern Management",
+        "explanation": "Need for better addressing underlying anxieties while maintaining appropriate pre-enrollment scope"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101013635",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229955642",
+                "segment_id": "262",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity about managing study load and duration, particularly with part-time options.",
+          "consultant_response": "Consultants provided clear guidance on flexible study options: 'If you did two units in every trimester throughout the whole course then it will take you four years to complete.'",
+          "context_impact": "Clear explanation of study timeline options increased student confidence in program manageability.",
+          "recommended_approach": "Could enhance by highlighting available post-enrollment support services"
+        },
+        {
+          "id": 4,
+          "title": "Limited Experience Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229927164",
+              "segment_id": "43",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318877113",
+                "segment_id": "8",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students mentioning relevant work experience requiring pathway guidance",
+          "consultant_response": "Generic responses without exploring experience details or relevance",
+          "context_impact": "Missed opportunities to align experience with entry requirements and study pathways",
+          "recommended_approach": "Should explore specific experience details to assess qualification alignment and guide appropriate pathways"
+        },
+        {
+          "id": 5,
+          "title": "Process Navigation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312146571",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229803010",
+                "segment_id": "2",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking clarity on enrollment steps and requirements",
+          "consultant_response": "Basic information provided without deeper engagement or clear guidance",
+          "context_impact": "Critical opportunity to build confidence in process navigation",
+          "recommended_approach": "Should provide comprehensive step-by-step guidance while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Test Requirement Anxiety",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230281369",
+              "segment_id": "67",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed direct anxiety about CASPer test requirements",
+          "consultant_response": "Focused on factual information without addressing underlying anxiety",
+          "context_impact": "Missed opportunity to address emotional concerns while providing strategic support",
+          "recommended_approach": "Should acknowledge emotional concerns while providing appropriate guidance within boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101013635",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229955642",
+                "segment_id": "262",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity about managing study commitments. Primary example: 'I'm going to try. So just confirming, if I was to do two units a semester, how long will it take?' Supporting example demonstrated similar careful consideration: 'I'm thinking one just to get going and then see how I fare.' These interactions highlighted the critical need for clear guidance on study load management while maintaining appropriate enrollment focus.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear, personalized guidance while maintaining appropriate boundaries. Primary example: 'Yep, so obviously you've got recognition of prior learning from your diploma so that means it's 24 units instead of 32. If you did two units in every trimester throughout the whole course then it will take you four years to complete.' Supporting interaction showed similar validation: 'Fantastic honestly it's a really good way to test the waters.' These responses effectively balanced structure with flexibility while maintaining appropriate pre-enrollment focus.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice, consultants should: 1) Acknowledge and validate student self-awareness about workload management, 2) Provide clear timelines based on chosen study load, 3) Highlight flexibility in adjusting study pace, 4) Mention available post-enrollment support services while maintaining appropriate boundaries, 5) Focus on enrollment-relevant planning while deferring detailed study planning to post-enrollment support."
+        },
+        {
+          "id": 2,
+          "title": "Career Pathway Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229927164",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought validation of program alignment with career goals. Primary example: 'My aim is to become a psychologist in future, so this degree links to that, right?' This demonstrated clear need for career pathway confirmation while maintaining appropriate pre-enrollment focus. Supporting examples showed similar needs for understanding program-career alignment.",
+          "consultant_response": "Consultants demonstrated excellent boundary awareness while validating career pathways. Primary example: 'This is an APAC accredited course, so it can be used as the first step to becoming a registered psychologist.' This effectively confirmed program-career alignment while maintaining appropriate pre-enrollment scope. Supporting interactions showed similar skill in providing necessary validation without overstepping into detailed career guidance.",
+          "priority": "high",
+          "recommended_approach": "To enhance this effective practice, consultants should: 1) Acknowledge career aspirations explicitly, 2) Confirm program alignment through accreditation and basic pathway information, 3) Maintain clear pre-enrollment boundaries, 4) Create confidence in program-career fit, and 5) Direct detailed career planning to post-enrollment resources."
+        },
+        {
+          "id": 3,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465005436",
+              "segment_id": "support_services_discussion",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student demonstrated proactive engagement by stating: 'I've had a bit of a look around on your website and stuff, and it looks like there's plenty of support and things like that for the course so that would be good.' This revealed both interest in understanding available resources and potential concerns about online learning support.",
+          "consultant_response": "Consultant provided clear, appropriately bounded overview: 'We've got student advisors available seven days of the week and then also from an academic perspective your tutors as well.' This effectively balanced providing necessary information while maintaining pre-enrollment focus and appropriate role boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance this exemplary approach, consultants should: 1) Acknowledge student initiative, 2) Provide high-level support overview, 3) Maintain pre-enrollment boundaries, 4) Create confidence in support accessibility, and 5) Direct detailed inquiries to appropriate channels."
+        },
+        {
+          "id": 4,
+          "title": "Limited Experience Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229927164",
+              "segment_id": "43",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318877113",
+                "segment_id": "8",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students mentioned relevant work experience requiring assessment. Primary example: 'I used to work for Analytical Systems quite a few years ago.' Supporting examples showed similar need for experience evaluation and pathway guidance.",
+          "consultant_response": "Consultants missed opportunities to explore experience relevance: 'Yeah yeah no worries so yeah I'll leave that one with you then for now.' This failed to connect experience to entry requirements or study pathways, potentially missing crucial information for enrollment planning.",
+          "priority": "high",
+          "recommended_approach": "To improve these interactions, consultants should: 1) Acknowledge relevant experience explicitly, 2) Explore specific roles and responsibilities relevant to enrollment, 3) Connect experience to entry requirements, 4) Guide pathway planning based on background, and 5) Maintain appropriate role boundaries while gathering relevant details."
+        },
+        {
+          "id": 5,
+          "title": "Process Navigation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312146571",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229803010",
+                "segment_id": "2",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on enrollment steps. Primary example: 'Is that all? To enrol, first step is just send you my resume?' Supporting examples showed similar need for clear process guidance and confirmation.",
+          "consultant_response": "Consultants provided basic information without deeper engagement or clear guidance through process steps. This missed opportunities to build confidence and create clear action plans while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance these interactions, consultants should: 1) Acknowledge need for clarity explicitly, 2) Outline complete process steps clearly, 3) Create collaborative action plans, 4) Confirm understanding at each step, and 5) Maintain appropriate balance between guidance and student autonomy."
+        },
+        {
+          "id": 6,
+          "title": "Test Requirement Anxiety",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230281369",
+              "segment_id": "67",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student explicitly expressed anxiety about requirements: 'I'm just worried about that CASPer test.' This indicated need for both emotional support and practical guidance while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultant focused solely on factual information without addressing emotional concerns or providing strategic support. This missed opportunity to build confidence while maintaining appropriate boundaries and creating clear next steps.",
+          "priority": "high",
+          "recommended_approach": "To improve this interaction, consultants should: 1) Acknowledge emotional concerns explicitly, 2) Provide appropriate reassurance within boundaries, 3) Outline available resources and support, 4) Create clear next steps, and 5) Maintain focus on enrollment-relevant details."
+        }
+      ]
+    }
+  }
+}

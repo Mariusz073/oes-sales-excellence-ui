@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 244,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 79,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.37704918032787,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 165,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.62295081967213,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.73026785196858,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 165,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 171.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.94,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.25,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 212.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.4,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Guidance",
+        "explanation": "Effectively guiding students through educational progression options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Support Planning",
+        "explanation": "Clear communication of available support systems and timelines while distinguishing between pre and post-enrollment resources"
+      },
+      {
+        "headline": "Flexible Solution Development",
+        "explanation": "Collaborative development of workable solutions for practical study challenges within appropriate role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Pathway Discussion",
+        "explanation": "Need for better high-level career guidance while maintaining appropriate sales role boundaries"
+      },
+      {
+        "headline": "Deeper Student Context Integration",
+        "explanation": "More effective use of student circumstances and preferences to personalize program discussions"
+      },
+      {
+        "headline": "Structured Support Navigation",
+        "explanation": "Better positioning of support services while clearly distinguishing pre and post-enrollment resources"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216572104",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594311946757",
+                "segment_id": "26",
+                "timestamp": "27:00"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on qualification requirements and progression pathways",
+          "consultant_response": "Comprehensive explanation of assessment options and alternative pathways while staying within pre-enrollment scope",
+          "context_impact": "Clear pathway explanations increased student confidence while maintaining appropriate boundaries",
+          "recommended_approach": "None needed - excellent example of strategic pathway guidance"
+        },
+        {
+          "id": 2,
+          "title": "Effective Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230278397",
+              "segment_id": "12",
+              "timestamp": "5:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking information about specialized support pathways and services",
+          "consultant_response": "Effectively explained available support services while maintaining pre-enrollment focus",
+          "context_impact": "Clear support framework explanation increased student confidence in program fit",
+          "recommended_approach": "Consider providing brief context about support service roles and access timing"
+        },
+        {
+          "id": 3,
+          "title": "Flexible Study Solution Development",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230014063",
+              "segment_id": "38",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216888053",
+                "segment_id": "65",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing study commitments alongside work",
+          "consultant_response": "Detailed overview of study load options and flexibility features while maintaining appropriate scope",
+          "context_impact": "Clear explanation of flexible options enhanced confidence in work-study balance",
+          "recommended_approach": "None needed - excellent demonstration of collaborative solution development"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Guidance Boundaries",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101353295",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216888053",
+                "segment_id": "65",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking detailed career pathway guidance beyond program scope",
+          "consultant_response": "Provided overly specific career pathway details instead of maintaining program focus",
+          "context_impact": "Detailed career guidance exceeded appropriate pre-enrollment boundaries",
+          "recommended_approach": "Should focus on program information and appropriately position post-enrollment career support"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100925470",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454504650",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students needing repeated clarification about options and requirements",
+          "consultant_response": "Standard information provided without connecting to student's specific situation",
+          "context_impact": "Generic responses without context integration reduced planning effectiveness",
+          "recommended_approach": "Should better integrate previously gathered information for personalized planning discussions"
+        },
+        {
+          "id": 6,
+          "title": "Unclear Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464692203",
+              "segment_id": "66",
+              "timestamp": "66"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking clarity about accessing support services",
+          "consultant_response": "Basic referral without comprehensive explanation of support framework",
+          "context_impact": "Unclear support service navigation guidance may impact enrollment confidence",
+          "recommended_approach": "Should provide clearer explanation of support service roles and access points while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216572104",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594311946757",
+                "segment_id": "26",
+                "timestamp": "27:00"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students initiated discussions about qualification requirements and program pathways. Primary example: 'Well, firstly I want to ensure that I've got the qualifications.' Supporting example showed similar needs for pathway clarity: 'So ultimately Bachelor of Laws is a tricky one to get direct entry to.' These inquiries demonstrated proactive engagement with program requirements and revealed crucial need for clear pathway guidance.",
+          "consultant_response": "Consultants demonstrated excellent strategic planning by providing comprehensive yet appropriately bounded responses. Primary example: 'So we can assess, basically there's two things we can assess. We can work with any academic study done in the last 10 years, we can see what kind of credits can be awarded based on that. And if you do have substantial work experience, we may be able to look at a resume as well.' Supporting example showed similar strength: 'We do offer good pathway options so we might be able to use your resume for example into an entrance into an Undergraduate Certificate.' These responses effectively balanced detail with appropriate scope.",
+          "priority": "High",
+          "recommended_approach": "Continue current effective approach: 1) Acknowledge qualification verification importance, 2) Outline clear assessment processes, 3) Explain both academic and experience-based pathways, 4) Offer viable alternatives when direct entry isn't possible, 5) Maintain focus on enrollment-relevant aspects while setting appropriate expectations for the assessment process."
+        },
+        {
+          "id": 2,
+          "title": "Effective Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230278397",
+              "segment_id": "12",
+              "timestamp": "5:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student demonstrated proactive information seeking about support services and pathways, creating an opportunity for appropriate guidance about available resources while maintaining role boundaries.",
+          "consultant_response": "The consultant effectively explained the support framework while maintaining appropriate boundaries: 'There is a pathway available, and our support services can help guide you through the process.' This response acknowledged available support while appropriately positioning post-enrollment resources.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach while enhancing context about support services: 1) Briefly explain support service roles, 2) Clarify access timing and processes, 3) Maintain appropriate pre-enrollment boundaries, and 4) Position post-enrollment support resources effectively."
+        },
+        {
+          "id": 3,
+          "title": "Flexible Study Solution Development",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230014063",
+              "segment_id": "38",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216888053",
+                "segment_id": "65",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study commitments. Primary example: 'So we can do 10 hours in a week, right?' Supporting example: 'So if I work full-time, can I do my online classes after work hours and things like that, is that like very flexible?' These questions revealed crucial need for clarity about managing study alongside other commitments.",
+          "consultant_response": "Consultants provided comprehensive guidance while maintaining appropriate boundaries. Primary example: 'If you're enrolled into one unit then you can do 10 hours... if you're able to study full-time with eight units in one year then you'll finish the degree in four years.' Supporting example demonstrated similar strength: 'We don't expect you to do any studies during business hours at all... Main demographic of students are full-time workers. You'll have 24-7 access to pre-recorded lectures and materials.' These responses effectively explained options while maintaining appropriate scope.",
+          "priority": "High",
+          "recommended_approach": "To maintain this high standard: 1) Acknowledge specific work-study balance concerns, 2) Provide clear overview of study load options and timeframes, 3) Demonstrate program flexibility features, 4) Reference success of similar students, 5) Maintain focus on program structure rather than detailed study planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Guidance Boundaries",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101353295",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216888053",
+                "segment_id": "65",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought detailed career pathway guidance about industry transitions and professional progression. Primary example: 'I want to make sure this course will help me get into the industry.' Supporting examples showed similar career planning needs beyond appropriate pre-enrollment scope.",
+          "consultant_response": "Consultants provided overly specific career guidance beyond appropriate pre-enrollment boundaries: 'Many graduates start in X role, then progress to Y position after Z years...' These responses exceeded appropriate scope by offering detailed career progression guidance better suited to post-enrollment career services.",
+          "priority": "High",
+          "recommended_approach": "To maintain appropriate boundaries: 1) Focus on program features and learning outcomes, 2) Reference career support services available post-enrollment, 3) Direct detailed career planning questions to appropriate resources, 4) Maintain focus on program selection rather than career planning, 5) Position career support as valuable post-enrollment benefit."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100925470",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454504650",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple instances where students needed repeated clarification about options and requirements, indicating missed opportunities to leverage previously gathered information for more personalized planning discussions.",
+          "consultant_response": "Consultants provided generic information without integrating previously gathered context: 'It depends if your weighted average mark was high enough' or 'The standard requirements apply.' This approach limited the effectiveness of collaborative planning and support provided.",
+          "priority": "High",
+          "recommended_approach": "To improve context integration: 1) Review previous interactions before engaging with students, 2) Reference relevant details from past conversations, 3) Connect new information to student's stated goals and interests, 4) Create personalized planning discussions that build on existing knowledge, 5) Maintain continuity across interactions while staying within appropriate bounds."
+        },
+        {
+          "id": 6,
+          "title": "Unclear Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464692203",
+              "segment_id": "66",
+              "timestamp": "66"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking clarity about accessing support services, indicating need for clear guidance about available resources and access processes while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant provided basic referral information without comprehensively explaining the support framework or clearly distinguishing between pre and post-enrollment services. This limited approach missed opportunity for effective collaborative planning around support resources.",
+          "priority": "High",
+          "recommended_approach": "Enhance support service navigation by: 1) Clearly explaining support service roles and access points, 2) Distinguishing between pre and post-enrollment resources, 3) Creating clear support access pathways, 4) Maintaining appropriate boundaries while ensuring comprehensive guidance about available resources."
+        }
+      ]
+    }
+  }
+}

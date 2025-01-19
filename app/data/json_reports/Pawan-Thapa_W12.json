@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 206,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 51,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 24.75728155339806,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 155,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 75.24271844660194,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.16570212607953,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 155,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 128.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.78,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 142.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.73,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Work-Study Balance Planning",
+        "explanation": "Effectively guiding students through flexible study options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Experience-Based Pathway Navigation",
+        "explanation": "Successfully leveraging professional backgrounds to validate program fit and explore suitable educational pathways"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Appropriately positioning support resources while maintaining clear pre-enrollment focus"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Transition Guidance Enhancement",
+        "explanation": "Need for stronger high-level career guidance while maintaining appropriate sales role boundaries"
+      },
+      {
+        "headline": "Program Option Exploration",
+        "explanation": "Opportunity for more thorough discussion of alternative pathways and study options within pre-enrollment scope"
+      },
+      {
+        "headline": "Action Planning Process",
+        "explanation": "Need for more systematic approach to next steps and timeline planning during enrollment discussions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312108933",
+              "segment_id": "23",
+              "timestamp": "23:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389383717",
+                "segment_id": "16",
+                "timestamp": "3:23"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing work commitments alongside studies, particularly regarding shift work compatibility.",
+          "consultant_response": "Consultants actively engaged in schedule planning: 'Let's look at how our flexible study options could work around your roster' while maintaining appropriate pre-enrollment boundaries.",
+          "context_impact": "Work-study balance concerns represented a critical enrollment barrier requiring collaborative resolution.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 2,
+          "title": "Professional Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454252933",
+              "segment_id": "1",
+              "timestamp": "23:24"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101432747",
+                "segment_id": "82",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared extensive professional experience seeking formal qualifications to complement their practical expertise.",
+          "consultant_response": "Effectively validated experience while maintaining boundaries: 'Your experience is good... meets our three years relevant work experience requirement.'",
+          "context_impact": "Recognition of professional experience crucial for program fit validation and enrollment confidence.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "195",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464813243",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students across multiple calls sought clarity on available support services and resources.",
+          "consultant_response": "Provided comprehensive overview of support structure while positioning detailed planning post-enrollment.",
+          "context_impact": "Clear support information enhanced confidence while maintaining appropriate boundaries.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Transition Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230177716",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "5",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking guidance on career transitions including moves from accounting to analytics.",
+          "consultant_response": "Basic program information provided without strategic career alignment discussion.",
+          "context_impact": "Insufficient career guidance reduced enrollment confidence and program fit understanding.",
+          "recommended_approach": "Should provide high-level career guidance while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Program Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465138801",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested information about entry-level course options.",
+          "consultant_response": "Minimal response focused only on master's program without exploring alternatives.",
+          "context_impact": "Limited pathway discussion reduced student understanding of available options.",
+          "recommended_approach": "Should explore entry-level pathways while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Rushed Action Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454252933",
+              "segment_id": "4",
+              "timestamp": "97:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking clarity on next steps in enrollment process.",
+          "consultant_response": "Minimal progression plan provided without specific milestones or clear next steps.",
+          "context_impact": "Basic closure without detailed planning left progression unclear and reduced momentum.",
+          "recommended_approach": "Create detailed action plan with specific steps while maintaining pre-enrollment focus."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312108933",
+              "segment_id": "23",
+              "timestamp": "23:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594389383717",
+                "segment_id": "16",
+                "timestamp": "3:23"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing work commitments alongside studies. In the primary call at segment 23, the student stated: 'I want to advance my career but I'm worried about balancing study with my current role.' Supporting calls showed similar patterns, with specific mentions of shift work compatibility challenges. These moments presented critical opportunities for collaborative planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning by engaging students in practical discussions about schedule management while maintaining appropriate pre-enrollment boundaries. The primary response included: 'I understand managing work and study commitments can be tricky. Let's look at how our flexible study options could work around your roster.' This approach effectively validated concerns while providing structured guidance within proper scope, helping students envision successful study integration without overstepping into detailed scheduling.",
+          "priority": "high",
+          "recommended_approach": "To maintain this high standard: 1) Acknowledge work commitment concerns explicitly, 2) Present relevant flexible study options, 3) Outline basic program structure, 4) Position learning coaches for detailed planning post-enrollment, 5) Focus on high-level schedule compatibility without detailed time management planning, 6) Maintain clear pre-enrollment boundaries throughout discussions."
+        },
+        {
+          "id": 2,
+          "title": "Professional Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454252933",
+              "segment_id": "1",
+              "timestamp": "23:24"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101432747",
+                "segment_id": "82",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared extensive professional backgrounds while seeking formal qualifications. Primary example: 'I'm already a professional in data analytics for eight years but haven't got formal qualifications.' Supporting cases showed similar patterns of experienced professionals seeking academic credentials to complement their practical expertise. These disclosures created opportunities for experience-based pathway planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants effectively validated professional experience while maintaining appropriate boundaries: 'Your experience is good... you need to have at least three years of relevant work experience.' This approach built confidence in program fit while staying within pre-enrollment guidance scope, effectively using professional background to validate educational pathways without overstepping into detailed career planning.",
+          "priority": "high",
+          "recommended_approach": "Best practice includes: 1) Acknowledge professional achievements explicitly, 2) Connect experience directly to entry requirements, 3) Highlight program relevance to industry background, 4) Maintain focus on educational pathway rather than career advice, 5) Position learning advisors for detailed career planning post-enrollment, 6) Keep discussion within appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "195",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464813243",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently sought information about available support services, with the primary example demonstrating proactive awareness: 'What kind of support is available if I need help?' Supporting calls showed similar patterns of support-related inquiries, creating opportunities to demonstrate comprehensive support while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants provided clear overviews of support structure while maintaining appropriate boundaries: 'We have a comprehensive support system including advisors and coaches who can assist with academic skills, study support, and research writing.' This effectively positioned support services while keeping detailed planning post-enrollment, building confidence in available resources without overstepping pre-enrollment scope.",
+          "priority": "high",
+          "recommended_approach": "Maintain this effective approach by: 1) Acknowledge support needs explicitly, 2) Provide high-level support overview, 3) Position detailed planning post-enrollment, 4) Maintain clear role boundaries, 5) Focus on support availability rather than specific arrangements, 6) Connect support services to enrollment benefits."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Transition Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230177716",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "5",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed career transition goals, including: 'I'm working as an operational accountant but looking to move into analytics' and similar career change aspirations. These moments required strategic guidance while maintaining appropriate pre-enrollment boundaries to build program fit confidence.",
+          "consultant_response": "Consultants provided basic program information without effectively connecting to career goals: 'So basically you will have to start from the grad set in this case.' This approach missed opportunities for strategic program alignment while maintaining proper boundaries, reducing student confidence in program fit for career transition support.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries: 1) Acknowledge career transition goals explicitly, 2) Connect program features to transition support, 3) Position career services as post-enrollment resource, 4) Provide high-level pathway guidance, 5) Focus on educational alignment rather than specific career advice, 6) Keep career discussions within pre-enrollment scope."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Program Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465138801",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student directly requested information about entry-level options: 'Have you got an entry-level course?' This presented an opportunity for comprehensive pathway discussion while maintaining appropriate pre-enrollment boundaries to support informed decision-making.",
+          "consultant_response": "Consultant provided minimal information: 'Yeah, no, so what I'll do is, because this is the master program, I wouldn't be able to comment on that directly.' This response missed the opportunity to explore suitable pathways while maintaining proper guidance scope, potentially limiting student understanding of available options.",
+          "priority": "high",
+          "recommended_approach": "While maintaining boundaries: 1) Acknowledge interest in entry-level options explicitly, 2) Provide overview of available pathways, 3) Explain progression opportunities, 4) Focus on program structures rather than detailed advice, 5) Position learning advisors for detailed planning post-enrollment, 6) Keep discussion within appropriate pre-enrollment scope."
+        },
+        {
+          "id": 6,
+          "title": "Rushed Action Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454252933",
+              "segment_id": "4",
+              "timestamp": "97:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on enrollment process next steps, indicating readiness to progress but needing structured guidance on progression. This presented an opportunity for detailed action planning while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultant provided minimal closure without clear planning: 'Appreciate that, have a great weekend.' This basic response failed to establish clear next steps or progression plan, potentially reducing enrollment momentum and student confidence in the process.",
+          "priority": "high",
+          "recommended_approach": "Create structured plan while maintaining pre-enrollment focus: 1) Summarize specific next steps clearly, 2) Set clear document submission timelines, 3) Explain review process expectations, 4) Schedule next contact point, 5) Outline available support during process, 6) Keep planning within appropriate pre-enrollment boundaries."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 212,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 34,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 16.037735849056602,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 178,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 83.9622641509434,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.863381122712006,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 178,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career Pathway Integration",
+        "explanation": "Effectively aligning educational options with professional goals while maintaining appropriate consulting boundaries"
+      },
+      {
+        "headline": "Proactive Study Planning",
+        "explanation": "Collaboratively exploring flexible study options and workload management strategies to support student success"
+      },
+      {
+        "headline": "Supportive Decision Framework",
+        "explanation": "Creating structured guidance through program options while empowering informed student choice"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Support Service Navigation",
+        "explanation": "Need for more comprehensive integration of support resources within enrollment planning discussions"
+      },
+      {
+        "headline": "Strengthened Goal Exploration",
+        "explanation": "Opportunity to deepen investigation of student aspirations and qualification alignment"
+      },
+      {
+        "headline": "Process Communication Clarity",
+        "explanation": "Required improvement in explaining enrollment processes and maintaining proactive follow-up"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed confusion about disability support information collection.",
+          "consultant_response": "Provided basic procedural response without exploring available resources.",
+          "context_impact": "Missed opportunity to build confidence in support systems.",
+          "recommended_approach": "Should outline support framework while maintaining pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Goal Analysis",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594453579064",
+              "segment_id": "136",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking program alignment with AI career aspirations.",
+          "consultant_response": "Focused on requirements without exploring qualifications or goals: 'We do require Python.'",
+          "context_impact": "Limited exploration diminished pathway clarity.",
+          "recommended_approach": "Should engage in deeper exploration of current position and aspirations."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Process Communication",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216825034",
+              "segment_id": "58",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested clarification on Fee-Help and enrollment processes.",
+          "consultant_response": "Provided minimal information without comprehensive explanation.",
+          "context_impact": "Unclear communication affected confidence in process.",
+          "recommended_approach": "Should provide detailed process overview and maintain proactive communication."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career-Education Alignment",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388776533",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant professional context: 'I run a non-profit outside of work, and we work with a lot of children, we get a lot of their data.' This disclosure presented a valuable opportunity to align educational offerings with meaningful professional work while demonstrating program relevance.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately engaging with the student's professional context: 'Your not-profit is currently working with mental health, is that correct?' This response validated the student's work while creating natural connections to program offerings. The approach successfully maintained appropriate boundaries while exploring relevant applications of course content to the student's non-profit work.",
+          "priority": "high",
+          "recommended_approach": "The demonstrated approach serves as an excellent model: 1) Actively acknowledge professional context, 2) Create relevant program connections, 3) Maintain appropriate boundaries, 4) Validate existing experience, 5) Focus on educational alignment."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Workload Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464834922",
+              "segment_id": "58",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student, working full-time Monday to Friday, expressed significant concern about managing a 20-hour weekly study commitment. This presented a critical opportunity for collaborative planning around workload management and study-life balance strategies.",
+          "consultant_response": "The consultant expertly addressed the concern by providing a realistic range of 15-25 hours per week while emphasizing how individual factors influence study time requirements. They discussed specific time management strategies and highlighted how assessment tasks affect workload distribution. This comprehensive response demonstrated strong collaborative planning by combining practical guidance with individual considerations.",
+          "priority": "high",
+          "recommended_approach": "This represents best practice in workload management discussions. Consultants should: 1) Validate time management concerns, 2) Provide realistic workload ranges, 3) Discuss individual factors affecting study time, 4) Highlight flexibility options, 5) Connect to available support services appropriately."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Program Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100667227",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed specific interest in pursuing a psychology career pathway, demonstrating clear need for educational progression planning and timeline understanding.",
+          "consultant_response": "The consultant provided exemplary pathway guidance: 'The Graduate Diploma in Psychology would take about one year, eight months to complete part-time online, and then the next step would be the Graduate Diploma of Psychology Advanced.' This comprehensive response effectively mapped the educational journey while maintaining appropriate consulting boundaries.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging specific career interests, 2) Outlining clear progression steps, 3) Providing specific timeframes, 4) Connecting components to goals, 5) Maintaining appropriate boundaries throughout."
+        },
+        {
+          "id": 4,
+          "title": "Limited Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's request for clarification about disability information collection indicated confusion about processes and available support systems. This presented an opportunity for collaborative planning around support services while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant provided only basic procedural information without exploring potential support needs or explaining available resources. This missed an opportunity to build student confidence in the support systems while maintaining appropriate sales role boundaries.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge and validate support service questions, 2) Provide high-level overview of available systems, 3) Explain post-enrollment support activation, 4) Maintain appropriate boundaries while being informative, 5) Focus on enrollment-relevant support information."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Goal Analysis",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594453579064",
+              "segment_id": "136",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clarification on AI program entry criteria, presenting an opportunity for deeper exploration of qualifications and career aspirations. Their inquiry indicated readiness for detailed pathway planning.",
+          "consultant_response": "The consultant focused narrowly on stating requirements without exploring the student's current position: 'We do require Python and we have been through that.' This surface-level response missed the opportunity for meaningful collaborative planning around qualification alignment and pathway options.",
+          "priority": "high",
+          "recommended_approach": "Should enhance approach to: 1) Explore current qualifications thoroughly, 2) Discuss career aspirations and goals, 3) Identify potential pathways to meet requirements, 4) Create collaborative action plan, 5) Maintain supportive guidance throughout."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Process Communication",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216825034",
+              "segment_id": "58",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student requested clarification about Fee-Help options and enrollment processes, indicating need for comprehensive guidance on financial and procedural aspects of enrollment.",
+          "consultant_response": "The consultant provided minimal information: 'So that's like HECS' without comprehensive explanation of support options or processes. This limited response failed to address potential concerns or demonstrate available support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "A stronger approach would: 1) Explain Fee-Help comprehensively, 2) Outline enrollment process steps clearly, 3) Direct to official resources, 4) Create clear action plan, 5) Maintain proactive communication throughout."
+        }
+      ]
+    }
+  }
+}

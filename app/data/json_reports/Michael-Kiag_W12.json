@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 215,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 74,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 34.418604651162795,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 141,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 65.58139534883722,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.68865774431585,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 141,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 114.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.9,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Planning",
+        "explanation": "Effectively guiding students through educational options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Study Planning Integration",
+        "explanation": "Successfully aligning flexible study options with student needs while setting clear expectations"
+      },
+      {
+        "headline": "Support System Navigation",
+        "explanation": "Effectively connecting students with relevant resources while staying within sales role scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Goal Exploration",
+        "explanation": "Need for deeper investigation of student objectives to enable more personalized pathway planning"
+      },
+      {
+        "headline": "Strategic Financial Planning",
+        "explanation": "Opportunity to better integrate funding options into broader enrollment discussions"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "More effective positioning of post-enrollment support resources while maintaining role boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Credit Recognition Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230275362",
+              "segment_id": "90",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about credit recognition for previous degree completed within 10 years",
+          "consultant_response": "Provided detailed breakdown: '12 elective units plus 5 completed units, leaving only 7 units to complete'",
+          "context_impact": "Clear mapping of previous qualifications created strong pathway visibility",
+          "recommended_approach": ""
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Mode Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100610686",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229842383",
+                "segment_id": "79",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing need for flexible study options due to work commitments",
+          "consultant_response": "Provided comprehensive flexibility explanation while maintaining appropriate expectations",
+          "context_impact": "Effective demonstration of program flexibility increased study confidence",
+          "recommended_approach": ""
+        },
+        {
+          "id": 3,
+          "title": "Effective Support System Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101493168",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed frustration about lack of support from previous institution",
+          "consultant_response": "Took ownership while maintaining appropriate pre-enrollment boundaries",
+          "context_impact": "Clear process ownership increased student confidence in institutional support",
+          "recommended_approach": ""
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594311966325",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216696558",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students making major academic decisions without exploration of underlying motivations",
+          "consultant_response": "Focus remained on administrative aspects without exploring motivations",
+          "context_impact": "Missed opportunities to build confidence through goal alignment",
+          "recommended_approach": "Should ask open-ended questions about goals while maintaining enrollment focus"
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement Needed",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100665581",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594311895852",
+                "segment_id": "25",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking financial guidance and cost information",
+          "consultant_response": "Provided basic cost information without exploring available options",
+          "context_impact": "Limited financial exploration may have created enrollment barriers",
+          "recommended_approach": "Should provide comprehensive overview of financial options while maintaining boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388558815",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressing concerns about managing study commitments",
+          "consultant_response": "Basic administrative response without highlighting available resources",
+          "context_impact": "Missed opportunity to position relevant support services",
+          "recommended_approach": "Should better integrate discussion of post-enrollment support while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Credit Recognition Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230275362",
+              "segment_id": "90",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 90, the student inquired about credit recognition for a previous degree completed within the 10-year timeframe. This presented an opportunity for collaborative pathway planning that would significantly impact the student's enrollment decision.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by providing a comprehensive breakdown: 'I can see that qualification... I can still give you those 12 elective units of credit, plus I can also see that you have completed five units of study... those units are still in the course. So that means you would only need to complete seven more units of study to finish the course.' This response effectively utilized prior context and created clear visibility of the pathway forward.",
+          "priority": "high",
+          "recommended_approach": "Continue this exemplary approach by: 1) Acknowledging prior achievements, 2) Providing specific credit recognition details, 3) Creating clear pathway visibility, 4) Maintaining appropriate pre-enrollment boundaries, 5) Connecting credit recognition to enrollment benefits"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Mode Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100610686",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229842383",
+                "segment_id": "79",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed need for study flexibility due to work commitments, with the primary example stating 'I really need the flexibility of Swinburne, because you can pick and choose whenever you do it, can't you?' These inquiries represented crucial opportunities for collaborative planning around study mode options.",
+          "consultant_response": "Consultants consistently provided comprehensive flexibility explanations while maintaining appropriate boundaries. The primary example demonstrated this through clear explanation: 'Yeah, you can. All the lectures and learning material is pre-recorded and uploaded, so you can watch it at any time of day, any day of the week... And then you can still make appointments with the electronic learning advisors if you still need that one-on-one help as well.' This approach effectively balanced flexibility demonstration with realistic expectations.",
+          "priority": "high",
+          "recommended_approach": "To maintain this high standard: 1) Acknowledge specific scheduling needs, 2) Explain flexibility features clearly, 3) Set realistic expectations about study requirements, 4) Reference but don't promise specific support services, 5) Keep focus on enrollment-relevant planning"
+        },
+        {
+          "id": 3,
+          "title": "Effective Support System Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101493168",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 66, student expressed frustration about lack of institutional support: 'I just haven't, I didn't get any help or feedback back from Newcastle.' This created an opportunity to demonstrate clear support processes while maintaining appropriate scope.",
+          "consultant_response": "The consultant demonstrated effective support coordination while maintaining role boundaries: 'All right, so I'm gonna send an email off to our team to get an STA specialty teaching assessment for your previous studies. They'll tell me, one, if we can get you into Master of Teaching Secondary and then what your specialty teaching area is.' This approach effectively balanced proactive support with clear role definition.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging support concerns, 2) Taking clear ownership of coordination, 3) Maintaining focus on enrollment-related support, 4) Making appropriate referrals to post-enrollment services, 5) Setting clear expectations about process outcomes"
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594311966325",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216696558",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students made significant academic decisions without consultants exploring underlying motivations. The primary example showed a student stating 'I have done a bit of research on MBAs in the past. It's something that I do want to do.' This and similar statements presented crucial opportunities for deeper goal exploration.",
+          "consultant_response": "Consultants typically defaulted to administrative responses without exploring student motivations or helping connect decisions to longer-term goals. For example, responding with 'definitely happy to ask questions yeah what questions do you have?' missed the opportunity to explore program alignment with career objectives while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To improve while maintaining appropriate boundaries: 1) Acknowledge student research efforts, 2) Ask open-ended questions about motivations, 3) Connect program features to stated goals, 4) Reference but don't promise career planning support, 5) Keep focus on enrollment-relevant planning"
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement Needed",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100665581",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594311895852",
+                "segment_id": "25",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated financial planning needs, exemplified by: 'For international student how much will it cost by year estimate?' This represented an opportunity for collaborative financial planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically provided basic cost information without exploring available support mechanisms or creating collaborative dialogue about financial planning. This approach missed opportunities to address underlying concerns about financial readiness and available support options.",
+          "priority": "high",
+          "recommended_approach": "An enhanced approach should: 1) Acknowledge the importance of financial planning, 2) Provide structured guidance while maintaining boundaries, 3) Connect to appropriate support services, 4) Outline available options clearly, 5) Create clear next steps for financial preparation"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388558815",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concerns about managing study commitments, presenting an opportunity to position relevant support services while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultant provided basic administrative response without highlighting available support resources or creating clear connections to post-enrollment services. This approach missed opportunities to build confidence in institutional support while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance support integration while maintaining boundaries: 1) Acknowledge specific support needs, 2) Outline available post-enrollment resources, 3) Set clear expectations about when support becomes available, 4) Maintain focus on enrollment-relevant information, 5) Create clear transition paths to support services"
+        }
+      ]
+    }
+  }
+}

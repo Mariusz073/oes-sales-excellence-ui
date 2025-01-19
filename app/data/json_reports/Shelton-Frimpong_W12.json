@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "consultant_name": "Shelton Frimpong",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 281,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 88,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.316725978647685,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 193,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.68327402135232,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.02256408695202,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 193,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 131.37,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 75.44,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 91.58,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.14,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.5,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 135.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.51,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 182.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Load Planning",
+        "explanation": "Effectively guiding students through flexible study options while maintaining appropriate enrollment boundaries"
+      },
+      {
+        "headline": "Support Services Navigation",
+        "explanation": "Successfully connecting students with relevant support resources while maintaining clear pre-enrollment scope"
+      },
+      {
+        "headline": "Goal-Aligned Pathway Planning",
+        "explanation": "Skillfully aligning educational pathways with student aspirations while staying within consultative role"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Time Management Integration",
+        "explanation": "Need to better acknowledge and plan around student time constraints during enrollment discussions"
+      },
+      {
+        "headline": "Documentation Planning Support",
+        "explanation": "Opportunity to provide more comprehensive guidance on documentation requirements within appropriate bounds"
+      },
+      {
+        "headline": "International Qualification Planning",
+        "explanation": "Need for better exploration of international qualification pathways while maintaining enrollment focus"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465163349",
+              "segment_id": "116",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464764490",
+                "segment_id": "90",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about managing study commitments and unit selection.",
+          "consultant_response": "Provided structured overview of study load options while validating preferences: 'You just pay for what you're using. Two units is what we normally recommend.'",
+          "context_impact": "Clear guidance on flexible options increased student confidence in program manageability.",
+          "recommended_approach": "None needed - excellent balance of guidance and flexibility"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100675409",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464764490",
+                "segment_id": "90",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students disclosed specific learning challenges requiring support services.",
+          "consultant_response": "Provided high-level support overview while maintaining boundaries: 'We have lots of support... from our coaches, from your lectures.'",
+          "context_impact": "Clear support systems overview increased student confidence in program suitability.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 3,
+          "title": "Goal-Aligned Educational Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388729194",
+              "segment_id": "12",
+              "timestamp": "5:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed desire to enhance voluntary work impact through education.",
+          "consultant_response": "Connected aspirations to program offerings while providing clear next steps.",
+          "context_impact": "Effective alignment between goals and educational pathway increased enrollment likelihood.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 4,
+          "title": "Limited Time Management Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464764490",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated being on work break with limited time availability.",
+          "consultant_response": "Proceeded with detailed information without addressing time limitation.",
+          "context_impact": "Failure to acknowledge time constraint risked overwhelming student.",
+          "recommended_approach": "Should acknowledge time constraints and offer to schedule detailed discussion"
+        },
+        {
+          "id": 5,
+          "title": "Documentation Support Gap",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229657244",
+              "segment_id": "39",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about transcript retrieval process.",
+          "consultant_response": "Provided minimal support: 'Yeah you normally can just have to contact them.'",
+          "context_impact": "Limited guidance on documentation requirements created potential enrollment barrier.",
+          "recommended_approach": "Should outline specific documentation requirements and available support options"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594465163349",
+              "segment_id": "116",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464764490",
+                "segment_id": "90",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about managing study commitments. Primary example at segment 116: 'I want to see how I go for the first term. So if I choose two, can I pay for only for two units?' Supporting cases showed similar concerns about flexibility and manageability.",
+          "consultant_response": "Consultants demonstrated effective collaborative planning by validating student preferences while providing expert guidance: 'Yes, you just pay for what you're using. Two units is what we normally recommend to start with and then go from there.' This balanced respect for student autonomy with professional recommendations.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach by: 1) Validating student preferences for measured approaches, 2) Clearly explaining payment flexibility, 3) Providing evidence-based recommendations for initial study load, 4) Leaving room for future adjustments based on experience, and 5) Maintaining focus on enrollment-relevant planning."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100675409",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464764490",
+                "segment_id": "90",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students disclosed specific learning challenges requiring support services. One student explained: 'I have dyscalculia and I'm neurodiverse... I'd like to find out what student supports are available.' Another shared: 'I'm diagnosed ADHD. I have borderline personality disorder.' These disclosures presented opportunities to demonstrate institutional support capabilities.",
+          "consultant_response": "Consultants provided clear, structured responses that addressed immediate concerns while maintaining appropriate boundaries: 'We have lots of support for the stats units... introduction modules... additional support from our coaches, from your lectures.' They effectively outlined support processes while staying within pre-enrollment scope.",
+          "priority": "high",
+          "recommended_approach": "Maintain this exemplary approach by: 1) Acknowledging specific challenges professionally, 2) Providing high-level support overview, 3) Explaining basic accommodation processes, 4) Directing detailed planning to post-enrollment services, and 5) Using supportive language that builds confidence while setting appropriate expectations."
+        },
+        {
+          "id": 3,
+          "title": "Goal-Aligned Educational Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594388729194",
+              "segment_id": "12",
+              "timestamp": "5:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 5:53, student expressed desire to enhance impact in voluntary work: 'I want to be able to be more informed with what I'm doing with them, you know,' revealing commitment to improving support for women affected by domestic violence.",
+          "consultant_response": "Effectively bridged aspirations with program offerings: 'So we can obviously help you apply for the course... I'll get my colleague Rochelle to send you course information and course guide.' This demonstrated strong collaborative planning by connecting immediate action steps with student goals.",
+          "priority": "high",
+          "recommended_approach": "Enhance this approach by: 1) Emphasizing relevant program elements, 2) Creating clear connection between content and goals, 3) Outlining specific learning pathways, and 4) Maintaining appropriate boundaries while supporting aspirations."
+        },
+        {
+          "id": 4,
+          "title": "Limited Time Management Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464764490",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated limited availability: 'I'm just at work on a break so if we can chat about it and get it sorted that would be cool.' This clearly signaled time constraints requiring acknowledgment for effective planning.",
+          "consultant_response": "Instead of acknowledging the constraint, launched into detailed information: 'No that's fine I can assist you then yeah so yeah you sent your documents across to Sarah okay and she did get that assessed...' This risked overwhelming the student and failed to establish appropriate planning boundaries.",
+          "priority": "high",
+          "recommended_approach": "Should: 1) Acknowledge break time constraint, 2) Offer to schedule detailed discussion, 3) Provide brief key points overview, 4) Confirm preferred contact time, 5) Ensure critical information delivery, and 6) Set clear next discussion expectations."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Support Gap",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229657244",
+              "segment_id": "39",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 39, student expressed concern about documentation requirements: 'I mean, I have to go to my school and get them.' This revealed potential barriers to enrollment progress requiring clear guidance.",
+          "consultant_response": "Provided insufficient support: 'Yeah you normally can just have to contact them,' placing full responsibility on student without concrete guidance or resources.",
+          "priority": "high",
+          "recommended_approach": "Should provide comprehensive support by: 1) Acknowledging documentation challenges, 2) Outlining specific requirements, 3) Offering practical guidance, 4) Discussing alternative options if available, and 5) Setting clear follow-up checkpoints."
+        }
+      ]
+    }
+  }
+}

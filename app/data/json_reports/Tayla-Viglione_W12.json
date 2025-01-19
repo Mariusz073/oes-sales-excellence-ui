@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "consultant_name": "Tayla Viglione",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 289,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 48,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 16.608996539792386,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 241,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 83.39100346020761,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.75560301182895,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 241,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 149.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 128.19,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 167.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.82,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 147.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.88,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 130.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.16,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 183.08,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.96,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Educational Pathway Navigation",
+        "explanation": "Successfully guiding students through program options and progression pathways while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Proactive Work-Study Balance Planning",
+        "explanation": "Effectively collaborating with students to develop realistic study plans that accommodate employment and life commitments"
+      },
+      {
+        "headline": "Strategic Career Transition Support",
+        "explanation": "Skillfully aligning educational pathways with career goals while staying within appropriate consultation boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Comprehensive Financial Planning Integration",
+        "explanation": "Need for more thorough exploration of financial options and support mechanisms within pre-enrollment scope"
+      },
+      {
+        "headline": "Enhanced Study Mode Exploration",
+        "explanation": "Opportunity to better discuss and align study mode preferences with student needs and circumstances"
+      },
+      {
+        "headline": "Proactive Requirements Clarification",
+        "explanation": "Need for clearer guidance on academic prerequisites and program requirements during initial planning discussions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454235133",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229727007",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on program progression and professional pathways",
+          "consultant_response": "Consultants effectively outlined progression options while maintaining appropriate boundaries: 'This pathway is called the professional certificate... eventual access into the Graduate Diploma'",
+          "context_impact": "Clear pathway guidance increased student confidence in program alignment with goals",
+          "recommended_approach": "Could enhance by providing written pathway documentation"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101167513",
+              "segment_id": "76",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454461068",
+                "segment_id": "168",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing work commitments alongside study",
+          "consultant_response": "Consultants provided clear flexibility options: '100% online... fully flexible... no attendance requirements. You're free to work through the content whenever it works best for you'",
+          "context_impact": "Practical examples increased confidence in program manageability",
+          "recommended_approach": "Could enhance by outlining specific support services"
+        },
+        {
+          "id": 3,
+          "title": "Effective Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229804688",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed desire to transition from clinical work to administration due to physical strain",
+          "consultant_response": "Consultant effectively presented relevant program options: 'We've got the graduate certificate or the Master of Health Administration as well'",
+          "context_impact": "Clear career goals enabled targeted program alignment discussion",
+          "recommended_approach": "Could strengthen by exploring specific career objectives"
+        },
+        {
+          "id": 4,
+          "title": "Program Structure Clarity",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230013657",
+              "segment_id": "55",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought confirmation about program timeline and structure",
+          "consultant_response": "Consultant provided comprehensive details: 'Same start date... same structure, exact same support'",
+          "context_impact": "Clear structure confirmation increased enrollment confidence",
+          "recommended_approach": "None needed - excellent structure clarification"
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101390934",
+              "segment_id": "9:57",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229727007",
+                "segment_id": "57",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sought detailed information about program costs and payment options",
+          "consultant_response": "Basic cost information provided without exploring support options: 'Yeah, it is full fee paying'",
+          "context_impact": "Insufficient financial guidance could impact enrollment decisions",
+          "recommended_approach": "Should provide comprehensive overview of financial support options"
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Study Mode Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229804688",
+              "segment_id": "25",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed preference for on-campus study options",
+          "consultant_response": "Minimal guidance: 'I only work for the online side of things'",
+          "context_impact": "Limited exploration of study preferences could affect program fit",
+          "recommended_approach": "Should explore preferences and facilitate warm handover to campus team"
+        },
+        {
+          "id": 7,
+          "title": "Academic Requirements Clarification Need",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230013657",
+              "segment_id": "48",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed confusion about weighted average mark requirements",
+          "consultant_response": "Provided brief response without sufficient clarification",
+          "context_impact": "Unclear requirements explanation created uncertainty",
+          "recommended_approach": "Should provide clear explanation and connect with academic advisors"
+        },
+        {
+          "id": 8,
+          "title": "Limited Financial Barrier Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389399381",
+              "segment_id": "unknown",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed significant concerns about affording education with other commitments",
+          "consultant_response": "Minimal acknowledgment without exploring solutions",
+          "context_impact": "Unaddressed financial concerns could prevent enrollment",
+          "recommended_approach": "Should explore financial options and support mechanisms"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454235133",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229727007",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated strong interest in understanding program progression pathways. Primary example: 'I want to do the graduate diploma as a pathway. And then I know that I have to do the graduate diploma advance in order to get to master.' This revealed crucial need for clear guidance while maintaining appropriate boundaries in planning discussions.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear, boundary-appropriate guidance. Primary example: 'This pathway is called the professional certificate... eventual access into the Graduate Diploma.' Supporting example: 'For provisional registration, which means you can work but under supervision, you would need to do the fourth year honours program.' These responses effectively balanced providing necessary information while maintaining appropriate sales role boundaries.",
+          "priority": "High",
+          "recommended_approach": "To enhance this strong practice: 1) Acknowledge career goals while staying within sales role, 2) Provide clear progression requirements and timeframes, 3) Explain support services available at each stage, 4) Maintain focus on program offerings rather than specific career advice, 5) Connect students with relevant post-enrollment resources, and 6) Provide written documentation of pathway options."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101167513",
+              "segment_id": "76",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454461068",
+                "segment_id": "168",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed practical concerns about managing work commitments alongside studies. Primary example at segment 76: 'That helps with full-time employment.' Supporting example: 'How feasible do you think it is to just do a normal part-time job on top of that?' These questions revealed crucial need for realistic workload guidance.",
+          "consultant_response": "Consultants effectively addressed work-study balance concerns through comprehensive responses. Primary example: '100% online... fully flexible... no attendance requirements. You're free to work through the content whenever it works best for you.' Supporting example: 'We have many of our students work full-time. Most of our students work full-time.' These responses built confidence through practical examples while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "To further enhance this positive practice: 1) Acknowledge work-life balance concerns, 2) Share specific flexibility examples, 3) Outline available support services, 4) Create basic framework for work-study planning, 5) Provide clear next steps for exploring additional support, and 6) Include written overview of flexibility options."
+        },
+        {
+          "id": 3,
+          "title": "Effective Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229804688",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 32, the student expressed: 'I was hoping to kind of transition into more administration and kind of pull back on my clinical work just because, you know, I've been practicing for a few years and it's a lot of kind of strain on my neck and my hands.' This statement revealed both clear career transition goals and practical motivations.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by responding: 'Yeah, so we've got this course and we've also got, just because you mentioned admin, we've got the graduate certificate or the Master of Health Administration as well. That might also be a course that might pique your interest there.' This response effectively aligned educational options with career goals while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "To further enhance this approach: 1) Validate career transition goals, 2) Ask targeted questions about timeline and interests, 3) Present aligned program options, 4) Maintain appropriate boundaries, and 5) Reference post-enrollment career support resources."
+        },
+        {
+          "id": 4,
+          "title": "Program Structure Clarity",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230013657",
+              "segment_id": "55",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 55, the student asked: 'Is it still same start date and everything like that?' This question revealed their need to confirm program timeline alignment with their plans and demonstrated active engagement in the enrollment decision process.",
+          "consultant_response": "The consultant provided comprehensive program details: 'Same start date, so we've got the same intake dates. It's delivered virtually exactly the same considering you are essentially starting the Graduate Diploma of Psychology event and doing those two units. So, same structure, exact same support, and you'll be working alongside people who are doing the GDPA anyway.' This response effectively validated timeline concerns while providing valuable context.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach effectively addressed needs. To maintain this standard: 1) Confirm timeline understanding explicitly, 2) Connect structure to circumstances, 3) Highlight available support, and 4) Ensure comfort with proposed timeline."
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101390934",
+              "segment_id": "9:57",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229727007",
+                "segment_id": "57",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought financial guidance. Primary example: 'Is it like supported by Commonwealth Bank or supported with any other equivalent?' Supporting example showed similar concerns about program costs and payment options. These questions presented crucial opportunities for financial planning support.",
+          "consultant_response": "Consultants provided minimal financial information. Primary example: 'Yeah, it is full fee paying.' Supporting example demonstrated similar basic responses without exploring comprehensive support options. This represented missed opportunities for collaborative financial planning that could support enrollment decisions.",
+          "priority": "High",
+          "recommended_approach": "To enhance financial support: 1) Explain FEE-HELP benefits comprehensively, 2) Outline all payment options, 3) Direct to financial resources, 4) Discuss payment plans if available, 5) Provide clear financial planning steps, and 6) Maintain appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Study Mode Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229804688",
+              "segment_id": "25",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 25, the student stated: 'I think I was looking to do more on in person on campus.' This clear expression of study mode preference presented a crucial opportunity for collaborative planning around program delivery options.",
+          "consultant_response": "The consultant's response was limited: 'It might also be available through the campus team, but because I only work for the online side of things, I'm not too familiar with the courses.' This missed the opportunity to explore preferences and create clear support pathways.",
+          "priority": "High",
+          "recommended_approach": "A stronger approach would: 1) Validate on-campus preference, 2) Explore specific learning style needs, 3) Discuss alignment with goals, 4) Facilitate warm handover to campus team, 5) Ensure clear next steps, and 6) Maintain engagement until successful transition."
+        },
+        {
+          "id": 7,
+          "title": "Academic Requirements Clarification Need",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230013657",
+              "segment_id": "48",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 48, the student expressed confusion: 'Sorry, so did you say those need to have a weighted average mark of 65, did you say, for those two?' This question highlighted critical need for clarity about academic requirements.",
+          "consultant_response": "The consultant's brief response did not adequately address the depth of confusion about academic requirements. This represented a missed opportunity for collaborative planning around eligibility and academic preparation.",
+          "priority": "High",
+          "recommended_approach": "To improve: 1) Acknowledge confusion directly, 2) Provide clear requirements information, 3) Check understanding regularly, 4) Offer advisor connections for detailed discussion, and 5) Document discussion points for follow-up."
+        },
+        {
+          "id": 8,
+          "title": "Limited Financial Barrier Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389399381",
+              "segment_id": "unknown",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student revealed significant financial concerns: 'I can't imagine when I'm ever going to be able to do it, yeah, sign that when I've got children who are trying to go to private school and stuff.' This indicated serious financial barriers requiring careful collaborative planning.",
+          "consultant_response": "The consultant's limited response of 'Yeah, no, I understand there' failed to address underlying financial concerns or explore available options. This represented a missed opportunity for collaborative planning around financial solutions.",
+          "priority": "High",
+          "recommended_approach": "An effective approach should: 1) Acknowledge multiple financial commitments, 2) Explore FEE-HELP options, 3) Discuss flexible payments, 4) Direct to financial resources, 5) Create preliminary financial plan, and 6) Establish clear support steps."
+        }
+      ]
+    }
+  }
+}

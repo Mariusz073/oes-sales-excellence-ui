@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "consultant_name": "Bridgett Young",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 363,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 71,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.55922865013774,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 292,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.44077134986226,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.91933891195364,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 292,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 174.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.21,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 91.28,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 85.34,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 115.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 133.72,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 88.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.8,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 113.6,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.7,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Study Planning Integration",
+        "explanation": "Strong ability to help students develop realistic study plans while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Clear guidance through program options and pathways while respecting pre-enrollment scope"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective highlighting of support resources while maintaining appropriate consultation boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for deeper investigation of student circumstances and goals during planning discussions"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "More thorough exploration of alternative options when addressing eligibility or preference challenges"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Better incorporation of available support mechanisms into enrollment planning discussions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Management Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464834689",
+              "segment_id": "78",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229837128",
+                "segment_id": "45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing study commitments alongside other obligations.",
+          "consultant_response": "Consultants effectively explained unit loads and flexibility: 'maximum you can do is three units' while validating gradual integration approaches.",
+          "context_impact": "Clear explanation of study options increased student confidence in program manageability.",
+          "recommended_approach": "Consider integrating brief mentions of post-enrollment support services."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230258170",
+              "segment_id": "4",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about ATAR requirements for desired program.",
+          "consultant_response": "Effectively presented multiple options: 'There are other avenues of entry including doing a stat test or a diploma.'",
+          "context_impact": "Clear alternative pathways crucial for maintaining student engagement.",
+          "recommended_approach": "None needed - exemplary handling of alternative pathway discussion"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230325575",
+              "segment_id": "133",
+              "timestamp": "9:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed awareness of potential study challenges.",
+          "consultant_response": "Highlighted available support within appropriate context: 'We've got plenty of assistance available if you need extra help.'",
+          "context_impact": "Early support discussion enhanced enrollment confidence.",
+          "recommended_approach": "None needed - maintained clear boundaries while offering reassurance"
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217513015",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100979572",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students indicated various life challenges affecting study plans.",
+          "consultant_response": "Focused on administrative aspects without addressing underlying concerns.",
+          "context_impact": "Missed opportunities to explore student circumstances and provide targeted support.",
+          "recommended_approach": "Should validate feelings and explore specific concerns while highlighting available support"
+        },
+        {
+          "id": 5,
+          "title": "Limited Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230000745",
+              "segment_id": "31",
+              "timestamp": "5:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about visa eligibility requirements.",
+          "consultant_response": "Simply stated inability to assist without exploring alternatives.",
+          "context_impact": "Insufficient exploration of alternative pathways reduced enrollment opportunities.",
+          "recommended_approach": "Should explore alternative pathways while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229837128",
+              "segment_id": "56",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed needs for ongoing support and community connection.",
+          "consultant_response": "Failed to effectively integrate mentions of available support resources.",
+          "context_impact": "Missed opportunities to highlight valuable post-enrollment support services.",
+          "recommended_approach": "Should briefly highlight relevant post-enrollment support services while maintaining appropriate boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Management Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464834689",
+              "segment_id": "78",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229837128",
+                "segment_id": "45",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study commitments alongside existing obligations. The primary example showed clear interest in understanding maximum unit loads, while supporting examples revealed students seeking to balance study with work and travel commitments. These interactions presented crucial opportunities for collaborative planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning skills by providing clear, boundary-appropriate guidance. The primary response effectively explained unit limitations: 'maximum you can do is three units, which is 25 to 30 hours a week' while supporting examples showed validation of gradual integration approaches: 'to dip your toe back into study without being too much, especially if you've got other commitments on.' These responses effectively balanced providing concrete information with maintaining appropriate sales role boundaries.",
+          "priority": "High",
+          "recommended_approach": "To enhance these interactions, consultants should: 1) Acknowledge student concerns about managing commitments, 2) Provide clear unit load information while maintaining appropriate boundaries, 3) Validate flexible approaches to study integration, and 4) Briefly mention availability of post-enrollment support services without overstepping into support role. This approach maintains focus on enrollment decisions while setting appropriate expectations for support resources."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230258170",
+              "segment_id": "4",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 4, the student demonstrated vulnerability by openly stating: 'I'm going to be honest with you, I don't think I have the ATAR for that.' This honest admission about ATAR concerns for their desired program created an opportunity to explore alternative pathways while maintaining engagement.",
+          "consultant_response": "The consultant provided comprehensive guidance while maintaining appropriate boundaries: 'Well, look, there are other avenues of entry to get into the course that would include doing like a stat test or a diploma that I can send you through if you would like to have a look.' This approach effectively maintained student engagement by presenting multiple viable pathways.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach exemplifies best practices by maintaining focus on enrollment decisions while providing clear alternative pathways. Continue to: 1) Validate student concerns, 2) Present multiple pathway options, 3) Maintain appropriate guidance boundaries, and 4) Provide clear next steps."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230325575",
+              "segment_id": "133",
+              "timestamp": "9:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 9:50 into the call, the student demonstrated awareness of potential study challenges while maintaining enthusiasm for their studies. This awareness created an ideal opportunity to discuss available support systems while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant effectively highlighted support availability while maintaining appropriate boundaries: 'We've got plenty of assistance available if you do feel you need extra help at any point.' This proactive introduction of support mechanisms demonstrated excellent collaborative planning by balancing encouragement with practical information.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective balance of support introduction with appropriate boundaries by: 1) Highlighting available support within pre-enrollment context, 2) Maintaining focus on high-level support overview, 3) Positioning detailed support discussion as post-enrollment benefit, 4) Using student cues to gauge appropriate depth of support discussion."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217513015",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100979572",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students indicated significant life challenges affecting their study plans. Primary example revealed: 'Yes, yes, so it's been a lot the last six months.' Supporting examples showed similar need for deeper exploration of circumstances to provide appropriate guidance while maintaining boundaries.",
+          "consultant_response": "Consultants typically focused on administrative aspects, responding with statements like 'Absolutely, no worries, I can certainly help you with that.' While professionally courteous, these responses missed opportunities to explore student circumstances and provide targeted support while maintaining appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "An enhanced approach would begin with emotional validation: 'I understand these past months have been challenging for you.' Then explore readiness within appropriate bounds: 'Could you share any specific concerns about returning to study?' Finally, outline support services without overstepping: 'Let me explain how our support systems can help you transition back successfully, and the resources available to you after enrollment.'"
+        },
+        {
+          "id": 5,
+          "title": "Limited Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230000745",
+              "segment_id": "31",
+              "timestamp": "5:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 5:31 in the call, the student expressed concern about their visa status: 'I'm not going to be on my student visa, I'm going to be on my 485, so that is why I was looking up like this.' This inquiry presented a crucial opportunity to address complex eligibility requirements while maintaining student engagement.",
+          "consultant_response": "The consultant's response was limited: 'So unfortunately we still wouldn't be able to assist right now, we would need to wait for you to become a permanent resident or Australian citizen.' While technically accurate, this response missed the opportunity to explore potential alternatives while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach while maintaining pre-enrollment scope would: 1) Acknowledge complexity: 'I understand navigating residency and eligibility can be challenging.' 2) Provide clear guidance: 'Let me explain our current visa eligibility requirements.' 3) Explore alternatives: 'While this specific program has certain restrictions, let's discuss what other pathways might be available to you in the meantime.'"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229837128",
+              "segment_id": "56",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed various needs for ongoing support and community connection, exemplified by statements like: 'I think personally, firstly, that's going to make me feel part of the system.' These moments presented opportunities to highlight valuable post-enrollment support services while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants often missed opportunities to effectively integrate mentions of available support resources. While maintaining appropriate boundaries is crucial, failing to highlight relevant post-enrollment services left students without awareness of valuable support options that could influence their enrollment decisions.",
+          "priority": "High",
+          "recommended_approach": "Consultants should enhance their approach by: 1) Acknowledging support needs while maintaining sales role boundaries, 2) Briefly highlighting relevant post-enrollment support services, 3) Explaining how support resources complement course structure, 4) Setting appropriate expectations about post-enrollment support without over-promising or stepping into support role."
+        }
+      ]
+    }
+  }
+}

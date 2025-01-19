@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "consultant_name": "Gabriel Almeida",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 277,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 53,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.133574007220215,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 224,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.86642599277978,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.28672831749135,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 224,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 107.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 145.91,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 142.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 152.31,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 183.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.28,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 126.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.5,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 204.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Educational Pathway Guidance",
+        "explanation": "Consultants successfully guide students through academic pathways while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Strategic Financial Planning Support",
+        "explanation": "Clear communication of financial options and pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Proactive Support System Integration",
+        "explanation": "Effectively connecting students with relevant support resources while staying within pre-enrollment scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Challenge Response",
+        "explanation": "Need for better collaborative planning when students face personal or emotional obstacles"
+      },
+      {
+        "headline": "Strengthened Study Management Planning",
+        "explanation": "Opportunity to improve guidance through study load and timeline management discussions"
+      },
+      {
+        "headline": "Deeper Goal Alignment Discussion",
+        "explanation": "More comprehensive exploration needed when aligning educational pathways with student goals"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101053413",
+              "segment_id": "25",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454336904",
+                "segment_id": "63",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on credit transfer opportunities from previous studies",
+          "consultant_response": "Consultants provided clear guidance: 'Since you already have a master's in education, the quickest way would be a master in primary, and you can transfer some credits'",
+          "context_impact": "Clear credit transfer guidance strengthened student confidence in academic progression",
+          "recommended_approach": "None needed - exemplary demonstration of collaborative planning"
+        },
+        {
+          "id": 2,
+          "title": "Comprehensive Financial Support Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318935685",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about cost savings options and financial implications",
+          "consultant_response": "Provided detailed cost breakdown and Fee-HELP explanation: 'Per unit is going to cost $3,210 and the entire course is around $51,000 that you can apply totally on fee help'",
+          "context_impact": "Financial clarity crucial for enrollment decision-making",
+          "recommended_approach": "None needed - excellent financial guidance example"
+        },
+        {
+          "id": 3,
+          "title": "Effective Course Load Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "254",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student working full-time sought advice on managing course load",
+          "consultant_response": "Effectively explained typical approaches: 'Most students work full-time and have kids as well. We always recommend starting with one or two units'",
+          "context_impact": "Clear workload guidance crucial for student confidence",
+          "recommended_approach": "Current approach effective in guiding workload planning"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Challenge Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230003516",
+              "segment_id": "900",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454401656",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students disclosed personal challenges affecting enrollment process",
+          "consultant_response": "Basic empathy without strategic planning: 'No, that's totally okay' without exploring flexible options",
+          "context_impact": "Missed opportunities to develop adaptive enrollment plans",
+          "recommended_approach": "Should develop supportive action plans while maintaining appropriate boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Timeline Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318766743",
+              "segment_id": "31",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Discussion of reduced course load implications",
+          "consultant_response": "Focused on facts without strategic planning: 'So you got four of the elective. So, the course essentially is broken down into five core units'",
+          "context_impact": "Failed to explore impact on completion timeline",
+          "recommended_approach": "Should explore timeline implications while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Missed Career Alignment Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312252868",
+              "segment_id": "9",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested guidance on course suitability for career goals",
+          "consultant_response": "Basic acknowledgment without meaningful career discussion",
+          "context_impact": "Limited exploration of career needs and course alignment",
+          "recommended_approach": "Should engage in deeper goal alignment while maintaining pre-enrollment scope"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101053413",
+              "segment_id": "25",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454336904",
+                "segment_id": "63",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated need for credit transfer guidance. Primary example: 'I currently have a Bachelor of Early Childhood Study as well as a Master of Education... if I wanted to enroll into a primary teaching course, would I receive any credit?' Supporting example sought clarity on transferring current study units. These queries represented critical opportunities for collaborative planning around academic progression.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear guidance while maintaining appropriate boundaries. Primary response: 'Since you already have a master's in education, the quickest way would be a master in primary, and you can transfer some credits as well. To transfer credits, they need to be compatible with our units, so I would need your official transcript.' Supporting interaction showed similar effective balance of immediate guidance with necessary process steps. This approach effectively balanced addressing immediate needs while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "High",
+          "recommended_approach": "This represents best practice in collaborative planning. To maintain this standard: 1) Acknowledge prior learning clearly, 2) Explain credit transfer process boundaries, 3) Set realistic expectations about compatibility requirements, 4) Outline specific next steps, and 5) Maintain appropriate pre-enrollment scope while creating clear action plans."
+        },
+        {
+          "id": 2,
+          "title": "Comprehensive Financial Support Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318935685",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 47, the student initiated a critical discussion about financial options, showing both cost consciousness and need for clarity on payment pathways. This inquiry presented a crucial opportunity for collaborative financial planning: 'What are the costs involved and are there any financial support options available?'",
+          "consultant_response": "The consultant provided comprehensive guidance while maintaining appropriate boundaries: 'So the per unit, let me just double check here for you, per unit is going to cost $3,210 and the entire course is around $51,000 that you can apply totally on fee help. So you don't need to pay anything upfront.' This response effectively combined specific cost information with available support options, helping the student understand their financial pathway while staying within pre-enrollment scope.",
+          "priority": "High",
+          "recommended_approach": "This exemplary approach should be maintained by: 1) Providing clear cost breakdowns, 2) Explaining available financial support options, 3) Maintaining appropriate pre-enrollment boundaries, 4) Directing to relevant financial resources, and 5) Creating clear next steps for financial planning."
+        },
+        {
+          "id": 3,
+          "title": "Effective Course Load Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "254",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 254, the student demonstrated proactive concern about balancing commitments: 'What would your recommendation be, like, due to me working full-time?' This inquiry revealed awareness of potential challenges and sought expert guidance on managing competing demands of work and study.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning: 'Yeah, look the university all because this course is going on for a long time and most of our students are exactly in the same situation as you... most of the students they work full-time and have kids as well. We always recommend the students to start with one or two units to see how you go.' This response effectively validated concerns while providing practical guidance based on real examples.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach while: 1) Acknowledging student's self-awareness about workload management, 2) Outlining available support services within pre-enrollment scope, 3) Discussing flexible study options relevant to enrollment decisions, and 4) Creating clear understanding of study management resources."
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Challenge Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230003516",
+              "segment_id": "900",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454401656",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students disclosed personal challenges affecting their enrollment journey. Primary example: 'I had a big car accident,' while another expressed feeling overwhelmed by the process: 'It's a bit overwhelming.' These moments required careful handling to maintain student confidence while providing appropriate support planning.",
+          "consultant_response": "Consultants showed basic empathy but failed to engage in strategic planning: 'No, that's totally okay, I'm glad you're okay' and 'No, no worries at all.' These responses missed opportunities to develop supportive action plans while maintaining appropriate boundaries. Limited exploration of flexible options or support systems left students without clear pathways forward.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge personal challenges with genuine empathy, 2) Explore flexible enrollment options aligned with circumstances, 3) Develop clear action plans accounting for individual situations, 4) Position available support services appropriately, and 5) Maintain proper boundaries while ensuring students feel supported through challenges."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Timeline Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318766743",
+              "segment_id": "31",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 31, discussion of reduced unit requirements (from 24 to 16 units) presented a prime opportunity for strategic timeline planning. This significant change in course structure required careful exploration of completion pathways and alignment with student goals.",
+          "consultant_response": "The consultant focused solely on factual information: 'So you got four of the elective. So, the course essentially is broken down into five core units.' This response failed to explore the strategic implications of the reduced course load or engage in meaningful timeline planning. The lack of forward-looking discussion missed an opportunity to build student confidence in program completion.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge the course structure change, 2) Explore timeline implications while maintaining boundaries, 3) Discuss flexible completion options within pre-enrollment scope, 4) Create clear understanding of study patterns, and 5) Position post-enrollment support services appropriately."
+        },
+        {
+          "id": 6,
+          "title": "Missed Career Alignment Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312252868",
+              "segment_id": "9",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 9, the student explicitly requested guidance on course suitability for career goals. This direct request presented an opportunity for meaningful exploration of course alignment while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant's minimal response missed the opportunity to engage in valuable alignment discussion. The lack of exploration left the student without clear understanding of how the course could support their career goals, potentially impacting enrollment confidence.",
+          "priority": "High",
+          "recommended_approach": "An improved approach would: 1) Explore career goals at appropriate pre-enrollment level, 2) Discuss program features that support these goals, 3) Maintain appropriate boundaries between sales and career counseling, 4) Position post-enrollment career support services appropriately, and 5) Create clear understanding of how the program supports career development."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "consultant_name": "Rochelle Khaddage",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 209,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.751196172248804,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 151,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.24880382775119,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.206635224191295,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 151,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 209.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.26,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 160.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 126.2,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 195.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.15,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.88,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.8,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 152.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.17,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Study Path Customization",
+        "explanation": "Consultants successfully tailor educational pathways based on student circumstances while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Strategic Experience Integration",
+        "explanation": "Consultants effectively validate and incorporate prior experience into pathway planning"
+      },
+      {
+        "headline": "Proactive Support Connection",
+        "explanation": "Consultants appropriately connect students with relevant resources while staying within role scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Context Integration",
+        "explanation": "Need for deeper exploration of career goals when discussing educational pathways"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "Opportunity for more thorough discussion of financial options and support mechanisms"
+      },
+      {
+        "headline": "Proactive Pathway Exploration",
+        "explanation": "Need for more comprehensive discussion of multiple entry pathways and qualification options"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389029777",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100905791",
+                "segment_id": "9",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing work commitments with study loads.",
+          "consultant_response": "Consultants provided practical recommendations: 'Let's assume three units... we do have students that can manage while working' and 'We'll look at how our flexible study options could work around your schedule.'",
+          "context_impact": "Clear guidance on realistic study loads increased student confidence in program completion.",
+          "recommended_approach": "None needed - excellent examples of collaborative load planning"
+        },
+        {
+          "id": 2,
+          "title": "Effective Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229811557",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318806614",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students presented relevant prior experience in logistics and university studies.",
+          "consultant_response": "Validated experience value and provided practical tools: 'Your work experience seems like your best form of entry' while offering resume templates.",
+          "context_impact": "Recognition of experience built confidence and clarified entry pathways.",
+          "recommended_approach": "None needed - exemplary validation and support provided"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454391741",
+              "segment_id": "56",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested guidance on course selection and post-acceptance support.",
+          "consultant_response": "Provided comprehensive information about student advisor support while maintaining role boundaries.",
+          "context_impact": "Clear support service information enhanced student confidence.",
+          "recommended_approach": "Could add specific timeline for advisor connection"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312346229",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "14",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple interactions began with basic program inquiries without career context exploration.",
+          "consultant_response": "Focus on immediate program details without exploring broader career aspirations.",
+          "context_impact": "Missed opportunities to align educational pathways with career goals.",
+          "recommended_approach": "Begin with career goal discussion before detailing specific programs"
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "50",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about program costs and financial details.",
+          "consultant_response": "Simply stated fee amount without discussing FEE-HELP or payment options.",
+          "context_impact": "Basic fee information without exploring payment options may have left student uncertain.",
+          "recommended_approach": "Should explore financial options comprehensively, including FEE-HELP eligibility and payment plans"
+        },
+        {
+          "id": 6,
+          "title": "Entry Requirements Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229811557",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318806614",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed uncertainty about meeting traditional entry requirements.",
+          "consultant_response": "Varied responses to entry concerns, some missing opportunities to explore alternatives.",
+          "context_impact": "Limited exploration of alternative pathways may create unnecessary barriers.",
+          "recommended_approach": "Proactively outline multiple entry pathways and qualification options"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389029777",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100905791",
+                "segment_id": "9",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students expressed concerns about managing study loads alongside work commitments. Primary example: 'I want to advance my career but I'm worried about balancing study with my current role.' This presented crucial opportunities for collaborative planning to address work-study balance concerns while maintaining student confidence in program completion.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing realistic, practical guidance: 'Okay, so let's assume you're taking three units. I would not, if you're maintaining work, don't take four units. That is a very heavy load. Every unit we recommend eight to 10 hours of study for.' This approach effectively balanced encouragement with practical considerations, helping students understand realistic expectations while maintaining confidence in their ability to complete the program.",
+          "priority": "High",
+          "recommended_approach": "The current approach effectively demonstrates collaborative planning best practices. Consultants should continue to: 1) Provide specific hourly guidelines 2) Acknowledge work commitments 3) Recommend appropriate study loads 4) Outline flexibility options 5) Connect students with post-enrollment study planning resources"
+        },
+        {
+          "id": 2,
+          "title": "Effective Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229811557",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318806614",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students presented relevant prior experience, with one stating: 'Well, first I want to do a postgraduate for Migration Law... I thought I would continue into Logistics since I did some warehousing' and another discussing completion of 20 university units. These disclosures presented opportunities for collaborative planning around experience recognition.",
+          "consultant_response": "Consultants demonstrated excellence in validating and incorporating prior experience: 'Your work experience to me seems like your best form of entry, as you have quite an extensive work experience, which does show a lot of transferable skills.' This approach effectively balanced acknowledging experience value while maintaining appropriate pre-enrollment guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "This exemplary approach should be maintained and shared as best practice. Key elements to continue: 1) Immediate validation of experience value 2) Clear connection to entry pathways 3) Practical support tools provision 4) Specific next steps guidance 5) Maintaining appropriate advisory boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594454391741",
+              "segment_id": "56",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student proactively sought guidance about available support services, asking: 'If I do get accepted, is there a way I can have another meeting with someone that can help me with the course guide?' This demonstrated engagement and awareness of support needs.",
+          "consultant_response": "The consultant effectively balanced immediate guidance with appropriate post-enrollment resource referral: 'Yes, absolutely. Once enrolled, you'll have access to our student success advisors who can help with detailed course planning.' This approach demonstrated strong collaborative planning while maintaining clear role boundaries.",
+          "priority": "High",
+          "recommended_approach": "To enhance this strong foundation, consultants should: 1) Provide specific timeline for advisor connection 2) Outline clear support service access process 3) Create explicit connection between current planning and future support 4) Maintain appropriate pre-enrollment boundaries"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312346229",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "14",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple interactions began with basic program inquiries without career context exploration. Primary example: 'Yeah, what degree were you looking at?' (at 3 seconds), representing missed opportunities for deeper career discussion.",
+          "consultant_response": "Consultants typically focused on immediate program details without exploring broader career aspirations or long-term professional goals. This pattern of surface-level program discussion without career context integration represents a significant missed opportunity for meaningful collaborative planning.",
+          "priority": "High",
+          "recommended_approach": "Consultants should enhance their approach by: 1) Opening with career exploration: 'Before we discuss specific programs, could you tell me about your career goals?' 2) Connecting programs to career paths 3) Creating context for program features 4) Documenting career context for future interactions 5) Using career insights to personalize program recommendations"
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "50",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student inquired about program costs: 'Perfect, okay and what's the what's the cost on that on that bachelor and undergraduate.' This presented a crucial opportunity for collaborative financial planning discussion.",
+          "consultant_response": "The consultant's response was limited to basic information: 'Just let me open that up for you in front of me... So at the moment, the estimated fees for that is $8,496, which if you're an Australian are you an Australian citizen?' This missed the opportunity to explore payment options and support mechanisms.",
+          "priority": "High",
+          "recommended_approach": "A more comprehensive approach should include: 1) Explaining FEE-HELP eligibility and benefits 2) Discussing payment options and timelines 3) Highlighting available financial support services 4) Directing to official resources like studyassist.gov.au 5) Maintaining focus on enrollment-relevant financial information"
+        },
+        {
+          "id": 6,
+          "title": "Entry Requirements Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229811557",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318806614",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about meeting traditional entry requirements, with one stating: 'Yeah, I don't remember my ATAR score because I completed it in 2012.' These moments revealed potential barriers to enrollment confidence.",
+          "consultant_response": "Responses varied in effectiveness when addressing entry requirement concerns. Some focused solely on why traditional methods wouldn't work: 'Okay, that was quite some time ago anyway so we wouldn't actually be able to use ATAR as a method of entry' without fully exploring alternatives.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge traditional requirement concerns while maintaining positivity 2) Immediately outline multiple entry pathways 3) Explore specific options based on individual circumstances 4) Provide clear examples of successful alternative entry cases 5) Create specific action plans for chosen pathways"
+        }
+      ]
+    }
+  }
+}

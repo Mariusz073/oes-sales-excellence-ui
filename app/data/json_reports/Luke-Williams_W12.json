@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "consultant_name": "Luke Williams",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 244,
+  "team_average_total_number_of_calls_per_sales_consultant": 214.0909090909091,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 37,
+    "team_average_absolute_number": 43.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 15.163934426229508,
+    "team_average_percentage": 21.1323216622999
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 207,
+    "team_average_absolute_number": 170.9090909090909
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 84.8360655737705,
+    "team_average_percentage": 78.8676783377001
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.202320497270286,
+    "team_average": 54.064789708012384
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 207,
+    "team_total_excluded_transcripts": 1880
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 108.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.68,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 107.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 69.01,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Program-Career Integration",
+        "explanation": "Consultants skillfully align educational pathways with career goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Proactive Work-Study Balance Planning",
+        "explanation": "Strategic collaboration to create flexible study arrangements that accommodate existing professional commitments"
+      },
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Effective connection of students with appropriate support resources while maintaining clear pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Alternative Pathway Exploration",
+        "explanation": "Need for more comprehensive discussion of alternative entry and study pathways when standard options aren't suitable"
+      },
+      {
+        "headline": "Strengthened Financial Planning Framework",
+        "explanation": "Opportunity to provide more structured guidance on financial planning options within appropriate role boundaries"
+      },
+      {
+        "headline": "Proactive Life Balance Integration",
+        "explanation": "Need for more comprehensive exploration of how programs can accommodate various life commitments"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101082341",
+              "segment_id": "88",
+              "timestamp": "4:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216770134",
+                "segment_id": "23",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing full-time work alongside studies",
+          "consultant_response": "Consultants provided structured guidance: 'The way our course works... That's self-paced, self-guided learning so you can still keep working full-time.'",
+          "context_impact": "Clear demonstration of program flexibility was crucial for building confidence in program completion",
+          "recommended_approach": "Could enhance by providing more specific examples of successful work-study arrangements"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "45",
+              "timestamp": "3:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed anxiety about program demands and support needs",
+          "consultant_response": "Provided clear support frameworks: 'I'm going to set you up with our dedicated student coach program.'",
+          "context_impact": "Effective support integration crucial for building enrollment confidence",
+          "recommended_approach": "Could explore specific concerns more deeply while maintaining boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Effective Program Alignment",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "48",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought verification of specific program alignment with career goals",
+          "consultant_response": "Active verification approach: 'Let me check the system. Are you looking at doing the double degree?'",
+          "context_impact": "Precise program verification crucial for enrollment confidence",
+          "recommended_approach": "None needed - excellent collaborative verification process"
+        },
+        {
+          "id": 4,
+          "title": "Limited Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "119",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students inquired about recognition of work experience and alternative entry options",
+          "consultant_response": "Brief, dismissive responses: 'We don't. Not for this course. No, not at all.'",
+          "context_impact": "Missed opportunities to explore viable alternative pathways",
+          "recommended_approach": "Should explore alternative pathways while maintaining realistic expectations"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216770134",
+              "segment_id": "140",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101516061",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on financial support options and payment arrangements",
+          "consultant_response": "Minimal engagement with financial planning needs: 'I mean you can apply for a scholarship'",
+          "context_impact": "Lack of structured financial guidance may impact enrollment decisions",
+          "recommended_approach": "Should provide comprehensive overview of financial support options while maintaining role boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Limited Life Balance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100981940",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101462049",
+                "segment_id": "67",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing various life commitments",
+          "consultant_response": "Basic acknowledgment without detailed solutions: 'Yeah, I understand. No problems'",
+          "context_impact": "Insufficient exploration of program flexibility may reduce enrollment confidence",
+          "recommended_approach": "Should demonstrate comprehensive program flexibility while maintaining enrollment focus"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101082341",
+              "segment_id": "88",
+              "timestamp": "4:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594216770134",
+                "segment_id": "23",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple instances emerged of students seeking to balance full-time work with study commitments. In the primary call at 4:45, the student expressed: 'That is perfect because I do work full time.' Supporting calls revealed similar concerns: 'I want to advance my career but I'm worried about balancing study with my current role.' These statements consistently revealed both career advancement motivation and anxiety about managing competing commitments.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning skills through detailed program structure explanations and practical solutions. The primary example showed excellent detail: 'So the way our course works, there's 10 units. You do one unit at a time... That's self-paced, self-guided learning so you can still keep working full-time.' Supporting calls showed similar strength in exploring flexible arrangements: 'Let's explore how our online delivery can fit around your current role. Many of our students manage full-time jobs while studying.' These responses effectively balanced practical guidance with confidence building.",
+          "priority": "High",
+          "recommended_approach": "While current approach is strong, consultants could enhance by: 1) Providing specific examples of successful work-study arrangements, 2) Exploring individual work patterns more deeply, 3) Highlighting specific flexibility features, 4) Creating clear study planning frameworks, and 5) Documenting discussed arrangements for future reference."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "45",
+              "timestamp": "3:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 45, the student revealed significant anxiety about program demands: 'I'm just scared... I'm just overwhelmed.' This emotional disclosure presented a crucial opportunity for strategic support integration while maintaining appropriate enrollment boundaries.",
+          "consultant_response": "The consultant demonstrated excellent judgment in support integration by immediately offering targeted assistance: 'What I'll do, look, I'm going to set you up with something as well called our dedicated student coach program.' This response effectively acknowledged emotional concerns while maintaining proper role boundaries, focusing on available support structures rather than attempting to provide direct emotional counseling.",
+          "priority": "High",
+          "recommended_approach": "This approach can be enhanced by: 1) Acknowledging specific concerns explicitly, 2) Outlining complete support framework, 3) Creating clear pathways to assistance, 4) Documenting discussed support options, and 5) Ensuring smooth transitions to appropriate resources."
+        },
+        {
+          "id": 3,
+          "title": "Effective Program Alignment",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "48",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 48, the student initiated a critical verification discussion: 'I've been wanting to apply, I'm just double checking it's the double degree, the Project Management and Business Management masters because it only said the just project management but yeah just looking making sure that it's the double degree masters that I've been enrolled into.' This demonstrated both proactive engagement and need for precise program confirmation.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning through systematic verification: 'Okay, you haven't been enrolled into anything yet so that's okay. But let me just check the system. Now he's got you down just as master project management. Are you looking at doing the double degree, sorry, master project management and which other one?' This response effectively combined thorough verification with active engagement.",
+          "priority": "High",
+          "recommended_approach": "This interaction represents best practices in collaborative planning. Similar situations should maintain this level of verification while: 1) Summarizing confirmed details, 2) Documenting preferences clearly, 3) Outlining next steps, and 4) Providing program documentation references."
+        },
+        {
+          "id": 4,
+          "title": "Limited Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "119",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students inquired about alternative entry pathways and recognition of professional experience. The primary example at segment 119 showed: 'have any consideration for people who haven't been able to develop one but who have work experience because...' These inquiries presented crucial opportunities for exploring alternative pathways while maintaining realistic expectations.",
+          "consultant_response": "Consultants typically provided dismissive responses that failed to explore viable alternatives. The primary example demonstrated this limitation: 'We don't. Not for this course. No, not at all.' This approach failed to acknowledge the value of professional experience or explore potential pathways forward, likely diminishing student confidence in finding suitable options.",
+          "priority": "High",
+          "recommended_approach": "A stronger approach would: 1) Acknowledge the value of professional experience, 2) Explore available alternative pathways, 3) Discuss potential bridging options, 4) Create clear action plans for meeting requirements, 5) Provide specific next steps for alternative routes, and 6) Maintain realistic expectations while offering hope."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216770134",
+              "segment_id": "140",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101516061",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on financial support options, with the primary call showing: 'About the fees, let's say, is there a scholarship available or loan assistance, how does it work, considering that I'm an Australian citizen?' Supporting calls revealed similar needs for financial planning guidance. These moments presented crucial opportunities for structured financial support discussion within appropriate boundaries.",
+          "consultant_response": "Consultants consistently showed minimal engagement with financial planning needs. The primary example demonstrated this limitation: 'I mean you can apply for a scholarship,' without exploring available options or providing structured guidance. Supporting calls showed similar patterns of missed opportunities to build confidence in financial planning.",
+          "priority": "High",
+          "recommended_approach": "An effective approach should: 1) Acknowledge importance of financial planning, 2) Outline FEE-HELP availability and conditions, 3) Explain scholarship processes, 4) Direct to reliable financial resources, 5) Document discussed options, and 6) Create clear financial planning frameworks while maintaining role boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Limited Life Balance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100981940",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101462049",
+                "segment_id": "67",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing various life commitments alongside study. The primary call revealed: 'I think because I was initially in my honours and they changed to three years course' while supporting calls showed similar concerns about balancing multiple responsibilities. These patterns revealed critical needs for comprehensive life balance planning.",
+          "consultant_response": "Consultants typically provided basic acknowledgments without exploring specific solutions: 'Yeah, I understand. No problems.' This pattern of minimal engagement failed to demonstrate how program flexibility could accommodate various life commitments or build confidence in successful integration of study with existing responsibilities.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge specific life balance challenges, 2) Explore individual commitment patterns, 3) Demonstrate program flexibility features, 4) Create clear integration strategies, 5) Highlight relevant support services, and 6) Document discussed arrangements while maintaining enrollment focus."
+        }
+      ]
+    }
+  }
+}

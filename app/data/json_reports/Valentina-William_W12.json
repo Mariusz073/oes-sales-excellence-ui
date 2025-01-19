@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 181,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 54,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.83425414364641,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 127,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.1657458563536,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.157984998395435,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 127,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study-Life Integration",
+        "explanation": "Successfully guiding students through program flexibility options while considering individual circumstances and constraints"
+      },
+      {
+        "headline": "Career-Aligned Pathway Planning",
+        "explanation": "Effectively connecting student experience and goals to educational pathways while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Strategically directing students to relevant support mechanisms while maintaining clear role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Pathway Exploration",
+        "explanation": "Need for more comprehensive discussion of alternative pathways and options when primary choices face constraints"
+      },
+      {
+        "headline": "Deeper Context Integration",
+        "explanation": "Opportunity to better incorporate student circumstances and background when developing educational plans"
+      },
+      {
+        "headline": "Structured Action Planning",
+        "explanation": "Room for improvement in creating clear next steps with specific milestones and timelines"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229889756",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing interest in alternative study pathways or shorter durations based on prior experience.",
+          "consultant_response": "Provided rigid responses without exploring alternative options or pathways.",
+          "context_impact": "Missed opportunities to explore viable alternatives risked student disengagement.",
+          "recommended_approach": "Should proactively explore alternative pathways while explaining available options and recognition opportunities."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229623351",
+                "segment_id": "11",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students providing rich professional and educational background information during discussions.",
+          "consultant_response": "Surface-level acknowledgment without meaningfully incorporating context into planning discussions.",
+          "context_impact": "Limited exploration of student circumstances reduced ability to provide tailored guidance.",
+          "recommended_approach": "Should explore student circumstances more thoroughly to provide relevant, personalized guidance."
+        },
+        {
+          "id": 6,
+          "title": "Incomplete Action Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "3",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted missing follow-up information about next steps.",
+          "consultant_response": "Provided minimal response without addressing immediate next steps needs.",
+          "context_impact": "Basic acknowledgment without planning risked enrollment momentum.",
+          "recommended_approach": "Should proactively outline clear next steps while ensuring reliable communication channels."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Study-Life Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 5:45 into the call, the student expressed significant concern about managing law studies with full-time work: 'I want to advance my career but I'm worried about balancing study with my current role.' This highlighted a critical need for practical guidance on achieving work-study-life balance while pursuing their educational goals.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by providing a detailed, realistic study framework: 'Now, if you work full-time, which is pretty much 99% of our students, and you're interested in law, we wouldn't recommend doing more than two units if you work full time. So, you can do two units in March, two units in July, and then by November, you'd already be in your law degree.' This response effectively addressed workload concerns while creating a clear vision for success.",
+          "priority": "high",
+          "recommended_approach": "This interaction exemplifies best practice by: 1) Acknowledging work-life balance concerns, 2) Providing specific, actionable guidance, 3) Creating realistic study timelines, 4) Building confidence through examples, 5) Maintaining appropriate advisory boundaries, 6) Connecting to support services where needed."
+        },
+        {
+          "id": 2,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230393797",
+              "segment_id": "31",
+              "timestamp": "31:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101365482",
+                "segment_id": "197",
+                "timestamp": "6:56"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on career transitions, exemplified by: 'I want to change my career path. I have been working in media communications and marketing for about three years now and I'm wondering if I can use that to get in?' These queries demonstrated the critical need for clear pathway guidance while maintaining appropriate professional boundaries.",
+          "consultant_response": "Consultants consistently demonstrated strong boundary awareness while providing valuable guidance: 'So entry into the course is fairly easy. We do have a lot of mature age students so we have different ways of gaining entry into the course.' This balanced approach effectively provided pathway information while appropriately positioning detailed assessments as post-enrollment services.",
+          "priority": "high",
+          "recommended_approach": "To maintain this high standard: 1) Acknowledge professional experience value, 2) Provide clear entry pathways, 3) Explain basic recognition processes, 4) Connect career goals to program benefits, 5) Maintain appropriate boundaries, 6) Direct to relevant post-enrollment services."
+        },
+        {
+          "id": 3,
+          "title": "Strategic PR-Aligned Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594229889756",
+              "segment_id": "75",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594454285481",
+                "segment_id": "123",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Primary student expressed complex needs regarding future PR status: 'We'll only have our PR next year June...' while exploring project management pathways. Supporting student sought clarity on study load management: 'Probably two. Or three, yeah, so sorry, one unit is eight hours a week, did you say?' Both cases demonstrated need for strategic planning considering multiple constraints.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning across both interactions. For PR considerations: 'I would recommend starting with a diploma... universities would be able to award her recognition of prior learning.' For study load: 'It's ten, so minimum eight, maximum ten. I will select two... that's where everyone starts.' Responses effectively balanced immediate needs with future opportunities while providing clear, confidence-building guidance.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained and replicated: 1) Consider both immediate and future needs, 2) Provide clear, specific guidance on practical steps, 3) Build confidence through normalizing starting points, 4) Explain how choices align with future opportunities, 5) Maintain focus on strategic planning while addressing specific concerns."
+        },
+        {
+          "id": 4,
+          "title": "Limited Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229889756",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Primary student inquired about shorter duration based on previous experience: 'For RMIT, I only had one year left. Is that not possible?' Supporting student showed uncertainty about program levels: 'Oh, is that undergrad and postgrad?' Both cases presented opportunities for comprehensive pathway exploration.",
+          "consultant_response": "Consultants provided rigid, limited responses: 'No, so we can't do it for you' and 'We only do bachelors or postgrad studies.' These responses missed opportunities to explore viable alternatives and maintain student engagement through collaborative planning.",
+          "priority": "high",
+          "recommended_approach": "To improve these interactions: 1) Acknowledge previous experience/interests, 2) Explore educational goals and motivations, 3) Present available pathways that align with student needs, 4) Explain recognition of prior learning opportunities, 5) Discuss how available programs could meet career objectives, 6) Create clear action plans for exploring viable options."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594229623351",
+                "segment_id": "11",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students provided rich context about their professional and educational backgrounds. These disclosures presented valuable opportunities to create personalized planning approaches while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically acknowledged information at a surface level without meaningfully incorporating it into planning discussions. Responses focused on administrative details rather than leveraging student context to enhance planning conversations and demonstrate understanding of individual circumstances.",
+          "priority": "high",
+          "recommended_approach": "To enhance context integration while maintaining boundaries: 1) Actively acknowledge shared context, 2) Connect background to relevant program features, 3) Use context to personalize planning discussions, 4) Highlight how previous experiences might benefit their studies, 5) Direct detailed academic planning to post-enrollment support services."
+        },
+        {
+          "id": 6,
+          "title": "Incomplete Action Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "3",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student reported a communication gap: 'Last week on Monday Shelton, I think his name is, rang me and he was going to send me an email with what I needed to do next and I just haven't received anything.' This indicated need for clear next steps planning.",
+          "consultant_response": "The consultant provided minimal response: 'Okay beautiful I'll let him know as well.' This failed to address immediate next steps needs or ensure clear communication channels.",
+          "priority": "high",
+          "recommended_approach": "To improve: 1) Address immediate information needs, 2) Clarify current enrollment stage and requirements, 3) Create clear action plan with specific next steps, 4) Confirm preferred communication channels, 5) Set specific follow-up expectations, 6) Document and share agreed next steps to maintain momentum."
+        }
+      ]
+    }
+  }
+}

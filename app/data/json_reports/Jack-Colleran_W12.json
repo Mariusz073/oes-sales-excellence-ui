@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 243,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 57,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.456790123456788,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 186,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.5432098765432,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.73907235009461,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 186,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 177.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning Excellence",
+        "explanation": "Consultants effectively guide students through educational pathways while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Work-Study Integration",
+        "explanation": "Strong ability to collaboratively explore flexible study arrangements that accommodate student circumstances"
+      },
+      {
+        "headline": "Effective Support Navigation",
+        "explanation": "Clear and appropriate direction to relevant support services while maintaining proper role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Challenge Support",
+        "explanation": "Need for more comprehensive exploration of support options when students share personal circumstances"
+      },
+      {
+        "headline": "Strengthened Financial Planning",
+        "explanation": "Opportunity to provide more thorough financial guidance while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Comprehensive Online Learning Support",
+        "explanation": "Need for deeper discussion of online study transition support within appropriate scope"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217320210",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100995279",
+                "segment_id": "61",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire for expedited educational pathways, seeking clarity on program options and entry requirements.",
+          "consultant_response": "Consultants effectively explained: 'So you're going into the Bachelor of Educational Studies, which is literally known as the pathway course' while maintaining appropriate scope.",
+          "context_impact": "Clear pathway guidance crucial for building student confidence in program fit and completion ability.",
+          "recommended_approach": "None needed - excellent demonstration of pathway guidance within role boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594311921115",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388588743",
+                "segment_id": "94",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently expressed concerns about managing work commitments alongside study requirements.",
+          "consultant_response": "Consultants provided practical guidance: 'Like this course is 100% online except for placement... So there's 27 units that are fully online and then five that are placements.'",
+          "context_impact": "Addressing work-study balance crucial for enrollment confidence.",
+          "recommended_approach": "None needed - demonstrated excellent balance of guidance and boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464738810",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed need for immediate assistance with enrollment and program requirements.",
+          "consultant_response": "Consultants effectively directed students: 'It's actually the student advisors that will cover that...' while ensuring smooth handoffs to appropriate teams.",
+          "context_impact": "Clear direction to appropriate support channels while maintaining proper role boundaries enhanced student confidence.",
+          "recommended_approach": "None needed - excellent demonstration of appropriate support navigation."
+        },
+        {
+          "id": 4,
+          "title": "Personal Challenge Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389323341",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594312013891",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students shared significant personal challenges, including health conditions and previous study difficulties.",
+          "consultant_response": "Basic acknowledgment without comprehensive support discussion: 'Times are different through COVID... there is more support now.'",
+          "context_impact": "Limited exploration of support options may have affected student confidence in managing challenges.",
+          "recommended_approach": "Should provide clearer overview of support services while maintaining appropriate boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216681936",
+              "segment_id": "255",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on financial support options and HECS-HELP availability.",
+          "consultant_response": "Provided basic information: 'Unfortunately, we don't have Commonwealth supported places' without exploring options.",
+          "context_impact": "Incomplete financial guidance could impact enrollment confidence.",
+          "recommended_approach": "Should provide more comprehensive financial planning discussion while maintaining role boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Online Study Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464716221",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed significant concerns about online learning environment.",
+          "consultant_response": "Simply redirected without addressing concerns: 'If you don't want to do it online, I'll give you the campus's phone number.'",
+          "context_impact": "Unaddressed online learning concerns could deter enrollment.",
+          "recommended_approach": "Should explore online learning support resources and create collaborative solutions."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217320210",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594100995279",
+                "segment_id": "61",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Primary student expressed: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' Supporting cases revealed similar desires for expedited pathways and clear entry requirements. These interactions presented crucial opportunities for pathway guidance while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear pathway guidance while maintaining appropriate scope. Primary example showed consultant explaining: 'So you're going into the Bachelor of Educational Studies, which is literally known as the pathway course.' This approach effectively balanced student needs with appropriate pre-enrollment guidance, creating clear understanding of program structure and progression options without overstepping into detailed career planning.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging specific pathway interests, 2) Explaining program structure clearly, 3) Maintaining appropriate pre-enrollment boundaries, 4) Focusing on program features rather than detailed career planning, 5) Creating clear next steps for enrollment consideration, and 6) Ensuring consistent focus on enrollment-relevant information."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594311921115",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594388588743",
+                "segment_id": "94",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing work commitments alongside study requirements. Primary example showed student stating: 'I'm looking for something I can do a lot of at home and then like when my kids are in care and stuff, then I can do my placement.' Supporting cases revealed similar needs for flexible study arrangements.",
+          "consultant_response": "Consultants effectively addressed work-study balance through clear explanation of program flexibility: 'Like this course is 100% online except for the placement. So, essentially, there is 32 units in the course... So there's 27 units that are fully online and then five that are placements.' This approach demonstrated strong collaborative planning by relating program features directly to student circumstances while maintaining appropriate guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "Maintain this strong practice by: 1) Acknowledging specific flexibility needs, 2) Providing clear program structure information, 3) Highlighting online learning components, 4) Explaining placement requirements within flexibility context, 5) Referencing available support services while maintaining boundaries, and 6) Creating clear understanding of program flexibility alignment with personal circumstances."
+        },
+        {
+          "id": 3,
+          "title": "Effective Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464738810",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought immediate assistance with enrollment and program requirements. Primary case showed student requiring specific support: 'She's just having trouble enrolling into her units.' Supporting examples demonstrated similar needs for guidance while maintaining appropriate service boundaries.",
+          "consultant_response": "Consultants demonstrated excellent support navigation by maintaining clear role boundaries while ensuring appropriate assistance. Primary example showed consultant explaining: 'It's actually the student advisors that will cover that...' while ensuring smooth handoff to relevant support teams. This approach effectively balanced immediate assistance needs with appropriate service channeling.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging support needs promptly, 2) Explaining appropriate service channels clearly, 3) Maintaining professional boundaries while ensuring support needs are met, 4) Creating smooth handoffs to relevant teams, and 5) Following up to confirm student understanding of next steps."
+        },
+        {
+          "id": 4,
+          "title": "Personal Challenge Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389323341",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594312013891",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students disclosed personal challenges affecting their study plans. Primary example revealed: 'I have an autoimmune disease and I got sick and I just kind of backed out of like completing the degree.' Supporting cases showed similar needs for understanding and support while managing personal circumstances.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without comprehensive support discussion: 'Yeah no I completely understand that and times are different through COVID as well like you know the same support wasn't there there is now.' While showing empathy, these responses missed opportunities to fully explore available support options while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "To enhance these interactions while maintaining appropriate boundaries: 1) Validate personal challenges while highlighting institutional support capabilities, 2) Provide clear overview of relevant support services, 3) Explain flexible study options that accommodate personal circumstances, 4) Create clear frameworks for managing potential study interruptions, and 5) Maintain appropriate pre-enrollment focus while demonstrating comprehensive support understanding."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216681936",
+              "segment_id": "255",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student initiated critical financial planning discussion: 'I just want to think, regarding the fees, it's Commonwealth supported, right?' This question presented a crucial opportunity for comprehensive financial guidance while maintaining appropriate boundaries.",
+          "consultant_response": "Consultant provided minimal information without exploring options: 'Unfortunately, we don't have any Commonwealth supported places. We have fee help available.' This response missed the opportunity to engage in collaborative financial planning while maintaining appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "Enhance financial planning discussions by: 1) Acknowledging financial concerns explicitly, 2) Explaining FEE-HELP comprehensively, including eligibility and repayment structures, 3) Discussing available support options, 4) Exploring circumstances sensitively, 5) Providing relevant resources, 6) Maintaining appropriate pre-enrollment boundaries, and 7) Creating clear action plans for financial arrangement completion."
+        },
+        {
+          "id": 6,
+          "title": "Online Study Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464716221",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed significant concerns about online learning: 'I've had a tremendous lot of problems with that. But the difficulty is I think you only have it online, do you?' This indicated a critical need for support and reassurance regarding online study capabilities.",
+          "consultant_response": "Consultant's response was minimal and missed opportunity for collaborative problem-solving: 'Well, if you feel like you don't want to do it online, I'll give you the campus's phone number.' This failed to address specific concerns or explore available support options.",
+          "priority": "High",
+          "recommended_approach": "Enhance online learning support by: 1) Acknowledging specific concerns about online study, 2) Exploring previous difficulties to understand concerns, 3) Discussing available online support systems and resources, 4) Presenting flexible learning options, 5) Highlighting student success resources, 6) Creating collaborative solutions for potential challenges, and 7) Maintaining appropriate pre-enrollment boundaries while building confidence in online learning capabilities."
+        }
+      ]
+    }
+  }
+}

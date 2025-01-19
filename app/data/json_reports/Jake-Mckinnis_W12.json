@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 296,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 83,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.040540540540544,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 213,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.95945945945947,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.11157370771448,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 213,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.71,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Effectively guiding students through academic options while maintaining appropriate boundaries and supporting informed decision-making"
+      },
+      {
+        "headline": "Work-Study Balance Integration",
+        "explanation": "Successfully tailoring study recommendations based on individual work circumstances while emphasizing flexibility and support options"
+      },
+      {
+        "headline": "Career-Aligned Educational Planning",
+        "explanation": "Effectively connecting educational pathways with career goals while maintaining appropriate pre-enrollment guidance boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Integration",
+        "explanation": "Better incorporation of student background and circumstances needed in educational planning discussions"
+      },
+      {
+        "headline": "Strategic Discussion Development",
+        "explanation": "More consistent transition from administrative matters to meaningful strategic planning conversations required"
+      },
+      {
+        "headline": "Comprehensive Timeline Planning",
+        "explanation": "More detailed exploration of study duration options and progression pathways needed while maintaining appropriate boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464612910",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students facing program entry challenges requiring alternative pathway solutions",
+          "consultant_response": "Provided strategic solutions: 'We enroll you into the Graduate Certificate first, then organize articulation into the Masters' while maintaining appropriate boundaries",
+          "context_impact": "Clear pathway alternatives crucial for maintaining enrollment momentum while ensuring requirement compliance",
+          "recommended_approach": "Could enhance with written pathway confirmation and transition checkpoints"
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "134",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594230148364",
+                "segment_id": "134",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about balancing full-time work commitments with study requirements",
+          "consultant_response": "Consultants emphasized program flexibility: 'The content itself is designed to fit in with you, not the other way around'",
+          "context_impact": "Clear guidance on flexible study options increased student confidence in program manageability",
+          "recommended_approach": "Could enhance with more specific examples of successful work-study arrangements"
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101418623",
+              "segment_id": "45",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed previous sports science degree background",
+          "consultant_response": "Basic acknowledgment without exploring connections: 'Oh, okay, yeah. So, as I said, it'd be part of an assessment'",
+          "context_impact": "Missed opportunity to leverage academic history for pathway planning",
+          "recommended_approach": "Should explore alignment between previous study and current program options"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "29",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464612910",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students encountered program entry challenges requiring alternative solutions. Primary example showed CASPer test timing issues threatening Masters entry: 'So we cannot enter you into the Masters of Teaching program until we've received those results.' Supporting cases demonstrated similar pathway navigation needs, presenting crucial opportunities for strategic collaborative planning.",
+          "consultant_response": "Consultants demonstrated excellent strategic planning by providing clear alternatives while maintaining appropriate boundaries. Primary example: 'We enroll you into the Graduate Certificate first, for the first quarter. Then we organize articulation into the Masters for the next quarter.' This solution effectively maintained momentum while ensuring requirements were met. Supporting cases showed similar proactive problem-solving approaches that balanced immediate needs with long-term goals.",
+          "priority": "high",
+          "recommended_approach": "To optimize pathway navigation:\n1. Provide clear alternative options with specific timelines\n2. Maintain appropriate guidance boundaries while ensuring student confidence\n3. Set clear expectations for each stage of the journey\n4. Offer written confirmation of discussed pathways\n5. Schedule transition check-points for ongoing support\n6. Connect with relevant support services while maintaining pre-enrollment scope"
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "134",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594230148364",
+                "segment_id": "134",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing work-study balance. Primary example stated: 'I'm just trying to obviously work out my work-study balance,' while supporting example mentioned: 'I was hoping to start with about two, and then eventually do more as I go on through the course.' These moments represented critical opportunities for collaborative planning around flexible study options.",
+          "consultant_response": "Consultants demonstrated effective collaborative planning by addressing work-study balance concerns while maintaining appropriate pre-enrollment boundaries. Key response highlighted institutional experience: 'We at Swinburne, we've been educating students for 12 plus years online... most of our students work full-time, so we understand that. The content itself is designed to fit in with you, not the other way around.' This approach successfully balanced reassurance with practical guidance.",
+          "priority": "High",
+          "recommended_approach": "To enhance this positive practice, consultants should: 1) Acknowledge student self-awareness about workload management, 2) Outline specific study load options and adjustment possibilities, 3) Provide examples of successful work-study arrangements while maintaining boundaries, 4) Reference available post-enrollment support services without promising specific arrangements, and 5) Create clear understanding of program flexibility while focusing on enrollment decisions."
+        },
+        {
+          "id": 3,
+          "title": "Career-Aligned Educational Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216729067",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed clear career aspirations: 'I want to work as a freelancer.' This declaration presented an excellent opportunity for collaborative educational planning while maintaining appropriate career guidance boundaries.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by immediately connecting career goals with relevant educational pathways: 'We actually offer a Bachelor of Business with a major in accounting and finance... see if that aligns with what you're wanting to achieve?' This response successfully bridged career aspirations and educational opportunities while staying within appropriate pre-enrollment guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "This approach effectively maintained focus on educational planning while supporting career goals. Future interactions should continue to: 1) Connect program components to professional objectives, 2) Highlight relevant course outcomes, 3) Discuss pathway options while maintaining boundaries, 4) Create clear next steps, and 5) Focus on educational rather than career planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594101418623",
+              "segment_id": "45",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed their academic background: 'I've done a sports science degree.' This presented a valuable opportunity for collaborative planning by exploring how their prior education could inform their current educational journey while maintaining appropriate pre-enrollment focus.",
+          "consultant_response": "The consultant provided only basic acknowledgment: 'Oh, okay, yeah. So, as I said, it'd be part of an assessment.' This approach missed the opportunity to engage in meaningful collaborative planning by not exploring potential connections between previous studies and current program options.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge the value of prior education: 'Your sports science background provides a strong foundation', 2) Explore potential connections to current program options, 3) Explain credit assessment process while maintaining focus on program benefits, 4) Highlight relevant pathway possibilities, and 5) Create clear next steps for formal assessment while maintaining appropriate pre-enrollment boundaries."
+        }
+      ]
+    }
+  }
+}

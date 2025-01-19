@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 211,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 52,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 24.644549763033176,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 159,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 75.35545023696683,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.90425780928881,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 159,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 217.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 148.06,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 199.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.04,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 149.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.75,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.43,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.92,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 145.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Educational Pathway Navigation",
+        "explanation": "Consultants excel at guiding students through educational options while maintaining appropriate boundaries and connecting to aspirations"
+      },
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Skillful connection of student needs with available support mechanisms while maintaining clear role boundaries"
+      },
+      {
+        "headline": "Proactive Study Load Management",
+        "explanation": "Strong collaborative approach to validating and planning appropriate study loads with clear structure options"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Circumstance Assessment",
+        "explanation": "More thorough exploration needed of student situations and requirements before providing solutions"
+      },
+      {
+        "headline": "Comprehensive Timeline Communication",
+        "explanation": "Opportunity to provide more detailed process timelines and next steps while maintaining appropriate scope"
+      },
+      {
+        "headline": "Proactive Barrier Resolution",
+        "explanation": "Need for more immediate and solution-focused responses to enrollment barriers while maintaining role boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230305477",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594312006123",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about non-traditional entry requirements and pathway options, seeking guidance on alternative routes to enrollment.",
+          "consultant_response": "Consultants effectively outlined work experience requirements and alternative pathway options while initiating appropriate reassessment processes.",
+          "context_impact": "Addressing qualification barriers while maintaining appropriate boundaries was crucial for enabling enrollment pathway planning.",
+          "recommended_approach": "Could enhance by providing clearer post-enrollment support information."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100997656",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought specific guidance on course selection requiring specialized knowledge.",
+          "consultant_response": "Arranged immediate specialist connection while setting clear expectations about available support.",
+          "context_impact": "Maintaining role boundaries while ensuring access to specialized guidance enhanced student confidence.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 3,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389302084",
+              "segment_id": "118",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318677445",
+                "segment_id": "46",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed interest in part-time study options and concerns about balancing commitments.",
+          "consultant_response": "Validated choices while providing clear structure: 'That's a really good idea. A lot of students do that. Part-time studying means one or two units at a time.'",
+          "context_impact": "Creating collaborative dialogue about manageable study options was crucial for building enrollment confidence.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 4,
+          "title": "Limited Circumstance Assessment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217368705",
+              "segment_id": "18",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464911283",
+                "segment_id": "4",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed anxiety about returning to study with significant life commitments.",
+          "consultant_response": "Focused on technical aspects rather than exploring specific circumstances and concerns.",
+          "context_impact": "Failed to fully explore and address concerns about managing study alongside life responsibilities.",
+          "recommended_approach": "Should explore specific life circumstances and develop targeted strategies for managing study transition."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Process Timeline Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230073994",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101537473",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed confusion about document processes and timelines.",
+          "consultant_response": "Provided basic acknowledgments without clear guidance on next steps or timelines.",
+          "context_impact": "Lack of process clarity created enrollment barriers and reduced student confidence.",
+          "recommended_approach": "Should establish clear document submission process, verification timeline, and status update system."
+        },
+        {
+          "id": 6,
+          "title": "Limited Support for Technical Barriers",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312418457",
+              "segment_id": "18",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student reported technical difficulty with CASPer test enrollment stating 'there's no option for Masters of Teaching.'",
+          "consultant_response": "Consultant simply said 'I'll just pop you on hold for a moment' without attempting initial problem-solving.",
+          "context_impact": "Immediate placement on hold without exploring solutions risked student disengagement.",
+          "recommended_approach": "Should acknowledge issue, explore immediate solutions, and explain next steps before placing on hold."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230305477",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594312006123",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about non-traditional entry pathways. One student revealed: 'I dropped out of school in year nine so I don't have an ATAR and I don't have anything like that.' Another had extensive professional experience: 'I've gone up to the point of being a director of HR and kind of really done a lot of work in industrial relations.' These inquiries demonstrated proactive interest in understanding pathway options while revealing potential barriers to enrollment.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning across multiple interactions. In one case, explaining: 'What we would look for in terms of basing work experience as a pathway entry option is that you've worked at least four years, with two of those years being full-time work.' Another effectively connected professional experience: 'Well the exciting thing then would be pivoting to looking at your work experience as an opportunity to pathway you into the Bachelor of Laws.' These responses successfully balanced providing clear pathways while maintaining appropriate assessment boundaries.",
+          "priority": "High",
+          "recommended_approach": "To enhance these strong interactions, consultants should: 1) Acknowledge the student's proactive research, 2) Clearly outline available pathway options, 3) Explain assessment processes and timelines, 4) Connect program benefits to career aspirations, and 5) Set clear expectations about next steps."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594100997656",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 47, the student expressed their need for specialized guidance: 'Yes, because he will guide me what course, what degree?' This demonstrated a clear desire for program-specific guidance, presenting an opportunity for appropriate referral within role boundaries.",
+          "consultant_response": "The consultant maintained clear role boundaries while ensuring immediate support access: 'That's why I'll contact Jack and I can get him to give you a call back to speak to you if that's okay he'll be available today I'm going to, I'll call you back as soon as possible.' This response effectively demonstrated proper collaborative planning by connecting the student with appropriate expertise while managing expectations about the support process.",
+          "priority": "High",
+          "recommended_approach": "This strong approach should be maintained, with potential enhancements including: 1) Brief overview of what to expect from specialist conversation, 2) Clear timeline for specialist contact, 3) Confirmation of student availability, 4) Overview of specialist's role, and 5) Assurance of continued support throughout the process."
+        },
+        {
+          "id": 3,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594389302084",
+              "segment_id": "118",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594318677445",
+                "segment_id": "46",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed thoughtful consideration of study load management. One stated 'I think I might start with part-time just to kind of see how it works.' Another raised concerns about balancing full-time study with work commitments.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning in discussing study load options. One validated the approach while providing specifics: 'That's a really good idea. A lot of students do that. Part-time studying means one or two units at a time.' Another highlighted flexibility: 'You do have that option to adjust your study load as you progress through the course.' These responses effectively balanced validation with clear structure.",
+          "priority": "High",
+          "recommended_approach": "This strong approach should be maintained and enhanced by: 1) Validating student's proactive planning, 2) Providing specific unit load details, 3) Explaining flexibility options, 4) Discussing common successful approaches, and 5) Creating clear expectations about workload management."
+        },
+        {
+          "id": 4,
+          "title": "Limited Circumstance Assessment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594217368705",
+              "segment_id": "18",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594464911283",
+                "segment_id": "4",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed anxiety about life circumstances impacting study. One revealed: 'I'm sort of finding it a little bit daunting in that I've got all of this life.' Another indicated desire for more detailed discussion with 'More, I think,' presenting opportunities for deeper exploration of circumstances.",
+          "consultant_response": "Consultants typically provided surface-level responses without exploring specific circumstances or developing strategies. One focused purely on technical aspects while another provided a vague 'But you know we always can do lots,' missing opportunities to understand and address specific concerns.",
+          "priority": "High",
+          "recommended_approach": "An effective approach would: 1) Acknowledge concerns about life circumstances, 2) Ask specific questions about commitments and challenges, 3) Explore targeted strategies for managing transitions, 4) Connect circumstances to relevant program features, and 5) Create clear action plans addressing specific needs."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Process Timeline Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230073994",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594101537473",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed confusion about document processes and timelines. One noted: 'Yeah, I saw that. I don't know why, because yeah, it should definitely be updated.' Others questioned submission requirements and status updates throughout the process.",
+          "consultant_response": "Consultants typically provided basic acknowledgments without detailed guidance. Responses like 'I did order a new transcript as soon as I saw your email this afternoon, waiting for it to come through' failed to establish clear expectations about process steps, timelines, or status updates.",
+          "priority": "High",
+          "recommended_approach": "An enhanced approach should: 1) Confirm current document status clearly, 2) Provide step-by-step submission guidelines, 3) Establish clear verification timelines, 4) Set up regular status update checkpoints, and 5) Create a clear escalation process for delays."
+        },
+        {
+          "id": 6,
+          "title": "Limited Support for Technical Barriers",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594312418457",
+              "segment_id": "18",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 18, the student encountered a technical barrier during enrollment, stating 'But every time I want to go to enrol to do the CASPer test, there's no option for Masters of Teaching.' This represented a critical moment where immediate support and problem-solving could significantly impact enrollment progress.",
+          "consultant_response": "The consultant's immediate response to place the student on hold - 'Yeah, okay. What I'll do is I'll just pop you on hold for a moment' - missed an opportunity for collaborative problem-solving. This approach risked leaving the student feeling unsupported and could potentially delay enrollment progress.",
+          "priority": "High",
+          "recommended_approach": "A more effective collaborative approach would: 1) Acknowledge the technical issue and its impact, 2) Explore immediate solutions or workarounds, 3) Explain the escalation process and next steps, 4) Provide estimated resolution timeframes, and 5) Ensure the student feels supported throughout the process."
+        }
+      ]
+    }
+  }
+}

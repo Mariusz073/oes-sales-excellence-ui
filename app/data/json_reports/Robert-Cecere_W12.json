@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "consultant_name": "Robert Cecere",
+    "week_number": 12,
+    "date_range": "01-13_01-17",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 294,
+  "team_average_total_number_of_calls_per_sales_consultant": 258.0625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 68,
+    "team_average_absolute_number": 70.75
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.12925170068027,
+    "team_average_percentage": 27.736312779950367
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 226,
+    "team_average_absolute_number": 187.3125
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.87074829931973,
+    "team_average_percentage": 72.26368722004963
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.394862089779345,
+    "team_average": 53.32777817649582
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 226,
+    "team_total_excluded_transcripts": 2997
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 187.01,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.99,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 173.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.27,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 241.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 142.91,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 150.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 123.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathways",
+        "explanation": "Consultants effectively guide students through program options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Consultants successfully balance support resource guidance with role boundaries during planning discussions"
+      },
+      {
+        "headline": "Experience-Based Planning",
+        "explanation": "Consultants skillfully incorporate student experience into pathway planning while maintaining enrollment focus"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Study Planning",
+        "explanation": "Need for more comprehensive exploration of flexible study options within appropriate pre-enrollment scope"
+      },
+      {
+        "headline": "Structured Decision Support",
+        "explanation": "Opportunity to provide more systematic program comparisons while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "Room to improve proactive exploration of alternative options when primary pathways aren't immediately viable"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Work-Study Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216564278",
+              "segment_id": "31",
+              "timestamp": "5:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed significant concerns about balancing work and study commitments.",
+          "consultant_response": "Basic acknowledgment without exploring specific options: 'It's quite common for students to have some concerns around study load.'",
+          "context_impact": "Generic responses left students uncertain about managing commitments effectively.",
+          "recommended_approach": "Should outline available flexible study options while maintaining appropriate pre-enrollment boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Basic Program Comparison",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230451498",
+              "segment_id": "segment_28",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requesting detailed comparison of program options.",
+          "consultant_response": "Provided basic program information without meaningful comparative analysis.",
+          "context_impact": "Insufficient detail provided for informed decision-making.",
+          "recommended_approach": "Should provide more comprehensive program comparisons while maintaining appropriate scope"
+        },
+        {
+          "id": 6,
+          "title": "Limited Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318636349",
+              "segment_id": "unknown",
+              "timestamp": "11:21"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed concerns about meeting entry requirements.",
+          "consultant_response": "Typically deferred discussions rather than providing immediate guidance on alternatives.",
+          "context_impact": "Missed opportunities to explore alternatives created unnecessary uncertainty.",
+          "recommended_approach": "Should provide immediate overview of alternative pathways while maintaining appropriate boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Mature Student Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230451498",
+              "segment_id": "segment_5",
+              "timestamp": "5:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 5 (5:53), the student expressed interest in restarting their educational journey, stating 'I'm just trying to restart that journey now.' This presented a crucial opportunity for collaborative planning, requiring guidance on mature student pathways while validating life experience.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately recognizing and utilizing the student's work experience as a viable entry pathway. Their response, 'Based on work experience mainly, we can definitely use that as entry, as a mature student,' effectively validated the student's background while creating a clear pathway forward. This approach successfully combined recognition of past experience with practical next steps.",
+          "priority": "High",
+          "recommended_approach": "The interaction demonstrates best practice but could be enhanced by: 1) Exploring specific aspects of work experience relevant to the chosen program, 2) Creating a preliminary timeline for the application process, 3) Outlining available mature student support services, 4) Discussing how professional background could benefit studies, and 5) Setting clear expectations about next steps while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Effective Program Comparison",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594464552899",
+              "segment_id": "120",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed active comparison of educational options: 'I am applying to different universities and there's another one that looks like they're going to approve my application as well.' This statement demonstrated a critical need for clear program differentiation while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant provided a comprehensive yet focused institutional overview: 'We've been around for 13 years as an online institute... we have the most highly rated online education programs because of our student support.' This response effectively highlighted key differentiators while maintaining appropriate scope and creating clear value propositions for the student's decision-making process.",
+          "priority": "High",
+          "recommended_approach": "This approach exemplifies best practice by: 1) Acknowledging student's research efforts, 2) Providing clear program differentiation while maintaining boundaries, 3) Focusing on relevant institutional strengths, 4) Creating clear next steps for decision-making, and 5) Maintaining appropriate pre-enrollment scope throughout the discussion."
+        },
+        {
+          "id": 3,
+          "title": "Strong Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216564278",
+              "segment_id": "28",
+              "timestamp": "5:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594311853529",
+                "segment_id": "157",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing various commitments and accessing support. At 5:15 in the primary call, one student stated: 'Just have to sort out, you know, work and the time and family and stuff.' This revealed a crucial need for clear support system understanding while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by effectively outlining available support while maintaining clear role boundaries. The primary example showed this balance: 'The biggest and best advice I can give is to ensure that you kind of lean on the student support teams as much as possible.' Supporting examples consistently showed appropriate referrals and clear next steps for accessing support resources.",
+          "priority": "High",
+          "recommended_approach": "This approach exemplifies best practice by: 1) Acknowledging support needs while maintaining boundaries, 2) Providing clear overview of available resources, 3) Creating specific next steps for support access, 4) Distinguishing pre and post-enrollment support, and 5) Setting appropriate expectations about support availability."
+        },
+        {
+          "id": 4,
+          "title": "Limited Work-Study Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594216564278",
+              "segment_id": "31",
+              "timestamp": "5:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students consistently expressed concerns about managing study commitments. At 5:47 in the primary call, one stated: 'It's just, I don't know if I can make 20 hours a week of study time. That's the tricky part, fitting it into the schedule.' This revealed a crucial need for clear study load planning guidance.",
+          "consultant_response": "Consultants typically provided generic responses without exploring specific options: 'It's quite common for students to have some concerns around study load.' This approach failed to address practical concerns about managing commitments or provide clear guidance within appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "To improve these interactions: 1) Acknowledge work-study balance concerns specifically, 2) Provide overview of flexible study options, 3) Explain basic unit load choices, 4) Maintain appropriate pre-enrollment boundaries, and 5) Create clear next steps for detailed planning post-enrollment."
+        },
+        {
+          "id": 5,
+          "title": "Basic Program Comparison",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594230451498",
+              "segment_id": "segment_28",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student requested comparison information between program options, presenting an opportunity for detailed collaborative planning while maintaining appropriate scope.",
+          "consultant_response": "The consultant provided only basic program information without engaging in meaningful comparative analysis, limiting the student's ability to make an informed decision.",
+          "priority": "Medium",
+          "recommended_approach": "A more effective approach would: 1) Provide structured program comparisons, 2) Highlight key differentiating features, 3) Connect options to student goals, 4) Create decision-making framework, and 5) Maintain appropriate pre-enrollment scope while delivering comprehensive information."
+        },
+        {
+          "id": 6,
+          "title": "Limited Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594318636349",
+              "segment_id": "unknown",
+              "timestamp": "11:21"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed concerns about meeting entry requirements, with one directly asking: 'Okay, just out of interest sake, if I, let's say, let's say I don't meet the criteria, what happens then?' This presented crucial opportunities to explore alternative pathways while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically deferred discussions rather than providing immediate guidance: 'Based on the resume, once Nicholas sees that, he'll advise you what he recommends based on other study options.' This approach created unnecessary uncertainty in the enrollment process.",
+          "priority": "High",
+          "recommended_approach": "To improve these interactions: 1) Acknowledge concerns immediately, 2) Provide overview of available alternative pathways, 3) Explain basic entry requirements for different options, 4) Maintain appropriate boundaries, and 5) Create clear next steps for pathway exploration."
+        }
+      ]
+    }
+  }
+}
