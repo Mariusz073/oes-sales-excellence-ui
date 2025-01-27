@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 280,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 56,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 20.0,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 224,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.0,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.80134465134214,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 224,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 134.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.26,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.05,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 120.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 80.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 157.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.28,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 155.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.72,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 95.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.77,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Study Mode Flexibility",
+        "explanation": "Consultants successfully demonstrate program adaptability by clearly explaining flexible study options that accommodate various life circumstances"
+      },
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Consultants effectively guide students through available support mechanisms while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Path Validation",
+        "explanation": "Consultants skillfully validate student eligibility while mapping experiences to requirements and maintaining clear role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Goal Exploration",
+        "explanation": "Greater emphasis needed on exploring students' specific goals and aspirations before providing course information"
+      },
+      {
+        "headline": "Work-Study Balance Planning",
+        "explanation": "Need for deeper exploration of work commitments and providing tailored study management solutions"
+      },
+      {
+        "headline": "Career Integration Strategy",
+        "explanation": "More thorough connection needed between program benefits and specific career advancement goals"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Flexibility Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626622944",
+              "segment_id": "18",
+              "timestamp": "2:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902295555",
+                "segment_id": "22",
+                "timestamp": "3:22"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing need for flexibility due to work and life commitments, particularly around family planning and business ownership.",
+          "consultant_response": "Clear explanation of online study flexibility: 'It is all online...you can work and study at the same time whilst being a manageable study load.'",
+          "context_impact": "Critical demonstration of program adaptability to accommodate significant life transitions and maintain student confidence.",
+          "recommended_approach": "Could enhance by exploring specific support mechanisms available during life transitions."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626731550",
+              "segment_id": "12",
+              "timestamp": "00:55"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627044044",
+                "segment_id": "24",
+                "timestamp": "1:40"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on available support services, including those with specific needs such as autism support.",
+          "consultant_response": "Comprehensive outline of support layers: 'We have responsive academic staff support within 24 hours, student coaching services, and provisions for assignment extensions.'",
+          "context_impact": "Essential for building enrollment confidence through clear support system understanding.",
+          "recommended_approach": "None needed - maintained excellent balance of support information and role boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Path Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730865269",
+              "segment_id": "154",
+              "timestamp": "11:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressing uncertainty about qualifications and eligibility for programs.",
+          "consultant_response": "Clear explanation of eligibility criteria and alternative pathways while maintaining appropriate boundaries.",
+          "context_impact": "Critical for building confidence in program access and maintaining engagement.",
+          "recommended_approach": "Could enhance by more proactively exploring next steps after confirming eligibility."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626764792",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed initial interest: 'The title caught my eye. I'd like to know what it's about.'",
+          "consultant_response": "Provided general course information without exploring specific interests or aspirations.",
+          "context_impact": "Missed opportunity to create meaningful connection between course and student goals.",
+          "recommended_approach": "Should begin with goal exploration before providing course details."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627044044",
+              "segment_id": "53",
+              "timestamp": "2:13"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressing concerns about balancing work commitments with study requirements.",
+          "consultant_response": "Basic acknowledgment without exploring specific work circumstances or providing tailored solutions.",
+          "context_impact": "Critical opportunity to demonstrate program flexibility and support options.",
+          "recommended_approach": "Need deeper exploration of work schedules and specific flexible study arrangements."
+        },
+        {
+          "id": 6,
+          "title": "Career Integration Strategy",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731041316",
+              "segment_id": "23",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students revealing current roles and career backgrounds without receiving targeted program alignment.",
+          "consultant_response": "Focus on qualification verification without exploring career advancement possibilities.",
+          "context_impact": "Missed opportunity to demonstrate program relevance to career progression.",
+          "recommended_approach": "Should discuss specific ways program enhances current role and supports career goals."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Flexibility Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626622944",
+              "segment_id": "18",
+              "timestamp": "2:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902295555",
+                "segment_id": "22",
+                "timestamp": "3:22"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant needs for program flexibility, with one stating: 'I currently work in hospitality, like I own a business, but my husband and I are looking to have a baby.' This was supported by other students expressing similar needs for flexible study options due to various work and life commitments. These moments represented critical opportunities for demonstrating program adaptability.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning by providing comprehensive explanations of flexible study options. One consultant effectively responded: 'It is all online...you can work and study at the same time whilst being a manageable study load...We don't have mandatory classes.' This approach successfully addressed immediate concerns while maintaining appropriate boundaries on specific study planning advice.",
+          "priority": "high",
+          "recommended_approach": "While maintaining strong flexible study communication, consultants should enhance their approach by: 1) Acknowledging specific life transition challenges, 2) Providing concrete examples of flexible study arrangements, 3) Highlighting relevant support services available post-enrollment, and 4) Creating clear action steps for managing transitions while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626731550",
+              "segment_id": "12",
+              "timestamp": "00:55"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627044044",
+                "segment_id": "24",
+                "timestamp": "1:40"
+              }
+            ]
+          },
+          "student_trigger": "The student disclosed having autism and sought information about available support services, creating a critical moment requiring careful balance between providing comprehensive support information while maintaining appropriate sales role boundaries. This was supported by other students seeking clarity on various support mechanisms.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning by outlining multiple support layers: 'We have responsive academic staff support within 24 hours, student coaching services, and provisions for assignment extensions.' This approach effectively balanced immediate support information needs with appropriate role boundaries, providing clear insight into institutional support structures while positioning detailed support planning as a post-enrollment service.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach effectively demonstrated key collaborative planning elements and should be maintained: 1) Acknowledge specific support needs with appropriate empathy, 2) Provide clear overview of available support systems, 3) Maintain appropriate pre-enrollment boundaries, and 4) Position detailed support planning as part of post-enrollment services. Additionally, briefly mention the seamless transition to dedicated support services after enrollment."
+        },
+        {
+          "id": 3,
+          "title": "Effective Path Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730865269",
+              "segment_id": "154",
+              "timestamp": "11:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 154, the student expressed uncertainty about their standing: 'I'm not really sure where I stand because I'm just looking to just better myself at work at the moment...' This represented a critical opportunity for collaborative planning around program access and qualification pathways.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by effectively linking work experience to eligibility requirements: 'So with this course as a postgraduate degree you need to have a bachelor's degree. If you don't have a bachelor's degree you need five years of project management experience...' This approach successfully validated eligibility while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice, consultants should: 1) Validate eligibility requirements, 2) Explore relevant experience in detail, 3) Outline documentation requirements clearly, 4) Map out application timeline collaboratively, and 5) Connect eligibility confirmation to enrollment action steps."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626764792",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed initial interest, stating: 'The title caught my eye. I'd like to know what it's about.' This presented a prime opportunity for collaborative exploration of how the course could align with their personal and professional goals, requiring careful balance of information provision and goal exploration.",
+          "consultant_response": "The consultant moved directly to providing general course information without exploring the student's specific interests or career aspirations. This missed the opportunity to create meaningful connections between the program's benefits and the student's individual goals, reducing the effectiveness of subsequent information sharing.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would begin with: 'I see you're intrigued by the title. Before I share more about the course, could you tell me what specifically caught your attention?' Then: 1) Explore their current situation and aspirations, 2) Connect specific course features to identified goals, 3) Provide targeted information based on their interests, and 4) Create a collaborative plan for further exploration."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627044044",
+              "segment_id": "53",
+              "timestamp": "2:13"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 53, the student expressed: 'Yeah, and then sort of how that works, like balancing with work and doing that as well.' This represented a crucial opportunity for collaborative exploration of flexible study arrangements and support systems while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant provided basic acknowledgment but missed the opportunity to explore specific work commitments or demonstrate how the program could accommodate working professionals effectively. This limited response failed to build confidence in the program's flexibility or create a clear picture of study management options.",
+          "priority": "high",
+          "recommended_approach": "Consultants should enhance their approach by: 1) Acknowledging work-study balance challenges directly, 2) Exploring specific work schedules through targeted questions, 3) Providing concrete examples of flexible study arrangements while maintaining pre-enrollment boundaries, 4) Highlighting relevant support services available post-enrollment, and 5) Creating a collaborative dialogue about managing study load alongside work responsibilities."
+        },
+        {
+          "id": 6,
+          "title": "Career Integration Strategy",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731041316",
+              "segment_id": "23",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students revealed their professional backgrounds and current roles without receiving targeted program alignment. One stated: 'I work as a data analyst. [...] I studied IT in bachelor's.' These disclosures presented prime opportunities to demonstrate how the program could enhance their existing career trajectories.",
+          "consultant_response": "Consultants typically focused on qualification verification without exploring career advancement potential or demonstrating program relevance to professional growth. This approach missed opportunities to create meaningful connections between program benefits and career development goals while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining role boundaries, consultants should: 1) Acknowledge valuable professional experience, 2) Explore specific career advancement goals, 3) Connect program components to professional skill enhancement, 4) Outline courses that align with career progression, and 5) Create clear picture of how the program supports professional development."
+        }
+      ]
+    }
+  }
+}

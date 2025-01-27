@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "consultant_name": "Mrudang Pancholi",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 269,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 67,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 24.907063197026023,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 202,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 75.09293680297398,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.080441705862164,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 202,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 133.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.87,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 51.41,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.15,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 170.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.3,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 127.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.49,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 133.28,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.18,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 144.64,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.41,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Effectively mapping educational pathways to specific career objectives while maintaining appropriate consulting boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Successfully adapting program options and support to accommodate diverse student circumstances and commitments"
+      },
+      {
+        "headline": "Experience-Based Planning",
+        "explanation": "Leveraging student's professional background to create personalized educational pathways and progression plans"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Transition Support",
+        "explanation": "Need for more thorough exploration of how educational pathways support specific career transition goals"
+      },
+      {
+        "headline": "Work-Study Balance Solutions",
+        "explanation": "Opportunity to provide more concrete strategies for managing professional and academic commitments"
+      },
+      {
+        "headline": "Industry-Specific Value Alignment",
+        "explanation": "Room for improvement in connecting program components to specific industry needs and roles"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780689916",
+              "segment_id": "56",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666392083",
+                "segment_id": "18",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clear educational pathways to support career transitions and advancement goals.",
+          "consultant_response": "Provided structured guidance with clear requirements and progression paths while maintaining appropriate boundaries.",
+          "context_impact": "Clear progression pathways increased student confidence in program alignment with career goals.",
+          "recommended_approach": "Could enhance with more specific industry insights while maintaining boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Options Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821088519",
+              "segment_id": "31",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902109849",
+                "segment_id": "29",
+                "timestamp": "3:45"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about managing study commitments with existing work and life responsibilities.",
+          "consultant_response": "Explained flexible study options and break possibilities, demonstrating how to accommodate various commitments.",
+          "context_impact": "Clear flexibility options increased student confidence in managing program requirements.",
+          "recommended_approach": "None needed - excellent demonstration of flexibility options"
+        },
+        {
+          "id": 3,
+          "title": "Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627283065",
+              "segment_id": "12",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared extensive e-commerce and digital industry experience requiring strategic growth.",
+          "consultant_response": "Acknowledged experience and explored relevant study pathways aligned with industry background.",
+          "context_impact": "Professional background provided foundation for targeted program value discussion.",
+          "recommended_approach": "Could strengthen by connecting digital expertise to specific program components"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676127910",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666392083",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing specific career transition goals without receiving sufficient guidance.",
+          "consultant_response": "Moved to qualification questions without adequately addressing career transition concerns.",
+          "context_impact": "Insufficient exploration of transition potential reduced enrollment confidence.",
+          "recommended_approach": "Should explore transition potential while maintaining appropriate consulting boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821096236",
+              "segment_id": "68",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902109849",
+                "segment_id": "29",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking practical strategies for balancing work and study commitments.",
+          "consultant_response": "Provided generic responses about program compatibility without exploring specific scheduling solutions.",
+          "context_impact": "Basic flexibility information without detailed planning reduced confidence in program manageability.",
+          "recommended_approach": "Should provide concrete examples and strategies for managing multiple commitments"
+        },
+        {
+          "id": 6,
+          "title": "Industry-Specific Benefits",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627283065",
+              "segment_id": "91",
+              "timestamp": "4:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666392083",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing specific industry contexts requiring targeted program benefits.",
+          "consultant_response": "Discussed general program features without adequately connecting to industry-specific needs.",
+          "context_impact": "Generic program benefits without industry-specific connections reduced perceived value.",
+          "recommended_approach": "Need to demonstrate specific program value for different industries while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780689916",
+              "segment_id": "56",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666392083",
+                "segment_id": "18",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific career advancement needs. Primary example at segment 18: 'I just feel like I hit a glass ceiling with my career.' Another seeking validation: 'We can get you started with the graduate certificate program... upon completion with those four units, with 60 average, you will have a guaranteed entry into the masters.' These moments represented critical opportunities for collaborative planning while maintaining appropriate guidance boundaries.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing structured guidance while maintaining appropriate boundaries. Key example showed effective career exploration: 'Are you managing staff, project or budget or what sort of role are you in at the moment?' This approach balanced immediate pathway guidance with consideration of long-term career objectives, staying within enrollment guidance scope while creating clear connections between program features and career goals.",
+          "priority": "high",
+          "recommended_approach": "To enhance these strong interactions:\n1. Acknowledge career goals while maintaining focus on educational planning\n2. Provide clear progression requirements and pathways\n3. Highlight specific program features aligned with career objectives\n4. Reference relevant post-enrollment career support\n5. Share examples of successful progression paths\n6. Create clear connections between coursework and professional development"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Options Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821088519",
+              "segment_id": "31",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902109849",
+                "segment_id": "29",
+                "timestamp": "3:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study alongside existing commitments. Key example: 'I'm going away for March. I'm going on an overseas holiday from the mid-March all the way through to the end of March. So does that implicate any teaching periods?' Another stated: 'I need to understand the requirements because I work full-time and want to study while working.' These represented crucial opportunities for collaborative planning around flexible study arrangements.",
+          "consultant_response": "Consultants effectively explained flexible study options and break possibilities, providing clear examples of how students could manage their study load. Key response: 'If you want, you still have that option and the worst case scenario, you could simply defer that teaching period a bit by the 14th and you still won't be liable for any academic penalties.' This approach successfully demonstrated program flexibility while maintaining academic integrity.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective practice by:\n1. Acknowledging specific scheduling concerns\n2. Exploring individual circumstances thoroughly\n3. Explaining flexible study options clearly\n4. Providing realistic time commitment estimates\n5. Highlighting available support resources\n6. Creating confidence in program manageability"
+        },
+        {
+          "id": 3,
+          "title": "Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627283065",
+              "segment_id": "12",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In segment 12, the student revealed significant industry experience: 'I've been in the e-commerce and digital space for about eight to nine years.' This background information provided an excellent opportunity to demonstrate how the program could build upon established professional expertise.",
+          "consultant_response": "The consultant acknowledged the experience and explored study pathways, showing awareness of the value of professional background in educational planning. While this created a foundation for discussion, the opportunity to deeply connect industry experience with program benefits was not fully utilized.",
+          "priority": "high",
+          "recommended_approach": "Enhance the approach by specifically connecting their digital expertise to program benefits:\n1. Acknowledge the value of their industry experience\n2. Map specific program components to digital sector needs\n3. Highlight relevant case studies and projects\n4. Discuss how their experience could enrich peer learning\n5. Explore industry-specific leadership development opportunities\n6. Create clear connections between experience and program outcomes"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676127910",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666392083",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific career transition goals. One example: 'I'm a private care or a personal carer and then in order to work in the office or do client care management, that came up as something that could escalate my skill sets.' Another in financial services seeking advancement. These moments required careful balance of career guidance and enrollment focus.",
+          "consultant_response": "Consultants typically moved directly to qualification questions without addressing career transition concerns or exploring how program elements could support career goals. This missed opportunity to demonstrate program value while maintaining appropriate consulting boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should:\n1. Acknowledge specific career transition goals\n2. Explain how program elements support career development\n3. Reference industry-relevant program features\n4. Suggest resources for detailed career planning\n5. Position career support as post-enrollment benefit\n6. Create confidence in program relevance to career progression"
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821096236",
+              "segment_id": "68",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902109849",
+                "segment_id": "29",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought practical strategies for managing work and study commitments. Key example: 'If I like to defer the entry into the graduate diploma due to work commitments, am I able to do that too.' These represented crucial opportunities for collaborative planning around flexible study options.",
+          "consultant_response": "Consultants typically provided generic responses about program compatibility without exploring specific scheduling challenges or developing tailored solutions. Example: 'Yeah, you will be as long as you do it before the census date, you won't be liable for any academic penalties.' This missed opportunity to demonstrate program flexibility and support options.",
+          "priority": "high",
+          "recommended_approach": "A stronger collaborative planning approach would:\n1. Acknowledge work commitments empathetically\n2. Explore specific scheduling challenges\n3. Share successful work-study strategies\n4. Discuss flexible study options in detail\n5. Outline available support services\n6. Create confidence in ability to manage multiple responsibilities"
+        },
+        {
+          "id": 6,
+          "title": "Industry-Specific Benefits",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627283065",
+              "segment_id": "91",
+              "timestamp": "4:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666392083",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared specific industry contexts requiring targeted program benefits. Examples included digital sector experience and financial advisory roles, presenting opportunities to demonstrate industry-specific program value.",
+          "consultant_response": "Discussions focused on generic program benefits without adequately connecting features to industry-specific needs or demonstrating clear value for different professional contexts.",
+          "priority": "high",
+          "recommended_approach": "Create industry-specific value propositions:\n1. Acknowledge specific industry context\n2. Connect program components to sector needs\n3. Highlight relevant case studies and projects\n4. Discuss industry-specific leadership development\n5. Share examples of successful alumni in similar roles\n6. Demonstrate clear ROI for different sectors"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 206,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 56,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.184466019417474,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 150,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.81553398058253,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.25063302891797,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 150,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 217.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 148.06,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 199.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.04,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 149.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.75,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.43,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.92,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 145.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 176.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.65,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Personalized Study Path Adaptation",
+        "explanation": "Consultants excel at tailoring study arrangements to accommodate individual circumstances while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Strong ability to present and explain viable educational pathways while maintaining student confidence and engagement"
+      },
+      {
+        "headline": "Work-Study Integration Planning",
+        "explanation": "Effectively demonstrate how program flexibility can accommodate work commitments while setting realistic expectations"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for more thorough gathering of student context and circumstances before providing pathway recommendations"
+      },
+      {
+        "headline": "Support System Integration",
+        "explanation": "More strategic integration of available support mechanisms needed throughout planning discussions"
+      },
+      {
+        "headline": "Career Alignment Enhancement",
+        "explanation": "Deeper exploration needed of how educational pathways align with immediate and future career goals"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Pregnancy Accommodation Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626820638",
+              "segment_id": "29",
+              "timestamp": "19:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about managing studies while pregnant, with due date in March",
+          "consultant_response": "Provided comprehensive options including part-time study and reduced unit load: 'you could look at doing something like even just one unit in that first teaching period'",
+          "context_impact": "Clear flexible options significantly increased student confidence in program manageability",
+          "recommended_approach": "None needed - exemplary demonstration of flexible program accommodation"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730930094",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907712334",
+                "segment_id": "336",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clear understanding of Bachelor of Education pathway options and requirements",
+          "consultant_response": "Outlined specific pathway through Bachelor of Educational Studies to Bachelor of Education, maintaining appropriate scope while addressing key concerns",
+          "context_impact": "Clear pathway explanation provided confidence in viable routes to educational goals",
+          "recommended_approach": "None needed - strong demonstration of pathway guidance"
+        },
+        {
+          "id": 3,
+          "title": "Effective Work-Study Balance Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676045727",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about balancing full-time work with study commitments",
+          "consultant_response": "Provided realistic guidance about minimum unit requirements and recommended study loads while working full-time",
+          "context_impact": "Clear explanation of study load options helped student understand course manageability",
+          "recommended_approach": "None needed - exemplary work-study balance planning"
+        },
+        {
+          "id": 4,
+          "title": "Limited Initial Context Gathering",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907632109",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730702236",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance without clear context exploration",
+          "consultant_response": "Provided standard information without thoroughly exploring student circumstances",
+          "context_impact": "Insufficient understanding of student background led to generic recommendations",
+          "recommended_approach": "Should gather comprehensive context before providing pathway guidance"
+        },
+        {
+          "id": 5,
+          "title": "Limited Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676045727",
+              "segment_id": "53",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902200293",
+                "segment_id": "75",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about support resources",
+          "consultant_response": "Basic acknowledgment without comprehensive support explanation",
+          "context_impact": "Basic explanation left gaps in understanding of available support",
+          "recommended_approach": "Should provide clear overview of support systems while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Limited Career Interest Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626783944",
+              "segment_id": "83",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared specific career interests in business and family law",
+          "consultant_response": "Provided general information without exploring career interests in depth",
+          "context_impact": "Missed opportunity to align program benefits with career goals",
+          "recommended_approach": "Should validate career interests and discuss how specific pathways support these goals"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Pregnancy Accommodation Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626820638",
+              "segment_id": "29",
+              "timestamp": "19:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 19:00 into the call, the student expressed: 'So I'm due late March which should be fine but I just wanted to yeah just see how it all works and whatnot.' This moment demanded collaborative planning to address specific timing and flexibility needs given the upcoming life change.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by first acknowledging the circumstance: 'you certainly can be pregnant, that's totally fine' then providing comprehensive flexible options: 'we do have quite a flexible approach with our delivery....you can study part-time or full-time with us....it's up to you, but you could look at doing something like even just one unit in that first teaching period....' This response effectively demonstrated how the program could accommodate the student's unique situation while maintaining academic progress.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach was exemplary, showing how to: 1) Acknowledge the specific circumstance sensitively, 2) Present flexible options aligned with individual needs, 3) Suggest concrete solutions like reduced unit load, and 4) Empower the student to choose their preferred approach while maintaining academic progress."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730930094",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907712334",
+                "segment_id": "336",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students working in education support roles expressed interest in understanding pathways to Bachelor of Education qualifications. They sought clarity on transitioning from current positions to formal teaching roles while maintaining appropriate work-study balance.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by providing comprehensive pathway explanations while maintaining appropriate role boundaries. They effectively outlined progression through Bachelor of Educational Studies to Bachelor of Education, addressing time and cost implications while keeping focus on enrollment-relevant information.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate role boundaries, consultants should: 1) Initially explore student's specific career aspirations and current role, 2) Present relevant pathway options with clear transition points, 3) Highlight available support services for post-enrollment, 4) Focus on high-level guidance while directing detailed career planning to appropriate support services, and 5) Set clear expectations about timeline and requirements."
+        },
+        {
+          "id": 3,
+          "title": "Effective Work-Study Balance Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676045727",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student working full-time expressed concern about managing finance studies alongside work commitments, seeking realistic guidance about study load and time management.",
+          "consultant_response": "The consultant provided clear, practical guidance about minimum unit requirements and recommended study loads while working full-time, stating 'Well the minimum requirement is to take one unit at a time, so if you're doing one unit, that's about 8 to 10 hours of study per week.' This helped set realistic expectations while maintaining student confidence in their ability to succeed.",
+          "priority": "high",
+          "recommended_approach": "To further strengthen this approach, consultants should: 1) Explore specific aspects of student's work schedule, 2) Discuss how different study loads align with particular circumstances, 3) Highlight support services available for working students, and 4) Provide examples of successful work-study arrangements while maintaining appropriate role boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Limited Initial Context Gathering",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907632109",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730702236",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on educational pathways without thorough exploration of their background, current situation, and specific goals, leading to generic rather than personalized recommendations.",
+          "consultant_response": "Consultants often provided standard information about pathways without first gathering comprehensive context about student circumstances, goals, and constraints. This resulted in generic recommendations that may not have fully aligned with student needs.",
+          "priority": "high",
+          "recommended_approach": "To enhance initial discussions, consultants should: 1) Gather key context about current situation before making recommendations, 2) Understand specific goals and constraints, 3) Explore relevant experience and background, 4) Use gathered context to personalize pathway suggestions, and 5) Maintain appropriate scope while ensuring recommendations are relevant."
+        },
+        {
+          "id": 5,
+          "title": "Limited Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676045727",
+              "segment_id": "53",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902200293",
+                "segment_id": "75",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about available support systems, with one stating: 'I asked them a couple of questions and they weren't quite sure that's why.' This indicated crucial need for clear guidance on available support resources.",
+          "consultant_response": "Consultants provided basic acknowledgments without comprehensive explanation: 'No that's okay I supported you with your enrollment so I'm a course consultant.' This approach failed to address concerns about ongoing support availability and access, potentially affecting student confidence in program success.",
+          "priority": "high",
+          "recommended_approach": "To improve support system integration, consultants should: 1) Provide clear overview of all available support systems, 2) Explain specific resources for different needs (academic, technical, administrative), 3) Guide students through access processes, 4) Create support resource map for reference, and 5) Ensure understanding of when and how to engage different services throughout their journey."
+        },
+        {
+          "id": 6,
+          "title": "Limited Career Interest Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626783944",
+              "segment_id": "83",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared specific career interests: 'I'm really interested in business law and also divorce law... businesses in contracts, selling businesses.' This represented a crucial opportunity to align program benefits with career aspirations.",
+          "consultant_response": "The consultant provided general program information without exploring career interests in depth or demonstrating how the program could support diverse legal interests. This missed opportunity to strengthen enrollment likelihood through career alignment.",
+          "priority": "high",
+          "recommended_approach": "A stronger approach would: 1) Validate expressed career interests, 2) Explore how specific units support both business and family law interests, 3) Discuss program flexibility for specialization, 4) Share examples of similar career paths, and 5) Connect current business experience to future legal practice."
+        }
+      ]
+    }
+  }
+}

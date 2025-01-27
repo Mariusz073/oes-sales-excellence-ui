@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "consultant_name": "Olive Jerome",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 66,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 15,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.727272727272727,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 51,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.27272727272727,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 46.47194300980441,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 51,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 124.86,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.31,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 172.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.44,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 179.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 62.62,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 60.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 52.85,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 82.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.8,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 108.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 62.49,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Adaptive Support Strategy",
+        "explanation": "Consultants effectively tailor their collaborative approach based on individual student circumstances while maintaining clear role boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Consultants successfully demonstrate program flexibility through collaborative exploration of schedule options and support mechanisms"
+      },
+      {
+        "headline": "Program Stability Assurance",
+        "explanation": "Consultants provide comprehensive program stability guidance through clear explanation of accreditation and requirements"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Financial Support Navigation",
+        "explanation": "More thorough exploration needed of financial support options and collaborative funding solutions"
+      },
+      {
+        "headline": "Immediate Barrier Resolution",
+        "explanation": "Better strategies needed for addressing immediate obstacles through specific alternative solutions"
+      },
+      {
+        "headline": "Experience Integration Planning",
+        "explanation": "More effective validation needed of student experience while maintaining focus on educational pathways"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Adaptive Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820938326",
+              "segment_id": "8",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627366395",
+                "segment_id": "134",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students presented varied needs from technical setup assistance to program stability concerns.",
+          "consultant_response": "Consultants provided targeted support: 'If you have the time now, I'd be happy to connect you with our student advisor team for setup guidance.'",
+          "context_impact": "Required immediate demonstration of support flexibility while maintaining clear boundaries.",
+          "recommended_approach": "None needed - excellent adaptation of support approach"
+        },
+        {
+          "id": 2,
+          "title": "Strong Schedule Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820926474",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820898042",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students indicated various scheduling constraints affecting enrollment engagement.",
+          "consultant_response": "Consultants offered multiple flexible solutions and extended support hours while emphasizing program adaptability.",
+          "context_impact": "Needed to demonstrate program flexibility while maintaining momentum.",
+          "recommended_approach": "None needed - demonstrated excellent flexibility"
+        },
+        {
+          "id": 3,
+          "title": "Effective Program Stability Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627366395",
+              "segment_id": "134",
+              "timestamp": "16:44"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about program stability: 'I'm worried that requirements might change.'",
+          "consultant_response": "Consultant provided comprehensive explanation of accreditation processes and recent updates.",
+          "context_impact": "Critical need to address program validity concerns affecting enrollment confidence.",
+          "recommended_approach": "None needed - excellent stability assurance"
+        },
+        {
+          "id": 4,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820882191",
+              "segment_id": "14",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820926474",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed financial concerns affecting enrollment decisions.",
+          "consultant_response": "Consultants provided minimal engagement with financial concerns.",
+          "context_impact": "Financial constraints emerged as critical enrollment barrier.",
+          "recommended_approach": "Should proactively explore financial support options and solutions"
+        },
+        {
+          "id": 5,
+          "title": "Limited Barrier Resolution",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820938326",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594821114676",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students faced immediate barriers from connectivity issues to timing constraints.",
+          "consultant_response": "Consultants often defaulted to deferral rather than exploring immediate solutions.",
+          "context_impact": "Immediate obstacles threatened enrollment progress.",
+          "recommended_approach": "Should provide specific alternative solutions for immediate barriers"
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901891268",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627366395",
+                "segment_id": "71",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students mentioned significant industry experience without formal education.",
+          "consultant_response": "Consultants provided basic responses without exploring educational alignment.",
+          "context_impact": "Opportunity to validate experience while maintaining educational focus.",
+          "recommended_approach": "Should validate experience while focusing on educational pathway planning"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Adaptive Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820938326",
+              "segment_id": "8",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627366395",
+                "segment_id": "134",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students presented varied support needs, from technical setup assistance to program stability concerns. Primary example: Student seeking account setup guidance: 'Just wanted to confirm today that you've received the instructions for setting up your Monash Online account.' Supporting example: Student expressing program stability concerns: 'I'm worried that requirements might change.' These moments required demonstrating support flexibility while maintaining clear professional boundaries.",
+          "consultant_response": "Consultants demonstrated excellent adaptive support through targeted responses. Primary example: 'If you have the time now, I'd be happy to connect you with our student advisor team for immediate setup guidance.' Supporting example: Providing detailed explanation of accreditation processes and stability measures. These responses effectively balanced immediate assistance with appropriate role boundaries while addressing specific student concerns.",
+          "priority": "high",
+          "recommended_approach": "Continue this exemplary practice of adaptive support by: 1) Quickly identifying specific student needs 2) Offering targeted assistance 3) Maintaining clear role boundaries 4) Providing concrete next steps 5) Connecting with appropriate resources"
+        },
+        {
+          "id": 2,
+          "title": "Strong Schedule Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820926474",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820898042",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students indicated various scheduling constraints affecting their ability to engage with enrollment processes. Primary example: Student at work with limited availability. Supporting example: Student with family commitments affecting scheduling. These situations required immediate demonstration of program flexibility while maintaining enrollment momentum.",
+          "consultant_response": "Consultants displayed strong collaborative planning by offering flexible solutions and extended support options. Primary example: Providing alternative contact methods and extended hours. Supporting example: Accommodating specific timing preferences while ensuring continued progress. These responses effectively demonstrated program adaptability while maintaining clear pathways to enrollment completion.",
+          "priority": "high",
+          "recommended_approach": "Maintain this effective approach to schedule integration by: 1) Acknowledging specific constraints 2) Offering multiple flexible solutions 3) Providing extended support hours 4) Ensuring clear next steps 5) Maintaining enrollment momentum"
+        },
+        {
+          "id": 3,
+          "title": "Effective Program Stability Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627366395",
+              "segment_id": "134",
+              "timestamp": "16:44"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed significant concern about program stability: 'I'm worried that requirements might change and it's a waste.' This concern represented a critical moment requiring clear assurance about program validity and long-term value.",
+          "consultant_response": "The consultant provided comprehensive stability assurance through detailed explanation: 'It needs to go through an accreditation board with APAC. The change for it to happen is very unlikely because it means that there's a lot of moving shipments. And we have just recently had an update.' This response effectively built confidence through concrete information about accreditation processes and recent updates.",
+          "priority": "high",
+          "recommended_approach": "Continue this excellent approach to stability concerns by: 1) Acknowledging specific worries 2) Explaining accreditation processes 3) Providing recent examples 4) Highlighting stability measures 5) Building confidence through concrete information"
+        },
+        {
+          "id": 4,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820882191",
+              "segment_id": "14",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820926474",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant financial concerns affecting their enrollment decisions. Primary example: Student choosing another university 'because of financial reasons.' Supporting example: Student inquiring about financial support eligibility. These moments represented critical opportunities for collaborative financial planning.",
+          "consultant_response": "Consultants typically provided minimal engagement with financial concerns, missing opportunities to explore support options. Primary example: Simply acknowledging decision without exploring alternatives. Supporting example: Brief acknowledgment without discussing available support. These responses demonstrated insufficient exploration of financial solutions.",
+          "priority": "high",
+          "recommended_approach": "Enhance financial planning discussions by: 1) Acknowledging financial concerns promptly 2) Explaining available support options 3) Directing to specific resources 4) Highlighting financial advisory services 5) Engaging in collaborative funding solution exploration"
+        },
+        {
+          "id": 5,
+          "title": "Limited Barrier Resolution",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820938326",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594821114676",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students encountered various immediate barriers requiring flexible solutions. Primary example: Poor connectivity preventing task completion. Supporting example: Timing constraints limiting immediate engagement. These situations demanded creative problem-solving to maintain enrollment momentum.",
+          "consultant_response": "Consultants often defaulted to deferring support rather than exploring immediate solutions. Primary example: Acknowledging limitations without offering alternatives. Supporting example: Scheduling future callbacks without exploring current options. These responses missed opportunities for immediate barrier resolution.",
+          "priority": "high",
+          "recommended_approach": "Improve barrier resolution by: 1) Identifying specific obstacles 2) Offering immediate alternative solutions 3) Providing multiple support options 4) Setting concrete action plans 5) Maintaining engagement through resolution"
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901891268",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627366395",
+                "segment_id": "71",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students disclosed significant industry experience without formal education. Primary example: 'I've been in the industry for quite some time.' Supporting example: Student seeking expedited pathway based on experience. These moments presented opportunities to validate experience while maintaining educational focus.",
+          "consultant_response": "Consultants typically provided basic responses without exploring educational alignment. Primary example: Moving directly to program suggestions without validating experience. Supporting example: Providing career guidance rather than focusing on educational planning. These responses missed opportunities to integrate experience into educational planning.",
+          "priority": "high",
+          "recommended_approach": "Enhance experience integration by: 1) Validating professional experience 2) Focusing on educational alignment 3) Maintaining appropriate boundaries 4) Connecting experience to program benefits 5) Developing clear educational pathways"
+        }
+      ]
+    }
+  }
+}

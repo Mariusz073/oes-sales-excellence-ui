@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 280,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 73,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.071428571428573,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 207,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.92857142857143,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.11446631916898,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 207,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 141.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.26,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Educational Pathway Navigation",
+        "explanation": "Consultants excel at guiding students through alternative pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Strategic Work-Study Balance Support",
+        "explanation": "Strong demonstration of collaborative planning to accommodate work commitments while validating experience"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective incorporation of relevant support options when students express specific needs"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Circumstance Investigation",
+        "explanation": "More thorough exploration needed of student situations before providing study planning guidance"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "Greater emphasis needed on exploring immediate financial solutions while maintaining boundaries"
+      },
+      {
+        "headline": "Structured Process Communication",
+        "explanation": "More specific guidance needed on timelines and next steps while balancing process variables"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 2,
+          "title": "Strategic Work-Study Balance Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731044303",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675606886",
+                "segment_id": "54",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students express concerns about balancing full-time work with study requirements",
+          "consultant_response": "Effective exploration of flexible solutions: 'Let's look at how our flexible study options could work around your roster'",
+          "context_impact": "Demonstrating program flexibility crucial for building student confidence",
+          "recommended_approach": "Could provide more specific examples of successful arrangements"
+        },
+        {
+          "id": 3,
+          "title": "Mental Health Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "79",
+              "timestamp": "12:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed autism and anxiety affecting their studies",
+          "consultant_response": "Validated concerns and outlined specific support mechanisms including assignment extensions",
+          "context_impact": "Addressing mental health support needs crucial for student confidence",
+          "recommended_approach": "None needed - exemplary support integration"
+        },
+        {
+          "id": 4,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626886844",
+              "segment_id": "17",
+              "timestamp": "1:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820890475",
+                "segment_id": "238",
+                "timestamp": "3:57"
+              }
+            ]
+          },
+          "student_trigger": "Students express significant concerns about program costs and funding options",
+          "consultant_response": "Basic acknowledgment of concerns without exploring immediate solutions or alternatives",
+          "context_impact": "Financial barriers require immediate attention to prevent enrollment loss",
+          "recommended_approach": "Should explore immediate financial aid options and flexible arrangements"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626734891",
+              "segment_id": "53",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594901831674",
+                "segment_id": "190",
+                "timestamp": "25:35"
+              }
+            ]
+          },
+          "student_trigger": "Students express various personal constraints affecting study capacity",
+          "consultant_response": "Provides basic flexibility information without exploring specific situations",
+          "context_impact": "Detailed understanding of circumstances crucial for appropriate planning",
+          "recommended_approach": "Should investigate personal circumstances thoroughly before planning"
+        },
+        {
+          "id": 6,
+          "title": "Vague Timeline Communication",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626677237",
+              "segment_id": "137",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking specific timeline information: 'How long am I waiting here to find out'",
+          "consultant_response": "Provided only general timing: 'Sometimes they'll get back to us really quickly... very hard to say'",
+          "context_impact": "Uncertainty about process timing affected student planning confidence",
+          "recommended_approach": "Should provide clear timeline structure with specific milestones while acknowledging variables"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Transition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626855909",
+              "segment_id": "127",
+              "timestamp": "15:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675714528",
+                "segment_id": "70",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated strong interest in expedited pathways into education, with varying entry qualification concerns. The primary example showed a student stating: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' A supporting case involved mature age entry concerns: 'What about with not finishing year 12 because I back in the day I only completed year 11.' These situations required careful collaborative planning to address both timeline and eligibility concerns while maintaining academic integrity.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through specific, role-appropriate solutions. In the primary case, the consultant suggested: 'A Diploma of Early Childhood Education and Care will actually count as your first year as well.' For the mature age concern, the response was equally effective: 'Oh beautiful so that's perfectly okay you are considered a mature age student.' Both responses maintained appropriate boundaries while providing clear pathways forward, effectively balancing student needs with academic requirements.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained by: 1) Quickly identifying viable alternative pathways while preserving academic integrity, 2) Maintaining appropriate role boundaries while providing clear guidance, 3) Building confidence through specific, actionable solutions, and 4) Addressing timeline concerns while ensuring proper qualification standards. When similar situations arise, consultants should continue to validate student concerns while steering discussions toward concrete, achievable pathways."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Work-Study Balance Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731044303",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675606886",
+                "segment_id": "54",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing studies alongside employment. Primary example: 'I want to advance my career but I'm worried about balancing study with my current role.' Supporting cases revealed similar concerns about juggling full-time work commitments with study requirements.",
+          "consultant_response": "Consultants excelled at collaborative planning by acknowledging concerns and exploring practical solutions: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster.' This approach effectively combined empathy with solution exploration, highlighting program flexibility while gathering relevant information about work patterns.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong approach: 1) Explore specific work schedules in more detail, 2) Provide examples of successful work-study arrangements, 3) Outline specific flexibility features addressing various work patterns, 4) Create preliminary study load plans aligned with work commitments, 5) Highlight relevant support services while maintaining pre-enrollment boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Mental Health Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "79",
+              "timestamp": "12:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed specific mental health considerations: 'Look, I am autistic but I function pretty well. Also have anxiety. I am medicated. I just can get a bit overwhelmed if I can't grasp it or I think, overthink a question and stuff, but it's not too bad.' This revelation presented a crucial opportunity to demonstrate support systems.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning: 'No, thank you again for sharing that with me. Anxiety, of course, especially when it comes to studies, it can kind of really make it ten times worse than it needs to be. Now, your teachers are there if you need more time on an assignment, for example, just grab a note from your doctor and then request an assignment extension.' This effectively validated concerns while providing specific, actionable support options.",
+          "priority": "high",
+          "recommended_approach": "This interaction exemplifies best practices by: 1) Acknowledging and validating disclosure, 2) Providing specific, relevant support mechanisms, 3) Explaining process for accessing support, 4) Maintaining encouraging tone throughout, 5) Creating confidence in institutional support systems."
+        },
+        {
+          "id": 4,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626886844",
+              "segment_id": "17",
+              "timestamp": "1:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820890475",
+                "segment_id": "238",
+                "timestamp": "3:57"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant financial concerns. Primary example: 'I'm reconsidering, given the fact the unit price was a little bit expensive.' Supporting case: 'Possibly? I'm not quite sure about employer sponsorship.' These situations required immediate financial planning support.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring immediate solutions: 'I do understand, agree, you know, 5,000 per unit is quite a price. So yeah, we will put it on hold.' This approach missed opportunities to explore immediate financial options or alternatives.",
+          "priority": "high",
+          "recommended_approach": "Enhance financial planning support by: 1) Acknowledging cost concerns while exploring immediate options, 2) Discussing possible financial aid opportunities, 3) Considering flexible study load arrangements to manage costs, 4) Outlining specific payment plans or alternatives, 5) Creating collaborative financial planning strategies addressing both immediate and long-term considerations."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626734891",
+              "segment_id": "53",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594901831674",
+                "segment_id": "190",
+                "timestamp": "25:35"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed personal constraints affecting study capacity. Primary example: 'I just can't take two years of minimal.' Supporting case: 'I'm wondering how I'll manage the full-time study load.' These interactions presented crucial opportunities for detailed circumstance exploration.",
+          "consultant_response": "Consultants typically provided generic flexibility information without investigating specific circumstances, work commitments, or potential constraints that could impact study success. This surface-level response missed opportunities for meaningful collaborative planning.",
+          "priority": "high",
+          "recommended_approach": "An effective approach should: 1) Explore student's typical weekly schedule, 2) Discuss work and personal commitments that could impact study, 3) Investigate previous study experiences and successful strategies, 4) Consider potential challenges and support needs, 5) Create preliminary study management plan based on gathered information."
+        },
+        {
+          "id": 6,
+          "title": "Vague Timeline Communication",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626677237",
+              "segment_id": "137",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student explicitly requested timeline clarity: 'How long am I waiting here to find out if this will work or not.' This demonstrated need for specific planning information to support decision-making and highlighted opportunity for enhanced collaborative planning around process understanding.",
+          "consultant_response": "Consultant provided only general timing: 'So essentially, they'll submit this to campus. Sometimes they'll get back to us really quickly. So I'd say, maybe before, very hard to say because it's different for each student.' This vague response failed to provide actionable planning guidance while maintaining appropriate expectations.",
+          "priority": "high",
+          "recommended_approach": "Enhanced timeline communication should: 1) Provide clear milestone structure with specific next steps, 2) Acknowledge variables while maintaining process confidence, 3) Set appropriate expectations for each stage, and 4) Outline concrete actions students can take while waiting. This approach builds confidence in the process while maintaining realistic timelines."
+        }
+      ]
+    }
+  }
+}

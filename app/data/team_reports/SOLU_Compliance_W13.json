@@ -1,0 +1,181 @@
+{
+    "type": "Compliance",
+    "requirement": "Call Recording Disclosure Compliance",
+    "week": 13,
+    "university": "Sol",
+    "reporting_period": "01-20_01-24",
+    "first_page_title": "Sol full compliance has <em>improved remarkably this week</em>, driven by improved disclosure rates within 2 minutes",
+    "second_page_title": "<em>Weekly report initiative 1 |</em> Rapidly improve call recording disclosure compliance",
+    "graph": {
+        "bars": [
+            {
+                "title": "Feb-Mar 2024\n2000 hours",
+                "green": 24,
+                "red": 27
+            },
+            {
+                "title": "10-25_11-01\nweek 1",
+                "green": 27,
+                "red": 34
+            },
+            {
+                "title": "11-04_11-08\nweek 2",
+                "green": 35,
+                "red": 36
+            },
+            {
+                "title": "11-11_11-15\nweek 3",
+                "green": 44,
+                "red": 39
+            },
+            {
+                "title": "11-18_11-22\nweek 4",
+                "green": 51,
+                "red": 35
+            },
+            {
+                "title": "11-25_11-29\nweek 5",
+                "green": 52,
+                "red": 38
+            },
+            {
+                "title": "12-02_12-06\nweek 6",
+                "green": 66,
+                "red": 22
+            },
+            {
+                "title": "12-9_12-13\nweek 7",
+                "green": 62,
+                "red": 30
+            },
+            {
+                "title": "12-16_12-20\nweek 8",
+                "green": 60,
+                "red": 31
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "green": 57,
+                "red": 36
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "green": 68,
+                "red": 27
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "green": 65,
+                "red": 26
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "green": 63,
+                "red": 28
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "green": 66,
+                "red": 25
+            }
+        ],
+        "green_label": "Full compliance",
+        "red_label": "Partial compliance",
+        "black_label": "No compliance",
+        "result_label": "92% = Full & Partial compliance combined"
+    },
+    "sub_requirements": {
+        "data": [
+            {
+                "title": "Timing of disclosure",
+                "current": 73,
+                "last_week": 71
+            },
+            {
+                "title": "Content of disclosure",
+                "current": 84,
+                "last_week": 85
+            }
+        ],
+        "verdicts_count": 667
+    },
+    "individual_performance": {
+        "verdicts_count": 667,
+        "consultant_results": [
+            {
+                "name": "Valentina William",
+                "result": "39/39 (100.00%)"
+            },
+            {
+                "name": "Nicholas Bowers",
+                "result": "36/36 (100.00%)"
+            },
+            {
+                "name": "Jake McKinnis",
+                "result": "23/23 (100.00%)"
+            },
+            {
+                "name": "Sebastian Saunders",
+                "result": "47/48 (97.92%)"
+            },
+            {
+                "name": "Sarah Charlwood",
+                "result": "32/33 (96.97%)"
+            },
+            {
+                "name": "Alexandra Kepas",
+                "result": "62/65 (95.38%)"
+            },
+            {
+                "name": "Shelton Frimpong",
+                "result": "56/59 (94.92%)"
+            },
+            {
+                "name": "Robert Cecere",
+                "result": "37/40 (92.50%)"
+            },
+            {
+                "name": "Jack Colleran",
+                "result": "23/25 (92.00%)"
+            },
+            {
+                "name": "Stephen Taylor",
+                "result": "42/46 (91.30%)"
+            },
+            {
+                "name": "David McCarthie",
+                "result": "36/40 (90.00%)"
+            },
+            {
+                "name": "Michael Kiag",
+                "result": "40/45 (88.89%)"
+            },
+            {
+                "name": "Yusuf Aly",
+                "result": "41/47 (87.23%)"
+            },
+            {
+                "name": "Bridgett Young",
+                "result": "47/54 (87.04%)"
+            },
+            {
+                "name": "Rochelle Khaddage",
+                "result": "32/40 (80.00%)"
+            },
+            {
+                "name": "Gabriel Almeida",
+                "result": "19/27 (70.37%)"
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "result": "612/667 (91.75%)",
+            "average_compliance_percentage": "91.53%"
+        }
+    },
+    "metadata": {
+        "generated_date": "2025-01-27",
+        "report_id": "SOL-C-CALL-W13-2025",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

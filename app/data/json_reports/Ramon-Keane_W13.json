@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "consultant_name": "Ramon Keane",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 237,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 65,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.42616033755274,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 172,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.57383966244726,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.21183591782829,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 172,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 123.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.4,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 179.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 112.56,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 185.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 137.58,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Planning",
+        "explanation": "Consultants effectively guide students through program options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Consultants appropriately showcase available support services while maintaining clear role boundaries"
+      },
+      {
+        "headline": "Effective Context Integration",
+        "explanation": "Consultants actively use previously gathered information to personalize planning discussions and demonstrate attentiveness"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Experience-Requirement Alignment",
+        "explanation": "Need for better demonstration of how specific work experiences align with program requirements"
+      },
+      {
+        "headline": "Action Plan Development",
+        "explanation": "Opportunity to create more specific action plans while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Work-Study Integration Planning",
+        "explanation": "Greater emphasis needed on developing clear strategies for balancing professional commitments with academic demands"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Program Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780751740",
+              "segment_id": "28",
+              "timestamp": "13:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627137593",
+                "segment_id": "319",
+                "timestamp": "35:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about program choices and progression pathways, seeking clarity on honors equivalence and options.",
+          "consultant_response": "Consultants provided precise program comparisons and comprehensive resources while maintaining appropriate pre-enrollment boundaries.",
+          "context_impact": "Clear pathway guidance crucial for enabling confident program selection and progression planning.",
+          "recommended_approach": "None needed - excellent balance of guidance and boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Effective Alternative Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780687787",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed lacking a completed Bachelor's degree while having significant work experience.",
+          "consultant_response": "Consultant effectively suggested work experience pathway while maintaining requirements clarity.",
+          "context_impact": "Proactively exploring work experience pathway was crucial for maintaining enrollment opportunity.",
+          "recommended_approach": "None needed - excellent exploration of alternative pathways"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554481397",
+              "segment_id": "113",
+              "timestamp": "8:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed anxiety about starting program alone after friend's non-acceptance.",
+          "consultant_response": "Proactively introduced Student Coach program with clear explanation of available support.",
+          "context_impact": "Addressing isolation concerns crucial for maintaining enrollment confidence.",
+          "recommended_approach": "None needed - exemplary support integration"
+        },
+        {
+          "id": 4,
+          "title": "Insufficient Experience-Requirement Alignment",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780687787",
+              "segment_id": "74",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought guidance on how their management experience could satisfy requirements.",
+          "consultant_response": "Consultant provided only general guidance about management roles without exploring specific experiences.",
+          "context_impact": "Clear alignment of experience with requirements crucial for building enrollment confidence.",
+          "recommended_approach": "Should explore specific examples of management experience and create clear alignment with program requirements"
+        },
+        {
+          "id": 5,
+          "title": "Medical Professional Study Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675766973",
+              "segment_id": "36",
+              "timestamp": "02:51"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Full-time doctor seeking gradual progression from certificate to diploma.",
+          "consultant_response": "Provided basic teaching period information without exploring specific management strategies.",
+          "context_impact": "Need for detailed planning to manage professional commitments alongside study.",
+          "recommended_approach": "Should explore work patterns and outline flexible study options with support services"
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Action Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780687787",
+              "segment_id": "92",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested guidance on next steps for application process.",
+          "consultant_response": "Consultant provided vague guidance without creating clear timeline or action items.",
+          "context_impact": "Lack of specific action plan risks losing enrollment momentum.",
+          "recommended_approach": "Should create detailed action plan with specific steps and timeline while maintaining sales role boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Program Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780751740",
+              "segment_id": "28",
+              "timestamp": "13:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627137593",
+                "segment_id": "319",
+                "timestamp": "35:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about program choices and progression pathways. One student at segment 28 stated: 'I was just waiting to see if I've got a final offer with Honours first before I had decided to go with the other option.' Another at segment 319 requested: 'I'll probably, yeah, if I can get both options, just information on both emailed.' These moments presented crucial opportunities for pathway clarification while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants demonstrated excellence in collaborative planning through clear program comparisons and comprehensive resource provision. The primary consultant effectively addressed program equivalence: 'This is exactly equivalent to honours,' while maintaining appropriate scope. Another consultant provided targeted resource guidance: 'In the email that I've just sent, there's actually a link to a page on our Monash site that outlines the pathway options.' These responses effectively balanced detailed information with appropriate pre-enrollment boundaries while empowering students with clear pathways and resources.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained. Consultants should: 1) Provide clear program comparisons that address specific student concerns, 2) Share comprehensive resources while maintaining appropriate boundaries, 3) Ensure information is directly relevant to enrollment decisions, 4) Confirm student understanding of options and pathways, and 5) Document key discussion points for continuity of support."
+        },
+        {
+          "id": 2,
+          "title": "Effective Alternative Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780687787",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 33, a crucial opportunity emerged when the student revealed they hadn't completed their Bachelor's degree but had significant work experience: 'No, so what happened is I actually stopped with my studies and then I was given an opportunity to, yes, as a position of general manager.' This disclosure presented a critical moment to explore alternative pathways to program entry.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by immediately identifying and exploring an alternative pathway: 'Obviously, this one that you're applying for is a postgrad, so we would need normally at least a completed bachelor's, but in some cases, we can accept a resume. So, do you want to tell me a bit about the sort of work you've been doing?' This response effectively acknowledged standard requirements while opening discussion about using work experience as an alternative entry path.",
+          "priority": "High",
+          "recommended_approach": "This interaction exemplifies best practices in collaborative planning. To consistently achieve similar outcomes, consultants should: 1) Listen for indicators of non-traditional educational paths, 2) Promptly acknowledge standard requirements while introducing alternatives, 3) Invite detailed discussion of relevant experience, and 4) Frame work experience as a valuable alternative pathway while maintaining academic standards."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554481397",
+              "segment_id": "113",
+              "timestamp": "8:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 113, the student revealed significant anxiety: 'I'm just, I was just a bit nervous because I had a friend that we were planning to do it together, but she didn't get in.' This emotional disclosure presented a crucial opportunity to demonstrate available support mechanisms while addressing isolation concerns.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by introducing comprehensive support: 'Yeah, look, I was actually just about to mention that as well, because we have a new program called the Dedicated Student Coaches... they'll sort of usually be in touch by call and SMS to sort of help set you up for success and support you with things like, you know, discussing your study goals, your career goals, maybe some positive study habits and time management and that sort of thing.' This response effectively transformed the student's anxiety into an opportunity to discuss concrete support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach was optimal, providing clear information about available support while staying within role boundaries. The response successfully addressed emotional concerns while focusing on actionable support mechanisms and maintaining appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Insufficient Experience-Requirement Alignment",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780687787",
+              "segment_id": "74",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 74, the student sought specific guidance on how their management experience could satisfy program requirements. This presented a crucial opportunity to explore experience alignment and build confidence in program eligibility.",
+          "consultant_response": "The consultant maintained a general approach without engaging in detailed exploration or creating concrete alignment: 'For management roles we look at things like staff management, project management, and budget responsibilities.' This response lacked the personalized guidance needed to help the student understand how their specific experiences could satisfy requirements.",
+          "priority": "High",
+          "recommended_approach": "To improve experience-requirement alignment, consultants should: 1) Invite specific examples of relevant experience, 2) Create clear connections between experience and requirements, 3) Help students identify and articulate transferable skills, and 4) Guide documentation of qualifying experiences while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Medical Professional Study Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675766973",
+              "segment_id": "36",
+              "timestamp": "02:51"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student, working as a full-time doctor, expressed their desire for gradual progression: 'My plan would be to kind of start with the CERT and then see how I go with that and maybe move on to the diploma, you know, kind of take it bit by bit because I'm working full-time as a doctor.' This statement revealed both their professional circumstances and their thoughtful approach to managing study commitments.",
+          "consultant_response": "The consultant provided basic information about teaching periods without exploring the student's specific circumstances or developing strategies for managing professional commitments alongside study. This missed an opportunity to demonstrate how the program could effectively accommodate their medical career while supporting academic progression.",
+          "priority": "high",
+          "recommended_approach": "An enhanced approach should: 1) Acknowledge the demands of medical practice, 2) Explore specific work patterns and peak periods, 3) Outline how flexible study options align with medical schedules, 4) Discuss support resources for managing study alongside professional commitments, and 5) Create a preliminary progression plan that respects both career and academic goals while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Action Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780687787",
+              "segment_id": "92",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student directly requested guidance on next steps in the application process, presenting an ideal opportunity to create a clear action plan while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant provided only vague guidance without creating specific accountability or timeline: 'We'll need to get your documents together and then submit the application.' This response lacked the concrete direction needed to maintain momentum toward enrollment.",
+          "priority": "Medium",
+          "recommended_approach": "While maintaining sales role boundaries, consultants should: 1) Create specific timelines for document submission, 2) List clear action items required from both parties, 3) Set specific follow-up contact points, and 4) Confirm understanding and commitment to the timeline while staying within appropriate pre-enrollment scope."
+        }
+      ]
+    }
+  }
+}

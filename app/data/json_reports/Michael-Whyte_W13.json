@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 168,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 43,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.595238095238095,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 125,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.40476190476191,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.15629950095135,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 125,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 190.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.09,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 108.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.47,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 150.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.56,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 115.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.25,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 125.74,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.98,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 145.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.34,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career Transition Guidance",
+        "explanation": "Consultants effectively guide students through educational pathways while maintaining appropriate career planning boundaries"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "Strong demonstration of creating viable alternative pathways when standard entry requirements aren't immediately met"
+      },
+      {
+        "headline": "Boundary-Aware Support Integration",
+        "explanation": "Effective connection of students with appropriate resources while maintaining clear pre-enrollment scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Circumstance Integration",
+        "explanation": "Greater emphasis needed on exploring and incorporating individual student situations before proposing solutions"
+      },
+      {
+        "headline": "Comprehensive Goal Exploration",
+        "explanation": "Need for deeper investigation of student motivations and career objectives when planning educational pathways"
+      },
+      {
+        "headline": "Strategic Financial Planning Integration",
+        "explanation": "More systematic approach required for exploring financial strategies during pathway discussions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Transition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907745589",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781316589",
+                "segment_id": "26",
+                "timestamp": "01:35"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing desire for career transitions, including accelerated pathways into education and career changes at various life stages",
+          "consultant_response": "Detailed explanation of educational pathways and bridging options while maintaining focus on immediate educational steps",
+          "context_impact": "Clear pathway guidance provided while maintaining appropriate career planning boundaries",
+          "recommended_approach": "None needed - excellent demonstration of career transition support within role boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Alternative Pathway Solutions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676091223",
+              "segment_id": "50",
+              "timestamp": "3:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902483668",
+                "segment_id": "16",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about meeting entry requirements, particularly regarding WAM requirements and lack of background knowledge",
+          "consultant_response": "Comprehensive explanation of bridging courses and alternative entry options with clear progression plans",
+          "context_impact": "Provided viable alternative pathways while maintaining academic standards and student engagement",
+          "recommended_approach": "Strong example of alternative pathway guidance while maintaining standards"
+        },
+        {
+          "id": 3,
+          "title": "Appropriate Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676051291",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking detailed program information beyond consultant scope",
+          "consultant_response": "Clear explanation of referral process with appropriate handoff to specialized team",
+          "context_impact": "Successfully maintained engagement while ensuring access to specialized resources",
+          "recommended_approach": "Exemplary demonstration of boundary maintenance with clear next steps"
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676051291",
+              "segment_id": "20",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780868272",
+                "segment_id": "4",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students requesting specific qualifications without clear articulation of career goals or motivations",
+          "consultant_response": "Direct program information provided without exploring underlying motivations or career aspirations",
+          "context_impact": "Missed opportunities to align educational pathways with student objectives",
+          "recommended_approach": "Should implement structured approach to exploring career goals before presenting pathways"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821292215",
+              "segment_id": "46",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626907065",
+                "segment_id": "224",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students inquiring about Commonwealth supported places and financial options",
+          "consultant_response": "Basic responses about CSP availability without exploring comprehensive financial strategies",
+          "context_impact": "Limited financial guidance potentially creating barriers to enrollment confidence",
+          "recommended_approach": "Should provide detailed exploration of all financial options including FEE-HELP, payment plans, and sponsorship"
+        },
+        {
+          "id": 6,
+          "title": "Limited Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902170859",
+              "segment_id": "10",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781316589",
+                "segment_id": "34",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Students sharing significant life circumstances including age concerns and documentation timing",
+          "consultant_response": "Focus on general information without detailed exploration of personal circumstances and specific needs",
+          "context_impact": "Missed opportunities to create personalized solutions addressing individual situations",
+          "recommended_approach": "Should implement structured approach to exploring circumstances before proposing solutions"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Transition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907745589",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781316589",
+                "segment_id": "26",
+                "timestamp": "01:35"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire for career transition support, with specific examples including accelerated pathways into education and transition from manual labor at age 31. Students demonstrated clear career change objectives while seeking educational guidance, creating opportunities for collaborative planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive, tailored educational pathways while maintaining appropriate career planning boundaries. Responses included clear exploration of pathway options with statements like 'Our pathway here at Monash would be...' and detailed explanations of bridging courses and entry requirements. Consultants effectively maintained focus on immediate educational steps while acknowledging longer-term career aspirations.",
+          "priority": "high",
+          "recommended_approach": "The demonstrated approach effectively balances career transition support with appropriate boundaries. Consultants should continue to: 1) Acknowledge career goals while focusing on educational planning, 2) Present multiple pathway options aligned with career objectives, 3) Maintain clear boundaries around career advice, 4) Keep focus on immediate educational steps, 5) Connect long-term career goals with current educational decisions."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Alternative Pathway Solutions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676091223",
+              "segment_id": "50",
+              "timestamp": "3:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902483668",
+                "segment_id": "16",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about meeting entry requirements, particularly regarding WAM requirements between 60-69 and lack of background knowledge. These situations required careful balance of maintaining academic standards while exploring alternative pathways.",
+          "consultant_response": "Consultants demonstrated skilled alternative pathway guidance through detailed explanation of Professional Certificate as bridging pathway and emphasis on credit transfer opportunities. Key responses included: 'The bridging course would be our Professional Certificate... it's basically the first two units of that program' and clear explanations of how alternative pathways maintain academic standards while providing viable progression options.",
+          "priority": "high",
+          "recommended_approach": "This approach effectively creates viable alternatives while maintaining program integrity. Future similar situations should: 1) Validate academic concerns, 2) Present clear alternative pathways, 3) Explain how alternatives maintain standards, 4) Outline specific support services available, 5) Create clear progression milestones, 6) Maintain focus on academic achievement."
+        },
+        {
+          "id": 3,
+          "title": "Appropriate Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676051291",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought detailed program information beyond consultant scope, requiring appropriate referral while maintaining engagement. This presented an opportunity to demonstrate effective collaborative planning through proper boundary maintenance.",
+          "consultant_response": "Consultant demonstrated excellent boundary awareness while ensuring continued support: 'You could have a chat to our campus team... they can give you a better idea of if you'd be eligible.' This showed effective collaborative planning by connecting student with appropriate resources while maintaining engagement and setting clear expectations.",
+          "priority": "high",
+          "recommended_approach": "This interaction serves as a model for appropriate boundary maintenance while ensuring student support. Future interactions should similarly: 1) Clearly acknowledge student needs, 2) Explain reason for referral, 3) Set expectations about next steps, 4) Maintain engagement through transition, 5) Provide clear handoff to specialized resources."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676051291",
+              "segment_id": "20",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780868272",
+                "segment_id": "4",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students requested specific qualifications without clear articulation of career goals or motivations. Example inquiries included 'Okay, so you can't just do a diploma?' and general confusion about course options, indicating needs for deeper exploration of objectives.",
+          "consultant_response": "Consultants provided direct program information without exploring underlying motivations or career aspirations. Responses focused on qualification details and requirements rather than understanding student goals and creating aligned educational pathways.",
+          "priority": "high",
+          "recommended_approach": "Consultants should enhance their approach by: 1) Beginning with goal exploration: 'Could you tell me more about your career goals?', 2) Understanding timeline preferences, 3) Exploring industry-specific needs, 4) Creating alignment between goals and pathways, 5) Confirming pathway alignment with objectives, 6) Documenting career goals to inform pathway planning."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821292215",
+              "segment_id": "46",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626907065",
+                "segment_id": "224",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought information about financial options, particularly regarding Commonwealth supported places and payment alternatives. These inquiries presented opportunities for comprehensive financial planning within appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants provided basic information about CSP availability without engaging in meaningful exploration of alternative financial strategies or creating comprehensive financial plans. This limited approach missed opportunities to address potential financial barriers to enrollment.",
+          "priority": "high",
+          "recommended_approach": "A comprehensive approach should: 1) Acknowledge importance of financial planning, 2) Explore all available options including FEE-HELP, payment plans, and sponsorship, 3) Create personalized financial pathways aligned with student circumstances, 4) Discuss study load options to manage costs, 5) Highlight available financial advisory services, 6) Document financial plans to support enrollment decisions."
+        },
+        {
+          "id": 6,
+          "title": "Limited Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902170859",
+              "segment_id": "10",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781316589",
+                "segment_id": "34",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant life circumstances including moving house, age-related concerns, and documentation timing issues. These situations required personalized planning approaches to address individual needs and concerns.",
+          "consultant_response": "Consultants provided general information without thorough exploration of personal circumstances or creation of tailored solutions. Responses focused on standard processes rather than addressing specific situations and creating personalized plans.",
+          "priority": "high",
+          "recommended_approach": "Enhanced approach should: 1) Acknowledge specific circumstances, 2) Ask targeted questions about situation impact, 3) Explore how circumstances affect study plans, 4) Create tailored solutions based on circumstances, 5) Confirm understanding of personal factors, 6) Develop specific strategies for circumstance management, 7) Document personalized plans accounting for individual situations."
+        }
+      ]
+    }
+  }
+}

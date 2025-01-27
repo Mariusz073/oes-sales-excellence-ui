@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 240,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 68,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.333333333333332,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 172,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.66666666666667,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.524606259033234,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 172,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 114.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.9,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.88,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Load Management",
+        "explanation": "Consultants excel at exploring flexible study options while collaboratively developing manageable study plans"
+      },
+      {
+        "headline": "Career-Aligned Pathway Planning",
+        "explanation": "Strong ability to connect educational pathways with professional goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive International Support",
+        "explanation": "Effective collaboration with international students to create viable study plans addressing logistics and requirements"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Circumstance Exploration",
+        "explanation": "Greater emphasis needed on investigating student situations and challenges to provide targeted solutions"
+      },
+      {
+        "headline": "Professional Experience Integration",
+        "explanation": "Deeper collaborative planning needed to align existing professional experience with program outcomes"
+      },
+      {
+        "headline": "Support Navigation Enhancement",
+        "explanation": "More thorough exploration required of available support mechanisms and alternative pathways for diverse student needs"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901969484",
+              "segment_id": "116",
+              "timestamp": "10:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627399829",
+                "segment_id": "27",
+                "timestamp": "1:20"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on managing study loads alongside work commitments and personal schedules",
+          "consultant_response": "Provided structured guidance on study patterns: 'Remember, we run three trimesters... most students take two subjects first trimester, three in second and third'",
+          "context_impact": "Clear explanation of flexible study patterns increased student confidence in program manageability",
+          "recommended_approach": "Could explore individual scheduling preferences more deeply"
+        },
+        {
+          "id": 2,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820711747",
+              "segment_id": "14",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Graphic designer seeking clear pathway to teaching career: 'I'm a very experienced graphic designer but I want to try and move that over to teaching'",
+          "consultant_response": "Identified specific teaching qualification pathway while maintaining appropriate boundaries",
+          "context_impact": "Clear pathway information built confidence in career transition possibility",
+          "recommended_approach": "None needed - excellent balance of career guidance and enrollment focus"
+        },
+        {
+          "id": 3,
+          "title": "International Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666437317",
+              "segment_id": "22",
+              "timestamp": "01:37"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "International students seeking clarity on study logistics and exam requirements",
+          "consultant_response": "Provided comprehensive planning for online study flexibility: 'Exams are online, we give 6-7 weeks notice for scheduling'",
+          "context_impact": "Clear planning for international study requirements built student confidence",
+          "recommended_approach": "Could provide written follow-up summaries for complex arrangements"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781451735",
+              "segment_id": "53",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressing various personal challenges affecting enrollment decisions",
+          "consultant_response": "Surface-level acknowledgment without exploring underlying circumstances",
+          "context_impact": "Missed opportunities to understand specific challenges and present targeted solutions",
+          "recommended_approach": "Should investigate specific challenges to provide targeted solutions and support options"
+        },
+        {
+          "id": 5,
+          "title": "Professional Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821188327",
+              "segment_id": "24",
+              "timestamp": "01:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentions seven years of law firm experience",
+          "consultant_response": "Provided generic program information without exploring career experience relevance",
+          "context_impact": "Missed opportunity to collaboratively align experience with program benefits",
+          "recommended_approach": "Should collaboratively explore how program enhances existing professional experience"
+        },
+        {
+          "id": 6,
+          "title": "Support Navigation Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820711747",
+              "segment_id": "61",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students facing documentation challenges and seeking support options",
+          "consultant_response": "Basic requirement statements without exploring alternatives",
+          "context_impact": "Limited exploration of support mechanisms reduced enrollment confidence",
+          "recommended_approach": "Should explore full range of support options and create clear action plans"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901969484",
+              "segment_id": "116",
+              "timestamp": "10:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627399829",
+                "segment_id": "27",
+                "timestamp": "1:20"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study loads, with one asking: 'So how many do you recommend people, like how many do people normally do, about three or four.' Another student inquired: 'I just wanted to know if I'm able to switch from part-time to full-time or vice versa throughout the course?' These queries demonstrated consistent need for flexible study load guidance.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning through structured explanations: 'Remember, we run three trimesters, so if you want to study full-time and finish eight subjects per year, what most of our students will do is they'll take two subjects in the first trimester, three in the second, and three in their third.' This approach effectively balanced standard patterns with individual needs while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "While current guidance is strong, consultants should enhance collaboration by: 1) Exploring individual scheduling preferences more deeply, 2) Providing concrete examples of successful study management strategies, 3) Creating sample study plans demonstrating practical flexibility options, and 4) Discussing specific support resources available post-enrollment."
+        },
+        {
+          "id": 2,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820711747",
+              "segment_id": "14",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 14, the student revealed clear career transition goals: 'Well look, I'm a very experienced graphic designer and I have a degree in graphic design but I want to try and move that over to teaching.' This statement demonstrated both clear career objectives and readiness for detailed pathway planning.",
+          "consultant_response": "The consultant provided focused direction while maintaining appropriate boundaries: 'That is the course that would allow you to become a registered secondary teacher. It's two years in preparation and will cost around about $44,000.' This effectively addressed practical requirements and timeline expectations while staying within pre-enrollment guidance scope.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach successfully balanced career guidance with enrollment focus. To maintain this excellence: 1) Validate career transition goals, 2) Connect program structure to professional objectives, 3) Maintain appropriate pre-enrollment boundaries, 4) Focus on immediate enrollment decisions while noting post-enrollment support options."
+        },
+        {
+          "id": 3,
+          "title": "International Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666437317",
+              "segment_id": "22",
+              "timestamp": "01:37"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "International students sought comprehensive understanding of study logistics, particularly regarding exam scheduling and timezone management while studying from overseas locations: 'So you wanted to discuss ability to study, including taking relative exams whilst you're located in the USA and Canada.'",
+          "consultant_response": "Consultants engaged in detailed collaborative planning: 'Okay, so good news is that, yes, you can study this course entirely overseas. Exams are online. You may have to adjust your time zone a little bit just for the exams depending on what time of day they fall. We give you six or seven weeks notice as to what day and time your exam would be.' This demonstrated strong understanding of international student needs while providing clear, actionable information.",
+          "priority": "high",
+          "recommended_approach": "To enhance international student support: 1) Provide written summaries of key logistics, 2) Create timezone-specific study plans, 3) Outline multiple support channels, 4) Develop clear escalation paths for technical issues, and 5) Schedule regular check-in points for international students."
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781451735",
+              "segment_id": "53",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students indicated personal challenges affecting enrollment decisions. One expressed frustration with current institution support: 'FAU is just so bad to work with man.' Another mentioned career transitions without detailed discussion of circumstances.",
+          "consultant_response": "Consultants typically provided empathetic but surface-level responses without exploring specific challenges: 'I'm sorry to hear that. If it's just the six units to go, if there's a way you can stick it out and make it work, that's probably my best advice.' These responses missed opportunities to understand and address underlying circumstances.",
+          "priority": "high",
+          "recommended_approach": "To improve personal circumstance exploration: 1) Ask focused questions about specific challenges, 2) Investigate impact on study plans, 3) Present relevant support options and solutions, 4) Create targeted action plans addressing individual needs, 5) Maintain appropriate pre-enrollment boundaries while demonstrating comprehensive support availability."
+        },
+        {
+          "id": 5,
+          "title": "Professional Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821188327",
+              "segment_id": "24",
+              "timestamp": "01:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student's disclosure of extensive legal experience: 'I worked for a law firm for seven years and something in law, you know' presented opportunity for career-aligned educational planning.",
+          "consultant_response": "The consultant provided generic program information without engaging in collaborative career-education planning or exploring how the student's legal background could enhance their academic journey.",
+          "priority": "high",
+          "recommended_approach": "Effective career-education planning should: 1) Explore specific aspects of legal experience, 2) Map experience to program outcomes, 3) Identify skill enhancement opportunities, 4) Create career progression plans, and 5) Align program benefits with professional goals."
+        },
+        {
+          "id": 6,
+          "title": "Support Navigation Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820711747",
+              "segment_id": "61",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students faced various documentation and support challenges. One international student explained: 'Now, the problem is that I only have a letter saying that I was on the course because when I moved over here, like, you know, all that sort of documentation disappeared.'",
+          "consultant_response": "Consultants typically defaulted to stating requirements without exploring alternatives: 'No, so we need the actual transcript of results which shows all the individual units that you passed in the mark.' This rigid approach missed opportunities to demonstrate support flexibility and create solution pathways.",
+          "priority": "high",
+          "recommended_approach": "More effective support navigation should: 1) Acknowledge specific challenges faced, 2) Explore all available support options, 3) Create clear action plans for resolution, 4) Connect with relevant support services where appropriate, 5) Maintain engagement while working through solutions."
+        }
+      ]
+    }
+  }
+}

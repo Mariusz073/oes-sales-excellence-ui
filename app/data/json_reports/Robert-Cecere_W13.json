@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "consultant_name": "Robert Cecere",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 274,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 69,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.18248175182482,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 205,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.81751824817519,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.338763759571,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 205,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 187.01,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.99,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 173.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.27,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 241.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 142.91,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 150.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 123.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 205.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 162.37,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Career-Aligned Educational Planning",
+        "explanation": "Consultants effectively connect student career goals with educational pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Consultants appropriately position support services while respecting pre-enrollment scope and creating enrollment confidence"
+      },
+      {
+        "headline": "Flexible Study Load Management",
+        "explanation": "Effective balancing of academic progress with work and life commitments through personalized study planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Circumstance-Based Planning",
+        "explanation": "Need for deeper exploration of student situations to enable truly personalized educational planning"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Opportunity to better demonstrate how support services align with specific student needs and circumstances"
+      },
+      {
+        "headline": "Work-Study Integration",
+        "explanation": "Room to improve exploration of how flexible study options accommodate specific work patterns"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Path Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730702140",
+              "segment_id": "50",
+              "timestamp": "5:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666272352",
+                "segment_id": "23",
+                "timestamp": "0:57"
+              }
+            ]
+          },
+          "student_trigger": "Students demonstrating clear career progression goals and seeking educational alignment",
+          "consultant_response": "Consultants effectively validated career directions while maintaining boundaries: 'That's amazing. So, with work experience, that sounds like it's going to be your best entry option.'",
+          "context_impact": "Effective career-education alignment increased enrollment confidence",
+          "recommended_approach": "None needed - excellent alignment of educational pathways with career goals"
+        },
+        {
+          "id": 2,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902270872",
+              "segment_id": "155",
+              "timestamp": "09:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594821246265",
+                "segment_id": "125",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity about assessment support and available assistance",
+          "consultant_response": "Connected immediate decisions to ongoing support: 'Then really diving into it in detail with the student advisor team and their student coaches once you've started.'",
+          "context_impact": "Clear support service understanding crucial for enrollment confidence",
+          "recommended_approach": "None needed - demonstrated appropriate balance"
+        },
+        {
+          "id": 3,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780846831",
+              "segment_id": "68",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907816997",
+                "segment_id": "189",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing work and study commitments",
+          "consultant_response": "Provided tailored recommendations: 'You'd start with one unit which is called learning communicating online that is designed to ease you into studying.'",
+          "context_impact": "Clear study load guidance proved critical for building enrollment confidence",
+          "recommended_approach": "None needed - excellent personalization of study load guidance"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902270872",
+              "segment_id": "50",
+              "timestamp": "05:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780627040",
+                "segment_id": "59",
+                "timestamp": "10:45"
+              }
+            ]
+          },
+          "student_trigger": "Students sharing complex work-family circumstances including maternity plans",
+          "consultant_response": "Basic acknowledgment without detailed planning: 'That is an exciting schedule'",
+          "context_impact": "Insufficient exploration affected planning confidence",
+          "recommended_approach": "Should explore typical schedules and develop specific management strategies"
+        },
+        {
+          "id": 5,
+          "title": "Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907581676",
+              "segment_id": "28",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about accessing support services",
+          "consultant_response": "Simple referral without explanation: 'Your best option would be to call the Swinburne campus team'",
+          "context_impact": "Missed opportunity to build support confidence",
+          "recommended_approach": "Should explain support relevance to specific situation"
+        },
+        {
+          "id": 6,
+          "title": "Limited Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907848879",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed specific concerns about balancing shift work with study requirements",
+          "consultant_response": "Basic mention of flexibility without exploring specific work patterns",
+          "context_impact": "Missed opportunity to demonstrate how program flexibility accommodates work schedules",
+          "recommended_approach": "Should discuss typical shift patterns and outline relevant flexibility options"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Path Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730702140",
+              "segment_id": "50",
+              "timestamp": "5:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666272352",
+                "segment_id": "23",
+                "timestamp": "0:57"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated clear career progression goals, with the primary example stating 'No, it would still be to stay within health,' while supporting cases showed similar career-focused educational planning needs. These interactions presented crucial opportunities to align educational pathways with professional development goals while maintaining appropriate planning boundaries.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by validating career directions while maintaining appropriate role boundaries. The primary example showed effective career-education alignment: 'That's amazing. So, with work experience, that sounds like it's going to be your best entry option.' Supporting cases revealed consistent patterns of connecting educational options to career goals while avoiding detailed career guidance that would exceed role boundaries.",
+          "priority": "High",
+          "recommended_approach": "Continue effective practice while enhancing through: 1) Exploring specific aspects of current roles students wish to develop 2) Connecting course modules to career advancement opportunities 3) Sharing relevant examples of professional progression 4) Maintaining focus on enrollment-relevant planning 5) Avoiding detailed career guidance beyond role scope"
+        },
+        {
+          "id": 2,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902270872",
+              "segment_id": "155",
+              "timestamp": "09:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594821246265",
+                "segment_id": "125",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently sought clarity about assessment support and available assistance mechanisms. The primary example asked about assessment workload, while supporting cases showed similar patterns of seeking confidence through understanding available support services. These interactions revealed the critical role of support understanding in enrollment decisions.",
+          "consultant_response": "Consultants effectively integrated support resources while maintaining clear boundaries: 'Then really diving into it in detail with the student advisor team and their student coaches once you've started.' This approach demonstrated strong collaborative planning by connecting immediate decisions to ongoing support structures while maintaining appropriate pre-enrollment boundaries and building confidence in post-enrollment support availability.",
+          "priority": "High",
+          "recommended_approach": "Continue this balanced approach while: 1) Providing clear overviews of support services aligned with student needs 2) Explaining how support integrates with key study milestones 3) Maintaining pre-enrollment boundaries while building confidence 4) Highlighting post-enrollment resources with specific examples 5) Ensuring students understand clear pathways to accessing support"
+        },
+        {
+          "id": 3,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780846831",
+              "segment_id": "68",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907816997",
+                "segment_id": "189",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing study load alongside existing commitments. The primary example stated 'I'm doing five days at the moment like full-time I'm working and I have two kids.' Supporting cases showed similar patterns of balancing full-time work with study aspirations, presenting crucial opportunities for collaborative planning around workload management.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by recommending tailored, gradual approaches. Primary example: 'You'd start with one unit which is called learning communicating online that is designed to ease you into studying.' Supporting cases showed consistent pattern of specific hour commitments and flexible progression options. The approach effectively balanced academic progress with personal commitments while maintaining appropriate expectations and building student confidence.",
+          "priority": "High",
+          "recommended_approach": "While current practice is strong, enhance by: 1) Exploring specific weekly schedules to identify study windows 2) Discussing potential adjustment periods with concrete examples 3) Creating clear first-trimester frameworks 4) Connecting study load recommendations to career progression goals 5) Providing specific examples of successful study management strategies"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902270872",
+              "segment_id": "50",
+              "timestamp": "05:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780627040",
+                "segment_id": "59",
+                "timestamp": "10:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared complex life circumstances affecting study plans. Primary example stated: 'I'm just trying to be mindful of myself... I work and I'm a mom.' Supporting case discussed maternity leave planning: 'I'm also planning on probably having another baby in the near future.' These disclosures presented crucial opportunities for detailed collaborative planning within appropriate boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without engaging in meaningful planning discussions. Responses like 'That is an exciting schedule' missed opportunities to create concrete strategies for managing multiple commitments and planning around major life events while maintaining appropriate pre-enrollment scope. This surface-level engagement failed to build student confidence in their ability to succeed.",
+          "priority": "High",
+          "recommended_approach": "Should enhance response by: 1) Exploring typical daily schedules to identify viable study windows 2) Discussing specific strategies other working parents have successfully used 3) Creating high-level plans accounting for work hours and family commitments 4) Explaining how support services can help adjust plans as circumstances change 5) Developing general frameworks while maintaining appropriate boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907581676",
+              "segment_id": "28",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought guidance on accessing support services while showing engagement with the educational system: 'I'm wondering about what kind of help is available.' This presented a critical opportunity to demonstrate comprehensive support availability while building confidence in the support framework.",
+          "consultant_response": "Consultant provided only basic referral without exploring needs or explaining support relevance: 'Your best option would be to call the Swinburne campus team.' This minimal response missed the opportunity to build student confidence in available support mechanisms and their ability to access help when needed, while failing to create a clear support navigation framework.",
+          "priority": "High",
+          "recommended_approach": "Should enhance response by: 1) Exploring specific support needs through targeted questions 2) Explaining how different services align with student situation 3) Creating clear support access framework 4) Setting clear expectations for support engagement process 5) Maintaining appropriate pre-enrollment boundaries while building confidence in support availability"
+        },
+        {
+          "id": 6,
+          "title": "Limited Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907848879",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed specific concerns about managing shift work alongside study requirements: 'I work different shifts each week, so I'm worried about keeping up with classes.' This presented a clear opportunity to demonstrate how program flexibility could accommodate variable work schedules while maintaining appropriate planning boundaries.",
+          "consultant_response": "The consultant provided only basic flexibility information: 'Yes, our courses are flexible' without exploring the student's specific work patterns or creating a clear framework for managing study around shift work. This surface-level response missed the opportunity to build confidence in program manageability while respecting role boundaries.",
+          "priority": "High",
+          "recommended_approach": "To improve while maintaining appropriate scope: 1) Explore typical shift patterns at high level 2) Outline relevant flexibility options for varying schedules 3) Provide examples of how other shift workers manage study 4) Explain support resources available post-enrollment 5) Create general framework for work-study planning while avoiding detailed scheduling"
+        }
+      ]
+    }
+  }
+}

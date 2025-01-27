@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 297,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 91,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 30.63973063973064,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 206,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 69.36026936026936,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.67112284330225,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 206,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.77,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.51,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 154.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.25,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Planning",
+        "explanation": "Consultants effectively validate past experience and create clear educational pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of program flexibility options that accommodate student work and life commitments"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Effective connection of students with relevant support services while maintaining clear pre-enrollment scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Goal Integration",
+        "explanation": "Need for deeper exploration of career objectives when discussing program options and pathways"
+      },
+      {
+        "headline": "Comprehensive Support Planning",
+        "explanation": "Opportunity to provide more detailed discussion of available support mechanisms while maintaining role boundaries"
+      },
+      {
+        "headline": "Alternative Pathway Exploration",
+        "explanation": "Room for more thorough exploration of flexible study arrangements and completion options"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676165758",
+              "segment_id": "14",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627469339",
+                "segment_id": "72",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing past educational experiences and incomplete qualifications, seeking guidance on pathway options",
+          "consultant_response": "Effectively balanced validation of experience with clear pathway guidance: 'We would use your work experience to try and get you into that'",
+          "context_impact": "Critical opportunity to validate prior learning while maintaining appropriate planning boundaries",
+          "recommended_approach": "Consider incorporating more specific examples of successful pathway progressions"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781277296",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907849430",
+                "segment_id": "72",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on managing study load: 'I think I'd start with three, and then do two at the end of the year'",
+          "consultant_response": "Provided clear, flexible recommendations: 'If you wanted to just ease yourself into things, you can start with two and see how you go'",
+          "context_impact": "Important moment for establishing sustainable study patterns through collaborative planning",
+          "recommended_approach": "Could explore specific timing of busy periods to optimize study planning"
+        },
+        {
+          "id": 3,
+          "title": "Effective Placement Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907824373",
+              "segment_id": "27",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressing concern about managing placement requirements with current work commitments",
+          "consultant_response": "Clear explanation of workplace integration options: 'You can do them at your workplace as long as you're supervised by an ECT'",
+          "context_impact": "Critical moment for addressing potential enrollment barrier through flexible solutions",
+          "recommended_approach": "Could provide more examples of successful workplace integration arrangements"
+        },
+        {
+          "id": 4,
+          "title": "Proactive Support Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675935600",
+              "segment_id": "5",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requiring urgent enrollment support: 'I really need to sort this out today'",
+          "consultant_response": "Efficient identification and connection to appropriate support services while maintaining clear role scope",
+          "context_impact": "Opportunity to demonstrate effective support service navigation while maintaining boundaries",
+          "recommended_approach": "Could enhance handover process with more detailed next steps explanation"
+        },
+        {
+          "id": 5,
+          "title": "Limited Career Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781306848",
+              "segment_id": "24",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820580153",
+                "segment_id": "75",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Basic course inquiries without deeper career context exploration",
+          "consultant_response": "Surface-level program information without career goal exploration",
+          "context_impact": "Missed opportunities for meaningful career-aligned program planning",
+          "recommended_approach": "Should explore career objectives before presenting program options"
+        },
+        {
+          "id": 6,
+          "title": "Basic Support Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907824373",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627433323",
+                "segment_id": "34",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing various study challenges and concerns",
+          "consultant_response": "Basic acknowledgment without exploring available support resources",
+          "context_impact": "Missed opportunity to build enrollment confidence through comprehensive support planning",
+          "recommended_approach": "Need more detailed discussion of support mechanisms while maintaining role boundaries"
+        },
+        {
+          "id": 7,
+          "title": "Limited Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626616092",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731524882",
+                "segment_id": "70",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students inquiring about accelerated completion and flexible study options",
+          "consultant_response": "Focus on standard timeframes without exploring flexible options",
+          "context_impact": "Opportunity to explore alternative pathways that better serve student needs",
+          "recommended_approach": "Should discuss various study load options and flexibility in completion timeframes"
+        },
+        {
+          "id": 8,
+          "title": "Rigid Schedule Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780766887",
+              "segment_id": "48",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781227803",
+                "segment_id": "110",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking detailed understanding of scheduling options",
+          "consultant_response": "Basic program structure information without exploring individual scheduling needs",
+          "context_impact": "Limited exploration of scheduling needs reduced student confidence",
+          "recommended_approach": "Should engage in deeper discussion of specific scheduling constraints and preferences"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676165758",
+              "segment_id": "14",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627469339",
+                "segment_id": "72",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "The student revealed their educational background: 'I've done a Cert IV in mental health in the peer work and then I think I've started a diploma but I didn't finish it.' This disclosure created an opportunity to validate past learning while exploring suitable pathways forward. Supporting cases showed similar patterns of students sharing incomplete qualifications.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by recognizing past experience value while maintaining clear boundaries: 'We would use your work experience to try and get you into that. What we need to demonstrate is at least five years of full-time relevant work experience.' This approach validated previous learning while keeping focus on enrollment decisions rather than detailed career planning.",
+          "priority": "high",
+          "recommended_approach": "To maintain this high standard, consultants should: 1) Acknowledge and validate past learning experiences, 2) Present clear pathways aligned with existing qualifications, 3) Explain next steps within enrollment context, 4) Keep focus on immediate enrollment decisions rather than detailed career planning, 5) Reference appropriate post-enrollment support services for detailed planning needs."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781277296",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907849430",
+                "segment_id": "72",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on managing initial study load alongside work commitments. Primary example: 'I think I'd start with three, and then do two at the end of the year.' Supporting examples showed similar patterns of students seeking to establish sustainable study patterns while maintaining work-life balance.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear, experience-based recommendations while maintaining flexibility. Primary response: 'It just depends what works best for you... If you wanted to just ease yourself into things, you can start with two and see how you go.' Supporting examples showed consistent pattern of tailored guidance that considered individual circumstances.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice, consultants should: 1) Begin with detailed exploration of work/life commitments, 2) Provide clear recommendations based on similar student experiences, 3) Discuss support resources available for workload management, 4) Create preliminary study plans aligned with student circumstances, 5) Emphasize flexibility to adjust based on experience."
+        },
+        {
+          "id": 3,
+          "title": "Effective Placement Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907824373",
+              "segment_id": "27",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 27, the student expressed significant concern about managing workplace placement requirements alongside existing work commitments: 'I'm worried about how I'll manage the placement hours with my current job.' This revealed both practical constraints and underlying anxiety about program feasibility.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by outlining specific requirements while emphasizing workplace integration options: 'You can do them at your workplace as long as you're supervised by an ECT.' This response showed strong understanding of both program requirements and student needs, effectively reducing barriers to enrollment while maintaining clear communication about supervision requirements.",
+          "priority": "high",
+          "recommended_approach": "This represents best practice in collaborative planning around placement flexibility. Consultants should continue to: 1) Acknowledge placement concerns directly, 2) Present specific integration options with current employment, 3) Clearly outline supervision requirements, 4) Balance flexibility with program standards, and 5) Help students envision practical completion pathways."
+        },
+        {
+          "id": 4,
+          "title": "Proactive Support Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675935600",
+              "segment_id": "5",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed immediate concern about enrollment status requiring urgent support: 'I really need to sort this out today as my start date is coming up.' This created an opportunity to demonstrate effective support service navigation while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant showed excellent judgment in quickly identifying the need for specialized support and facilitating a smooth transfer to student advisors. The handover process was clear and efficient, reflecting good understanding of role boundaries while ensuring the student received necessary assistance.",
+          "priority": "medium",
+          "recommended_approach": "While the core approach was sound, consultants could enhance support by: 1) Gathering brief context before transfer, 2) Explaining the handover process more fully, 3) Setting clear expectations about next steps, 4) Ensuring smooth transition between services, and 5) Following up to confirm successful connection when appropriate."
+        },
+        {
+          "id": 5,
+          "title": "Limited Career Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781306848",
+              "segment_id": "24",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820580153",
+                "segment_id": "75",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students inquired about course options without consultants fully exploring career context: 'I'm interested in business courses' and 'What programs do you offer in healthcare?' These situations presented opportunities for deeper exploration of career goals to inform program selection.",
+          "consultant_response": "Consultants typically provided basic program information without sufficient career goal exploration: 'We have several business courses available' or 'Let me tell you about our healthcare programs.' This approach missed opportunities to align program selection with career objectives and create more meaningful collaborative planning discussions.",
+          "priority": "high",
+          "recommended_approach": "To enhance collaborative planning, consultants should: 1) Explore career goals before presenting program options, 2) Ask about desired industry roles and advancement goals, 3) Connect program features to career objectives, 4) Discuss how different pathways support career goals, and 5) Maintain appropriate boundaries while gathering relevant career context."
+        },
+        {
+          "id": 6,
+          "title": "Basic Support Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907824373",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627433323",
+                "segment_id": "34",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students detailed various challenges affecting study completion: 'I'm worried about balancing work and study' and 'I haven't studied in a while.' These disclosures created opportunities for comprehensive support planning discussions while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without fully exploring available support resources: 'Yes, we have flexible study options' or 'Don't worry, we have support available.' This surface-level approach missed opportunities to boost enrollment confidence through more detailed discussion of support mechanisms.",
+          "priority": "medium",
+          "recommended_approach": "To enhance support planning while maintaining appropriate scope, consultants should: 1) Acknowledge specific challenges, 2) Outline relevant support services available post-enrollment, 3) Explain how support mechanisms address common challenges, 4) Reference student success stories where appropriate, and 5) Create clear expectations about support access timing."
+        },
+        {
+          "id": 7,
+          "title": "Limited Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626616092",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731524882",
+                "segment_id": "70",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students inquired about accelerated completion options and flexible study arrangements: 'Is there any way to complete it faster?' and 'Can I adjust my study load?' These questions presented opportunities for comprehensive pathway planning discussions.",
+          "consultant_response": "Consultants typically focused on standard timeframes without fully exploring flexible options: 'The program normally takes two years' or 'You need to maintain minimum study loads.' This approach limited discussion of alternative pathways that might better serve student needs while maintaining program quality standards.",
+          "priority": "medium",
+          "recommended_approach": "To improve pathway exploration while maintaining appropriate scope, consultants should: 1) Discuss various study load options, 2) Explain flexibility in completion timeframes, 3) Present alternative study modes, 4) Reference successful flexible arrangement examples, and 5) Connect study options to student circumstances while staying within role boundaries."
+        },
+        {
+          "id": 8,
+          "title": "Rigid Schedule Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780766887",
+              "segment_id": "48",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781227803",
+                "segment_id": "110",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought detailed understanding of scheduling options and program flexibility, particularly around managing work commitments and placement requirements. One example stated: 'And will I be able to do the work placement?' indicating need for comprehensive schedule planning.",
+          "consultant_response": "Consultants typically provided basic information about program structure without exploring individual scheduling needs or developing tailored solutions. Responses often focused on restrictions rather than possibilities: 'There are four work placements. So you can't usually do them at your workplace.'",
+          "priority": "medium",
+          "recommended_approach": "To enhance schedule planning effectiveness: 1) Conduct detailed exploration of individual scheduling constraints, 2) Discuss full range of flexibility options available, 3) Create preliminary schedule frameworks based on student needs, 4) Outline support mechanisms for schedule management, 5) Provide examples of successful scheduling approaches."
+        }
+      ]
+    }
+  }
+}

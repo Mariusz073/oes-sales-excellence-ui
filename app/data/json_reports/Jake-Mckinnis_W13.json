@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 221,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 51,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.076923076923077,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 170,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.92307692307693,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.776909199027756,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 170,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.71,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 140.67,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.53,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Work-Study Integration",
+        "explanation": "Consultants excel at helping students create practical strategies for balancing professional commitments with academic requirements"
+      },
+      {
+        "headline": "Proactive Pathway Planning",
+        "explanation": "Consultants skillfully guide students through program transitions while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Clear Timeline Management",
+        "explanation": "Consultants provide comprehensive scheduling guidance that enables informed planning decisions"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Initial Discovery",
+        "explanation": "Greater emphasis needed on exploring student circumstances and goals during initial planning discussions"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "More comprehensive explanation required of available support mechanisms throughout the student journey"
+      },
+      {
+        "headline": "Financial Planning Depth",
+        "explanation": "Deeper exploration needed of financial considerations and available pathways when discussing program investments"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731060865",
+              "segment_id": "206",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820850145",
+                "segment_id": "12",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing work commitments alongside studies",
+          "consultant_response": "Consultants provided practical solutions: 'Keep in mind you've got that census period, so if you start with two and you hate it, you can drop down before that period.'",
+          "context_impact": "Clear guidance on flexibility options crucial for building confidence in program feasibility",
+          "recommended_approach": "Could enhance by exploring specific work patterns for more tailored scheduling recommendations"
+        },
+        {
+          "id": 2,
+          "title": "Clear Program Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821120653",
+              "segment_id": "35",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about program transitions: 'I did see your message about having to go into a Bachelor of Accounting instead and transferring into this business.'",
+          "consultant_response": "Consultant provided clear guidance: 'Starting with the Bachelor of Accounting and transferring to the Bachelor of Business after completing four units.'",
+          "context_impact": "Clear pathway explanation essential for maintaining student confidence in progression options",
+          "recommended_approach": "None needed - excellent example of clear pathway guidance"
+        },
+        {
+          "id": 3,
+          "title": "Effective Timeline Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731521250",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking confirmation of teaching period dates and requirements",
+          "consultant_response": "Provided clear structure: 'Classes will start on March 10th, run through to June 8th, with next start July 7th'",
+          "context_impact": "Detailed timeline information enabled informed planning decisions",
+          "recommended_approach": "None needed - exemplary timeline communication"
+        },
+        {
+          "id": 4,
+          "title": "Limited Initial Interest Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627041451",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "'Yeah, well, I've only just started looking and then I just kind of signed up to get the info brochure'",
+          "consultant_response": "Provided general program information without personalizing to student's specific interests",
+          "context_impact": "Missed opportunity to deeply explore student's interests and educational goals",
+          "recommended_approach": "Should engage in collaborative exploration of student's specific interests and career goals"
+        },
+        {
+          "id": 5,
+          "title": "Limited Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781524899",
+              "segment_id": "90",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed administrative and support-related concerns",
+          "consultant_response": "Provided basic procedural information without exploring broader support needs",
+          "context_impact": "Missed opportunities to showcase comprehensive support systems",
+          "recommended_approach": "Should outline full range of available support services and create clear support pathway"
+        },
+        {
+          "id": 6,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730769319",
+              "segment_id": "307",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about application costs: 'I paid $150 to apply through QTAC...That is insane'",
+          "consultant_response": "Basic acknowledgment without exploring solutions: 'Yeah, that's super annoying for you'",
+          "context_impact": "Financial concerns affecting student's perception of educational investment value",
+          "recommended_approach": "Should proactively discuss available financial support options and payment pathways"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731060865",
+              "segment_id": "206",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820850145",
+                "segment_id": "12",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing their studies alongside existing work commitments. A primary example stated: 'I want to advance my career but I'm worried about balancing study with my current role.' This pattern of concern highlighted the critical need for clear guidance on flexible study options that could accommodate work schedules while supporting academic progress.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by providing practical strategies for managing study loads. The exemplar response showed excellent technique: 'Keep in mind you've got that census period, so if you start with two and you hate it, you can just drop down one unit before that period and you won't be charged.' This approach effectively addressed immediate concerns while highlighting flexibility options, using inclusive language and providing concrete options that helped students visualize successful study-work integration.",
+          "priority": "High",
+          "recommended_approach": "While maintaining strong current practices, consultants should: 1) Explore specific work schedules and commitments before making recommendations, 2) Discuss available support services while maintaining appropriate role boundaries, 3) Share examples of successful work-study balance strategies, and 4) Focus on high-level planning appropriate to their role while referring detailed study planning to learning advisors post-enrollment."
+        },
+        {
+          "id": 2,
+          "title": "Clear Program Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821120653",
+              "segment_id": "35",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 35, the student expressed uncertainty about program transitions: 'I did see your message about having to go into a Bachelor of Accounting instead and transferring into this business.' This represented a critical opportunity to provide clarity about program pathways and build confidence in the institution's flexibility in supporting student goals.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by responding with clear guidance: 'Yes, absolutely, no problems at all. So just confirming, we are then starting with the Bachelor of Business and then once you complete four units and then we can transfer you to the Bachelor of Business. Sorry, we are starting with the Bachelor of Accounting and transferring to the Bachelor of Business.' This response effectively clarified the transition pathway while maintaining student confidence in the process.",
+          "priority": "High",
+          "recommended_approach": "This exemplifies best practice in pathway guidance: clear explanation, confidence-building reassurance, and appropriate detail level. The approach successfully addresses student concerns while maintaining proper scope of guidance."
+        },
+        {
+          "id": 3,
+          "title": "Effective Timeline Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731521250",
+              "segment_id": "17",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's inquiry about teaching period dates demonstrated a need for clear timeline understanding to support their planning process. This presented an opportunity to provide structured information that would enable effective academic and personal planning.",
+          "consultant_response": "The consultant delivered a clear and structured breakdown of the academic calendar: 'So your classes will start on the 10th of March. So your classes will then run right through to the 8th of June. So then your classes won't start again until July, the 7th of July.' This detailed presentation effectively communicated key dates in a logical sequence, enabling the student to understand the academic timeline and plan accordingly.",
+          "priority": "High",
+          "recommended_approach": "This represents best practice in timeline communication. Consultants should continue to: 1) Present dates in a clear, structured sequence, 2) Explain implications of key dates for student planning, 3) Check understanding of timeline implications, and 4) Offer to explore specific scheduling considerations within the established timeline."
+        },
+        {
+          "id": 4,
+          "title": "Limited Initial Interest Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627041451",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student indicated their early stage of exploration, stating 'Yeah, well, I've only just started looking and then I just kind of signed up to get the kind of info brochure you had on the website.' This presented a prime opportunity for collaborative exploration of educational interests and goals, critical for guiding the student toward informed enrollment decisions.",
+          "consultant_response": "The consultant's response focused primarily on providing general program information without engaging in deeper exploration of the student's specific interests or educational aspirations. This approach missed the opportunity to establish a collaborative planning relationship that could have better aligned program features with student goals.",
+          "priority": "High",
+          "recommended_approach": "An ideal approach would begin with: 'I appreciate you taking the first step in exploring your options. Let's understand what interests you most about pursuing further education.' The consultant should then engage in structured exploration of the student's goals and interests, using these insights to highlight relevant program features and create a more personalized enrollment discussion."
+        },
+        {
+          "id": 5,
+          "title": "Limited Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781524899",
+              "segment_id": "90",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed concerns about administrative requirements and processes, indicating anxiety about support needs throughout their journey. This presented opportunities to demonstrate comprehensive support systems.",
+          "consultant_response": "Consultants typically provided basic procedural information without exploring broader support needs or creating clear support pathways. This represented missed opportunities to showcase Swinburne's comprehensive support systems and their role in student success.",
+          "priority": "High",
+          "recommended_approach": "To improve these interactions, consultants should: 1) Acknowledge specific process concerns, 2) Explain available support services comprehensively, 3) Create clear action plans for addressing administrative needs, 4) Highlight the full range of support mechanisms, and 5) Use support services as a positive enrollment differentiator."
+        },
+        {
+          "id": 6,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730769319",
+              "segment_id": "307",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 307, the student expressed significant financial concern: 'I paid $150 to apply through QTAC...That is insane.' This statement revealed underlying anxiety about educational costs and investment, presenting a crucial opportunity for collaborative financial planning.",
+          "consultant_response": "The consultant provided minimal acknowledgment with 'Yeah, that's super annoying for you' before moving to procedural next steps. This response missed the critical opportunity to engage in collaborative financial planning by not exploring available support options or discussing how various financial pathways could make the educational investment more manageable.",
+          "priority": "High",
+          "recommended_approach": "A more effective collaborative approach would begin with validating the student's financial concerns while transitioning into solution-focused planning: 'I understand your frustration about the application costs. Let's explore the financial support options available to make this investment more manageable.' The consultant should then outline available options while maintaining appropriate pre-enrollment boundaries."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 203,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.57142857142857,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 145,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.42857142857143,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.731410300223644,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 145,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 171.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.94,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.25,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 212.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.4,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 110.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.42,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Planning",
+        "explanation": "Consultants effectively guide students through program options and pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Clear guidance on managing study commitments through program flexibility and personalized scheduling options"
+      },
+      {
+        "headline": "Professional Experience Recognition",
+        "explanation": "Strategic incorporation of work experience and prior learning into program planning discussions"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Support Resource Integration",
+        "explanation": "Need for more comprehensive incorporation of available support services into planning discussions"
+      },
+      {
+        "headline": "Career Pathway Alignment",
+        "explanation": "Opportunity to better connect program elements with career goals while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Circumstance-Based Planning",
+        "explanation": "Need for deeper exploration of individual circumstances when developing personalized study approaches"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730757790",
+              "segment_id": "42",
+              "timestamp": "4:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730718395",
+                "segment_id": "38",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking accelerated educational pathways and faster qualification routes",
+          "consultant_response": "Detailed explanation of pathways and requirements: 'You start off with the first eight units... then you'll be eligible to internally course transfer into your Early Childhood and Primary Program.'",
+          "context_impact": "Clear pathway guidance crucial for building confidence in program feasibility",
+          "recommended_approach": "Could enhance with more proactive exploration of student circumstances"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821303935",
+              "segment_id": "26",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731529240",
+                "segment_id": "147",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about balancing work commitments with study requirements",
+          "consultant_response": "Clear explanation of flexibility: 'Because we are an online course, we don't require you to do any studies during business hours... you don't have to disrupt your work schedule.'",
+          "context_impact": "Work-study balance guidance essential for enrollment confidence",
+          "recommended_approach": "Could provide more specific examples of successful study patterns"
+        },
+        {
+          "id": 3,
+          "title": "Experience Recognition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626649652",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781434759",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking to leverage professional experience within program structure",
+          "consultant_response": "Strategic guidance on how industry knowledge enhances study progression while maintaining realistic expectations",
+          "context_impact": "Recognition of experience crucial for demonstrating program value",
+          "recommended_approach": "Could provide more specific examples of experience application"
+        },
+        {
+          "id": 4,
+          "title": "Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731341482",
+              "segment_id": "69",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902077445",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing anxiety about program requirements and study management",
+          "consultant_response": "Basic requirement information without comprehensive support resource integration",
+          "context_impact": "Limited support discussion potentially reducing enrollment confidence",
+          "recommended_approach": "Should incorporate available support resources while maintaining pre-enrollment boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731341482",
+              "segment_id": "106",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780767829",
+                "segment_id": "39",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on career outcomes and learning application",
+          "consultant_response": "Basic acknowledgment without strategic career-program alignment",
+          "context_impact": "Limited career guidance missing opportunity to strengthen enrollment value",
+          "recommended_approach": "Should better connect program elements to career goals while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Circumstance-Based Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627450160",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731341482",
+                "segment_id": "12",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing personal circumstances affecting study approach",
+          "consultant_response": "Basic acknowledgment without exploring impact on study approach",
+          "context_impact": "Deeper understanding needed for effective study planning",
+          "recommended_approach": "Should engage in deeper exploration of circumstances to develop tailored study plans"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730757790",
+              "segment_id": "42",
+              "timestamp": "4:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730718395",
+                "segment_id": "38",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire for accelerated educational pathways, with the primary example stating: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' Supporting examples demonstrated similar motivation for efficient qualification routes. These moments presented crucial opportunities for strategic pathway planning while maintaining appropriate expectations.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning through comprehensive pathway guidance. Primary example showed excellent balance: 'You start off with the first eight units of the teaching program itself within your Bachelor of Educational Studies. Now if you're able to complete those eight units with an average mark of 60% and you're able to pass the online CASPer test, which is a suitability quiz, then you'll be eligible to internally course transfer into your Early Childhood and Primary Program straight into the second year.' Supporting examples maintained similar skill in balancing acceleration opportunities with clear requirements.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong approach: 1) Acknowledge timeline motivation explicitly 2) Explore specific circumstances affecting pathway choice 3) Create clear action steps for progression 4) Maintain focus on enrollment while connecting to long-term goals 5) Integrate appropriate support resource awareness 6) Provide specific examples of successful pathway progression"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821303935",
+              "segment_id": "26",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731529240",
+                "segment_id": "147",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about balancing work and study commitments. Primary example: 'I'm still thinking about it, because I want to maintain my work and studies at the same time.' Supporting examples showed similar needs for strategic workload planning guidance.",
+          "consultant_response": "Consultants provided practical guidance while validating student approaches to study management. Primary example demonstrated effective explanation: 'Because we are an online course, we don't require you to do any studies during business hours... you don't have to disrupt your work schedule.' Supporting examples showed similar skill in combining specific time requirements with flexibility options.",
+          "priority": "high",
+          "recommended_approach": "This effective approach could be enhanced by: 1) Exploring specific work schedules to identify ideal study times 2) Creating sample study timetables aligned with common work patterns 3) Discussing strategies for managing peak periods 4) Mapping assignment timelines around work commitments 5) Highlighting available post-enrollment support services"
+        },
+        {
+          "id": 3,
+          "title": "Experience Recognition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626649652",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781434759",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought to understand how their professional experience could benefit their studies. Primary example: 'I already work in logistics anyway, so if there's one that's more applicable to what I already do I could probably end up whipping through it.' Supporting examples showed similar interest in leveraging industry experience.",
+          "consultant_response": "Consultants provided strategic guidance on experience integration while maintaining appropriate expectations. Examples demonstrated skill in highlighting how industry knowledge could enhance study progression without overpromising specific outcomes. This approach effectively balanced experience validation with realistic program requirements.",
+          "priority": "high",
+          "recommended_approach": "To strengthen this approach: 1) Acknowledge value of industry experience explicitly 2) Provide specific examples of how experience typically benefits similar students 3) Outline potential fast-tracking options while maintaining realistic expectations 4) Connect experience recognition to enrollment benefits 5) Create clear framework for experience application in specific units"
+        },
+        {
+          "id": 4,
+          "title": "Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731341482",
+              "segment_id": "69",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902077445",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed anxiety about program requirements and study management. Primary example showed concern about testing requirements, while supporting examples revealed uncertainties about managing academic expectations. These moments presented crucial opportunities for support resource discussion while maintaining pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically focused on stating basic requirements without effectively highlighting available support mechanisms. Responses lacked comprehensive discussion of support resources that could address student concerns while maintaining appropriate pre-enrollment scope. This approach missed opportunities to strengthen enrollment value proposition through support awareness.",
+          "priority": "high",
+          "recommended_approach": "Enhanced approach should: 1) Acknowledge concerns while maintaining appropriate boundaries 2) Highlight relevant support resources available post-enrollment 3) Create confidence through clear support framework discussion 4) Connect immediate enrollment decisions to long-term success resources 5) Provide specific examples of how support services assist similar students 6) Maintain pre-enrollment scope while building support awareness"
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731341482",
+              "segment_id": "106",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780767829",
+                "segment_id": "39",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students across calls sought clarity on career outcomes and program application. Primary example: 'Do you know roughly what's the pay rate later or no?' Supporting examples showed similar interest in understanding program relevance to career goals. These moments required balanced career discussion while maintaining enrollment focus.",
+          "consultant_response": "Consultants typically provided minimal career guidance, either deferring entirely to career counselors or offering generic acknowledgments without strategic program alignment. This approach missed opportunities to strengthen program value while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "More effective approach would: 1) Acknowledge career interests appropriately 2) Provide high-level program outcome information within boundaries 3) Connect program elements to common career paths 4) Direct detailed career questions to appropriate resources 5) Maintain focus on immediate enrollment decision while building confidence in long-term value 6) Use examples of how program content applies to typical career progression"
+        },
+        {
+          "id": 6,
+          "title": "Circumstance-Based Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627450160",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731341482",
+                "segment_id": "12",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant personal circumstances affecting their study approach. Primary example disclosed previous university withdrawal: 'I did go to Federation University a little bit, but then I like dropped out of it because it was a bit too much just straight after school.' Supporting example expressed concerns about managing study with childcare responsibilities.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring how circumstances could impact study approach or developing tailored solutions. This limited engagement missed opportunities to create confidence through personalized planning while maintaining appropriate pre-enrollment scope.",
+          "priority": "high",
+          "recommended_approach": "Enhanced approach should: 1) Acknowledge importance of personal circumstances 2) Explore specific impacts on study approach 3) Discuss how program flexibility accommodates various situations 4) Create preliminary study plans accounting for individual circumstances 5) Maintain pre-enrollment boundaries while building confidence through personalized planning 6) Share examples of how similar students successfully manage comparable circumstances"
+        }
+      ]
+    }
+  }
+}

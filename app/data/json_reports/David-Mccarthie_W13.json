@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 229,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 73,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.877729257641924,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 156,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.12227074235808,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.76162723391333,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 156,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 235.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 121.42,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 168.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.55,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 198.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.19,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Management Integration",
+        "explanation": "Consultants effectively align educational pathways with students' work-life circumstances while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Career-Aligned Educational Planning",
+        "explanation": "Clear demonstration of how educational pathways support career objectives while respecting pre-enrollment scope"
+      },
+      {
+        "headline": "Proactive Support System Navigation",
+        "explanation": "Strong communication of available support resources while setting appropriate expectations for different stages"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Timeline Planning",
+        "explanation": "Need for more detailed completion pathways with clear milestones when addressing program duration concerns"
+      },
+      {
+        "headline": "Comprehensive Background Integration",
+        "explanation": "Required deeper exploration of students' prior experiences to inform personalized pathway planning"
+      },
+      {
+        "headline": "Alternative Pathway Exploration",
+        "explanation": "More thorough discussion needed when exploring alternative options for students facing constraints"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Duration Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626942798",
+              "segment_id": "48",
+              "timestamp": "46:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about four-year program duration",
+          "consultant_response": "Simply stated: 'It's a four-year bachelor's degree regardless unfortunately'",
+          "context_impact": "Missed opportunity to explore flexible completion options damaged program appeal",
+          "recommended_approach": "Should explore flexible study loads and potential credit opportunities"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Background Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781309401",
+              "segment_id": "122",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820576326",
+                "segment_id": "82",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing significant educational and professional backgrounds",
+          "consultant_response": "Basic acknowledgment without exploring implications for study planning",
+          "context_impact": "Missed opportunities to leverage experience for pathway planning",
+          "recommended_approach": "Should explore specific relevance of past experience"
+        },
+        {
+          "id": 6,
+          "title": "Limited Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821277383",
+              "segment_id": "79",
+              "timestamp": "02:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626942798",
+                "segment_id": "48",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students considering alternative programs or institutions",
+          "consultant_response": "Provided minimal responses without exploring student decision criteria",
+          "context_impact": "Missed opportunities to highlight program benefits and explore decision factors",
+          "recommended_approach": "Should explore specific decision factors and discuss relevant program benefits"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Personal Circumstance Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821277383",
+              "segment_id": "23",
+              "timestamp": "23:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 23, the student revealed personal circumstances affecting their study decisions: 'I'm just writing this down because just these little bits and pieces is going to help make my decision to be able to cater for my wife is at the moment as well and to try to fit this in.' This statement demonstrated their need to carefully balance study commitments with personal responsibilities.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by responding: 'So it does give you that ability to go a little bit quicker if you wanted to but you can choose to start with one unit as well depending on what's going on in life there at the time you can always drop down.' This response effectively acknowledged the student's circumstances while presenting flexible study options that could accommodate their needs.",
+          "priority": "high",
+          "recommended_approach": "The consultant's handling serves as a model for collaborative planning. Future interactions could be enhanced by: 1) Documenting specific circumstances to inform future interactions, 2) Setting clear expectations about study load adjustment processes, and 3) Highlighting support services available for managing study-life balance."
+        },
+        {
+          "id": 2,
+          "title": "Career Pathway Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675747416",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666442269",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific career objectives requiring targeted educational pathways. The primary example demonstrated clear career focus: 'I wanted to work with counseling like domestic violence victims.' Supporting examples showed similar need for career-aligned education planning, presenting critical opportunities for meaningful pathway discussions while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants effectively connected educational pathways to career goals while maintaining appropriate role scope. The primary response demonstrated this balance: 'So this one can definitely help you with that... it's got career pathways of becoming like behavioral therapist and those kind of things.' This approach provided relevant guidance while appropriately deferring detailed career planning to post-enrollment support.",
+          "priority": "high",
+          "recommended_approach": "To maintain this effective approach while respecting role boundaries: 1) Acknowledge specific career goals, 2) Connect program outcomes to career objectives, 3) Highlight relevant course components, 4) Reference post-enrollment career support services, and 5) Maintain focus on educational pathway planning while avoiding detailed career guidance."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Credit Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626983394",
+              "segment_id": "51",
+              "timestamp": "35:36"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730947558",
+                "segment_id": "8",
+                "timestamp": "00:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought recognition of prior learning, with one stating 'I want to transfer back into the criminology and criminal justice and finish that' and another sharing 'I have some prior learning, and so I've sent someone all of my records.' These inquiries required clear guidance while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants consistently demonstrated effective collaborative planning in credit discussions, maintaining appropriate boundaries while providing clear guidance about the credit recognition process. They effectively balanced setting realistic expectations with encouraging progression through the credit assessment process.",
+          "priority": "high",
+          "recommended_approach": "While credit transfer discussions were handled effectively, consultants could enhance interactions by: 1) Outlining specific steps in the credit assessment process, 2) Setting clear expectations about timeframes, 3) Explaining how transferred credits affect study plans, and 4) Documenting credit discussions for future reference."
+        },
+        {
+          "id": 4,
+          "title": "Limited Duration Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626942798",
+              "segment_id": "48",
+              "timestamp": "46:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about program duration: 'Oh, I thought it was three years because I'm not doing primary school. I'm only doing the kinder teaching.' This statement revealed both a misunderstanding about program requirements and potential barrier to enrollment that required careful collaborative planning.",
+          "consultant_response": "The consultant provided an overly simplistic response without exploring options: 'It's a four-year bachelor's degree regardless unfortunately.' This approach missed critical opportunities to discuss flexible completion pathways, credit opportunities, or ways to manage the timeline effectively.",
+          "priority": "high",
+          "recommended_approach": "A more effective collaborative planning approach would: 1) Acknowledge duration concerns empathetically, 2) Explore flexible study load options, 3) Discuss potential credit opportunities, 4) Create personalized completion timeline scenarios, 5) Highlight support services for managing longer-term study commitments, and 6) Frame the timeline in context of career investment value."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Background Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781309401",
+              "segment_id": "122",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820576326",
+                "segment_id": "82",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant background information about their educational and professional experiences, with statements like 'I left school in year 10. I went straight into work.' These disclosures presented valuable opportunities for personalized pathway planning that were not fully utilized.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring implications or developing comprehensive plans. This approach missed opportunities to leverage experience for educational planning or address potential concerns about academic transition. Responses often failed to connect past experience to current educational opportunities.",
+          "priority": "high",
+          "recommended_approach": "To enhance background exploration and collaborative planning: 1) Acknowledge value of professional experience, 2) Explore specific skills developed through work, 3) Discuss recognition of prior learning possibilities, 4) Address potential academic transition concerns, 5) Create pathway plans that build on existing experience while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Limited Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821277383",
+              "segment_id": "79",
+              "timestamp": "02:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626942798",
+                "segment_id": "48",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students mentioned considering alternative programs or institutions, presenting crucial opportunities to explore decision factors and demonstrate program value through collaborative planning discussions.",
+          "consultant_response": "Consultants provided minimal responses without exploring student decision criteria or engaging in meaningful discussion about program benefits and alignment with student goals. This approach missed opportunities to understand and address student concerns through collaborative planning.",
+          "priority": "high",
+          "recommended_approach": "Enhance alternative pathway discussions by: 1) Actively exploring specific decision factors, 2) Discussing how program features address student priorities, 3) Highlighting relevant program benefits, 4) Creating side-by-side comparisons when appropriate, 5) Developing collaborative plans that acknowledge student concerns while demonstrating program value."
+        }
+      ]
+    }
+  }
+}

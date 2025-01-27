@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 293,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 76,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.938566552901023,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 217,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.06143344709898,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.957915693105654,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 217,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 124.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.05,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 119.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.77,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Planning",
+        "explanation": "Consultants effectively guide students through clear qualification pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Flexible Study Load Management",
+        "explanation": "Strong ability to tailor study load recommendations to individual circumstances while respecting support service boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective balance of immediate guidance with appropriate referrals to post-enrollment support services"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Work-Life Integration",
+        "explanation": "Greater emphasis needed on exploring how program flexibility accommodates work and family commitments"
+      },
+      {
+        "headline": "Strengthened Support Communication",
+        "explanation": "More comprehensive discussion needed of available support services while maintaining pre-enrollment boundaries"
+      },
+      {
+        "headline": "Deeper Personal Context Integration",
+        "explanation": "More thorough incorporation needed of student circumstances when discussing educational pathways"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907766337",
+              "segment_id": "27",
+              "timestamp": "02:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed goal to become primary school teacher, seeking guidance on pathway requirements.",
+          "consultant_response": "Provided structured guidance: 'If Cert IV is your highest education, you'll need to complete first eight units in Bachelor of Educational Studies, achieve 60% average.'",
+          "context_impact": "Clear articulation of pathway requirements crucial for student confidence.",
+          "recommended_approach": "None needed - excellent pathway guidance within role boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554341834",
+              "segment_id": "152",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902151077",
+                "segment_id": "101",
+                "timestamp": "8:15"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing preference for measured approach to course load based on circumstances.",
+          "consultant_response": "Provided structured options while maintaining flexibility: 'If you want to start with two units that's a good way to start... if you want to be full-time you need eight units per year.'",
+          "context_impact": "Clear study load guidance crucial for enrollment confidence.",
+          "recommended_approach": "Could enhance with specific support service information"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901874076",
+              "segment_id": "14",
+              "timestamp": "1:24"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666123373",
+                "segment_id": "4",
+                "timestamp": "00:18"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on enrollment process and available support.",
+          "consultant_response": "Outlined process steps while highlighting support services: 'What we're going to do today is ask questions to fill in your enrollment form, then go over terms and conditions.'",
+          "context_impact": "Clear support guidance essential for enrollment confidence.",
+          "recommended_approach": "Could strengthen with more specific support examples"
+        },
+        {
+          "id": 4,
+          "title": "Limited Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666538373",
+              "segment_id": "252",
+              "timestamp": "41:55"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666538373",
+                "segment_id": "254",
+                "timestamp": "42:15"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concern about balancing study with work commitments.",
+          "consultant_response": "Basic acknowledgment without exploring specific options: 'We have supports in place for students balancing work and study.'",
+          "context_impact": "Insufficient exploration of flexible options may reduce enrollment confidence.",
+          "recommended_approach": "Should explore specific flexible study options while maintaining boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Limited Life Balance Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902248328",
+              "segment_id": "121",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed concerns about balancing study with family commitments.",
+          "consultant_response": "Provided basic flexibility information without exploring specific scheduling needs.",
+          "context_impact": "Insufficient exploration of program flexibility impact on life balance.",
+          "recommended_approach": "Should discuss program features supporting work-life balance"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820874644",
+              "segment_id": "29",
+              "timestamp": "2:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666468619",
+                "segment_id": "96",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students disclosed personal circumstances affecting study decisions.",
+          "consultant_response": "Focused on technical requirements without addressing personal context.",
+          "context_impact": "Missed opportunity to demonstrate understanding while maintaining boundaries.",
+          "recommended_approach": "Should acknowledge circumstances while maintaining appropriate focus"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907766337",
+              "segment_id": "27",
+              "timestamp": "02:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 27, the student expressed clear career aspirations: 'I want to become a primary school teacher.' This statement revealed both immediate educational needs and future career goals, presenting a crucial opportunity for collaborative planning that could significantly impact enrollment decisions.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by providing clear, structured guidance: 'If Cert IV is your highest education, you'll need to complete the first eight units in the Bachelor of Educational Studies, achieve a 60% grade average, and pass the CASPer assessment.' This approach effectively balanced providing specific requirements while maintaining appropriate boundaries around career guidance.",
+          "priority": "High",
+          "recommended_approach": "While maintaining strong role boundaries, consultants should: 1) Acknowledge the career goal and validate the educational pathway choice 2) Provide high-level overview of program alignment with teaching career goals 3) Mention post-enrollment career support services 4) Create clear action steps for enrollment progression."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554341834",
+              "segment_id": "152",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902151077",
+                "segment_id": "101",
+                "timestamp": "8:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated thoughtful consideration of study load management. Primary example: 'I will maybe start slow and see how it goes.' Supporting examples showed similar careful consideration of work-life balance and academic success factors.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by providing clear, structured options while maintaining flexibility. Primary example: 'If you want to start with two units that's a good way to start... if you want to be a full-time student you've got to take eight units per year.' Supporting examples showed consistent validation of measured approaches while maintaining enrollment momentum.",
+          "priority": "High",
+          "recommended_approach": "While maintaining strong current practice, consultants should: 1) Explore specific circumstances affecting study capacity 2) Discuss available support services for different study loads 3) Create clear progression milestones 4) Set review checkpoints 5) Provide examples of successful load management strategies."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901874076",
+              "segment_id": "14",
+              "timestamp": "1:24"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666123373",
+                "segment_id": "4",
+                "timestamp": "00:18"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on process steps and available support. Primary example: 'Yeah, I just wanted to finish off the enrolment process please.' Supporting examples showed similar needs for understanding support mechanisms.",
+          "consultant_response": "Consultants consistently demonstrated effective support integration while maintaining appropriate boundaries. Primary example: 'So what we're going to do today is I'm going to ask you some questions just to fill in your enrolment form. Then we're going to go over the terms and conditions.' Supporting examples showed similar clarity in process explanation while highlighting relevant support services.",
+          "priority": "High",
+          "recommended_approach": "While maintaining strong current practice, consultants should: 1) Provide more specific support service examples 2) Create clearer connections between immediate needs and available support 3) Set explicit expectations about support transitions 4) Maintain clear pre-enrollment boundaries 5) Document support discussions for smooth handover."
+        },
+        {
+          "id": 4,
+          "title": "Limited Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666538373",
+              "segment_id": "252",
+              "timestamp": "41:55"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666538373",
+                "segment_id": "254",
+                "timestamp": "42:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concern about managing study alongside work commitments. Primary example: 'I want to advance my career but I'm worried about balancing study with my current role.' Supporting examples showed similar needs for work-study balance guidance.",
+          "consultant_response": "Consultants provided only basic acknowledgment without exploring specific options. Primary example: 'We have supports in place for students balancing work and study.' Supporting examples showed similar missed opportunities for meaningful discussion of flexible options.",
+          "priority": "High",
+          "recommended_approach": "While maintaining pre-enrollment boundaries, consultants should: 1) Explore specific flexible study options 2) Provide overview of relevant support services 3) Share examples of successful work-study arrangements 4) Create clear expectations about support availability 5) Focus on enrollment-relevant aspects of work-study balance."
+        },
+        {
+          "id": 5,
+          "title": "Limited Life Balance Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902248328",
+              "segment_id": "121",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed significant concerns about balancing study with existing commitments. Primary example stated: 'It'll be part-time because I'm working and I've got five kids.' These statements revealed crucial needs for understanding how program flexibility could accommodate complex life circumstances.",
+          "consultant_response": "Consultants typically provided basic flexibility information without thoroughly exploring how program features could support work-life balance. Responses focused on simple statements about part-time options without demonstrating understanding of specific scheduling needs or explaining available support mechanisms.",
+          "priority": "High",
+          "recommended_approach": "While maintaining enrollment focus, consultants should: 1) Acknowledge the challenge of balancing multiple commitments 2) Explain specific program features supporting work-life balance 3) Provide examples of successful study patterns 4) Highlight availability of study support services 5) Create clear action steps for enrollment progression."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820874644",
+              "segment_id": "29",
+              "timestamp": "2:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666468619",
+                "segment_id": "96",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students disclosed personal circumstances affecting study decisions. Primary example: 'I started a diploma but I didn't end up finishing it, just things sort of got in the way.' Supporting examples showed similar needs for acknowledgment of personal context.",
+          "consultant_response": "Consultants focused primarily on technical requirements without addressing personal context. Primary example: 'Well look, that should be enough to get you into the course as long as your English score is high enough.' Supporting examples showed similar missed opportunities for empathetic engagement while maintaining boundaries.",
+          "priority": "High",
+          "recommended_approach": "While maintaining pre-enrollment boundaries, consultants should: 1) Acknowledge personal circumstances appropriately 2) Connect circumstances to relevant support services 3) Focus on enrollment-relevant aspects of personal context 4) Create clear expectations about post-enrollment support 5) Document context appropriately for support handover."
+        }
+      ]
+    }
+  }
+}

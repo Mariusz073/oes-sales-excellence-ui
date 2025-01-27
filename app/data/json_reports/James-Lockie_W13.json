@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "consultant_name": "James Lockie",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 321,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 41,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 12.77258566978193,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 280,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 87.22741433021807,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 58.97871754063184,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 280,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.95,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 14.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 50.78,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.23,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 115.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 85.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.48,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Professional Experience Integration",
+        "explanation": "Effectively leveraging student work experience to create personalized educational pathways aligned with career goals"
+      },
+      {
+        "headline": "Flexible Study Planning",
+        "explanation": "Successfully adapting program timelines and study arrangements to accommodate student circumstances while maintaining momentum"
+      },
+      {
+        "headline": "Support Resource Navigation",
+        "explanation": "Proactive connection of students with relevant support services while maintaining appropriate enrollment focus"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Financial Planning Depth",
+        "explanation": "Need for more comprehensive exploration of funding options and payment strategies during enrollment discussions"
+      },
+      {
+        "headline": "Work-Study Balance Strategy",
+        "explanation": "Enhanced discussion needed on managing study commitments alongside professional and personal obligations"
+      },
+      {
+        "headline": "Career Pathway Alignment",
+        "explanation": "More thorough exploration required of how educational pathways support specific career objectives"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820771873",
+              "segment_id": "20",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627308392",
+                "segment_id": "28",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concern about lacking formal qualifications while having relevant professional experience",
+          "consultant_response": "Consultants effectively validated professional experience while outlining alternative entry pathways: 'Based on what you told me, you should be fine to get in via CV.'",
+          "context_impact": "Clear validation of experience while establishing viable pathways maintained student confidence",
+          "recommended_approach": "Could enhance by providing more specific examples of successful transitions"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676199534",
+              "segment_id": "126",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780775583",
+                "segment_id": "45",
+                "timestamp": "3:17"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing timing concerns due to work and family commitments",
+          "consultant_response": "Clear presentation of multiple intake options and timeline flexibility while preserving engagement: 'We've got March, May, July, August and October... the offer's there for you.'",
+          "context_impact": "Maintaining enrollment momentum while respecting student circumstances",
+          "recommended_approach": "Could provide more detailed study load management strategies"
+        },
+        {
+          "id": 3,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554519277",
+              "segment_id": "69",
+              "timestamp": "09:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressing interest in technical program with existing field experience",
+          "consultant_response": "Proactive introduction of relevant academic support: 'we also have a dedicated shooting coach for computer science students just to help be on your way. It's free, probably worth doing.'",
+          "context_impact": "Enhanced program value proposition through targeted support services",
+          "recommended_approach": "Could outline more specific support service benefits"
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676169566",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554519277",
+                "segment_id": "82",
+                "timestamp": "05:22"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing financial concerns: 'I actually applied for the student loan which wasn't approved by the bank... looking for other universities which were offering... lesser fee.'",
+          "consultant_response": "Basic mention of FEE-HELP without comprehensive exploration of options",
+          "context_impact": "Limited financial planning discussion affecting enrollment confidence",
+          "recommended_approach": "Should provide detailed exploration of financial support options and payment strategies"
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780665867",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675853835",
+                "segment_id": "29",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing work commitments with study: 'I'm just worried I'm going to fall behind?'",
+          "consultant_response": "Limited acknowledgment without detailed discussion: 'That's a big chunk isn't it? But still up to you like you can always have a try and then defer.'",
+          "context_impact": "Insufficient exploration of flexible study options impacting confidence",
+          "recommended_approach": "Provide comprehensive exploration of flexible study options and support mechanisms"
+        },
+        {
+          "id": 6,
+          "title": "Career Pathway Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627308392",
+              "segment_id": "16",
+              "timestamp": "01:26"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626737550",
+                "segment_id": "18",
+                "timestamp": "02:12"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking understanding of program alignment with career goals",
+          "consultant_response": "Focus on basic information without strategic career pathway exploration",
+          "context_impact": "Missed opportunity to deeply explore educational-career alignment",
+          "recommended_approach": "Implement structured exploration of educational pathways supporting career objectives"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820771873",
+              "segment_id": "20",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627308392",
+                "segment_id": "28",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concern about lacking formal qualifications while possessing relevant professional experience. Primary example: 'Well the reason I'm looking at a grad cert is purely because I don't have an actual prior degree.' This presented a critical opportunity for collaborative planning to establish viable pathways while validating existing experience.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by effectively validating professional experience while outlining clear alternative pathways. Key response: 'We can look at getting in via CV and which would be fine. Based on what you told me, you should be fine to get in via CV.' This approach successfully validated experience while maintaining focus on academic progression.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice: 1) Create detailed skill translation maps between current and target roles, 2) Provide specific industry requirement breakdowns, 3) Share examples of successful transitions through similar pathways, 4) Develop clear timelines with educational milestones, and 5) Maintain strong validation of professional experience throughout the process."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676199534",
+              "segment_id": "126",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780775583",
+                "segment_id": "45",
+                "timestamp": "3:17"
+              }
+            ]
+          },
+          "student_trigger": "Students consistently expressed timing concerns related to work and family commitments. Key example: 'I've just got a couple of things going on at the moment.' This highlighted the need for flexible planning while maintaining enrollment momentum.",
+          "consultant_response": "Consultants effectively managed timeline flexibility while preserving engagement: 'We've got March, May, July, August and October... the offer's there for you, it's not going away.' This approach successfully balanced respect for student circumstances with maintaining clear paths to enrollment.",
+          "priority": "high",
+          "recommended_approach": "While maintaining strong timeline flexibility, enhance by: 1) Discussing specific study load options, 2) Creating detailed study management strategies, 3) Exploring support services available at different study intensities, 4) Establishing clear check-in points, and 5) Developing comprehensive study planning frameworks."
+        },
+        {
+          "id": 3,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554519277",
+              "segment_id": "69",
+              "timestamp": "09:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest in cybersecurity specialization while currently working in the field, creating an opportunity to enhance program value through relevant support services.",
+          "consultant_response": "Consultant demonstrated excellent judgment by proactively introducing dedicated support: 'we also have a dedicated shooting coach for computer science students just to help be on your way. It's free, probably worth doing.' This showed foresight in addressing potential academic needs while maintaining appropriate enrollment focus.",
+          "priority": "high",
+          "recommended_approach": "Further strengthen this approach by: 1) Outlining specific support service benefits, 2) Creating clear support timelines, 3) Explaining how services enhance academic success, 4) Maintaining appropriate boundaries between sales and support roles, and 5) Using support services to reinforce program value proposition."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676169566",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554519277",
+                "segment_id": "82",
+                "timestamp": "05:22"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant financial concerns, with one stating: 'I actually applied for the student loan which wasn't approved by the bank... looking for other universities which were offering... lesser fee.' This indicated critical need for comprehensive financial planning support.",
+          "consultant_response": "Consultants provided minimal financial guidance, focusing on basic FEE-HELP mentions without exploring comprehensive options or creating detailed financial plans. This approach failed to address underlying financial concerns or build confidence in managing educational investments.",
+          "priority": "high",
+          "recommended_approach": "To improve financial planning discussions: 1) Acknowledge and validate financial concerns, 2) Explore all available support options including FEE-HELP and payment plans, 3) Provide specific guidance on financial assistance programs, 4) Create preliminary financial planning frameworks, 5) Connect with relevant financial support services, and 6) Ensure students understand all available options before proceeding."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780665867",
+              "segment_id": "23",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675853835",
+                "segment_id": "29",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing work commitments with study requirements. Key example: 'I'm just worried I'm going to fall behind?' This revealed anxiety about balancing professional and educational commitments.",
+          "consultant_response": "Consultants provided limited acknowledgment without engaging in detailed planning: 'That's a big chunk isn't it? But still up to you like you can always have a try and then defer if you want to.' This approach missed opportunities to create comprehensive management strategies.",
+          "priority": "high",
+          "recommended_approach": "To enhance work-study balance planning: 1) Explore specific work patterns and scheduling needs, 2) Present flexible study options and time management strategies, 3) Discuss available support systems and resources, 4) Share examples of successful students in similar situations, 5) Create preliminary frameworks for managing commitments effectively, and 6) Establish clear check-points for progress monitoring."
+        },
+        {
+          "id": 6,
+          "title": "Career Pathway Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627308392",
+              "segment_id": "16",
+              "timestamp": "01:26"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626737550",
+                "segment_id": "18",
+                "timestamp": "02:12"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought comprehensive understanding of how educational pathways would support career objectives. Key example: 'I just want to understand you know if I can study and if I do what can I study and how much it would cost and you know can it be done online.'",
+          "consultant_response": "Consultants focused primarily on providing factual information without engaging in strategic exploration of career alignment and progression pathways. This approach missed opportunities to create meaningful connections between educational choices and career objectives.",
+          "priority": "high",
+          "recommended_approach": "To improve career pathway alignment: 1) Begin with thorough exploration of career goals and aspirations, 2) Create clear connections between course components and career objectives, 3) Discuss how different specializations support specific career paths, 4) Provide examples of successful career transitions through similar pathways, 5) Develop comprehensive career progression frameworks, and 6) Maintain focus on long-term career impact while addressing immediate enrollment needs."
+        }
+      ]
+    }
+  }
+}

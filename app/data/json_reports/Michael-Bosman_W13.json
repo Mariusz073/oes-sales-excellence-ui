@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 342,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 36,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 10.526315789473683,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 306,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 89.47368421052632,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.08801037531742,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 306,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 118.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.65,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Academic Planning",
+        "explanation": "Consultants effectively guide students through educational pathways while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Clear connection to relevant support resources while respecting pre-enrollment scope"
+      },
+      {
+        "headline": "Flexible Study Guidance",
+        "explanation": "Strong demonstration of program adaptability options aligned with student circumstances"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Personal Context Integration",
+        "explanation": "Need for deeper incorporation of student circumstances and goals in planning discussions"
+      },
+      {
+        "headline": "Career Goal Exploration",
+        "explanation": "Opportunity to better align educational pathways with professional objectives"
+      },
+      {
+        "headline": "Support Service Connection",
+        "explanation": "More comprehensive integration of support services into planning discussions needed"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Academic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731375312",
+              "segment_id": "19",
+              "timestamp": "1:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666068912",
+                "segment_id": "39",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking guidance on academic progression pathways, including Graduate Diploma to Masters transitions",
+          "consultant_response": "Consultants effectively confirmed progression opportunities while providing clear next steps",
+          "context_impact": "Successfully validated academic pathways while maintaining appropriate pre-enrollment boundaries",
+          "recommended_approach": "Could explore specific preparation requirements in more detail while maintaining scope"
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Support Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626646389",
+              "segment_id": "84",
+              "timestamp": "12:43"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627438775",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on financial options including scholarships and FEE-HELP",
+          "consultant_response": "Effectively acknowledged specific financial plans while introducing additional support options",
+          "context_impact": "Enhanced enrollment confidence through clear financial planning support",
+          "recommended_approach": "Could provide more comprehensive overview of available financial support services"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Study Flexibility Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902474383",
+              "segment_id": "36",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730714730",
+                "segment_id": "62",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Working professionals expressing concern about managing study commitments",
+          "consultant_response": "Clear explanation of flexible study options and support mechanisms",
+          "context_impact": "Critical demonstration of program feasibility for working students",
+          "recommended_approach": "Could explore specific scheduling strategies in more detail"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627521194",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731037498",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students referencing previous conversations and specific circumstances",
+          "consultant_response": "Generic responses without incorporating previous context",
+          "context_impact": "Missed opportunities for personalized planning experiences",
+          "recommended_approach": "Should actively reference previous discussions and use gathered context to personalize planning"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Career Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781342258",
+              "segment_id": "53",
+              "timestamp": "03:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666068912",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students indicating career change motivations",
+          "consultant_response": "Basic administrative focus without exploring career motivations",
+          "context_impact": "Missed opportunities to strengthen enrollment through career alignment",
+          "recommended_approach": "Should explore specific career goals and demonstrate program alignment"
+        },
+        {
+          "id": 6,
+          "title": "Limited Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675821080",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554300360",
+                "segment_id": "33",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students requiring specialized support services",
+          "consultant_response": "Basic referrals without ensuring proper support connection",
+          "context_impact": "Insufficient connection to relevant support services reduced enrollment confidence",
+          "recommended_approach": "Should provide comprehensive overview of available support while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Academic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731375312",
+              "segment_id": "19",
+              "timestamp": "1:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666068912",
+                "segment_id": "39",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated clear academic progression goals. Primary example: 'I just finished the Graduate Diploma in Psychology. So I'm planning to do the Advanced one, just to prepare myself to do a Masters.' Supporting examples showed similar desire for clear academic pathways and progression planning.",
+          "consultant_response": "Consultants effectively validated academic pathways while maintaining appropriate pre-enrollment boundaries. Primary response: 'Okay, excellent. So I'll definitely be able to go through that and then we should be able to get you enrolled.' Supporting responses similarly confirmed progression opportunities while providing clear next steps for enrollment.",
+          "priority": "high",
+          "recommended_approach": "To enhance these interactions: 1) Validate academic goals while maintaining pre-enrollment scope, 2) Outline specific preparation benefits of chosen pathways, 3) Create clear progression plans with defined milestones, 4) Direct to appropriate resources for detailed planning support."
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Support Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626646389",
+              "segment_id": "84",
+              "timestamp": "12:43"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627438775",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students actively sought guidance on various financial options. Primary example discussed Royal Children's Relief scholarship opportunity, while supporting examples focused on understanding FEE-HELP processes and payment arrangements. These interactions demonstrated strong student initiative in financial planning.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by acknowledging specific financial plans while introducing additional support options. Responses maintained appropriate professional boundaries while providing clear guidance on financial pathways and next steps.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach: 1) Acknowledge specific financial plans and validate student initiative, 2) Introduce additional relevant options and support mechanisms, 3) Direct to appropriate resources for detailed information, 4) Maintain clear professional boundaries throughout financial discussions."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Study Flexibility Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902474383",
+              "segment_id": "36",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730714730",
+                "segment_id": "62",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Working professionals expressed significant concerns about managing study commitments. Primary example came from teaching professional with four-day work week, while supporting examples demonstrated similar work-study balance concerns from various industries.",
+          "consultant_response": "Consultants provided clear explanation of flexible arrangements: '15-25 hours weekly, after-hours classes available, recorded lectures for convenient viewing.' Supporting responses similarly highlighted program adaptability and support mechanisms for working students.",
+          "priority": "high",
+          "recommended_approach": "Further enhance flexibility discussions by: 1) Exploring specific scheduling needs and constraints, 2) Providing concrete examples of successful work-study arrangements, 3) Discussing available support mechanisms for working students, 4) Creating preliminary study plans aligned with work commitments while maintaining appropriate scope."
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627521194",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731037498",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students explicitly referenced previous conversations and specific circumstances requiring personalized planning approaches. These interactions presented clear opportunities to demonstrate relationship continuity and personalized support.",
+          "consultant_response": "Consultants consistently missed opportunities to leverage existing relationship context, providing generic responses without acknowledging previous interactions or using gathered information to personalize the planning process. This reduced the effectiveness of collaborative planning efforts.",
+          "priority": "high",
+          "recommended_approach": "Enhance personal context integration by: 1) Actively acknowledging and referencing previous conversations, 2) Using gathered context to personalize planning discussions, 3) Maintaining detailed notes about student preferences and concerns, 4) Creating stronger connections between past discussions and current planning needs, 5) Demonstrating consistent relationship continuity throughout the planning process."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Career Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594781342258",
+              "segment_id": "53",
+              "timestamp": "03:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666068912",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students indicated career change motivations for pursuing study. Primary example showed psychology study as part of career transition, while supporting examples demonstrated similar career development objectives.",
+          "consultant_response": "Consultants focused primarily on administrative details without exploring career motivations or demonstrating how programs could align with and support professional goals. This missed valuable opportunities to strengthen enrollment through career alignment.",
+          "priority": "high",
+          "recommended_approach": "Enhance career goal exploration by: 1) Exploring specific career objectives and motivations, 2) Demonstrating clear program alignment with professional goals, 3) Discussing relevant career transition pathways and timelines, 4) Connecting program features to career development objectives while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Limited Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675821080",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554300360",
+                "segment_id": "33",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated clear need for specialized support services during the enrollment process. These situations required careful balance between addressing immediate concerns and maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants provided basic administrative responses without comprehensive support service integration. Responses focused on simple referrals without ensuring proper support connection or maintaining student engagement through the process.",
+          "priority": "high",
+          "recommended_approach": "Improve support service integration by: 1) Acknowledging specific support needs while maintaining appropriate boundaries, 2) Providing clear overview of available support services and access procedures, 3) Ensuring smooth connection to appropriate resources, 4) Maintaining engagement during referral process, 5) Following up to confirm successful support connection while staying within pre-enrollment scope."
+        }
+      ]
+    }
+  }
+}

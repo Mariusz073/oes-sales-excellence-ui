@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "consultant_name": "Sebastian Saunders",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 226,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 82,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 36.283185840707965,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 144,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 63.716814159292035,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.99388593933116,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 144,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 124.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.68,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 131.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 166.1,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.95,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Work-Study Integration",
+        "explanation": "Effectively demonstrating program flexibility while validating student work commitments through tailored study planning"
+      },
+      {
+        "headline": "Recognition Process Navigation",
+        "explanation": "Clear guidance through recognition of prior learning processes while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Flexible Timeline Management",
+        "explanation": "Successfully adapting program timelines and progression options to match student's personal and professional circumstances"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Goal Integration",
+        "explanation": "Need for deeper alignment of program features with students' expressed career aspirations while maintaining role boundaries"
+      },
+      {
+        "headline": "Initial Context Exploration",
+        "explanation": "Opportunity to enhance early conversation depth through proactive exploration of student circumstances and objectives"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "More comprehensive discussion needed of available support mechanisms while maintaining pre-enrollment focus"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731296515",
+              "segment_id": "204",
+              "timestamp": "21:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student working Monday-Friday (9:00-3:15) sought clarity on managing full-time work with study commitments.",
+          "consultant_response": "Provided precise part-time study requirements: '16-20 hours study for two units every teaching period' with clear timeline over 'eight teaching periods'.",
+          "context_impact": "Clear demonstration of program flexibility crucial for enabling confident enrollment decision.",
+          "recommended_approach": "None needed - excellent balance of practical detail and role boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Effective Recognition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675978277",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626850716",
+                "segment_id": "34",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking to transfer from offline to online study while maintaining academic progress.",
+          "consultant_response": "Clear confirmation of credit options: 'Seven units that we can offer recognition for, which is the number of units that you'd passed previously through campus.'",
+          "context_impact": "Recognition of prior learning crucial for maintaining enrollment momentum during transition.",
+          "recommended_approach": "None needed - exemplary handling of recognition process within role boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Flexible Timeline Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902468580",
+              "segment_id": "44",
+              "timestamp": "15:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated extended program consideration period of 6-12 months.",
+          "consultant_response": "Effectively proposed extended duration options: 'Yeah, great, so more like two years then?' with flexible study load discussion.",
+          "context_impact": "Response validated student's careful approach while maintaining enrollment focus.",
+          "recommended_approach": "None needed - excellent validation of student's thoughtful planning approach"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627187799",
+              "segment_id": "102",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666524281",
+                "segment_id": "95",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing specific career change motivations and professional aspirations.",
+          "consultant_response": "Basic acknowledgment without exploring relevant program-career connections: 'Yeah, fantastic. Absolutely, I can see the motivation there.'",
+          "context_impact": "Missed opportunities to demonstrate program alignment with career goals.",
+          "recommended_approach": "Should demonstrate program alignment with career goals while maintaining role boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Limited Initial Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902468580",
+              "segment_id": "9",
+              "timestamp": "4:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student provided basic response: 'Oh yeah, I'm good,' presenting opportunity for deeper discussion.",
+          "consultant_response": "Basic acknowledgment without probing deeper into objectives and circumstances.",
+          "context_impact": "Missed opportunity to establish clear understanding of student's goals early in conversation.",
+          "recommended_approach": "Should use open-ended questions to explore educational goals and specific needs"
+        },
+        {
+          "id": 6,
+          "title": "Basic Support Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902468580",
+              "segment_id": "8",
+              "timestamp": "3:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student showed interest in understanding program requirements and structure.",
+          "consultant_response": "Focused on basic eligibility without discussing available support mechanisms.",
+          "context_impact": "Limited exploration of how support services could enhance study success.",
+          "recommended_approach": "Should outline comprehensive support services while maintaining pre-enrollment focus"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Work-Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731296515",
+              "segment_id": "204",
+              "timestamp": "21:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student provided specific work commitments: 'I do work Monday to Friday in a primary school from nine till 3.15?' This detailed schedule information presented an ideal opportunity for collaborative planning to demonstrate how the program could accommodate their professional commitments while maintaining academic progress.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by providing a detailed, structured part-time study solution: 'So if we were to assume that you were to do it at a part-time basis, so that's two units every teaching period, we recommend 16 to 20 hours of study for that every week. That would take you eight teaching periods... So we run three teaching periods a year. So that would take you about a year and two teaching periods.' This response effectively broke down study requirements into manageable components while providing a realistic timeline that acknowledged the student's work commitments.",
+          "priority": "high",
+          "recommended_approach": "This interaction represents best practice in collaborative planning. To maintain excellence: 1) Continue providing specific time commitments for study loads, 2) Break down program duration into clear teaching periods, 3) Demonstrate flexibility in study arrangements, 4) Create clear connections between work schedules and study options, and 5) Maintain focus on enrollment-relevant planning aspects."
+        },
+        {
+          "id": 2,
+          "title": "Effective Recognition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675978277",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626850716",
+                "segment_id": "34",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students initiated conversations about transferring from offline to online study modes, expressing concern about maintaining academic progress: 'I wanted to transfer my course Bachelor of Business from offline to online for this year.' These requests required clear guidance on recognition processes to maintain enrollment momentum.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning skills by immediately confirming eligibility and providing detailed recognition pathways: 'So I can confirm you're eligible, which is great. And then we can also offer recognition of prior learning. So it's seven units that we can offer recognition for, which is the number of units that you'd passed previously through campus.' This approach effectively addressed immediate concerns while providing clear pathways forward.",
+          "priority": "high",
+          "recommended_approach": "The consultants' approach effectively demonstrates best practice in recognition planning. To maintain excellence: 1) Acknowledge transfer concerns early, 2) Provide clear timelines for recognition process, 3) Explain documentation requirements proactively, 4) Outline next steps in detail, and 5) Set clear expectations while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Flexible Timeline Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902468580",
+              "segment_id": "44",
+              "timestamp": "15:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed their thoughtful approach to program commitment, stating: 'I've sort of been considering it for, I don't know, 6 or 12 months I suppose.' This indicated careful consideration of program timing and commitment levels, presenting an opportunity for collaborative timeline planning.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by acknowledging the student's measured approach and proposing appropriate study duration options: 'Yeah, great, so more like two years then?' This response validated the student's careful consideration while introducing flexible timeline options, showing understanding of the need for personalized study planning.",
+          "priority": "high",
+          "recommended_approach": "To maximize the effectiveness of timeline planning while maintaining role boundaries: 1) Validate student's thoughtful approach to planning, 2) Present clear study load options and implications, 3) Demonstrate program flexibility, 4) Create preliminary timelines matching student preferences, and 5) Focus on enrollment-relevant aspects of study planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627187799",
+              "segment_id": "102",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666524281",
+                "segment_id": "95",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific career aspirations and transition goals: 'Just a different career' and 'I'm currently working with an NDIS company, and I've just really found that I'm really enjoying that sort of work.' These statements presented opportunities to demonstrate program alignment with career objectives.",
+          "consultant_response": "Consultants typically provided basic acknowledgments without exploring career alignment: 'Yeah, fantastic. Absolutely, I can see the motivation there.' This surface-level response missed opportunities to demonstrate how program features could support specific career aspirations while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge specific career goals, 2) Demonstrate relevant program features that support these aspirations, 3) Create clear connections between program structure and career objectives, 4) Outline relevant support services available post-enrollment, and 5) Focus on enrollment-relevant aspects of career development planning."
+        },
+        {
+          "id": 5,
+          "title": "Limited Initial Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902468580",
+              "segment_id": "9",
+              "timestamp": "4:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the conversation, the student provided a neutral response: 'Oh yeah, I'm good,' presenting an ideal opportunity to initiate deeper exploration of goals and expectations. This moment was crucial for establishing the foundation for meaningful collaborative planning.",
+          "consultant_response": "The consultant provided only basic acknowledgment without engaging in deeper exploration of the student's objectives and circumstances. This surface-level response missed the opportunity to understand specific goals and create a foundation for meaningful collaborative planning.",
+          "priority": "high",
+          "recommended_approach": "An effective approach while maintaining role boundaries should: 1) Use open-ended questions to explore educational goals, 2) Inquire about specific desired outcomes, 3) Demonstrate how program features align with objectives, 4) Create clear connections between student needs and program structure, and 5) Focus on enrollment-relevant aspects of planning."
+        },
+        {
+          "id": 6,
+          "title": "Basic Support Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902468580",
+              "segment_id": "8",
+              "timestamp": "3:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student showed interest in understanding program requirements and structure, creating an opportunity to discuss comprehensive support services and their role in student success.",
+          "consultant_response": "The consultant focused primarily on basic eligibility requirements without exploring available support mechanisms or how they could enhance the student's study experience. This limited approach missed the opportunity to demonstrate the full range of support available while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge support-related questions directly, 2) Outline available support services relevant to enrollment decisions, 3) Create clear connections between support mechanisms and student success, 4) Demonstrate value of support services for study planning, and 5) Focus on enrollment-relevant aspects of support discussion."
+        }
+      ]
+    }
+  }
+}

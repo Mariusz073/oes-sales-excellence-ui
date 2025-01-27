@@ -1,0 +1,406 @@
+{
+  "metadata": {
+    "consultant_name": "Shelton Frimpong",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 270,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 87,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.22222222222222,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 183,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.77777777777779,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.23973116781146,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 183,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 131.37,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 75.44,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 91.58,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.14,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.5,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 135.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.51,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 182.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 71.16,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.79,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Flexible Life Integration",
+        "explanation": "Effectively adapting study plans to accommodate diverse life circumstances while maintaining academic progression"
+      },
+      {
+        "headline": "Strategic Pathway Development",
+        "explanation": "Creating clear educational pathways through comprehensive exploration of options and requirements"
+      },
+      {
+        "headline": "Proactive Support Planning",
+        "explanation": "Establishing clear support frameworks while maintaining appropriate pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for deeper exploration of student circumstances and goals before presenting solutions"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Opportunity to better incorporate available support services during planning discussions"
+      },
+      {
+        "headline": "Transition Management",
+        "explanation": "Need for more comprehensive planning around educational transitions and challenges"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Life-Stage Flexibility Excellence",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666060499",
+              "segment_id": "23",
+              "timestamp": "1:23"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594665559847",
+                "segment_id": "151",
+                "timestamp": "23:45"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing studies with various life circumstances, including pregnancy and work commitments.",
+          "consultant_response": "Outlined multiple flexible options including deferrals, study load adjustments, and scheduling alternatives: 'we have three intakes a year... you can potentially start and then either defer for one teaching period or two.'",
+          "context_impact": "Required clear demonstration of program flexibility to accommodate diverse life responsibilities while ensuring academic progress.",
+          "recommended_approach": "Could enhance by providing more specific examples of successful flexible study arrangements"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676165889",
+              "segment_id": "66",
+              "timestamp": "2:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902005231",
+                "segment_id": "54",
+                "timestamp": "03:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing eligibility concerns and seeking clarity on program pathways.",
+          "consultant_response": "Explained multiple options comprehensively: 'potentially look at doing a diploma... it can help you get into a bachelor... Also you can do a stat test' while maintaining focus on student goals.",
+          "context_impact": "Required clear alternative pathways and program structure explanation to maintain engagement.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626553612",
+              "segment_id": "186",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675874575",
+                "segment_id": "71",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on available support and guidance throughout their journey.",
+          "consultant_response": "Effectively introduced support resources and created action plans: 'Our student advisors will be your main point of contact for this journey' while maintaining appropriate pre-enrollment scope.",
+          "context_impact": "Critical opportunity to establish clear support frameworks while maintaining appropriate boundaries.",
+          "recommended_approach": ""
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554386725",
+              "segment_id": "97",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594676165889",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing significant personal circumstances without deeper exploration of implications.",
+          "consultant_response": "Surface-level acknowledgment without exploring meaningful program integration or goal alignment.",
+          "context_impact": "Missed opportunities to align program benefits with specific student circumstances and goals.",
+          "recommended_approach": "Should implement comprehensive approach for exploring student context and aligning with program benefits"
+        },
+        {
+          "id": 5,
+          "title": "Basic Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730647895",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626553612",
+                "segment_id": "172",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students disclosed various circumstances requiring support services.",
+          "consultant_response": "Basic acknowledgment without exploring specific support options or creating clear support pathways.",
+          "context_impact": "Critical opportunity to demonstrate comprehensive support mechanisms while maintaining boundaries.",
+          "recommended_approach": "Should provide clearer overview of available support services while maintaining pre-enrollment boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Transition Planning Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626553612",
+              "segment_id": "172",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "35",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed anxiety about educational transitions and managing study challenges.",
+          "consultant_response": "Minimal acknowledgment without developing concrete strategies for managing transitions.",
+          "context_impact": "Insufficient exploration and planning around transition concerns affecting enrollment confidence.",
+          "recommended_approach": "Should develop comprehensive approach for addressing transition concerns and building confidence"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Life-Stage Flexibility Excellence",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666060499",
+              "segment_id": "23",
+              "timestamp": "1:23"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594665559847",
+                "segment_id": "151",
+                "timestamp": "23:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing studies alongside various life circumstances. The primary example involved a student asking: 'is it possible to study this at home course with a toddler and a pregnancy?' Supporting cases included students managing work commitments: 'I'm working two jobs at the moment, part-time.' These inquiries revealed critical opportunities for demonstrating program flexibility while maintaining academic integrity.",
+          "consultant_response": "Consultants demonstrated excellence in collaborative planning through comprehensive flexibility discussions: 'we have three intakes a year... you can potentially start the March intake...then either defer for one teaching period or two' and 'We normally recommend to start with two units... if you want to go full-time you just have to increase to three and three.' This approach effectively balanced providing clear flexible options while maintaining focus on academic success and proper support boundaries.",
+          "priority": "High",
+          "recommended_approach": "While maintaining strong flexibility demonstration, enhance approach by: 1) Providing specific examples of successful flexible study arrangements, 2) Creating sample study plans aligned with common life scenarios, 3) Outlining clear processes for adjusting study arrangements when needed, 4) Establishing concrete support frameworks for managing life-study balance, and 5) Maintaining appropriate boundaries while demonstrating comprehensive flexibility options."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676165889",
+              "segment_id": "66",
+              "timestamp": "2:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902005231",
+                "segment_id": "54",
+                "timestamp": "03:30"
+              }
+            ]
+          },
+          "student_trigger": "Students sought clarity on program pathways through specific questions about eligibility and structure: 'that's what I was worried about that I wouldn't be eligible for' and 'Well, like with online, is there set times, like how does it work?' These inquiries presented crucial opportunities for comprehensive pathway planning while maintaining appropriate guidance boundaries.",
+          "consultant_response": "Consultants excelled in pathway guidance through structured exploration: 'So the best thing I'll probably advise you to do is that potentially have a look at doing a diploma... it can help you get into a bachelor' and 'We have live lectures, but they're also recorded. So you can always assess in your own time.' This approach effectively demonstrated program adaptability while maintaining focus on academic success and proper progression pathways.",
+          "priority": "High",
+          "recommended_approach": "Build on existing strength by: 1) Creating detailed comparisons of pathway options, 2) Exploring specific requirements and timelines, 3) Developing structured plans for chosen pathways, 4) Establishing clear progression milestones, and 5) Maintaining appropriate scope while demonstrating comprehensive pathway options."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626553612",
+              "segment_id": "186",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675874575",
+                "segment_id": "71",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students demonstrated need for clear support frameworks through statements like 'I just want to get my degree, I don't know, yeah' and concerns about application progress: 'we were just waiting for my ATAR results.' These moments presented critical opportunities to establish comprehensive support mechanisms while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants demonstrated strong support integration through clear framework establishment: 'Our student advisors... will be your main point of contact for this journey' and creating specific action plans: 'I'll send it back across to the admin team... I'll try to reach back to you.' This approach effectively balanced immediate support needs with appropriate pre-enrollment boundaries.",
+          "priority": "High",
+          "recommended_approach": "Enhance this strength by: 1) Creating clear overview of support service scope, 2) Establishing specific support touchpoints, 3) Developing concrete support plans within appropriate boundaries, 4) Maintaining clear distinction between pre and post-enrollment support, and 5) Building confidence in support framework while preserving proper role boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554386725",
+              "segment_id": "97",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594676165889",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant personal circumstances, including a retired student stating 'I'm just trying to fill time' and others expressing specific course interests without deeper exploration. These disclosures presented valuable opportunities to align program benefits with personal circumstances through comprehensive collaborative planning.",
+          "consultant_response": "Consultants typically provided surface-level acknowledgment without exploring implications or creating meaningful program connections. This limited approach failed to leverage personal circumstances for demonstrating program value or creating compelling alignment with student goals through collaborative planning.",
+          "priority": "High",
+          "recommended_approach": "Implement comprehensive context exploration approach: 1) Explore specific goals and motivations through targeted questions, 2) Connect program components to personal circumstances, 3) Create clear value propositions aligned with student context, 4) Develop achievement milestones matching personal objectives, and 5) Maintain appropriate boundaries while demonstrating program relevance to student circumstances."
+        },
+        {
+          "id": 5,
+          "title": "Basic Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730647895",
+              "segment_id": "32",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626553612",
+                "segment_id": "172",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students disclosed various circumstances requiring support, including statements like 'I've got ADHD, depression and anxiety' and expressing uncertainty about program direction. These moments presented crucial opportunities to demonstrate comprehensive support mechanisms while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring available support options: 'So if you do require any support at all, do let us know' without creating clear understanding of support frameworks or establishing concrete support pathways.",
+          "priority": "High",
+          "recommended_approach": "Develop comprehensive support integration approach: 1) Thank students for sharing circumstances, 2) Provide clear overview of available support services, 3) Create confidence in support framework while maintaining boundaries, 4) Establish clear pathways to specific support services, and 5) Position support services as valuable program benefit while preserving appropriate pre-enrollment scope."
+        },
+        {
+          "id": 6,
+          "title": "Transition Planning Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626553612",
+              "segment_id": "172",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "35",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant anxiety about educational transitions, exemplified by statements like 'To be honest... I would be nervous because it's my first if I'm.' These disclosures presented critical opportunities for comprehensive transition planning and confidence building through collaborative discussion.",
+          "consultant_response": "Consultants typically provided minimal acknowledgment without exploring specific concerns or developing concrete strategies: 'Cool, so you're like a bit nervous, but also excited?' This limited approach failed to address underlying anxieties or create specific plans for managing transition challenges.",
+          "priority": "High",
+          "recommended_approach": "Implement comprehensive transition management approach: 1) Validate and normalize transition concerns, 2) Explore specific anxieties through targeted questions, 3) Share relevant success strategies within appropriate boundaries, 4) Create concrete support plans with clear milestones, 5) Connect with appropriate support resources, and 6) Maintain proper scope while building confidence in transition management."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "consultant_name": "Gabriel Almeida",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 252,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 60,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.809523809523807,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 192,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.19047619047619,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.60623885817348,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 192,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 107.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 145.91,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 142.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 152.31,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 183.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.28,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 126.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.5,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 204.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 120.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.41,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Work-Study Balance Planning",
+        "explanation": "Consultants successfully guide students in creating manageable study plans that accommodate work commitments while maintaining role boundaries"
+      },
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Clear presentation of educational pathways with appropriate guidance on progression options within role scope"
+      },
+      {
+        "headline": "Supportive Barrier Management",
+        "explanation": "Effective acknowledgment and addressing of personal challenges while maintaining focus on educational planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Circumstance Exploration",
+        "explanation": "More thorough investigation needed of student situations and timeline preferences when planning study arrangements"
+      },
+      {
+        "headline": "Strengthened Support Integration",
+        "explanation": "Earlier and clearer introduction needed of available support mechanisms while maintaining pre-enrollment boundaries"
+      },
+      {
+        "headline": "Comprehensive Study Format Discussion",
+        "explanation": "More detailed exploration required of flexible study options and program delivery formats"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780714836",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627100636",
+                "segment_id": "13",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing need to balance work commitments with study: 'I want to work while doing this degree if I can.'",
+          "consultant_response": "Clear guidance provided on flexible options: 'The way it works...runs in four nine-week study blocks...You have autonomy to log in throughout the week around your existing schedule.'",
+          "context_impact": "Critical for building confidence in program manageability",
+          "recommended_approach": "None needed - excellent demonstration of collaborative planning within role boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627531503",
+              "segment_id": "127",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking alternative pathway options: 'They offered an advanced diploma which was 12 units and I thought that would be perfect for me.'",
+          "consultant_response": "Consultant outlined flexible options: 'If you finish 80 units on a Bachelor of Law, that's equivalent of a Diploma of Law.'",
+          "context_impact": "Clear pathway guidance crucial for enrollment decision-making",
+          "recommended_approach": "None needed - strong example of pathway guidance within role scope"
+        },
+        {
+          "id": 3,
+          "title": "Effective Mental Health Support Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676173840",
+              "segment_id": "117",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed past mental health challenges: 'I had some mental health and medical issues come up so I had to stop.'",
+          "consultant_response": "Balanced empathy with progression: 'Yeah, fair enough. There's no problem at all. Look, you're still eligible.'",
+          "context_impact": "Sensitive handling crucial for rebuilding study confidence",
+          "recommended_approach": "Could enhance by outlining available support services while maintaining boundaries"
+        },
+        {
+          "id": 4,
+          "title": "Limited Timeline Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902272187",
+              "segment_id": "35",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requesting decision time: 'I need a week or two to finalize the enrollment.'",
+          "consultant_response": "Basic acknowledgment without exploring underlying concerns or timeline factors",
+          "context_impact": "Missed opportunity to understand and address enrollment hesitations",
+          "recommended_approach": "Should investigate specific factors influencing timeline request while maintaining role boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Basic Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666206027",
+              "segment_id": "121",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594676173840",
+                "segment_id": "117",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing concerns about managing study challenges",
+          "consultant_response": "Basic mention of support without detailed explanation of available resources",
+          "context_impact": "Opportunity to build confidence through clear support pathways",
+          "recommended_approach": "Should provide clearer overview of support systems while maintaining pre-enrollment boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Limited Study Format Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "105",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking clarity on program delivery: 'I just wanted to make sure that it was all online.'",
+          "consultant_response": "Basic confirmation without exploring flexible study options",
+          "context_impact": "Uncertainty about study format creating potential enrollment barrier",
+          "recommended_approach": "Should provide comprehensive overview of study format options while maintaining appropriate scope"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594780714836",
+              "segment_id": "2",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594627100636",
+                "segment_id": "13",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed the need to balance work commitments with study plans. The primary example stated: 'I want to work while doing this degree if I can.' Supporting examples demonstrated similar work-study balance concerns, highlighting this as a critical decision factor for enrollment consideration.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning while maintaining role boundaries, providing structured guidance: 'The way it works, and it will be probably very different to the way you did your bachelor's and master's, is this one runs in four nine-week study blocks a year... You have the autonomy to log in throughout the week around your existing schedule to get your studying done. It makes it a lot more achievable for people who are working full-time.' This approach effectively addressed work-study balance concerns through specific structural details and emphasis on flexibility.",
+          "priority": "high",
+          "recommended_approach": "This exemplifies best practice in collaborative planning. Consultants should continue to: 1) Acknowledge specific work-study balance needs, 2) Provide clear program structure information, 3) Emphasize flexible study options, 4) Connect to relevant support services while maintaining boundaries, and 5) Create confidence in program manageability through concrete examples."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627531503",
+              "segment_id": "127",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student articulated clear understanding of program structures: 'The degree, the bachelor degree in law is 32 units and I looked at it, one particular university, they were on campus though unfortunately, but they offered an advanced diploma which was 12 units and I thought that would be perfect for me.' This demonstrated active engagement in planning their educational journey.",
+          "consultant_response": "The consultant effectively responded by highlighting flexible pathway options: 'Look, just keep in mind that if you finish 80 units on a Bachelor of Law, that's equivalent of a Diploma of Law anyway. Just check with the university if they do have that, if you can leave the bachelor degree with 80 units and get a paper saying that you have the Diploma of Law.' This response demonstrated strong collaborative planning by introducing alternative pathways while staying within appropriate advisory boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice, consultants should: 1) Acknowledge student's research and planning, 2) Present clear pathway options, 3) Explain progression opportunities, 4) Maintain appropriate advisory scope, and 5) Focus on immediate enrollment decisions while preserving future flexibility."
+        },
+        {
+          "id": 3,
+          "title": "Effective Mental Health Support Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676173840",
+              "segment_id": "117",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed significant personal challenges that previously impacted their education: 'I had some like mental health and some medical issues come up so I had to stop.' This vulnerable disclosure required careful handling to rebuild confidence in returning to study while acknowledging past difficulties.",
+          "consultant_response": "The consultant demonstrated skilled collaborative planning by responding: 'Yeah, fair enough. There's no problem at all. Look, you're still eligible, that's what's the most important with your work experience.' This approach effectively balanced empathy with practical progression, validating the student's experience while maintaining focus on moving forward.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge shared experiences with empathy, 2) Provide overview of available support services, 3) Create clear pathway forward, 4) Reference post-enrollment support resources, and 5) Build confidence in support framework while staying within pre-enrollment scope."
+        },
+        {
+          "id": 4,
+          "title": "Limited Timeline Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902272187",
+              "segment_id": "35",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student requested additional time for decision-making: 'I need a week or two to finalize the enrollment.' This indicated potential underlying concerns or hesitations that required exploration to ensure appropriate support and information could be provided.",
+          "consultant_response": "The consultant provided basic acknowledgment without investigating reasons behind the timeline request, missing an opportunity to address potential concerns that could impact enrollment. This lack of exploration may leave underlying issues unresolved.",
+          "priority": "high",
+          "recommended_approach": "While maintaining role boundaries, consultants should: 1) Acknowledge the importance of careful decision-making, 2) Explore specific aspects requiring consideration, 3) Address any identifiable concerns, 4) Provide relevant information and resources, and 5) Establish clear next steps while respecting student autonomy."
+        },
+        {
+          "id": 5,
+          "title": "Basic Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666206027",
+              "segment_id": "121",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594676173840",
+                "segment_id": "117",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study challenges, ranging from anxiety and learning difficulties to past educational interruptions. These disclosures presented opportunities to build confidence through clear support pathways.",
+          "consultant_response": "While consultants acknowledged concerns, they often provided only basic mentions of support without detailed explanation of available resources or clear connections to relevant services. This limited approach missed opportunities to build confidence in support systems while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To better integrate support discussions while maintaining boundaries, consultants should: 1) Acknowledge specific challenges raised, 2) Provide clear overview of relevant support services, 3) Explain how support systems align with student needs, 4) Maintain appropriate pre-enrollment boundaries, and 5) Create confidence in post-enrollment support availability."
+        },
+        {
+          "id": 6,
+          "title": "Limited Study Format Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "105",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about program delivery format: 'I just wanted to make sure that it was all online because someone told me that the Bachelor of Education is now on campus only, you can't do it online.' This revealed potential misinformation threatening enrollment confidence.",
+          "consultant_response": "The consultant provided basic confirmation without exploring flexible study options or explaining program delivery format in detail. This missed opportunity to build confidence through comprehensive understanding of study flexibility.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate scope, consultants should: 1) Provide detailed explanation of online delivery format, 2) Explore specific flexibility needs, 3) Highlight key program features supporting flexible study, 4) Address any misconceptions about delivery mode, and 5) Create clear understanding of study format options."
+        }
+      ]
+    }
+  }
+}

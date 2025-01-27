@@ -1,0 +1,406 @@
+{
+  "metadata": {
+    "consultant_name": "Bridgett Young",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 375,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 79,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.066666666666666,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 296,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.93333333333334,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.58039789436568,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 296,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 174.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.21,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 91.28,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 85.34,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 115.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 133.72,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 88.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.8,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 113.6,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.7,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 175.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.67,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Load Management",
+        "explanation": "Consultants excel at tailoring study load recommendations while maintaining clear boundaries between sales and support roles"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Strong demonstration of available support services while appropriately limiting pre-enrollment commitments"
+      },
+      {
+        "headline": "Value-Driven Program Alignment",
+        "explanation": "Effective communication of program benefits and credit opportunities while maintaining focus on enrollment decisions"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career-Education Integration",
+        "explanation": "Need for stronger exploration of how programs support career goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Comprehensive Pathway Navigation",
+        "explanation": "Greater emphasis needed on exploring and presenting alternative educational pathways based on student circumstances"
+      },
+      {
+        "headline": "Personalized Circumstance Integration",
+        "explanation": "More thorough incorporation of individual circumstances into study planning while maintaining pre-enrollment scope"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907555962",
+              "segment_id": "86",
+              "timestamp": "3:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780749030",
+                "segment_id": "61",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about balancing work commitments with study requirements",
+          "consultant_response": "Effectively validated student preferences while explaining flexibility options: 'Great, amazing. No worries. Well, we can certainly do that' and outlining adjustable study loads",
+          "context_impact": "Clear explanation of flexible study options increases student confidence in program feasibility",
+          "recommended_approach": "Could enhance with more specific examples of successful work-study integration"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820710738",
+              "segment_id": "241",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820991502",
+                "segment_id": "155",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students revealing past academic challenges and seeking support assurance",
+          "consultant_response": "Clear outline of coaching and mentoring services while staying within enrollment scope",
+          "context_impact": "Effective support explanation builds confidence while maintaining appropriate boundaries",
+          "recommended_approach": "None needed - excellent demonstration of appropriate support integration"
+        },
+        {
+          "id": 3,
+          "title": "Value-Driven Credit Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676090836",
+              "segment_id": "87",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594676090836",
+                "segment_id": "122",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on credit transfer benefits and financial implications",
+          "consultant_response": "Effectively calculated and communicated financial savings: 'around $33,000 rather than $50,000' through credit transfers",
+          "context_impact": "Clear demonstration of program value through detailed cost reduction calculations",
+          "recommended_approach": "Could enhance by exploring additional benefits beyond financial savings"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821336857",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675688114",
+                "segment_id": "3",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing specific career requirements without clear program alignment",
+          "consultant_response": "Basic program information provided without exploring career objectives or creating goal alignment",
+          "context_impact": "Missed opportunities to demonstrate program value through career goal alignment",
+          "recommended_approach": "Should better explore how programs support specific career goals while maintaining appropriate boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902115784",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902190614",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students presenting existing qualifications or seeking unavailable programs",
+          "consultant_response": "Minimal guidance provided without exploring alternative options or leveraging existing qualifications",
+          "context_impact": "Critical opportunities to explore alternative educational pathways missed",
+          "recommended_approach": "Should engage in deeper discussion of pathway options and qualification leveraging"
+        },
+        {
+          "id": 6,
+          "title": "Individual Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554344585",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666353030",
+                "segment_id": "186",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students highlighting personal circumstances requiring flexible arrangements",
+          "consultant_response": "Basic flexibility information provided without exploring specific circumstance integration",
+          "context_impact": "Missed opportunities to demonstrate program accommodation of individual needs",
+          "recommended_approach": "Should better explore how program features support various personal circumstances while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907555962",
+              "segment_id": "86",
+              "timestamp": "3:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780749030",
+                "segment_id": "61",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing study commitments alongside work responsibilities. In the primary call, the student demonstrated proactive engagement: 'Yeah, I would like to start with two subjects because I think I can manage two subjects.' Supporting examples showed similar work-study balance concerns: 'Because I have been thinking about like working full-time like is it online is there a fixed time that I have to attend the class or is it my own time?' These inquiries revealed critical needs for flexible study planning.",
+          "consultant_response": "Consultants demonstrated exceptional collaborative planning skills through structured, reassuring responses that maintained appropriate boundaries. In the primary example, the consultant validated the student's preference while explaining flexibility options: 'Great, amazing. No worries. Well, we can certainly do that. And as you sort of said, see how you go and make any changes from there.' Supporting responses showed similar skill: 'No it's in your own time. Most of our students they work full-time so they need to have study that works well with them.' This approach effectively balanced immediate guidance with appropriate boundaries while creating confidence in program feasibility.",
+          "priority": "high",
+          "recommended_approach": "While maintaining strong practice, consultants should enhance responses by: 1) Including specific examples of successful work-study integration, 2) Providing more detailed scenarios of different study load options, 3) Creating clear action plans for implementing flexible study arrangements, and 4) Maintaining focus on enrollment decisions while appropriately referring detailed planning to support services."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820710738",
+              "segment_id": "241",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820991502",
+                "segment_id": "155",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students across calls revealed academic concerns and sought support assurance. Primary example showed direct vulnerability: 'I struggled with my diploma.' Supporting examples demonstrated similar needs for understanding available support mechanisms. These moments presented critical opportunities to build confidence while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants provided comprehensive support service information while maintaining appropriate boundaries: 'Student coaching is amazing and student mentoring is awesome as well. So a coach is like an actual dedicated coach who's hired by the University to help you kind of develop study plans and study routines and all that kind of stuff, but a student mentor is when an existing student like in their third or fourth year, they volunteer to mentor you for your first term.' This approach effectively demonstrated institutional commitment to student success while staying within enrollment guidance scope.",
+          "priority": "high",
+          "recommended_approach": "Current approach represents best practice in support integration. Consultants should: 1) Acknowledge academic concerns, 2) Outline available support services clearly, 3) Differentiate between support types, 4) Maintain pre-enrollment boundaries, and 5) Create confidence in support accessibility."
+        },
+        {
+          "id": 3,
+          "title": "Value-Driven Credit Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676090836",
+              "segment_id": "87",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594676090836",
+                "segment_id": "122",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on credit transfer possibilities and implications, exemplified by the inquiry: 'In terms of getting those credits transferred over, is that possible?' This demonstrated clear interest in understanding how past academic work could benefit their new educational journey while seeking tangible value demonstration.",
+          "consultant_response": "Consultants provided exceptional value demonstration through detailed calculations and clear benefit explanation: 'So, because you won't be doing 24 units, it won't be that expensive, it'll be roughly...around $33,000 rather than $50,000.' This effectively illustrated both financial and workload benefits while maintaining appropriate pre-enrollment boundaries and setting realistic expectations.",
+          "priority": "high",
+          "recommended_approach": "Strong examples of credit value communication should be maintained. Consultants should: 1) Acknowledge credit transfer possibilities, 2) Provide clear financial benefit calculations, 3) Explain impact on study duration, 4) Maintain appropriate pre-enrollment boundaries, and 5) Direct detailed credit assessments to proper channels."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821336857",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675688114",
+                "segment_id": "3",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students across multiple calls expressed specific career requirements and professional goals needing program alignment. Primary example: 'I'm just worried that if I accept an offer that's not a CQR, and then I won't be able to keep my role at my work.' Supporting examples showed similar needs for clear career-education connection. These moments presented critical opportunities to demonstrate program value through career alignment.",
+          "consultant_response": "Consultants typically provided basic program information without exploring career objectives or creating clear alignment between program benefits and professional goals. This approach missed opportunities to demonstrate program value and create stronger enrollment motivation through career goal alignment while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance career integration while maintaining appropriate boundaries, consultants should: 1) Probe current career situation and aspirations, 2) Align program benefits with stated objectives, 3) Create clear connections between course outcomes and career goals, 4) Maintain focus on educational planning rather than detailed career guidance, and 5) Set appropriate expectations about career support scope."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902115784",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902190614",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students presented existing qualifications or sought unavailable programs. Primary example: 'Okay, actually I have done certificate three.' Supporting example: 'I wanted more information on the diploma in Community Services, but I spoke to someone before and they said that they don't have it online. Is that right?' These situations presented critical opportunities for alternative pathway exploration.",
+          "consultant_response": "Consultants typically provided minimal guidance without exploring alternative options or leveraging existing qualifications. Primary example showed dismissive approach: 'Okay, so unfortunately that won't be high enough.' Supporting responses similarly missed opportunities to demonstrate alternative pathways while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance pathway navigation, consultants should: 1) Acknowledge existing achievements, 2) Explore alternative pathway options, 3) Connect qualifications to potential study routes, 4) Maintain appropriate guidance boundaries, and 5) Create confidence in educational progression possibilities."
+        },
+        {
+          "id": 6,
+          "title": "Individual Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554344585",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594666353030",
+                "segment_id": "186",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students highlighted personal circumstances requiring flexible arrangements. Primary example: 'As I live rurally and I have two children, I'm thinking online is probably better for me.' Supporting examples showed similar needs: 'I want to go for full-time right now until I get the job.' These situations presented opportunities to demonstrate program accommodation of individual needs.",
+          "consultant_response": "Consultants typically provided basic flexibility information without exploring how specific program features could support individual circumstances. This approach missed opportunities to create confidence in program-life integration while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To better integrate individual circumstances while maintaining boundaries, consultants should: 1) Acknowledge specific circumstances, 2) Explore how program features support various needs, 3) Outline digital resource accessibility, 4) Highlight relevant support services while maintaining pre-enrollment boundaries, and 5) Create clear picture of program-life integration possibilities."
+        }
+      ]
+    }
+  }
+}

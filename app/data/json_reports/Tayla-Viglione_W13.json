@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "consultant_name": "Tayla Viglione",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 316,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.303797468354432,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 255,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.69620253164557,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.15765457284897,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 255,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 149.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 128.19,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 167.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.82,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 147.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.88,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 130.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.16,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 183.08,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.96,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 117.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.21,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Navigation",
+        "explanation": "Consultants excel at guiding students through educational options while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Effective Work-Study Integration",
+        "explanation": "Strong ability to help students envision program flexibility and integration with existing commitments"
+      },
+      {
+        "headline": "Proactive Support Service Planning",
+        "explanation": "Clear communication of support mechanisms while maintaining appropriate pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Circumstance Integration",
+        "explanation": "Need for deeper exploration of student circumstances when discussing educational pathways"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "Opportunity to better incorporate financial considerations into educational planning discussions"
+      },
+      {
+        "headline": "Strategic Documentation Planning",
+        "explanation": "Required improvement in collaborative problem-solving around documentation requirements"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554349336",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731068702",
+                "segment_id": "42",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students indicating significant life changes or seeking detailed understanding of study requirements",
+          "consultant_response": "Focused on administrative aspects without exploring implications for study success",
+          "context_impact": "Missed opportunities to understand how circumstances affect study needs",
+          "recommended_approach": "Should explore how life circumstances impact study patterns and support needs"
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731530747",
+              "segment_id": "69",
+              "timestamp": "6:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students seeking clarity on financial options and pathways",
+          "consultant_response": "Provided basic fee information without exploring comprehensive planning options",
+          "context_impact": "Limited financial planning discussion affected enrollment confidence",
+          "recommended_approach": "Should engage in more thorough financial planning while maintaining role boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731507923",
+              "segment_id": "38",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730651823",
+                "segment_id": "25",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about transcript availability and documentation requirements",
+          "consultant_response": "Provided basic requirement information without exploring solutions or creating clear plans",
+          "context_impact": "Uncertainty about documentation requirements created potential enrollment barriers",
+          "recommended_approach": "Should collaborate on developing interim solutions and timeline planning"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902314585",
+              "segment_id": "18",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731507923",
+                "segment_id": "5",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about educational pathways, with the primary example showing confusion about psychology options: 'I was looking at PSYCH study pathways, but I actually got a bit confused.' Supporting cases included students seeking clarity on qualifications: 'So essentially I completed my three years in a Bachelor of Psychological Studies and I was wondering if it's the Graduate Diploma or the Graduate Advanced Diploma in Psychology that I'd be looking for?' These moments presented critical opportunities for strategic guidance.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through comprehensive pathway explanations: 'So there's two different PSYCH courses that we have online. There's the Graduate Diploma of Psychology Advanced... That course does not require a background in psychology' and 'Yeah, so you should meet the criteria for the advanced course, that is equivalent to a fourth year honours program.' These responses effectively clarified options while building trust through expert knowledge sharing.",
+          "priority": "high",
+          "recommended_approach": "Continue this exemplary approach by: 1) Using gathered context to inform guidance, 2) Providing clear, specific next steps, 3) Maintaining appropriate boundaries while offering strategic direction, 4) Building confidence through expert knowledge sharing, and 5) Connecting pathway options to student goals and circumstances."
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627213469",
+              "segment_id": "33",
+              "timestamp": "2:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781399411",
+                "segment_id": "194",
+                "timestamp": "31:27"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing full-time work alongside studies. Primary example stated: 'I know it kind of looks like a part-time schedule but I just wanted to know because I don't really have any plans to not be working full-time.' Another noted: 'I think the only thing for me will just be balancing, which I'm sure everyone has, is just balancing full-time work and a pretty hectic schedule.'",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear, reassuring responses emphasizing program flexibility: 'Yeah, I'll give you a brief overview then. So, this course is delivered part-time. It's considered part-time accelerated, so it is heavier than part-time study but lighter than full-time study. So, it is designed for full-time workers.' This approach effectively built confidence by highlighting the program's design for working professionals.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice: 1) Acknowledge and validate work-study balance concerns, 2) Provide specific examples of how different professionals manage their schedules, 3) Outline available support services and flexibility options, 4) Discuss study load adjustment possibilities, and 5) Share success stories of working professionals who have completed the program."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627465306",
+              "segment_id": "69",
+              "timestamp": "9:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about disability support services: 'Yeah, I do. I actually also previously applied for DSS with my Bachelor of Pharmacy. I assume it's a similar process, like re-registering.' This revealed both familiarity with support services and need for process confirmation.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning: 'That's right. Yeah, it'll be identical. How would you like me to categorise that one? I've got a few different options here. Hearing, learning, medical, mobility, visual or other.' This approach validated understanding while ensuring appropriate support classification.",
+          "priority": "high",
+          "recommended_approach": "Maintain this model approach by: 1) Confirming process continuity, 2) Actively engaging in support categorization, 3) Maintaining professional boundaries, 4) Ensuring student feels supported, and 5) Creating clear expectations about support access while staying within pre-enrollment role."
+        },
+        {
+          "id": 4,
+          "title": "Limited Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594554349336",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731068702",
+                "segment_id": "42",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students indicated significant context changes or needs. Primary example: 'Is there any information about... the unit structure, in terms of like how it operates in that sort of six-week condensed, like in terms of like assessments and content to go through?' Supporting case: 'No, no, I have another address now.' These moments revealed opportunities to explore impacts on study planning.",
+          "consultant_response": "Consultants focused on surface-level responses without exploring deeper implications. Responses were limited to administrative updates or basic information without investigating how changes might affect study success or support needs.",
+          "priority": "high",
+          "recommended_approach": "Strengthen approach by: 1) Acknowledging life changes or specific needs, 2) Exploring implications for study success, 3) Discussing potential support mechanisms needed, 4) Creating plans that account for student circumstances, and 5) Maintaining appropriate boundaries while being supportive."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731530747",
+              "segment_id": "69",
+              "timestamp": "6:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students seeking clarity on financial options with questions like: 'Can this go under HECS or is it full fee-paying?' This indicated critical need for understanding financial pathways and planning options.",
+          "consultant_response": "While basic fee information was provided, consultants missed opportunities to engage in comprehensive financial planning discussions or explain available resources to support educational investment decisions.",
+          "priority": "high",
+          "recommended_approach": "Enhance financial planning discussions by: 1) Acknowledging importance of financial planning, 2) Providing overview of funding options within role boundaries, 3) Explaining FEE-HELP process at high level, 4) Directing to appropriate resources, and 5) Maintaining clear boundaries while ensuring adequate support for financial decision-making."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731507923",
+              "segment_id": "38",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730651823",
+                "segment_id": "25",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed documentation concerns. Primary example: 'The other thing I wanted to ask is, so I haven't received my official transcript at the moment.' Supporting case: 'It doesn't look like an official academic transcript.' These revealed needs for collaborative planning around documentation requirements.",
+          "consultant_response": "Consultants provided basic requirement information without engaging in collaborative problem-solving or exploring potential solutions. Responses failed to address underlying concerns about documentation timing and options.",
+          "priority": "high",
+          "recommended_approach": "Implement stronger collaborative planning by: 1) Acknowledging documentation concerns, 2) Exploring specific timeline constraints, 3) Discussing potential interim solutions, 4) Creating clear submission plans, and 5) Ensuring students feel supported while maintaining appropriate boundaries."
+        }
+      ]
+    }
+  }
+}

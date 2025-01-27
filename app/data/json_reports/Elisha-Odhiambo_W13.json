@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 283,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 40,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.13427561837456,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 243,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.86572438162544,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.806942460303375,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 243,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 269.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 182.46,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 178.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.64,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.48,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 190.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.56,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.07,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 189.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 137.5,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Effectively guiding students through educational options while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Professional Integration Planning",
+        "explanation": "Successfully demonstrating how program features accommodate work commitments and career goals"
+      },
+      {
+        "headline": "Achievement-Based Progression",
+        "explanation": "Building on student successes to create momentum for future academic planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Context-Driven Planning Enhancement",
+        "explanation": "Need for deeper integration of personal circumstances and goals into planning discussions"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "Opportunity to better explore and present options when primary pathways aren't immediately suitable"
+      },
+      {
+        "headline": "Career Support Integration",
+        "explanation": "Need for stronger alignment between program benefits and career development while maintaining boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Recognition-Based Academic Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821337644",
+              "segment_id": "16",
+              "timestamp": "1:11"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student achieved 77% weighted average in graduate certificate completion",
+          "consultant_response": "Consultant effectively leveraged success to explore future educational pathways",
+          "context_impact": "Achievement recognition created natural opening for future academic planning",
+          "recommended_approach": "None needed - exemplary use of achievement recognition in planning"
+        },
+        {
+          "id": 2,
+          "title": "Professional Integration Strategy",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675940786",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902263329",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing full-time work commitments",
+          "consultant_response": "Effectively outlined teaching periods and flexible study arrangements",
+          "context_impact": "Demonstrated program flexibility and accessibility for working professionals",
+          "recommended_approach": "Could enhance by highlighting specific post-enrollment support services"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Specialization Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901984019",
+              "segment_id": "3",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought guidance on pursuing dual specializations in software engineering and AI",
+          "consultant_response": "Provided structured sequential completion strategy while maintaining boundaries",
+          "context_impact": "Clear pathway planning helped student understand viable options for achieving goals",
+          "recommended_approach": "None needed - effectively balanced immediate and future planning"
+        },
+        {
+          "id": 4,
+          "title": "Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students shared personal circumstances affecting study plans",
+          "consultant_response": "Basic acknowledgment without exploring implications for planning",
+          "context_impact": "Missed opportunity to align program features with individual situations",
+          "recommended_approach": "Should explore circumstances to inform study planning while maintaining boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students seeking options with non-traditional qualifications",
+          "consultant_response": "Basic qualification statements without exploring alternatives",
+          "context_impact": "Direct ineligibility statements discouraged further exploration",
+          "recommended_approach": "Should present preparatory courses and alternative pathways appropriately"
+        },
+        {
+          "id": 6,
+          "title": "Career Development Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627283076",
+              "segment_id": "25",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared goal of transitioning to higher education teaching post-PhD",
+          "consultant_response": "Basic program information without exploring career development support",
+          "context_impact": "Opportunity to align program benefits with career goals",
+          "recommended_approach": "Should outline program's career development features within appropriate scope"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Recognition-Based Academic Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594821337644",
+              "segment_id": "16",
+              "timestamp": "1:11"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student demonstrated strong academic performance with a 77% weighted average in their graduate certificate completion. This achievement presented a natural opportunity to engage in future academic planning discussions while building on demonstrated success.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by effectively acknowledging the achievement and using it as a foundation for exploring future academic opportunities: 'I wanted to touch base to say a big congratulations as you are nearing the completion of your graduate certificate with an impressive weighted average.' This approach successfully built confidence while creating natural openings for academic progression discussions.",
+          "priority": "High",
+          "recommended_approach": "This represents best practice in collaborative planning. Consultants should continue: 1) Acknowledging specific academic achievements, 2) Using success as foundation for future planning, 3) Creating natural transitions to progression discussions, and 4) Maintaining appropriate boundaries while exploring options."
+        },
+        {
+          "id": 2,
+          "title": "Professional Integration Strategy",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675940786",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902263329",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing full-time work commitments with study requirements. One noted: 'I'm working full-time at the moment as a cafe owner, so my time is a bit tight.' Another shared: 'I'm on reduced hours with kids.' These situations highlighted the critical need for demonstrating program flexibility.",
+          "consultant_response": "Consultants effectively demonstrated program accessibility through structured explanations: 'We operate in teaching periods as opposed to semesters. We've got six teaching periods each year, running for six weeks each followed by a two-week break.' This approach successfully showed how the program accommodates working professionals while maintaining appropriate guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "While maintaining boundaries, consultants should: 1) Outline program flexibility features, 2) Discuss basic time management approaches, 3) Highlight available support services, and 4) Create preliminary study plans accounting for work commitments."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Specialization Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901984019",
+              "segment_id": "3",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed interest in pursuing dual specializations: 'I want to specialise in software engineering, but I also want to specialise in artificial intelligence?' This demonstrated proactive engagement in educational planning and need for strategic guidance.",
+          "consultant_response": "The consultant provided structured guidance while maintaining appropriate boundaries: 'What I would suggest is enroll in the Master of Computer Science specializing in software. Once you complete that, we do have a graduate certificate in artificial intelligence that you can enroll into afterwards.' This effectively outlined a viable pathway while keeping focus on immediate enrollment decisions.",
+          "priority": "High",
+          "recommended_approach": "This represents effective collaborative planning through: 1) Acknowledging both immediate and future goals, 2) Providing clear sequential pathways, 3) Maintaining focus on current enrollment decisions, and 4) Keeping guidance within appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students consistently shared personal circumstances affecting study plans, including family commitments, work schedules, and previous educational experiences. These disclosures presented valuable opportunities to demonstrate program alignment with individual situations.",
+          "consultant_response": "Consultants typically provided brief acknowledgments without exploring implications for study planning: 'Yes, I understand' or 'That's quite alright.' This limited engagement missed opportunities to create personalized planning approaches while maintaining appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "While maintaining pre-enrollment boundaries, consultants should: 1) Acknowledge personal circumstances meaningfully, 2) Explore specific implications for study planning, 3) Demonstrate program flexibility features relevant to individual situations, 4) Create preliminary study approaches that account for personal commitments, and 5) Note relevant post-enrollment support services."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students with non-traditional qualifications sought guidance on program entry options: 'I've only done an advanced diploma' or 'I have bootcamp experience but no formal programming qualification.' These situations required exploration of alternative pathways while maintaining appropriate enrollment guidance.",
+          "consultant_response": "Consultants typically responded with direct ineligibility statements: 'Unfortunately, that won't meet our entry requirements' or 'We won't be able to accept that qualification.' This approach discouraged further exploration and missed opportunities to maintain engagement through discussion of alternatives.",
+          "priority": "High",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge current qualifications positively, 2) Explain entry requirements clearly, 3) Present available preparatory course options, 4) Discuss alternative program pathways, and 5) Keep focus on enrollment-relevant guidance."
+        },
+        {
+          "id": 6,
+          "title": "Career Development Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627283076",
+              "segment_id": "25",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared specific career transition goals: 'I'm looking into teaching in higher education but haven't had teaching experience.' This presented an opportunity to align program benefits with career aspirations while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant provided basic program information without exploring career development support features or demonstrating program alignment with career goals. This missed an opportunity to show program value while maintaining appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "While maintaining pre-enrollment boundaries, consultants should: 1) Acknowledge career goals specifically, 2) Outline how program structure supports career development, 3) Highlight relevant post-enrollment career resources, 4) Focus on program alignment with career goals, and 5) Keep discussion within appropriate pre-enrollment scope."
+        }
+      ]
+    }
+  }
+}

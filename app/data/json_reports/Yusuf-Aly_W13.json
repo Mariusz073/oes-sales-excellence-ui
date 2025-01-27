@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "consultant_name": "Yusuf Aly",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 279,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 85,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 30.46594982078853,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 194,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 69.53405017921148,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.866168593898486,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 194,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 224.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.03,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 193.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.72,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 189.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.4,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 226.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.47,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 185.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.36,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 215.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 159.02,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Planning",
+        "explanation": "Successfully guiding students through personalized educational pathways while maintaining appropriate professional boundaries"
+      },
+      {
+        "headline": "Effective Study-Life Integration",
+        "explanation": "Skillfully demonstrating program adaptability through collaborative exploration of work-study balance options"
+      },
+      {
+        "headline": "Proactive Support System Navigation",
+        "explanation": "Effectively connecting students with specialized support while maintaining clear communication and momentum"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Background Integration",
+        "explanation": "Need for deeper exploration and integration of student experiences and circumstances in planning discussions"
+      },
+      {
+        "headline": "Strengthened Support Planning",
+        "explanation": "More comprehensive exploration needed of available support mechanisms during pre-enrollment planning"
+      },
+      {
+        "headline": "Strategic Timeline Management",
+        "explanation": "More proactive handling needed of communication expectations and planning commitments"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675662195",
+              "segment_id": "50",
+              "timestamp": "4:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902548956",
+                "segment_id": "18",
+                "timestamp": "02:06"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking efficient educational pathways while managing existing commitments",
+          "consultant_response": "Effectively presented options: 'You could complete a diploma first as a pathway, or sit the special tertiary admissions test.'",
+          "context_impact": "Clear pathway guidance crucial for enrollment confidence and decision-making",
+          "recommended_approach": "Could enhance by providing more specific progression timelines"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907869325",
+              "segment_id": "291",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730768012",
+                "segment_id": "112",
+                "timestamp": "5:45"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing study alongside full-time work commitments",
+          "consultant_response": "Provided practical guidance: 'Most students start with two units. See how you go with two. If it's too much, you can drop it before census date.'",
+          "context_impact": "Addressing work-study balance crucial for enrollment confidence",
+          "recommended_approach": "None needed - excellent demonstration of flexible planning"
+        },
+        {
+          "id": 3,
+          "title": "Effective Student Support Coordination",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666179080",
+              "segment_id": "23",
+              "timestamp": "2:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressing significant self-doubt: 'I don't know if I can do it... I'm really not that smart'",
+          "consultant_response": "Effectively normalized feelings while providing reassurance: 'If you weren't feeling nervous, I'd be worried... most students feel nervous'",
+          "context_impact": "Critical moment for maintaining enrollment momentum through confidence building",
+          "recommended_approach": "None needed - exemplary handling of student concerns"
+        },
+        {
+          "id": 4,
+          "title": "Limited Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901812944",
+              "segment_id": "15,20",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780750191",
+                "segment_id": "152",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing valuable background experiences including military service",
+          "consultant_response": "Basic acknowledgment without exploration: 'Yeah, absolutely'",
+          "context_impact": "Missed opportunities to leverage experience for personalized planning",
+          "recommended_approach": "Should explore specific experiences and relevant pathway options"
+        },
+        {
+          "id": 5,
+          "title": "Poor Timeline Management",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594665551676",
+              "segment_id": "6",
+              "timestamp": "03:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed frustration about missed response timeline",
+          "consultant_response": "Basic acknowledgment without proper resolution or clear next steps",
+          "context_impact": "Inadequate handling of timeline concerns risked damaging institutional trust",
+          "recommended_approach": "Should provide clear action plan with specific follow-up commitment"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Service Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820583811",
+              "segment_id": "96",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907683071",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students mentioning specific learning needs or accessibility requirements",
+          "consultant_response": "Minimal engagement: 'We will refer you to the Accessibility Support Service'",
+          "context_impact": "Basic referrals without exploration limited confidence in support systems",
+          "recommended_approach": "Should detail available support mechanisms and create clear access pathways"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Educational Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675662195",
+              "segment_id": "50",
+              "timestamp": "4:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594902548956",
+                "segment_id": "18",
+                "timestamp": "02:06"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire for efficient educational pathways, with one stating: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' This revealed both career aspirations and practical concerns about time investment, creating opportunities for collaborative planning around pathway options.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by presenting multiple pathway options while maintaining appropriate boundaries: 'You could either complete a diploma first, as a pathway into a primary education degree, or you could choose to sit the special tertiary admissions test.' This approach effectively addressed time efficiency concerns while maintaining academic integrity. The responses validated student concerns while providing concrete solutions for progression.",
+          "priority": "High",
+          "recommended_approach": "To enhance pathway discussions, consultants should: 1) Present clear timelines for each pathway option, 2) Detail specific requirements and prerequisites, 3) Explain recognition of prior learning opportunities, 4) Discuss comparative benefits of different routes, 5) Create clear action plans for chosen pathways while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907869325",
+              "segment_id": "291",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594730768012",
+                "segment_id": "112",
+                "timestamp": "5:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing study commitments alongside full-time work. In the primary call at segment 291, the student stated concern about managing study while working four days per week. Similarly, in the supporting call, another student sought clarification about program flexibility with work commitments.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing practical guidance while maintaining appropriate boundaries: 'Most students start off with two units. See how you go with two. If it's too much, you can always drop it to one before the census date.' This approach effectively balanced flexibility with structure while setting realistic expectations about program commitment requirements.",
+          "priority": "High",
+          "recommended_approach": "While maintaining appropriate pre-enrollment boundaries, consultants should: 1) Acknowledge specific work commitments, 2) Explore scheduling preferences and constraints, 3) Present relevant flexibility options, 4) Explain load adjustment possibilities, and 5) Reference post-enrollment support for detailed planning."
+        },
+        {
+          "id": 3,
+          "title": "Effective Student Support Coordination",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666179080",
+              "segment_id": "23",
+              "timestamp": "2:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant anxiety and self-doubt, stating: 'I don't know if I can do it... I'm really not that smart.' This vulnerable moment presented a critical opportunity to demonstrate supportive collaborative planning while addressing fundamental concerns about academic capability.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by normalizing the student's concerns while providing strategic reassurance: 'If you weren't feeling at least a little bit nervous, frankly I'd be worried about you, because it's pretty normal to feel nervous... most of our students do feel nervous before getting started.' This approach effectively validated feelings while building confidence through relatable examples and peer normalization.",
+          "priority": "High",
+          "recommended_approach": "This interaction serves as an ideal model for collaborative planning through emotional support. While maintaining professional boundaries, consultants should: 1) Acknowledge and normalize student concerns, 2) Provide specific examples of student success, 3) Create clear support pathways, and 4) Maintain focus on practical next steps while addressing emotional barriers."
+        },
+        {
+          "id": 4,
+          "title": "Limited Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594901812944",
+              "segment_id": "15,20",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594780750191",
+                "segment_id": "152",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students revealed valuable background experiences, with one stating: 'I'm in the Army at the moment, so I have a little bit of other pathways to study.' These disclosures presented prime opportunities for collaborative planning by exploring alternative entry pathways and leveraging experience to create personalized educational journeys.",
+          "consultant_response": "Consultants typically provided minimal responses without exploring valuable experience: 'Yeah, absolutely. Yeah, that is the case.' This limited engagement failed to capitalize on opportunities to explore unique backgrounds and potential pathways. The responses lacked the collaborative element essential to effective planning and missed chances to validate experiences while exploring relevant educational options.",
+          "priority": "High",
+          "recommended_approach": "A stronger collaborative planning approach would: 1) Validate specific experiences explicitly, 2) Explore relevant skills and qualifications gained, 3) Discuss how experiences might translate to academic credit or entry pathways, 4) Connect backgrounds to program relevance, 5) Create tailored educational plans that build on existing experience, and 6) Highlight successful examples of similar transitions to study."
+        },
+        {
+          "id": 5,
+          "title": "Poor Timeline Management",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594665551676",
+              "segment_id": "6",
+              "timestamp": "03:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed clear frustration about communication delays: 'They were supposed to get back to me within five days and I still haven't heard back.' This indicated a breakdown in expected service standards that required immediate attention to maintain enrollment momentum and institutional trust.",
+          "consultant_response": "The consultant's response was inadequate: 'Okay, let me follow this one up for you. It looks like that will... looks like it's in process.' This response failed to address underlying concerns about institutional reliability and did not provide clear next steps or timeline commitments. The lack of specific action planning risked further eroding student confidence.",
+          "priority": "High",
+          "recommended_approach": "A stronger collaborative planning approach would: 1) Begin with empathetic acknowledgment of the delay, 2) Gather specific details about the initial inquiry, 3) Provide clear next steps with specific timelines, 4) Create a concrete follow-up plan, 5) Explain typical processing timeframes, and 6) Ensure clear communication channels for updates."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Service Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820583811",
+              "segment_id": "96",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907683071",
+                "segment_id": "19",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students disclosed specific learning needs or accessibility requirements, such as: 'I have a hearing impairment and ADHD.' These disclosures presented critical opportunities to demonstrate comprehensive support planning and build confidence in available accommodation options.",
+          "consultant_response": "Responses typically defaulted to basic referrals without exploration: 'We will refer you to the Accessibility Support Service.' This approach missed opportunities to build confidence in available support systems and create clear support pathways that could strengthen enrollment commitment through demonstrated institutional support.",
+          "priority": "High",
+          "recommended_approach": "Consultants should enhance their approach by: 1) Acknowledging specific needs with empathy, 2) Exploring impact on study experience, 3) Outlining available support services with examples, 4) Explaining accommodation processes clearly, 5) Discussing specific support mechanisms, 6) Creating clear next steps for accessing support, and 7) Emphasizing ongoing availability of support throughout their studies."
+        }
+      ]
+    }
+  }
+}

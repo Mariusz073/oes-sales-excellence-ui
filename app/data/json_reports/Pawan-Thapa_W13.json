@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 227,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 63,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.75330396475771,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 164,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.24669603524228,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 59.24806961453123,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 164,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 128.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.78,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 142.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.73,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 127.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.27,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Career Development Planning",
+        "explanation": "Strong ability to align program features with career goals while maintaining appropriate consulting boundaries"
+      },
+      {
+        "headline": "Proactive Program Flexibility Alignment",
+        "explanation": "Successfully demonstrating program adaptability and support mechanisms for working professionals"
+      },
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Effectively connecting students with specialized resources while maintaining appropriate sales role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Financial Planning Discussion",
+        "explanation": "Need for more comprehensive exploration of payment options and support mechanisms within appropriate scope"
+      },
+      {
+        "headline": "Alternative Pathway Communication",
+        "explanation": "Opportunity to better explore and communicate alternative options when standard pathways present challenges"
+      },
+      {
+        "headline": "Work-Study Balance Enhancement",
+        "explanation": "Room to improve collaborative exploration of flexible study options that accommodate working students"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820974064",
+              "segment_id": "28",
+              "timestamp": "02:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought guidance on choosing between graduate diploma and masters for career advancement in project management.",
+          "consultant_response": "Consultant effectively outlined: 'Even starting with the grad set entry program will give you that foundation... If you want to get into higher positions, then continue with the master's program.'",
+          "context_impact": "Clear explanation of program progression pathways enhanced student confidence in educational planning.",
+          "recommended_approach": "Could explore specific career circumstances more deeply while maintaining appropriate scope."
+        },
+        {
+          "id": 2,
+          "title": "Program Flexibility Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731279449",
+              "segment_id": "152",
+              "timestamp": "23:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about managing studies alongside full-time work commitments.",
+          "consultant_response": "Consultant explained: 'This course is created for students who are working full-time. Lectures are held after 6 p.m...all recorded for you.'",
+          "context_impact": "Proactive discussion of flexible options increased student confidence in program manageability.",
+          "recommended_approach": "None needed - excellent example of proactive flexibility discussion."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902448220",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554382077",
+                "segment_id": "61",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students requiring specialized guidance on academic requirements and qualifications.",
+          "consultant_response": "Proactively arranged connections with relevant support services and set clear expectations for specialized assistance.",
+          "context_impact": "Appropriate referrals ensure students receive specialized support while maintaining sales role boundaries.",
+          "recommended_approach": "Could provide more immediate guidance while arranging specialized support."
+        },
+        {
+          "id": 4,
+          "title": "Limited Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902474614",
+              "segment_id": "151",
+              "timestamp": "8:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked about payment flexibility: 'Could the $10,000 be paid over time or would it have to be all upfront?'",
+          "consultant_response": "Provided only basic payment structure without exploring flexible options or support mechanisms.",
+          "context_impact": "Limited financial guidance reduced student confidence in program accessibility.",
+          "recommended_approach": "Should provide comprehensive overview of financial pathways while maintaining appropriate scope."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Communication",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676132584",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about educational progression options.",
+          "consultant_response": "Failed to address pathway concerns comprehensively or explore viable alternatives.",
+          "context_impact": "Limited exploration of alternatives may have affected enrollment decision-making.",
+          "recommended_approach": "Should explore alternative pathways while maintaining appropriate guidance boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666108901",
+              "segment_id": "45",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554382077",
+                "segment_id": "13",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Working students seeking understanding of study flexibility: 'Because right now I'm doing a full-time job.'",
+          "consultant_response": "Basic information about flexibility without detailed exploration of student circumstances.",
+          "context_impact": "Insufficient exploration of flexible options may deter working students from enrollment.",
+          "recommended_approach": "Should collaboratively explore specific work commitments and create tailored study plans."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594820974064",
+              "segment_id": "28",
+              "timestamp": "02:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clear guidance on educational pathways: 'What would be the best course for me to enhance my chances for stepping into a more senior role in project management? Is the graduate diploma the right way to go or do you recommend masters in project management?' This showed clear career advancement motivation requiring strategic guidance.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by outlining progressive pathways: 'Even starting with the grad set entry program will actually give you that foundation to get into the next step because this course itself is basically a postgrad course going towards a master's program... If you want to get into higher positions, then yes, I would advise you to continue with the master's program.' This structured response effectively balanced immediate program guidance with longer-term career considerations.",
+          "priority": "High",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge career advancement goals, 2) Outline program progression options, 3) Link educational steps to career development, 4) Direct detailed career planning to appropriate resources, 5) Focus discussion on immediate enrollment decisions."
+        },
+        {
+          "id": 2,
+          "title": "Program Flexibility Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594731279449",
+              "segment_id": "152",
+              "timestamp": "23:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about managing studies alongside work commitments, representing a common barrier for working professionals considering further education. This moment required clear demonstration of program flexibility and support options.",
+          "consultant_response": "The consultant exemplified excellent collaborative planning by explaining: 'This course is created for students who are working full-time. This is a part-time study. Our lectures are held after 6 p.m. Now, attendance is not required, but if you want to attend, you can, but it's all recorded for you so that you can view it the next day as well.' This comprehensive response effectively addressed work-life balance concerns by highlighting multiple flexibility features.",
+          "priority": "High",
+          "recommended_approach": "To enhance this strong practice: 1) Acknowledge specific work-life balance concerns, 2) Provide concrete examples of program flexibility, 3) Explain multiple study options, 4) Highlight support mechanisms, 5) Empower student choice while maintaining appropriate scope."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902448220",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554382077",
+                "segment_id": "61",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed needs requiring specialized guidance, such as academic requirement concerns ('It's got to be a 60 average with nothing lower than 55') and qualification assessments ('I have studied at TAFE. I was doing a diploma in community services'). These moments represented critical opportunities for ensuring students received appropriate specialized support while maintaining sales role boundaries.",
+          "consultant_response": "Consultants demonstrated effective support referral practices by connecting students with specialized resources. For example, arranging follow-up calls with specific advisors ('What I'll do is, what I'll do is basically, I'll get Luke to give her a call') and directing students to appropriate assessment services ('we have Monash Connect... they should be able to point you in the right direction'). These responses showed recognition of when specialized support was needed while maintaining appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "While referrals were appropriate, consultants should also provide immediate preliminary guidance while arranging specialized support. This could include: 1) Acknowledging specific concerns and explaining available support services, 2) Providing basic information or resources relevant to the student's situation, 3) Setting clear expectations about the referral process and timeline, and 4) Following up to ensure successful connection with specialized support."
+        },
+        {
+          "id": 4,
+          "title": "Limited Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902474614",
+              "segment_id": "151",
+              "timestamp": "8:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clarity on payment flexibility: 'Could the $10,000 be paid over time or would it have to be all upfront?' This indicated a crucial need for understanding financial options while maintaining appropriate consulting boundaries.",
+          "consultant_response": "The consultant provided only basic payment structure information without exploring available support options or demonstrating payment flexibility. This limited response missed the opportunity to address a key enrollment barrier while staying within appropriate scope.",
+          "priority": "High",
+          "recommended_approach": "An enhanced approach should: 1) Acknowledge financial concerns, 2) Outline available payment options, 3) Explain support mechanisms, 4) Provide overview of financial pathways, 5) Direct detailed planning to appropriate specialists."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Communication",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676132584",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about educational progression, indicating a need for clear understanding of available pathways and alternatives. This presented an opportunity for collaborative exploration of options while maintaining appropriate guidance boundaries.",
+          "consultant_response": "The consultant failed to address pathway concerns comprehensively or explore viable alternatives, focusing instead on learning mode preferences. This approach missed the opportunity to engage in collaborative planning around educational progression options.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge progression interests, 2) Outline available pathway options, 3) Explore alternatives within appropriate scope, 4) Connect options to student goals, 5) Direct detailed planning to appropriate support services."
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666108901",
+              "segment_id": "45",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594554382077",
+                "segment_id": "13",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing work commitments with study requirements, exemplified by statements like 'Because right now I'm doing a full-time job, so I can get like two days off.' These moments highlighted the critical need for detailed discussion of flexible study options and collaborative planning to address work-study balance concerns.",
+          "consultant_response": "Consultants often provided limited or deflective responses to work-study balance inquiries, missing opportunities to explore flexible study options or create tailored study plans. Responses frequently lacked detailed discussion of available flexibility or practical strategies for managing work-study commitments, potentially leaving students uncertain about their ability to succeed in the program.",
+          "priority": "High",
+          "recommended_approach": "Consultants should provide comprehensive work-study planning by: 1) Exploring specific work schedules and constraints, 2) Discussing available flexible study options including part-time, evening, or online opportunities, 3) Creating tailored study plans that accommodate work commitments, 4) Sharing successful strategies used by other working students, and 5) Connecting students with relevant support services for detailed study planning."
+        }
+      ]
+    }
+  }
+}

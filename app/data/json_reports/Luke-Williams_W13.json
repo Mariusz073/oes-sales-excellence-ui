@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "consultant_name": "Luke Williams",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 228,
+  "team_average_total_number_of_calls_per_sales_consultant": 248.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 52,
+    "team_average_absolute_number": 49.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.807017543859647,
+    "team_average_percentage": 20.72300276469923
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 176,
+    "team_average_absolute_number": 199.8181818181818
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.19298245614034,
+    "team_average_percentage": 79.27699723530077
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.310091056418145,
+    "team_average": 54.11921367325812
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 176,
+    "team_total_excluded_transcripts": 2198
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 108.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.68,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 107.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 69.01,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.21,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.39,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Planning",
+        "explanation": "Consultants excel at guiding students through program options and progression paths while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of adapting program structures to accommodate individual student circumstances"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "Clear and appropriate guidance on financial options while maintaining consulting boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for deeper understanding of student circumstances before presenting solutions"
+      },
+      {
+        "headline": "Career Integration Planning",
+        "explanation": "Opportunity to better align program benefits with career goals while maintaining role boundaries"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "More proactive connection needed to relevant support resources while maintaining appropriate scope"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Academic Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626825090",
+              "segment_id": "53",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907708472",
+                "segment_id": "79",
+                "timestamp": "03:39"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on academic pathways and registration requirements for psychology programs",
+          "consultant_response": "Provided comprehensive explanation of pathways and requirements while maintaining appropriate boundaries: 'So you've got the first course being the Graduate Diploma in Psychology... this aligns with APAC accreditation requirements.'",
+          "context_impact": "Clear progression guidance crucial for informed enrollment decisions",
+          "recommended_approach": "None needed - exemplary demonstration of pathway guidance"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Solutions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627520902",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594821076324",
+                "segment_id": "18",
+                "timestamp": "03:18"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about balancing study with work commitments and accessibility needs",
+          "consultant_response": "Clear explanation of online delivery and flexible study options: 'It's 100% online for you, so if you are working, living remotely, you get full access to the course.'",
+          "context_impact": "Addressing flexibility crucial for enrollment confidence",
+          "recommended_approach": "Could enhance by highlighting additional support services"
+        },
+        {
+          "id": 3,
+          "title": "Effective Financial Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902215287",
+              "segment_id": "80",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781415238",
+                "segment_id": "118",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on financial options and FEE-HELP eligibility",
+          "consultant_response": "Verified eligibility and provided clear explanation: 'You're eligible for fee help so the government can take on all the student debt.'",
+          "context_impact": "Clear financial guidance crucial for enrollment decisions",
+          "recommended_approach": "None needed - appropriate financial guidance provided"
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902432486",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626576995",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing academic and professional background information",
+          "consultant_response": "Moved directly to solutions without gathering comprehensive context: 'Okay have you completed a bachelor's degree in the past?'",
+          "context_impact": "Insufficient exploration reduced ability to provide personalized guidance",
+          "recommended_approach": "Should gather more context through targeted questions before presenting solutions"
+        },
+        {
+          "id": 5,
+          "title": "Limited Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626825090",
+              "segment_id": "120",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820668339",
+                "segment_id": "125",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on industry work potential during study",
+          "consultant_response": "Basic referral to career services without exploring program alignment",
+          "context_impact": "Insufficient career pathway guidance may impact enrollment confidence",
+          "recommended_approach": "Should better connect program benefits to career goals while maintaining boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907774245",
+              "segment_id": "6",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students indicating need for additional guidance beyond initial planning",
+          "consultant_response": "Limited referral to support resources without clear explanation of benefits",
+          "context_impact": "Missed opportunities to highlight valuable support services",
+          "recommended_approach": "Should better outline available support services while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Academic Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626825090",
+              "segment_id": "53",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907708472",
+                "segment_id": "79",
+                "timestamp": "03:39"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on academic pathways, particularly regarding psychology program progression and registration requirements. In the primary example, the student expressed: 'And so, say that I wanted to go down the pathway of becoming a registered psychologist...' Supporting examples showed similar needs for clear progression guidance. These inquiries represented critical opportunities for collaborative planning that would connect immediate enrollment decisions to long-term career goals.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive pathway explanations while maintaining appropriate boundaries. In the primary example, the consultant outlined: 'So you've got the first course being the Graduate Diploma in Psychology... this aligns with APAC accreditation requirements.' Supporting examples reinforced this pattern with consistent, boundary-appropriate guidance that helped students understand both immediate and long-term implications of their enrollment decisions. This approach effectively balanced detailed program information with appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "To maintain this exemplary approach: 1) Acknowledge specific career goals while staying within educational guidance boundaries, 2) Provide clear program progression steps, 3) Connect immediate decisions to long-term objectives, 4) Maintain focus on educational requirements rather than career advice, and 5) Create clear expectations about the educational journey."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Solutions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627520902",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594821076324",
+                "segment_id": "18",
+                "timestamp": "03:18"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study commitments alongside work and other responsibilities. The primary example showed direct questioning: 'Are the sessions, live sessions that are mandatory to attend or they're just recorded sessions that I could watch by myself as per convenience?' Supporting examples demonstrated similar needs for understanding program flexibility, particularly regarding online accessibility: 'I don't have the ability to go to classes and stuff.'",
+          "consultant_response": "Consultants effectively addressed flexibility concerns through comprehensive information about online delivery and study options. In the primary example: 'We do have in the first year, so it's a two-year course, the first year there's one session per week. It's all held via Zoom.' Supporting examples reinforced this approach: 'The good news about this course is it is 100% online for you, so if you are working, living remotely, you get full access to the course.' These responses demonstrated strong collaborative planning by connecting program features to individual circumstances while maintaining appropriate consulting boundaries.",
+          "priority": "High",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging specific flexibility needs, 2) Explaining available study options clearly, 3) Providing concrete examples of flexible arrangements, 4) Addressing timing and scheduling concerns, and 5) Creating confidence in program adaptability while maintaining appropriate boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Financial Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902215287",
+              "segment_id": "80",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594781415238",
+                "segment_id": "118",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently sought clarity on financial options, particularly regarding FEE-HELP eligibility and payment arrangements. In the primary example, the student initiated: 'A quick question about the fee of the course.' Supporting examples showed similar financial planning needs, with students expressing concerns about managing program costs.",
+          "consultant_response": "Consultants demonstrated effective financial guidance by verifying eligibility requirements and providing clear explanations: 'You're eligible for fee help so the government can take on all the student debt.' The approach consistently maintained appropriate boundaries while ensuring students understood their financial options and next steps. Supporting examples showed similar clarity in financial guidance while staying within consulting scope.",
+          "priority": "High",
+          "recommended_approach": "To maintain this effective approach: 1) Verify eligibility requirements first, 2) Explain available financial support options clearly, 3) Maintain appropriate boundaries in financial guidance, 4) Create clear next steps for financial documentation, and 5) Refer to appropriate resources for detailed financial planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902432486",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594626576995",
+                "segment_id": "1",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple instances where students provided background information about their academic and professional experiences. In the primary example: 'If, so I think I'm like one and a half points below that.' Supporting examples showed similar opportunities for deeper context exploration to inform more personalized guidance.",
+          "consultant_response": "Consultants typically moved directly to procedural matters or solutions without sufficiently exploring student context: 'Okay have you completed a bachelor's degree in the past?' This approach reduced the ability to provide personalized guidance and missed opportunities for meaningful collaborative planning. Supporting examples showed similar patterns of limited context exploration.",
+          "priority": "High",
+          "recommended_approach": "To enhance context exploration while maintaining efficiency: 1) Ask targeted questions about relevant background, 2) Use gathered information to personalize guidance, 3) Balance exploration with call efficiency, 4) Connect student context to program benefits, and 5) Maintain appropriate boundaries while gathering relevant information."
+        },
+        {
+          "id": 5,
+          "title": "Limited Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626825090",
+              "segment_id": "120",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820668339",
+                "segment_id": "125",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on potential industry work opportunities during their studies. In the primary example: 'And another question, so obviously the whole process is like around four years. Is there potential of finding work in the industry after the second year?' Supporting examples showed similar needs for understanding career development pathways.",
+          "consultant_response": "Consultants typically provided basic referrals to career services without exploring how program features could support career development. The response pattern showed minimal engagement with career planning aspects while missing opportunities to demonstrate program value within appropriate role boundaries.",
+          "priority": "High",
+          "recommended_approach": "To enhance career integration planning while maintaining boundaries: 1) Acknowledge career interests explicitly, 2) Connect program features to career development, 3) Explain how program structure supports professional growth, 4) Highlight relevant support services, and 5) Create clear expectations about career development opportunities within appropriate scope."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594907774245",
+              "segment_id": "6",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressing needs for additional guidance beyond initial planning discussions. This represented opportunities for connecting them with relevant support services while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants provided limited information about available support services, typically offering basic referrals without explaining service benefits or creating clear expectations about support availability. This approach missed opportunities to build enrollment confidence through comprehensive support awareness.",
+          "priority": "High",
+          "recommended_approach": "To enhance support service navigation while maintaining boundaries: 1) Identify opportunities to highlight relevant support services, 2) Explain how different support mechanisms align with student needs, 3) Create clear understanding of when and how to access support, 4) Maintain appropriate consulting boundaries, and 5) Use support service availability to build enrollment confidence."
+        }
+      ]
+    }
+  }
+}

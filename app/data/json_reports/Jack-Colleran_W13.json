@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 235,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 45,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.148936170212767,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 190,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.85106382978722,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 60.53454547711013,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 190,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 177.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 173.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.86,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Work-Study Integration",
+        "explanation": "Consultants effectively balance program flexibility with student work commitments while maintaining realistic expectations"
+      },
+      {
+        "headline": "Pathway Planning Excellence",
+        "explanation": "Clear communication of educational pathways while maintaining appropriate career guidance boundaries"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Effective introduction of support resources while maintaining appropriate pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Personal Context Integration",
+        "explanation": "Need for deeper exploration of individual circumstances when developing study plans"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "More thorough exploration needed of alternative routes when direct pathways aren't immediately available"
+      },
+      {
+        "headline": "Career Guidance Boundaries",
+        "explanation": "Better maintenance of appropriate boundaries while discussing career-related program benefits"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675865549",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731151771",
+                "segment_id": "87",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing full-time work alongside studies",
+          "consultant_response": "Successfully outlined flexible study options: 'So you could get it done in two years...if you decide to stick with two units because two units is 16 to 20 hours.'",
+          "context_impact": "Essential to demonstrate program flexibility while maintaining realistic expectations",
+          "recommended_approach": "Could enhance with more specific examples of successful work-study arrangements"
+        },
+        {
+          "id": 2,
+          "title": "Educational Pathway Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730714133",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820769005",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on educational progression options and prerequisites",
+          "consultant_response": "Provided clear guidance: 'No, not with a diploma. You would need to do a bachelor's degree most likely, but let me look for you now.'",
+          "context_impact": "Clear pathway explanation crucial for informed decision-making",
+          "recommended_approach": "Could further emphasize post-enrollment support resources"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627523249",
+              "segment_id": "336",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought reassurance about ongoing support availability",
+          "consultant_response": "Effectively outlined support structure: 'We have student advisors, student mentors, and student coaches available throughout your studies.'",
+          "context_impact": "Building confidence in support accessibility crucial for enrollment",
+          "recommended_approach": "None needed - excellent balance of detail and boundaries"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730965778",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675844498",
+                "segment_id": "95",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students shared significant life changes affecting study plans",
+          "consultant_response": "Basic acknowledgment without exploring impact: 'Yeah, I can see you were enrolled about three years ago.'",
+          "context_impact": "Missed opportunities to demonstrate program flexibility",
+          "recommended_approach": "Should explore how current circumstances could be accommodated in study planning"
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Development",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730714133",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student faced barriers to desired secondary education pathway",
+          "consultant_response": "Brief acknowledgment: 'Yeah, no, no, we do have it online, but again, it's just that it's the master's.'",
+          "context_impact": "Limited exploration of alternatives may discourage enrollment",
+          "recommended_approach": "Should outline complete pathway options while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Career Guidance Boundaries",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675865549",
+              "segment_id": "83",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought accelerated pathway into education sector",
+          "consultant_response": "Provided overly detailed career transition timeline instead of focusing on program benefits",
+          "context_impact": "Exceeded role boundaries with detailed career planning",
+          "recommended_approach": "Focus on program benefits while maintaining appropriate career guidance boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675865549",
+              "segment_id": "88",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594731151771",
+                "segment_id": "87",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing full-time work commitments alongside studies. The primary example showed a student stating: 'I work full-time,' while seeking to understand program flexibility options. Supporting examples demonstrated similar concerns about balancing professional commitments with academic requirements.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through comprehensive responses that balanced realistic workload assessment with flexible options. The primary example showed detailed explanation: 'So you could get it done in two years...if you decide to just stick with two units because two units is 16 to 20 hours. I feel like you'd be able to get that done on top of full-time work.' This approach effectively addressed both practical and confidence concerns while maintaining program integrity.",
+          "priority": "high",
+          "recommended_approach": "To enhance work-study balance discussions, consultants should: 1) Begin by acknowledging work-life balance importance, 2) Explore specific work patterns and peak periods, 3) Discuss preferred study times and learning styles, 4) Outline assignment flexibility options, 5) Create preliminary study schedules aligned with work commitments, 6) Highlight relevant support services for working students."
+        },
+        {
+          "id": 2,
+          "title": "Educational Pathway Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730714133",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594820769005",
+                "segment_id": "20",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on educational progression options, with the primary example asking: 'So if I'm doing, if I'm studying now, um, a diploma, a bachelor, what was it? Preparation for Teaching, can I hop onto the Master's next year or not?' Supporting examples showed similar needs for pathway understanding.",
+          "consultant_response": "Consultants provided clear guidance while maintaining appropriate boundaries. Primary example: 'No, not with a diploma. You would need to do a bachelor's degree most likely, but let me just have a look for you now and I'll see.' This approach successfully combined clear communication of requirements with willingness to explore options.",
+          "priority": "high",
+          "recommended_approach": "For effective pathway clarification: 1) Acknowledge educational goals, 2) Clearly explain requirements and prerequisites, 3) Explore alternative pathways when needed, 4) Maintain appropriate career guidance boundaries, 5) Highlight post-enrollment support resources, 6) Create clear action steps for progression."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594627523249",
+              "segment_id": "336",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought reassurance about ongoing support: 'If I have any doubts about the subject, so I can call you. I can contact you tomorrow.' This indicated crucial need for clarity about available support mechanisms.",
+          "consultant_response": "Consultant effectively outlined support structure: 'We have student advisors, student mentors, and student coaches available to help you throughout your studies. They're accessible pretty much seven days a week.' This demonstrated strong collaborative planning by clearly articulating support services while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To optimize support integration: 1) Acknowledge support needs, 2) Outline available services clearly, 3) Maintain pre-enrollment boundaries, 4) Explain support access procedures, 5) Connect support options to specific needs, 6) Set clear expectations for engagement."
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730965778",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594675844498",
+                "segment_id": "95",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant life changes affecting their studies. Primary example: 'I applied to Swinburne Online I think it was back in 2023 I got into early education. I kind of started, but then I stopped because I got married, I got pregnant, I had a baby.' These revelations presented opportunities to demonstrate program flexibility.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring how current circumstances could inform study planning. Example: 'Yeah, I can see you were enrolled about three years ago.' This surface-level response missed opportunities to demonstrate program adaptability and support options.",
+          "priority": "high",
+          "recommended_approach": "To better integrate personal context: 1) Acknowledge significance of life changes, 2) Explore current circumstances' impact on study, 3) Discuss available flexibility options, 4) Highlight relevant support services, 5) Create study plans that accommodate personal situations, 6) Ensure clear understanding of available adjustments."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Development",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594730714133",
+              "segment_id": "66",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest in secondary education teaching pathway but faced immediate barriers: 'Yeah, but I want to get into secondary, but you don't have it there online.' This represented a critical moment requiring exploration of alternatives.",
+          "consultant_response": "Brief acknowledgment without exploring alternative pathways or support options: 'Yeah, no, no, we do have it online, but again, it's just that it's the master's so if you wanted to.' This missed opportunity to engage in meaningful pathway planning.",
+          "priority": "high",
+          "recommended_approach": "For effective alternative pathway discussion: 1) Acknowledge primary goal, 2) Explain current limitations clearly, 3) Explore alternative pathways systematically, 4) Highlight progression opportunities, 5) Maintain appropriate career guidance boundaries, 6) Create clear action steps for chosen path."
+        },
+        {
+          "id": 6,
+          "title": "Career Guidance Boundaries",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675865549",
+              "segment_id": "83",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought accelerated pathway: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' This indicated desire for efficient pathway planning.",
+          "consultant_response": "Exceeded role boundaries with detailed career planning: 'Here's a detailed timeline for transitioning into education: First, you'll need X certification, then Y modules, followed by Z practicum.' This shifted focus from program benefits to specific career planning.",
+          "priority": "high",
+          "recommended_approach": "To maintain appropriate career guidance boundaries: 1) Focus on program benefits and structure, 2) Explain relevant course options without detailed career planning, 3) Highlight post-enrollment career support services, 4) Refer detailed career planning to appropriate resources, 5) Keep discussion centered on enrollment decisions, 6) Maintain focus on immediate next steps."
+        }
+      ]
+    }
+  }
+}

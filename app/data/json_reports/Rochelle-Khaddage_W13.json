@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "consultant_name": "Rochelle Khaddage",
+    "week_number": 13,
+    "date_range": "01-20_01-24",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 225,
+  "team_average_total_number_of_calls_per_sales_consultant": 256.5625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 70,
+    "team_average_absolute_number": 70.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.11111111111111,
+    "team_average_percentage": 27.561480213491407
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 155,
+    "team_average_absolute_number": 186.375
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.88888888888889,
+    "team_average_percentage": 72.43851978650859
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.926631469066834,
+    "team_average": 53.17969087725132
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 155,
+    "team_total_excluded_transcripts": 2982
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 209.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.26,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 160.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 126.2,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 195.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.15,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.88,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.8,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 152.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.17,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 201.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.66,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Evidence-Based Program Guidance",
+        "explanation": "Consultants excel at using concrete evidence and academic feedback to guide program selection decisions"
+      },
+      {
+        "headline": "Life Circumstance Adaptation",
+        "explanation": "Strong ability to tailor study planning around significant life events while maintaining educational focus"
+      },
+      {
+        "headline": "Clear Process Navigation",
+        "explanation": "Effective guidance through enrollment processes with specific timelines and next steps"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Support Integration",
+        "explanation": "Need for more comprehensive integration of support resources within planning discussions"
+      },
+      {
+        "headline": "Deeper Financial Planning",
+        "explanation": "Opportunity to provide more detailed collaborative planning around financial options and support"
+      },
+      {
+        "headline": "Context Exploration Depth",
+        "explanation": "Room to conduct more thorough exploration of student circumstances to inform planning approach"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Support Integration Gap",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675848178",
+              "segment_id": "99",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked about program differentiators: 'What sets Swinburne aside from other courses?'",
+          "consultant_response": "Focused on rankings without exploring available support services.",
+          "context_impact": "Missed opportunity to showcase comprehensive support framework.",
+          "recommended_approach": "Should integrate discussion of relevant support services while maintaining boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676164090",
+              "segment_id": "112",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on unit costs and payment options.",
+          "consultant_response": "Focused only on HECS-HELP without exploring broader financial options.",
+          "context_impact": "Basic information provided without comprehensive planning support.",
+          "recommended_approach": "Need more detailed collaborative financial planning discussion."
+        },
+        {
+          "id": 6,
+          "title": "Context Exploration Opportunity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666159382",
+              "segment_id": "7",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated program interest without clear direction or context.",
+          "consultant_response": "Limited to basic inquiry: 'Oh, what course was the placement for?' without exploring broader circumstances.",
+          "context_impact": "Missed opportunity for deeper context exploration.",
+          "recommended_approach": "Should conduct deeper exploration of student context and goals."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Evidence-Based Program Selection",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666303025",
+              "segment_id": "130",
+              "timestamp": "11:56"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 130, the student faced a critical decision point between bachelor's degree and graduate diploma options, seeking guidance on the best pathway forward. This presented an opportunity for evidence-based collaborative planning that would significantly impact their academic journey.",
+          "consultant_response": "The consultant demonstrated exceptional collaborative planning by providing concrete evidence from academic feedback: 'Students doing the grad dip end up feeling a lot better academically in their honours year as well as their master's.' This approach effectively used data to support decision-making while maintaining appropriate advisory boundaries, helping the student make an informed choice based on demonstrated outcomes.",
+          "priority": "high",
+          "recommended_approach": "This interaction exemplifies best practice in collaborative planning through: 1) Using concrete evidence to support recommendations, 2) Connecting program features to student success indicators, 3) Maintaining appropriate advisory boundaries, and 4) Creating clear decision-making framework. This approach should be maintained and replicated across similar planning discussions."
+        },
+        {
+          "id": 2,
+          "title": "Exemplary New Parent Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594902067060",
+              "segment_id": "63",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 63, the student disclosed recent childbirth and requested flexible study options: 'I have had a baby four weeks ago, so still very tired.' This demonstrated clear self-awareness about study capacity limitations and required careful collaborative planning to ensure program feasibility.",
+          "consultant_response": "The consultant demonstrated exceptional collaborative planning by crafting a solution that validated circumstances while creating a clear pathway forward: 'We can enrol you in one unit if you would like, which is just 8 to 10 hours of study per week... take it easy on yourself with managing just having a child.' This response effectively combined practical guidance with empathy, creating a manageable study plan aligned with life circumstances.",
+          "priority": "high",
+          "recommended_approach": "To maintain this high standard of support while respecting boundaries: 1) Validate student circumstances explicitly, 2) Provide specific time commitments, 3) Create clear expectations, 4) Maintain flexibility for future adjustments, and 5) Focus on enrollment-relevant planning aspects while directing to appropriate post-enrollment support services."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594626587392",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594907747845",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about application status and process clarity, with primary example at segment 16: 'I was just hoping to see that my application was received because I didn't get any confirmation via email when I applied.' This demonstrated critical need for proactive process communication.",
+          "consultant_response": "Consultants consistently provided detailed updates and clear next steps: 'I received your email... sent off your documents for assessment... should hopefully hear something back by end of day.' This approach effectively reduced anxiety while maintaining clear expectations about process timelines and requirements, demonstrating strong collaborative planning in process navigation.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach while enhancing through: 1) Immediate acknowledgment of application receipt, 2) Clear timeline expectations, 3) Specific next steps, 4) Regular proactive updates, and 5) Early identification and resolution of potential barriers to maintain enrollment momentum."
+        },
+        {
+          "id": 4,
+          "title": "Support Integration Gap",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594675848178",
+              "segment_id": "99",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 99, the student specifically inquired about program differentiators: 'What sets Swinburne aside from other courses?' This presented a crucial opportunity to demonstrate comprehensive support framework and unique program features that could enhance their educational journey.",
+          "consultant_response": "The consultant focused primarily on rankings: 'Swinburne is ranked in the top 1% of universities' without detailed discussion of available support services or unique program features. This approach missed the opportunity to demonstrate comprehensive support mechanisms that could enhance student success and confidence in program selection.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, enhance support service discussion by: 1) Highlighting relevant support services available, 2) Discussing how services align with student needs, 3) Creating preliminary support utilization plan, 4) Connecting with appropriate services post-enrollment, and 5) Establishing clear pathways to accessing support throughout the student journey."
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594676164090",
+              "segment_id": "112",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 112, the student sought comprehensive understanding of costs: 'Can I ask would you have any idea how much those aid units would cost?' This indicated need for detailed financial planning guidance that could significantly impact enrollment confidence.",
+          "consultant_response": "The consultant provided basic HECS-HELP information without engaging in deeper financial planning discussion or exploring available support options. This approach missed an opportunity for collaborative financial planning that could have strengthened the student's confidence in proceeding with enrollment.",
+          "priority": "high",
+          "recommended_approach": "While maintaining role boundaries, enhance financial planning support through: 1) Clear cost structure overview, 2) Available payment options discussion, 3) Support resource identification, 4) Clear financial planning next steps, and 5) Connection to relevant financial services for detailed guidance."
+        },
+        {
+          "id": 6,
+          "title": "Context Exploration Opportunity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594666159382",
+              "segment_id": "7",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 7, the student indicated program interest without providing clear direction or context for their educational goals. This early interaction presented a crucial opportunity for comprehensive context exploration to inform meaningful collaborative planning.",
+          "consultant_response": "The consultant's limited response of 'Oh, what course was the placement for?' demonstrated insufficient depth in collaborative planning. This approach missed the opportunity to explore broader educational goals, career aspirations, and potential alignment with program offerings.",
+          "priority": "high",
+          "recommended_approach": "Enhance context exploration through: 1) Open-ended questions about educational goals, 2) Discussion of relevant life circumstances, 3) Exploration of support needs and preferences, 4) Creation of preliminary action plan aligned with context, and 5) Clear next steps that demonstrate understanding of student's situation."
+        }
+      ]
+    }
+  }
+}
