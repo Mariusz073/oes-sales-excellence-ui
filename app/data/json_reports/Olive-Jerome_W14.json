@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "consultant_name": "Olive Jerome",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 25,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 5,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 20.0,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 20,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.0,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 43.18930500532356,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 20,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.38,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Adaptive Support Access Planning",
+        "explanation": "Consultants effectively tailor support options and availability to accommodate student schedules and preferences"
+      },
+      {
+        "headline": "Clear Process Navigation",
+        "explanation": "Consultants guide students through enrollment steps with specific timelines and actionable next steps"
+      },
+      {
+        "headline": "Professional Resource Integration",
+        "explanation": "Consultants maintain appropriate boundaries while connecting students to relevant support services"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Strategic Follow-up Structure",
+        "explanation": "Greater emphasis needed on establishing concrete follow-up plans with specific timelines"
+      },
+      {
+        "headline": "Comprehensive Completion Planning",
+        "explanation": "More detailed action plans required for guiding students through full enrollment process"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Need for more strategic integration of support resources within appropriate role boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Support Hours Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292635833",
+              "segment_id": "18",
+              "timestamp": "3:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292771764",
+                "segment_id": "28",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about accessing support services due to work schedules.",
+          "consultant_response": "Provided comprehensive support availability information: 'They are available until 9 p.m. during the weekdays... They're also available until 6 p.m. on the weekends.'",
+          "context_impact": "Clear communication about extended support hours increased confidence in service accessibility.",
+          "recommended_approach": "Could enhance by actively exploring preferred contact windows"
+        },
+        {
+          "id": 2,
+          "title": "Clear Enrollment Process Timeline",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292771764",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292621251",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sought confirmation about enrollment completion status and next steps.",
+          "consultant_response": "Provided clear timeframes: 'There would be about a two to three business day waiting period before the instructions for setting up your online account.'",
+          "context_impact": "Specific timeline communication reduced uncertainty and built confidence.",
+          "recommended_approach": "Could add more specific progress checkpoints"
+        },
+        {
+          "id": 3,
+          "title": "Professional Financial Planning Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292649458",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about potential alumni discounts and financial options.",
+          "consultant_response": "Demonstrated commitment to accurate information: 'That is a great question, bear with me just a second and I'll confirm that for you.'",
+          "context_impact": "Professional handling of financial queries maintained engagement despite unavailable discounts.",
+          "recommended_approach": "Could explore alternative financial support options"
+        },
+        {
+          "id": 4,
+          "title": "Follow-up Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292771764",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested rescheduling: 'This isn't actually that good of a time.'",
+          "consultant_response": "Generic invitation to call back without specific scheduling.",
+          "context_impact": "Passive approach to follow-up reduced likelihood of future engagement.",
+          "recommended_approach": "Actively schedule specific follow-up times with clear next steps"
+        },
+        {
+          "id": 5,
+          "title": "Enrollment Completion Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292649458",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students showed uncertainty about remaining enrollment requirements.",
+          "consultant_response": "Basic information provided without comprehensive action plan.",
+          "context_impact": "Lack of structured planning reduced confidence in process completion.",
+          "recommended_approach": "Create detailed completion plans with specific milestones"
+        },
+        {
+          "id": 6,
+          "title": "Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292771764",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students needed ongoing support resource guidance throughout enrollment journey.",
+          "consultant_response": "Simple sharing of contact information without comprehensive support planning.",
+          "context_impact": "Basic resource sharing without strategic integration reduced effectiveness.",
+          "recommended_approach": "Develop structured support integration plans within role boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Support Hours Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292635833",
+              "segment_id": "18",
+              "timestamp": "3:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292771764",
+                "segment_id": "28",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "At segment 18, the student expressed significant concern about support accessibility: 'I'm actually at work at the moment. I won't be off till six, which I think is way late for you guys.' This revealed both practical constraints and underlying anxiety about accessing necessary support services. Multiple students demonstrated similar concerns about balancing work commitments with support access.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive support availability information: 'They are available until 9 p.m. during the weekdays... They're also available until 6 p.m. on the weekends as well.' Additionally, consultants proactively offered resource access: 'I'm more than happy to send you through their contact number for you just so you have it on hand.' This approach effectively addressed immediate concerns while establishing clear pathways for future support access.",
+          "priority": "high",
+          "recommended_approach": "While maintaining strong support accessibility communication, consultants should enhance the collaborative planning process by: 1) Actively exploring student's specific scheduling preferences, 2) Discussing potential regular contact windows that align with work schedules, 3) Setting concrete follow-up plans with specific times, and 4) Documenting preferred contact methods and times for future reference. This creates a more personalized support plan while maintaining appropriate service boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Clear Enrollment Process Timeline",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292771764",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292621251",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently sought clarity about enrollment progression, with one asking: 'I had a call with a course consultant and yes, I enrolled. I signed a statutory declaration. Is that it or do I need to do anything else to enroll?' This revealed a critical need for clear process understanding and timeline expectations.",
+          "consultant_response": "Consultants provided clear, specific guidance with timeframes: 'There would be about a two to three business day waiting period before the instructions for setting up your online account would come through.' This approach effectively combined acknowledgment of completed steps with clear next-step guidance, helping students understand both their current status and upcoming requirements.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong foundation, consultants should: 1) Add specific checkpoints for progress verification, 2) Provide written summaries of completed and remaining steps, 3) Set clear expectations for each enrollment phase, 4) Establish regular progress check-ins, and 5) Create visual timeline guides when appropriate. This comprehensive approach maintains clear communication while adding structured support elements."
+        },
+        {
+          "id": 3,
+          "title": "Professional Financial Planning Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292649458",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student inquired about potential alumni discounts, demonstrating both financial planning needs and interest in exploring available support options. This presented an opportunity for transparent financial guidance while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant handled the inquiry with notable professionalism: 'That is a great question, bear with me just a second and I'll confirm that for you.' This approach demonstrated commitment to accurate information while maintaining appropriate role boundaries, building trust through transparent communication even when the desired discount wasn't available.",
+          "priority": "medium",
+          "recommended_approach": "While maintaining professional handling of financial queries, consultants should enhance their approach by: 1) Introducing available financial support options, 2) Connecting to relevant financial advisors when appropriate, 3) Providing overview of payment plans and timelines, 4) Setting clear next steps for financial planning, and 5) Documenting discussed options for future reference."
+        },
+        {
+          "id": 4,
+          "title": "Follow-up Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292771764",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student explicitly requested rescheduling due to timing constraints: 'This isn't actually that good of a time. Can I book in another time to call and confirm and such?' This presented a crucial opportunity for structured follow-up planning that was not fully utilized.",
+          "consultant_response": "The consultant provided a passive response: 'You are more than welcome to give us a call back if you require any assistance.' This approach missed the opportunity to demonstrate proactive support and ensure continued engagement, potentially reducing the likelihood of successful follow-up.",
+          "priority": "high",
+          "recommended_approach": "Consultants should implement structured follow-up planning by: 1) Actively scheduling specific follow-up appointments, 2) Confirming preferred contact methods and times, 3) Setting clear agenda items for next interaction, 4) Providing multiple time options that align with student availability, and 5) Sending calendar invitations or reminders when appropriate. This proactive approach ensures continued engagement while demonstrating commitment to student success."
+        },
+        {
+          "id": 5,
+          "title": "Enrollment Completion Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292649458",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students demonstrated uncertainty about remaining enrollment requirements and completion steps, indicating a critical need for structured guidance through the enrollment process.",
+          "consultant_response": "Consultants typically provided basic information about next steps without developing comprehensive action plans or ensuring clear understanding of the complete process. This approach left gaps in student understanding and confidence.",
+          "priority": "high",
+          "recommended_approach": "Consultants should enhance enrollment completion planning by: 1) Creating detailed milestone timelines with specific completion targets, 2) Establishing clear checkpoints for progress verification, 3) Providing written summaries of all requirements, 4) Setting specific completion targets with deadlines, and 5) Planning regular progress checks to maintain momentum. This structured approach ensures clear understanding while maintaining appropriate support boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292771764",
+              "segment_id": "28",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students consistently demonstrated need for ongoing support resources throughout their enrollment journey, requiring strategic integration of support services within appropriate boundaries.",
+          "consultant_response": "Consultants provided basic contact information without strategic integration of support resources into the enrollment journey. This approach missed opportunities to create comprehensive support frameworks while maintaining role boundaries.",
+          "priority": "medium",
+          "recommended_approach": "Consultants should enhance support resource integration by: 1) Mapping specific support services to enrollment stages, 2) Creating clear handoff plans to appropriate support teams, 3) Providing comprehensive overview of available resources, 4) Setting clear expectations for support engagement, and 5) Maintaining appropriate role boundaries while facilitating effective connections. This structured approach ensures students understand and can access support while preserving proper service boundaries."
+        }
+      ]
+    }
+  }
+}

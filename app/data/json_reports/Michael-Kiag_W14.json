@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative planning"
+  },
+  "total_number_of_calls": 256,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 85,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 33.203125,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 171,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 66.796875,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.838250219456484,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 171,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 138.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.77,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [],
+    "improvement": []
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": []
+    },
+    "verbose": {
+      "conversations": []
+    }
+  }
+}

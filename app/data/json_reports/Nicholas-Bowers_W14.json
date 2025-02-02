@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 221,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 73,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 33.03167420814479,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 148,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 66.9683257918552,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.40748855743993,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 148,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 110.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.94,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively guide educational planning while maintaining appropriate career guidance boundaries"
+      },
+      {
+        "headline": "Flexible Study Management",
+        "explanation": "Consultants demonstrate skill in adapting program options to accommodate diverse student circumstances"
+      },
+      {
+        "headline": "Support Resource Navigation",
+        "explanation": "Consultants appropriately position support services while maintaining pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Context Integration",
+        "explanation": "Greater emphasis needed on exploring and incorporating student circumstances in planning discussions"
+      },
+      {
+        "headline": "Collaborative Style Adaptation",
+        "explanation": "Better alignment needed between consultation approach and student communication preferences"
+      },
+      {
+        "headline": "Career Goal Alignment",
+        "explanation": "Deeper exploration needed of how educational pathways support specific career aspirations within role boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292761134",
+              "segment_id": "10",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276975106",
+                "segment_id": "17",
+                "timestamp": "01:00"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking to understand qualification pathways aligned with career transitions and goals.",
+          "consultant_response": "Effectively validated pathways using existing qualifications: 'You can take your Diploma of Nursing with us... we can use to grant entry into the Bachelor of Psychological Sciences.'",
+          "context_impact": "Clear pathway guidance directly influenced student confidence in program fit and career progression.",
+          "recommended_approach": "None needed - excellent demonstration of strategic guidance within role boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062628305",
+              "segment_id": "39",
+              "timestamp": "39:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184627419",
+                "segment_id": "193",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing study commitments alongside work and family responsibilities.",
+          "consultant_response": "Outlined adaptable study options with specific examples: 'As long as you're doing at least one unit per term... you can take your time with it.'",
+          "context_impact": "Clear flexible options demonstration increased confidence in program manageability.",
+          "recommended_approach": "None needed - strong flexibility demonstration"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressing interest in understanding available support resources.",
+          "consultant_response": "Effectively outlined post-enrollment support while maintaining boundaries: 'Our learning coaches can help develop detailed study plans once you're enrolled.'",
+          "context_impact": "Appropriate positioning of support services enhanced program value proposition.",
+          "recommended_approach": "None needed - excellent support service positioning"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063004306",
+              "segment_id": "55",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169572634",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking to understand program fit with personal circumstances.",
+          "consultant_response": "Basic information provided without exploring individual circumstances or implications.",
+          "context_impact": "Missed opportunities to demonstrate program adaptability to specific situations.",
+          "recommended_approach": "Should explore specific circumstances while maintaining appropriate planning boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Inconsistent Collaboration Style",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169572634",
+              "segment_id": "27",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370560980",
+                "segment_id": "171",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students demonstrating varying preferences for consultation style.",
+          "consultant_response": "Standard consultation approach used without adapting to student signals.",
+          "context_impact": "Misaligned collaboration approaches affected planning effectiveness.",
+          "recommended_approach": "Should adjust collaborative style based on student communication preferences"
+        },
+        {
+          "id": 6,
+          "title": "Limited Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277439737",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169572634",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students mentioning career aspirations without receiving comprehensive pathway exploration.",
+          "consultant_response": "Basic acknowledgment of career goals without exploring educational alignment.",
+          "context_impact": "Missed opportunities to align educational planning with career goals.",
+          "recommended_approach": "Should better explore how program structure supports career goals while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292761134",
+              "segment_id": "10",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276975106",
+                "segment_id": "17",
+                "timestamp": "01:00"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed interest in understanding qualification pathways aligned with career transitions. In the primary example, a student stated: 'I'm working now as a nurse, but I think that's maybe an area that I would like to move into, but I just wanted to know if I would be eligible to apply and what that looks like.' Similar career transition interests were expressed in supporting calls.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing clear pathway guidance while maintaining appropriate career counseling boundaries. In the primary example: 'Yeah, so pretty easy with this one because you can take your Diploma of Nursing with us and that's fully complete. Diploma of Nursing we can use to grant entry into the Bachelor of Psychological Sciences.' This approach effectively validated existing qualifications while creating clear connections to future opportunities.",
+          "priority": "high",
+          "recommended_approach": "Continue strong pathway guidance while maintaining boundaries: 1) Acknowledge career transition interests promptly, 2) Connect current qualifications to future opportunities clearly, 3) Provide confident eligibility confirmation, and 4) Maintain appropriate career guidance boundaries throughout."
+        },
+        {
+          "id": 2,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062628305",
+              "segment_id": "39",
+              "timestamp": "39:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184627419",
+                "segment_id": "193",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing study commitments alongside complex life responsibilities. The primary example revealed: 'I work full time plus I have another job I contract out too and I have two kids.' Supporting calls showed similar patterns of students seeking to understand program flexibility.",
+          "consultant_response": "Consultants effectively demonstrated program adaptability while maintaining appropriate boundaries: 'Look, as long as you're doing at least one unit per term and passing the unit that you attempt, you can sort of take your time with it. An academic life cycle for a unit is about ten years.' This approach successfully balanced flexibility with structure.",
+          "priority": "high",
+          "recommended_approach": "Maintain strong flexibility guidance by: 1) Acknowledging diverse student circumstances, 2) Presenting clear flexible study options, 3) Maintaining realistic expectations about progress requirements, and 4) Emphasizing long-term completion possibilities while staying within pre-enrollment scope."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172_1961",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest in understanding available support mechanisms: 'I'm wondering what kind of help is available since it's been a while since I've studied.' This created an opportunity to position support services while maintaining pre-enrollment boundaries.",
+          "consultant_response": "Consultant effectively outlined support resources while maintaining appropriate scope: 'Our learning coaches can help develop detailed study plans once you're enrolled. They'll work with you to create strategies that fit your schedule and learning style.' This approach successfully positioned support services as a valuable post-enrollment benefit.",
+          "priority": "high",
+          "recommended_approach": "Continue effective support positioning by: 1) Acknowledging support needs promptly, 2) Outlining available resources clearly, 3) Maintaining pre-enrollment boundaries, and 4) Creating clear understanding of post-enrollment support activation."
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063004306",
+              "segment_id": "55",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169572634",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought to understand program alignment with their specific circumstances. The primary example showed a student seeking timeline clarification: 'Just to double check, the course is full-time online and it's 12 months. Is that correct?' Similar inquiries revealed opportunities to explore program adaptability.",
+          "consultant_response": "Consultants typically provided basic information without exploring implications: 'So ours is a little bit different. It is online and it is for the most part at a full-time pace but we run it over 16 months.' This approach missed opportunities to demonstrate program adaptability to specific circumstances.",
+          "priority": "high",
+          "recommended_approach": "Enhance context exploration while maintaining boundaries: 1) Acknowledge specific circumstances, 2) Explore implications for study planning, 3) Discuss relevant flexibility options, and 4) Create preliminary planning frameworks aligned with individual situations."
+        },
+        {
+          "id": 5,
+          "title": "Inconsistent Collaboration Style",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169572634",
+              "segment_id": "27",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370560980",
+                "segment_id": "171",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students demonstrated varying preferences for consultation style, from direct information seeking to collaborative exploration. These variations required adaptive approaches to maintain effective planning discussions.",
+          "consultant_response": "Consultants often maintained a standard consultation approach regardless of student signals: 'Let me tell you about our program structure...' without adapting to individual communication preferences or engagement styles.",
+          "priority": "high",
+          "recommended_approach": "Develop more adaptive consultation by: 1) Identifying student communication preferences early, 2) Adjusting collaboration style accordingly, 3) Maintaining flexibility in approach, and 4) Reading and responding to student engagement signals throughout the interaction."
+        },
+        {
+          "id": 6,
+          "title": "Limited Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277439737",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169572634",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students mentioned career-related motivations for study but received limited exploration of how educational pathways could support their professional objectives while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment of career goals without exploring how program structure could support professional objectives: 'Yes, this course can help with that career path' without detailed alignment discussion.",
+          "priority": "high",
+          "recommended_approach": "Enhance career goal integration while maintaining boundaries: 1) Acknowledge career motivations explicitly, 2) Explore how program structure supports goals, 3) Present relevant pathway options clearly, and 4) Create clear understanding of career support activation post-enrollment."
+        }
+      ]
+    }
+  }
+}

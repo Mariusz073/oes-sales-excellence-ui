@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 225,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 78,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 34.66666666666667,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 147,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 65.33333333333333,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.11150917371701,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 147,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 148.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.26,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Consultants effectively connect educational pathways to career goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Clear demonstration of how program structure accommodates diverse work and life commitments while setting realistic expectations"
+      },
+      {
+        "headline": "Student-Centered Planning Support",
+        "explanation": "Empowering students through collaborative decision-making while respecting their autonomy in educational planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Circumstance Planning",
+        "explanation": "More thorough exploration needed of student situations and commitments when planning study arrangements"
+      },
+      {
+        "headline": "Comprehensive Support Framework",
+        "explanation": "Greater detail required when explaining practical implementation of support mechanisms within role boundaries"
+      },
+      {
+        "headline": "Proactive Challenge Resolution",
+        "explanation": "Need for more detailed development of solutions and strategies to address specific study challenges"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Path Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063416839",
+              "segment_id": "51",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292971834",
+                "segment_id": "16",
+                "timestamp": "1:12"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking expedited paths into education field while maintaining career requirements",
+          "consultant_response": "Effective explanation of alternative pathways: 'It doesn't make it any longer, it doesn't make it any more expensive, it's just a different path'",
+          "context_impact": "Clear pathway guidance crucial for maintaining enrollment momentum while addressing timeline concerns",
+          "recommended_approach": "Could enhance with more examples of successful pathway progressions"
+        },
+        {
+          "id": 2,
+          "title": "Effective Part-time Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595293049403",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292645474",
+                "segment_id": "13",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on managing part-time study alongside work commitments",
+          "consultant_response": "Strong emphasis on student control: 'You tell us how many units you want to do... It's whenever you can fit in those hours worth of study'",
+          "context_impact": "Clear explanation of flexible study options increased student confidence in managing work-study balance",
+          "recommended_approach": "None needed - exemplary explanation of flexibility"
+        },
+        {
+          "id": 3,
+          "title": "Effective ADHD Support Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "238",
+              "timestamp": "39:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressing concerns about test-taking with ADHD and seeking support options",
+          "consultant_response": "Personal connection with specific support details: 'I've got ADHD as well... The O-Learning advisors are really helpful'",
+          "context_impact": "Critical opportunity to demonstrate understanding of learning challenges and available support",
+          "recommended_approach": "Could further clarify process for accessing specific accommodations"
+        },
+        {
+          "id": 4,
+          "title": "Limited Workload Assessment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292694414",
+              "segment_id": "100",
+              "timestamp": "16:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062787055",
+                "segment_id": "237",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Discussion of unit load without exploring student circumstances or capacity",
+          "consultant_response": "Basic unit query without context investigation: 'So did you want to do one or two units to start with?'",
+          "context_impact": "Missed opportunity to ensure appropriate study planning based on individual situation",
+          "recommended_approach": "Should explore goals, commitments and capacity before recommending workload"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Support Framework",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292923965",
+              "segment_id": "176",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277048554",
+                "segment_id": "101",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing study commitments and seeking support",
+          "consultant_response": "Basic acknowledgment without exploring available support mechanisms",
+          "context_impact": "Limited support discussion affecting confidence in program manageability",
+          "recommended_approach": "Should provide comprehensive support overview while maintaining role boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Holiday Period Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292645474",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student concerned about managing three-week holiday period during studies",
+          "consultant_response": "Basic suggestion without detailed planning strategy",
+          "context_impact": "Insufficient exploration of solutions left student uncertain about managing the conflict",
+          "recommended_approach": "Should explore specific schedule adjustments and create detailed plan around holiday period"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Career Path Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063416839",
+              "segment_id": "51",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292971834",
+                "segment_id": "16",
+                "timestamp": "1:12"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire for expedited paths into education field while maintaining career requirements. Primary example: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' Supporting examples showed similar concerns about program length and career progression requirements.",
+          "consultant_response": "Consultants demonstrated excellence in pathway planning by providing strategic alternatives while maintaining timeline goals: 'So the Bachelor of Education in total is four years. What does that look like for students like you? So instead of doing four years in the Bachelor of Education, Early Childhood and Primary, what happens is we put you into the Bachelor of Educational studies first for year one. For year two, three and four, you transfer across, pick up where you've left off to continue your studies. So it doesn't make it any longer, it doesn't make it any more expensive, it's just a different path.' This approach effectively addressed timeline concerns while maintaining clear progression towards career goals.",
+          "priority": "high",
+          "recommended_approach": "Continue this strong approach while enhancing through: 1) More explicit acknowledgment of timeline goals, 2) Clearer pathway comparisons, 3) Specific examples of successful progressions, 4) Regular confirmation of student understanding, and 5) Appropriate maintenance of career guidance boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Effective Part-time Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595293049403",
+              "segment_id": "65",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292645474",
+                "segment_id": "13",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students initiated discussions about managing part-time study alongside work commitments. The primary example shows a student seeking clarity: 'I think I just wanted to confirm that with this course it's sort of like at your own pace?' Supporting examples demonstrated similar needs to understand program flexibility.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive explanations of program flexibility while maintaining appropriate boundaries. The primary example shows: 'So our year is broken down into three teaching periods... you tell us how many units or subjects you want to do... It's whenever you can fit in those hours worth of study.' This effectively emphasized student agency while providing clear structure.",
+          "priority": "high",
+          "recommended_approach": "Continue this best practice approach by: 1) Emphasizing student control over study load, 2) Providing clear program structure, 3) Demonstrating practical flexibility examples, and 4) Maintaining appropriate pre-enrollment boundaries while supporting student decision-making."
+        },
+        {
+          "id": 3,
+          "title": "Effective ADHD Support Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "238",
+              "timestamp": "39:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 238, student revealed concerns about ADHD diagnosis: 'I have been recently diagnosed with ADHD so I struggle to sit through a test, I can't concentrate, that sort of thing, I will just fail a test like I'm terrible when it comes to test but really good at the other things. Is there anything I can kind of do about that or do I have to, like is there any help I can receive?' This disclosure presented a critical opportunity to address learning support needs.",
+          "consultant_response": "The consultant demonstrated exceptional collaborative planning by combining personal connection with comprehensive support information: 'I suppose the most common misconception with online studies is that you're out there by yourself and you're out there alone. Short answer, you're not. I mean I've got ADHD as well so I'm right there with your sister.' They then detailed specific support options: 'The O-Learning advisors are really helpful, they do have timed responses, so they need to get back to you within a 24, 48-hour time slot, so they're super responsive... If you're finding that you need some help with more behavioral things in regards to studies, like study habits, time, stress management, or being a little ADD monster, like me. You do have the student coaches as well.'",
+          "priority": "high",
+          "recommended_approach": "While this approach effectively addressed immediate concerns, it could be enhanced by: 1) Providing clearer transition to post-enrollment support services, 2) Outlining specific accommodation request processes, 3) Sharing examples of successful support implementation, 4) Creating clear expectations about support access timing, and 5) Maintaining appropriate pre-enrollment boundaries while building confidence in available support."
+        },
+        {
+          "id": 4,
+          "title": "Limited Workload Assessment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292694414",
+              "segment_id": "100",
+              "timestamp": "16:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062787055",
+                "segment_id": "237",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "At segment 100, discussion turned to first trimester unit load without proper exploration of student's circumstances, capacity, or commitments. This represented a crucial moment for collaborative planning to ensure appropriate study load. Supporting examples showed similar patterns of superficial workload discussion.",
+          "consultant_response": "Consultants typically provided basic unit load options without investigating student capacity: 'So did you want to do one or two units to start with?' This surface-level approach missed the opportunity for meaningful collaborative planning around workload management. Supporting examples demonstrated similar patterns of limited exploration.",
+          "priority": "high",
+          "recommended_approach": "Enhance workload assessment by: 1) Exploring current work and personal commitments, 2) Discussing study goals and timeline preferences, 3) Evaluating previous study experiences, 4) Considering peak period impacts, 5) Creating detailed weekly time management plans, and 6) Setting realistic expectations about unit workload requirements."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Support Framework",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292923965",
+              "segment_id": "176",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277048554",
+                "segment_id": "101",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing concerns about managing study commitments. Primary example: Student revealing significant personal circumstances affecting study capacity. Supporting example: Student worried about managing busy schedule during specific teaching period. These interactions highlighted critical need for support service discussion.",
+          "consultant_response": "Consultants provided minimal guidance without exploring support options. Primary example: 'Yeah, okay. And yeah, I've just. Been so flaccid. Yeah, yeah, fair, fair, fair, fair.' Supporting example: Focus on teaching period limitations without exploring solutions. This approach missed opportunities to build confidence through available support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "Enhance support services discussion by: 1) Acknowledging specific challenges, 2) Providing overview of available support mechanisms, 3) Explaining practical implementation of support, 4) Maintaining appropriate pre-enrollment boundaries, 5) Creating clear pathways to access support post-enrollment, and 6) Building confidence in institutional support framework."
+        },
+        {
+          "id": 6,
+          "title": "Holiday Period Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292645474",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern: 'I've got a holiday in April for three weeks so that puts a big hole in this year in the case of learning.' This presented opportunity for collaborative planning around a specific challenge.",
+          "consultant_response": "Consultant suggested 'You could always start with one unit if you wanted to,' missing opportunity for detailed collaborative planning around the specific challenge.",
+          "priority": "high",
+          "recommended_approach": "Should: 1) Acknowledge the specific challenge, 2) Explore study load adjustment options before and after the break, 3) Develop concrete planning strategies, and 4) Confirm understanding of proposed approach. Maintain appropriate boundaries while providing comprehensive planning support."
+        }
+      ]
+    }
+  }
+}

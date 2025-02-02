@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "consultant_name": "Luke Williams",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 243,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 39,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 16.049382716049383,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 204,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 83.9506172839506,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 60.80201942710261,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 204,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 108.56,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Skillfully guiding students through educational options while maintaining appropriate planning boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Effectively demonstrating how program structure accommodates student circumstances and commitments"
+      },
+      {
+        "headline": "Support System Facilitation",
+        "explanation": "Successfully introducing and explaining support mechanisms to enable student success"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Integration",
+        "explanation": "Need for stronger alignment between program benefits and student professional aspirations"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "Opportunity to provide more thorough exploration of financial support options and pathways"
+      },
+      {
+        "headline": "Personal Context Utilization",
+        "explanation": "Room for better incorporation of student circumstances when developing educational plans"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Solution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170250806",
+              "segment_id": "26",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277034898",
+                "segment_id": "6",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about immediate program requirements or documentation barriers",
+          "consultant_response": "Consultants offered clear alternative solutions: 'What we could do is, if you want, you could start a graduate certificate level' and provided documentation templates while maintaining standards",
+          "context_impact": "Quick identification of alternative pathways maintained enrollment momentum while addressing immediate barriers",
+          "recommended_approach": "None needed - exemplary handling of potential barriers"
+        },
+        {
+          "id": 2,
+          "title": "Limited Financial Support Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062617332",
+              "segment_id": "30",
+              "timestamp": "5:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371103877",
+                "segment_id": "109",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking information about financial support options and payment plans",
+          "consultant_response": "Consultants often deferred or dismissed financial concerns without exploring available options",
+          "context_impact": "Insufficient financial planning discussion potentially creating enrollment barriers",
+          "recommended_approach": "Should provide comprehensive overview of financial support options while maintaining appropriate boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Effective Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371506693",
+              "segment_id": "26",
+              "timestamp": "26:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370775102",
+                "segment_id": "14",
+                "timestamp": "01:09"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about balancing work commitments with study",
+          "consultant_response": "Consultants effectively highlighted program adaptability: 'The course being online, super flexible, you can access the course any day, time of day or night'",
+          "context_impact": "Clear demonstration of program flexibility increased confidence in work-study balance",
+          "recommended_approach": "None needed - excellent alignment of program flexibility with student needs"
+        },
+        {
+          "id": 4,
+          "title": "Missed Professional Relevance Connection",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370775102",
+              "segment_id": "93",
+              "timestamp": "31:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student explicitly asked about course relevance to current role",
+          "consultant_response": "Focused on teaching periods instead of addressing professional applications",
+          "context_impact": "Failure to demonstrate job relevance potentially reduced perceived program value",
+          "recommended_approach": "Should explore specific work applications and demonstrate direct course relevance to role"
+        },
+        {
+          "id": 5,
+          "title": "Clear Enrollment Process Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062975465",
+              "segment_id": "198",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity about enrollment timeline and process steps",
+          "consultant_response": "Provided clear timeline: 'once I've got it either that day or the next day I'll let you know whether you've been accepted or not'",
+          "context_impact": "Step-by-step explanation reduced complexity and increased confidence",
+          "recommended_approach": "None needed - comprehensive process breakdown provided"
+        },
+        {
+          "id": 6,
+          "title": "Limited Work Experience Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277034898",
+              "segment_id": "41",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about work experience relevance",
+          "consultant_response": "Provided basic information without exploring role details or relevance",
+          "context_impact": "Missed opportunity to validate professional experience affected enrollment confidence",
+          "recommended_approach": "Should explore current role responsibilities and align with program requirements"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Solution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170250806",
+              "segment_id": "26",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277034898",
+                "segment_id": "6",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed various concerns about program entry requirements, including documentation challenges and qualification barriers. Primary example showed concern about Masters program documentation, while supporting example revealed frustration with IELTS requirements: 'I tried to ask for waiving this request, but I believe I received an email, it can't be waived.'",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by offering immediate, viable alternatives while maintaining academic standards. In the primary example, the consultant suggested: 'What we could do is, if you want, you could start a graduate certificate level. The graduate certificate is the first four units of the master's anyway.' Supporting example showed similar skill: 'If you have an expired IELTS test, what we can get you to do is get a letter from your workplace... we can send you a template.'",
+          "priority": "High",
+          "recommended_approach": "This represents best practice in collaborative planning: 1) Acknowledge concerns immediately, 2) Present viable alternatives, 3) Maintain academic standards while showing flexibility, 4) Provide specific, actionable solutions, 5) Offer supporting documentation or templates where appropriate, 6) Maintain encouraging tone throughout interaction"
+        },
+        {
+          "id": 2,
+          "title": "Limited Financial Support Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062617332",
+              "segment_id": "30",
+              "timestamp": "5:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371103877",
+                "segment_id": "109",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought financial guidance, with clear indicators of financial concerns affecting enrollment decisions. Primary example: 'So, the question I had is about any payment plans and all that, any subsidies.' Supporting example showed more urgent need: 'I want to ask about the scholarships as well because my financial situation is not too much good.'",
+          "consultant_response": "Consultants consistently showed insufficient attention to financial planning needs. Primary example deferred discussion: 'Now okay all right we will get to all that information in a moment.' Supporting example dismissed concerns: 'Okay, so you won't get any discounts... the odds of you getting one are very slim.'",
+          "priority": "High",
+          "recommended_approach": "Enhanced financial discussion should: 1) Address financial concerns immediately and empathetically, 2) Provide comprehensive overview of FEE-HELP and payment options, 3) Explain relevant eligibility criteria and processes, 4) Direct to specific resources for detailed information, 5) Maintain appropriate pre-enrollment boundaries while showing understanding of financial considerations"
+        },
+        {
+          "id": 3,
+          "title": "Effective Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371506693",
+              "segment_id": "26",
+              "timestamp": "26:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370775102",
+                "segment_id": "14",
+                "timestamp": "01:09"
+              }
+            ]
+          },
+          "student_trigger": "Students consistently expressed concerns about managing study around work commitments. Primary example: 'I have to travel to and from work so I just have to sort of work that out.' Supporting example showed similar needs: 'I'm working in learning and development and it was just like looking at some upskilling.'",
+          "consultant_response": "Consultants demonstrated strong ability to highlight program flexibility. Primary example: 'The course being online, super flexible, you can access the course any day, time of day or night as well. So there's no limitation.' Supporting example reinforced this: 'It's self-paced, self-guided learning... perfect for full-time workers like yourself.'",
+          "priority": "High",
+          "recommended_approach": "This approach effectively builds confidence in work-study balance by: 1) Acknowledging specific work commitments, 2) Highlighting program flexibility features, 3) Providing concrete examples of how flexibility works, 4) Connecting features to student circumstances, 5) Maintaining encouraging tone while setting realistic expectations"
+        },
+        {
+          "id": 4,
+          "title": "Missed Professional Relevance Connection",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370775102",
+              "segment_id": "93",
+              "timestamp": "31:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 93, the student explicitly sought to understand the course's professional relevance: 'And so obviously it's related to our jobs, right? Like. It's tied into what we're actually working on in our roles.' This question represented a critical moment where the student was seeking validation of the course's practical value and application to their current role.",
+          "consultant_response": "The consultant missed this opportunity by focusing on administrative details: 'It like. It's not well so. What happened so so there's six teaching periods available per year what you can do...' This response failed to address the student's core concern about professional relevance, potentially diminishing their perception of the program's value.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would begin with: 'I can see you're looking to ensure the course directly benefits your current role. Let's explore how specific course components align with your work responsibilities.' Then: 1) Discuss relevant course content, 2) Share examples of workplace application, 3) Highlight skill development opportunities, 4) Connect program outcomes to career growth, 5) Maintain appropriate boundaries while demonstrating value"
+        },
+        {
+          "id": 5,
+          "title": "Clear Enrollment Process Guidance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062975465",
+              "segment_id": "198",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 198, the student sought clarity about the enrollment timeline: 'And how long does it take like because I'm going to finish how long does it take after enrolling before like before applying will I be able to enroll.' This question revealed anxiety about process length and complexity, requiring clear guidance to maintain enrollment momentum.",
+          "consultant_response": "The consultant provided a comprehensive yet accessible breakdown: 'once I've got it either that day or the next day I'll let you know whether you've been accepted or not. Then it's just a quick five to ten minute enrollment phone call.' This response effectively demystified the process by providing specific timeframes and clear steps.",
+          "priority": "High",
+          "recommended_approach": "This approach effectively reduces process anxiety by: 1) Breaking down steps clearly, 2) Providing specific timeframes, 3) Emphasizing process simplicity, 4) Maintaining encouraging tone, 5) Offering clear next steps while setting realistic expectations"
+        },
+        {
+          "id": 6,
+          "title": "Limited Work Experience Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277034898",
+              "segment_id": "41",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 41, the student expressed uncertainty about their work experience relevance: 'I don't know if I'm just working or not.' This indicated a need for clarity about how their professional experience could support their application and studies.",
+          "consultant_response": "The consultant provided only basic information about professional registration without exploring the student's specific situation or role details. This missed an opportunity to validate the student's professional experience and align it with program requirements.",
+          "priority": "High",
+          "recommended_approach": "A better approach would: 1) Explore current role responsibilities in detail, 2) Align professional experience with program requirements, 3) Identify relevant transferable skills, 4) Discuss how work experience enhances study, 5) Provide examples of successful work-study integration, 6) Create confidence in experience relevance while maintaining appropriate boundaries"
+        }
+      ]
+    }
+  }
+}

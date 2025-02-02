@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 251,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 44,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 17.52988047808765,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 207,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 82.47011952191235,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.35687746593382,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 207,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 131.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.01,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study-Life Integration",
+        "explanation": "Successfully developing tailored solutions to balance program requirements with students' work and personal commitments"
+      },
+      {
+        "headline": "Proactive Educational Navigation",
+        "explanation": "Effectively guiding students through academic pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Clear Program Structure Communication",
+        "explanation": "Comprehensively explaining study options and requirements while setting accurate expectations"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Context Integration",
+        "explanation": "Need to better incorporate individual circumstances into planning discussions and support strategies"
+      },
+      {
+        "headline": "Strategic Support Systems Planning",
+        "explanation": "Opportunity to better outline and integrate available support mechanisms within pre-enrollment boundaries"
+      },
+      {
+        "headline": "Comprehensive Follow-up Strategy",
+        "explanation": "Need for more structured information sharing and communication planning approaches"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Flexibility Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371350350",
+              "segment_id": "150",
+              "timestamp": "28:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062664639",
+                "segment_id": "59",
+                "timestamp": "7:10"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity about program structure and flexibility for managing work-life commitments.",
+          "consultant_response": "Comprehensive explanation of block mode structure and flexibility: 'Yes, one unit per six-week block... you also always get two weeks early access.'",
+          "context_impact": "Clear understanding of flexible study options crucial for enrollment confidence.",
+          "recommended_approach": "Could enhance with specific examples of successful study management strategies"
+        },
+        {
+          "id": 2,
+          "title": "Strong Academic Progression Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371419385",
+              "segment_id": "16",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371395611",
+                "segment_id": "10",
+                "timestamp": "1:20"
+              }
+            ]
+          },
+          "student_trigger": "Students sharing academic backgrounds and seeking progression guidance.",
+          "consultant_response": "Effectively connected qualifications to next steps: 'This will be your first step in the pathway to becoming a psychologist.'",
+          "context_impact": "Clear pathway guidance crucial for informed decision-making.",
+          "recommended_approach": "Could explore educational goals in more detail while maintaining scope"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Alternative Solutions",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277438366",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student encountered visa restrictions preventing online study options.",
+          "consultant_response": "Immediately suggested campus-based alternatives: 'If they're willing to go on campus there would probably be a bachelor degree might be the best option.'",
+          "context_impact": "Potential enrollment barrier requiring immediate solution.",
+          "recommended_approach": "None needed - excellent demonstration of proactive problem-solving"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170249718",
+              "segment_id": "29",
+              "timestamp": "1:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184800077",
+                "segment_id": "2",
+                "timestamp": "00:12"
+              }
+            ]
+          },
+          "student_trigger": "Students sharing significant personal circumstances affecting study planning.",
+          "consultant_response": "Basic acknowledgment without exploring implications or developing personalized strategies.",
+          "context_impact": "Missed opportunities to create tailored study approaches.",
+          "recommended_approach": "Should thoroughly explore personal circumstances to create tailored planning approaches"
+        },
+        {
+          "id": 5,
+          "title": "Basic Support System Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "90",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276919856",
+                "segment_id": "172",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking reassurance about managing their educational journey.",
+          "consultant_response": "Basic mention of support services without detailed integration planning.",
+          "context_impact": "Support system integration crucial for enrollment confidence.",
+          "recommended_approach": "Need more comprehensive support system planning within pre-enrollment scope"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Follow-up Strategy",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063330031",
+              "segment_id": "72",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063330031",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students requesting additional program information and follow-up communication.",
+          "consultant_response": "Basic responses without developing clear follow-up plans or communication strategies.",
+          "context_impact": "Structured information sharing crucial for maintaining engagement.",
+          "recommended_approach": "Develop comprehensive follow-up strategy with clear structure and timeline"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Flexibility Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371350350",
+              "segment_id": "150",
+              "timestamp": "28:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062664639",
+                "segment_id": "59",
+                "timestamp": "7:10"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed needs to understand program flexibility, with the primary example asking: 'I guess the other thing is just confirming, it is block mode isn't it? So it's like six weeks for a certain project?' Supporting examples demonstrated similar concerns about balancing study with work and life commitments. These inquiries revealed critical need for clarity about program structure and adaptability.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through comprehensive explanations of program flexibility. The primary response clearly articulated: 'Yes, one unit per six-week block, exactly right. You also always get two weeks early access, so you can turn those six-week teaching period blocks into eight-week teaching periods if you want to jump online early.' Supporting responses reinforced flexibility options including break possibilities and pace control. This approach effectively addressed work-life balance concerns while maintaining clear expectations about program structure and time management requirements.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice, consultants should: 1) Explore specific schedule requirements and constraints, 2) Provide concrete examples of successful study management strategies, 3) Outline available support resources for each study period, 4) Help create preliminary study timelines incorporating flexibility options, and 5) Proactively address potential challenges with specific management strategies."
+        },
+        {
+          "id": 2,
+          "title": "Strong Academic Progression Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371419385",
+              "segment_id": "16",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371395611",
+                "segment_id": "10",
+                "timestamp": "1:20"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated readiness to discuss academic progression, with examples including 'I have a Bachelor of Science from Melbourne Uni, majoring in Psychology' and 'Maybe to become a registered psychologist?' These triggers presented opportunities for collaborative planning while maintaining appropriate boundaries between educational guidance and career planning.",
+          "consultant_response": "Consultants showed strong collaborative planning by effectively connecting qualifications to next steps, with responses like 'So you're looking at doing your next steps, your fourth year option, is that right?' and 'This will be your first step in the pathway to becoming a psychologist.' These responses demonstrated understanding of academic requirements while maintaining appropriate focus on educational pathways rather than detailed career planning. The approach successfully balanced guidance with proper role boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Explore educational goals in more detail while focusing specifically on program pathways, 2) Provide clearer connections between current qualifications and future academic opportunities, 3) Set clear expectations about educational requirements while referring students to appropriate services for career planning, and 4) Document progression plans for future reference."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Alternative Solutions",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277438366",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "When faced with visa restrictions preventing online study options, the student expressed frustration: 'So there's nothing you can do.' This moment required immediate problem-solving to maintain enrollment possibility and student engagement.",
+          "consultant_response": "The consultant demonstrated exemplary proactive planning by immediately suggesting viable alternatives: 'The other option, which we can't do online, but if they're willing to go on campus there would probably be a bachelor degree might be the best option for them through the campus. It might be worth having a chat with them.' This response effectively transformed a potential barrier into a new opportunity while maintaining student engagement and providing clear next steps.",
+          "priority": "high",
+          "recommended_approach": "This represents best practice in collaborative planning. Consultants should maintain this approach by: 1) Acknowledging limitations while maintaining optimism, 2) Immediately presenting viable alternatives, 3) Offering connections to relevant resources, 4) Following up to ensure successful pathway transition, and 5) Documenting solutions for similar future scenarios."
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Context Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170249718",
+              "segment_id": "29",
+              "timestamp": "1:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184800077",
+                "segment_id": "2",
+                "timestamp": "00:12"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant personal circumstances requiring tailored planning approaches. The primary example involved an international student noting: 'I'm actually in Europe at the moment' while supporting examples revealed similar needs for personalized consideration of individual situations.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without fully exploring implications or developing personalized strategies. This resulted in missed opportunities to create truly tailored study plans and support approaches based on individual circumstances. The lack of detailed exploration limited the ability to provide targeted solutions and build student confidence.",
+          "priority": "high",
+          "recommended_approach": "To improve personal context integration: 1) Thoroughly explore individual circumstances and constraints, 2) Create detailed plans addressing specific needs, 3) Document particular requirements for future reference, 4) Develop structured support strategies aligned with personal situations, 5) Set clear expectations based on individual context, and 6) Create specific action plans incorporating personal factors."
+        },
+        {
+          "id": 5,
+          "title": "Basic Support System Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "90",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276919856",
+                "segment_id": "172",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students across multiple calls sought reassurance about available support, exemplified by expressions like 'Thank you so much, that was quite an experience.' These moments presented opportunities to reinforce available support systems while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants provided basic mention of support services with responses like 'If you have any issues, we do have support available, student advisors and academics, and coaches available.' This approach missed opportunities for comprehensive support system planning while maintaining pre-enrollment scope. The limited detail reduced the potential impact on student confidence and program understanding.",
+          "priority": "high",
+          "recommended_approach": "To enhance support system integration while maintaining appropriate boundaries: 1) Provide clearer overview of available support resources, 2) Create structured support planning timeline, 3) Set clear expectations about pre- and post-enrollment support, 4) Document specific support needs for future reference, and 5) Develop clear handoff plans to relevant support services."
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Follow-up Strategy",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063330031",
+              "segment_id": "72",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063330031",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students requested detailed program information and follow-up communications, exemplified by 'Am I able to get some information on email or something?' These requests indicated need for comprehensive, structured information sharing and ongoing communication planning.",
+          "consultant_response": "Consultants typically provided basic responses like 'I'll send you through the handbook' without developing clear follow-up plans or personalizing information sharing approaches. This resulted in missed opportunities for structured engagement maintenance and reduced potential for ongoing connection with prospective students.",
+          "priority": "high",
+          "recommended_approach": "To improve follow-up planning: 1) Create detailed information sharing timeline, 2) Personalize follow-up approach based on student preferences, 3) Set clear expectations for next steps and timing, 4) Document specific information requests and preferences, 5) Develop structured check-in points, and 6) Create comprehensive communication strategy accounting for individual circumstances."
+        }
+      ]
+    }
+  }
+}

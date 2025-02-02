@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 187,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.203208556149733,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 138,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.79679144385027,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.698185030427695,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 138,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 155.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.36,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Program Integration",
+        "explanation": "Consultants effectively align qualifications and pathways while maintaining clear pre-enrollment boundaries"
+      },
+      {
+        "headline": "Flexible Study Planning",
+        "explanation": "Strong demonstration of adapting study options to accommodate student circumstances and commitments"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Excellence in connecting students with appropriate resources while maintaining role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Circumstance Integration",
+        "explanation": "Need for deeper exploration of student situations when planning study arrangements"
+      },
+      {
+        "headline": "Strengthened Goal Alignment",
+        "explanation": "More thorough discussion needed of student goals before presenting program options"
+      },
+      {
+        "headline": "Comprehensive Support Planning",
+        "explanation": "Better integration required of support services while maintaining pre-enrollment boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Program Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184983972",
+              "segment_id": "22",
+              "timestamp": "01:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292574554",
+                "segment_id": "87",
+                "timestamp": "12:34"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on qualification pathways and optimal program timing",
+          "consultant_response": "Clear direction provided: 'With that particular course, I actually wouldn't advise that one for you because you've already achieved the early childhood component... We have the Bachelor of Education Primary.'",
+          "context_impact": "Strategic program recommendations increased student confidence in educational decisions",
+          "recommended_approach": "Could enhance by exploring specific career goals when suggesting alternatives"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Accommodation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371350820",
+              "segment_id": "215",
+              "timestamp": "08:31"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063419236",
+                "segment_id": "49",
+                "timestamp": "02:09"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about balancing study with work and personal commitments",
+          "consultant_response": "Collaborative approach demonstrated: 'We can look at your schedule to see how our flexible study options can fit into your work-life balance.'",
+          "context_impact": "Effective flexibility discussions increased confidence in program manageability",
+          "recommended_approach": "None needed - excellent demonstration of flexible planning"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Connection",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277094381",
+              "segment_id": "52",
+              "timestamp": "06:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student encountered specific technical challenge with CASPER test registration",
+          "consultant_response": "Clear guidance provided: 'You need to look at the 2024 to 2025 cycle... go back to the 2024 to 2025 cycle and you'll see education there.'",
+          "context_impact": "Quick resolution of technical barrier prevented enrollment delay",
+          "recommended_approach": "None needed - exemplary support within role boundaries"
+        },
+        {
+          "id": 4,
+          "title": "Limited Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370693517",
+              "segment_id": "105",
+              "timestamp": "12:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371350820",
+                "segment_id": "219",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing personal circumstances affecting study capacity",
+          "consultant_response": "Basic acknowledgment without detailed discussion of accommodation options",
+          "context_impact": "Insufficient exploration may leave students uncertain about program suitability",
+          "recommended_approach": "Should explore specific circumstances and discuss relevant flexible arrangements"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Goal Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "197",
+              "timestamp": "08:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty between program options: 'I'm torn between like just doing like the ECT or the ECT in primary'",
+          "consultant_response": "Basic inquiry about goals without detailed program comparison",
+          "context_impact": "Limited exploration may affect confidence in program choice",
+          "recommended_approach": "Should provide comprehensive comparison aligned with career objectives"
+        },
+        {
+          "id": 6,
+          "title": "Incomplete Support Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370693517",
+              "segment_id": "105",
+              "timestamp": "12:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370661180",
+                "segment_id": "108",
+                "timestamp": "15:40"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about managing study commitments",
+          "consultant_response": "Basic reassurance without exploring specific support mechanisms",
+          "context_impact": "Missed opportunity to demonstrate comprehensive support available",
+          "recommended_approach": "Should outline available support services while maintaining role boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Program Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184983972",
+              "segment_id": "22",
+              "timestamp": "01:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292574554",
+                "segment_id": "87",
+                "timestamp": "12:34"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on educational pathways and completion timing, expressing concerns about qualification recognition and optimal enrollment timing. Key examples include: 'I've got the three-year degree and I'm looking for it to cover the fourth year of early childhood,' and students seeking clarity on diploma completion implications for program entry.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through comprehensive pathway guidance while maintaining appropriate boundaries: 'So with that particular course, I actually wouldn't advise that one for you because you've already achieved the early childhood component... We have the Bachelor of Education Primary... and postgraduate options as well.' Strategic timing advice included: 'If you are completing it in March, a suggestion I can make for you is to wait until our July intake because then you would have that full diploma completed.' This approach effectively balanced immediate needs with optimal outcomes.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong foundation, consultants should: 1) Acknowledge current qualifications and circumstances, 2) Provide clear reasoning for pathway recommendations, 3) Offer multiple progression options, 4) Explain credit and timing implications, 5) Explore specific career goals when suggesting alternatives, and 6) Document agreed pathways while maintaining appropriate professional boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Accommodation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371350820",
+              "segment_id": "215",
+              "timestamp": "08:31"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063419236",
+                "segment_id": "49",
+                "timestamp": "02:09"
+              }
+            ]
+          },
+          "student_trigger": "At segment 215, the student expressed significant concern: 'I want to advance my career but I'm worried about balancing study with my current role.' Supporting examples showed similar patterns of students seeking to understand how study could fit with existing commitments. These situations presented critical opportunities for demonstrating program flexibility.",
+          "consultant_response": "Consultants effectively addressed flexibility concerns through collaborative planning: 'We can look at your schedule to see how our flexible study options can fit into your work-life balance. It's quite flexible in that regard.' Supporting examples showed similar strength: 'Absolutely, yeah. I'll book you in for that one so you know it doesn't take any time out of your day today.' This approach successfully balanced immediate guidance with appropriate role boundaries.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach while enhancing through: 1) Beginning with broad exploration of available time and study preferences, 2) Providing high-level overview of flexible study options, 3) Clearly differentiating between immediate guidance and post-enrollment support, 4) Referencing learning coach availability for detailed study planning post-enrollment, and 5) Documenting key flexibility requirements for enrollment success."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Connection",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277094381",
+              "segment_id": "52",
+              "timestamp": "06:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student encountered a specific technical barrier during CASPER test registration: 'I have tried to register in the CASPER test and the options that I have, there's nothing in about education, postgraduate or undergraduate.' This challenge presented a potential enrollment impediment requiring immediate resolution.",
+          "consultant_response": "The consultant provided precise, actionable guidance while maintaining professional boundaries: 'Ah. Okay. You need to look at the 2024 to 2025 cycle. You're probably in the 2025 to 2026 cycle, which is not. So go back to the 2024 to 2025 cycle and you'll see education there.' This clear instruction effectively resolved the immediate barrier while staying within appropriate service scope.",
+          "priority": "high",
+          "recommended_approach": "This interaction represents best practice in support connection by: 1) Quickly identifying specific issues, 2) Providing clear, step-by-step guidance, 3) Maintaining focus on resolution within role boundaries, 4) Ensuring student understanding, 5) Facilitating immediate progress, and 6) Documenting solutions for future reference."
+        },
+        {
+          "id": 4,
+          "title": "Limited Circumstance Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370693517",
+              "segment_id": "105",
+              "timestamp": "12:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371350820",
+                "segment_id": "219",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant personal circumstances affecting study capacity. Primary example: 'I have lived quite a rough life, my body is not going to be able to keep up with that forever.' Supporting examples showed similar patterns of students revealing important contextual factors requiring consideration in study planning.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring implications: 'Yeah, absolutely. Would it benefit us having a further discussion after I have read the email.' This approach missed opportunities to demonstrate how program flexibility could accommodate specific circumstances while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "Enhance circumstance exploration through: 1) Acknowledging specific challenges expressed, 2) Discussing relevant flexible study options, 3) Explaining available support mechanisms while maintaining role boundaries, 4) Creating preliminary success strategies, 5) Documenting key requirements for enrollment planning, and 6) Clearly differentiating between immediate guidance and post-enrollment support."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Goal Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "197",
+              "timestamp": "08:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant program choice uncertainty: 'It's just I'm torn between like just doing like the ECT or the ECT in primary because I've heard like two different things from two different sides.' This revealed a critical need for detailed program comparison and goal alignment.",
+          "consultant_response": "The consultant provided only basic inquiry: 'Well, what would your goal be then in regards to that? What would you like to achieve with your career?' This surface-level exploration missed the opportunity for comprehensive program comparison and detailed career pathway discussion.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge the complexity of program choice, 2) Explore specific aspects important to the student's decision, 3) Provide detailed comparison of program benefits and outcomes, 4) Discuss career pathway implications, 5) Create a structured decision-making framework, and 6) Document key considerations while maintaining appropriate boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Incomplete Support Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370693517",
+              "segment_id": "105",
+              "timestamp": "12:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370661180",
+                "segment_id": "108",
+                "timestamp": "15:40"
+              }
+            ]
+          },
+          "student_trigger": "Students across multiple calls expressed concerns about managing study commitments. Notable examples included: 'So, full-time work, plus I have two children,' and 'And in terms of studying online are there any for example issues or any limitations?' These queries indicated need for comprehensive support guidance.",
+          "consultant_response": "Consultants typically provided basic reassurance without exploring specific support mechanisms or creating detailed success strategies. Responses focused on immediate concerns without addressing the full range of available support resources or creating concrete plans for utilizing support services.",
+          "priority": "high",
+          "recommended_approach": "To enhance support integration while maintaining boundaries: 1) Acknowledge specific challenges expressed, 2) Outline comprehensive support services available, 3) Discuss flexible study options aligned with commitments, 4) Share relevant success strategies, 5) Create preliminary support utilization plans, 6) Document specific support needs, and 7) Ensure clear understanding of post-enrollment support access."
+        }
+      ]
+    }
+  }
+}

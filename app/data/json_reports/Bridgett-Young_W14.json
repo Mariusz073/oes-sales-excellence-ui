@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "consultant_name": "Bridgett Young",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 299,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.39799331103679,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 241,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.60200668896321,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.9612903903938,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 241,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 126.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.8,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Planning",
+        "explanation": "Consultants excel at creating personalized educational pathways that align with student circumstances while maintaining proper boundaries"
+      },
+      {
+        "headline": "Flexible Study Support",
+        "explanation": "Strong demonstration of adaptable study options that accommodate varying student commitments while providing clear structure"
+      },
+      {
+        "headline": "Support Resource Integration",
+        "explanation": "Effective incorporation of available support services while maintaining appropriate pre-enrollment guidance scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Guidance Enhancement",
+        "explanation": "Need for deeper exploration of career-education alignment while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Study Planning Depth",
+        "explanation": "Opportunity to provide more comprehensive study management guidance while staying within proper scope"
+      },
+      {
+        "headline": "Financial Support Navigation",
+        "explanation": "Room to enhance financial planning discussions and support options within appropriate guidance boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170248867",
+              "segment_id": "18",
+              "timestamp": "1:39"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062912663",
+                "segment_id": "36",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing need for clear educational pathways aligned with personal goals and circumstances",
+          "consultant_response": "Provided comprehensive explanations linking objectives with structured pathways: 'We would be looking to get you into the Bachelor of Laws course via our pathway through the Undergraduate Certificate.'",
+          "context_impact": "Effective pathway planning increased student confidence in program alignment",
+          "recommended_approach": "None needed - excellent pathway planning within boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184690446",
+              "segment_id": "191",
+              "timestamp": "20:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169615403",
+                "segment_id": "55",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on managing study alongside work commitments",
+          "consultant_response": "Demonstrated adaptable options with structure: 'You're always welcome to start off with one unit and then next teaching period... if you want to go up to two, you can.'",
+          "context_impact": "Clear flexibility options enhanced confidence in managing study commitments",
+          "recommended_approach": "None needed - strong flexibility guidance"
+        },
+        {
+          "id": 3,
+          "title": "Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594972515389",
+              "segment_id": "237",
+              "timestamp": "40:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292770139",
+                "segment_id": "33",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on available support services and academic assistance",
+          "consultant_response": "Effectively outlined available support while maintaining boundaries: 'We've got student advisors who are available seven days a week... for academic skills and support.'",
+          "context_impact": "Clear support framework explanation increased enrollment confidence",
+          "recommended_approach": "None needed - appropriate support integration"
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170352457",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370706274",
+                "segment_id": "42",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about career pathway alignment",
+          "consultant_response": "Basic program information without exploring career alignment",
+          "context_impact": "Limited career exploration reduced confidence in program fit",
+          "recommended_approach": "Should explore career goals while maintaining appropriate guidance boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Study Plan Development",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062912663",
+              "segment_id": "108",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276918913",
+                "segment_id": "31",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking detailed guidance on managing study commitments",
+          "consultant_response": "Basic time requirements without exploring management strategies",
+          "context_impact": "Limited planning reduced confidence in workload management",
+          "recommended_approach": "Should provide more comprehensive study planning while maintaining boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062590991",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277319264",
+                "segment_id": "276",
+                "timestamp": "14:36"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about financial aspects and payment options",
+          "consultant_response": "Basic fee information without exploring support options",
+          "context_impact": "Limited financial guidance reduced enrollment confidence",
+          "recommended_approach": "Should provide comprehensive financial planning guidance within appropriate scope"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170248867",
+              "segment_id": "18",
+              "timestamp": "1:39"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062912663",
+                "segment_id": "36",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed need for clear educational pathways aligned with their circumstances and goals. Primary example stated: 'I've got a lot of stuff going on in my life that I want to understand.' Supporting examples showed similar needs for pathway clarity and qualification alignment. These moments presented crucial opportunities for collaborative planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning through comprehensive pathway explanations while maintaining appropriate scope. Primary example showed strong guidance: 'We would be looking to get you into the Bachelor of Laws course via our pathway through the Undergraduate Certificate.' Supporting examples reinforced this approach by connecting personal objectives with structured educational options while staying within pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "To maintain this best practice: 1) Explore student circumstances thoroughly but appropriately, 2) Connect personal goals with suitable program options, 3) Provide clear pathway progression within proper scope, 4) Maintain appropriate pre-enrollment boundaries throughout planning discussions."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184690446",
+              "segment_id": "191",
+              "timestamp": "20:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169615403",
+                "segment_id": "55",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently sought guidance on managing study commitments alongside work and personal responsibilities. Primary example explored starting options while supporting examples demonstrated need for flexible arrangements. These interactions required careful balance of flexibility and structure.",
+          "consultant_response": "Consultants effectively demonstrated flexible study options while maintaining appropriate structure and guidance. Primary example showed strong approach: 'You're always welcome to start off with one unit and then next teaching period... if you want to go up to two, you can.' Supporting examples reinforced this flexible yet structured approach through clear option presentation and peer examples.",
+          "priority": "high",
+          "recommended_approach": "Continue effective flexibility discussions by: 1) Acknowledging individual circumstances appropriately, 2) Presenting clear study load options within proper scope, 3) Providing relevant peer examples while maintaining boundaries, 4) Ensuring appropriate pre-enrollment focus throughout planning discussions."
+        },
+        {
+          "id": 3,
+          "title": "Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594972515389",
+              "segment_id": "237",
+              "timestamp": "40:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292770139",
+                "segment_id": "33",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students across calls sought clarity on available support services and resources. Primary example inquired about academic support: 'With this course I would obviously get all the help and stuff that I need right from the lecturers?' Supporting examples showed similar needs for understanding available assistance while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants effectively outlined support framework while maintaining proper scope: 'We've got student advisors who are available seven days a week. They can help with academic skills and support, research writing and referencing skills.' Supporting examples demonstrated similar strength in appropriate support resource integration within pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "Maintain strong support integration by: 1) Clearly outlining available services within proper scope, 2) Maintaining strict pre-enrollment boundaries, 3) Creating clear support access pathways appropriate to enrollment stage, 4) Connecting support options to student needs while staying within role boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170352457",
+              "segment_id": "8",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370706274",
+                "segment_id": "42",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about career pathway alignment. Primary example stated: 'I'm not sure if this is the right path for my career.' Supporting examples demonstrated similar needs for understanding how educational choices align with career goals while maintaining appropriate guidance boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring career-education alignment effectively. Responses often missed opportunities to demonstrate program value through career relevance while maintaining appropriate pre-enrollment boundaries. Limited exploration reduced student confidence in program fit.",
+          "priority": "high",
+          "recommended_approach": "Enhance career integration by: 1) Exploring career aspirations within appropriate pre-enrollment scope, 2) Connecting program features to career goals while maintaining boundaries, 3) Providing relevant examples without overstepping role, 4) Creating clear career-education alignment within proper guidance scope, 5) Ensuring all career discussions stay within appropriate pre-enrollment parameters."
+        },
+        {
+          "id": 5,
+          "title": "Study Plan Development",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062912663",
+              "segment_id": "108",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276918913",
+                "segment_id": "31",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently sought detailed guidance on managing study commitments. Primary example showed specific concerns about full-time study management: 'if it's 12 months study so is that like full-time study right it's not part-time.' Supporting examples demonstrated similar needs for comprehensive planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically provided basic information without engaging in deeper planning discussions. Responses often focused on surface-level details: 'Correct so you would be looking around 20 hours per week worth of study' without exploring management strategies or creating comprehensive study plans while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "Improve study planning by: 1) Exploring current commitments within appropriate scope, 2) Developing clear management strategies while maintaining boundaries, 3) Creating structured study plans within pre-enrollment parameters, 4) Providing relevant examples without overstepping role, 5) Ensuring appropriate pre-enrollment focus throughout planning discussions."
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062590991",
+              "segment_id": "37",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277319264",
+                "segment_id": "276",
+                "timestamp": "14:36"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed financial concerns requiring support. Primary example stated: 'I want to make sure that my Hex is available.' Supporting examples showed similar needs for financial clarity and planning while maintaining appropriate guidance boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without comprehensive financial planning discussion. Responses often missed opportunities to explore support options while maintaining appropriate pre-enrollment boundaries. Limited guidance reduced student confidence in financial aspects.",
+          "priority": "high",
+          "recommended_approach": "Enhance financial support discussions by: 1) Acknowledging concerns within appropriate scope, 2) Providing comprehensive support overview while maintaining boundaries, 3) Creating clear financial planning pathways within proper parameters, 4) Connecting to relevant resources without overstepping role, 5) Ensuring all financial guidance stays within appropriate pre-enrollment scope."
+        }
+      ]
+    }
+  }
+}

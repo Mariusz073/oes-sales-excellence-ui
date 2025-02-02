@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "consultant_name": "Sebastian Saunders",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 174,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 60,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 34.48275862068966,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 114,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 65.51724137931035,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.503615420953864,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 114,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 139.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.31,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Validation",
+        "explanation": "Consultants excel at validating qualifications and mapping clear educational pathways while maintaining pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Clear articulation of available support resources and flexible options while directing detailed planning to appropriate services"
+      },
+      {
+        "headline": "Effective Process Navigation",
+        "explanation": "Strong guidance through enrollment steps and requirements while managing expectations and maintaining proper scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Goal Exploration",
+        "explanation": "Need for more thorough exploration of student goals and aspirations while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Comprehensive Support Communication",
+        "explanation": "Opportunity to better outline available support options and resources while staying within consultative role"
+      },
+      {
+        "headline": "Strategic Alternative Planning",
+        "explanation": "More proactive exploration needed of alternative pathways and options when initial choices aren't suitable"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370718006",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063257750",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking validation of qualifications and clarity on program eligibility requirements.",
+          "consultant_response": "Effectively confirmed eligibility through multiple criteria while maintaining appropriate boundaries: 'You're eligible multiple ways - your diploma meets requirements and you've completed more than eight higher ed units.'",
+          "context_impact": "Clear validation of qualifications and pathway mapping increased student confidence in enrollment decisions.",
+          "recommended_approach": "Could enhance by exploring additional credentials that might support applications."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277071131",
+              "segment_id": "102",
+              "timestamp": "24:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292963178",
+                "segment_id": "46",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about support needs and accessibility requirements.",
+          "consultant_response": "Effectively outlined available support while directing detailed planning to appropriate services: 'Yes, certainly... our accessibility services can make reasonable adjustments to your studies.'",
+          "context_impact": "Clear support information enhanced student confidence while maintaining proper boundaries.",
+          "recommended_approach": "None needed - exemplary support discussion demonstrated."
+        },
+        {
+          "id": 3,
+          "title": "Effective Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595293494461",
+              "segment_id": "36",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184612067",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on enrollment processes and requirements.",
+          "consultant_response": "Provided specific, actionable guidance on timelines and next steps: 'Normally it's about 24 hours to come back... the due date for submitting a matched exemptions application is this Friday.'",
+          "context_impact": "Clear process guidance enhanced student confidence and engagement.",
+          "recommended_approach": "Consider adding step-by-step documentation guidance."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184733798",
+              "segment_id": "3",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276803898",
+                "segment_id": "94",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students presenting opportunities to explore educational and career goals.",
+          "consultant_response": "Basic acknowledgment without thorough exploration of aspirations.",
+          "context_impact": "Insufficient goal exploration limited ability to provide targeted guidance.",
+          "recommended_approach": "Should explore student goals more thoroughly while maintaining advisory boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Support Resource Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184847512",
+              "segment_id": "46",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063444942",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking information about support resources and options.",
+          "consultant_response": "Basic referrals without comprehensive support planning: 'Yep there are government scholarships yeah available for yes students doing yeah doing this course.'",
+          "context_impact": "Limited explanation of support options affected student confidence.",
+          "recommended_approach": "Should provide detailed overview of support resources within role boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292963178",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170450928",
+                "segment_id": "75",
+                "timestamp": "04:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing interest in unavailable programs or pathways.",
+          "consultant_response": "Basic redirection without exploring alternative options: 'So we only have primary and early childhood courses.'",
+          "context_impact": "Insufficient exploration of alternatives may have impacted enrollment potential.",
+          "recommended_approach": "Should proactively explore alternative pathways while maintaining appropriate guidance boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370718006",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063257750",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed anxiety about program eligibility and qualification recognition, with one stating: 'Everything you said today has been extremely helpful, and I'm very appreciative, but obviously there is a nerve-wracking aspect of cancelling something and then potentially not getting into Swinburne.' This revealed significant concern about program accessibility and recognition of prior learning.",
+          "consultant_response": "Consultants demonstrated exemplary collaborative planning by providing comprehensive eligibility confirmation through multiple criteria while maintaining appropriate boundaries. Key response: 'Yeah, so I can confirm you're eligible. You've got your diploma meets the requirements and you've completed more than eight higher ed units.' This approach effectively validated qualifications while building confidence in the enrollment process and staying within pre-enrollment guidance scope.",
+          "priority": "high",
+          "recommended_approach": "To optimize qualification validation while maintaining boundaries: 1) Acknowledge eligibility concerns explicitly, 2) Validate qualifications through multiple criteria, 3) Provide clear documentation guidance, 4) Explore additional relevant credentials, 5) Reference post-enrollment support for detailed planning. This ensures comprehensive support while maintaining appropriate pre-enrollment scope."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277071131",
+              "segment_id": "102",
+              "timestamp": "24:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292963178",
+                "segment_id": "46",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed significant concerns about support needs, including specific questions like: 'I am diagnosed with ADHD. I'm not sure if that qualifies for support' and 'Being Melbourne-based, obviously for placements and stuff, do you guys have staff that facilitate getting placements interstate?' These moments required careful balance between providing confidence in support systems while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants excelled at outlining available support resources and flexible options while directing detailed planning to appropriate post-enrollment services. Key responses included: 'Yes, certainly... our accessibility services can make reasonable adjustments to your studies' and 'We let our students choose where they do their placements... throughout Australia. We have a placements team that can assist you.' This approach effectively built confidence while maintaining proper role boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance support integration while maintaining boundaries: 1) Acknowledge support needs explicitly, 2) Outline available resources clearly, 3) Explain flexible options, 4) Direct detailed planning to appropriate services, 5) Set clear expectations about post-enrollment support. This ensures comprehensive guidance while maintaining proper role boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595293494461",
+              "segment_id": "36",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184612067",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on enrollment processes, with questions like: 'Just wanted to know about RPL and fees and stuff like that, and when you close your applications' and 'Do I have to do anything else or just wait for any news in the meantime?' These moments required clear guidance while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants demonstrated strong process navigation by providing specific, actionable guidance: 'I can send you through the details for submitting what's called a match exemptions application... The due date for submitting a matched exemptions application for that intake is this Friday the 31st' and 'Normally it's about 24 hours to come back. So I would say we'd get an outcome this afternoon.' This approach effectively outlined steps while maintaining proper scope.",
+          "priority": "high",
+          "recommended_approach": "To optimize process navigation: 1) Break down processes into clear steps, 2) Provide specific requirements and deadlines, 3) Confirm understanding at each stage, 4) Add step-by-step documentation guidance, 5) Maintain appropriate boundaries between guidance and detailed planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184733798",
+              "segment_id": "3",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276803898",
+                "segment_id": "94",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students presented opportunities to explore educational and career goals, with statements like: 'I need it to go up a level at here at work anyway' and 'I really want to study psychology course to test for my career in the future.' These moments required balanced exploration while maintaining appropriate boundaries between sales guidance and career counseling.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without thoroughly exploring aspirations or connecting them to educational pathways. While they maintained appropriate role boundaries, they missed opportunities to gather valuable information for pathway planning through targeted questions about goals and motivations.",
+          "priority": "high",
+          "recommended_approach": "While maintaining proper boundaries: 1) Ask targeted questions about educational and career aspirations, 2) Connect goals to program features, 3) Discuss timeline preferences, 4) Explore motivation and drivers, 5) Reference career development resources for detailed planning."
+        },
+        {
+          "id": 5,
+          "title": "Support Resource Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184847512",
+              "segment_id": "46",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063444942",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students actively sought information about support resources, with specific questions like: 'Is there an ICANN eligible for the government scholarships as well?' and 'I was hoping that I could have a conversation with somebody about the timetable and which electives are ones that are more important.' These moments required comprehensive explanation while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants provided basic referrals without comprehensive explanation: 'Yep there are government scholarships yeah available for yes students doing yeah doing this course' and 'The best people to speak to about that are our student advisors.' While maintaining role boundaries, they missed opportunities to build confidence in support systems through more detailed overview of available resources.",
+          "priority": "high",
+          "recommended_approach": "While maintaining proper scope: 1) Provide comprehensive overview of support options, 2) Explain eligibility criteria clearly, 3) Outline access processes, 4) Reference specific resources, 5) Direct to appropriate services for detailed planning."
+        },
+        {
+          "id": 6,
+          "title": "Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292963178",
+              "segment_id": "10",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170450928",
+                "segment_id": "75",
+                "timestamp": "04:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed interest in unavailable programs, with statements like: 'I'd like secondary but it depends on what qualifications I need' and 'So, your rules exclude me then?' These moments required strategic redirection while preserving student engagement and exploring viable alternatives.",
+          "consultant_response": "Consultants typically provided basic redirection without exploring alternatives: 'So we only have primary and early childhood courses.' This missed opportunities to maintain enrollment potential through proactive exploration of other suitable pathways or options that could meet student needs while staying within appropriate guidance boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate scope: 1) Acknowledge specific program interests, 2) Explore alternative pathways proactively, 3) Discuss relevant requirements, 4) Highlight available options, 5) Reference planning support for detailed guidance."
+        }
+      ]
+    }
+  }
+}

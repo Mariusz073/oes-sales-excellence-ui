@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "consultant_name": "James Lockie",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 207,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 35,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 16.908212560386474,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 172,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 83.09178743961353,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 47.805059973964624,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 172,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 201.19,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.63,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Planning",
+        "explanation": "Consultants effectively guide students through educational pathways while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Work-Life Integration Support",
+        "explanation": "Consultants successfully help students plan program integration with existing professional and personal commitments"
+      },
+      {
+        "headline": "Proactive Timeline Management",
+        "explanation": "Consultants demonstrate flexibility in accommodating student circumstances while maintaining clear progress pathways"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Goal Alignment",
+        "explanation": "Need for deeper exploration of student motivations and goals during program planning discussions"
+      },
+      {
+        "headline": "Strategic Career Integration",
+        "explanation": "Greater emphasis needed on career transition guidance while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Circumstance-Based Planning",
+        "explanation": "More thorough incorporation of student circumstances needed when discussing study options and support"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062843524",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277378777",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students provided opportunities to explore program alignment with goals",
+          "consultant_response": "Consultants focused on administrative aspects without exploring underlying motivations",
+          "context_impact": "Missed opportunities to validate decisions and ensure program fit",
+          "recommended_approach": "Should engage in deeper discussion about goals and program alignment"
+        },
+        {
+          "id": 5,
+          "title": "Limited Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170306262",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking project management pathway guidance",
+          "consultant_response": "Stated 'We wouldn't have one through Monash Online' without exploring alternatives",
+          "context_impact": "Limited response may have discouraged further educational exploration",
+          "recommended_approach": "Should explore interests and suggest alternative pathways while maintaining boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Limited Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277282274",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student needed to organize childcare arrangements around study",
+          "consultant_response": "Basic callback option without exploring scheduling needs",
+          "context_impact": "Insufficient exploration may have left student uncertain about study feasibility",
+          "recommended_approach": "Should explore specific scheduling needs and discuss flexible study options"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170324808",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062742878",
+                "segment_id": "28",
+                "timestamp": "4:52"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed desire for career transitions despite limited qualifications, with examples including: 'I want to go down the psychology path but I only finished year 10' and 'It is a bit of a career jump, but it's something that I'm quite passionate about.' These moments represented critical opportunities for collaborative planning around educational pathways.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by providing clear educational pathways while maintaining appropriate boundaries. They effectively acknowledged student aspirations while focusing on concrete next steps: 'If you want to go down the psychology pathway... apply to a uni that offers an online undergraduate degree' and 'these grad certs are really good because you can literally do it in seven months.' This approach balanced encouragement with realistic guidance.",
+          "priority": "high",
+          "recommended_approach": "To enhance career transition discussions: 1) Acknowledge career aspirations while maintaining role boundaries, 2) Focus on immediate educational requirements and available study options, 3) Create clear action steps aligned with educational goals, 4) Direct students to appropriate resources for detailed career planning, and 5) Maintain focus on educational pathway guidance rather than specific career advice."
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277378777",
+              "segment_id": "91",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276862863",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about balancing professional commitments with study requirements. The primary example occurred when a student asked: 'Do you find the practicalities of still working close to full-time, is that manageable?' This represented a critical decision point for enrollment, requiring clear guidance on program flexibility.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by providing specific, practical information about program flexibility and support structures. The consultant explained: 'It is manageable, it is set up to be manageable, we put in place plenty of support around that as well, about 20 to 25 hours a week, but you'll only ever do one unit.' This approach effectively addressed workload concerns while highlighting program features designed for working professionals.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice, consultants should: 1) Acknowledge the importance of work-study balance, 2) Gather specific information about work schedules and commitments, 3) Provide detailed examples of how other working professionals manage the program, 4) Outline available support services, and 5) Discuss options for adjusting study load if needed."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Timeline Accommodation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "33",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 33, the student requested timeline flexibility: 'I need some time to handle this issue, is it possible for me to enrol another term, not this term?' This demonstrated proactive planning while seeking accommodation for their circumstances.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by readily accommodating the timeline request while maintaining enrollment momentum. This flexibility helped reduce potential stress while ensuring the student remained engaged in the enrollment process.",
+          "priority": "medium",
+          "recommended_approach": "To enhance this interaction, consultants should: 1) Positively acknowledge the request while showing appreciation for proactive planning, 2) Explore specific timeline preferences to ensure proper alignment, 3) Set clear expectations about follow-up communication, and 4) Provide relevant deadline information for future terms."
+        },
+        {
+          "id": 4,
+          "title": "Limited Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062843524",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277378777",
+                "segment_id": "15",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students provided opportunities to explore program alignment with their goals and aspirations. Key examples included program changes and requests for course information, presenting crucial moments for collaborative planning around program fit.",
+          "consultant_response": "Consultants consistently focused on administrative aspects without adequately exploring underlying motivations or ensuring program alignment with student goals. Responses typically moved directly to processing changes or providing basic information without engaging in meaningful discussion about student objectives.",
+          "priority": "high",
+          "recommended_approach": "To demonstrate stronger collaborative planning: 1) Acknowledge each opportunity to explore student goals, 2) Ask targeted questions about career objectives and program expectations, 3) Validate decisions by connecting program features to stated goals, 4) Ensure program alignment through meaningful discussion, and 5) Maintain appropriate boundaries while gathering crucial information for effective planning."
+        },
+        {
+          "id": 5,
+          "title": "Limited Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170306262",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought specific guidance on educational pathways: 'Yeah, what would be a course that I would fit that?' This question demonstrated clear interest in finding an educational pathway aligned with their career goals.",
+          "consultant_response": "The consultant's dismissive response, 'Well, we wouldn't have one through Monash Online. You'd have to look at another provider,' failed to explore alternatives or provide constructive guidance for the student's educational journey.",
+          "priority": "high",
+          "recommended_approach": "A comprehensive response should: 1) Acknowledge specific career interests, 2) Explore various aspects of desired career path, 3) Discuss available pathways or alternative programs, 4) Maintain appropriate boundaries while providing guidance, and 5) Create clear next steps for pathway exploration."
+        },
+        {
+          "id": 6,
+          "title": "Limited Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277282274",
+              "segment_id": "60",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student indicated specific life circumstances affecting study planning: 'exactly what it was going to be because I need to organize care for my daughter.' This statement revealed crucial personal factors requiring consideration in educational planning.",
+          "consultant_response": "The consultant offered only a basic callback option without exploring the logistics of the student's situation. This inadequate exploration represents a missed opportunity to engage in necessary collaborative planning around study arrangements that could accommodate family responsibilities.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge the importance of childcare arrangements, 2) Explore specific scheduling needs and constraints, 3) Discuss flexible study options that accommodate family responsibilities, 4) Connect program flexibility with student circumstances, and 5) Create clear next steps that consider personal obligations."
+        }
+      ]
+    }
+  }
+}

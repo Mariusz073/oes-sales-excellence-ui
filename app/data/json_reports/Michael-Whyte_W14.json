@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 55,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 18,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.72727272727273,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 37,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.27272727272727,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 47.76318522510738,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 37,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 225.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.28,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Work-Study Balance Planning",
+        "explanation": "Consultants expertly help students create viable study plans that accommodate their work commitments and schedules"
+      },
+      {
+        "headline": "Proactive Timeline Communication",
+        "explanation": "Consultants provide comprehensive scheduling details that enable informed planning and decision-making"
+      },
+      {
+        "headline": "Responsive Technical Support",
+        "explanation": "Consultants take immediate action to resolve technical barriers while maintaining enrollment momentum"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Financial Planning Support",
+        "explanation": "Consultants should provide more comprehensive guidance on payment options and financial planning"
+      },
+      {
+        "headline": "Career Transition Planning",
+        "explanation": "More detailed exploration needed of how program elements support career change goals"
+      },
+      {
+        "headline": "Experience Recognition Integration",
+        "explanation": "Better acknowledgment needed of how prior professional experience enhances study journey"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370891313",
+              "segment_id": "94",
+              "timestamp": "09:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Paramedic working full-time shift work expressed concerns about managing course requirements alongside their schedule.",
+          "consultant_response": "Consultant demonstrated program adaptability: 'majority of our students are working full-time... you'll have video recordings... no exams, at no point you'll be required being on campus.'",
+          "context_impact": "Clear understanding of program flexibility crucial for student confidence in course completion.",
+          "recommended_approach": "None needed - excellent collaborative planning example"
+        },
+        {
+          "id": 2,
+          "title": "Proactive Timeline Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276904898",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277125763",
+                "segment_id": "56",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on program timing and entry points for planning purposes.",
+          "consultant_response": "Consultants provided detailed scheduling information including specific dates, intake periods, and program durations.",
+          "context_impact": "Clear timeline information enabled effective planning and increased enrollment confidence.",
+          "recommended_approach": "Could enhance by exploring specific benefits of each intake period"
+        },
+        {
+          "id": 3,
+          "title": "Responsive Technical Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370945515",
+              "segment_id": "6",
+              "timestamp": "01:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student encountered difficulty uploading required documents.",
+          "consultant_response": "Consultant offered immediate solution: 'I should be able to help you with that... I'll be helping you with your application.'",
+          "context_impact": "Quick resolution of technical barriers maintained enrollment momentum.",
+          "recommended_approach": "None needed - exemplary barrier resolution"
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370891313",
+              "segment_id": "124",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277368017",
+                "segment_id": "51",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about payment options and financial support.",
+          "consultant_response": "Basic cost information provided without exploring payment options or support mechanisms.",
+          "context_impact": "Limited financial guidance could impact enrollment decisions.",
+          "recommended_approach": "Should provide comprehensive financial planning guidance including payment options and support resources"
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277125763",
+              "segment_id": "18",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371351740",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared career transition goals without receiving comprehensive guidance.",
+          "consultant_response": "Basic program information provided without exploring career transition support.",
+          "context_impact": "Missed opportunities to explore career transition goals and program alignment.",
+          "recommended_approach": "Should investigate career goals and discuss how program elements support transitions"
+        },
+        {
+          "id": 6,
+          "title": "Experience Recognition Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371351740",
+              "segment_id": "27",
+              "timestamp": "02:17"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student with 9 years development experience inquired about credit recognition.",
+          "consultant_response": "Simply stated work experience couldn't be recognized without exploring alternative benefits.",
+          "context_impact": "Limited exploration of work experience value reduced perceived program benefits.",
+          "recommended_approach": "Should discuss how experience enhances learning journey and practical applications"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370891313",
+              "segment_id": "94",
+              "timestamp": "09:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the consultation, the student expressed significant concern about managing their paramedic shift work alongside their studies: 'I work full-time shift work as a paramedic, would, is it going to be, I know it's 100% online is it are there like in dates for assessments and things if like is it easy enough to work around full-time shift work do you think?' This revealed a crucial need for clear guidance on program flexibility and study management strategies.",
+          "consultant_response": "The consultant demonstrated exceptional collaborative planning skills by providing comprehensive information addressing multiple aspects of work-study balance: 'Yeah absolutely, I mean majority of our students are working full-time part-time and casual so yeah I'm sure you'll be fine. There is one interactive session once a week involved as long as it doesn't clash I mean even if it clashes with your work or the commitments you will have the video recordings later on to watch anyway. Yeah, there is no requirement, there are no exams, at no point you'll be required being on campus.' This response effectively built student confidence by highlighting flexible study options, accessibility of recorded sessions, and assessment structure.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach effectively demonstrated collaborative planning best practices by acknowledging specific challenges of shift work, providing concrete examples of flexibility, explaining multiple study options, and building confidence through relevant examples. To further enhance this approach, consultants could also provide written summaries of flexibility options and connect students with current learners managing similar work patterns."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Timeline Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276904898",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277125763",
+                "segment_id": "56",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students initiated critical discussions about program timing, with one stating: 'So my boss has sort of inquired about the course to get some guest dates' and another seeking clarity on entry points throughout the year. These interactions highlighted the importance of clear timeline planning for both personal and professional arrangements.",
+          "consultant_response": "Consultants consistently provided detailed, actionable timeline information. In one case: 'The teaching period six, is the final teaching period of this year would end on the 28th of November and then you would have a break over December and then you would restart in January.' Another consultant explained: 'It gives you more freedom with different entry points throughout the year... Our next available one would be our March intake, starting on the 3rd of March.' These responses effectively supported both immediate planning needs and longer-term scheduling considerations.",
+          "priority": "High",
+          "recommended_approach": "To enhance this strong foundation, consultants should systematically: 1) Offer written confirmation of key dates 2) Explain typical study patterns and time commitments 3) Highlight flexibility features 4) Create clear documentation for employer submissions 5) Discuss potential timeline adjustments 6) Outline specific benefits of each intake period relative to student circumstances."
+        },
+        {
+          "id": 3,
+          "title": "Responsive Technical Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370945515",
+              "segment_id": "6",
+              "timestamp": "01:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 6, the student expressed frustration with technical barriers: 'I was trying to upload my transcripts and my degree, but it doesn't allow me to.' This moment represented a critical juncture where effective support could significantly impact the student's enrollment progression and confidence in institutional support systems.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by immediately offering a practical solution: 'Look, I should be able to help you with that anyway... Probably easier just to send it directly to me anyway. I'll be helping you with your application.' This response effectively addressed the immediate barrier while establishing a clear support relationship. The consultant's proactive approach not only resolved the technical issue but also created a positive impression of institutional support.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach serves as a model for handling technical barriers. The response perfectly balanced immediate problem resolution with relationship building, while maintaining enrollment momentum. This approach should be maintained as a best practice example."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370891313",
+              "segment_id": "124",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277368017",
+                "segment_id": "51",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant financial concerns, with one asking: 'Can you tell me what the units cost without any help, without any HECS or anything?' and another voicing concerns about upfront payments without financial aid. These interactions revealed crucial opportunities for comprehensive financial planning support.",
+          "consultant_response": "Consultants typically provided only basic cost information without exploring payment options or support mechanisms. For example: 'The cost per unit is $4,287.50... the entire course would cost you about $17,150, but you just have to make a payment for one unit at a time.' This surface-level response missed opportunities to provide comprehensive financial guidance and explore available support options.",
+          "priority": "High",
+          "recommended_approach": "To demonstrate effective collaborative planning around finances, consultants should: 1) Acknowledge and explore financial concerns in detail 2) Present various payment options and timelines 3) Explain FEE-HELP eligibility and benefits 4) Discuss payment plans and flexibility 5) Provide clear documentation of financial options 6) Direct students to appropriate financial support services 7) Set clear expectations about payment schedules."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277125763",
+              "segment_id": "18",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371351740",
+                "segment_id": "27",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant career transition contexts, including one with '20 years nursing experience' and another with '9 years web development experience.' These moments presented crucial opportunities to explore career transition goals and demonstrate program value for career changers.",
+          "consultant_response": "Consultants typically provided basic program information without exploring how specific elements support career transitions or how students' extensive experience could enhance their learning journey. This surface-level approach missed opportunities to demonstrate program value for career changers and create personalized transition plans.",
+          "priority": "High",
+          "recommended_approach": "An effective approach would begin: 'Your extensive experience provides valuable transferable skills. Let's explore which aspects of the program most interest you and how your background could enhance your studies.' Consultants should then outline how specific program elements support career transition while highlighting how prior experience can accelerate learning and application of new skills."
+        },
+        {
+          "id": 6,
+          "title": "Experience Recognition Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371351740",
+              "segment_id": "27",
+              "timestamp": "02:17"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student inquired about recognition of their professional experience: 'I am a web developer for the past nine years. Is there also like credit that you can get from like work recognition or otherwise?' This presented an opportunity to discuss how their extensive experience could enhance their educational journey.",
+          "consultant_response": "The consultant provided a limited response: 'Yeah, unfortunately there's not with us, with Monash. We don't actually accept work experience for RPL.' This missed the opportunity to explore alternative ways their experience could add value to their studies and create a more engaging learning journey.",
+          "priority": "High",
+          "recommended_approach": "An effective response would acknowledge their experience while highlighting benefits: 'While we can't offer direct credit for work experience, your nine years in web development will be incredibly valuable in your studies. Let's explore how your technical background could enhance your learning experience and potentially fast-track your understanding of certain concepts. Many students find their professional experience provides unique perspectives and practical applications for their studies.'"
+        }
+      ]
+    }
+  }
+}

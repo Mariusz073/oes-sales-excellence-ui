@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 214,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 67,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.308411214953267,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 147,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.69158878504673,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.20159034493885,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 146,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 214.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.23,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Study Load Customization",
+        "explanation": "Consultants excel at tailoring study recommendations based on individual circumstances while maintaining role boundaries"
+      },
+      {
+        "headline": "Strategic Career Alignment",
+        "explanation": "Clear demonstration of connecting educational pathways to career goals while staying within advisory scope"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective introduction of relevant support services while maintaining pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for more thorough understanding of student circumstances before presenting solutions"
+      },
+      {
+        "headline": "Financial Planning Integration",
+        "explanation": "Opportunity to better incorporate financial planning discussions while maintaining appropriate scope"
+      },
+      {
+        "headline": "Timeline Planning Enhancement",
+        "explanation": "Room for more comprehensive exploration of study timelines and transition planning"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Tailored Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184550889",
+              "segment_id": "117",
+              "timestamp": "17:13"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062657129",
+                "segment_id": "43",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing need to balance study commitments with work and family responsibilities",
+          "consultant_response": "Provided specific recommendations based on available study time: 'If you think you've got about 20 hours I would say take two units to begin with'",
+          "context_impact": "Clear guidance on flexible study options built confidence in program feasibility",
+          "recommended_approach": "Could explore scheduling preferences in more detail"
+        },
+        {
+          "id": 2,
+          "title": "Career-Aligned Education Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062577650",
+              "segment_id": "39",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking career transition into teaching after 20 years in different field",
+          "consultant_response": "Engaged meaningfully with career aspirations: 'Sure, so it's something you've been thinking of doing for a while?'",
+          "context_impact": "Supportive exploration of career change reinforced confidence in educational pathway",
+          "recommended_approach": "Could provide clearer connection to post-enrollment career support"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Service Introduction",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169770029",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about managing study commitments",
+          "consultant_response": "Appropriately positioned learning coach support: 'You'll have access to our online learning coaches who can help develop study strategies'",
+          "context_impact": "Clear explanation of support services enhanced enrollment confidence",
+          "recommended_approach": "None needed - excellent balance achieved"
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370770474",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292634790",
+                "segment_id": "25",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance about study requirements and commitments",
+          "consultant_response": "Basic information provided without exploring circumstances: 'Yeah, so each unit you enroll in, you're looking about 10 to 12 hours per week'",
+          "context_impact": "Generic responses missed opportunities to understand specific needs",
+          "recommended_approach": "Should engage in deeper discussion of student needs while maintaining role boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062657129",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169770029",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing financial concerns and seeking payment information",
+          "consultant_response": "Basic cost information provided without exploring support options: 'It's about $3,200 for each unit'",
+          "context_impact": "Insufficient financial planning left students unclear about program affordability",
+          "recommended_approach": "Should proactively discuss payment plans and financial support mechanisms within role scope"
+        },
+        {
+          "id": 6,
+          "title": "Timeline Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371101556",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student needed to coordinate employment and study start dates",
+          "consultant_response": "Basic timing inquiry without detailed planning: 'So when are you starting that role?'",
+          "context_impact": "Insufficient timeline planning created uncertainty about transition management",
+          "recommended_approach": "Should engage in comprehensive timeline planning while maintaining appropriate boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Tailored Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184550889",
+              "segment_id": "117",
+              "timestamp": "17:13"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062657129",
+                "segment_id": "43",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about balancing study with existing commitments. Primary example involved a student stating: 'I've just had a baby...' while another mentioned: 'I'm looking for something that I can do like part-time study.' These situations demonstrated critical need for collaborative planning that considers individual circumstances.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing flexible options while maintaining clear guidance: 'If you think you've got about 20 hours I would say take two units to begin with' and 'So if you take the minimum study load at one unit at a time, that's about 14 to 16 hours per week.' This approach effectively balanced enrollment progression with sensitivity to student circumstances while maintaining appropriate role boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining current effective practices, consultants should: 1) Explore circumstances more thoroughly using open-ended questions, 2) Create clearer connections between circumstances and study options, 3) Set clearer expectations about post-enrollment support availability, 4) Provide more structured exploration of flexible study options, and 5) Discuss specific strategies for managing study loads while maintaining appropriate boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Career-Aligned Education Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062577650",
+              "segment_id": "39",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed: 'I wish I'd just followed my path 20 years ago and done my teaching.' This disclosure indicated both emotional readiness for career change and practical timing considerations, creating an opportunity for collaborative educational planning.",
+          "consultant_response": "The consultant effectively engaged with the career transition aspiration while maintaining appropriate boundaries: 'Sure, so it's something you've been thinking of doing for a while?' This approach demonstrated several strengths: 1) Acknowledged the significance of the career change decision, 2) Created space for deeper exploration of goals, 3) Showed understanding of the long-term nature of the aspiration, and 4) Maintained appropriate boundaries while providing support.",
+          "priority": "high",
+          "recommended_approach": "To optimize career transition support, consultants should: 1) Validate the timing of career change decisions, 2) Explore how flexible study options align with life transitions, 3) Outline clear steps toward teaching qualifications while maintaining role boundaries, 4) Highlight relevant post-enrollment support services, and 5) Create realistic timelines for achieving career goals through education."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Service Introduction",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169770029",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about managing study commitments alongside other responsibilities, creating an opportunity to discuss support services while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by appropriately introducing relevant support services: 'You'll have access to our online learning coaches who can help develop study strategies.' This response effectively highlighted available support while maintaining clear boundaries between pre-enrollment guidance and post-enrollment services.",
+          "priority": "high",
+          "recommended_approach": "This approach effectively balanced student support needs with appropriate pre-enrollment boundaries. To maintain this standard, consultants should: 1) Listen for signals indicating support needs, 2) Provide high-level overview of relevant services, 3) Maintain clear pre/post-enrollment boundaries, 4) Create confidence in support availability, and 5) Position detailed planning as a valuable post-enrollment benefit."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370770474",
+              "segment_id": "22",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292634790",
+                "segment_id": "25",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance about study commitments, with one asking: 'What is the recommended sort of study, I know it varies for different people, but how much sort of work there is on a weekly basis?' These inquiries presented opportunities to explore individual circumstances and develop personalized approaches to study planning.",
+          "consultant_response": "Consultants typically provided generic responses without exploring individual circumstances: 'Yeah, so each unit you enroll in, you're looking about 10 to 12 hours per week.' These surface-level interactions missed opportunities to understand broader student needs and potential barriers to success.",
+          "priority": "high",
+          "recommended_approach": "To enhance these interactions, consultants should: 1) Acknowledge individual differences in study needs, 2) Explore current commitments and preferences, 3) Discuss strategies for managing study loads, 4) Present flexible study options, and 5) Position detailed study planning as a post-enrollment service while maintaining appropriate boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062657129",
+              "segment_id": "21",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169770029",
+                "segment_id": "30",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed financial planning needs, with statements including 'I'd like to apply for a scholarship as well' and concerns about managing program costs alongside existing commitments. These comments indicated critical moments requiring collaborative financial planning to support enrollment decisions.",
+          "consultant_response": "Consultants typically provided only basic cost information without engaging in meaningful financial planning discussions. Responses such as 'It's about $3,200 for each unit' missed opportunities to explore various financial pathways and support options.",
+          "priority": "high",
+          "recommended_approach": "Consultants should enhance financial planning collaboration by: 1) Acknowledging financial concerns empathetically, 2) Providing comprehensive information about payment options including FEE-HELP, 3) Discussing scholarship opportunities and application timelines, 4) Creating preliminary financial plans aligned with individual circumstances, 5) Directing to additional financial planning resources, and 6) Establishing follow-up discussions to review and refine financial strategies."
+        },
+        {
+          "id": 6,
+          "title": "Timeline Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371101556",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student needed to coordinate their employment start date with their studies, representing a critical planning requirement for successful enrollment and career progression. This moment required careful attention to timeline alignment and transition planning.",
+          "consultant_response": "The consultant's response was limited to a basic timing inquiry: 'So when are you starting that role?' This missed the opportunity for detailed timeline planning and discussion of transition support options, potentially leaving the student uncertain about managing their study-work transition.",
+          "priority": "high",
+          "recommended_approach": "An enhanced approach would: 1) Explore specific timeline requirements for both study and employment, 2) Discuss available support during the transition period, 3) Create a clear timeline that aligns both academic and professional needs, 4) Ensure the student understands key dates and requirements, and 5) Maintain appropriate consultation boundaries while providing comprehensive planning support."
+        }
+      ]
+    }
+  }
+}

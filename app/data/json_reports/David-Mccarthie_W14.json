@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 186,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 56,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 30.107526881720432,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 130,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 69.89247311827957,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 47.7912191449279,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 130,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 152.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career-Education Alignment",
+        "explanation": "Consultants effectively connect educational pathways with career goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Successful adaptation of program structures to accommodate student circumstances while maintaining academic progression"
+      },
+      {
+        "headline": "Proactive Process Planning",
+        "explanation": "Clear timeline creation and next steps guidance that maintains momentum while respecting student preferences"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for deeper investigation of student circumstances to enable more personalized collaborative planning"
+      },
+      {
+        "headline": "Comprehensive Support Integration",
+        "explanation": "Opportunity to better outline support frameworks while maintaining pre-enrollment boundaries"
+      },
+      {
+        "headline": "Process Communication Clarity",
+        "explanation": "Need for clearer explanation of enrollment processes and timelines to reduce uncertainty"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062794573",
+              "segment_id": "104",
+              "timestamp": "02:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371486012",
+                "segment_id": "25",
+                "timestamp": "02:19"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career advancement goals aligned with educational aspirations.",
+          "consultant_response": "Effectively demonstrated pathway options while maintaining appropriate boundaries: 'It's going to open lots of doors for you in human resource management... you would also get eight units exempt.'",
+          "context_impact": "Clear pathway alignment increased student confidence in program selection and career progression.",
+          "recommended_approach": "None needed - excellent career pathway planning"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Options Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276903085",
+              "segment_id": "10",
+              "timestamp": "01:14"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184917681",
+                "segment_id": "195",
+                "timestamp": "13:45"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing needs for flexible study arrangements due to work commitments.",
+          "consultant_response": "Consultants effectively explained unit load flexibility: 'The great thing about this is it's completely flexible for you. So you get to choose each teaching period anywhere between one and three units.'",
+          "context_impact": "Clear explanation of flexible options increases confidence in program manageability.",
+          "recommended_approach": "None needed - strong flexibility demonstration"
+        },
+        {
+          "id": 3,
+          "title": "Timeline Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277406703",
+              "segment_id": "17",
+              "timestamp": "12:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about application continuity and document submission timing.",
+          "consultant_response": "Created specific timeline with priority assessment incentive while maintaining flexibility.",
+          "context_impact": "Clear timeline reduced anxiety and maintained enrollment momentum.",
+          "recommended_approach": "None needed - excellent process planning"
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170439737",
+              "segment_id": "105",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169607471",
+                "segment_id": "22",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple opportunities to explore student background and specific circumstances.",
+          "consultant_response": "Basic information collection without deeper exploration of implications.",
+          "context_impact": "Limited context gathering reduced ability to provide personalized guidance.",
+          "recommended_approach": "Need comprehensive exploration of personal context to enable tailored planning"
+        },
+        {
+          "id": 5,
+          "title": "Support Framework Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371019615",
+              "segment_id": "11",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277406703",
+                "segment_id": "15",
+                "timestamp": "02:06"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking information about available support services.",
+          "consultant_response": "Varied between detailed and minimal support explanation.",
+          "context_impact": "Inconsistent support service explanation affected program confidence.",
+          "recommended_approach": "Consistently outline support structure while maintaining pre-enrollment boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Process Clarity Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371284522",
+              "segment_id": "6",
+              "timestamp": "0:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371271823",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on enrollment processes and timelines.",
+          "consultant_response": "Basic status updates without comprehensive process explanation.",
+          "context_impact": "Lack of process clarity created uncertainty about enrollment progression.",
+          "recommended_approach": "Should implement structured process communication with clear timelines"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062794573",
+              "segment_id": "104",
+              "timestamp": "02:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371486012",
+                "segment_id": "25",
+                "timestamp": "02:19"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career goals requiring thoughtful educational alignment. The primary example came at segment 104: 'I want to be an English teacher, because I used to be an English teacher before.' This and similar statements revealed both career aspirations and relevant experience, creating opportunities for meaningful collaborative planning.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by suggesting viable pathways while maintaining appropriate boundaries. Key responses included: 'It's going to open lots of doors for you in human resource management... you would also get eight units exempt' and 'I'll get them to check for both psychology and social science... because you may get more exemptions.' These responses effectively balanced immediate academic considerations with long-term career goals.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained by: 1) Acknowledging career goals explicitly, 2) Exploring multiple pathway options, 3) Considering credit transfer opportunities, 4) Maintaining focus on enrollment-relevant information, and 5) Setting clear expectations about post-enrollment support for detailed career planning."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Options Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276903085",
+              "segment_id": "10",
+              "timestamp": "01:14"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184917681",
+                "segment_id": "195",
+                "timestamp": "13:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study commitments alongside work obligations. A primary example came at segment 195: 'I want to advance my career but I'm worried about balancing study with my current role.' These moments highlighted critical needs for clear guidance on program flexibility.",
+          "consultant_response": "Consultants consistently demonstrated strong collaborative planning by explaining flexible options: 'The great thing about this is it's completely flexible for you. So you get to choose each teaching period anywhere between one and three units at a time. If you wanted to, you can start with one and then if that's quite easy, you can move up to two.' This approach effectively addressed concerns while maintaining focus on enrollment-relevant planning.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach by: 1) Acknowledging work-study balance concerns, 2) Explaining specific flexibility options, 3) Demonstrating how the program adapts to student needs, 4) Providing clear examples of study load options, and 5) Setting appropriate expectations about post-enrollment support."
+        },
+        {
+          "id": 3,
+          "title": "Timeline Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277406703",
+              "segment_id": "17",
+              "timestamp": "12:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 17, the student expressed significant concern about their application status: 'I just don't want him to close the inquiry or anything because I already spoke to him and told him that obviously I am going to send them.' This revealed anxiety about potential disruption in their application process and need for clear direction.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning: 'I'll get you to, do you think you'd be able to send that through tonight?... If you want to say get it to Shelton by tomorrow around lunchtime at the latest, he'll be able to get that priority assessment done for you.' This response effectively created a specific timeline while maintaining flexibility and offering clear benefits.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be continued by: 1) Acknowledging timeline concerns, 2) Creating specific, achievable deadlines, 3) Offering clear benefits for prompt action, 4) Maintaining flexibility within structure, and 5) Ensuring student understanding and agreement with the plan."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170439737",
+              "segment_id": "105",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169607471",
+                "segment_id": "22",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple interactions presented opportunities to explore student backgrounds and specific circumstances affecting their educational journey. Students often provided openings to discuss previous educational experiences, work commitments, and personal situations that could impact their studies.",
+          "consultant_response": "Consultants typically maintained surface-level information gathering without exploring deeper implications for program planning or creating meaningful connections to available opportunities. Basic demographic or administrative information was collected without leveraging it for more tailored guidance or support planning.",
+          "priority": "high",
+          "recommended_approach": "Implement comprehensive context exploration that includes: 1) Specific questions about educational background relevance, 2) Discussion of how work and personal commitments affect study preferences, 3) Exploration of specific support needs based on circumstances, 4) Connection of personal context to program features and opportunities, and 5) Creation of personalized planning suggestions based on gathered information."
+        },
+        {
+          "id": 5,
+          "title": "Support Framework Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371019615",
+              "segment_id": "11",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277406703",
+                "segment_id": "15",
+                "timestamp": "02:06"
+              }
+            ]
+          },
+          "student_trigger": "Multiple instances of students seeking information about available support services demonstrated a consistent need for clarity about support structures and their availability throughout the student journey.",
+          "consultant_response": "Consultants showed inconsistent approaches to support service discussion, ranging from detailed explanations of the 'robust support system' to minimal acknowledgment of support availability. This variability potentially affected student confidence in program support structures.",
+          "priority": "high",
+          "recommended_approach": "Develop a consistent approach that: 1) Outlines support system structure clearly, 2) Explains how each service contributes to student success, 3) Maintains appropriate pre-enrollment boundaries, 4) Provides specific examples of support availability, and 5) Connects support services to expressed student concerns."
+        },
+        {
+          "id": 6,
+          "title": "Process Clarity Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371284522",
+              "segment_id": "6",
+              "timestamp": "0:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371271823",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students actively sought clarity about enrollment processes and timelines, with examples of follow-up inquiries about application status and process steps. These situations indicated gaps in proactive process communication and timeline clarity.",
+          "consultant_response": "Consultants typically provided basic status updates without comprehensive process explanation or clear next steps. Responses such as 'I can see it's just pending' failed to address underlying uncertainty about the enrollment journey or provide concrete timelines for completion.",
+          "priority": "high",
+          "recommended_approach": "Implement a structured process communication approach that includes: 1) Clear overview of complete enrollment journey with specific steps and timeframes, 2) Regular proactive updates at key process points, 3) Detailed timeline aligned with student's preferred start date, 4) Clear explanation of potential variables affecting timing, and 5) Regular check-in points to maintain engagement and address concerns."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 241,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 36,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.937759336099585,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 205,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.06224066390041,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.63813703069545,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 205,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 121.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.72,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Journey Planning",
+        "explanation": "Effectively guiding students through program options while maintaining appropriate planning boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Successfully collaborating on study arrangements that accommodate student circumstances while maintaining program requirements"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Clear guidance connecting students with appropriate support resources while maintaining role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Path Integration",
+        "explanation": "Need for deeper integration of career goals into program planning while maintaining appropriate guidance scope"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "More comprehensive exploration needed when discussing financial options and planning considerations"
+      },
+      {
+        "headline": "Personal Circumstance Adaptation",
+        "explanation": "Better incorporation needed of disclosed personal situations into planning discussions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 4,
+          "title": "Limited Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277135798",
+              "segment_id": "42",
+              "timestamp": "3:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169654322",
+                "segment_id": "41",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing career development goals and aspirations",
+          "consultant_response": "Basic acknowledgment without exploring career alignment",
+          "context_impact": "Missed opportunities to align program benefits with career goals",
+          "recommended_approach": "Should better explore program alignment with career goals while maintaining appropriate boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Basic Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063048262",
+              "segment_id": "13",
+              "timestamp": "2:47"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370649890",
+                "segment_id": "65",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking information about financial options and support",
+          "consultant_response": "Basic information provided without exploring comprehensive options",
+          "context_impact": "Limited financial planning affected enrollment confidence",
+          "recommended_approach": "Should provide more comprehensive financial planning support while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062986126",
+              "segment_id": "30",
+              "timestamp": "01:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed significant personal circumstances affecting study planning",
+          "consultant_response": "Continued with administrative questions without acknowledging circumstances",
+          "context_impact": "Missed opportunity to demonstrate understanding and discuss relevant support",
+          "recommended_approach": "Should acknowledge personal circumstances and discuss relevant support while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Program Journey Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185172924",
+              "segment_id": "31",
+              "timestamp": "3:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292714519",
+                "segment_id": "14",
+                "timestamp": "00:20"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated need for program guidance, with primary example stating 'I want to look at a degree... management perspective, not the technical one.' Supporting examples showed students seeking clarity on course selection with statements like 'Oh, I'm still looking at different courses to do.' These moments created opportunities for collaborative planning while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants effectively validated student goals while providing structured guidance: 'So you're looking for that managerial experience, not just from the qualification, but using that qualification in line with what you do right now.' This approach maintained appropriate planning boundaries while supporting informed decision-making. Supporting examples showed consistent validation of student uncertainty while creating space for exploration.",
+          "priority": "high",
+          "recommended_approach": "While maintaining strong current practices, consultants should: 1) Validate student goals and preferences, 2) Provide clear program information and pathways, 3) Maintain appropriate planning boundaries, 4) Connect to relevant support services when needed, 5) Create clear next steps for program exploration, and 6) Focus on high-level guidance while avoiding detailed career planning."
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185364065",
+              "segment_id": "52",
+              "timestamp": "05:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169654322",
+                "segment_id": "78",
+                "timestamp": "4:38"
+              }
+            ]
+          },
+          "student_trigger": "Students consistently expressed concerns about managing study commitments alongside work responsibilities. Primary example confirmed study load understanding: 'Yeah, 20 is okay for me, yeah.' Supporting examples sought clarity on online delivery flexibility.",
+          "consultant_response": "Consultants provided clear explanations of study requirements and flexibility options: 'Yeah, so for the whole week, we've got the recommended study load of 20 to 24 hours. That's correct.' Supporting examples demonstrated effective explanation of teaching periods and flexible study arrangements while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong foundation: 1) Acknowledge work/life commitments, 2) Explain program flexibility features, 3) Discuss high-level study integration options, 4) Maintain appropriate planning boundaries, 5) Direct detailed study planning to appropriate support services."
+        },
+        {
+          "id": 3,
+          "title": "Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "234",
+              "timestamp": "13:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed concerns about academic preparation and support needs: 'If I didn't study a science-based degree as my bachelor, is there any sort of assistance?' These inquiries demonstrated need for clear support guidance while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants provided comprehensive overview of support services while maintaining role boundaries: 'You can take advantage of our dedicated student coach... they'll help you build positive study habits, time management, and provide assistance with essay writing and technical support.'",
+          "priority": "high",
+          "recommended_approach": "Continue effective support navigation by: 1) Acknowledging support needs, 2) Providing clear overview of available services, 3) Maintaining appropriate boundaries, 4) Creating confidence in support access, 5) Directing detailed support planning to appropriate services."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277135798",
+              "segment_id": "42",
+              "timestamp": "3:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169654322",
+                "segment_id": "41",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed clear career goals, with primary example stating: 'I want to further my skill set and work towards that career trajectory in AI and development.' Supporting examples showed similar career development focus.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring how programs could support career goals. Responses often shifted to logistics rather than demonstrating program value for career development.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge career aspirations, 2) Explore program alignment with goals, 3) Demonstrate program value for career development, 4) Maintain clear role boundaries, 5) Direct detailed career planning to appropriate services."
+        },
+        {
+          "id": 5,
+          "title": "Basic Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063048262",
+              "segment_id": "13",
+              "timestamp": "2:47"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370649890",
+                "segment_id": "65",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students consistently sought information about financial options, with examples including direct questions about CSP eligibility, scholarships, and payment options. These inquiries represented crucial moments for comprehensive financial planning support.",
+          "consultant_response": "Consultants typically provided basic information without engaging in comprehensive exploration of financial options or creating clear financial planning pathways while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining role boundaries, consultants should: 1) Acknowledge financial concerns, 2) Provide comprehensive overview of options, 3) Explain basic processes clearly, 4) Create confidence in financial support access, 5) Direct detailed financial planning to appropriate services."
+        },
+        {
+          "id": 6,
+          "title": "Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062986126",
+              "segment_id": "30",
+              "timestamp": "01:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed significant personal change: 'I've just got divorced, so Ms, I think.' This personal disclosure presented an opportunity to demonstrate understanding and discuss relevant support options while maintaining appropriate boundaries.",
+          "consultant_response": "Consultant continued with administrative questions without acknowledging the personal circumstance or exploring potential impacts on study planning: 'Okay, thank you for that. And what is your street address as well?'",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Acknowledge personal circumstances sensitively, 2) Demonstrate understanding of potential impacts, 3) Highlight relevant support services, 4) Create space for concerns discussion, 5) Direct detailed support planning to appropriate services."
+        }
+      ]
+    }
+  }
+}

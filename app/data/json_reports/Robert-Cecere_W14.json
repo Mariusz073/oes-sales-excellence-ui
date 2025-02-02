@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "consultant_name": "Robert Cecere",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 103,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 30,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.126213592233007,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 73,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.87378640776699,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 45.780682689406824,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 73,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 222.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.24,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study-Life Integration",
+        "explanation": "Effective collaboration in developing flexible study plans that accommodate work and life commitments"
+      },
+      {
+        "headline": "Professional Pathway Navigation",
+        "explanation": "Clear guidance on qualification requirements while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Prior Learning Recognition Planning",
+        "explanation": "Proactive integration of previous qualifications into educational planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Comprehensive Context Exploration",
+        "explanation": "Need for deeper investigation of student circumstances to enable more personalized planning"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "More effective connection of support resources throughout the planning process"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "Enhanced exploration of alternative options when students face program challenges"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063422899",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370801603",
+                "segment_id": "110",
+                "timestamp": "13:45"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing full-time work commitments alongside study requirements",
+          "consultant_response": "Provided structured overview of flexible study options while maintaining appropriate boundaries",
+          "context_impact": "Clear explanation of flexible study options increased student confidence in program completion",
+          "recommended_approach": "Could enhance by exploring specific scheduling preferences more deeply"
+        },
+        {
+          "id": 2,
+          "title": "Professional Qualification Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169618803",
+              "segment_id": "104",
+              "timestamp": "21:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063013035",
+                "segment_id": "121",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on professional qualification requirements and pathways",
+          "consultant_response": "Provided specific direction while appropriately referring to professional bodies",
+          "context_impact": "Clear pathway guidance while maintaining role boundaries increased student confidence",
+          "recommended_approach": "None needed - excellent balance of guidance and boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063422899",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370801603",
+                "segment_id": "110",
+                "timestamp": "13:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about balancing full-time work with study requirements. In the primary example (595063422899): 'I want to advance my career but I'm worried about balancing study with my current role.' Supporting example (595370801603): 'I was wanting to move my course online because I'm currently working full-time.' These statements revealed both motivation for flexible study options and anxiety about managing competing commitments.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive explanations of flexible study options while maintaining appropriate boundaries. Primary example: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster.' Supporting example: 'We are a trimester model online...you can select anywhere from one to four units per teaching period. Everything's prerecorded...no requirements to be at your computer at a certain time.'",
+          "priority": "high",
+          "recommended_approach": "While the current approach effectively explains flexible study options, consultants should: 1) Begin with understanding student's specific work patterns, 2) Provide high-level overviews of study modes and program structure, 3) Highlight availability of learning coaches for detailed study planning post-enrollment, 4) Focus responses on enrollment decision-making rather than detailed study planning, and 5) Maintain clear boundaries while ensuring students feel supported in their decision-making process."
+        },
+        {
+          "id": 2,
+          "title": "Professional Qualification Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169618803",
+              "segment_id": "104",
+              "timestamp": "21:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063013035",
+                "segment_id": "121",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on professional qualification requirements and pathways. The primary example occurred when a student expressed: 'I just want to let you know like the law degree which I did was is a way back and I never had any kind of practical experience.' This revealed anxiety about transitioning international qualifications and meeting current requirements. Similar concerns were expressed regarding psychology program requirements.",
+          "consultant_response": "Consultants demonstrated excellent balance between providing guidance and maintaining role boundaries. In the primary example: 'You might need to contact VLAB, so that's the Victorian Law Authority Board, and just inquire as to what requirements they might be able to tell you that you might just have to do one unit, for example, two units to qualify for your LLB in Australia.' Similar boundary-aware guidance was provided in psychology program discussions.",
+          "priority": "high",
+          "recommended_approach": "This balanced approach should be maintained and enhanced by: 1) Acknowledging professional requirements while staying within sales role boundaries, 2) Providing clear next steps for requirement verification, 3) Connecting students with appropriate professional bodies, 4) Focusing discussions on educational pathways while avoiding detailed professional advice, and 5) Framing conversations around educational planning while directing specific professional questions to appropriate authorities."
+        }
+      ]
+    }
+  }
+}

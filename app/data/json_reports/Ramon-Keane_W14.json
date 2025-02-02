@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "Ramon Keane",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 174,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 25,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.367816091954023,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 149,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.63218390804597,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.065139514005615,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 149,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 141.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.08,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Consultants effectively connect students with relevant support mechanisms while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Strategic Academic Pathway Planning",
+        "explanation": "Successfully guiding students through program options and progression paths while aligning with their expressed goals and circumstances"
+      },
+      {
+        "headline": "Effective Study Mode Flexibility",
+        "explanation": "Consultants successfully explain program flexibility options while maintaining clear quality standards across delivery modes"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Transition Support",
+        "explanation": "Need for more comprehensive guidance for students transitioning between careers while maintaining appropriate consultation scope"
+      },
+      {
+        "headline": "Work-Study Integration Planning",
+        "explanation": "Greater emphasis needed on developing specific strategies for balancing work commitments with study requirements"
+      },
+      {
+        "headline": "Deeper Goal Exploration",
+        "explanation": "More thorough exploration needed of students' long-term academic and career objectives when discussing program options"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Support System Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371358809",
+              "segment_id": "279",
+              "timestamp": "45:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292821378",
+                "segment_id": "161",
+                "timestamp": "22:45"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about balancing study commitments with work and personal responsibilities.",
+          "consultant_response": "Consultants strategically introduced the Student Coaching Program with clear explanation of specific benefits and timing: 'we do have a really good program...called the Dedicated Student Coaching Program'",
+          "context_impact": "Proactive introduction of support services built confidence while maintaining appropriate boundaries.",
+          "recommended_approach": "None needed - exemplary support service integration"
+        },
+        {
+          "id": 2,
+          "title": "Effective Study Mode Flexibility Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277199364",
+              "segment_id": "110",
+              "timestamp": "6:11"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595185104166",
+                "segment_id": "91",
+                "timestamp": "5:30"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about study mode differences and program flexibility options.",
+          "consultant_response": "Consultants effectively explained program structure and quality equivalence: 'It's actually identical in terms of the actual content of the program' while highlighting flexibility benefits.",
+          "context_impact": "Clear explanation of program equivalency and flexibility was crucial for student confidence.",
+          "recommended_approach": "None needed - strong flexibility guidance"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277436409",
+              "segment_id": "28",
+              "timestamp": "2:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277010608",
+                "segment_id": "33",
+                "timestamp": "2:20"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on career transitions and future study pathways.",
+          "consultant_response": "Consultants highlighted transferable skills and future opportunities: 'Your undergrad would actually pair really nicely with this one' while maintaining appropriate boundaries.",
+          "context_impact": "Effective validation of past experience while opening new possibilities was crucial for student confidence.",
+          "recommended_approach": "None needed - effective pathway guidance"
+        },
+        {
+          "id": 4,
+          "title": "Limited Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185104166",
+              "segment_id": "31",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595185104166",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed significant concerns about managing full-time work alongside studies.",
+          "consultant_response": "Basic acknowledgment without developing specific management strategies.",
+          "context_impact": "Insufficient strategies for work-study balance may deter enrollment.",
+          "recommended_approach": "Should collaboratively develop practical strategies while highlighting relevant support resources"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Career Transition Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185104166",
+              "segment_id": "43",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277436409",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students transitioning between careers seeking comprehensive guidance.",
+          "consultant_response": "Basic program information provided without addressing broader transition support needs.",
+          "context_impact": "Limited exploration of transition needs may reduce enrollment confidence.",
+          "recommended_approach": "Should provide more thorough transition planning while maintaining appropriate boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Missed Goal Exploration Opportunity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277010608",
+              "segment_id": "34",
+              "timestamp": "2:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking clarity on future study possibilities and credit transfer options.",
+          "consultant_response": "Basic credit transfer information provided without exploring specific academic goals.",
+          "context_impact": "Insufficient exploration of goals may limit program alignment.",
+          "recommended_approach": "Should engage in deeper exploration of long-term educational goals while maintaining role boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Support System Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371358809",
+              "segment_id": "279",
+              "timestamp": "45:21"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292821378",
+                "segment_id": "161",
+                "timestamp": "22:45"
+              }
+            ]
+          },
+          "student_trigger": "At segment 279, the student expressed concern about managing work-study balance: 'I guess probably just balancing full-time work and studies.' This revealed anxiety about potential challenges in managing dual commitments. Supporting examples showed similar concerns about study management, presenting critical opportunities for collaborative planning around support mechanisms.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by introducing the Dedicated Student Coaching Program, explaining: 'we do have a really good program that we just set up a few months back called the Dedicated Student Coaching Program. So the way this works, for your first teaching period, we can assign you with a student coach who'll be there specifically just for you, and they'll be in touch usually by call or SMS sort of, like, help set you up for success and support you with things like, yeah, time management and discussing your study goals.' This response effectively addressed concerns by providing concrete support mechanisms while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "The consultant's approach serves as a model for support integration, demonstrating: 1) Acknowledging specific concerns, 2) Introducing relevant support services, 3) Explaining timing and access clearly, and 4) Maintaining appropriate pre-enrollment boundaries. This balance between immediate support and future planning should be maintained."
+        },
+        {
+          "id": 2,
+          "title": "Effective Study Mode Flexibility Discussion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277199364",
+              "segment_id": "110",
+              "timestamp": "6:11"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595185104166",
+                "segment_id": "91",
+                "timestamp": "5:30"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about program flexibility and study mode differences. One student inquired: 'Do a lot of people get a lot out of it doing it at the campus rather than online or is it very same same?' while another asked about unit load flexibility: 'This is part-time load for 1.7 so is there any section that like on number of units I do per semester or I can do more?' These questions revealed critical decision points around program structure and delivery methods.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive explanations of program structure and flexibility while maintaining quality assurance. One consultant effectively addressed quality concerns: 'It's actually identical in terms of the actual content of the program... When you graduate, it doesn't even say anywhere on your testament or your transcript that you studied online.' Another detailed the flexible structure: 'So we have six teaching periods a year, each teaching period runs for just six weeks and you have a two-week break in between.' These responses effectively balanced quality assurance with practical flexibility benefits.",
+          "priority": "high",
+          "recommended_approach": "This approach effectively addressed both quality and flexibility concerns. Consultants should continue to: 1) Address quality equivalency explicitly, 2) Explain program structure clearly, 3) Connect flexibility options to student circumstances, and 4) Highlight practical benefits while maintaining quality standards."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277436409",
+              "segment_id": "28",
+              "timestamp": "2:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277010608",
+                "segment_id": "33",
+                "timestamp": "2:20"
+              }
+            ]
+          },
+          "student_trigger": "Students demonstrated varying needs for career transition support. One revealed: 'The initial plan was to do you know sort of like medicine but I just after completing my bachelor's I just believed that I wasn't cut out to be a doctor,' while another expressed uncertainty about future study: 'I'm probably just going to end it after the certificate, to be honest.' These moments presented critical opportunities for strategic planning guidance.",
+          "consultant_response": "Consultants showed excellent judgment in providing support while maintaining role boundaries. One effectively validated past experience while opening new possibilities: 'Well look, I think that your undergrad would actually pair really nicely with this one because the good thing about the computer science course is it's designed to be very broad.' Another assured future options: 'Yeah, I can't see any reason why we wouldn't be able to sort of honour this for you in the future... we should certainly be able to credit you those four units.'",
+          "priority": "high",
+          "recommended_approach": "To maintain this high standard, consultants should: 1) Validate past academic experience, 2) Connect previous studies to new opportunities, 3) Outline clear progression pathways, 4) Maintain appropriate guidance boundaries, and 5) Reference relevant support services for detailed planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185104166",
+              "segment_id": "31",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595185104166",
+                "segment_id": "21",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing work commitments alongside studies. One student stated emphatically: 'Because I work 50 to 60 hours a week. So yeah, I'll be dead.' This represented a critical moment for developing practical management strategies while maintaining appropriate consultation boundaries.",
+          "consultant_response": "Consultants typically provided only basic acknowledgment: 'Look, I understand obviously that's a concern,' without engaging in detailed exploration of management strategies or developing specific plans for success. This missed opportunity to address a critical enrollment concern while maintaining appropriate role boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate consultation scope, consultants should: 1) Acknowledge specific work-study challenges, 2) Share high-level strategies used by successful working students, 3) Highlight relevant flexibility features, 4) Reference available support resources, and 5) Create preliminary plans that demonstrate how program flexibility accommodates work commitments."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Career Transition Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185104166",
+              "segment_id": "43",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277436409",
+                "segment_id": "50",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated need for career transition support. One revealed: 'I'm not very well versed in the computer science because I was just also looking at like an introduction to see if I find something else that's more suitable,' while another expressed similar uncertainty about their new direction. These moments presented crucial opportunities for appropriate transition guidance.",
+          "consultant_response": "Consultants typically focused on basic program information without addressing broader transition needs or exploring additional support mechanisms available for career changers. This approach missed opportunities to build student confidence while maintaining appropriate consultation boundaries.",
+          "priority": "high",
+          "recommended_approach": "While staying within role boundaries, consultants should: 1) Acknowledge career transition challenges explicitly, 2) Highlight program features that support career changes, 3) Share high-level examples of successful transitions, 4) Reference relevant support services, and 5) Create preliminary transition plans that demonstrate program alignment with career goals."
+        },
+        {
+          "id": 6,
+          "title": "Missed Goal Exploration Opportunity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277010608",
+              "segment_id": "34",
+              "timestamp": "2:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 2:34, the student demonstrated interest in understanding future possibilities: 'Is there any opportunity that maybe down the track I could come back and reapply and these classes would get credited and I can do a graduate diploma or jump into a master's?' This represented a key moment for strategic academic planning.",
+          "consultant_response": "The consultant provided basic credit transfer information without engaging in deeper exploration of the student's future academic goals or helping to create a provisional plan for re-engagement. This missed an opportunity to demonstrate program value through strategic planning.",
+          "priority": "medium",
+          "recommended_approach": "While maintaining appropriate boundaries, consultants should: 1) Explore long-term educational goals, 2) Connect goals to program features, 3) Outline potential academic pathways, 4) Highlight credit transfer benefits, and 5) Reference relevant support services for detailed planning."
+        }
+      ]
+    }
+  }
+}

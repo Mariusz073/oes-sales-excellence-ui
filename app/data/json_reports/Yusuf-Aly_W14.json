@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "consultant_name": "Yusuf Aly",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 209,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 66,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.57894736842105,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 143,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.42105263157895,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.50524494038653,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 143,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 203.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.71,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Study Option Communication",
+        "explanation": "Clearly explaining how flexible study options can accommodate various work and life commitments while maintaining realistic expectations"
+      },
+      {
+        "headline": "Proactive Adaptation to Student Circumstances",
+        "explanation": "Demonstrating flexibility and understanding by adjusting consultation approach based on student's immediate needs and life situations"
+      },
+      {
+        "headline": "Strategic Career Alignment",
+        "explanation": "Strong connection of educational pathways to career goals while maintaining appropriate advisory boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Timeline Exploration",
+        "explanation": "Need for more detailed discussion of student's personal timelines and milestones when planning study arrangements"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Opportunity to better highlight available support services while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Comprehensive Context Exploration",
+        "explanation": "Deeper exploration required of student circumstances to create more personalized planning approaches"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062860262",
+              "segment_id": "60",
+              "timestamp": "3:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about managing full-time work with university studies, highlighting inability to attend scheduled classes.",
+          "consultant_response": "Consultant clearly explained: 'You won't have to log in at any specific time to do a class. All the material you need to study is fully available online,' while maintaining honesty about time requirements.",
+          "context_impact": "Critical opportunity to demonstrate online study flexibility while maintaining realistic expectations about time commitment.",
+          "recommended_approach": "Could have explored specific weekly scheduling possibilities to further demonstrate feasibility."
+        },
+        {
+          "id": 2,
+          "title": "Adaptive Response to Childcare Situation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "10",
+              "timestamp": "00:46"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student unexpectedly needed to manage childcare during scheduled consultation time.",
+          "consultant_response": "Promptly offered rescheduling options while showing understanding: 'I'd be more than happy to do that for you. Did you have a time that would suit?'",
+          "context_impact": "Demonstrated need for immediate flexibility while maintaining professional momentum.",
+          "recommended_approach": "Could have added more explicit empathy about the situation before moving to solutions."
+        },
+        {
+          "id": 3,
+          "title": "Effective Study Load Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595293043517",
+              "segment_id": "125",
+              "timestamp": "02:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371442413",
+                "segment_id": "147",
+                "timestamp": "24:35"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about managing study load while balancing other commitments.",
+          "consultant_response": "Consultants validated student approaches: 'Yeah, I think that's probably a wise choice...Most of our students start with two units' while emphasizing flexibility.",
+          "context_impact": "Critical decision point for establishing sustainable study patterns and building student confidence.",
+          "recommended_approach": "Could enhance by exploring specific time management strategies."
+        },
+        {
+          "id": 4,
+          "title": "Career-Aligned Course Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest in police force career pathway: 'I'm looking to join the police force next year.'",
+          "consultant_response": "Suggested relevant certificate but missed opportunity for deeper pathway planning: 'We have the Undergraduate Certificate of Criminal Justice and Criminology.'",
+          "context_impact": "Opportunity to align course selection with career goals while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Should explore alignment between course timeline and career plans while staying within sales role scope."
+        },
+        {
+          "id": 5,
+          "title": "Support Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185205112",
+              "segment_id": "11",
+              "timestamp": "0:28"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170415935",
+                "segment_id": "97",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing academic concerns or readiness for enrollment without support discussions.",
+          "consultant_response": "Basic acknowledgment of services without detailed exploration or planning.",
+          "context_impact": "Missed opportunities to enhance student preparedness through support awareness.",
+          "recommended_approach": "Should proactively discuss support resources and create engagement plans."
+        },
+        {
+          "id": 6,
+          "title": "Personal Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "47",
+              "timestamp": "3:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students sharing complex personal circumstances affecting their study plans.",
+          "consultant_response": "Basic acknowledgment without deeper exploration of study implications.",
+          "context_impact": "Limited understanding of specific needs affected quality of collaborative planning.",
+          "recommended_approach": "Should probe more deeply into circumstances for personalized planning."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Flexible Study Options Discussion",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062860262",
+              "segment_id": "60",
+              "timestamp": "3:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 3:30 into the call, the student expressed significant concern about balancing work and study commitments: 'I've started working full-time and it's just no longer applicable for me to try to do uni part-time and work. I can't make the before classes or the after-hour classes unfortunately.' This revealed a critical need to demonstrate how online study could accommodate their work schedule while maintaining realistic expectations about the commitment required.",
+          "consultant_response": "The consultant provided a clear, balanced explanation of online study flexibility: 'Your time committed to each unit will be roughly the same as on campus, but you won't have to log in at any specific time to do a class. As I'm sure you're aware, you log in whenever suits you best and all the material you need to study is fully available online.' This response effectively addressed the scheduling concern while maintaining honesty about time requirements and demonstrating understanding of the student's situation.",
+          "priority": "High",
+          "recommended_approach": "To enhance this interaction further, the consultant could: 1) Explore the student's specific work schedule in more detail, 2) Collaboratively map potential study times around their work commitments, 3) Discuss available support resources while maintaining appropriate pre-enrollment boundaries, and 4) Provide examples of how other working students successfully manage their studies. This would reinforce the feasibility of online study while building confidence in the student's ability to succeed."
+        },
+        {
+          "id": 2,
+          "title": "Adaptive Response to Childcare Situation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "10",
+              "timestamp": "00:46"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the consultation at 0:46, the student unexpectedly shared: 'I wasn't expecting to have my daughters today but I do.' This situation created an immediate need for flexibility while testing the consultant's ability to maintain professional momentum and demonstrate understanding of life circumstances that can impact educational planning.",
+          "consultant_response": "The consultant demonstrated excellent adaptive planning by immediately showing flexibility: 'Yeah, I'd be more than happy to do that for you. Did you have a time that would suit?' This quick, solution-focused response maintained professional momentum while showing understanding of the student's situation. The approach validated the importance of finding the right time for focused discussion while keeping the enrollment process moving forward.",
+          "priority": "High",
+          "recommended_approach": "To further enhance this interaction, the consultant could: 1) First validate the unexpected situation with explicit empathy, 2) Acknowledge how common such circumstances are for students, 3) Use this as an opportunity to highlight the flexibility of online study, and 4) Ensure the rescheduled time includes buffer for potential similar situations. This approach would better demonstrate understanding while maintaining professional momentum."
+        },
+        {
+          "id": 3,
+          "title": "Effective Study Load Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595293043517",
+              "segment_id": "125",
+              "timestamp": "02:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371442413",
+                "segment_id": "147",
+                "timestamp": "24:35"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students demonstrated thoughtful consideration of study capabilities while seeking guidance on managing course load. Primary example at segment 125: 'I might just go to two and see how I kind of go with that before I think about the three.' Supporting example at segment 147 showed similar careful consideration of study load options. These moments represented critical opportunities for collaborative planning around sustainable study patterns.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive support while maintaining appropriate boundaries. Key response: 'Yeah, I think that's probably a wise choice... Most of our students are starting off with two units, and like we spoke about yesterday, it keeps your options open as well. So, you can stick with that to study part-time or you can bump it up to three later.' This approach effectively balanced validation with practical guidance.",
+          "priority": "High",
+          "recommended_approach": "While current approaches effectively validate student choices, consultants could enhance collaborative planning by: 1) Exploring specific time management strategies based on student circumstances, 2) Providing examples of successful part-time study arrangements, 3) Creating preliminary study schedules aligned with work commitments, 4) Discussing specific indicators for when to adjust study load, and 5) Outlining available support services while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Career-Aligned Course Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "591330759172",
+              "segment_id": "19",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed specific career aspirations: 'I'm looking for an online course, I'm not sure if I want to do the whole course or just some selected subjects because I'm to join the police force next year.' This presented an opportunity for strategic educational planning aligned with clear career goals while maintaining appropriate guidance boundaries.",
+          "consultant_response": "While the consultant identified a relevant program: 'Yes, we have a course that came about earlier this year. It's called the Undergraduate Certificate of Criminal Justice and Criminology,' they missed the opportunity to explore how the course timeline could align with the student's career plans or discuss how different subject selections might support their goals. The response remained surface-level without delving into strategic planning within appropriate boundaries.",
+          "priority": "High",
+          "recommended_approach": "While staying within sales role boundaries, the consultant could enhance this interaction by: 1) Acknowledging the career goal: 'Your interest in joining the police force gives us a clear direction for planning your education,' 2) Exploring timing: 'Let's look at how our Criminal Justice certificate aligns with your timeline for joining the force,' 3) Discussing flexibility: 'We can structure your study to complement your application process, starting with key subjects that directly support your career goals,' and 4) Maintaining boundaries by referring detailed career guidance to appropriate services."
+        },
+        {
+          "id": 5,
+          "title": "Support Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185205112",
+              "segment_id": "11",
+              "timestamp": "0:28"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170415935",
+                "segment_id": "97",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple instances where students indicated readiness for enrollment or expressed specific study concerns. In one example, a student asked about academic support: 'One of my concerns is referencing. Do you guys have any modules on that that I can sort of get it?' Other cases involved general readiness to proceed without specific support discussions.",
+          "consultant_response": "Consultants typically provided basic acknowledgment of support services without fully exploring student needs or creating specific support engagement plans. When academic concerns were raised, responses mentioned support units without detailed exploration: 'Yes, we have an Academic Skills unit that can help with that.'",
+          "priority": "High",
+          "recommended_approach": "Consultants should enhance their approach by: 1) Introducing key support services during enrollment planning, 2) Explaining how different support mechanisms assist with study success, 3) Creating initial support engagement plans with students, 4) Providing specific examples of how support services help different student needs, and 5) Setting expectations for ongoing support availability throughout studies."
+        },
+        {
+          "id": 6,
+          "title": "Personal Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "47",
+              "timestamp": "3:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students shared complex personal circumstances affecting their study plans: 'I've had some mental health issues in the past couple of years and because of the way their program is delivered in person, I haven't had the flexibility I've needed.' These disclosures required thorough exploration to develop appropriate study plans.",
+          "consultant_response": "Consultants often provided basic acknowledgment of circumstances without sufficiently exploring implications for study planning. Responses typically focused on immediate solutions rather than developing comprehensive understanding of student needs and creating tailored study strategies.",
+          "priority": "High",
+          "recommended_approach": "To enhance circumstance exploration, consultants should: 1) Ask targeted questions about specific challenges and needs, 2) Explore how circumstances might affect different study aspects, 3) Discuss various support options aligned with student situations, 4) Develop detailed study plans incorporating circumstance considerations, and 5) Create flexible strategies for managing potential challenges."
+        }
+      ]
+    }
+  }
+}

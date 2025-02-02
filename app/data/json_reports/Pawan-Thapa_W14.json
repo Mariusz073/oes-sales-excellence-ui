@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 236,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 47,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.915254237288135,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 189,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 80.08474576271186,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.165182939401475,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 189,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 101.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.16,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Program Pathway Navigation",
+        "explanation": "Consultants expertly guide students through educational options while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Work-Study Integration",
+        "explanation": "Strong demonstration of program flexibility and structured planning for working professionals"
+      },
+      {
+        "headline": "Clear Support Framework Communication",
+        "explanation": "Comprehensive explanation of support services while maintaining appropriate role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Goal Integration",
+        "explanation": "Need for deeper exploration of career objectives while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Structured Documentation Planning",
+        "explanation": "More systematic approach needed for guiding students through pre-enrollment documentation requirements"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "Greater detail needed in exploring financial options and pathways while maintaining role boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Program Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063410945",
+              "segment_id": "10",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370836400",
+                "segment_id": "4",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on program requirements and pathways, particularly for MBA and related programs",
+          "consultant_response": "Comprehensive overview of prerequisites including bachelor's degree requirements, grade expectations, and work experience needs while maintaining appropriate boundaries",
+          "context_impact": "Clear pathway explanation increased student confidence and understanding of next steps",
+          "recommended_approach": "None needed - exemplary pathway guidance demonstrated"
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277276565",
+              "segment_id": "77",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371278328",
+                "segment_id": "66",
+                "timestamp": "12:00"
+              }
+            ]
+          },
+          "student_trigger": "Working professionals expressing concerns about managing hospital shifts and full-time work with study commitments",
+          "consultant_response": "Clear explanation of flexible options including evening lectures, recordings, and study patterns designed for working professionals",
+          "context_impact": "Effective demonstration of program flexibility increased confidence in work-study management",
+          "recommended_approach": "Could provide more specific examples of successful work-study integration"
+        },
+        {
+          "id": 3,
+          "title": "Support Service Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292743934",
+              "segment_id": "179",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking clarity on available support services and access procedures",
+          "consultant_response": "Detailed explanation of support hours: 'They are available seven days a week, Monday to Friday from 8am to 9pm and weekends are from 9am to 6pm'",
+          "context_impact": "Built confidence through clear demonstration of comprehensive support availability",
+          "recommended_approach": "None needed - excellent support service communication"
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276996715",
+              "segment_id": "79",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370687321",
+                "segment_id": "11",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students discussing senior position transitions and professional development needs",
+          "consultant_response": "Basic program information provided without exploring career alignment or advancement opportunities",
+          "context_impact": "Missed opportunities to align program benefits with career objectives",
+          "recommended_approach": "Should better integrate career goals with program features while maintaining boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292743934",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371355355",
+                "segment_id": "31",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing uncertainty about documentation requirements and submission processes",
+          "consultant_response": "Minimal guidance provided without ensuring clear understanding of process steps",
+          "context_impact": "Lack of structured guidance created confusion about requirements",
+          "recommended_approach": "Should provide step-by-step guidance through documentation requirements"
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277337911",
+              "segment_id": "37",
+              "timestamp": "06:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276932051",
+                "segment_id": "18",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Students seeking information about scholarships, FEE-HELP, and employer funding support",
+          "consultant_response": "Basic cost information provided without exploring full range of financial pathways",
+          "context_impact": "Limited financial guidance may have affected enrollment confidence",
+          "recommended_approach": "Should discuss complete range of financial options while maintaining boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Program Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063410945",
+              "segment_id": "10",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370836400",
+                "segment_id": "4",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed specific interest in understanding program requirements and pathways, particularly for MBA programs. In the primary example, the student sought clarity on prerequisites and entry requirements, stating: 'I'm wanting to find out about the entry requirements.' Supporting calls showed similar inquiries about program structure and progression options.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive yet appropriately bounded responses. In the primary example, the consultant stated: 'To get into the program, you will need to have a bachelor's degree and a weighted average mark over 60, and three years of work experience, working in a management position.' This response effectively set clear expectations while maintaining appropriate role boundaries. Supporting calls showed similar success in providing clear guidance while staying within proper scope.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained and enhanced by: 1) Acknowledging specific program interest, 2) Providing clear prerequisite information, 3) Maintaining appropriate role boundaries, 4) Connecting prerequisites to student success, and 5) Directing detailed questions to appropriate resources. The focus should remain on clear pathway guidance while ensuring students understand next steps and available support."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277276565",
+              "segment_id": "77",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371278328",
+                "segment_id": "66",
+                "timestamp": "12:00"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing work commitments alongside studies. The primary example involved a hospital worker stating: 'I'm currently working as well in the hospital so I still cannot figure out like what sort of timing that I would be able to do.' Supporting examples showed similar concerns from full-time professionals about managing the suggested 20-hour weekly study commitment.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by explaining program features designed for working professionals: 'The program itself is designed for students who are working full-time. We have six teaching periods a year. Each teaching period goes for six weeks and you have two weeks break. So what that means is you only do one unit per teaching period. Our lectures are actually held after 6 p.m. as well, so just in case if you do miss that out it's all recorded for you.' This comprehensive response effectively showed how program structure accommodates work commitments.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong approach, consultants should: 1) Gather specific details about work schedules and commitments, 2) Provide examples of successful work-study integration strategies, 3) Explain how program flexibility features address specific scheduling challenges, 4) Highlight the role of support services in ongoing schedule management, and 5) Maintain appropriate boundaries while demonstrating comprehensive support options."
+        },
+        {
+          "id": 3,
+          "title": "Support Service Communication",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292743934",
+              "segment_id": "179",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 179, the student sought clarity about available support services and access procedures, presenting a crucial opportunity to demonstrate the institution's comprehensive support system and build confidence in the enrollment decision. This moment required clear communication about support accessibility while maintaining appropriate role boundaries.",
+          "consultant_response": "The consultant exemplified effective support service communication by providing specific details: 'They are available seven days a week, Monday to Friday from 8am to 9pm and weekends are from 9am to 6pm.' This detailed explanation of support accessibility demonstrated the institution's commitment to student success while maintaining appropriate role boundaries and setting clear expectations for support availability.",
+          "priority": "high",
+          "recommended_approach": "Best practices for support service communication should continue to: 1) Provide specific availability details, 2) Emphasize comprehensive nature of support, 3) Maintain focus on accessibility, 4) Connect support to student success, and 5) Direct detailed inquiries to appropriate services while maintaining clear role boundaries. The key is creating confidence in support infrastructure while staying within proper scope."
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276996715",
+              "segment_id": "79",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370687321",
+                "segment_id": "11",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students discussed career advancement goals, with one stating: 'For example, if I start and finish this course and, let's say, I'm already sitting in a mid-level position in the company and then if I talk to you guys in the support session, okay, I want to move to senior level position...' These moments presented opportunities to align program benefits with career objectives while maintaining appropriate guidance boundaries.",
+          "consultant_response": "Consultants typically provided basic program information without exploring career alignment or advancement opportunities. This surface-level approach missed opportunities to demonstrate program value through career-aligned planning while maintaining appropriate boundaries. In most cases, consultants moved quickly to administrative details without addressing career development potential.",
+          "priority": "high",
+          "recommended_approach": "To enhance career integration while maintaining appropriate boundaries, consultants should: 1) Explore professional development goals within pre-enrollment scope, 2) Explain how program features support career advancement, 3) Outline post-enrollment career support options, 4) Create clear connections between program benefits and professional growth, and 5) Direct detailed career planning to appropriate post-enrollment resources."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292743934",
+              "segment_id": "30",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371355355",
+                "segment_id": "31",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about documentation requirements and submission processes, with statements like 'I haven't responded to it yet' and concerns about additional information requests. These moments required clear, structured guidance to ensure successful document submission and maintain enrollment momentum.",
+          "consultant_response": "Consultants typically provided minimal guidance without ensuring clear understanding or offering structured support. This led to continued uncertainty about requirements and submission processes, potentially impacting enrollment progression and student confidence. The lack of systematic approach to documentation guidance created missed opportunities for collaborative planning.",
+          "priority": "high",
+          "recommended_approach": "Documentation guidance should be enhanced by: 1) Providing clear step-by-step instructions for each requirement, 2) Confirming understanding at each stage, 3) Breaking down requirements into manageable steps, 4) Offering specific examples where appropriate, and 5) Ensuring students know where to find additional help. Focus should be on creating confidence through structured guidance while maintaining appropriate boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277337911",
+              "segment_id": "37",
+              "timestamp": "06:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276932051",
+                "segment_id": "18",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought comprehensive information about financial options, with one asking: 'So essentially what I can do is I can enroll, apply for a scholarship and then if I don't get a scholarship I can withdraw?' These moments required detailed financial planning guidance while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically provided only basic cost information and scholarship criteria without exploring broader financial pathways or support options. The primary example showed a limited response: 'It's up to you, you can withdraw or being a, you know, you've already done the grad set, you've got a really high mark, if you want to apply for fee help you can apply for fee help as well.' This surface-level approach missed opportunities to demonstrate program value through comprehensive financial planning support.",
+          "priority": "high",
+          "recommended_approach": "Financial planning discussions should be enhanced by: 1) Acknowledging the importance of financial planning, 2) Providing overviews of all payment options including FEE-HELP, 3) Explaining scholarship criteria and application processes, 4) Discussing employer sponsorship opportunities, and 5) Directing students to detailed financial resources while maintaining appropriate boundaries. The focus should be on creating clear understanding of financial pathways while staying within proper scope."
+        }
+      ]
+    }
+  }
+}

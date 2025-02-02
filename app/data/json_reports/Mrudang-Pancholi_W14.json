@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "Mrudang Pancholi",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 232,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 52,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.413793103448278,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 180,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.58620689655173,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.73122949472838,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 180,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 84.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.39,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Consultants effectively connect students with appropriate support resources while maintaining clear pre-enrollment boundaries"
+      },
+      {
+        "headline": "Flexible Pathway Navigation",
+        "explanation": "Strong demonstration of program adaptability through clear alternative pathways and study arrangements"
+      },
+      {
+        "headline": "Proactive Timeline Management",
+        "explanation": "Clear communication of critical deadlines and processes enables confident student decision-making"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Deeper exploration of student circumstances needed before providing program and pathway guidance"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "More thorough discussion of funding options and processes needed to support informed decision-making"
+      },
+      {
+        "headline": "Career Integration Depth",
+        "explanation": "Stronger connection needed between program features and specific career enhancement opportunities"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184722213",
+              "segment_id": "128",
+              "timestamp": "08:07"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "131",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking clarity on available support resources and program flexibility.",
+          "consultant_response": "Effectively outlined support availability and boundaries: 'They're available 8am to 9pm Monday to Friday, 10am to 6pm Saturday and Sunday... online learning advisors who get back within 24 hours.'",
+          "context_impact": "Clear explanation of support structures enhanced student confidence in program manageability.",
+          "recommended_approach": "None needed - excellent balance of support information and role boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Effective Alternative Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276875598",
+              "segment_id": "14",
+              "timestamp": "14:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063172123",
+                "segment_id": "76",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about meeting standard entry requirements or seeking flexible study options.",
+          "consultant_response": "Created confidence through clear options: 'Let's explore some options that might work for you given your schedule' and 'We can send it off to the faculty to assess your experience.'",
+          "context_impact": "Presentation of clear alternative pathways maintained enrollment momentum while addressing concerns.",
+          "recommended_approach": "Could enhance by connecting pathways more explicitly to career goals."
+        },
+        {
+          "id": 3,
+          "title": "Clear Timeline Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370979311",
+              "segment_id": "15",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about withdrawal deadlines while awaiting defense force funding approval.",
+          "consultant_response": "Provided clear, actionable deadline: 'You will have until the 14th of March anyway just perfect more than a month and a half away.'",
+          "context_impact": "Specific timeline information supported confident decision-making while managing external dependencies.",
+          "recommended_approach": "None needed - excellent example of timeline clarity."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Gathering",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292642111",
+              "segment_id": "3",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276971637",
+                "segment_id": "125",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance without broader context discussion.",
+          "consultant_response": "Provided direct guidance without exploring background or goals comprehensively.",
+          "context_impact": "Missed opportunities to understand full student circumstances for tailored planning.",
+          "recommended_approach": "Should gather detailed context about background, goals, and constraints before providing guidance."
+        },
+        {
+          "id": 5,
+          "title": "Basic Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184722213",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170437404",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students inquiring about FEE-HELP availability and payment options.",
+          "consultant_response": "Provided basic FEE-HELP confirmation without exploring details or support options.",
+          "context_impact": "Incomplete financial information could affect enrollment decision-making.",
+          "recommended_approach": "Should explain all financial options and processes comprehensively while maintaining appropriate boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Superficial Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594972463464",
+              "segment_id": "22",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594972463464",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing interest in program benefits for career enhancement.",
+          "consultant_response": "Generic acknowledgment without exploring specific career benefits or applications.",
+          "context_impact": "Missed opportunities to strengthen program relevance to career goals.",
+          "recommended_approach": "Should detail specific career benefits while maintaining pre-enrollment focus."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184722213",
+              "segment_id": "128",
+              "timestamp": "08:07"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "591330759172_1981",
+                "segment_id": "131",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on available support resources and program flexibility, expressing concerns about managing study commitments and accessing assistance when needed. Questions focused on support availability, response times, and flexibility in accessing resources, indicating underlying anxiety about program manageability.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing comprehensive support information while maintaining clear role boundaries. Key responses included: 'They're available 8am to 9pm Monday to Friday, 10am to 6pm Saturday and Sunday... online learning advisors who get back within 24 hours.' This approach effectively addressed immediate concerns while setting appropriate expectations for post-enrollment support.",
+          "priority": "High",
+          "recommended_approach": "This represents best practice in support service integration. Consultants should: 1) Acknowledge specific support needs, 2) Provide clear service availability information, 3) Explain support transitions from pre to post-enrollment, 4) Maintain appropriate role boundaries, 5) Set realistic support expectations, and 6) Focus on enrollment-relevant support features."
+        },
+        {
+          "id": 2,
+          "title": "Effective Alternative Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276875598",
+              "segment_id": "14",
+              "timestamp": "14:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063172123",
+                "segment_id": "76",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about meeting standard entry requirements or needed flexible study arrangements. These moments represented critical decision points where clear pathway options could maintain enrollment momentum or result in lost opportunities.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by presenting clear alternatives: 'Let's explore some options that might work for you given your schedule' and 'We can send it off to the faculty to assess your experience.' These responses effectively transformed potential barriers into manageable pathways while maintaining appropriate guidance boundaries.",
+          "priority": "High",
+          "recommended_approach": "To maintain this high standard: 1) Acknowledge specific concerns, 2) Present relevant alternative pathways, 3) Explain assessment processes clearly, 4) Connect options to student circumstances, 5) Maintain appropriate advisory boundaries, and 6) Focus on enrollment-relevant features."
+        },
+        {
+          "id": 3,
+          "title": "Clear Timeline Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370979311",
+              "segment_id": "15",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on withdrawal deadlines while awaiting defense force funding approval, indicating need for risk management in enrollment planning. This represented a critical moment where clear timeline information could support confident decision-making.",
+          "consultant_response": "Consultant provided immediate clarity on deadlines: 'You will have until the 14th of March anyway just perfect more than a month and a half away.' This precise response effectively addressed financial risk concerns while maintaining enrollment momentum. The clear timeline allowed the student to proceed confidently while managing external funding approval processes.",
+          "priority": "High",
+          "recommended_approach": "This represents excellent timeline management. Consultants should: 1) Provide specific dates and deadlines, 2) Acknowledge external dependencies, 3) Explain implications clearly, 4) Maintain positive enrollment momentum, and 5) Focus on supporting confident decision-making."
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Gathering",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292642111",
+              "segment_id": "3",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595276971637",
+                "segment_id": "125",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sought guidance without broader context discussion, presenting opportunities to understand comprehensive circumstances before providing direction. These interactions offered chances to gather crucial information for tailored planning.",
+          "consultant_response": "Consultants typically provided direct guidance without exploring student background, goals, or constraints comprehensively. This approach resulted in generic rather than personalized guidance and missed opportunities for meaningful collaborative planning.",
+          "priority": "High",
+          "recommended_approach": "To enhance context gathering, consultants should: 1) Explore student background and previous studies, 2) Understand current goals and motivations, 3) Identify potential constraints or concerns, 4) Connect gathered information to available options, 5) Maintain appropriate pre-enrollment boundaries, and 6) Use context to personalize guidance."
+        },
+        {
+          "id": 5,
+          "title": "Basic Financial Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184722213",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170437404",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students inquiring about FEE-HELP availability and payment options, indicating need for comprehensive financial planning guidance. These moments represented critical opportunities to address potential financial barriers to enrollment.",
+          "consultant_response": "Consultants provided basic FEE-HELP eligibility confirmation without exploring details or available support options. This limited approach failed to address potential financial concerns comprehensively or demonstrate collaborative planning in financial decision-making.",
+          "priority": "High",
+          "recommended_approach": "To improve financial planning discussions: 1) Explore all available funding options, 2) Explain FEE-HELP process comprehensively, 3) Discuss eligibility requirements clearly, 4) Outline application processes, 5) Direct to appropriate financial resources, and 6) Maintain appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Superficial Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "594972463464",
+              "segment_id": "22",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "594972463464",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed interest in program benefits for career enhancement, particularly in teaching and professional development contexts. These moments presented opportunities to demonstrate program value through specific career applications.",
+          "consultant_response": "Consultants provided generic acknowledgment without exploring specific career benefits or creating comprehensive understanding of program applications. This surface-level discussion missed opportunities for meaningful collaborative planning around career development.",
+          "priority": "High",
+          "recommended_approach": "To enhance career integration: 1) Explore specific career applications, 2) Connect program features to professional goals, 3) Highlight relevant skill development opportunities, 4) Maintain appropriate pre-enrollment focus, 5) Provide examples of career enhancement possibilities, and 6) Create clear understanding of program value for professional development."
+        }
+      ]
+    }
+  }
+}

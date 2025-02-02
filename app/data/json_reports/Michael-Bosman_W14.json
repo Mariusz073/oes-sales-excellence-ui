@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 213,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 39,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 18.30985915492958,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 174,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 81.69014084507043,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.22750345043042,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 174,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 117.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.25,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Navigation",
+        "explanation": "Consultants effectively guide students through program options while maintaining clear role boundaries and connecting pathways to career goals"
+      },
+      {
+        "headline": "Flexible Program Integration",
+        "explanation": "Excellence in demonstrating program adaptability and study options while preserving course integrity and student confidence"
+      },
+      {
+        "headline": "Proactive Barrier Resolution",
+        "explanation": "Clear identification and practical resolution of enrollment obstacles through appropriate support and guidance mechanisms"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Support Service Integration",
+        "explanation": "Need for more comprehensive discussion of available support mechanisms while maintaining pre-enrollment boundaries"
+      },
+      {
+        "headline": "Strategic Planning Depth",
+        "explanation": "Greater emphasis needed on collaborative exploration of student needs and circumstances before presenting solutions"
+      },
+      {
+        "headline": "Value Demonstration Development",
+        "explanation": "Stronger demonstration of program value needed through concrete examples and success stories while maintaining appropriate scope"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Psychology Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184780210",
+              "segment_id": "45",
+              "timestamp": "05:48"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184780210",
+                "segment_id": "49",
+                "timestamp": "06:15"
+              }
+            ]
+          },
+          "student_trigger": "Student seeking guidance on psychology practice pathway requirements and progression options",
+          "consultant_response": "Provided structured explanation of qualification requirements while maintaining appropriate boundaries: 'Yes, so a clinical master's, you would need to complete the first two steps'",
+          "context_impact": "Clear pathway guidance crucial for student confidence in program selection",
+          "recommended_approach": "Could further personalize pathway discussion while maintaining enrollment focus"
+        },
+        {
+          "id": 4,
+          "title": "Limited Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370698120",
+              "segment_id": "71",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students seeking clarity on available support options",
+          "consultant_response": "Basic acknowledgment without exploring available support services",
+          "context_impact": "Missed opportunity to outline support framework while maintaining role boundaries",
+          "recommended_approach": "Should provide comprehensive overview of support services while clearly defining pre/post-enrollment boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Planning Depth",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370626050",
+              "segment_id": "128",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking detailed understanding of teaching period structure",
+          "consultant_response": "Provided basic timing information without exploring personal circumstances",
+          "context_impact": "Missed opportunity for collaborative schedule integration planning",
+          "recommended_approach": "Should engage in collaborative discussion about integrating course schedule with student commitments while maintaining boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Value Demonstration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062615770",
+              "segment_id": "166",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed skepticism about program value based on industry feedback",
+          "consultant_response": "Failed to address concerns or demonstrate specific program value",
+          "context_impact": "Crucial opportunity to demonstrate concrete program benefits missed",
+          "recommended_approach": "Should validate concerns while sharing success stories and specific benefits within appropriate scope"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Psychology Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184780210",
+              "segment_id": "45",
+              "timestamp": "05:48"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184780210",
+                "segment_id": "49",
+                "timestamp": "06:15"
+              }
+            ]
+          },
+          "student_trigger": "At segment 45, the student revealed career aspirations: 'I was thinking maybe I could work towards practicing as a psychologist.' This presented a key opportunity to provide clear pathway guidance while maintaining appropriate boundaries between sales and career counseling roles.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by providing structured explanation: 'Yes, so a clinical master's, you would need to complete the first two steps, which is a Bachelor of Psychology or equivalent, and then the honours year or equivalent as well.' This effectively outlined the educational progression while staying within appropriate guidance boundaries and connecting requirements to the student's goals.",
+          "priority": "High",
+          "recommended_approach": "While maintaining appropriate role boundaries, enhance this interaction by: 1) Exploring specific areas of psychology interest, 2) Providing examples of typical progression paths, 3) Highlighting relevant support services, 4) Creating clearer picture of pathway from completion to career options, and 5) Sharing success stories while maintaining focus on educational planning rather than specific career advice"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184599064",
+              "segment_id": "13",
+              "timestamp": "00:58"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about managing study alongside full-time work: 'I'm thinking about joining like the mid-year intake or so on but yeah as I've worked full-time I'm kind of interested in the minimum weekly hours required and in particular sort of spacing it over 12 months rather than like an accelerated seven months.' This revealed the need for collaborative planning around study integration.",
+          "consultant_response": "The consultant provided a comprehensive explanation of the program's flexible structure: 'So how our structure works is, and this accelerated part-time, is that you do six-week blocks of unit materials with a two-week break between each, but that also overlaps with two weeks of early access. So you've actually got eight weeks with the unit material.' This response effectively demonstrated how the program could accommodate different scheduling needs while maintaining clear expectations.",
+          "priority": "High",
+          "recommended_approach": "To further enhance this strong interaction: 1) Explore specific work patterns and commitments, 2) Discuss successful study strategies used by similar students, 3) Outline available flexibility options and support resources, 4) Create a preliminary study planning framework, and 5) Set clear expectations about time management while maintaining appropriate boundaries"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Alternative Pathway Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185366822",
+              "segment_id": "39",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed personal academic challenges: 'I had gotten diagnosed with ADHD and it did impact my grades quite a bit, but it's been very large and very long journey for me.' This vulnerable disclosure created an opportunity for meaningful pathway planning while maintaining appropriate support boundaries.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by responding: 'No, no, so yes your application has been approved for this non-direct pathway... you gain access to the rest of the Graduate Diploma of Psychology Advanced. So there's no actual difference in time or cost, it's just a way for you to be able to prove that you are able to undertake the study load.' This response effectively balanced empathy with practical guidance while maintaining clear enrollment focus.",
+          "priority": "High",
+          "recommended_approach": "The consultant's approach was strong but could be enhanced by: 1) Acknowledging the student's journey while maintaining boundaries, 2) Clearly explaining alternative pathway benefits, 3) Emphasizing opportunity rather than challenges, 4) Referencing post-enrollment support availability when appropriate"
+        },
+        {
+          "id": 4,
+          "title": "Limited Support Resource Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370698120",
+              "segment_id": "71",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed need for support clarity, with one stating: 'The only reason I wasn't able to you know like have a proper response for you then when you emailed me back I was like let me just talk to her like over the phone maybe she might understand and like she might have another alternative solution for it.' These inquiries demonstrated the importance of clear support service understanding in the enrollment decision process.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring the full range of available support services: 'Yeah I know that's okay it's definitely easier to discuss these things over the phone it can be a little bit confusing. Let me reach out to my team.' This approach missed opportunities to outline the comprehensive support framework while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Clearly outline pre-enrollment support availability, 2) Preview post-enrollment support services, 3) Maintain appropriate professional boundaries, 4) Create clear support expectations, 5) Direct specific needs to appropriate resources, and 6) Demonstrate the institutional support framework while staying within sales role limitations"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Planning Depth",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370626050",
+              "segment_id": "128",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clarification about course timing: 'Yeah, sorry, just to quickly go back on what you said before, so the teaching period is six weeks, and then is it two weeks or three between?' This presented an opportunity to explore how the course structure would align with the student's personal commitments and create a collaborative plan for success.",
+          "consultant_response": "The consultant provided factual information about teaching periods without exploring the student's personal circumstances or discussing how the schedule might integrate with their other commitments. This missed an opportunity for collaborative planning around the student's specific needs and potential challenges in managing their study schedule.",
+          "priority": "High",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge scheduling concerns, 2) Explore current commitments and challenges, 3) Discuss potential scheduling solutions, 4) Introduce relevant support resources, 5) Create a preliminary balance plan, 6) Direct detailed planning to appropriate support services, and 7) Maintain appropriate boundaries while providing strategic guidance"
+        },
+        {
+          "id": 6,
+          "title": "Insufficient Value Demonstration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062615770",
+              "segment_id": "166",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant doubts about program value: 'I've been researching it heavily and going yeah it sounds like a good idea but I've also spoken to a number of different people in high level roles in different fields and they consider it to be more of an empty degree.'",
+          "consultant_response": "The consultant missed a crucial opportunity to address these serious concerns about program value, failing to engage in collaborative planning that could demonstrate concrete benefits and career impact. The lack of response to industry feedback and skepticism left the student's doubts unaddressed.",
+          "priority": "High",
+          "recommended_approach": "An effective response while maintaining boundaries should: 1) Acknowledge and validate concerns about program value, 2) Share relevant success stories and concrete examples of program benefits, 3) Connect program components to career advancement, 4) Provide evidence of industry recognition where available, and 5) Focus on enrollment-relevant aspects while maintaining appropriate boundaries"
+        }
+      ]
+    }
+  }
+}

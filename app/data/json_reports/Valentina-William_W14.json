@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 210,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 57,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.142857142857142,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 153,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.85714285714285,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.57734093278104,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 153,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 115.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.83,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Study Load Management",
+        "explanation": "Consultants successfully guide students through flexible study options while validating individual circumstances and needs"
+      },
+      {
+        "headline": "Clear Pathway Navigation",
+        "explanation": "Consultants effectively outline program requirements and progression paths while maintaining appropriate professional boundaries"
+      },
+      {
+        "headline": "Proactive Resource Integration",
+        "explanation": "Consultants strategically connect students with appropriate resources while staying within pre-enrollment scope"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Support Service Integration",
+        "explanation": "Need for more comprehensive exploration and explanation of available support services based on individual circumstances"
+      },
+      {
+        "headline": "Work-Study Balance Planning",
+        "explanation": "Greater emphasis needed on developing personalized study plans that accommodate work commitments"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "More thorough exploration needed of alternative options when standard pathways don't align with student circumstances"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185246828",
+              "segment_id": "193",
+              "timestamp": "25:43"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371103278",
+                "segment_id": "346",
+                "timestamp": "13:37"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study load with work and family commitments",
+          "consultant_response": "Consultants effectively validated study load choices while providing specific weekly time commitments and flexibility options",
+          "context_impact": "Clear workload guidance and validation of circumstances crucial for building student confidence",
+          "recommended_approach": "Could enhance by introducing available post-enrollment support services"
+        },
+        {
+          "id": 2,
+          "title": "Clear Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277324108",
+              "segment_id": "25",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277378070",
+                "segment_id": "85",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on enrollment pathways and eligibility requirements",
+          "consultant_response": "Effectively explained requirements and next steps while maintaining appropriate role boundaries",
+          "context_impact": "Clear guidance essential for student understanding and confidence in chosen pathway",
+          "recommended_approach": "None needed - excellent demonstration of boundary-aware guidance"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Resource Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292636770",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought guidance on support services and administrative processes",
+          "consultant_response": "Effectively explained options while maintaining proper role boundaries and connecting to appropriate resources",
+          "context_impact": "Clear boundaries and referral processes crucial for appropriate pre-enrollment support",
+          "recommended_approach": "None needed - strong demonstration of appropriate resource connection"
+        },
+        {
+          "id": 4,
+          "title": "Limited Support Service Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371103278",
+              "segment_id": "377",
+              "timestamp": "6:17"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292636770",
+                "segment_id": "78",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed interest in understanding available support programs",
+          "consultant_response": "Provided basic information without exploring specific support needs or creating clear support pathways",
+          "context_impact": "Missed opportunities to build confidence through support awareness",
+          "recommended_approach": "Should engage in deeper discussion about support benefits while maintaining pre-enrollment boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170410797",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292636770",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing full-time work with study commitments",
+          "consultant_response": "Provided general reassurance without exploring specific work schedules or developing concrete plans",
+          "context_impact": "Lack of personalized schedule discussion left uncertainty about managing commitments",
+          "recommended_approach": "Should explore specific work schedules to demonstrate viable study integration options"
+        },
+        {
+          "id": 6,
+          "title": "Missed Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277283470",
+              "segment_id": "61",
+              "timestamp": "06:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking alternative pathways with 10 years teaching experience",
+          "consultant_response": "Stated program restrictions without exploring alternative pathways or credit recognition",
+          "context_impact": "Failing to explore alternatives left student unclear about options",
+          "recommended_approach": "Should explore alternative pathways based on extensive professional experience"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185246828",
+              "segment_id": "193",
+              "timestamp": "25:43"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371103278",
+                "segment_id": "346",
+                "timestamp": "13:37"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study load alongside work and family commitments. In the primary call, the student stated: 'I'd like to start with just one for this first semester. I am a single mom and I work full-time so...' This revealed critical context about the student's circumstances and need for flexible study arrangements.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by validating student choices while providing specific guidance. One consultant responded: 'That's going to be equivalent of ten hours of studies a week and that's a really mature and good plan because it's better to start slowly and get familiar with the course first.' This approach effectively validated the student's decision while providing practical time commitments and maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "While the current approach is strong, consultants could enhance support by: 1) Acknowledging specific work-life challenges, 2) Exploring individual circumstances in more detail, 3) Providing concrete examples of successful study management, 4) Introducing available post-enrollment support services, and 5) Creating clear pathways to adjust study load as needed."
+        },
+        {
+          "id": 2,
+          "title": "Clear Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277324108",
+              "segment_id": "25",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277378070",
+                "segment_id": "85",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about enrollment options and eligibility requirements. A key example was: 'I'm just calling, obviously I want to enroll for it, and I was having a look, obviously, there's two, and Sebastian sent me an email, so there's two different ways I can enroll, either through work and life experience, or through my ATAR.' This demonstrated the need for clear pathway guidance while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by acknowledging student research and providing detailed explanation of eligibility requirements while maintaining appropriate pre-enrollment boundaries. Their responses included specific criteria and clear next steps, effectively guiding students toward suitable pathways while building confidence in decisions.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach of: 1) Acknowledging student research, 2) Providing clear requirement explanations, 3) Outlining specific next steps, 4) Maintaining appropriate pre-enrollment boundaries, and 5) Adding brief exploration of student goals to contextualize pathway selection."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Resource Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292636770",
+              "segment_id": "44",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concerns regarding document certification and administrative processes, indicating a need for guidance while revealing potential anxiety about procedural requirements. This presented an opportunity to demonstrate institutional support while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant effectively balanced guidance with proper role boundaries, explaining certification options while clearly delineating pre- and post-enrollment support. Their response maintained transparency about policy limitations while providing practical next steps, helping build student confidence in the enrollment process without creating unrealistic expectations about pre-enrollment support.",
+          "priority": "high",
+          "recommended_approach": "The consultant's boundary-aware approach should be maintained, while potentially enhancing through: 1) Clear articulation of available pre-enrollment support, 2) Specific explanation of post-enrollment resources, 3) Explicit transition points between sales and support roles, and 4) Emphasis on student support services as an enrollment benefit."
+        },
+        {
+          "id": 4,
+          "title": "Limited Support Service Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371103278",
+              "segment_id": "377",
+              "timestamp": "6:17"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292636770",
+                "segment_id": "78",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed interest in understanding support programs, with one asking specifically about the mentorship program: 'So with that one is there a chance to have a look at it a bit more and then sign up or is it just more?' This indicated desire to understand available support while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically provided basic procedural information without exploring students' specific interests or needs regarding support services. This surface-level response missed opportunities for deeper engagement about support services while maintaining proper role boundaries.",
+          "priority": "high",
+          "recommended_approach": "A stronger approach would involve: 1) Acknowledging student interest in support services, 2) Exploring specific aspects they're curious about, 3) Discussing potential benefits based on their needs, 4) Providing clear next steps for program engagement, and 5) Maintaining appropriate pre-enrollment boundaries while building confidence in available support."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170410797",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292636770",
+                "segment_id": "18",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about balancing work and study commitments, with one stating: 'Yeah I don't think I'm going to do two because I work full-time.' These moments presented crucial opportunities to demonstrate program flexibility while maintaining appropriate planning boundaries.",
+          "consultant_response": "Consultants typically provided general reassurance without exploring specific work schedules or developing concrete plans. This approach missed valuable opportunities to demonstrate how the program could accommodate various work-life scenarios while maintaining proper pre-enrollment guidance.",
+          "priority": "high",
+          "recommended_approach": "Future interactions should: 1) Begin by acknowledging work-life balance challenges, 2) Explore specific scheduling needs and preferences, 3) Demonstrate program flexibility through concrete examples, 4) Develop collaborative plans that align study patterns with work commitments, 5) Connect flexibility options to student success stories, and 6) Create clear pathways for ongoing schedule adjustments."
+        },
+        {
+          "id": 6,
+          "title": "Missed Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595277283470",
+              "segment_id": "61",
+              "timestamp": "06:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed career transition goals with significant experience: 'I want to be a kinder, I want to go to the kinder side, that's why I thought that I could do a graduate diploma and then I can transfer myself but I've been working for 10 years as a teacher anyway with my bachelor's degree in Australia.' This presented an opportunity to explore alternative pathways based on substantial professional experience.",
+          "consultant_response": "The consultant's response was limited to stating program restrictions: 'I don't know what to say because we don't accept any bachelors at all for entry into the school.' This missed the opportunity to explore alternative pathways or credit recognition options that could accommodate the student's extensive teaching experience.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Acknowledge the student's significant experience, 2) Explore specific aspects of their teaching background, 3) Investigate potential alternative pathways based on experience, 4) Consider credit recognition possibilities, 5) Maintain appropriate pre-enrollment boundaries while showing commitment to finding viable options, and 6) Create clear next steps for exploring alternatives."
+        }
+      ]
+    }
+  }
+}

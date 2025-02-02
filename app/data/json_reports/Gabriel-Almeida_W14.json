@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "Gabriel Almeida",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 215,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.976744186046513,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 157,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.0232558139535,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.12587249891426,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 157,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 165.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.99,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Planning",
+        "explanation": "Consultants effectively guide students through available academic pathways while maintaining appropriate pre-enrollment focus"
+      },
+      {
+        "headline": "Flexible Study Option Communication",
+        "explanation": "Clear demonstration of program adaptability to accommodate varied student circumstances while setting realistic expectations"
+      },
+      {
+        "headline": "Career Goal Integration",
+        "explanation": "Strong alignment of educational options with career objectives while maintaining appropriate sales role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Context Exploration",
+        "explanation": "Need for deeper investigation of student circumstances and goals before providing specific program guidance"
+      },
+      {
+        "headline": "Comprehensive Process Communication",
+        "explanation": "Opportunity to provide clearer explanations of enrollment steps and timeline expectations"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Room to better highlight available support resources while maintaining clear role boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276889346",
+              "segment_id": "16",
+              "timestamp": "01:44"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169670379",
+                "segment_id": "14",
+                "timestamp": "01:12"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed interest in career transitions through education, seeking guidance on pathways without prior qualifications",
+          "consultant_response": "Provided structured pathway explanations with specific progression options: 'The course online is designed for students working and studying... We have a lot of students changing careers and going to this industry.'",
+          "context_impact": "Clear pathway identification crucial for student confidence in program selection and enrollment readiness",
+          "recommended_approach": "Could enhance by incorporating more explicit career outcome connections within role boundaries"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371108206",
+              "segment_id": "130",
+              "timestamp": "12:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184920924",
+                "segment_id": "95",
+                "timestamp": "8:32"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed concerns about managing study commitments while maintaining specific completion timeframes",
+          "consultant_response": "'That's going to be about 36 to 40 hours of study per week... that's kind of why we have the trimesters, is so you can spread your study out'",
+          "context_impact": "Clear explanation of flexibility options increased student confidence in program manageability",
+          "recommended_approach": "Could explore specific circumstances more deeply when discussing study load options"
+        },
+        {
+          "id": 3,
+          "title": "Experience Recognition Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185181769",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest in teaching career based on volunteer experience with primary school children",
+          "consultant_response": "Connected volunteer experience to specific program pathway: 'based on your work experience... you qualify to enter the Bachelor of Educational Studies'",
+          "context_impact": "Recognition of experience significantly increased student confidence in program fit",
+          "recommended_approach": "Could further explore specific teaching specializations of interest"
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170493383",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169577279",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students sharing significant personal experiences and initial program interest without detail",
+          "consultant_response": "Basic acknowledgment without exploring motivations or connecting experiences to program benefits",
+          "context_impact": "Missed opportunities for deeper program alignment and personalized guidance",
+          "recommended_approach": "Should explore career goals and personal circumstances to establish stronger planning foundation"
+        },
+        {
+          "id": 5,
+          "title": "Process Communication Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184752221",
+              "segment_id": "46",
+              "timestamp": "07:46"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184933981",
+                "segment_id": "37",
+                "timestamp": "37:00"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed confusion about enrollment processes and credit transfer possibilities",
+          "consultant_response": "Provided basic information without sufficient clarity or emotional support",
+          "context_impact": "Uncertainty about process steps affecting student confidence and decision-making",
+          "recommended_approach": "Should provide clearer process steps and timeline expectations while maintaining supportive approach"
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371086573",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292571227",
+                "segment_id": "1",
+                "timestamp": "00:10"
+              }
+            ]
+          },
+          "student_trigger": "Students indicating need for various types of support during enrollment process",
+          "consultant_response": "Limited or fragmented information about support services without clear connection to student needs",
+          "context_impact": "Missed opportunities to showcase comprehensive support framework",
+          "recommended_approach": "Should better integrate discussion of support services while maintaining clear role boundaries"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276889346",
+              "segment_id": "16",
+              "timestamp": "01:44"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169670379",
+                "segment_id": "14",
+                "timestamp": "01:12"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed interest in career transitions through education, with varying levels of prior qualifications. Key examples included: 'I'm hoping to move more into a marketing communication role' and 'I want to study psychology but I've got no prior degrees.' These moments presented critical opportunities for collaborative pathway planning while maintaining appropriate pre-enrollment focus.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning skills by providing clear, structured pathway explanations while maintaining appropriate boundaries. Key responses included: 'The course is really flexible. You can choose to do between one to four units at a time' and 'The best way for you to get into teaching would be doing a Bachelor's degree... you can be accepted in the Bachelor of Educational Studies.' This approach effectively addressed immediate concerns while outlining future possibilities in an appropriate pre-enrollment context.",
+          "priority": "high",
+          "recommended_approach": "To enhance pathway guidance excellence:\n1. Begin by acknowledging current situation and experience\n2. Provide clear, structured pathways tailored to circumstances\n3. Explain progression possibilities within role boundaries\n4. Use specific examples to illustrate program flexibility\n5. Connect pathway options to expressed goals\n6. Set realistic expectations about requirements\n7. Reference post-enrollment support services appropriately"
+        },
+        {
+          "id": 2,
+          "title": "Flexible Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371108206",
+              "segment_id": "130",
+              "timestamp": "12:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184920924",
+                "segment_id": "95",
+                "timestamp": "8:32"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing study commitments and completing programs within desired timeframes. A key example was when one student asked: 'And if you still want to finish in four years you'd have to do extra studies...' This revealed anxiety about balancing study requirements with other responsibilities.",
+          "consultant_response": "Consultants provided comprehensive explanations of program structure and requirements: 'If you wanted to do it in the first and second trimester of the year, you'd have to do four units in each of those trimesters to still finish in four years. And just for reference, that's going to be about 36 to 40 hours of study per week... that's kind of why we have the trimesters, is so you can spread your study out.' This detailed response effectively communicated both practical requirements and available flexibility options.",
+          "priority": "high",
+          "recommended_approach": "To optimize flexible study planning discussions:\n1. Acknowledge student workload concerns\n2. Provide specific hour requirements\n3. Explain trimester flexibility options\n4. Connect options to student circumstances\n5. Reference relevant support services\n6. Set realistic expectations\n7. Create clear understanding of adjustment possibilities"
+        },
+        {
+          "id": 3,
+          "title": "Experience Recognition Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185181769",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared relevant volunteer experience: 'I've just been thinking about it for a very long time, and I've done a little bit of volunteer work with primary school-aged kids, and yeah, that's kind of the path that I want to go.' This demonstrated both sustained interest and relevant experience in their chosen field.",
+          "consultant_response": "The consultant effectively connected experience to program requirements: 'So, yeah, definitely you are eligible for the Bachelor of Educational Studies, based on your work experience... because you have work experience, you qualify to enter the Bachelor of Educational Studies, which is a pathway for you to do primary or early childhood and primary.' This response validated experience while maintaining appropriate pre-enrollment focus.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective approach by:\n1. Validating relevant experience\n2. Connecting experience to program requirements\n3. Outlining clear pathways forward\n4. Maintaining appropriate boundaries\n5. Suggesting post-enrollment support\n6. Exploring specific teaching interests\n7. Creating clear next steps"
+        },
+        {
+          "id": 4,
+          "title": "Limited Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170493383",
+              "segment_id": "1",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169577279",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students shared significant personal experiences and initial program interest. Key examples included: 'Having grown up in quite an explosive household... victim support is something I'm really passionate about' and general expressions of program interest without detail.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring motivations or connecting experiences to program benefits. Responses often moved directly to program details without establishing deeper context or understanding of student goals.",
+          "priority": "high",
+          "recommended_approach": "To improve context exploration:\n1. Acknowledge shared experiences appropriately\n2. Ask focused follow-up questions about goals\n3. Connect experiences to program benefits\n4. Explore career aspirations within role boundaries\n5. Demonstrate active listening\n6. Create personalized guidance plans\n7. Set clear next steps based on context"
+        },
+        {
+          "id": 5,
+          "title": "Process Communication Gaps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184752221",
+              "segment_id": "46",
+              "timestamp": "07:46"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595184933981",
+                "segment_id": "37",
+                "timestamp": "37:00"
+              }
+            ]
+          },
+          "student_trigger": "Students expressed significant confusion about enrollment processes, exemplified by comments like: 'I wouldn't want to enroll in anything until I could be assured that I'd be able to get those credits.' These moments revealed critical needs for process clarity and reassurance.",
+          "consultant_response": "Consultants typically provided basic procedural information without addressing underlying concerns or providing emotional support: 'We need to check it first, if it's going to be possible to transfer any credits.' These responses missed opportunities for deeper engagement and confidence building.",
+          "priority": "high",
+          "recommended_approach": "To enhance process communication:\n1. Acknowledge process concerns explicitly\n2. Provide clear, step-by-step explanations\n3. Set specific timeline expectations\n4. Maintain emotional support\n5. Confirm understanding at key points\n6. Establish clear next steps\n7. Reference available support resources"
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371086573",
+              "segment_id": "34",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292571227",
+                "segment_id": "1",
+                "timestamp": "00:10"
+              }
+            ]
+          },
+          "student_trigger": "Students indicated various support needs during the enrollment process, from academic guidance to administrative assistance. These moments presented opportunities to showcase the institutional support framework while maintaining appropriate role boundaries.",
+          "consultant_response": "Consultants typically provided limited or fragmented information about support services: 'Oh, no worries. I'll just transfer it to the student supervisors.' These responses missed opportunities to demonstrate the comprehensive support framework available to students.",
+          "priority": "high",
+          "recommended_approach": "To improve support service integration:\n1. Listen actively for support needs\n2. Highlight relevant services appropriately\n3. Maintain clear role boundaries\n4. Connect services to specific concerns\n5. Set realistic service expectations\n6. Provide clear access information\n7. Create confidence in support framework"
+        }
+      ]
+    }
+  }
+}

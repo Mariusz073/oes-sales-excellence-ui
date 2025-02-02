@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "consultant_name": "Tayla Viglione",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 242,
+  "team_average_total_number_of_calls_per_sales_consultant": 192.63636363636363,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 36,
+    "team_average_absolute_number": 34.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.87603305785124,
+    "team_average_percentage": 18.912296678487916
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 206,
+    "team_average_absolute_number": 158.45454545454547
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.12396694214877,
+    "team_average_percentage": 81.08770332151208
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.61024520388368,
+    "team_average": 52.123080430052454
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 206,
+    "team_total_excluded_transcripts": 1743
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 92.54,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.48,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Pathway Navigation",
+        "explanation": "Consultants successfully guide students through educational pathways while maintaining appropriate professional boundaries"
+      },
+      {
+        "headline": "Strategic Timeline Planning",
+        "explanation": "Consultants effectively adapt enrollment timelines to match student circumstances while maintaining momentum"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Proactive connection to appropriate support services demonstrates commitment to comprehensive student success"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Work-Study Balance Planning",
+        "explanation": "Greater depth needed in exploring and addressing how students can balance study commitments with work obligations"
+      },
+      {
+        "headline": "Financial Planning Integration",
+        "explanation": "More comprehensive exploration required of financial pathways and support options during educational planning"
+      },
+      {
+        "headline": "Career Path Development",
+        "explanation": "Enhanced guidance needed in connecting educational choices to long-term career development goals"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184583595",
+              "segment_id": "17",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty about meeting entry requirements due to defence background.",
+          "consultant_response": "Consultant outlined specific graduate certificate pathway with clear progression criteria to masters and credit transfer options.",
+          "context_impact": "Clear pathway explanation provided confidence in eligibility and progression options.",
+          "recommended_approach": "None needed - exemplary pathway planning demonstrated"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Timeline Accommodation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170442549",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062780597",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing uncertainty about enrollment timing and seeking flexible start dates.",
+          "consultant_response": "Provided comprehensive intake options while acknowledging need for deliberation: 'plenty of time to have your options...if that doesn't get too soon, we've also got one in May.'",
+          "context_impact": "Clear timeline options reduced pressure while maintaining momentum toward enrollment.",
+          "recommended_approach": "None needed - effectively balanced timeline flexibility with maintaining engagement"
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370652919",
+              "segment_id": "107",
+              "timestamp": "13:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed ADHD diagnosis and need for academic accommodations.",
+          "consultant_response": "Outlined DSS services and committed to sending detailed information: 'I'll send you an email with the link to DSS and contact details for disability advisors.'",
+          "context_impact": "Early connection to disability support services increased student confidence in academic success.",
+          "recommended_approach": "None needed - demonstrated excellent support service integration"
+        },
+        {
+          "id": 4,
+          "title": "Inadequate Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062588336",
+              "segment_id": "307",
+              "timestamp": "21:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "38",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing work commitments (including Navy service) with study requirements.",
+          "consultant_response": "Brief acknowledgments without detailed discussion of flexible study options or scheduling solutions.",
+          "context_impact": "Insufficient exploration of scheduling needs reduced confidence in program manageability.",
+          "recommended_approach": "Should explore students' schedules in detail and discuss specific flexible study arrangements available"
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370742174",
+              "segment_id": "55",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371179917",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing concerns about program costs and payment options.",
+          "consultant_response": "Basic Fee-Help information provided without exploring additional options or support mechanisms.",
+          "context_impact": "Limited financial guidance reduced confidence in enrollment decisions.",
+          "recommended_approach": "Should provide comprehensive financial planning guidance and support options"
+        },
+        {
+          "id": 6,
+          "title": "Missed Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370914559",
+              "segment_id": "14",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking guidance between continuing current field or exploring new pathway.",
+          "consultant_response": "Basic information gathering without substantive pathway exploration or career alignment discussion.",
+          "context_impact": "Missed opportunity to connect educational planning with career development goals.",
+          "recommended_approach": "Should engage in detailed discussion of career goals and develop aligned educational pathway"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184583595",
+              "segment_id": "17",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 01:15 into the call, the student expressed uncertainty about meeting entry requirements: 'So, it's more so my background is more experience in defence, so I'm not sure if I'm going to meet the threshold to be accepted.' This revealed an important opportunity to explore alternative pathways while maintaining the student's confidence in their ability to succeed.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by outlining a clear alternative pathway: 'Yeah, no stress. If that is the case, we would be able to start you with the master but we could certainly explore the grad cert entry. If you were to start with the grad cert of project management, if you were to maintain a weighted average mark of 60 in those first four subjects, you'd be welcome to then progress with the remainder of the master and receive credit for those four units.' This response effectively transformed potential uncertainty into a structured action plan with specific progression criteria.",
+          "priority": "high",
+          "recommended_approach": "While this interaction was highly effective, future conversations could further enhance the approach by: 1) Explicitly connecting aspects of the student's defence experience to potential success in the program, 2) Outlining specific support services available during the progression pathway, 3) Creating a clear timeline for progression milestones, and 4) Establishing check-points for progression support."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Timeline Accommodation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170442549",
+              "segment_id": "52",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062780597",
+                "segment_id": "24",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students expressed uncertainty about enrollment timing. A primary example occurred when a student stated: 'I'm getting my head around when the dates for, because I believe I would have missed the start of year enrolment dates.' This pattern demonstrated need for flexible timeline planning that accommodated individual circumstances.",
+          "consultant_response": "Consultants consistently demonstrated strong collaborative planning by providing clear timeline options while maintaining flexibility. Key responses included: 'We've got multiple intakes throughout the year so plenty of time to have your options,' and 'If that doesn't get too soon, we've also got one in May as well.' This approach effectively balanced encouraging timely action while respecting student needs for consideration time.",
+          "priority": "high",
+          "recommended_approach": "Continue this effective practice while enhancing through: 1) Connecting timelines more explicitly to individual student circumstances, 2) Discussing specific preparation steps for each intake period, 3) Creating collaborative timelines aligned with student goals and constraints, 4) Setting clear action steps while maintaining flexibility."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370652919",
+              "segment_id": "107",
+              "timestamp": "13:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed: 'I was diagnosed with ADHD this year and... my psychiatrist said that I should speak to the university about allowances.' This demonstrated proactive seeking of support accommodations and created an opportunity for comprehensive support planning.",
+          "consultant_response": "The consultant provided thorough support information: 'We've got the DSS... I'll send you an email today with the link to the DSS and contact details for the disability advisors.' This response showed strong collaborative planning by immediately connecting the student with appropriate resources and creating clear next steps.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained and enhanced by: 1) Acknowledging support needs immediately, 2) Providing clear explanation of available services, 3) Creating specific action steps for accessing support, 4) Ensuring follow-up with detailed information, 5) Maintaining open communication channels for ongoing support needs."
+        },
+        {
+          "id": 4,
+          "title": "Inadequate Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062588336",
+              "segment_id": "307",
+              "timestamp": "21:34"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "123456789012",
+                "segment_id": "38",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about balancing work and study commitments. One student stated: 'I'll probably be working part-time and yeah and then yeah I've got just extracurriculars.' Another mentioned Navy service obligations. These interactions revealed critical opportunities for comprehensive study planning that were not fully realized.",
+          "consultant_response": "Consultants provided only basic acknowledgments without exploring scheduling needs or discussing specific flexible study options. In one case, the response focused on limitations rather than solutions: 'Unfortunately online with Monash we've only got postgraduate degrees available.' This approach missed opportunities to develop practical strategies for work-study balance.",
+          "priority": "high",
+          "recommended_approach": "To effectively address work-study balance concerns: 1) Explore specific work commitments and scheduling constraints, 2) Discuss part-time study options and flexible arrangements, 3) Share examples of successful work-study balance strategies, 4) Create preliminary study plans that accommodate work commitments, 5) Connect with relevant support services for detailed planning assistance."
+        },
+        {
+          "id": 5,
+          "title": "Limited Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370742174",
+              "segment_id": "55",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371179917",
+                "segment_id": "26",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed financial concerns, with one stating: 'Could you also tell me, that's a fees course, isn't it? It's not upfront payment.' These inquiries indicated significant need for comprehensive financial planning support to facilitate informed enrollment decisions.",
+          "consultant_response": "Consultants typically provided basic Fee-Help information without exploring broader financial planning needs or available support mechanisms. Responses often focused on administrative aspects rather than collaborative financial planning that could address student concerns and build confidence in program affordability.",
+          "priority": "high",
+          "recommended_approach": "Enhance financial planning discussions by: 1) Exploring all available support options, 2) Discussing payment flexibility and arrangements, 3) Connecting with financial advisory resources, 4) Creating detailed financial action plans, 5) Ensuring students understand all available support mechanisms before making enrollment decisions."
+        },
+        {
+          "id": 6,
+          "title": "Missed Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370914559",
+              "segment_id": "14",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant career direction uncertainty, asking: 'So I'm just thinking, is it worth me going back to study and getting my registration or just studying a new pathway?' This crucial moment demanded comprehensive exploration of educational pathways aligned with career goals.",
+          "consultant_response": "While the consultant gathered basic information about qualifications and experience, they missed the opportunity to engage in meaningful exploration of career development pathways. The response focused on administrative details rather than strategic planning that could connect educational choices with career aspirations.",
+          "priority": "high",
+          "recommended_approach": "Implement a structured career development discussion: 1) Acknowledge the significance of the career decision: 'This is an important choice about your future direction,' 2) Explore career motivations and goals: 'What factors are most important in your career decision?', 3) Connect educational pathways to career objectives, 4) Discuss how program features support career development, 5) Create an action plan for gathering career information and making informed decisions."
+        }
+      ]
+    }
+  }
+}

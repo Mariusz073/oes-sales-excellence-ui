@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 263,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 59,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.433460076045627,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 204,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.56653992395437,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.825846464985,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 204,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 130.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.62,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Study Load Planning",
+        "explanation": "Effective guidance helping students create manageable study plans aligned with work and life commitments"
+      },
+      {
+        "headline": "Clear Pathway Navigation",
+        "explanation": "Successfully guiding students through qualification requirements while maintaining appropriate professional boundaries"
+      },
+      {
+        "headline": "Flexible Support Integration",
+        "explanation": "Proactively connecting students with relevant resources while maintaining pre-enrollment momentum"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Career Transition Support",
+        "explanation": "Need for more structured guidance when helping students plan major educational transitions"
+      },
+      {
+        "headline": "Comprehensive Financial Planning",
+        "explanation": "Opportunity to provide more thorough exploration of financial options and commitments"
+      },
+      {
+        "headline": "Personal Circumstance Integration",
+        "explanation": "Deeper exploration needed of individual situations when planning study arrangements"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185321699",
+              "segment_id": "93",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371525973",
+                "segment_id": "197",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on managing full-time work alongside study commitments",
+          "consultant_response": "Provided specific unit recommendations and explained flexible structure: 'Two units is a really good starting point and one unit everyone starts with is Learning and Communicating Online.'",
+          "context_impact": "Clear guidance on study load options crucial for building enrollment confidence",
+          "recommended_approach": "Could explore specific daily/weekly scheduling strategies in more detail"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062794054",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277172033",
+                "segment_id": "57",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing desire to transition careers through strategic educational planning",
+          "consultant_response": "Connected current experience to future pathways while maintaining appropriate career guidance boundaries",
+          "context_impact": "Clear pathway guidance increases confidence in program value for career development",
+          "recommended_approach": "Could enhance by providing clearer outline of post-enrollment career support services"
+        },
+        {
+          "id": 3,
+          "title": "Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371300853",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on qualification requirements and support services",
+          "consultant_response": "Provided comprehensive explanation of entry requirements while maintaining flexibility in exploring options",
+          "context_impact": "Effective support service explanation builds confidence in program success",
+          "recommended_approach": "None needed - demonstrated strong support integration"
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371300853",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed interest in transitioning from nursing to law studies",
+          "consultant_response": "Basic acknowledgment without exploring transition planning or pathway options",
+          "context_impact": "Insufficient career transition guidance may reduce confidence in pathway",
+          "recommended_approach": "Should explore motivation for law and discuss specific transition pathways available"
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169782983",
+              "segment_id": "100",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595293413187",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking comprehensive financial planning guidance",
+          "consultant_response": "Basic financial information provided without exploring full range of options",
+          "context_impact": "Limited financial discussion may create barriers to enrollment",
+          "recommended_approach": "Should provide more comprehensive financial planning guidance while maintaining boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371388048",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062794054",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students indicating various personal circumstances affecting study decisions",
+          "consultant_response": "Basic responses without detailed exploration of individual situations",
+          "context_impact": "Insufficient exploration may reduce confidence in program fit",
+          "recommended_approach": "Should engage in deeper discussion of personal circumstances and study management strategies"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185321699",
+              "segment_id": "93",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371525973",
+                "segment_id": "197",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students voiced concerns about managing study commitments alongside full-time work. In the primary example at segment 93, the student expressed: 'I want to advance my career but I'm worried about balancing study with my current role.' Similarly, in supporting calls, students shared concerns about fitting study around work schedules.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by providing specific, actionable guidance on study load management. In the primary call, the consultant recommended: 'Two units is a really good starting point and one unit everyone starts with is Learning and Communicating Online,' explaining how this introductory unit helps students succeed in online learning. Supporting calls showed similar effective responses, with consultants normalizing work-study balance by highlighting that 'most of our students do work full-time as well' while offering concrete study load suggestions.",
+          "priority": "high",
+          "recommended_approach": "To enhance these strong interactions, consultants should: 1) Explore specific daily/weekly scheduling preferences in more detail, 2) Discuss strategies for managing peak work periods, 3) Create sample study schedules aligned with work patterns, 4) Provide examples of successful work-study balance strategies from other students, and 5) Set clear expectations about time commitment per unit while maintaining focus on flexibility."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062794054",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277172033",
+                "segment_id": "57",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed career transition goals, seeking to understand how educational programs could support their professional development. Primary example: 'I'm studying quite a lot over the last... just trying to get some things behind me so that I can do counselling or something like that.' This demonstrated need for strategic educational planning aligned with career goals.",
+          "consultant_response": "Consultants effectively balanced career guidance boundaries while providing clear pathway information. In the primary example: 'We can use it to get you into the course as well as to get you some credits towards your Bachelor of Psych Sciences.' This approach demonstrated understanding of career aspirations while maintaining focus on enrollment-relevant information. Supporting examples showed similar effective boundary management while exploring educational pathways.",
+          "priority": "high",
+          "recommended_approach": "To optimize this interaction pattern, consultants should: 1) Acknowledge career goals while maintaining focus on program alignment, 2) Outline how program structure supports professional development, 3) Highlight availability of post-enrollment career support services without providing detailed career guidance, and 4) Create clear connection between current experience and future educational pathway while staying within pre-enrollment boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Support Resource Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371300853",
+              "segment_id": "11",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought specific clarity on qualification pathways: 'I'm thinking of doing it after this, like do I need to do bachelor's or I can apply after diploma?' This question revealed both immediate educational interests and future planning needs.",
+          "consultant_response": "The consultant provided clear, structured guidance while maintaining appropriate boundaries: 'Let me explain how our support services can help you succeed. We have dedicated learning advisors who can help you develop study skills and manage your workload effectively.' This approach effectively balanced immediate support needs with longer-term planning.",
+          "priority": "high",
+          "recommended_approach": "This effective approach should be maintained and enhanced by: 1) Acknowledging current educational status clearly, 2) Presenting multiple support options with specific details, 3) Maintaining flexibility in exploring alternatives, 4) Providing clear next steps based on individual circumstances, and 5) Encouraging ongoing dialogue about educational journey planning."
+        },
+        {
+          "id": 4,
+          "title": "Limited Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371300853",
+              "segment_id": "16",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 16, the student stated: 'Okay, because my diploma is just completed like this year, so I'm thinking of doing law after this.' This revealed a significant career transition intention requiring careful guidance and support to ensure confidence in the chosen pathway.",
+          "consultant_response": "The consultant provided only basic acknowledgment without exploring the transition plan or discussing specific pathways. This limited response missed the opportunity to build confidence in the career change journey and explore suitable educational options that would support the transition.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach should begin with: 'That's an interesting transition from nursing to law. Let's explore how our programs could support your career change.' Then: 1) Inquire about specific interests within law, 2) Discuss how current qualifications might benefit the transition, 3) Outline available pathway options and timelines, 4) Suggest resources for career planning support, and 5) Create a structured transition plan while maintaining appropriate boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169782983",
+              "segment_id": "100",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595293413187",
+                "segment_id": "74",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought comprehensive financial planning guidance. Primary example: 'I was planning to pay for myself, but I don't know if you have payment plans that are favourable.' Supporting examples showed similar needs for detailed financial support information.",
+          "consultant_response": "Consultants typically provided limited financial information without exploring full range of options. Primary example: 'Unfortunately we don't have any payment plans, we just have that you only pay per units that you're enrolled into.' This approach failed to address broader financial planning needs or explore available support options.",
+          "priority": "high",
+          "recommended_approach": "An enhanced approach should: 1) Acknowledge financial planning concerns, 2) Explore all available payment and support options, 3) Provide clear information about costs and timing, 4) Connect students with appropriate financial planning resources while maintaining pre-enrollment boundaries. This ensures comprehensive financial guidance while staying within appropriate role limits."
+        },
+        {
+          "id": 6,
+          "title": "Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371388048",
+              "segment_id": "13",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062794054",
+                "segment_id": "40",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students indicated various personal circumstances affecting their study decisions. Primary example: 'I just started reading it when you called, so I haven't finished reading it yet.' This and supporting examples revealed opportunities for deeper exploration of individual situations to ensure appropriate study planning.",
+          "consultant_response": "Consultants typically provided basic responses without engaging in detailed exploration of personal circumstances. In the primary example: 'I can essentially take you through all of that, that, but in that email it just has all of the units you would be credited for, so you can look at that at a later date as well.' This approach missed opportunities to understand and address individual needs and concerns.",
+          "priority": "high",
+          "recommended_approach": "A more effective approach would: 1) Actively explore individual circumstances affecting study decisions, 2) Discuss specific strategies for managing identified challenges, 3) Connect circumstances to relevant program features and support options, and 4) Create personalized action plans while maintaining appropriate boundaries. This ensures students feel understood while receiving relevant guidance for their situation."
+        }
+      ]
+    }
+  }
+}

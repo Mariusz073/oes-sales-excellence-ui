@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "consultant_name": "Shelton Frimpong",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 216,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.240740740740737,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 155,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.75925925925925,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.149765154797464,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 155,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 118.6,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.58,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Alternative Pathway Development",
+        "explanation": "Consultants effectively identify and present viable alternative pathways when standard routes are not available"
+      },
+      {
+        "headline": "Proactive Study Load Management",
+        "explanation": "Consultants successfully help students plan manageable study arrangements while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Support System Integration",
+        "explanation": "Consultants effectively connect students with appropriate support mechanisms while maintaining clear role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Personal Circumstance Integration",
+        "explanation": "Need for deeper exploration of individual situations to create more tailored study plans and pathways"
+      },
+      {
+        "headline": "Comprehensive Timeline Management",
+        "explanation": "Opportunity to provide clearer guidance on enrollment processes, deadlines and administrative requirements"
+      },
+      {
+        "headline": "Strategic Support Service Navigation",
+        "explanation": "Better integration of support service information needed while staying within pre-enrollment scope"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370779938",
+              "segment_id": "64",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated challenges with shift work scheduling while expressing interest in pursuing education",
+          "consultant_response": "Consultant suggested starting with a diploma: 'What I'll probably suggest for yourself is doing first a diploma, because it can help you get into a bachelor course in the future and take some time off the course'",
+          "context_impact": "The consultant's guidance on diploma pathway provided a feasible route to the student's educational goals while accommodating work commitments",
+          "recommended_approach": "None needed - excellent example of alternative pathway development"
+        },
+        {
+          "id": 2,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063199309",
+              "segment_id": "175",
+              "timestamp": "29:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370650780",
+                "segment_id": "219",
+                "timestamp": "17:31"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressing concerns about managing study loads alongside existing commitments: 'I'd probably look at part-time' and seeking guidance on workload management",
+          "consultant_response": "Consultants provided strategic guidance on starting with manageable loads: 'So normally that's what we suggest anyway, to start with two. But I see what the goal is. When you start your first semester and you see if you can handle two, you can then increase.'",
+          "context_impact": "Clear discussion of flexible study options significantly influenced student confidence in program manageability",
+          "recommended_approach": "Could enhance by exploring specific circumstances more deeply when discussing study load options"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169830650",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371046363",
+                "segment_id": "7",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students mentioning life circumstances affecting study preferences",
+          "consultant_response": "Basic acknowledgment without exploring implications for study planning",
+          "context_impact": "Missed opportunity to align program features with personal situations",
+          "recommended_approach": "Should discuss program flexibility features that accommodate personal circumstances while maintaining appropriate boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Inadequate Timeline Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170362018",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292799887",
+                "segment_id": "16",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing confusion about enrollment deadlines and application timing requirements",
+          "consultant_response": "Basic deadline information provided without detailed process planning or structured support",
+          "context_impact": "Lack of clear timeline guidance created uncertainty that could delay enrollment decisions",
+          "recommended_approach": "Should provide comprehensive timeline guidance with clear action plans and milestones"
+        },
+        {
+          "id": 6,
+          "title": "Basic Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184834167",
+              "segment_id": "20",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressing difficulty finding appropriate contacts",
+          "consultant_response": "Basic acknowledgment without providing clear direction",
+          "context_impact": "Lack of clear guidance on support options may increase frustration",
+          "recommended_approach": "Should provide clear referral pathways while maintaining appropriate scope"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595370779938",
+              "segment_id": "64",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed interest in pursuing education while managing shift work: 'I was just thinking why not do a course while I'm working, having an income?' This demonstrated motivation to advance academically while maintaining employment, creating an opportunity for collaborative pathway planning.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by suggesting a strategic pathway: 'What I'll probably suggest for yourself is doing first a diploma, because it can help you get into a bachelor course in the future and take some time off the course.' This approach acknowledged the student's current situation while providing a clear progression path towards their educational goals. The consultant explained how this route could make the bachelor's program both shorter and more affordable.",
+          "priority": "high",
+          "recommended_approach": "This represents best practice in collaborative planning by identifying a viable pathway that accommodates current circumstances while maintaining progress toward long-term goals. Future similar situations should maintain this level of strategic thinking while ensuring students understand both immediate and long-term benefits of suggested pathways."
+        },
+        {
+          "id": 2,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063199309",
+              "segment_id": "175",
+              "timestamp": "29:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595370650780",
+                "segment_id": "219",
+                "timestamp": "17:31"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study loads effectively alongside existing commitments. The primary example at segment 175 noted: 'I'd probably look at part-time,' while supporting examples showed similar patterns of students seeking guidance on workload management. These triggers represented crucial moments for collaborative planning around sustainable study arrangements.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning by providing strategic guidance on flexible study options. The primary example showed strong student-centered planning: 'So normally that's what we suggest anyway, to start with two. But I see what the goal is. When you start your first semester and you see if you can handle two, you can then increase.' This approach effectively balanced immediate manageability with future flexibility while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "While current practice is strong, consultants could enhance interactions by: 1) Beginning with deeper exploration of student's current commitments and constraints, 2) Providing specific examples of successful part-time study patterns, 3) Creating preliminary study plans aligned with individual circumstances, 4) Outlining clear criteria for adjusting study load, and 5) Connecting load planning to available post-enrollment support services while maintaining appropriate boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Support System Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595371494944",
+              "segment_id": "78",
+              "timestamp": "10:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 78, the student made a significant disclosure: 'I do have PTSD. It does affect learning a little bit. It just slows me... me down.' This vulnerable sharing indicated a need for careful handling of support discussion while maintaining appropriate enrollment focus.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by immediately addressing the disclosure with appropriate scope: 'Would you require, like, any support in your studies with this? So there will be our support system, okay, where you're able to apply for, okay, to get additional help and support, okay?' They effectively balanced immediate acknowledgment with future planning: 'I'll put that on there for you, okay? You'll have that available directly via our student hub, okay? So make sure you apply for that.'",
+          "priority": "high",
+          "recommended_approach": "While this interaction was handled well, consultants can further enhance such discussions by: 1) Briefly outlining available support types without specifics 2) Clearly explaining post-enrollment support access 3) Maintaining enrollment focus while acknowledging support needs 4) Ensuring proper documentation for smooth transition to support services"
+        },
+        {
+          "id": 4,
+          "title": "Limited Personal Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169830650",
+              "segment_id": "40",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595371046363",
+                "segment_id": "7",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students revealed significant life circumstances affecting study preferences, with statements like 'I'm sort of at a different place in life now' and mentions of family commitments. These disclosures presented opportunities to demonstrate program flexibility while maintaining appropriate boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring implications for study planning or highlighting relevant program features. Responses often missed opportunities to demonstrate how programs could accommodate personal circumstances while maintaining appropriate pre-enrollment focus.",
+          "priority": "high",
+          "recommended_approach": "To enhance these interactions, consultants should: 1) Acknowledge personal circumstances while maintaining boundaries, 2) Highlight relevant program flexibility features, 3) Explain how features support different study patterns, 4) Maintain pre-enrollment focus while demonstrating program suitability."
+        },
+        {
+          "id": 5,
+          "title": "Inadequate Timeline Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595170362018",
+              "segment_id": "26",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595292799887",
+                "segment_id": "16",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed confusion about enrollment deadlines and application processes, with examples including: 'Yes, sorry, the last thing I heard was 6th of February' and 'So, just looking to continue, am I too late to apply?' These represented crucial opportunities for collaborative timeline planning.",
+          "consultant_response": "Consultants typically provided basic deadline information without engaging in meaningful collaborative planning around application processes and timelines. Responses lacked structured guidance on managing deadlines and completing necessary enrollment steps.",
+          "priority": "high",
+          "recommended_approach": "A more effective collaborative planning approach would: 1) Create clear timeline for application submission with specific milestones, 2) Identify potential barriers and solutions in advance, 3) Offer direct support in expediting application processes, 4) Establish clear next steps with written follow-up, and 5) Provide comprehensive guidance on key dates and requirements while maintaining appropriate enrollment focus."
+        },
+        {
+          "id": 6,
+          "title": "Basic Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184834167",
+              "segment_id": "20",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed frustration with finding appropriate contacts: 'I've tried searching it on the internet, and I can't seem to find someone to ask.' This highlighted need for clear support service navigation while maintaining appropriate boundaries.",
+          "consultant_response": "Consultant provided only basic acknowledgment without clear direction or explanation of support options. This missed opportunity to demonstrate available support while maintaining appropriate pre-enrollment scope.",
+          "priority": "high",
+          "recommended_approach": "To improve these interactions, consultants should: 1) Provide clear referral pathways while maintaining role boundaries, 2) Explain available support options within appropriate scope, 3) Set clear expectations about next steps, 4) Position detailed support as post-enrollment benefit."
+        }
+      ]
+    }
+  }
+}

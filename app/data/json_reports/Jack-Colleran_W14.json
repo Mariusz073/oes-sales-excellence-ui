@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 197,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 46,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.3502538071066,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 151,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.6497461928934,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.6793378712527,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 151,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 188.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Work-Study Integration",
+        "explanation": "Consultants excel at collaboratively developing flexible study arrangements that accommodate diverse work commitments"
+      },
+      {
+        "headline": "Proactive Pathway Navigation",
+        "explanation": "Consultants effectively guide students through educational options while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Consultants successfully position institutional support resources within planning discussions to enable student success"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Life Circumstance Planning",
+        "explanation": "Greater emphasis needed on incorporating personal situations and transitions into educational planning discussions"
+      },
+      {
+        "headline": "Deeper Career Development Support",
+        "explanation": "More thorough exploration needed of how programs align with and support career advancement goals"
+      },
+      {
+        "headline": "Strengthened Resource Planning",
+        "explanation": "More comprehensive discussion needed of financial options and support mechanisms during enrollment conversations"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276901553",
+              "segment_id": "63",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170158480",
+                "segment_id": "62",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students expressing concerns about balancing full-time work with study commitments",
+          "consultant_response": "Consultants provide detailed breakdown of part-time study options and flexible arrangements",
+          "context_impact": "Clear work-study planning crucial for building enrollment confidence",
+          "recommended_approach": "Could explore specific scheduling preferences more deeply"
+        },
+        {
+          "id": 2,
+          "title": "Proactive Alternative Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185106348",
+              "segment_id": "28",
+              "timestamp": "1:50"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277240163",
+                "segment_id": "34",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students facing barriers to standard pathways due to health or eligibility constraints",
+          "consultant_response": "Consultants provide clear TAFE pathway options with potential exemptions",
+          "context_impact": "Clear alternative options maintain student engagement despite barriers",
+          "recommended_approach": "Strong example of collaborative planning"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184617989",
+              "segment_id": "120",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentions existing external mentorship support",
+          "consultant_response": "Consultant effectively acknowledges existing support while offering additional resources",
+          "context_impact": "Opportunity to position institutional support as complementary resource",
+          "recommended_approach": "Could more explicitly outline how institutional support complements external guidance"
+        },
+        {
+          "id": 4,
+          "title": "Limited Life Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062990619",
+              "segment_id": "161",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student reveals significant personal circumstances affecting study timing",
+          "consultant_response": "Focus on administrative processes rather than exploring flexible arrangements",
+          "context_impact": "Missed opportunity to demonstrate flexibility during challenging circumstances",
+          "recommended_approach": "Should discuss available flexibility options while maintaining boundaries"
+        },
+        {
+          "id": 5,
+          "title": "Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184617989",
+              "segment_id": "38",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062990619",
+                "segment_id": "21",
+                "timestamp": "0:55"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing desire for career advancement through education",
+          "consultant_response": "Basic acknowledgment without exploring how programs support career development",
+          "context_impact": "Opportunity to align program benefits with career goals",
+          "recommended_approach": "Should discuss program benefits for career advancement within role boundaries"
+        },
+        {
+          "id": 6,
+          "title": "Resource Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292608302",
+              "segment_id": "231",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277283784",
+                "segment_id": "68",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking clarity on financial requirements and support options",
+          "consultant_response": "Basic information provided without exploring full range of support options",
+          "context_impact": "Comprehensive understanding of resources crucial for enrollment confidence",
+          "recommended_approach": "Should provide comprehensive overview of available support mechanisms"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595276901553",
+              "segment_id": "63",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595170158480",
+                "segment_id": "62",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about managing studies alongside full-time work commitments. In the primary example, the student stated: 'I want to advance my career but I'm worried about balancing study with my current role.' Similar concerns were echoed across calls, particularly from students in demanding industries like mining, where one student specifically highlighted shift work challenges.",
+          "consultant_response": "Consultants demonstrated excellent collaborative planning skills by providing clear explanations of part-time study options and workload expectations. The primary example showed strong guidance: 'If you do two units per teaching period, that's about 16 to 20 hours which I would consider part-time. A three-year course will only take you an additional year.' Supporting examples reinforced flexible features: 'Online study really suits people working full-time... no commitment to lectures.' This approach effectively addressed work-study balance concerns while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "While maintaining appropriate role boundaries, consultants should: 1) Acknowledge specific work schedule challenges, 2) Provide clear workload expectations with concrete examples, 3) Explain flexible study options and trimester structure, 4) Demonstrate how other working students manage the balance, 5) Reference post-enrollment support services, and 6) Create clear connections between program flexibility and career advancement goals."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Alternative Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185106348",
+              "segment_id": "28",
+              "timestamp": "1:50"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277240163",
+                "segment_id": "34",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students faced barriers to preferred educational pathways. In the primary example at 1:50, a parent revealed: 'she sort of had a few health issues so we went the easier route.' Supporting examples showed similar eligibility challenges requiring alternative solutions. These situations demanded sensitive handling while maintaining enrollment momentum.",
+          "consultant_response": "Consultants provided clear alternative pathways while maintaining student confidence. Primary example: 'That's completely understandable... there is other ways you can get in... what I would advise her to do is to do a diploma from TAFE... that gets you entry, but it also probably gets you some exemptions.' Supporting examples demonstrated similar skill in presenting viable alternatives with clear benefits, effectively keeping students engaged in the enrollment journey despite initial barriers.",
+          "priority": "high",
+          "recommended_approach": "To enhance alternative pathway discussions: 1) Validate circumstances immediately with empathy, 2) Present clear alternative options promptly, 3) Highlight additional benefits like potential exemptions, 4) Maintain focus on achievable educational goals, 5) Explore long-term aspirations to strengthen pathway alignment, and 6) Create clear action plans that maintain enrollment momentum."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Support Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184617989",
+              "segment_id": "120",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student mentioned receiving coaching and mentoring from an ECT consultant, indicating existing support structures. This disclosure presented an opportunity to position institutional support services as complementary to current guidance while maintaining appropriate boundaries.",
+          "consultant_response": "The consultant effectively acknowledged the value of existing support while offering additional institutional resources: 'I'll give you a call back between kind of one to two business days and I'll go over any questions that we can have, like John, basically how Swinburne works and yeah, just basically we'll make sure you're eligible first but it looks like you would be.' This response respected the student's existing support network while clearly positioning institutional support as complementary.",
+          "priority": "high",
+          "recommended_approach": "To maximize support service integration: 1) Explicitly acknowledge value of existing mentorship, 2) Clearly outline how institutional support complements external guidance, 3) Focus on academic-specific aspects of support, 4) Create clear action plans that integrate both support systems, and 5) Maintain professional boundaries while highlighting institutional resources."
+        },
+        {
+          "id": 4,
+          "title": "Limited Life Circumstance Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062990619",
+              "segment_id": "161",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant personal circumstances affecting their study timing: 'Okay I'm probably more looking at the July one my husband's about to have a bone marrow transplant.' This indicated a need for sensitive handling of enrollment timing and flexible study arrangements to accommodate their challenging situation.",
+          "consultant_response": "The consultant focused primarily on administrative processes: 'Yeah yeah no I completely understand that well you can send me over your resume anyway and I'll have a look at it... so when you call in you just need to go through the enrollment form.' This response missed the opportunity to demonstrate understanding and explore flexible options that could support the student through their challenging circumstances.",
+          "priority": "high",
+          "recommended_approach": "An enhanced approach should: 1) Acknowledge and validate personal circumstances with empathy, 2) Discuss flexible study arrangements and deferral options, 3) Outline available support services post-enrollment, 4) Provide clear next steps while maintaining sensitivity, 5) Keep focus on enrollment-relevant planning while demonstrating institutional support, and 6) Create clear connections between program flexibility and personal circumstances."
+        },
+        {
+          "id": 5,
+          "title": "Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595184617989",
+              "segment_id": "38",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062990619",
+                "segment_id": "21",
+                "timestamp": "0:55"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed career development aspirations. Primary example: 'We've got our ECT retiring soon.' Supporting example: 'I want to get out of hairdressing physically.' These situations presented opportunities to explore how educational programs could support career advancement while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without exploring how programs could support career development. Primary example: 'Of course, this work is really rewarding.' This surface-level engagement missed opportunities for meaningful collaborative planning around career advancement goals while maintaining appropriate sales role boundaries.",
+          "priority": "high",
+          "recommended_approach": "Enhance career development discussions by: 1) Acknowledge career goals while maintaining sales role boundaries, 2) Focus on program features that support professional development, 3) Discuss relevant course content without overstepping into career planning, 4) Mention post-enrollment career support services, 5) Connect program benefits to career goals, and 6) Create clear alignment between educational and professional objectives."
+        },
+        {
+          "id": 6,
+          "title": "Resource Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595292608302",
+              "segment_id": "231",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595277283784",
+                "segment_id": "68",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on available resources and support options. Primary example showed clear need for comprehensive guidance: 'Can I ask what the cost per unit is?' Supporting examples revealed similar needs for understanding available support mechanisms and resources.",
+          "consultant_response": "Consultants typically provided basic information without exploring the full range of available support options. Responses focused on basic costs without comprehensive discussion of financial assistance, payment flexibility, or other support resources available to students.",
+          "priority": "high",
+          "recommended_approach": "Strengthen resource planning discussions by: 1) Provide comprehensive overview of available support mechanisms, 2) Explain all payment options and financial assistance, 3) Discuss study support resources, 4) Outline flexible payment arrangements, 5) Connect resource planning to student circumstances, and 6) Ensure clear understanding of all available support systems."
+        }
+      ]
+    }
+  }
+}

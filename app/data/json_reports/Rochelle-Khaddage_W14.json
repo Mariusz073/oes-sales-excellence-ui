@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Rochelle Khaddage",
+    "week_number": 14,
+    "date_range": "01-27_01-31",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 172,
+  "team_average_total_number_of_calls_per_sales_consultant": 209.1875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 60,
+    "team_average_absolute_number": 60.1875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 34.883720930232556,
+    "team_average_percentage": 29.133393893940287
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 112,
+    "team_average_absolute_number": 149.0
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 65.11627906976744,
+    "team_average_percentage": 70.8666061060597
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.76610155691144,
+    "team_average": 51.93270877448067
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 112,
+    "team_total_excluded_transcripts": 2383
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 195.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 128.81,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Adaptive Study Management",
+        "explanation": "Effectively tailoring study arrangements and pathways to individual circumstances while maintaining appropriate enrollment focus"
+      },
+      {
+        "headline": "Strategic Pathway Navigation",
+        "explanation": "Clear guidance through program options and requirements while respecting pre-enrollment boundaries"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Skillful introduction of relevant support resources while establishing realistic expectations for assistance"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Transition Planning",
+        "explanation": "Need for deeper exploration of career change objectives when developing educational pathways"
+      },
+      {
+        "headline": "Complex Circumstance Management",
+        "explanation": "More structured approaches needed for navigating unique student situations requiring special consideration"
+      },
+      {
+        "headline": "Support Service Boundaries",
+        "explanation": "Clearer distinction needed between pre-enrollment guidance and post-enrollment support services"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169614536",
+              "segment_id": "46",
+              "timestamp": "02:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063359976",
+                "segment_id": "402",
+                "timestamp": "42:36"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking clarity on flexible study options to accommodate work and life commitments.",
+          "consultant_response": "Provided clear guidance on flexible options: 'Yes, of course you can take one unit... we recommend 8 to 10 hours of study per unit every week.'",
+          "context_impact": "Critical moment for building confidence in program manageability through clear flexibility options.",
+          "recommended_approach": "Could enhance exploration of specific circumstances affecting study preferences"
+        },
+        {
+          "id": 2,
+          "title": "Strategic Program Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062592947",
+              "segment_id": "143",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169577918",
+                "segment_id": "100",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students seeking guidance on educational pathway options and progression implications.",
+          "consultant_response": "Prioritized student needs over immediate enrollment by recommending best-fit pathways and maintaining clear scope.",
+          "context_impact": "Opportunity to build trust through honest pathway recommendations while maintaining boundaries.",
+          "recommended_approach": "Could strengthen with structured comparison of pathway options"
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Development",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185134567",
+              "segment_id": "15",
+              "timestamp": "1:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student's academic record didn't meet traditional requirements but had relevant experience.",
+          "consultant_response": "Provided clear guidance on work experience pathway: 'I'll need to see four years of work experience, two being full-time.'",
+          "context_impact": "Quick identification of alternative pathway maintained enrollment momentum.",
+          "recommended_approach": "None needed - exemplary alternative pathway guidance"
+        },
+        {
+          "id": 4,
+          "title": "Career Change Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063502976",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062858213",
+                "segment_id": "314",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking guidance on career transitions without receiving comprehensive planning.",
+          "consultant_response": "Focused on procedural aspects without exploring transition needs or creating comprehensive plans.",
+          "context_impact": "Missed opportunities to align educational pathways with career objectives.",
+          "recommended_approach": "Should explore career goals more deeply before pathway planning"
+        },
+        {
+          "id": 5,
+          "title": "Complex Circumstance Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student seeking guidance on managing study with Defence enlistment plans.",
+          "consultant_response": "Showed uncertainty: 'I haven't had anyone really asked me this question before.'",
+          "context_impact": "Complex scenario requiring clear transition planning process.",
+          "recommended_approach": "Should develop comprehensive understanding of transition options"
+        },
+        {
+          "id": 6,
+          "title": "Support Service Boundaries",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169614536",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063502976",
+                "segment_id": "17",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Students requesting detailed guidance beyond enrollment scope.",
+          "consultant_response": "Provided advice beyond pre-enrollment scope without introducing support services.",
+          "context_impact": "Need to maintain appropriate boundaries while ensuring adequate support.",
+          "recommended_approach": "Should maintain clear boundaries while introducing post-enrollment support"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169614536",
+              "segment_id": "46",
+              "timestamp": "02:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063359976",
+                "segment_id": "402",
+                "timestamp": "42:36"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed need for study flexibility, with primary example 'Can I just enrol in one subject?' and supporting cases seeking work-life balance accommodation. These inquiries demonstrated proactive engagement in planning manageable study arrangements while revealing careful consideration of existing commitments.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning by validating flexibility needs while providing practical guidance. Primary response: 'Yes, of course you can. We recommend 8 to 10 hours of study per unit every week.' This approach effectively balanced immediate validation with concrete information about time commitments and workload management. Supporting examples showed similar skill in connecting program flexibility to individual circumstances.",
+          "priority": "high",
+          "recommended_approach": "To enhance this strong practice: 1) Immediately validate flexibility needs, 2) Explore specific work/life commitments, 3) Provide clear time commitment guidance, 4) Connect options to individual circumstances, 5) Introduce relevant support services, 6) Create clear expectations about workload management."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Program Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595062592947",
+              "segment_id": "143",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595169577918",
+                "segment_id": "100",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought guidance on educational pathways, with the primary example stating: 'I'm so chewing and throwing, maybe I should just go and do the diploma and then start the bachelor next year with the credit.' Supporting examples revealed similar needs for pathway clarity and progression guidance.",
+          "consultant_response": "Consultants showed strong collaborative planning by prioritizing student needs over immediate enrollment. The primary example demonstrated this clearly: 'If it does help with your current work situation, getting that diploma, then you know, I'd go down that path. So I like to recommend what's best for the student.' This approach built trust by focusing on student success while maintaining appropriate advisory boundaries.",
+          "priority": "high",
+          "recommended_approach": "To enhance pathway guidance: 1) Provide structured comparison of pathway options including timelines and implications, 2) Create clear frameworks for progression planning while maintaining appropriate boundaries, 3) Offer specific examples of successful transitions between pathways, 4) Document pathway preferences for future reference."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Development",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595185134567",
+              "segment_id": "15",
+              "timestamp": "1:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student faced potential barrier when bachelor's degree average of 49% didn't meet traditional entry requirements, but possessed significant aged care experience. This critical moment required careful handling to maintain confidence while establishing a viable pathway forward through alternative qualifications.",
+          "consultant_response": "Consultant demonstrated exceptional collaborative planning by immediately identifying and validating the work experience pathway: 'I'll send you something it's called it's our resume template... I'll just need to see four years of work experience, two of those being full-time.' This approach effectively transformed a potential barrier into a structured pathway forward.",
+          "priority": "high",
+          "recommended_approach": "This exemplary approach should be maintained: 1) Quickly acknowledge alternative qualifications, 2) Provide specific, actionable requirements, 3) Outline clear documentation needs, 4) Create structured application process, 5) Maintain positive engagement throughout, 6) Ensure seamless transition to next enrollment steps."
+        },
+        {
+          "id": 4,
+          "title": "Career Change Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595063502976",
+              "segment_id": "15",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595062858213",
+                "segment_id": "314",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed career transition goals, exemplified by statements like 'I'm looking to make a career change' and questions about pathway options. These moments presented crucial opportunities for comprehensive career planning discussions that could align educational pathways with professional objectives.",
+          "consultant_response": "Consultants typically focused on procedural aspects or immediate enrollment steps without adequately exploring career transition needs or creating comprehensive pathways. Responses often missed opportunities to demonstrate how educational programs could support career change ambitions.",
+          "priority": "high",
+          "recommended_approach": "Enhance career transition support through: 1) Active exploration of career change goals, 2) Discussion of industry requirements and timelines, 3) Connection of program elements to career objectives, 4) Creation of clear progression plans, 5) Introduction of relevant support services, 6) Development of comprehensive transition timelines."
+        },
+        {
+          "id": 5,
+          "title": "Complex Circumstance Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "42",
+              "timestamp": null
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought guidance on managing studies alongside Defence enlistment plans, specifically asking about deferral options after completing initial units. This presented a complex planning scenario requiring clear understanding of available options and processes while maintaining enrollment momentum.",
+          "consultant_response": "Consultant demonstrated insufficient preparation by expressing uncertainty: 'I haven't had anyone really asked me this question before' and provided limited guidance about deferrals without clear process understanding. This response highlighted the need for better preparation in handling unique enrollment scenarios.",
+          "priority": "high",
+          "recommended_approach": "Develop comprehensive approach for complex scenarios: 1) Acknowledge unique circumstances, 2) Explain available flexibility options, 3) Outline specific processes and requirements, 4) Create clear documentation guidelines, 5) Establish concrete re-engagement pathways, 6) Ensure smooth handover to appropriate support services."
+        },
+        {
+          "id": 6,
+          "title": "Support Service Boundaries",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595169614536",
+              "segment_id": "47",
+              "timestamp": null
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595063502976",
+                "segment_id": "17",
+                "timestamp": null
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought detailed guidance beyond enrollment scope, requesting specific study planning assistance and ongoing support commitments. These requests required careful balance between providing immediate assistance and maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "Consultants frequently provided detailed advice beyond their pre-enrollment role without clearly introducing appropriate support services. This approach created potential misalignment of expectations and missed opportunities to demonstrate the comprehensive support infrastructure available post-enrollment.",
+          "priority": "high",
+          "recommended_approach": "Maintain clear boundaries while ensuring support through: 1) Providing high-level program information, 2) Introducing post-enrollment support services appropriately, 3) Creating clear expectations about available assistance, 4) Maintaining focus on enrollment decision-making, 5) Ensuring smooth transition to relevant support teams, 6) Documenting specific support needs for handover."
+        }
+      ]
+    }
+  }
+}
