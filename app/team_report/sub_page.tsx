@@ -4,6 +4,7 @@ import React from "react";
 import { IndividualPerformanceDialog } from "../components/IndividualPerformanceDialog";
 import { BehavioralPerformanceDialog } from "../components/BehavioralPerformanceDialog";
 import { WeeklyInsightsDialog } from "../components/WeeklyInsightsDialog";
+import { getHighPerformanceColor } from "../lib/utils";
 
 interface WeeklyInsight {
   title: string;
@@ -438,8 +439,23 @@ export const WeeklyInitiative = ({
                       >
                         {index + 1}
                       </div>
-                      <span className="flex-grow">{consultant.name}</span>
-                      <span>
+                      <span
+                        className="flex-grow"
+                        style={{
+                          color: getHighPerformanceColor(
+                            consultant.result || consultant.percentage_high_need
+                          ),
+                        }}
+                      >
+                        {consultant.name}
+                      </span>
+                      <span
+                        style={{
+                          color: getHighPerformanceColor(
+                            consultant.result || consultant.percentage_high_need
+                          ),
+                        }}
+                      >
                         {consultant.result || consultant.percentage_high_need}
                       </span>
                     </div>
@@ -453,8 +469,21 @@ export const WeeklyInitiative = ({
                   <div className="w-8 h-8 rounded bg-[#1E1E1E] flex items-center justify-center text-white">
                     -
                   </div>
-                  <span className="flex-grow">{averageResult.name}</span>
-                  <span>{averageResult.result}</span>
+                  <span
+                    className="flex-grow"
+                    style={{
+                      color: getHighPerformanceColor(averageResult.result),
+                    }}
+                  >
+                    {averageResult.name}
+                  </span>
+                  <span
+                    style={{
+                      color: getHighPerformanceColor(averageResult.result),
+                    }}
+                  >
+                    {averageResult.result}
+                  </span>
                 </div>
 
                 {/* Second ellipsis */}
@@ -477,8 +506,23 @@ export const WeeklyInitiative = ({
                           1 +
                           index}
                       </div>
-                      <span className="flex-grow">{consultant.name}</span>
-                      <span>
+                      <span
+                        className="flex-grow"
+                        style={{
+                          color: getHighPerformanceColor(
+                            consultant.result || consultant.percentage_high_need
+                          ),
+                        }}
+                      >
+                        {consultant.name}
+                      </span>
+                      <span
+                        style={{
+                          color: getHighPerformanceColor(
+                            consultant.result || consultant.percentage_high_need
+                          ),
+                        }}
+                      >
                         {consultant.result || consultant.percentage_high_need}
                       </span>
                     </div>
