@@ -170,11 +170,14 @@ export default async function TeamReportPage({
     if (index == 0) {
       return reportData.graph.bars[0];
     }
-    if (index < reportData.graph.bars.length) {
-      return reportData.graph.bars[
-        reportData.graph.bars.length - totalBars + index // PK: Show only the last 13 bars
-      ];
+    if (reportData.graph.bars.length <= totalBars) {
+      return index < reportData.graph.bars.length
+        ? reportData.graph.bars[index]
+        : null;
     }
+    return reportData.graph.bars[
+      reportData.graph.bars.length - totalBars + index // PK: Show only the last 13 bars
+    ];
     return null;
   });
 
