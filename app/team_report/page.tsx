@@ -1,5 +1,6 @@
 import { getTeamReportData } from "../actions/getTeamReportData";
 import { WeeklyInitiative } from "./sub_page";
+import { getCollaborativePercentageScore } from "../lib/utils";
 
 interface Graph {
   title: string;
@@ -76,21 +77,30 @@ export default async function TeamReportPage({
 }: {
   searchParams: { team: string; analysis: string; week: string };
 }): Promise<JSX.Element> {
-  const reportData = await getTeamReportData(searchParams.team, searchParams.analysis, searchParams.week) as TeamReportData | null;
+  const reportData = (await getTeamReportData(
+    searchParams.team,
+    searchParams.analysis,
+    searchParams.week
+  )) as TeamReportData | null;
 
   // Transform data for behavioral reports
-  if (reportData && (reportData.type === 'behavioural' || reportData.type === 'behavioral')) {
+  if (
+    reportData &&
+    (reportData.type === "behavioural" || reportData.type === "behavioral")
+  ) {
     // Update average result to use percentage_high_need
-    if (reportData.individual_performance.average_result.percentage_high_need) {
-      reportData.individual_performance.average_result.result = 
-        reportData.individual_performance.average_result.percentage_high_need;
+    if (reportData.individual_performance.average_result.high_need_score) {
+      reportData.individual_performance.average_result.result =
+        getCollaborativePercentageScore(
+          reportData.individual_performance.average_result.high_need_score
+        );
     }
 
     // Transform graph data to use upperBound and lowerBound
-    reportData.graph.bars = reportData.graph.bars.map(bar => ({
+    reportData.graph.bars = reportData.graph.bars.map((bar) => ({
       ...bar,
       upperBound: bar.upper_bound,
-      lowerBound: bar.lower_bound
+      lowerBound: bar.lower_bound,
     }));
   }
 
@@ -104,26 +114,40 @@ export default async function TeamReportPage({
 
   // Extract titles and highlight the text between <em> tags in red
   const firstTitleParts = reportData.first_page_title.split(/<em>|<\/em>/);
-  const formattedFirstTitle = firstTitleParts.map((part: string, index: number) => 
-    index % 2 === 1 ? <span key={index} className="text-[#FF6B8A]">{part}</span> : part
+  const formattedFirstTitle = firstTitleParts.map(
+    (part: string, index: number) =>
+      index % 2 === 1 ? (
+        <span key={index} className="text-[#FF6B8A]">
+          {part}
+        </span>
+      ) : (
+        part
+      )
   );
 
   // Calculate compliance changes
   const lastIndex = reportData.graph.bars.length - 1;
   const prevIndex = lastIndex - 1;
-  const fullComplianceChange = reportData.graph.bars[lastIndex].green - reportData.graph.bars[prevIndex].green;
-  const partialComplianceChange = reportData.type === 'Compliance' 
-    ? reportData.graph.bars[lastIndex].red! - reportData.graph.bars[prevIndex].red!
-    : 0;
+  const fullComplianceChange =
+    reportData.graph.bars[lastIndex].green -
+    reportData.graph.bars[prevIndex].green;
+  const partialComplianceChange =
+    reportData.type === "Compliance"
+      ? reportData.graph.bars[lastIndex].red! -
+        reportData.graph.bars[prevIndex].red!
+      : 0;
 
   // Sort consultants by compliance percentage
-  const sortedConsultants = [...reportData.individual_performance.consultant_results]
-    .map(consultant => {
+  const sortedConsultants = [
+    ...reportData.individual_performance.consultant_results,
+  ]
+    .map((consultant) => {
       // Handle both compliance and behavioral data structures
-      const percentageStr = (reportData.type === 'behavioural' || reportData.type === 'behavioral')
-        ? consultant.percentage_high_need 
-        : consultant.result;
-      
+      const percentageStr =
+        reportData.type === "behavioural" || reportData.type === "behavioral"
+          ? consultant.percentage_high_need
+          : consultant.result;
+
       // Extract percentage from either format
       const percentageMatch = percentageStr?.match(/\((\d+(?:\.\d+)?)%\)$/);
       const percentage = percentageMatch ? parseFloat(percentageMatch[1]) : 0;
@@ -131,8 +155,11 @@ export default async function TeamReportPage({
       return {
         ...consultant,
         // For behavioral reports, use percentage_high_need as result
-        result: (reportData.type === 'behavioural' || reportData.type === 'behavioral') ? consultant.percentage_high_need : consultant.result,
-        percentage
+        result:
+          reportData.type === "behavioural" || reportData.type === "behavioral"
+            ? getCollaborativePercentageScore(consultant.high_need_score) //PK: Changed as per Jason request, total score is 380
+            : consultant.result,
+        percentage,
       };
     })
     .sort((a, b) => b.percentage - a.percentage);
@@ -140,8 +167,13 @@ export default async function TeamReportPage({
   // Create array of 13 positions
   const totalBars = 13;
   const bars = Array.from({ length: totalBars }, (_, index) => {
+    if (index == 0) {
+      return reportData.graph.bars[0];
+    }
     if (index < reportData.graph.bars.length) {
-      return reportData.graph.bars[index];
+      return reportData.graph.bars[
+        reportData.graph.bars.length - totalBars + index // PK: Show only the last 13 bars
+      ];
     }
     return null;
   });
@@ -151,7 +183,14 @@ export default async function TeamReportPage({
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <h1 className="title font-bold">
-          Team Report Page <span className="text-white">- {searchParams.team === 'monash' ? 'Monash' : 'SOL'} - {searchParams.analysis === 'compliance' ? 'Compliance' : 'Behavioural'} - Week {searchParams.week}</span>
+          Team Report Page{" "}
+          <span className="text-white">
+            - {searchParams.team === "monash" ? "Monash" : "SOL"} -{" "}
+            {searchParams.analysis === "compliance"
+              ? "Compliance"
+              : "Behavioural"}{" "}
+            - Week {searchParams.week}
+          </span>
         </h1>
 
         {/* First Bar Graph Section */}
@@ -164,22 +203,30 @@ export default async function TeamReportPage({
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
               <span className="text-sm text-gray-300 font-normal">
-                {reportData.type === 'Compliance' ? 'Partial compliance' : reportData.graph.red_label}
+                {reportData.type === "Compliance"
+                  ? "Partial compliance"
+                  : reportData.graph.red_label}
               </span>
             </div>
             {/* Green line legend */}
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#78c38e]"></div>
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.green_label}</span>
+              <span className="text-sm text-gray-300 font-normal">
+                {reportData.graph.green_label}
+              </span>
             </div>
             {/* Black line legend */}
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#1E1E1E]"></div>
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.black_label}</span>
+              <span className="text-sm text-gray-300 font-normal">
+                {reportData.graph.black_label}
+              </span>
             </div>
             {/* Result label */}
             <div className="flex items-center gap-2 ml-8">
-              <span className="text-sm text-gray-300 font-normal">{reportData.graph.result_label}</span>
+              <span className="text-sm text-gray-300 font-normal">
+                {reportData.graph.result_label}
+              </span>
             </div>
           </div>
 
@@ -201,47 +248,57 @@ export default async function TeamReportPage({
             </div>
 
             {/* Bars Container */}
-            <div className="relative h-[98%] ml-8 grid" style={{ gridTemplateColumns: 'repeat(13, calc((100% - 96px) / 13))', gap: '8px' }}>
+            <div
+              className="relative h-[98%] ml-8 grid"
+              style={{
+                gridTemplateColumns: "repeat(13, calc((100% - 96px) / 13))",
+                gap: "8px",
+              }}
+            >
               {bars.map((graph, index) => (
                 <div key={index} className="relative">
                   {graph ? (
                     <>
                       <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
-                        {reportData.type === 'Compliance' 
-                          ? `${graph.green + graph.red!}%` 
+                        {reportData.type === "Compliance"
+                          ? `${graph.green + graph.red!}%`
                           : `${Math.round((graph.green / 380) * 100)}%`}
                       </div>
                       <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
                         {/* Green bar */}
-                        <div 
-                          className="absolute bottom-0 w-full bg-[#78c38e]" 
-                          style={{ 
-                            height: `${(reportData.type === 'behavioural' || reportData.type === 'behavioral') ? 
-                              (graph.green / 380) * 100 : graph.green}%`
+                        <div
+                          className="absolute bottom-0 w-full bg-[#78c38e]"
+                          style={{
+                            height: `${
+                              reportData.type === "behavioural" ||
+                              reportData.type === "behavioral"
+                                ? (graph.green / 380) * 100
+                                : graph.green
+                            }%`,
                           }}
                         ></div>
-                        {reportData.type === 'Compliance' ? (
+                        {reportData.type === "Compliance" ? (
                           /* Partial compliance bar for Compliance type */
-                          <div 
-                            className="absolute w-full bg-[#FF6B8A]" 
-                            style={{ 
+                          <div
+                            className="absolute w-full bg-[#FF6B8A]"
+                            style={{
                               bottom: `${graph.green}%`,
-                              height: `${graph.red}%`
+                              height: `${graph.red}%`,
                             }}
                           ></div>
                         ) : (
                           /* Upper and Lower bound lines for Behavioral type */
                           <>
-                            <div 
-                              className="absolute w-full h-[2px] bg-[#FF6B8A]" 
-                              style={{ 
-                                bottom: `${(graph.lowerBound / 380) * 100}%`
+                            <div
+                              className="absolute w-full h-[2px] bg-[#FF6B8A]"
+                              style={{
+                                bottom: `${(graph.lowerBound / 380) * 100}%`,
                               }}
                             ></div>
-                            <div 
-                              className="absolute w-full h-[2px] bg-[#FF6B8A]" 
-                              style={{ 
-                                bottom: `${(graph.upperBound / 380) * 100}%`
+                            <div
+                              className="absolute w-full h-[2px] bg-[#FF6B8A]"
+                              style={{
+                                bottom: `${(graph.upperBound / 380) * 100}%`,
                               }}
                             ></div>
                           </>
@@ -263,34 +320,41 @@ export default async function TeamReportPage({
         </div>
 
         {/* Second Section - Weekly Report Initiative */}
-        <WeeklyInitiative 
+        <WeeklyInitiative
           type={reportData.type}
           title={reportData.second_page_title}
           fullCompliance={{
             percentage: reportData.graph.bars[lastIndex].green,
-            change: fullComplianceChange
+            change: fullComplianceChange,
           }}
           partialCompliance={{
-            percentage: reportData.type === 'Compliance' ? reportData.graph.bars[lastIndex].red! : 0,
-            change: partialComplianceChange
+            percentage:
+              reportData.type === "Compliance"
+                ? reportData.graph.bars[lastIndex].red!
+                : 0,
+            change: partialComplianceChange,
           }}
           subRequirements={reportData.sub_requirements?.data || []}
-          consultants={sortedConsultants.map(consultant => ({
+          consultants={sortedConsultants.map((consultant) => ({
             name: consultant.name,
             result: consultant.result,
             percentage: consultant.percentage,
             high_need_score: consultant.high_need_score,
             all_score: consultant.all_score,
-            percentage_high_need: consultant.percentage_high_need
+            percentage_high_need: consultant.percentage_high_need,
           }))}
           averageResult={{
             name: reportData.individual_performance.average_result.name,
             result: reportData.individual_performance.average_result.result,
-            high_need_score: reportData.individual_performance.average_result.high_need_score,
-            all_score: reportData.individual_performance.average_result.all_score
+            high_need_score:
+              reportData.individual_performance.average_result.high_need_score,
+            all_score:
+              reportData.individual_performance.average_result.all_score,
           }}
           weeklyInsights={reportData.weekly_insights}
-          individualPerformanceCount={reportData.individual_performance.verdicts_count}
+          individualPerformanceCount={
+            reportData.individual_performance.verdicts_count
+          }
         />
       </div>
     </div>
