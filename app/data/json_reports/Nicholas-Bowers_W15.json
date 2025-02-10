@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 235,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 79,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 33.61702127659574,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 156,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 66.38297872340425,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.523188210140894,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 156,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 171.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.94,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.25,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 212.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.4,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 110.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.42,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 110.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.94,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 156.8,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 118.97,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear guidance and support"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical planning and targeted support mechanisms that address specific lifestyle needs"
+      },
+      {
+        "headline": "Proactive Support Management",
+        "explanation": "Effective ongoing engagement through consistent follow-up, clear commitment to support, and systematic guidance that builds trust and maintains momentum throughout the enrollment journey"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement opportunities while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and comprehensive support mechanisms to ensure successful completion"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "More comprehensive discussion needed of costs, payment options and support mechanisms when exploring educational pathways to prevent financial barriers and maintain enrollment momentum"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555476697",
+              "segment_id": "12",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I just want to get more information about the course and also, obviously pre-rec study, like, how long it goes for. I've got a social work degree already' (call_595555476697, seg_12), seeking qualification alignment.",
+          "consultant_response": "Consultant effectively outlined options: 'So you've got two options now... the graduate diploma of psychology which you can get with your bachelor degree... the grad cert is just the first four units' (call_595555476697, seg_18)",
+          "context_impact": "Critical opportunity to demonstrate how existing qualifications enhance new educational journey while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how past qualifications create advantages in the new program and enhance career progression"
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659099373",
+              "segment_id": "32",
+              "timestamp": "02:52"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I have two kids and, you know, I'm 32, so just looking at, you know, what I want to do when the kids are at school' (call_595659099373, seg_32), revealing need for family-aligned study planning.",
+          "consultant_response": "Consultant affirmed: 'Yeah, absolutely, good way to start off. Yeah, it's a good way to kind of future-proof yourself if you're looking to get back into the workforce at some point' (call_595659099373, seg_38)",
+          "context_impact": "Critical moment to demonstrate how program flexibility could accommodate parenting responsibilities while supporting career advancement goals.",
+          "recommended_approach": "Include specific examples of how current parent-students successfully manage their studies and balance family commitments"
+        },
+        {
+          "id": 3,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659152808",
+              "segment_id": "206",
+              "timestamp": "26:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm actually applying to withdraw some of the units, so I dropped halfway because it was too expensive' (call_595659152808, seg_206), revealing critical financial concerns.",
+          "consultant_response": "Consultant focused on logistics: 'So, our full-time study load for our trimester system is just three units per term' (call_595659152808, seg_253), missing financial planning opportunity.",
+          "context_impact": "Immediate risk of withdrawal due to financial constraints requiring comprehensive support discussion and solution planning.",
+          "recommended_approach": "Provide clear breakdown of costs, payment options and available financial support mechanisms including FEE-HELP and flexible study loads"
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566174733",
+              "segment_id": "15",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty: 'I'm not sure what else I need to submit' (call_595566174733, seg_15), seeking clear guidance on requirements.",
+          "consultant_response": "Consultant provided basic overview without detailed guidance on submission process or support options.",
+          "context_impact": "Critical moment to provide comprehensive guidance on administrative requirements and submission processes to maintain enrollment momentum.",
+          "recommended_approach": "Develop comprehensive checklist of required documentation with clear submission guidelines, timelines and support resources"
+        },
+        {
+          "id": 5,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731887820",
+              "segment_id": "58",
+              "timestamp": "05:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So when does the final term for this year finish again, sorry' (call_595731887820, seg_58), seeking schedule clarity for planning.",
+          "consultant_response": "Consultant provided dates without exploring implications for career progression or professional development pathways.",
+          "context_impact": "Opportunity to connect program timing with career development goals and demonstrate strategic alignment with professional planning.",
+          "recommended_approach": "Link academic timeline to specific career objectives and professional development milestones to strengthen enrollment value proposition"
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663772481",
+              "segment_id": "89",
+              "timestamp": "07:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm lucky that I got you back because I know you know the situation already and I was on the phone with you' (call_595663772481, seg_89), showing appreciation for consistent support.",
+          "consultant_response": "Consultant replied: 'Yeah that's right, I've got it in my calendar as well to give you a buzz on the 14th of April' (call_595663772481, seg_97), effectively reinforcing ongoing support commitment.",
+          "context_impact": "This moment demonstrated how maintaining continuity builds trust and sustains enrollment momentum through relationship development.",
+          "recommended_approach": "Include more specific planning details and next steps during follow-up scheduling to maintain momentum"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555476697",
+              "segment_id": "12",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial moment in the call, the student sought guidance on program options while highlighting existing qualifications: 'I just want to get more information about the course and also, obviously pre-rec study, like, how long it goes for. I've got a social work degree already' (call_595555476697, seg_12). This disclosure presented an ideal opportunity to demonstrate how their academic foundation could enhance their future educational journey while maintaining enrollment momentum.",
+          "consultant_response": "The consultant effectively acknowledged the background and presented clear pathways: 'So you've got two options now, we the overall course that you do need to complete in general is called the graduate diploma of psychology which you can get with your bachelor degree... the grad cert is just the first four units' (call_595555476697, seg_18). This response validated the student's existing qualifications while outlining relevant progression options, creating a foundation for strategic planning.",
+          "priority": "high",
+          "recommended_approach": "When discussing pathways with students who have existing qualifications, begin by acknowledging their academic foundation and using it to frame future opportunities. Start with validation: 'Your Bachelor degree provides an excellent foundation for our psychology programs. Let me show you how we can build on your existing expertise.' Then explore specific connections: 'Your social work background brings valuable perspectives to psychology studies. Let me outline how our available pathways can enhance your professional toolkit.' Present clear options while maintaining role boundaries: 'We have two main pathways - the Graduate Certificate comprising four core units, or the full Graduate Diploma. Both build upon your current qualification and offer different advantages.' For students interested in professional transitions, direct them to appropriate resources: 'Once enrolled, our learning advisers can help you explore how these qualifications complement your expertise and open new career opportunities.' Share specific examples: 'Many of our successful psychology students come from social work backgrounds, finding their previous experience provides unique insights into human behavior and therapeutic relationships.' This approach keeps focus on enrollment while demonstrating how past achievements enhance future study options, always grounding explanations in practical examples that resonate with the student's background."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659099373",
+              "segment_id": "32",
+              "timestamp": "02:52"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial moment in the call, the student shared her personal context: 'I have two kids and, you know, I'm 32, so just looking at, you know, what I want to do when the kids are at school' (call_595659099373, seg_32). This statement revealed both her motivation to pursue education and her need for a program that could accommodate her family responsibilities while supporting future career plans.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by immediately validating the student's approach: 'Yeah, absolutely, good way to start off. Yeah, it's a good way to kind of future-proof yourself if you're looking to get back into the workforce at some point' (call_595659099373, seg_38). This response effectively acknowledged both the immediate practical considerations and long-term career implications of her decision, showing how the program could support her life transitions.",
+          "priority": "high",
+          "recommended_approach": "When working with parents considering education, begin by acknowledging their unique circumstances and the wisdom of planning for their next career phase. Start with validating statements like: 'Many of our successful students are parents planning their return to the workforce. Your timing with school-age children shows great strategic thinking.' Then, explore specific aspects of their situation: 'Let's look at how our flexible study options can work around your children's school hours and family commitments.' Share concrete examples of how current parent-students manage their studies: 'One of our current students downloads lectures to review during school hours, then completes assignments after the children's bedtime. Another uses school holiday programs to create focused study blocks.' Provide specific flexibility examples: 'You can access all materials 24/7, submit assignments when it suits your schedule, and adjust your study load around school terms.' Pay particular attention to school holiday periods and other family commitments, showing how our flexible assessment scheduling can accommodate these: 'During school holidays, many parents reduce their study load or work ahead to create family time.' The goal is to transform perceived barriers into manageable planning opportunities, always grounding explanations in real-life scenarios that resonate with parenting responsibilities while maintaining focus on their career development goals."
+        },
+        {
+          "id": 3,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659152808",
+              "segment_id": "206",
+              "timestamp": "26:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant financial barriers: 'I'm actually applying to withdraw some of the units, so I dropped halfway because it was too expensive' (call_595659152808, seg_206). This disclosure highlighted immediate risk of withdrawal requiring comprehensive discussion of financial support options and strategic planning to maintain enrollment.",
+          "consultant_response": "The consultant focused primarily on study load: 'So, our full-time study load for our trimester system is just three units per term pretty much. Still about 30 hours of academic study a week though so that sounds doable' (call_595659152808, seg_253). This response missed addressing the core financial concerns and available support mechanisms that could prevent withdrawal.",
+          "priority": "high",
+          "recommended_approach": "When students express financial concerns, begin with empathetic acknowledgment while maintaining a solutions focus. Start with validation: 'I understand that managing course costs is a crucial factor in your education planning. Let's explore options to make this manageable.' Then explore specific challenges: 'Could you tell me more about the financial barriers you're facing? This helps us identify the most relevant support options.' Present clear information about payment structures: 'Let me outline our payment options, including FEE-HELP availability and flexible study loads that can help manage costs. Many students find reducing their study load helps balance the financial commitment.' Ensure students understand all support mechanisms: 'We can look at several approaches: reducing your study load to spread costs, exploring payment plans, or accessing government assistance through FEE-HELP. Some students combine these options for maximum flexibility.' Share specific examples: 'One student recently reduced to two units per term, using FEE-HELP to defer costs while maintaining progress toward their goals.' Maintain appropriate boundaries while providing clear support pathways: 'While I can't provide specific financial advice, I can connect you with our student support team who can discuss detailed payment options and assistance programs. They help many students create sustainable financial plans.' The goal is to transform financial barriers into manageable challenges through clear planning and support access, always focusing on practical solutions that maintain enrollment momentum."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566174733",
+              "segment_id": "15",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about documentation requirements: 'I'm not sure what else I need to submit' (call_595566174733, seg_15). This indicated a need for clear guidance on administrative processes and requirements to maintain enrollment momentum.",
+          "consultant_response": "The consultant provided only basic information about documentation requirements without detailed submission guidance or support resources, missing an opportunity to create a clear pathway through administrative requirements and ensure successful completion.",
+          "priority": "high",
+          "recommended_approach": "When students express uncertainty about documentation requirements, implement a systematic approach to clarify and support the submission process. Begin with a comprehensive overview: 'Let's review exactly what documentation you need and create a clear plan for submission. I'll guide you through each step.' Create a clear checklist approach: 'First, let's confirm what you've already submitted, then I'll outline any remaining requirements with specific deadlines.' For each document, provide specific guidance: 'For your identification documents, we accept passport, driver's license, or birth certificate. You can submit these through our secure online portal, and I can walk you through that process now.' Include practical examples: 'For academic transcripts, many students find it helpful to request these early in the process. I can show you exactly how to order these from your previous institution.' Always include alternative options: 'If you have trouble accessing any documents, we have several acceptable alternatives. For example, if your academic transcript is delayed, we can often work with certified copies while waiting for originals.' Provide specific support resources: 'Our document verification team can help with any questions about format or authenticity. They're available by phone or email, and I can connect you directly if needed.' The key is to transform documentation requirements from potential barriers into manageable tasks with clear support pathways, maintaining momentum through each step of the process."
+        },
+        {
+          "id": 5,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731887820",
+              "segment_id": "58",
+              "timestamp": "05:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the discussion of term dates, the student asked: 'So when does the final term for this year finish again, sorry' (call_595731887820, seg_58). This question presented an opportunity to explore how the academic timeline aligned with the student's career development goals and create strategic value through professional planning.",
+          "consultant_response": "The consultant provided the requested dates without exploring the broader implications for the student's career progression or professional development goals. This factual response missed the opportunity to demonstrate how program timing could strategically align with career advancement opportunities and strengthen enrollment value.",
+          "priority": "high",
+          "recommended_approach": "When discussing program timing, connect academic milestones to career development goals to create strategic value. Start by acknowledging the immediate need for dates, then broaden the discussion: 'Let's look at how these term dates align with your career plans and professional development goals.' Explore specific professional objectives: 'What career milestones are you hoping to reach, and how can we time your studies to support these? Many students find certain units particularly valuable at specific career stages.' Share examples of successful alignment: 'One of our recent graduates timed their final units to coincide with a promotion opportunity, using their new skills to strengthen their application.' Demonstrate strategic planning: 'Let's map out how different unit combinations can build skills relevant to your immediate work challenges while preparing for future opportunities. For example, starting with core units in March builds foundations for specialized units that often align well with end-of-year career opportunities.' Include specific industry examples: 'In your industry, many students find our October completion timing works well with typical recruitment cycles.' The key is to show how academic planning can strategically support career progression, making the program timeline more meaningful than just dates on a calendar while strengthening the enrollment value proposition."
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663772481",
+              "segment_id": "89",
+              "timestamp": "07:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a follow-up conversation, the student expressed significant appreciation for continuity, stating: 'I'm lucky that I got you back because I know you know the situation already and I was on the phone with you' (call_595663772481, seg_89). This moment highlighted the value students place on consistent support and relationship building in their enrollment journey.",
+          "consultant_response": "The consultant effectively reinforced the connection and demonstrated commitment to ongoing support by responding: 'Yeah that's right, yeah so I've got it in my calendar as well to give you a buzz on the 14th of April and we'll just go from there' (call_595663772481, seg_97). This response demonstrated proactive planning and commitment to ongoing support while maintaining enrollment momentum.",
+          "priority": "high",
+          "recommended_approach": "When students express appreciation for continuity, it signals an opportunity to deepen the collaborative relationship and reinforce their commitment to enrollment through consistent support. Begin by acknowledging their recognition of the relationship: 'I'm glad we could continue our conversation, it helps us build on what we've already discussed and maintain momentum in your enrollment journey.' Then, use this foundation to create specific action plans: 'Since we're familiar with your situation, let's outline the key steps before our next call, ensuring you feel fully supported at each stage.' Demonstrate proactive planning by scheduling definite follow-ups while explaining how this supports their journey: 'I'm marking our next check-in for April 14th - this gives you time to gather documents while ensuring we maintain momentum. I'll also note any specific items we need to review.' Create clear accountability: 'By our next call, you'll have [specific actions] completed, and I'll have [support actions] ready for review.' Pay particular attention to students who seem relieved at maintaining consultant continuity, as this often indicates a need for consistent support through their decision-making process. Consider creating brief summaries of previous discussions to reference: 'Last time we discussed [specific points], and today we've added [new elements]. This helps ensure we're making consistent progress toward your enrollment.' The goal is to build trust through reliable support while maintaining clear forward momentum in the enrollment process."
+        }
+      ]
+    }
+  }
+}

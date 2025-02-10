@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "consultant_name": "Gabriel Almeida",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 263,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 56,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.292775665399237,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 207,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.70722433460075,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.51108176510051,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 207,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 107.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 145.91,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 142.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 152.31,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 183.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.28,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 126.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.5,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 204.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 120.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.41,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 165.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.99,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 165.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum and clear professional boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including shift work, family commitments and regional considerations through tailored support"
+      },
+      {
+        "headline": "Support System Navigation",
+        "explanation": "Clear articulation and proactive integration of available support mechanisms throughout the student journey while maintaining appropriate pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Life Circumstance Planning",
+        "explanation": "More comprehensive integration required of students' specific personal and professional circumstances into practical study planning discussions with targeted solutions"
+      },
+      {
+        "headline": "Career Transition Confidence",
+        "explanation": "Enhanced exploration needed of how program elements and life experience can complement career changes while building confidence for mature students"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative submission pathways and proactive support mechanisms"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659422647",
+              "segment_id": "47",
+              "timestamp": "5:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I was potentially looking at dropping out of high school and maybe taking up a course, but I'm not sure if that's something you guys do or what the process was for that' (call_595659422647, seg_47), revealing uncertainty about educational pathways.",
+          "consultant_response": "Consultant outlined multiple entry pathways: 'Look, for media and communication courses, we do have different entry criteria... ATAR of 60... completed Certificate IV... completed Diploma...' (call_595659422647, seg_58), effectively showing flexibility and options.",
+          "context_impact": "Critical moment requiring clear guidance on alternative pathways to maintain student engagement while ensuring appropriate support.",
+          "recommended_approach": "Include more specific timeline examples and success stories of students who took similar paths while maintaining enrollment momentum."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739221920",
+              "segment_id": "106",
+              "timestamp": "11:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'For example, managing time in which work and family, academic writing, or passing experiments and exams' (call_595739221920, seg_106), revealing critical need for practical study management solutions.",
+          "consultant_response": "Consultant effectively responded: 'Look, just remember that you are not going to be alone doing this. We can offer you a lot of support and regarding the time management, we can offer you a coach which is for free' (call_595739221920, seg_113).",
+          "context_impact": "This moment required clear demonstration of support mechanisms while maintaining appropriate sales role boundaries and realistic expectations.",
+          "recommended_approach": "Include specific examples of how current students successfully manage similar commitments while maintaining focus on enrollment-relevant support services."
+        },
+        {
+          "id": 3,
+          "title": "Regional Support Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820892027",
+              "segment_id": "170",
+              "timestamp": "17:56"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Because I am regional, with that, can I do that? I'm presuming I have to do it in a legal office' (call_595820892027, seg_170), revealing critical concerns about placement accessibility.",
+          "consultant_response": "Consultant effectively addressed concerns: 'No, absolutely. Yeah, you can choose somewhere locally. We actually encourage you to choose someplace that is closest to your house' (call_595820892027, seg_181).",
+          "context_impact": "This moment required clear demonstration of program flexibility to maintain enrollment momentum for regional students while ensuring practical support.",
+          "recommended_approach": "Include specific examples of successful regional placement arrangements and local partnerships to strengthen confidence in program accessibility."
+        },
+        {
+          "id": 4,
+          "title": "Age-Related Transitions",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659124729",
+              "segment_id": "189",
+              "timestamp": "12:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student worried: 'I'll be 53, which is pretty old to start a new career path' (call_595659124729, seg_189), revealing deep concern about age impact on career change.",
+          "consultant_response": "Consultant replied: 'You would be surprised, a lot of the students changing careers after their 40s' (call_595659124729, seg_193).",
+          "context_impact": "Critical moment to address age-related concerns and demonstrate program's suitability for mature students while building confidence.",
+          "recommended_approach": "Need deeper exploration of how mature student experiences enhance learning and create unique advantages in new career paths with specific examples."
+        },
+        {
+          "id": 5,
+          "title": "Family-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739221920",
+              "segment_id": "108",
+              "timestamp": "13:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'Look, I am actually a single parent with two kids, and I do have a full-time job as well' (call_595739221920, seg_108).",
+          "consultant_response": "Basic acknowledgment without exploring specific program features that accommodate family commitments or providing targeted solutions.",
+          "context_impact": "Critical moment requiring detailed demonstration of how program flexibility can accommodate family responsibilities while maintaining momentum.",
+          "recommended_approach": "Provide specific examples of how parents successfully manage study with family commitments using program's flexible features and support services."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731800514",
+              "segment_id": "25",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I can't do it in a PDF. All I can do it is by a phone' (call_595731800514, seg_25), revealing specific technical limitations.",
+          "consultant_response": "Consultant simply acknowledged with 'Yes. Yes' without exploring alternative submission methods or providing practical solutions.",
+          "context_impact": "Technical barrier threatened to delay or prevent document submission necessary for enrollment completion.",
+          "recommended_approach": "Should collaboratively explore alternative submission methods and provide clear guidance on acceptable formats with step-by-step support."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659422647",
+              "segment_id": "47",
+              "timestamp": "5:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in the conversation (call_595659422647, seg_47), the student expressed uncertainty about educational pathways, stating: 'I was potentially looking at dropping out of high school and maybe taking up a course, but I'm not sure if that's something you guys do or what the process was for that.' This disclosure represented both vulnerability and proactive thinking about alternative educational routes, requiring careful handling to maintain engagement while providing clear guidance.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by outlining multiple viable pathways: 'Look, for media and communication courses, we do have different entry criteria that you can choose. If you decide to finish high school, you need to get an ATAR and we require an ATAR of 60, which is pretty achievable. But yeah, that's the entry criteria after high school for you. Or, if you want as well, we also accept a completed Certificate IV, which could take between six months to one year to finish as well, and that would be in any field.' This comprehensive response effectively showed flexibility while maintaining focus on achievable goals and clear progression options.",
+          "priority": "high",
+          "recommended_approach": "When addressing students considering alternative educational pathways, begin by acknowledging their situation and validating their proactive approach to exploring options. Start with empathetic understanding: 'I appreciate you thinking carefully about your educational future.' Then outline specific pathways with clear timelines and requirements: 'Let me show you several routes that could work for your situation.' Share concrete examples of how others have succeeded: 'Many students have successfully transitioned through similar paths - for example, some complete a Certificate IV while working part-time, then progress to their chosen degree.' Guide students through comparing options: 'Let's look at how each pathway aligns with your goals and circumstances.' Pay particular attention to maintaining momentum while ensuring students understand all available support mechanisms. The key is transforming uncertainty into clear, actionable plans while validating their initiative in seeking guidance. Always include specific examples: 'One recent student completed their Certificate IV in six months while working evenings, then transitioned smoothly into their chosen degree program.' Maintain focus on achievable steps while building confidence through real success stories."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739221920",
+              "segment_id": "106",
+              "timestamp": "11:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 106 of call 595739221920, the student expressed significant concern about managing multiple commitments: 'For example, managing time in which work and family, academic writing, or passing experiments and exams.' This revealed anxiety about balancing various responsibilities while pursuing their studies, representing a critical moment for demonstrating comprehensive support systems and flexibility in program delivery.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning skills by immediately addressing these concerns with a supportive and solution-focused response: 'Look, just remember that you are not going to be alone doing this. We can offer you a lot of support and regarding the time management, we can offer you a coach which is for free and you can have as many consultations as you need to and the main goal of the coach is to create a schedule for you, a routine, a timetable that works for you according to your work and family commitments.' This response effectively highlighted available support mechanisms while maintaining appropriate boundaries between sales and post-enrollment support roles.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging the legitimacy of the student's concerns while highlighting our comprehensive support systems. Start with validation: 'Many students successfully manage full-time work alongside their studies with our flexible learning options.' Guide the discussion through specific examples: 'Our students often download materials for offline study during quieter work periods or break study into manageable segments around their schedule.' Present available support within appropriate pre-enrollment bounds: 'Once enrolled, our learning coaches specialize in helping students create study schedules that work around their specific work patterns.' Share practical examples: 'Some students with similar commitments find studying early mornings works best, while others prefer evening sessions - our flexible delivery lets you choose what works for you.' When discussing support services, maintain clear role boundaries: 'While I can explain our support features, once enrolled, you'll work directly with our learning advisors to develop personalized study strategies.' Always connect flexibility options to specific scenarios: 'If you're working evening shifts, you might prefer downloading lectures for morning study sessions, or if you're in a corporate role, you might use lunch breaks for focused reading.' The key is demonstrating understanding of their situation while keeping focus on enrollment-relevant program features and maintaining appropriate advisory scope."
+        },
+        {
+          "id": 3,
+          "title": "Regional Support Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820892027",
+              "segment_id": "170",
+              "timestamp": "17:56"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about regional placement logistics, stating: 'Because I am regional, with that, can I do that? I'm presuming I have to do it in a legal office. Is there particular places that you have to do it at or can you choose like if there's someone available that they're happy to do that at their places?' This highlighted a critical need to address placement flexibility for regional students, as location constraints could significantly impact their enrollment decision.",
+          "consultant_response": "The consultant demonstrated strong understanding of regional student needs by responding: 'No, absolutely. Yeah, you can choose somewhere locally. We actually encourage you to choose someplace that is closest to your house. You don't need to travel much.' This response effectively addressed the student's concerns by emphasizing local placement flexibility and program adaptability to regional circumstances.",
+          "priority": "high",
+          "recommended_approach": "When addressing regional students' placement concerns, begin by validating their geographic situation and immediately highlight the program's flexibility in accommodating local arrangements. Start with clear acknowledgment: 'I understand that being in a regional area can raise questions about placement options.' Then engage the student in exploring local possibilities: 'Let's discuss what local organizations might be suitable for your placement.' Share specific examples of how other regional students have successfully completed placements: 'We've had students complete placements at local firms, community organizations, and government offices in regional areas.' Provide concrete examples: 'A recent student in regional Victoria completed their placement at a local community legal center, while another worked with a regional council.' Focus on building confidence through demonstrated understanding: 'Our program is designed to support regional students - we have successful graduates from communities across Australia.' When discussing placement options, maintain emphasis on local accessibility: 'We encourage you to explore opportunities in your local area first, as this often leads to valuable professional connections in your community.' The key is transforming geographic location from a potential barrier into an opportunity while providing specific examples of successful regional student experiences."
+        },
+        {
+          "id": 4,
+          "title": "Age-Related Transitions",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659124729",
+              "segment_id": "189",
+              "timestamp": "12:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about their age, stating 'Yeah, which leaves me at, I'll be 53, which is pretty old to start a new career path' (call_595659124729, seg_189). This moment revealed deep-seated anxiety about pursuing education later in life, requiring careful handling to maintain the student's confidence and motivation while acknowledging their valuable life experience.",
+          "consultant_response": "While well-intentioned, the consultant's response was limited: 'You would be surprised, a lot of the students changing careers after their 40s' (call_595659124729, seg_193). This generic reassurance missed the opportunity to engage in deeper collaborative planning or to highlight specific advantages of mature student experiences.",
+          "priority": "high",
+          "recommended_approach": "When addressing age-related concerns, begin by validating the student's feelings while reframing the discussion around the unique advantages of mature students. Start with empathetic acknowledgment: 'I understand your concern about timing, but let me share why many employers specifically value mature graduates.' Then engage in specific exploration: 'Your professional experience gives you real-world context that younger students often lack - what aspects of your current role do you think would be most valuable in your new field?' Share concrete examples of successful transitions: 'One of our recent graduates started her legal career at 55, and her previous business experience made her especially effective in corporate law.' Emphasize the value of life experience: 'Mature students often excel because they bring practical wisdom to their studies - they can immediately see how theories apply in real-world situations.' When discussing career transitions, highlight specific advantages: 'Your experience in managing teams and projects gives you valuable skills that enhance your academic journey and future career prospects.' Use authentic examples: 'We had a student who transitioned from corporate management to law at 51 - her business acumen made her particularly effective in commercial law.' The key is transforming age from a perceived barrier into a genuine advantage while providing concrete examples of successful transitions."
+        },
+        {
+          "id": 5,
+          "title": "Family-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739221920",
+              "segment_id": "108",
+              "timestamp": "13:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant family commitments, stating: 'Look, I am actually a single parent with two kids, and I do have a full-time job as well' (call_595739221920, seg_108). This disclosure presented a crucial opportunity to demonstrate understanding and provide targeted support planning for managing multiple responsibilities while maintaining enrollment momentum.",
+          "consultant_response": "The consultant provided only basic acknowledgment without engaging in detailed exploration of how the program's flexibility could accommodate the student's specific situation. This limited response missed the opportunity to build confidence through concrete examples and specific support mechanisms tailored to parents managing multiple commitments.",
+          "priority": "high",
+          "recommended_approach": "When students disclose family responsibilities, demonstrate understanding while focusing on relevant program features that support their success. Begin with empathetic acknowledgment: 'Thank you for sharing that - many of our successful students are also balancing family and work commitments.' Then highlight specific flexibility features: 'Our online platform gives you 24/7 access to materials, so you can study when it best suits your family schedule.' Share relevant examples: 'Many parent students find success by downloading materials to study during children's activities or quiet evening hours.' Emphasize mobile access: 'You can access readings and lectures from your phone or tablet, perfect for studying during school sports or waiting times.' When discussing study patterns, provide specific strategies: 'Some parents find success studying early mornings before children wake, while others prefer evening sessions after bedtime.' Connect flexibility options to family scenarios: 'During school holidays, you can adjust your study load or download materials in advance to maintain progress while focusing on family time.' The key is demonstrating how program flexibility specifically addresses parenting needs while maintaining appropriate pre-enrollment boundaries and sharing success stories of other parent students."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731800514",
+              "segment_id": "25",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed technical limitations during the document submission process, stating: 'I can't do it in a PDF. All I can do it is by a phone.' This revealed a significant barrier to completing the enrollment process and indicated a need for flexible alternatives to maintain enrollment momentum.",
+          "consultant_response": "The consultant's response was minimal, simply acknowledging with 'Yes. Yes' without exploring alternative solutions or providing clear guidance on acceptable document submission methods. This limited response missed an opportunity to engage in collaborative problem-solving and potentially left the student uncertain about how to proceed.",
+          "priority": "high",
+          "recommended_approach": "When addressing document submission challenges, engage in collaborative problem-solving that prioritizes both convenience and compliance. Start with empathy: 'I understand technical barriers can be frustrating - let's find a solution that works for you.' Then explore specific alternatives: 'Since you have your phone available, would you be comfortable taking clear photos of the documents? I can guide you through our accepted format requirements.' Provide step-by-step guidance: 'When taking photos, ensure good lighting and that all text is clearly visible. We accept JPEG or PNG files sent via email.' Confirm understanding at each step: 'Does this alternative sound manageable? Would you like me to walk you through the process?' When discussing document quality, be specific: 'Make sure all text is readable and the entire document is visible in the frame.' Share successful approaches: 'Many students successfully submit phone photos - the key is good lighting and a steady hand.' If needed, suggest additional options: 'We also accept documents scanned at local libraries or office supply stores if that's more convenient.' The key is maintaining enrollment momentum while ensuring document quality meets requirements through clear, practical guidance."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "consultant_name": "James Lockie",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 223,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 38,
+    "team_average_absolute_number": 41.63636363636363
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 17.040358744394617,
+    "team_average_percentage": 19.17030645264239
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 185,
+    "team_average_absolute_number": 180.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 82.95964125560538,
+    "team_average_percentage": 80.8296935473576
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.657454777080076,
+    "team_average": 52.278749524011396
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 185,
+    "team_total_excluded_transcripts": 1985
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.95,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 14.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 50.78,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.23,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 115.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 85.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.48,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 201.19,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.63,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 42.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 57.8,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical examples and solutions"
+      },
+      {
+        "headline": "Support Systems Navigation",
+        "explanation": "Clear and proactive guidance through available support mechanisms while maintaining appropriate pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Life Transition Support",
+        "explanation": "Enhanced collaborative planning needed for students making significant life changes, particularly around study integration and confidence building"
+      },
+      {
+        "headline": "Financial Planning Integration",
+        "explanation": "More comprehensive exploration required of payment structures and financial planning options aligned with individual student circumstances"
+      },
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Stronger connection needed between program elements and specific career transition goals through detailed pathway planning"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Study-Life Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565683366",
+              "segment_id": "28",
+              "timestamp": "3:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I need to balance my family commitments with study' (call_595565683366, seg_28), revealing need for clear integration strategies.",
+          "consultant_response": "Consultant demonstrated: 'Our online learning platform allows you to study when it suits you, with 24/7 access to materials' (call_595565683366, seg_29), effectively showing practical flexibility.",
+          "context_impact": "Critical moment to demonstrate practical flexibility while maintaining academic momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current parent students."
+        },
+        {
+          "id": 2,
+          "title": "Life Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565683366",
+              "segment_id": "23",
+              "timestamp": "1:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'This is the first thing that I'm doing to step out of the house, yeah' (call_595565683366, seg_23), revealing significant life transition moment.",
+          "consultant_response": "Consultant replied: 'Thanks for sharing that with me. Yeah, we just need an IELTS test...' (call_595565683366, seg_26), missing opportunity to explore personal goals.",
+          "context_impact": "Critical opportunity to build confidence while demonstrating program support for life changes.",
+          "recommended_approach": "Develop deeper exploration of transition goals and confidence-building strategies."
+        },
+        {
+          "id": 3,
+          "title": "Career Documentation Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821002397",
+              "segment_id": "71",
+              "timestamp": "04:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595821002397",
+                "segment_id": "64",
+                "timestamp": "04:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Just make it as relevant as you can' (call_595821002397, seg_71), seeking guidance on career transition documentation.",
+          "consultant_response": "Consultant explained: 'Data science in a lot of as an IT-related degree anyway, so that does definitely marry up with cybersecurity' (call_595821002397, seg_64), showing clear skill alignment.",
+          "context_impact": "Key moment to demonstrate pathway planning while maintaining enrollment momentum.",
+          "recommended_approach": "Include more examples of successful career transition documentation strategies."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595658615452",
+              "segment_id": "52",
+              "timestamp": "6:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I need to consider the financial aspects carefully' (call_595658615452, seg_52), seeking detailed financial guidance.",
+          "consultant_response": "Consultant stated: 'There are various payment options available' (call_595658615452, seg_53), missing chance for detailed exploration.",
+          "context_impact": "Critical opportunity to demonstrate comprehensive financial planning support.",
+          "recommended_approach": "Develop structured approach to exploring financial planning options and payment scenarios."
+        },
+        {
+          "id": 5,
+          "title": "Support Services Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565683366",
+              "segment_id": "35",
+              "timestamp": "4:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm worried about keeping up with assignments' (call_595565683366, seg_35), revealing need for support system clarity.",
+          "consultant_response": "Consultant detailed: 'You'll have access to dedicated success coaches and 24/7 technical support' (call_595565683366, seg_36), effectively outlining available resources.",
+          "context_impact": "Opportunity to showcase comprehensive support systems while maintaining pre-enrollment boundaries.",
+          "recommended_approach": "Provide more specific examples of how support services have helped similar students succeed."
+        },
+        {
+          "id": 6,
+          "title": "Options Exploration Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595658615452",
+              "segment_id": "69",
+              "timestamp": "02:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm just going to take a few months off at the moment just to sort of figure out my options' (call_595658615452, seg_69), indicating openness to exploring educational pathways.",
+          "consultant_response": "Consultant stated: 'No worries, Rehema. Look forward' (call_595658615452, seg_77), failing to engage in collaborative exploration of options.",
+          "context_impact": "Key opportunity to guide student's exploration phase and maintain momentum toward enrollment.",
+          "recommended_approach": "Proactively explore student's interests and considerations while offering structured guidance for evaluating educational options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Study-Life Balance Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565683366",
+              "segment_id": "28",
+              "timestamp": "3:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed clear concerns about balancing multiple commitments, stating 'I need to balance my family commitments with study' (call_595565683366, seg_28). This moment represented a critical opportunity to demonstrate how our program specifically accommodates the complex lives of adult learners while maintaining academic progress and enrollment momentum.",
+          "consultant_response": "The consultant effectively addressed these concerns by highlighting specific program features and practical solutions: 'Our online learning platform allows you to study when it suits you, with 24/7 access to materials. Many of our parent students complete readings during their children's activities or study in the evenings after family time.' This response demonstrated both understanding of the student's situation and practical flexibility of the program structure.",
+          "priority": "high",
+          "recommended_approach": "When addressing study-life balance concerns, begin by acknowledging the legitimate challenge of balancing multiple commitments before demonstrating specific program features that enable success. Share concrete examples of how current students manage their studies, such as 'Many parents download materials to review during children's activities, while others prefer dedicated evening study blocks after family time.' Use real scenarios to illustrate flexibility: 'If you're managing school pickup duties, you could use that waiting time for quick module reviews.' It's essential to show how our online platform adapts to different lifestyles: 'The ability to download materials means you can study offline during quiet moments, then sync your progress when convenient.' Pay particular attention to students with family responsibilities, demonstrating how asynchronous learning removes timing pressures: 'There are no mandatory live sessions, so you can schedule study around family commitments.' The goal is transforming perceived barriers into manageable planning opportunities through specific, relatable examples."
+        },
+        {
+          "id": 2,
+          "title": "Life Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565683366",
+              "segment_id": "23",
+              "timestamp": "1:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in call 595565683366 (segment 23), the student revealed a significant life transition, stating 'This is the first thing that I'm doing to step out of the house, yeah.' This disclosure indicated both motivation to pursue education and potential apprehension about managing this major life change, presenting a crucial opportunity for supportive collaborative planning.",
+          "consultant_response": "The consultant's response was primarily procedural, stating 'Thanks for sharing that with me. Yeah, we just need an IELTS test, or a PTE...' (call_595565683366, seg_26). This approach missed the opportunity to explore the emotional and practical aspects of the student's transition, potentially leaving their concerns about returning to study unaddressed.",
+          "priority": "high",
+          "recommended_approach": "When students reveal significant life transitions, particularly returning to study after a break, begin by acknowledging the importance of their decision: 'Taking this step is significant, and many of our successful students have started exactly where you are.' Create space for exploring both practical and emotional aspects of the transition: 'Let's discuss what's motivating this change and how we can support your journey.' Share specific examples of how similar students have successfully managed the transition: 'Many students starting after time away find our orientation program particularly helpful for rebuilding confidence.' Demonstrate understanding of their situation while maintaining focus on solutions: 'The flexible nature of our program means you can gradually increase your study commitment as you become more comfortable.' Pay special attention to building confidence through clear support structures: 'You'll have access to dedicated success coaches who specialize in helping students return to study.' The goal is creating a supportive planning environment that acknowledges their courage while providing practical strategies for success."
+        },
+        {
+          "id": 3,
+          "title": "Career Documentation Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821002397",
+              "segment_id": "71",
+              "timestamp": "04:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595821002397",
+                "segment_id": "64",
+                "timestamp": "04:15"
+              }
+            ]
+          },
+          "student_trigger": "The student's request 'Just make it as relevant as you can' (call_595821002397, seg_71) revealed their need for guidance in presenting their experience effectively for a career transition application. This moment represented a critical opportunity to demonstrate pathway planning while maintaining enrollment momentum.",
+          "consultant_response": "The consultant provided effective guidance by explaining 'Data science in a lot of as an IT-related degree anyway, so that does definitely marry up with cybersecurity' (call_595821002397, seg_64). This response demonstrated clear understanding of skill transferability and alignment between current experience and program requirements, helping the student see practical pathways forward.",
+          "priority": "high",
+          "recommended_approach": "When helping students document their experience for career transitions, begin by acknowledging their existing skills before showing how these align with program requirements. Use specific examples to demonstrate transferability: 'Your cybersecurity experience demonstrates strong analytical capabilities that directly relate to data science principles.' Guide students through documentation strategies that highlight relevant experience: 'Let's focus on how your system analysis work shows both technical expertise and problem-solving abilities.' Create clear connections between current skills and future goals: 'Many successful students from IT backgrounds find their security expertise provides strong foundations for data science concepts.' Pay particular attention to helping students identify transferable skills they might not recognize: 'Your experience with pattern recognition in security analysis directly relates to data mining principles.' The goal is helping students present their background effectively while building confidence in their ability to succeed in the program."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595658615452",
+              "segment_id": "52",
+              "timestamp": "6:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed financial concerns stating 'I need to consider the financial aspects carefully' (call_595658615452, seg_52). This moment presented a crucial opportunity to provide comprehensive financial planning support while maintaining enrollment momentum.",
+          "consultant_response": "The consultant's brief response 'There are various payment options available' (call_595658615452, seg_53) failed to address the depth of financial planning needed. This minimal response missed the opportunity to explore specific options and create a concrete financial plan aligned with the student's circumstances.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial planning concerns, begin by acknowledging the importance of making informed financial decisions while demonstrating our comprehensive support options. Guide students through available payment structures with specific examples: 'Let me share how different students manage their investment. Some prefer per-unit payments to spread costs, while others choose upfront payment for discount benefits.' Create clear connections between payment options and student circumstances: 'Given your work situation, let's explore how our flexible payment schedule could align with your income timing.' Pay particular attention to presenting all available support options: 'Beyond standard payment plans, we can explore FEE-HELP benefits, early payment discounts, and employer support possibilities.' The goal is transforming financial concerns into clear, manageable plans that support the student's educational investment while maintaining enrollment momentum."
+        },
+        {
+          "id": 5,
+          "title": "Support Services Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565683366",
+              "segment_id": "35",
+              "timestamp": "4:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595565683366 (segment 35), the student expressed academic concerns, stating 'I'm worried about keeping up with assignments.' This revealed an opportunity to showcase our comprehensive support systems while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant effectively outlined available support: 'You'll have access to dedicated success coaches and 24/7 technical support. Our learning advisers can help with study strategies, time management, and academic writing skills.' This comprehensive response addressed both immediate concerns and long-term support needs while staying within appropriate pre-enrollment guidance.",
+          "priority": "high",
+          "recommended_approach": "When addressing support service concerns, begin by normalizing these feelings while emphasizing our robust support system: 'Many students share similar concerns, which is why we've developed comprehensive support services.' Detail specific examples of how different services work together: 'Your success coach can help create a personalized study schedule, while learning advisers provide assignment guidance and writing support.' Share success stories of how other students have utilized these services effectively: 'One recent student found regular check-ins with their success coach helped them stay on track with assignments while working full-time.' Pay particular attention to maintaining appropriate pre-enrollment boundaries while demonstrating value: 'While these detailed support services become available after enrollment, I can show you how they'll help you succeed.' The goal is building confidence in available support while maintaining clear distinction between sales and post-enrollment services."
+        },
+        {
+          "id": 6,
+          "title": "Options Exploration Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595658615452",
+              "segment_id": "69",
+              "timestamp": "02:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595658615452 (segment 69), the student expressed 'I'm just going to take a few months off at the moment just to sort of figure out my options.' This statement revealed both an openness to exploring educational pathways and a desire for thoughtful consideration before making commitments. It presented a crucial opportunity to engage in collaborative planning that could help guide their exploration while maintaining momentum toward enrollment.",
+          "consultant_response": "The consultant's response of 'No worries, Rehema. Look forward' (call_595658615452, seg_77) failed to capitalize on the student's openness to exploration. While maintaining a supportive tone, this brief response missed the opportunity to engage in meaningful discussion about potential pathways or to offer structured guidance for their period of reflection.",
+          "priority": "high",
+          "recommended_approach": "When students express a desire to explore their options, transform this potential delay into a structured exploration opportunity. Begin by validating their thoughtful approach while maintaining momentum: 'Taking time to evaluate your options is wise - let's explore what you're considering so I can provide relevant information for your research.' Guide the conversation with purposeful questions about their interests, career goals, and decision-making criteria. Share how different program elements align with various career paths, using specific examples: 'Many students in similar situations have found that starting with our graduate certificate provides a perfect way to validate their interest while building credits toward the full master's degree.' Provide structured guidance for their exploration period, such as suggesting specific program aspects to research, industry areas to investigate, or professionals to connect with. The key is maintaining engagement while respecting their need for consideration time, offering to schedule a follow-up discussion to review their findings and answer emerging questions."
+        }
+      ]
+    }
+  }
+}

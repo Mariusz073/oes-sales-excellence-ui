@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 248,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 51,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 20.56451612903226,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 197,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 79.43548387096774,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.702660597645064,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 197,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 141.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.26,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 115.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.83,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 151.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.35,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical alternatives and clear progression routes"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical, tailored solutions that transform perceived barriers into manageable opportunities"
+      },
+      {
+        "headline": "Support System Integration",
+        "explanation": "Comprehensive communication of available support resources and access mechanisms throughout the student journey enhances confidence in program manageability while providing concrete success strategies"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals through concrete examples and clear progression pathways"
+      },
+      {
+        "headline": "Work-Study Balance Planning",
+        "explanation": "More comprehensive exploration needed of specific work patterns and commitments when developing personalized study load recommendations and flexible learning strategies"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Deeper integration required of available support services when mapping out student journeys, with clearer connection to individual circumstances and specific access pathways"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from another student: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "These moments required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and detailed offline study capabilities."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Qualification Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451331309",
+              "segment_id": "81",
+              "timestamp": "13:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'My Bachelor's was in Bachelor of Science with honours from Melbourne Uni and my Master's was a Master's in Business Administration from RMIT' (call_595451331309, seg_81), revealing opportunity for qualification alignment.",
+          "consultant_response": "Consultant effectively replied: 'Cool, so I think your Master's would be the easiest one for us to use to get you into the course just because it's a business related area' (call_595451331309, seg_83), showing clear pathway alignment.",
+          "context_impact": "Critical moment to demonstrate program fit and streamline application requirements while building enrollment confidence.",
+          "recommended_approach": "Include more specific details about how qualifications exceed program requirements and potential academic advantages."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565779037",
+              "segment_id": "22",
+              "timestamp": "7:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_595565779037, seg_22), revealing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant engaged supportively: 'That's a common concern for many of our successful students. Could you tell me about what you've been doing professionally during that time?' (call_595565779037, seg_30), effectively validating concerns while exploring transferable skills.",
+          "context_impact": "Critical opportunity to validate professional experience while addressing academic confidence concerns through targeted support.",
+          "recommended_approach": "Provide more specific examples of support services and success stories from similar returning students, with clear pathways to academic support."
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732056086",
+              "segment_id": "87",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595565556677",
+                "segment_id": "40",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I've accepted an offer at a different uni, but it doesn't get me into law because it's more of like a criminology thing and I want by the end of this I want to get into family law?' (call_595732056086, seg_87), revealing specific career aspirations requiring clear program alignment.",
+          "consultant_response": "Consultant provided generic response: 'my recommendation would be it seems like you're already on the correct pathway to really suit your goals there' (call_595732056086, seg_109), without exploring specific program elements supporting career goals.",
+          "context_impact": "Missed opportunity to demonstrate clear pathway alignment with specific career aspirations and showcase program's unique value for legal career preparation.",
+          "recommended_approach": "Explore specific program elements and pathways that directly support stated career goals, including relevant course units, practical skills development, and graduate success stories in family law."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820701895",
+              "segment_id": "37",
+              "timestamp": "4:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I do work part-time. Would this make different.' (call_595820701895, seg_37), seeking guidance on balancing work and study commitments effectively.",
+          "consultant_response": "Consultant suggested basic option: 'So yeah, if you do work part-time, you can try doing three units' (call_595820701895, seg_40), without exploring work schedule details.",
+          "context_impact": "Critical moment to establish appropriate study load based on specific work patterns and personal circumstances.",
+          "recommended_approach": "Conduct detailed exploration of work patterns and commitments to create more tailored study load recommendations with specific support strategies."
+        },
+        {
+          "id": 6,
+          "title": "Support Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659461755",
+              "segment_id": "35",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired about available support: 'What kind of help do you provide?' (call_595659461755, seg_35), seeking understanding of comprehensive support services.",
+          "consultant_response": "Consultant provided basic overview without detailed integration into student's specific journey and needs.",
+          "context_impact": "Clear understanding of support services crucial for student confidence and detailed success planning.",
+          "recommended_approach": "Create comprehensive support plan aligned with student's specific needs and study goals, including clear access pathways and proactive connection to relevant support services."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, always start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Qualification Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451331309",
+              "segment_id": "81",
+              "timestamp": "13:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in the enrollment discussion, the student shared their academic background: 'My Bachelor's was in Bachelor of Science with honours from Melbourne Uni and my Master's was a Master's in Business Administration from RMIT' (call_595451331309, seg_81). This disclosure presented a prime opportunity to demonstrate how their qualifications aligned with program requirements, potentially increasing their confidence in proceeding with enrollment.",
+          "consultant_response": "The consultant skillfully leveraged this information, responding: 'Cool, so I think your Master's would be the easiest one for us to use to get you into the course just because it's a business related area. So if that's from RMIT I can send you an email if you don't already have your award and transcript page on how to request that from them.' This response effectively validated the student's qualifications while providing clear next steps, demonstrating strong collaborative planning by connecting their background to program requirements and outlining specific documentation needs.",
+          "priority": "high",
+          "recommended_approach": "When students share their academic background, immediately recognize this as an opportunity to build confidence and create clear pathways forward. Begin by acknowledging their achievements: 'Your academic background is impressive, and it's clear you're aiming for success in your studies.' Then, transition into specific alignment with program requirements, explaining how their qualifications not only meet but often exceed entry criteria. This builds credibility while reducing anxiety about eligibility. Focus on creating actionable steps, such as identifying specific documentation needed, but always maintain a collaborative tone that empowers the student: 'Let's review which documents would best showcase your qualifications for this program.' Pay particular attention to international qualifications or unique academic backgrounds, ensuring students feel confident their diverse experiences are valued. Share specific examples: 'Many students with your level of qualification find they can immediately apply their advanced knowledge in our program. For instance, your MBA experience would be particularly valuable in our business-focused units.'"
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565779037",
+              "segment_id": "22",
+              "timestamp": "7:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595565779037 (segment 22), the student revealed significant anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This admission of concern about academic readiness after an extended break from formal education presented a crucial opportunity to address fears and build confidence through supportive dialogue and practical solutions.",
+          "consultant_response": "The consultant demonstrated strong empathy and strategic guidance by responding: 'That's a common concern for many of our successful students. Could you tell me about what you've been doing professionally during that time?' This approach effectively validated the student's concerns while steering the conversation toward identifying transferable skills and building confidence. The consultant's response created an opportunity to transform perceived disadvantages into potential strengths.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after a significant break, begin by validating their feelings while immediately highlighting how common this experience is: 'Many successful students return to study after long breaks - your work experience often becomes a valuable asset.' Engage them in exploring their professional journey: 'Could you share what you've been doing professionally? Many workplace skills translate directly to academic success.' This helps identify transferable skills that build confidence. For example, if they mention project management experience, connect this to academic planning: 'Your experience managing complex projects has equipped you with excellent organizational skills - exactly what's needed for successful study.' Introduce support systems proactively: 'Our Online Learning Advisors specialize in helping returning students transition back to study, providing strategies tailored to your experience.' The key is transforming perceived disadvantages of time away from study into advantages of real-world experience, while ensuring they know support is readily available throughout their journey."
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732056086",
+              "segment_id": "87",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595565556677",
+                "segment_id": "40",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed specific career aspirations requiring clear program alignment: 'I've accepted an offer at a different uni, but it doesn't get me into law because it's more of like a criminology thing and I want by the end of this I want to get into family law?' (call_595732056086, seg_87). This revealed both clarity about their professional goals and uncertainty about the best educational pathway to achieve them.",
+          "consultant_response": "The consultant provided only a generic response without exploring specific program elements: 'my recommendation would be it seems like you're already on the correct pathway to really suit your goals there' (call_595732056086, seg_109). This missed opportunity to demonstrate clear alignment between the program and the student's specific career aspirations in family law.",
+          "priority": "high",
+          "recommended_approach": "When students express specific career goals, engage in detailed exploration of pathway alignment. Start by acknowledging their career vision: 'Family law is a specialized field - let's explore how our program can specifically support that goal.' Create a collaborative dialogue about their career understanding: 'What aspects of family law particularly interest you? This helps us focus on the most relevant program elements.' Then connect specific program components to their aspirations: 'Our law program includes specialized units in family law, and many graduates now practice in this field. For example, our Family Law Practice unit covers key legislation and practical skills you'll need.' Share specific examples: 'One of our recent graduates started with similar interests in family law and now works at a leading family law firm. They found our practical assignments and industry connections particularly valuable.' Pay particular attention to building clear connections between current study choices and future career outcomes, always maintaining focus on their specific professional goals while providing concrete examples of successful career transitions."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820701895",
+              "segment_id": "37",
+              "timestamp": "4:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought guidance on managing part-time work with study commitments: 'I do work part-time. Would this make different.' (call_595820701895, seg_37). This question presented a critical opportunity for collaborative planning to establish an appropriate and sustainable study load.",
+          "consultant_response": "The consultant provided only basic guidance without exploring specific circumstances: 'So yeah, if you do work part-time, you can try doing three units' (call_595820701895, seg_40). This response missed the opportunity to create a personalized study plan based on the student's specific work patterns and other commitments.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load with working students, engage in comprehensive exploration of their circumstances to create sustainable study plans. Begin with detailed questions about their work pattern: 'Could you tell me more about your typical work schedule - how many hours per week, and are your shifts regular or variable?' Use this information to provide tailored recommendations: 'Based on your 20-hour work week, many students in similar situations find starting with two units allows them to establish effective study routines.' Share specific success strategies: 'For instance, some students with regular Saturday shifts find scheduling focused study sessions on Sunday and Wednesday evenings works well.' Always emphasize flexibility: 'We can adjust your study load between terms as you become more comfortable with balancing work and study.' The key is creating a realistic study plan that sets students up for success while maintaining their confidence and motivation."
+        },
+        {
+          "id": 6,
+          "title": "Support Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659461755",
+              "segment_id": "35",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought information about available support services: 'What kind of help do you provide?' (call_595659461755, seg_35). This inquiry presented an opportunity to demonstrate comprehensive support systems while building confidence in program manageability.",
+          "consultant_response": "The consultant provided only a basic overview of support services without connecting them to the student's specific needs or creating clear access pathways. This general approach missed the opportunity to demonstrate how support systems could address individual challenges and enhance study success.",
+          "priority": "high",
+          "recommended_approach": "When addressing support service inquiries, begin by exploring the student's specific needs and concerns: 'Let's discuss what type of support would be most valuable for your situation.' Then provide targeted information about relevant services: 'Based on your work schedule, you might find our 24/7 online tutoring particularly helpful, especially during night shifts.' Create clear connections between services and success: 'Our Learning Skills Advisors can help develop study strategies that fit around your work commitments, while our Career Advisors can support your professional development goals.' Share specific examples: 'Many students working in healthcare use our online writing support service for assignment feedback between shifts.' Always provide clear access information: 'Let me show you exactly how to connect with these services through our student portal.' The goal is to transform support services from abstract resources into concrete tools for success, with clear pathways for access and utilization."
+        }
+      ]
+    }
+  }
+}

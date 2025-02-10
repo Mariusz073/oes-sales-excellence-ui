@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 268,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 46,
+    "team_average_absolute_number": 41.63636363636363
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 17.16417910447761,
+    "team_average_percentage": 19.17030645264239
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 222,
+    "team_average_absolute_number": 180.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 82.83582089552239,
+    "team_average_percentage": 80.8296935473576
+  },
+  "average_talking_percentage": {
+    "individual_average": 58.050579075325736,
+    "team_average": 52.278749524011396
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 222,
+    "team_total_excluded_transcripts": 1985
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 134.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.26,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.05,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 120.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 80.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 157.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.28,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 155.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.72,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 95.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.77,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 131.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.01,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 173.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.9,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term career aspirations while maintaining enrollment momentum through tailored guidance"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work schedules, family planning, and lifestyle changes through practical examples"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective anticipation and resolution of potential enrollment barriers through clear guidance and support mechanisms while maintaining appropriate boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements specifically align with career aspirations and workplace challenges while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "More comprehensive discussion required of payment options and funding pathways with practical implementation guidance and clear role boundaries"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance needed for complex documentation requirements with specific alternative pathways and integrated support mechanisms"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and detailed offline study capabilities."
+        },
+        {
+          "id": 2,
+          "title": "Career Pathway Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663630272",
+              "segment_id": "12",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Well, I am a nurse and I would like to pursue some higher degree, Master's' (call_595663630272, seg_12), revealing clear career advancement motivation.",
+          "consultant_response": "Consultant effectively connected goals to program: 'Yeah, looking at those next steps to progress your career. So this would be a natural progression for someone like yourself and it is all online so you are able to study and work at the same time' (call_595663630272, seg_16).",
+          "context_impact": "Critical moment to demonstrate program relevance to healthcare career aspirations and increase enrollment commitment.",
+          "recommended_approach": "Include more specific examples of how nursing professionals have successfully integrated the program into their career advancement strategies."
+        },
+        {
+          "id": 3,
+          "title": "Clear Educational Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820676452",
+              "segment_id": "32",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595554748254",
+                "segment_id": "20",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Oh, the only thing is as well, I'm not studying my Bachelor at Monash, it's at Swinburne' (call_595820676452, seg_32), showing transition concerns.",
+          "consultant_response": "Consultant provided clear direction: 'Yeah, that's absolutely fine. So the next step for yourself would be the Graduate of Psychology Advanced' (call_595820676452, seg_36).",
+          "context_impact": "Critical moment requiring clear guidance on pathway possibilities while maintaining momentum and addressing institutional transition concerns.",
+          "recommended_approach": "Include more specific details about transition support services and comprehensive timeline planning for program progression."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Requirements",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555454172",
+              "segment_id": "239",
+              "timestamp": "8:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Okay, and what are the documents I will be needing for all this' (call_595555454172, seg_239), seeking clear guidance on enrollment process.",
+          "consultant_response": "Response was brief and lacked comprehensive guidance on document requirements and submission process, missing chance to demonstrate support.",
+          "context_impact": "Key opportunity to provide comprehensive guidance on enrollment requirements and support resources while maintaining momentum.",
+          "recommended_approach": "Develop detailed checklist approach with clear timeline and support options for document submission while maintaining enrollment momentum."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659306056",
+              "segment_id": "64",
+              "timestamp": "4:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I probably wouldn't mind making an application to my employer to fund the course though' (call_595659306056, seg_64), indicating interest in employer sponsorship.",
+          "consultant_response": "Consultant offered basic options: 'You can put it all into FeeHelp where it can pay for it or you can do a mix, it's up to you' (call_595659306056, seg_98).",
+          "context_impact": "Critical opportunity to explore funding pathways and strengthen enrollment feasibility.",
+          "recommended_approach": "Develop more comprehensive guidance around payment options and employer sponsorship processes while maintaining appropriate role boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731870997",
+              "segment_id": "7",
+              "timestamp": "00:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I had to withdraw last year because I had an employment opportunity that I couldn't knock back and life got in the way basically' (call_595731870997, seg_7).",
+          "consultant_response": "Consultant replied: 'I can assist you with that. So you've just got two units to complete, is that right?' (call_595731870997, seg_16), missing opportunity for work-life balance strategizing.",
+          "context_impact": "Crucial moment to address past challenges and prevent future withdrawal through proactive planning.",
+          "recommended_approach": "Engage in detailed discussion about managing work commitments alongside study, including specific support mechanisms and success strategies."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing shift work with study commitments. One student directly stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23). Similar concerns emerged from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163). These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling needs.",
+          "consultant_response": "Consultants effectively demonstrated understanding of healthcare workflows and provided practical solutions. In the primary example, the consultant responded: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This response resonated strongly as evidenced by the student's reply: 'That actually sounds manageable.' The approach effectively moved the conversation from 'if' to 'how,' maintaining momentum while addressing practical concerns.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern before showing how our program design aligns with healthcare workflows. Begin with acknowledgment: 'I understand rotating shifts create unique challenges for study.' Then demonstrate practical flexibility: 'Our learning platform is specifically designed to support healthcare professionals. You can download materials before night shifts, use quiet periods for focused study, and complete assessments during recovery days.' Share specific examples from current students: 'Many of our nursing students download their weekly materials before rotation starts, study during quieter periods around 2-3am, and participate in online discussions during recovery days.' For those with irregular rosters, emphasize how asynchronous learning means no mandatory live sessions, and offline access enables study even in areas with poor connectivity. When discussing changes in shifts or long rotations, show how weekly study patterns can adapt: 'If you're working three night shifts, you might download everything Monday, use those quiet nighttime periods for focused reading, then complete your discussion posts during recovery days.' The goal is transforming perceived scheduling barriers into manageable planning opportunities."
+        },
+        {
+          "id": 2,
+          "title": "Career Pathway Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663630272",
+              "segment_id": "12",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 12 of the call, the student stated, 'Well, I am a nurse and I would like to pursue some higher degree, Master's.' This assertion highlighted a significant turning point in the conversation, as it conveyed the student's strong motivation for career advancement through education. The context surrounding this trigger indicated the student was actively thinking about her future, presenting an excellent opportunity to dive deeper into educational pathways. This moment was crucial for enrollment, as it allowed the consultant to connect the relevance of the Master's program directly to the student's aspirations.",
+          "consultant_response": "Following the student's assertion, the consultant responded, 'Yeah, looking at those next steps to progress your career. So this would be a natural progression for someone like yourself and it is all online so you are able to study and work at the same time.' This response successfully demonstrated alignment with the collaborative planning pattern by acknowledging the student's experience and linking it to the program benefits. By depicting the course as a seamless transition towards her career goals, the consultant effectively made the student feel understood and validated, enhancing the likelihood of enrollment by creating a compelling narrative that connected her background in nursing with the potential of the Master's program.",
+          "priority": "high",
+          "recommended_approach": "When engaging with healthcare professionals seeking career advancement, begin by acknowledging their professional experience and aspirations before exploring how the program specifically aligns with their career trajectory. For instance, open with validation of their experience: 'Your nursing background provides an excellent foundation for this program.' Then guide the conversation to explore specific benefits: 'Many of our nursing students find this Master's degree opens new opportunities in healthcare leadership.' While maintaining focus on program benefits, avoid detailed career planning reserved for post-enrollment support. Use phrases like: 'While I can't provide detailed career guidance, our learning advisers specialize in healthcare career pathways post-enrollment.' When discussing study integration, provide concrete examples: 'Many of our nursing students complete readings between shifts and engage in online discussions during their days off.' Always adapt the discussion based on the student's specific role and aspirations, connecting program features to practical career benefits while maintaining appropriate planning boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Clear Educational Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820676452",
+              "segment_id": "32",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595554748254",
+                "segment_id": "20",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Students frequently expressed concerns about educational transitions and pathway planning. A representative example occurred when a student stated: 'Oh, the only thing is as well, I'm not studying my Bachelor at Monash, it's at Swinburne' (call_595820676452, seg_32). This revealed common anxieties about transitioning between institutions and understanding progression pathways.",
+          "consultant_response": "Consultants demonstrated strong pathway planning, as shown in responses like: 'Yeah, that's absolutely fine. So the next step for yourself would be the Graduate of Psychology Advanced, which is the honours equivalent' (call_595820676452, seg_36). These responses effectively validated current progress while providing clear next steps.",
+          "priority": "high",
+          "recommended_approach": "When discussing educational pathways, begin by validating the student's current academic journey while creating clear progression plans. Start with acknowledgment: 'Your bachelor's degree provides an excellent foundation for advancing your education.' Then explore specific goals: 'Let's map out how your current qualifications align with our program requirements and your career aspirations.' Use examples of successful transitions: 'Many of our current students have come from similar backgrounds, transitioning smoothly into our advanced programs.' Pay particular attention to concerns about changing institutions: 'While you're completing your degree at Swinburne, let's look at how those units specifically prepare you for our program.' Create clear timelines: 'Based on your expected completion date, we can plan your transition to ensure continuous academic progression.' Remember to highlight support mechanisms while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Requirements",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555454172",
+              "segment_id": "239",
+              "timestamp": "8:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student initiated the documentation discussion by asking: 'Okay, and what are the documents I will be needing for all this' (call_595555454172, seg_239). This direct question presented an opportunity to provide comprehensive guidance while demonstrating the institution's support systems. The timing and nature of the query indicated readiness to move forward with enrollment, making clear direction crucial.",
+          "consultant_response": "The consultant provided only basic information about required documents without fully exploring potential challenges or offering comprehensive support options. This surface-level response missed the opportunity to demonstrate the institution's commitment to supporting students through the enrollment process and failed to address potential documentation concerns proactively.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation requirements, transform the administrative process into a collaborative planning opportunity. Begin with a structured overview: 'Let's walk through each required document together and ensure you have a clear path forward. The key documents are your academic transcripts, proof of identity, and any relevant professional certifications.' Create a supportive dialogue: 'Have you had experience gathering similar documents before? This helps me provide the most relevant guidance.' For each requirement, outline specific support resources: 'For academic transcripts, our admissions team can guide you through the verification process if needed.' When discussing timelines, be specific while maintaining flexibility: 'Most students complete their documentation within two weeks. How does that timeline work with your schedule?' Always emphasize available support while maintaining appropriate boundaries: 'While I can't directly assist with document retrieval, our support team is available to help with any questions that arise during the process.' Remember to validate any concerns while providing clear solutions: 'Many students initially find the documentation process overwhelming, but our structured approach helps ensure a smooth experience.'"
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659306056",
+              "segment_id": "64",
+              "timestamp": "4:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student proactively raised the topic of employer funding: 'I probably wouldn't mind making an application to my employer to fund the course though' (call_595659306056, seg_64). This statement revealed both financial planning awareness and a need for guidance on funding pathways. The moment presented a critical opportunity to explore payment options while maintaining appropriate boundaries regarding employer processes.",
+          "consultant_response": "The consultant provided only basic funding information, stating: 'You can put it all into FeeHelp where it can pay for it or you can do a mix, it's up to you' (call_595659306056, seg_98). This response missed the opportunity to fully explore payment options or provide comprehensive guidance while maintaining appropriate role boundaries.",
+          "priority": "high",
+          "recommended_approach": "When discussing financial planning, start by acknowledging the student's proactive approach while maintaining clear role boundaries. Begin with validation: 'It's great that you're exploring different funding options. Let me explain how our flexible payment system works.' Present options clearly: 'Many students successfully combine different payment methods - Fee-HELP, employer support, or upfront payments.' For those interested in employer funding, provide appropriate guidance: 'While I can't advise on specific employer policies, I can explain how our program typically works with employer sponsorship and provide the program details you might need for your application.' Direct students to relevant resources: 'Our student advisors can provide documentation that may help with employer applications, and the studyassist.gov.au website has comprehensive information about Fee-HELP.' Remember to maintain appropriate boundaries while ensuring students understand all available options: 'While I focus on explaining our payment systems, our student advisors can help with specific questions about combining different funding sources.'"
+        },
+        {
+          "id": 6,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731870997",
+              "segment_id": "7",
+              "timestamp": "00:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed previous enrollment challenges: 'I had to withdraw last year because I had an employment opportunity that I couldn't knock back and life got in the way basically' (call_595731870997, seg_7). This disclosure presented a crucial opportunity to address past difficulties and create strategies for successful re-engagement while preventing future withdrawal.",
+          "consultant_response": "The consultant focused solely on administrative details: 'I can assist you with that. So you've just got two units to complete, is that right?' (call_595731870997, seg_16). This response missed the opportunity to explore work-life balance strategies or discuss support mechanisms that could prevent similar challenges in the future.",
+          "priority": "high",
+          "recommended_approach": "When students share past enrollment challenges, focus on building confidence through practical planning while maintaining appropriate boundaries. Begin with acknowledgment: 'Thank you for sharing that experience. Many successful students face similar challenges initially. Let's explore how our program's flexibility can better support your work-life balance this time.' Guide the discussion toward specific strategies: 'Our online platform allows you to download materials for offline study during quiet periods at work. Many students find this helps them maintain progress even during busy periods.' When discussing support systems, be specific while maintaining boundaries: 'While I can't provide detailed study planning now, our learning advisers can help you develop specific strategies once enrolled.' Share relevant examples: 'Many students in similar situations successfully complete their studies by breaking coursework into manageable segments around their work schedules.' Always emphasize available support while maintaining appropriate pre-enrollment focus: 'Our goal is to help you succeed, and we have resources in place to support you through challenging periods.'"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "consultant_name": "Olive Jerome",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 57,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 8,
+    "team_average_absolute_number": 41.63636363636363
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.035087719298245,
+    "team_average_percentage": 19.17030645264239
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 180.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.96491228070175,
+    "team_average_percentage": 80.8296935473576
+  },
+  "average_talking_percentage": {
+    "individual_average": 40.56517650660618,
+    "team_average": 52.278749524011396
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 49,
+    "team_total_excluded_transcripts": 1985
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 124.86,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.31,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 172.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.44,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 179.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 62.62,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 60.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 52.85,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 82.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.8,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 108.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 62.49,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.38,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 55.25,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work schedules, family commitments, and career transitions"
+      },
+      {
+        "headline": "Support Resource Connection",
+        "explanation": "Proactive connection of students to appropriate support resources while ensuring clear understanding of process and next steps"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Goal Integration Enhancement",
+        "explanation": "More comprehensive exploration needed of student goals and circumstances when discussing program options and timelines"
+      },
+      {
+        "headline": "Career Transition Support",
+        "explanation": "Enhanced guidance required for students navigating career changes or comparing educational options across institutions"
+      },
+      {
+        "headline": "Life Circumstances Planning",
+        "explanation": "Stronger demonstration needed of program flexibility and support options for students managing complex life situations"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731995451",
+              "segment_id": "18",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595731995451",
+                "segment_id": "21",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'Because I got some job offers, so I'm looking at it and there's a possibility I need to postpone this course for some time' (call_595731995451, seg_18), revealing need for flexible study planning.",
+          "consultant_response": "Consultant explained: 'Yeah, that's totally fine, I understand. We do recommend getting the account set up earlier though, just so that you'll have access to be able to make that request' (call_595731995451, seg_21), effectively showing process flexibility.",
+          "context_impact": "Critical moment to demonstrate how program flexibility could accommodate career transitions while maintaining educational momentum.",
+          "recommended_approach": "Include more specific examples of how other students successfully balance work transitions with study commitments."
+        },
+        {
+          "id": 2,
+          "title": "Payment Setup Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738675259",
+              "segment_id": "19",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'll be paying up front and it's important that it's not noted or it's not down as the government-supported' (call_595738675259, seg_19), revealing need for payment clarity.",
+          "consultant_response": "Consultant offered solution: 'I can pop you through to the student advisors. They can actually sit with you and go through the set-up of that account' (call_595738675259, seg_30), effectively facilitating proper setup.",
+          "context_impact": "Clear payment setup directly impacts enrollment readiness and student confidence in administrative processes.",
+          "recommended_approach": "Include more proactive explanation of payment options before escalating to advisors."
+        },
+        {
+          "id": 3,
+          "title": "Deferral Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732160279",
+              "segment_id": "14",
+              "timestamp": "05:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595738675259",
+                "segment_id": "12",
+                "timestamp": "01:23"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I was actually meaning to call because I was emailed before just asking if like I was able to defer' (call_595732160279, seg_14), seeking guidance on enrollment timing.",
+          "consultant_response": "Consultant stated: 'Yeah, no dramas. If you are wanting to apply for that, you do need to have the account set up though' (call_595732160279, seg_21), missing deeper exploration of student goals.",
+          "context_impact": "Deferral discussions significantly impact enrollment momentum and long-term student engagement.",
+          "recommended_approach": "Explore student's motivations and timeline before discussing procedural requirements."
+        },
+        {
+          "id": 4,
+          "title": "University Choice Guidance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732037970",
+              "segment_id": "10",
+              "timestamp": "00:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've been offered the same course from University of Sydney, and I am based out of Sydney, so I'm just considering which one will be more applicable' (call_595732037970, seg_10), seeking comparative guidance.",
+          "consultant_response": "Consultant replied: 'So the course itself is beginning in less than a month, so we do recommend getting in and getting that account set up' (call_595732037970, seg_16), missing opportunity to highlight program benefits.",
+          "context_impact": "Direct competition with another institution requires clear articulation of Monash's unique value proposition.",
+          "recommended_approach": "Compare program benefits directly while acknowledging student's location-based concerns."
+        },
+        {
+          "id": 5,
+          "title": "Support Resource Connection",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738675259",
+              "segment_id": "30",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732160279",
+                "segment_id": "21",
+                "timestamp": "05:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students seeking specialized guidance, exemplified by: 'I'll be paying up front and it's important that it's not noted or it's not down as the government-supported' (call_595738675259, seg_19).",
+          "consultant_response": "Consultants consistently facilitated connections: 'I can pop you through to the student advisors. They can actually sit with you and go through the set-up of that account' (call_595738675259, seg_30).",
+          "context_impact": "Effective connection to specialized support resources ensures student needs are met while maintaining enrollment momentum.",
+          "recommended_approach": "Provide more context about support resources before transfer to increase student comfort."
+        },
+        {
+          "id": 6,
+          "title": "Goal Exploration Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732037970",
+              "segment_id": "10",
+              "timestamp": "00:47"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732160279",
+                "segment_id": "14",
+                "timestamp": "05:20"
+              }
+            ]
+          },
+          "student_trigger": "Students expressing complex decisions: 'I'm just in a bit of a debate because I've been offered the same course from University of Sydney' (call_595732037970, seg_10).",
+          "consultant_response": "Consultants often moved to procedural solutions without exploring goals: 'We do recommend getting in and getting that account set up' (call_595732037970, seg_16).",
+          "context_impact": "Understanding student goals is crucial for providing relevant guidance and maintaining enrollment interest.",
+          "recommended_approach": "Implement structured goal exploration before offering procedural guidance."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731995451",
+              "segment_id": "18",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595731995451",
+                "segment_id": "21",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "During enrollment discussions, multiple students expressed concerns about balancing work transitions with study commitments. In the primary example (call_595731995451, segment 18), the student shared: 'Because I got some job offers, so I'm looking at it and there's a possibility I need to postpone this course for some time.' This revealed both professional opportunity and potential impact on educational plans, requiring careful collaborative planning.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by acknowledging the situation while maintaining momentum: 'Yeah, that's totally fine, I understand. We do recommend getting the account set up earlier though, just so that you'll have access to be able to make that request' (call_595731995451, seg_21). This approach validated the student's career opportunity while ensuring continued engagement with the enrollment process. The response balanced immediate flexibility with strategic guidance for maintaining educational progress.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study integration concerns, begin by validating the significance of career opportunities while demonstrating how our program can adapt to professional changes. Start with acknowledgment: 'Career growth is important, and our program is designed to accommodate professional transitions.' Then explore specific ways the program can flex around work commitments: 'Many students successfully navigate job changes while studying - some adjust their study load temporarily, others use our flexible assessment deadlines during transition periods.' Share concrete examples from similar situations: 'One student recently managed a promotion by downloading materials in advance and adjusting their study schedule during the transition period.' Pay particular attention to maintaining momentum while showing flexibility: 'Setting up your account now gives you access to request timing adjustments when needed, ensuring you're prepared for any scenario.' The key is transforming potential barriers into manageable planning opportunities, always grounding explanations in real examples that demonstrate successful work-study integration."
+        },
+        {
+          "id": 2,
+          "title": "Payment Setup Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738675259",
+              "segment_id": "19",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595738675259 (segment 19), the student expressed specific concerns about payment arrangements: 'I'll be paying up front and it's important that it's not noted or it's not down as the government-supported.' This revealed both clear payment preferences and need for administrative accuracy, representing a critical moment for collaborative planning around enrollment processes.",
+          "consultant_response": "The consultant demonstrated effective support connection and planning: 'I can pop you through to the student advisors. They can actually sit with you and go through the set-up of that account' (call_595738675259, seg_30). This response addressed both immediate needs and longer-term accuracy requirements while maintaining enrollment momentum through clear next steps.",
+          "priority": "high",
+          "recommended_approach": "When handling payment setup concerns, begin by acknowledging the importance of accurate financial arrangements. Start with validation: 'I understand how important it is to have your payment preferences correctly recorded.' Then provide a clear overview before connecting with specialists: 'Let me explain how our payment setup process works, and then connect you with our student advisors who can guide you through the specific details.' Take time to document preferences clearly: 'I'll note your preference for upfront payment to ensure the advisor can address this specifically.' The key is balancing efficiency with attention to detail, ensuring students feel confident about payment accuracy while maintaining momentum. Pay particular attention to students expressing specific payment requirements, using their concerns as opportunities to demonstrate our commitment to administrative precision and student support."
+        },
+        {
+          "id": 3,
+          "title": "Deferral Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732160279",
+              "segment_id": "14",
+              "timestamp": "05:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595738675259",
+                "segment_id": "12",
+                "timestamp": "01:23"
+              }
+            ]
+          },
+          "student_trigger": "A critical planning moment emerged in call 595732160279 (segment 14) when the student expressed: 'I was actually meaning to call because I was emailed before just asking if like I was able to defer.' Similar requests appeared in supporting calls, indicating a common need for guidance around enrollment timing flexibility.",
+          "consultant_response": "The consultant's approach focused primarily on procedural requirements: 'Yeah, no dramas. If you are wanting to apply for that, you do need to have the account set up though' (call_595732160279, seg_21). While providing basic guidance, this response missed opportunities for deeper exploration of student goals and comprehensive planning.",
+          "priority": "high",
+          "recommended_approach": "When students inquire about deferral options, begin by exploring their underlying motivations and timeline considerations before addressing procedures. Start with empathetic inquiry: 'I understand you're considering a deferral - could you tell me more about what's prompting this decision?' Use this information to create a personalized plan that considers both immediate needs and long-term goals. For instance, explore specific timing preferences: 'When would be your ideal start date? This helps us plan appropriate support.' Pay special attention to maintaining engagement during deferral periods: 'Even while deferred, you'll have access to course materials and updates, helping you stay connected to your goals.' The key is transforming deferral requests into strategic planning opportunities, ensuring students feel supported while understanding all available options. Remember to document key preferences and planned check-in points, creating clear pathways for continued engagement."
+        },
+        {
+          "id": 4,
+          "title": "University Choice Guidance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732037970",
+              "segment_id": "10",
+              "timestamp": "00:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595732037970 (segment 10), the student revealed their decision-making process: 'I've been offered the same course from University of Sydney, and I am based out of Sydney, so I'm just considering which one will be more applicable.' This presented a crucial opportunity for collaborative planning around program benefits and support options.",
+          "consultant_response": "The consultant focused on timing rather than value proposition: 'So the course itself is beginning in less than a month, so we do recommend getting in and getting that account set up' (call_595732037970, seg_16). This approach missed opportunities to explore and address the student's specific decision factors.",
+          "priority": "high",
+          "recommended_approach": "When students are comparing institutions, begin by exploring their key decision factors beyond location. Start with open dialogue: 'I understand you're considering both options - what specific aspects of the programs are most important for your decision?' Use their responses to highlight relevant strengths: 'Many of our Sydney-based students find our online delivery actually provides more flexibility than local options.' Address location proactively: 'While we're not physically in Sydney, our online platform and support services are designed to provide full support for interstate students.' Pay particular attention to career implications: 'Our program includes industry-relevant projects you can apply directly in your current role, regardless of location.' The key is transforming geographical distance from a potential barrier into a showcase for our program's flexibility and support capabilities, always grounding comparisons in specific benefits that align with student goals."
+        },
+        {
+          "id": 5,
+          "title": "Support Resource Connection",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738675259",
+              "segment_id": "30",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732160279",
+                "segment_id": "21",
+                "timestamp": "05:45"
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students demonstrated need for specialized guidance, exemplified by: 'I'll be paying up front and it's important that it's not noted or it's not down as the government-supported' (call_595738675259, seg_19). These moments represented critical opportunities for effective support connection.",
+          "consultant_response": "Consultants consistently demonstrated effective resource connection: 'I can pop you through to the student advisors. They can actually sit with you and go through the set-up of that account' (call_595738675259, seg_30). This approach effectively facilitated access to specialized support while maintaining enrollment momentum.",
+          "priority": "medium",
+          "recommended_approach": "When connecting students with specialized resources, begin by validating their specific needs and explaining how the specialist team can help. Start with clear context: 'Based on what you've shared about your payment preferences, our student advisors can provide detailed guidance.' Before transferring, provide a brief overview: 'The advisor will walk you through the setup process step by step, ensuring everything is recorded exactly as you need.' For complex situations, summarize needs: 'I'll note your specific preferences to ensure the advisor can address them directly.' Pay particular attention to maintaining continuity, helping students understand how this support fits into their broader enrollment journey. The key is making support connections feel like natural progression rather than redirection, always ensuring students understand both the immediate and long-term benefits of specialized assistance."
+        },
+        {
+          "id": 6,
+          "title": "Goal Exploration Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732037970",
+              "segment_id": "10",
+              "timestamp": "00:47"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732160279",
+                "segment_id": "14",
+                "timestamp": "05:20"
+              }
+            ]
+          },
+          "student_trigger": "Multiple calls revealed students wrestling with complex educational decisions, exemplified by: 'I'm just in a bit of a debate because I've been offered the same course from University of Sydney' (call_595732037970, seg_10). These moments represented crucial opportunities for deeper goal exploration.",
+          "consultant_response": "Consultants often moved quickly to procedural solutions rather than exploring underlying goals: 'We do recommend getting in and getting that account set up' (call_595732037970, seg_16). This pattern of prioritizing administrative processes over goal exploration appeared consistently across calls.",
+          "priority": "high",
+          "recommended_approach": "When encountering students at decision points, prioritize understanding their broader educational and career goals before addressing procedures. Begin with open exploration: 'Before we discuss next steps, could you tell me more about what you're hoping to achieve through this program?' Use their responses to guide a more targeted discussion about how our program aligns with their goals. For instance, if a student mentions career advancement, probe deeper: 'What aspects of your current role are you looking to develop?' Pay special attention to students comparing options, using their expressed priorities to highlight relevant program features: 'You mentioned wanting to develop leadership skills - let me show you how our course structure specifically supports this.' The key is transforming procedural discussions into meaningful planning conversations that demonstrate clear connection between program features and student aspirations. Remember to document key goals and preferences, referring back to them throughout the conversation to maintain relevance and demonstrate understanding."
+        }
+      ]
+    }
+  }
+}

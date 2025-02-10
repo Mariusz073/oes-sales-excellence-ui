@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 210,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.04761904761905,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 149,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.95238095238095,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.40324674007422,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 149,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 235.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 121.42,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 168.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.55,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 198.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.19,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 152.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 134.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.18,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including shift work, parenting, and career transitions through practical examples"
+      },
+      {
+        "headline": "Support Network Integration",
+        "explanation": "Effective acknowledgment of existing support networks while introducing complementary institutional resources aligned with specific student needs and circumstances"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "More comprehensive discussion needed linking specific course elements to immediate career development opportunities within students' current workplaces"
+      },
+      {
+        "headline": "Life Transition Support",
+        "explanation": "Enhanced exploration needed of how program features specifically accommodate major life changes like new parenthood and career transitions"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios including credit transfers and alternative entry pathways with specific timelines"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need for schedule flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "Required clear demonstration of how program specifically accommodates healthcare shift work patterns.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Alternative Entry Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659404576",
+              "segment_id": "22",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595659404576",
+                "segment_id": "42",
+                "timestamp": "03:18"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'So when I graduated I didn't get an ATAR, I had to go non-scored. Is that a problem with that course?' (call_595659404576, seg_21), revealing anxiety about entry requirements.",
+          "consultant_response": "Consultant provided reassurance with options: 'So we have lots of options available for you for entry. So we can always find a different entry other than the ATAR' (call_595659404576, seg_22).",
+          "context_impact": "Critical moment to transform perceived barriers into achievable pathways while maintaining student confidence.",
+          "recommended_approach": "Develop more comprehensive exploration of specific alternative pathway options aligned with student goals."
+        },
+        {
+          "id": 3,
+          "title": "Career Change Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450749067",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739287181",
+                "segment_id": "46",
+                "timestamp": "04:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I've got like 15 month old twins and I'm still on maternity leave and I'm like, I worked for a bank for 13 years and I'm like I just don't want to go back' (call_595450749067, seg_23), revealing need for career transition guidance.",
+          "consultant_response": "Consultant responded: 'So the Bachelor of Criminal Justice and Criminology is a really, really useful bachelor's degree. So it does open up a lot of pathways for you' (call_595450749067, seg_31), effectively mapping potential career directions.",
+          "context_impact": "Critical moment to demonstrate how educational pathways could enable successful career transition while accommodating family responsibilities.",
+          "recommended_approach": "Include more specific examples of successful career changers and their pathways through the program."
+        },
+        {
+          "id": 4,
+          "title": "Parent Study Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566525425",
+              "segment_id": "45",
+              "timestamp": "04:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I became a mom this year. I said I'm not going to work full-time anymore' (call_595566525425, seg_45), revealing need for parenting-focused study planning.",
+          "consultant_response": "Consultant provided basic response: 'Amazing. Well, Maria, it looks like you're eligible for the course using your work experience' (call_595566525425, seg_101), missing opportunity to explore parent-specific study strategies.",
+          "context_impact": "Critical moment to demonstrate how programs specifically accommodate new parenting responsibilities.",
+          "recommended_approach": "Should discuss specific study patterns that work for new parents and share examples of successful student-parents."
+        },
+        {
+          "id": 5,
+          "title": "Academic Support Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451434376",
+              "segment_id": "192",
+              "timestamp": "25:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595451434376",
+                "segment_id": "184",
+                "timestamp": "23:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I felt like my marks were okay, but I've done referencing wrong' (call_595451434376, seg_192), revealing academic anxiety and specific skill concerns.",
+          "consultant_response": "Consultant mentioned: 'Our online learning advisors can help with referencing and we've got lots of resources' (call_595451434376, seg_184), providing basic support overview.",
+          "context_impact": "Crucial moment to demonstrate comprehensive academic support systems and build confidence.",
+          "recommended_approach": "Provide specific examples of how learning support services address common academic challenges."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663779145",
+              "segment_id": "26",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I live in New South Wales, what credit which you have offered?' (call_595663779145, seg_26), seeking clarity on credit transfer process.",
+          "consultant_response": "Consultant focused on limitations: 'Unfortunately we can't give exemptions based on work experience' (call_595663779145, seg_34), without providing comprehensive guidance.",
+          "context_impact": "Clear documentation guidance crucial for maintaining enrollment momentum through credit transfer process.",
+          "recommended_approach": "Create detailed documentation checklist and step-by-step credit transfer guidance."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, begin by validating their unique work patterns before demonstrating how our program design specifically accommodates healthcare workflows. Share concrete examples of successful students: 'Many of our nursing students download materials before night shifts, study during quiet periods, or break learning into small blocks between shifts.' Make flexibility tangible rather than theoretical by explaining specific features: 'Our asynchronous learning means no mandatory live sessions, and offline access ensures you can study even in areas with poor connectivity.' For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules: 'You might download materials before your rotation starts, use quiet periods for focused reading, then complete discussions during recovery days.' Pay particular attention to night shift workers, showing how our platform's flexibility specifically addresses their unique challenges. The goal is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Alternative Entry Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659404576",
+              "segment_id": "22",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595659404576",
+                "segment_id": "42",
+                "timestamp": "03:18"
+              }
+            ]
+          },
+          "student_trigger": "During call 595659404576 (segment 21), the student revealed anxiety about entry requirements: 'So when I graduated I didn't get an ATAR, I had to go non-scored. Is that a problem with that course?' This disclosure highlighted both their interest in pursuing education and concern about potential barriers to entry. The moment demanded careful balance between maintaining engagement and providing practical alternatives.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by immediately offering reassurance and alternatives: 'So we have lots of options available for you for entry. So we can always find a different entry other than the ATAR' (call_595659404576, seg_22). This was followed by specific pathway suggestions: 'What will be the best option for you would be to go and do a diploma' (seg_42). The approach effectively maintained student engagement by transforming a potential barrier into an opportunity for alternative pathway planning.",
+          "priority": "high",
+          "recommended_approach": "When addressing entry requirement concerns, begin by acknowledging the student's educational aspirations while emphasizing our multiple pathway options. Start with immediate reassurance: 'Your academic journey can take many paths, and we'll find the one that best suits your situation.' Guide the conversation through available alternatives: 'Let's explore options like diploma pathways, work experience entry, or foundation programs.' Share success stories: 'Many of our current degree students started with similar circumstances and found our alternative entry paths provided excellent preparation.' Focus on transforming perceived barriers into stepping stones: 'A diploma pathway not only provides entry but can reduce your overall study time through credit recognition.' Always connect pathway discussions to the student's ultimate goals: 'While we're starting with an alternative entry path, let's look at how this aligns with your long-term educational aspirations.' The key is maintaining a solutions-focused dialogue that builds confidence while creating clear progression plans."
+        },
+        {
+          "id": 3,
+          "title": "Career Change Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450749067",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739287181",
+                "segment_id": "46",
+                "timestamp": "04:45"
+              }
+            ]
+          },
+          "student_trigger": "The primary call captured a pivotal moment when the student expressed: 'I've got like 15 month old twins and I'm still on maternity leave and I'm like, I worked for a bank for 13 years and I'm like I just don't want to go back' (call_595450749067, seg_23). This was reinforced in a supporting call where another student shared their diverse work history: 'I've done customer service for five years. I've done as well as a cafe and then I did the painting jobs as well' (call_595739287181, seg_46). These moments revealed students actively seeking career transitions, requiring guidance to align their past experiences with new educational pathways.",
+          "consultant_response": "In the primary interaction, the consultant demonstrated strong collaborative planning by responding: 'So the Bachelor of Criminal Justice and Criminology is a really, really useful bachelor's degree. So it does open up a lot of pathways for you. So one of the main obvious things is becoming a criminologist... you can work with the police force, you can go into security advisor as well' (call_595450749067, seg_31). This comprehensive response effectively mapped out multiple career directions while validating the student's desire for change.",
+          "priority": "high",
+          "recommended_approach": "When engaging with career-change students, begin by acknowledging their courage in considering a new direction while validating their existing experience: 'It takes real insight to recognize when you're ready for a career change, and your professional background gives you valuable transferable skills.' Follow with targeted questions about their motivations: 'What aspects of your current role have led you to consider this change? What elements of this new field particularly appeal to you?' This creates space for meaningful dialogue about career aspirations while gathering crucial context. Draw specific connections between their existing skills and potential new paths: 'Your experience in banking has equipped you with valuable skills in analysis and attention to detail - qualities that are highly relevant in criminology.' When discussing program options, always frame them within the context of career outcomes, using concrete examples: 'Many of our successful graduates have transitioned from corporate backgrounds similar to yours. For instance, one former banking professional now works in financial crime investigation.' The goal is creating a clear vision of how their professional experience enhances their potential in the new field."
+        },
+        {
+          "id": 4,
+          "title": "Parent Study Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566525425",
+              "segment_id": "45",
+              "timestamp": "04:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595566525425 (segment 45), the student shared their significant life change: 'I became a mom this year. I said I'm not going to work full-time anymore.' This disclosure revealed both their commitment to education and the need for study arrangements that accommodate new parenting responsibilities.",
+          "consultant_response": "The consultant provided only basic acknowledgment: 'Amazing. Well, Maria, it looks like you're eligible for the course using your work experience' (call_595566525425, seg_101). This response missed the opportunity to explore how the program specifically supports student-parents and their unique scheduling needs.",
+          "priority": "high",
+          "recommended_approach": "When engaging with new parents, begin by acknowledging their life change while demonstrating how our program specifically supports student-parents. Start with validation: 'Congratulations on becoming a mom! Many of our successful students are parents, and we've designed our program with this in mind.' Share concrete examples from current parent-students: 'One of our recent graduates completed her degree while caring for a newborn. She found our flexible submission deadlines especially helpful during those unpredictable early months.' Guide the conversation toward practical solutions: 'Our downloadable content means you can study during quiet moments, and our asynchronous learning means no mandatory live sessions to work around feeding schedules.' Pay particular attention to specific challenges like nighttime feedings or irregular nap schedules, showing how our platform's flexibility specifically addresses these parenting realities: 'Many parent-students download their readings during naptime and complete assignments in short bursts when their children are asleep.' The goal is transforming perceived barriers into manageable planning opportunities while maintaining academic quality."
+        },
+        {
+          "id": 5,
+          "title": "Academic Support Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451434376",
+              "segment_id": "192",
+              "timestamp": "25:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595451434376",
+                "segment_id": "184",
+                "timestamp": "23:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 595451434376 (segment 192), the student revealed both past success and specific challenges: 'I felt like my marks were okay, but I've done referencing wrong.' This disclosure provided an opportunity to address both academic anxiety and specific skill development needs while building confidence in available support systems.",
+          "consultant_response": "The consultant provided a basic overview of support services: 'Our online learning advisors can help with referencing and we've got lots of resources' (call_595451434376, seg_184). While acknowledging available help, this response missed the opportunity to demonstrate how these resources specifically address academic challenges or build long-term success strategies.",
+          "priority": "high",
+          "recommended_approach": "When students disclose academic concerns, begin by validating their awareness while highlighting specific support pathways. Start with recognition: 'It's great that you're thinking proactively about academic skills like referencing. Let me show you exactly how our support systems can help you excel.' Then outline specific resources: 'Our learning advisors offer one-on-one sessions focused on referencing and academic writing. They can review your work, provide detailed feedback, and help you develop strong academic skills.' Share success stories: 'Many students find that working with our advisors not only improves their referencing but builds overall academic confidence. For instance, one student went from struggling with citations to becoming a peer mentor.' Always connect support to practical outcomes: 'These skills will serve you throughout your degree and professional career.' The key is transforming specific concerns into opportunities for comprehensive skill development while building confidence in available support systems."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663779145",
+              "segment_id": "26",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595663779145 (segment 26), the student sought clarity about credit transfer options: 'I live in New South Wales, what credit which you have offered?' This inquiry revealed the need for clear guidance about documentation requirements and credit transfer processes across state boundaries.",
+          "consultant_response": "The consultant focused on limitations rather than solutions: 'Unfortunately we can't give exemptions based on work experience' (call_595663779145, seg_34). This response missed the opportunity to provide comprehensive guidance about available credit options and required documentation.",
+          "priority": "high",
+          "recommended_approach": "When guiding students through documentation processes, especially for interstate credit transfers, begin with a structured overview that builds confidence through clarity. Start with: 'Let me walk you through our credit transfer process step by step, ensuring you have everything needed for a smooth assessment.' Create a clear sequence: 'First, we'll need your official transcripts and unit outlines from your previous studies. For interstate transfers, we have specific requirements to ensure accurate credit assessment.' Share practical examples: 'Many interstate students find it helpful to request their documentation package from their previous institution's student services department - they're familiar with these requests.' Address common challenges proactively: 'If you encounter any difficulties obtaining specific documents, we have alternative verification methods we can explore.' Throughout the discussion, maintain focus on progression: 'While gathering these documents, we can continue planning other aspects of your study journey.' Remember to provide specific contact points for support: 'Our admissions team can guide you through any documentation challenges you encounter.'"
+        }
+      ]
+    }
+  }
+}

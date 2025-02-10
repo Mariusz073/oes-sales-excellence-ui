@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 217,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 48,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 22.119815668202765,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 169,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 77.88018433179722,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.13441709494081,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 169,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 177.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 173.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.86,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 188.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 172.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through collaborative exploration"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and specific solutions tailored to individual needs"
+      },
+      {
+        "headline": "Documentation Support Framework",
+        "explanation": "Effective guidance through documentation requirements with clear alternatives and support mechanisms while maintaining appropriate role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals when students signal readiness for deeper discussion"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after breaks through validation of experience and clear pathway planning"
+      },
+      {
+        "headline": "Work-Study Balance Planning",
+        "explanation": "Deeper collaborative exploration required of specific strategies for balancing study commitments with existing professional responsibilities"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451299022",
+              "segment_id": "13",
+              "timestamp": "1:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I'm going back into study because I used to study online from a different uni, but I stopped' (call_595451299022, seg_13), indicating past challenges requiring attention.",
+          "consultant_response": "Consultant moved to administrative details without exploring past challenges or developing targeted support strategies.",
+          "context_impact": "Previous unsuccessful study experience demands careful planning to ensure future success.",
+          "recommended_approach": "Engage in detailed discussion about previous challenges and collaboratively develop specific support strategies for successful re-entry."
+        },
+        {
+          "id": 3,
+          "title": "Career Recognition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663920816",
+              "segment_id": "21",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I've been working in the early childhood industry for 17 years, so just looking for a bit of a challenge and a change' (call_595663920816, seg_21), revealing opportunity for experience recognition.",
+          "consultant_response": "Consultant provided basic acknowledgment: 'Of course, of course, that's really good to hear' (call_595663920816, seg_23), missing opportunity for deeper exploration.",
+          "context_impact": "Crucial moment to demonstrate how program can validate and build upon extensive professional experience.",
+          "recommended_approach": "Explore specific ways experience could enhance studies and create new career opportunities."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732549553",
+              "segment_id": "35",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Oh, I think I certified from police station. Is that okay?' (call_595732549553, seg_35), showing uncertainty about certification requirements.",
+          "consultant_response": "Consultant provided clear guidance: 'We can't see a stamp and for you to go to a police station and make sure they actually stamp it' (call_595732549553, seg_73), effectively combining verification with next steps.",
+          "context_impact": "Critical moment requiring clear guidance to prevent enrollment delays and maintain confidence.",
+          "recommended_approach": "Include proactive explanation of all certification requirements earlier in process."
+        },
+        {
+          "id": 5,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738625154",
+              "segment_id": "98",
+              "timestamp": "08:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Is it hard to do it online?' (call_595738625154, seg_98), revealing key concerns about managing online study effectively.",
+          "consultant_response": "Consultant explained: 'We're Australia's number one provider in online education...It is tailored and curated for the online student in mind' (call_595738625154, seg_99).",
+          "context_impact": "Critical moment for demonstrating how online learning aligns with student's needs and circumstances.",
+          "recommended_approach": "Include more specific examples of successful online study strategies and available support resources."
+        },
+        {
+          "id": 6,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731721170",
+              "segment_id": "66",
+              "timestamp": "4:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted: 'Yeah, I just have to sort it out and negotiate with my boss' (call_595731721170, seg_66), indicating work-study balance concerns.",
+          "consultant_response": "Consultant missed opportunity to explore specific strategies for managing work and study commitments.",
+          "context_impact": "Required demonstrating how program flexibility supports work-life balance.",
+          "recommended_approach": "Provide detailed examples of how current students successfully balance work and study commitments."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 595732493616 (segment 23), the student expressed significant concern about balancing shift work with study: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The consultant demonstrated strong understanding of healthcare workflows, responding: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable.' In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164).",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern before showing how our program design aligns with healthcare workflows. Begin with empathetic acknowledgment: 'Healthcare schedules can be challenging to work around. Let me show you how our program specifically supports shift workers.' Share concrete examples: 'Many of our nursing students download materials before night shifts, study during quiet periods, and complete assignments on their recovery days.' When discussing flexibility, make it tangible: 'Our platform lets you switch seamlessly between online and offline study, so whether you're on a rotating roster or fixed shifts, you can maintain steady progress.' Pay particular attention to students working night shifts or long rotations, offering specific strategies like downloading materials for offline access during quiet periods. Always ground examples in healthcare-specific scenarios that resonate with their experience, transforming perceived scheduling barriers into manageable planning opportunities."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451299022",
+              "segment_id": "13",
+              "timestamp": "1:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595451299022 (segment 13), the student revealed a previous unsuccessful attempt at online study: 'I'm going back into study because I used to study online from a different uni, but I stopped.' This disclosure highlighted a critical need to address past challenges and ensure appropriate support mechanisms are in place for a successful return to study. The student's openness about their previous experience provided an opportunity to demonstrate how our program could offer a different, more supported learning journey.",
+          "consultant_response": "The consultant's response focused primarily on administrative details without exploring the underlying reasons for the student's previous withdrawal or developing strategies to prevent similar issues. This approach missed the opportunity to engage in meaningful dialogue about the student's past experiences and how our support systems could help ensure a more successful academic journey this time.",
+          "priority": "high",
+          "recommended_approach": "When students disclose previous unsuccessful study attempts, begin by validating their experience and commending their decision to return to education. Start with acknowledgment: 'Thank you for sharing that experience. Returning to study shows real commitment to your goals.' Then engage in focused exploration: 'Could you tell me what aspects of your previous online study experience were most challenging?' Use their responses to highlight relevant support features: 'I understand managing deadlines was difficult before. Our Online Learning Advisors provide structured study planning support that many returning students find invaluable.' Present specific examples of how our program addresses common challenges: 'For instance, if work pressures impacted your previous studies, our flexible assessment deadlines and offline study options help manage competing demands.' The goal is to transform past challenges into insights that inform a more successful future study experience, always maintaining focus on practical solutions that build confidence in their ability to succeed this time."
+        },
+        {
+          "id": 3,
+          "title": "Career Recognition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595663920816",
+              "segment_id": "21",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595663920816 (segment 21), the student revealed significant industry experience: 'I've been working in the early childhood industry for 17 years, so just looking for a bit of a challenge and a change.' This disclosure presented an opportunity to explore how their extensive experience could inform and enhance their educational journey while supporting their desire for career development.",
+          "consultant_response": "The consultant offered only basic acknowledgment: 'Of course, of course, that's really good to hear' (segment 23), missing the opportunity to explore specific ways the program could validate and build upon their extensive experience while supporting their career advancement goals.",
+          "priority": "high",
+          "recommended_approach": "When engaging with experienced professionals, begin by acknowledging their extensive industry background while exploring how it enriches their educational journey. Start with validation and curiosity: 'Seventeen years in early childhood education provides invaluable practical insight. Let's explore how that experience can enhance your studies and open new career pathways.' Guide the conversation toward specific connections: 'Your deep understanding of child development will give you unique perspectives in advanced units, while new theoretical frameworks can help you see your experience in different ways.' When students express desire for change, show how their experience becomes a bridge rather than a barrier: 'Many of our experienced students find that combining their practical knowledge with new academic perspectives opens doors to leadership roles or specialized positions.' The goal is to demonstrate how their professional experience becomes a valuable asset in their educational journey, creating a seamless blend of past achievements and future growth opportunities."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732549553",
+              "segment_id": "35",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595732549553 (segment 35), the student expressed uncertainty about certification requirements: 'Oh, I think I certified from police station. Is that okay?' This question revealed both their proactive approach to meeting requirements and their need for clarity on certification standards, making it a crucial moment for ensuring proper documentation submission.",
+          "consultant_response": "The consultant provided clear guidance: 'Hi, thank you so much for holding and, you know, so I was just having a look at it there with one of my colleagues and yeah, we can't see a stamp and for you to go to a police station and make sure they actually stamp it' (segment 73). This response effectively combined verification of current documentation status with clear direction for next steps.",
+          "priority": "high",
+          "recommended_approach": "When addressing document certification requirements, start by acknowledging the student's proactive efforts while ensuring absolute clarity about requirements. Begin with validation: 'I appreciate you've already taken steps to get your documents certified.' Then provide crystal clear guidance: 'Let me walk you through exactly what the certification needs to include - we'll need a police stamp that clearly shows X, Y, and Z.' When discussing requirements, use specific examples: 'The stamp should be clearly visible and include the officer's registration number, like this example I can share with you.' Pay particular attention to international students or those with unusual circumstances, providing additional context and support as needed. The goal is to transform potential documentation barriers into manageable steps, maintaining a helpful, collaborative approach that builds student confidence in the process."
+        },
+        {
+          "id": 5,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738625154",
+              "segment_id": "98",
+              "timestamp": "08:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595738625154 (segment 98), the student directly expressed concerns about online learning by asking 'Is it hard to do it online?' This question revealed underlying anxiety about the feasibility and effectiveness of online education, representing a crucial moment for building confidence in the learning platform.",
+          "consultant_response": "The consultant provided a comprehensive response: 'We're Australia's number one provider in online education... It is tailored and curated for the online student in mind' (segment 99). This effectively addressed multiple aspects of the student's concern by highlighting institutional expertise and program customization.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about online learning, begin by acknowledging the validity of the question while positioning online education as a sophisticated, purpose-built learning experience. Start with empathy: 'That's a great question - many successful students had similar concerns before starting.' Then highlight specific features: 'Our learning platform is designed specifically for busy professionals, with features like offline access for studying during commutes or breaks.' Share real examples of how current students succeed: 'Many students download materials on Sunday evening, study during lunch breaks, and participate in discussion forums when it suits their schedule.' The key is making flexibility tangible: 'You'll have 24/7 access to materials, can submit assignments any time before deadlines, and receive support when you need it.' The goal is to transform perceived online learning barriers into manageable aspects of the educational journey through practical, proven examples."
+        },
+        {
+          "id": 6,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731721170",
+              "segment_id": "66",
+              "timestamp": "4:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595731721170 (segment 66), the student expressed work-related concerns: 'Yeah, I just have to sort it out and negotiate with my boss', indicating anxiety about managing study alongside work commitments.",
+          "consultant_response": "The consultant missed the opportunity to explore specific strategies for balancing work and study commitments, leaving the student without clear guidance on managing these competing demands.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about work-study balance, start by acknowledging the challenge while showcasing flexible study options: 'Managing work and study requires careful planning - let me show you how our flexible learning model adapts to your schedule.' Begin with practical examples: 'Many working students find success by downloading materials for offline study during commutes or breaks, and our asynchronous learning means no mandatory live sessions.' Discuss study load options: 'You can start with one or two units to find your rhythm, then adjust based on your comfort level and work demands.' Share specific success strategies: 'Some students block out specific study times each week, while others prefer to adapt their study schedule to their work roster.' Pay particular attention to industry peak periods, showing how study intensity can be modified accordingly: 'During busy work periods, you can focus on reading and research, saving major assignments for quieter times.' The goal is to transform work-study balance from a perceived barrier into a manageable aspect of their educational journey through practical, proven strategies."
+        }
+      ]
+    }
+  }
+}

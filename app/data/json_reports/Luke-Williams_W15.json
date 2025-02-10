@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "consultant_name": "Luke Williams",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 260,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 37,
+    "team_average_absolute_number": 41.63636363636363
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.23076923076923,
+    "team_average_percentage": 19.17030645264239
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 223,
+    "team_average_absolute_number": 180.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.76923076923076,
+    "team_average_percentage": 80.8296935473576
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.803270673654175,
+    "team_average": 52.278749524011396
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 223,
+    "team_total_excluded_transcripts": 1985
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 108.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.68,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 107.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 69.01,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.21,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.39,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 108.56,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 214.86,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.22,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through adaptable study options and clear support frameworks"
+      },
+      {
+        "headline": "Career-Aligned Education",
+        "explanation": "Effective alignment of program elements with professional development needs while maintaining appropriate consulting boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Initial Context Exploration",
+        "explanation": "Enhanced exploration needed of student circumstances and goals before proceeding with process details or transfers"
+      },
+      {
+        "headline": "Work-Study Integration",
+        "explanation": "More comprehensive discussion needed of practical strategies for balancing professional and study commitments"
+      },
+      {
+        "headline": "Support Framework Navigation",
+        "explanation": "Clearer guidance required on available support mechanisms while maintaining appropriate pre-enrollment boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Integration Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565663071",
+              "segment_id": "24",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595450720971",
+                "segment_id": "239",
+                "timestamp": "28:58"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work at Deloitte currently. So, Deloitte's really amazing; they do offer a lot of programs internally as well, but there is also the option of external study' (call_595565663071, seg_24), revealing openness to exploring complementary educational options.",
+          "consultant_response": "Consultant effectively responded: 'Let's explore how our program can supplement the opportunities you have at Deloitte. Focusing on staying competitive and enhancing your skills can give you a significant advantage' (call_595565663071, seg_28).",
+          "context_impact": "Critical moment to demonstrate how external study could enhance career progression while maintaining appropriate career guidance boundaries.",
+          "recommended_approach": "Include more specific examples of how current students successfully balance corporate roles with study while maintaining focus on educational rather than career guidance."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554952652",
+              "segment_id": "12",
+              "timestamp": "01:03"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732493616",
+                "segment_id": "23",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm a teacher currently so the in-person model was always preferable because of my teaching bias but just looking at the load and with the young family and full-time work just seeing what's better...' (call_595554952652, seg_12), revealing critical need to address work-life-study balance.",
+          "consultant_response": "Consultant responded: 'Our course is very flexible because basically you can do the coursework whenever you have the time to do so... we have the flexibility for if you ever want to take any teaching periods off...' (call_595554952652, seg_55)",
+          "context_impact": "This moment required demonstrating how online study could effectively accommodate professional and family commitments.",
+          "recommended_approach": "Include more specific examples of how current teaching professionals successfully manage their study schedules."
+        },
+        {
+          "id": 3,
+          "title": "Initial Context Gathering",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820983572",
+              "segment_id": "2",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I have a few missed calls from this number and I'm a request to call back' (call_595820983572, seg_2), indicating opportunity to establish collaborative planning from the start.",
+          "consultant_response": "Consultant immediately stated: 'So you have been accepted into the course, so congratulations' (call_595820983572, seg_17), missing opportunity for initial context gathering.",
+          "context_impact": "Critical moment to set collaborative tone and understand student's needs and motivations before discussing procedural details.",
+          "recommended_approach": "Begin with exploring student's interests and motivations before discussing acceptance details."
+        },
+        {
+          "id": 4,
+          "title": "Support System Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450864689",
+              "segment_id": "61",
+              "timestamp": "09:11"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595565881373",
+                "segment_id": "170",
+                "timestamp": "10:12"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm worried about managing my diagnosed mental illnesses while studying' (call_595450864689, seg_61), seeking clear understanding of available support.",
+          "consultant_response": "Consultant acknowledged: 'Yeah, we can get that arranged for you as well, I just need to note down what those conditions are' (call_595450864689, seg_65), but missed opportunity to outline specific support frameworks.",
+          "context_impact": "Addressing support concerns comprehensively while maintaining appropriate boundaries was crucial for building program confidence.",
+          "recommended_approach": "Provide clearer overview of available support mechanisms while maintaining appropriate enrollment consultant boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Career Path Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554861880",
+              "segment_id": "77",
+              "timestamp": "14:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I don't, I don't, I don't, I don't, I don't want to do your administration.' (call_595554861880, seg_77), indicating strong misalignment with current course discussion.",
+          "consultant_response": "Consultant pivoted effectively: 'I can help you with an MBA as well. The Masters of Health Administration is an MBA for health professionals or you can just do a straight-up MBA as well.' (call_595554861880, seg_82)",
+          "context_impact": "Quick realignment needed to prevent potential loss of student interest and demonstrate understanding of career preferences.",
+          "recommended_approach": "Explore specific aspects of MBA programs that align with student's career interests earlier in conversation."
+        },
+        {
+          "id": 6,
+          "title": "Schedule Management Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450720971",
+              "segment_id": "227",
+              "timestamp": "27:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student detailed: 'I'm a carer for my husband who fell off a roof four years ago and doesn't drive so that's sort of my main job I guess and two young children' (call_595450720971, seg_227).",
+          "consultant_response": "While flexibility options were mentioned, specific scheduling strategies and success examples were not provided.",
+          "context_impact": "Critical need for detailed schedule planning and management strategies while maintaining appropriate boundaries.",
+          "recommended_approach": "Provide concrete examples of successful schedule management techniques while maintaining focus on program capabilities rather than personal advice."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Integration Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565663071",
+              "segment_id": "24",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595450720971",
+                "segment_id": "239",
+                "timestamp": "28:58"
+              }
+            ]
+          },
+          "student_trigger": "During critical moments in multiple calls, students revealed professional contexts that required careful educational alignment. In the primary call, the student shared: 'I work at Deloitte currently. So, Deloitte's really amazing; they do offer a lot of programs internally as well, but there is also the option of external study' (call_595565663071, seg_24). This disclosure presented an opportunity to demonstrate how external study could complement existing professional development while maintaining appropriate career guidance boundaries.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding: 'Let's explore how our program can supplement the opportunities you have at Deloitte. Focusing on staying competitive and enhancing your skills can give you a significant advantage' (call_595565663071, seg_28). This response effectively connected the educational opportunity with the student's professional context while staying within appropriate consulting boundaries. The approach successfully moved the conversation from theoretical possibilities to practical implementation while maintaining focus on educational rather than career guidance.",
+          "priority": "high",
+          "recommended_approach": "When engaging with professionals from major organizations, begin by acknowledging their current workplace context while focusing on educational pathways that complement professional development. Start with questions about their educational goals: 'What aspects of our program particularly interest you in relation to your current role?' Then demonstrate program flexibility: 'Our flexible delivery is designed to accommodate professional schedules, with options for online study and 24/7 access to materials.' Share examples of program features that support working professionals: 'Many students access course materials during commutes or quiet periods at work.' When discussing career benefits, maintain focus on educational outcomes rather than specific career guidance: 'Our program develops advanced skills in [specific areas], which many professionals find valuable.' The goal is to position the program as complementary to existing career development while staying within appropriate educational consulting boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554952652",
+              "segment_id": "12",
+              "timestamp": "01:03"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732493616",
+                "segment_id": "23",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "In call 595554952652 (segment 12), the student expressed significant concern about balancing professional and personal commitments: 'I'm a teacher currently so the in-person model was always preferable because of my teaching bias but just looking at the load and with the young family and full-time work just seeing what's better...' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged across multiple calls, highlighting the importance of addressing work-study balance effectively.",
+          "consultant_response": "The consultant demonstrated strong understanding of work-life balance needs, responding with: 'Our course is very flexible because basically you can do the coursework whenever you have the time to do so... we have the flexibility for if you ever want to take any teaching periods off...' This practical explanation resonated strongly, effectively moving the conversation from theoretical flexibility to tangible solutions. The consultant successfully transformed potential barriers into manageable planning opportunities.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-life balance concerns with education professionals, begin by acknowledging their unique perspective on learning environments while highlighting how online study can complement their teaching expertise. Draw parallels between classroom management skills and online learning success, showing how their professional experience provides advantages in time management and independent study. For instance, explain how lesson planning skills transfer to managing coursework: 'Just as you plan your teaching schedule, you can structure your study around peak marking periods or parent-teacher conferences.' When discussing flexibility, provide specific examples relevant to the academic calendar: 'Many of our teaching students complete readings during prep periods or schedule assignments around report writing times.' The goal is to transform perceived scheduling barriers into manageable planning opportunities, maintaining appropriate boundaries while demonstrating clear understanding of education sector demands."
+        },
+        {
+          "id": 3,
+          "title": "Initial Context Gathering",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820983572",
+              "segment_id": "2",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At the start of call 595820983572 (segment 2), the student stated: 'I have a few missed calls from this number and I'm a request to call back.' This represented a prime opportunity to establish collaborative dialogue and understand the student's motivations and needs from the outset.",
+          "consultant_response": "The consultant moved directly to acceptance confirmation: 'So you have been accepted into the course, so congratulations' (segment 17). This immediate jump to acceptance missed the opportunity to gather context about the student's interests and needs, potentially limiting the ability to tailor the conversation effectively.",
+          "priority": "high",
+          "recommended_approach": "When responding to callback requests, begin by establishing context and understanding the student's perspective before discussing acceptance details. Start with acknowledgment: 'Thank you for returning our call. I understand we've been trying to reach you - I'd love to hear what aspects of the program interested you initially.' This opens the door for students to share their motivations and concerns freely. Use their response to guide the conversation, asking targeted follow-up questions that help understand their goals: 'What particularly drew you to this program?' or 'What are you hoping to achieve through your studies?' Only after establishing this foundation should the conversation move to acceptance confirmation. The goal is to transform a potentially transactional interaction into a collaborative planning session that sets the tone for ongoing engagement."
+        },
+        {
+          "id": 4,
+          "title": "Support System Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450864689",
+              "segment_id": "61",
+              "timestamp": "09:11"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595565881373",
+                "segment_id": "170",
+                "timestamp": "10:12"
+              }
+            ]
+          },
+          "student_trigger": "Students across multiple calls expressed concerns about accessing support, exemplified by: 'I'm worried about managing my diagnosed mental illnesses while studying' (call_595450864689, seg_61). These disclosures presented crucial opportunities to demonstrate institutional support while maintaining appropriate enrollment boundaries.",
+          "consultant_response": "Consultants often provided minimal acknowledgment: 'Yeah, we can get that arranged for you as well, I just need to note down what those conditions are' (call_595450864689, seg_65), without outlining specific support frameworks or maintaining clear role boundaries.",
+          "priority": "high",
+          "recommended_approach": "When addressing support needs, begin by validating concerns while maintaining appropriate professional boundaries. Start with acknowledgment like 'Thank you for sharing that with me. Supporting student success is central to our program design.' Then outline available support services at a high level, focusing on how they help students succeed while staying within enrollment role limits. For example, explain how learning coaches can assist with study planning and academic skills development post-enrollment. Share general examples of how the institution supports student wellbeing through flexible study options, accessible learning platforms, and dedicated support services. The goal is to demonstrate robust support availability while maintaining clear professional boundaries and appropriate timing of detailed support planning."
+        },
+        {
+          "id": 5,
+          "title": "Career Path Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554861880",
+              "segment_id": "77",
+              "timestamp": "14:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595554861880 (segment 77), the student expressed clear frustration with course misalignment: 'I don't, I don't, I don't, I don't, I don't want to do your administration.' This definitive statement revealed a critical moment where the student's true career interests needed immediate acknowledgment and realignment to prevent disengagement.",
+          "consultant_response": "The consultant demonstrated excellent adaptability by immediately pivoting the discussion: 'I can help you with an MBA as well. The Masters of Health Administration is an MBA for health professionals or you can just do a straight-up MBA as well.' This quick realignment showed active listening and responsiveness to student preferences, effectively preserving engagement by offering relevant alternatives.",
+          "priority": "high",
+          "recommended_approach": "When encountering misalignment between discussed programs and student interests, respond immediately with acknowledgment and redirection. Begin by validating their preference: 'I appreciate you clarifying your interests. Let's focus on options that better align with your career goals.' Then transition smoothly into exploring specific pathways that match their interests, asking targeted questions about their experience and aspirations. Use their responses to guide program recommendations, maintaining focus on educational outcomes rather than specific career advice. The goal is to maintain engagement while quickly establishing a new direction that resonates with their aspirations while staying within appropriate consulting boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Schedule Management Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450720971",
+              "segment_id": "227",
+              "timestamp": "27:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed complex scheduling needs: 'I'm a carer for my husband who fell off a roof four years ago and doesn't drive so that's sort of my main job I guess and two young children' (call_595450720971, seg_227). This disclosure presented a crucial opportunity to demonstrate how program flexibility could accommodate significant caregiving responsibilities.",
+          "consultant_response": "While flexibility options were mentioned, the consultant missed the opportunity to provide specific scheduling strategies or examples of how other students successfully manage similar circumstances.",
+          "priority": "high",
+          "recommended_approach": "When addressing complex scheduling needs, begin by acknowledging the significance of caregiving responsibilities while focusing on practical solutions. Start with validation: 'Thank you for sharing your situation. Many of our students balance significant family responsibilities with their studies.' Then outline specific program features that support flexible study: 'Our online platform allows you to access materials 24/7, so you can study when your caregiving responsibilities allow.' Share examples of how other students manage similar situations: 'Some of our students with caregiving duties find early morning or late evening study sessions work best, while others prefer shorter study blocks throughout the day.' The goal is to demonstrate practical pathways to success while maintaining focus on program capabilities rather than personal advice."
+        }
+      ]
+    }
+  }
+}

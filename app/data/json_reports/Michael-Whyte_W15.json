@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 83,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 26,
+    "team_average_absolute_number": 41.63636363636363
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.32530120481928,
+    "team_average_percentage": 19.17030645264239
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 57,
+    "team_average_absolute_number": 180.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.67469879518072,
+    "team_average_percentage": 80.8296935473576
+  },
+  "average_talking_percentage": {
+    "individual_average": 42.7596942893794,
+    "team_average": 52.278749524011396
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 57,
+    "team_total_excluded_transcripts": 1985
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 190.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.09,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 108.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.47,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 150.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.56,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 115.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.25,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 125.74,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.98,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 145.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.34,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 225.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.28,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 112.08,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.46,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Strong demonstration of proactively connecting students with relevant support mechanisms while maintaining appropriate enrollment consultation boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Effective exploration of program flexibility options that accommodate diverse student circumstances while building confidence in study success"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Integration Planning",
+        "explanation": "Enhanced exploration needed of how program elements align with career goals while maintaining appropriate sales role boundaries"
+      },
+      {
+        "headline": "Documentation Process Navigation",
+        "explanation": "More comprehensive guidance required for complex documentation scenarios with clearer alternative pathways and support mechanisms"
+      },
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "Deeper collaborative planning needed when exploring study timelines and creating personalized enrollment pathways that address individual constraints"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451360251",
+              "segment_id": "13",
+              "timestamp": "1:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'This is for students who do fall just below that 70% or 70 weighted average mark and want to continue their study' (call_595451360251, seg_13), revealing need for alternative pathway guidance.",
+          "consultant_response": "Consultant provided comprehensive solution: 'This bridging course is actually the first two units of the graduate diploma advanced... it's not going to take you any longer, it's not going to cost you any more in the long run' (call_595451360251, seg_16), effectively showing progression opportunities.",
+          "context_impact": "Critical moment requiring clear demonstration of alternative pathways to maintain student engagement despite not meeting direct entry criteria.",
+          "recommended_approach": "Include more specific success stories and timelines from students who completed similar pathways."
+        },
+        {
+          "id": 2,
+          "title": "Academic Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451076863",
+              "segment_id": "199",
+              "timestamp": "11:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm a little bit worried because it says that Monash is in the top, whatever percent in the world. And so I'm worried coming from a different university, if, am I going to be able to do the work?' (call_595451076863, seg_199), revealing anxiety about academic preparedness.",
+          "consultant_response": "Consultant reassured effectively: 'Honestly, I think you'll be absolutely fine. And just, yeah, like I said, make most of that support available... the dedicated student coach who will be assigned to you will be to help you through all that process' (call_595451076863, seg_209).",
+          "context_impact": "The student's concern about academic standards required clear demonstration of support resources to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how support services have helped similar students succeed."
+        },
+        {
+          "id": 3,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659450576",
+              "segment_id": "14",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'because I live in a different state I just wanted to confirm that there is no issue like if I do the honors program in a different state right?' (call_595659450576, seg_14), revealing critical need for program accessibility clarity.",
+          "consultant_response": "Consultant provided clarity: 'what you would be our Graduate Diploma of Psychology Advanced, which is your honours equivalent for online studies' (call_595659450576, seg_20), effectively addressing location concerns.",
+          "context_impact": "Geographical constraints created potential barrier requiring clear demonstration of program flexibility.",
+          "recommended_approach": "Proactively highlight specific online study benefits and available support services across different locations."
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566367964",
+              "segment_id": "17",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I don't have an IT background, I kind of just fell into the role, but I want to kind of, I guess, get a degree that kind of solidifies my place in the market' (call_595566367964, seg_17).",
+          "consultant_response": "Consultant provided minimal guidance: 'Look, we can potentially look into that for you. Have you done any degree before, any bachelor degrees or postgraduate education?' (call_595566367964, seg_19).",
+          "context_impact": "This revealed the student's need for career validation through education, requiring clear alignment of program benefits with career goals.",
+          "recommended_approach": "Develop more detailed exploration of how specific program elements support career transitions while maintaining appropriate role boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555464316",
+              "segment_id": "21",
+              "timestamp": "2:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'So over the period of time, my ability to learn new things after every 6 months will be difficult for me with family responsibilities' (call_595555464316, seg_21), indicating need for study-life balance planning.",
+          "consultant_response": "Consultant provided minimal acknowledgment: 'Of course' (call_595555464316, seg_23), missing opportunity to explore flexible study options.",
+          "context_impact": "Critical moment to demonstrate program flexibility and support mechanisms for balancing commitments.",
+          "recommended_approach": "Provide detailed examples of how program flexibility supports work-life balance and family commitments."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659423083",
+              "segment_id": "30",
+              "timestamp": "3:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student sought clarity on enrollment requirements: 'Have you sent your documentary to anyone yet?' (call_595659423083, seg_30), indicating need for process guidance.",
+          "consultant_response": "Consultant focused on procedural steps without providing comprehensive guidance on documentation requirements.",
+          "context_impact": "Important opportunity to provide clear documentation pathway while maintaining enrollment momentum.",
+          "recommended_approach": "Outline clear documentation pathway with specific steps and alternative options for different scenarios."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451360251",
+              "segment_id": "13",
+              "timestamp": "1:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's query revealed concerns about academic eligibility and continuation options, stating: 'This is for students who do fall just below that 70% or 70 weighted average mark and want to continue their study' (call_595451360251, seg_13). This moment highlighted the critical need for clear alternative pathway guidance while maintaining student confidence and momentum.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by providing a comprehensive solution: 'This bridging course is actually the first two units of the graduate diploma advanced... it's not going to take you any longer, it's not going to cost you any more in the long run' (call_595451360251, seg_16). This response effectively transformed a potential barrier into a strategic opportunity, maintaining enrollment momentum while addressing academic concerns.",
+          "priority": "high",
+          "recommended_approach": "When discussing alternative pathways with students who don't meet direct entry requirements, begin by validating their academic journey while focusing on opportunities rather than barriers. Start with positive framing: 'I understand your goal to continue your studies, and I want to show you a pathway that many successful students have taken.' Then outline specific benefits: 'Our bridging program is designed to provide a seamless transition while building your academic foundations.' Share concrete examples: 'Students who take this pathway often find the initial units particularly valuable for building confidence and academic skills.' When discussing timelines and costs, emphasize integration: 'These units are fully credited toward your advanced diploma, ensuring efficient progression without additional time or cost.' Always maintain focus on the end goal while demonstrating how the alternative pathway supports their academic success. Remember to highlight support resources available during the transition, creating confidence in their ability to succeed."
+        },
+        {
+          "id": 2,
+          "title": "Academic Support Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451076863",
+              "segment_id": "199",
+              "timestamp": "11:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about academic standards and their ability to succeed: 'I'm a little bit worried because it says that Monash is in the top, whatever percent in the world. And so I'm worried coming from a different university, if, am I going to be able to do the work?' (call_595451076863, seg_199). This revealed both respect for the institution's reputation and personal concerns about academic readiness.",
+          "consultant_response": "The consultant provided reassurance while highlighting specific support mechanisms: 'Honestly, I think you'll be absolutely fine. And just, yeah, like I said, make most of that support available... the dedicated student coach who will be assigned to you will be to help you through all that process' (call_595451076863, seg_209). This response effectively balanced emotional support with practical guidance.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about academic preparedness, begin by validating the student's awareness of our academic standards while transforming their anxiety into confidence through clear support mechanisms. Start with empathetic acknowledgment: 'Your awareness of our academic reputation shows you're taking this seriously, which is exactly the right approach.' Then outline specific support structures: 'Let me show you how our support system helps ensure student success. You'll have access to dedicated academic coaches, study skill resources, and peer support networks.' Share concrete examples: 'Many of our current students initially shared similar concerns, but they've found our academic coaches invaluable for navigating university expectations.' When discussing transitions between institutions, emphasize our commitment to student success: 'We've designed our support services specifically to help students from diverse academic backgrounds excel in our programs.' Remember to maintain appropriate boundaries while demonstrating institutional support: 'While I can't predict individual academic performance, I can ensure you'll have comprehensive support resources available throughout your studies.'"
+        },
+        {
+          "id": 3,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659450576",
+              "segment_id": "14",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about geographical constraints: 'because I live in a different state I just wanted to confirm that there is no issue like if I do the honors program in a different state right?' (call_595659450576, seg_14). This revealed anxiety about location-based limitations and program accessibility.",
+          "consultant_response": "The consultant effectively addressed the concern by explaining: 'what you would be our Graduate Diploma of Psychology Advanced, which is your honours equivalent for online studies' (call_595659450576, seg_20). This response successfully clarified program accessibility while maintaining academic equivalency.",
+          "priority": "high",
+          "recommended_approach": "When addressing location-based concerns, start by demonstrating how our online delivery model eliminates geographical barriers while maintaining program quality. Begin with clear confirmation: 'Our program is specifically designed to support students across all locations, with identical academic quality regardless of where you study.' Then outline specific online features: 'You'll have full access to all course materials, live sessions, and support services through our online platform, which many students find actually enhances their learning flexibility.' Share practical examples: 'Students across Australia successfully complete this program, accessing lectures, submitting assignments, and engaging with peers entirely online.' When discussing academic equivalency, emphasize quality assurance: 'The online Graduate Diploma maintains the same rigorous standards as our on-campus program, ensuring your qualification holds equal value.' Remember to highlight unique benefits of online study: 'Many students find the ability to access materials at any time and engage with diverse peers across the country enriches their learning experience.'"
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566367964",
+              "segment_id": "17",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student articulated their career transition goals: 'I don't have an IT background, I kind of just fell into the role, but I want to kind of, I guess, get a degree that kind of solidifies my place in the market' (call_595566367964, seg_17). This revealed both their current situation and aspirations for professional development.",
+          "consultant_response": "The consultant provided minimal exploration: 'Look, we can potentially look into that for you. Have you done any degree before, any bachelor degrees or postgraduate education?' (call_595566367964, seg_19). This response missed the opportunity to connect program benefits with career goals.",
+          "priority": "high",
+          "recommended_approach": "When discussing career transitions, focus on how program elements support professional development while maintaining appropriate sales role boundaries. Begin by acknowledging their experience: 'Your practical experience provides valuable context for our program. Let me show you how our curriculum can help formalize your industry knowledge.' Then outline relevant program features: 'While I can't provide specific career advice, I can explain how our units develop both technical foundations and strategic management skills.' Share general examples: 'Many of our students use their coursework to explore current industry practices while building formal qualifications.' When discussing professional development, focus on educational outcomes: 'The program helps develop both theoretical understanding and practical skills, complementing your existing experience.' Always maintain appropriate boundaries while demonstrating program value: 'While career decisions are personal, I can show you how our curriculum aligns with industry standards and practices.'"
+        },
+        {
+          "id": 5,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555464316",
+              "segment_id": "21",
+              "timestamp": "2:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concerns about managing multiple commitments: 'So over the period of time, my ability to learn new things after every 6 months will be difficult for me with family responsibilities' (call_595555464316, seg_21). This revealed anxiety about balancing study with existing responsibilities.",
+          "consultant_response": "The consultant provided minimal acknowledgment: 'Of course' (call_595555464316, seg_23), missing the opportunity to demonstrate program flexibility and support mechanisms that could help the student succeed.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-life balance concerns, begin by validating their commitments while demonstrating how our program design supports successful integration of study. Start with empathetic acknowledgment: 'Many of our students successfully balance family responsibilities with study, and our program is specifically designed to support this balance.' Then explore specific features: 'Our flexible online platform lets you access materials and complete coursework when it best suits your schedule, whether that's early mornings or evenings.' Share practical examples: 'Students often download materials for offline study during convenient times, breaking their learning into manageable segments around family commitments.' When discussing workload, be realistic while highlighting support: 'While the program requires consistent engagement, our structured approach helps you plan ahead and adapt your study schedule as family needs change.' Remember to emphasize flexibility options: 'You can adjust your study load between terms to accommodate changing family responsibilities while maintaining steady progress.'"
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659423083",
+              "segment_id": "30",
+              "timestamp": "3:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought guidance on enrollment documentation: 'Have you sent your documentary to anyone yet?' (call_595659423083, seg_30). This indicated need for clear process navigation and understanding of requirements.",
+          "consultant_response": "The consultant's approach focused on basic procedural steps without providing comprehensive guidance on documentation pathways or alternatives, potentially leaving the student unclear about requirements and options.",
+          "priority": "high",
+          "recommended_approach": "When discussing documentation requirements, transform potential complexity into clear, manageable steps while maintaining appropriate support boundaries. Begin with a structured overview: 'Let me outline our documentation process and then we can identify the best pathway for your situation.' Provide clear requirements while noting alternatives: 'Typically, we need transcripts, identification, and relevant certifications, but we have alternative options if certain items aren't immediately available.' Use specific examples: 'For instance, if original transcripts are pending, we can often work with certified copies while awaiting originals.' Always connect requirements to enrollment progress: 'Having these documents ready will help ensure a smooth transition into your studies.' When handling complex cases, explain support resources: 'Our enrollment team can provide detailed guidance on documentation requirements specific to your situation.' Remember to maintain momentum: 'While we're gathering your documents, we can continue exploring program details and planning your study pathway.'"
+        }
+      ]
+    }
+  }
+}

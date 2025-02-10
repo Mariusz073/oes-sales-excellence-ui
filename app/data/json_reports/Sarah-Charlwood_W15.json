@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 225,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 60,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.666666666666668,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 165,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.33333333333333,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.935452688406016,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 165,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 217.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 148.06,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 199.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.04,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 149.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.75,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.43,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.92,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 145.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 176.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.65,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 155.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.36,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 206.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through concrete examples and clear action steps"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including healthcare workers, new parents, and career transitioners through specific adaptation strategies and real-world examples"
+      },
+      {
+        "headline": "Support System Integration",
+        "explanation": "Clear articulation of available support mechanisms with specific examples of how they enhance the student journey while maintaining appropriate pre-enrollment boundaries and demonstrating institutional commitment"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements specifically align with immediate career opportunities and professional advancement goals while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer connection needed between procedural requirements and student's broader educational journey with specific benefit explanations and tangible outcome examples"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education through collaborative planning of transition strategies and specific confidence-building examples"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and outline potential study schedules for different shift patterns."
+        },
+        {
+          "id": 2,
+          "title": "New Parent Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566272953",
+              "segment_id": "45",
+              "timestamp": "3:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I was wondering if I could start the one that's after that because I just had a baby' (call_595566272953, seg_45), revealing need for flexible study arrangements during significant life change.",
+          "consultant_response": "Consultant offered tailored solution: 'You could begin your studies with just one unit and that would be about 10 hours of study a week and it would just be a really gentle start' (call_595566272953, seg_46), effectively showing how program adapts to personal circumstances.",
+          "context_impact": "Critical moment requiring demonstration of program flexibility to accommodate major life transition while maintaining educational momentum.",
+          "recommended_approach": "Include more specific examples of how other new parents successfully manage study schedules around childcare routines and sleep patterns."
+        },
+        {
+          "id": 3,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739516935",
+              "segment_id": "3",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm a counsellor, so I've already done a Bachelor in Counselling, but I'm wanting to look into psychology, become a registered psychologist' (call_595739516935, seg_3), indicating clear career progression goals.",
+          "consultant_response": "Consultant explained: 'What we can do in terms of assessing your eligibility is we can look at your Bachelor as your means of entry into the course for one thing, but also we could consider any recognition of prior learning' (call_595739516935, seg_17), showing clear pathway to career goals.",
+          "context_impact": "Key opportunity to align educational pathways with specific career transition goals while validating existing qualifications.",
+          "recommended_approach": "Provide more specific examples of how program elements align with professional registration requirements while maintaining appropriate advisory boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565681655",
+              "segment_id": "22",
+              "timestamp": "22:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for years and am worried about getting back into an academic routine' (595565681655, seg_22), indicating need for transition support.",
+          "consultant_response": "Consultant gave generic reassurance: 'It's understandable to feel that way, but many mature age students succeed' (595565681655, seg_47)",
+          "context_impact": "Critical moment to address concerns about returning to study through collaborative planning of support strategies.",
+          "recommended_approach": "Create personalized study transition strategies by exploring student's current routines and skills, with specific examples of successful transitions from similar students."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554576095",
+              "segment_id": "34",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595565936046",
+                "segment_id": "20",
+                "timestamp": "01:13"
+              }
+            ]
+          },
+          "student_trigger": "Student seeking clarification: 'So the unit guide for the year that you studied that course, that's right?' (call_595554576095, seg_34), showing need for clear documentation guidance.",
+          "consultant_response": "Consultant provided purely procedural guidance without linking to student's goals or journey.",
+          "context_impact": "Opportunity to connect documentation requirements to broader educational journey and goals.",
+          "recommended_approach": "Connect documentation requirements to specific benefits like credit recognition and cost savings, using concrete examples from successful cases."
+        },
+        {
+          "id": 6,
+          "title": "Support Services Overview",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566272953",
+              "segment_id": "136",
+              "timestamp": "9:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595566272953",
+                "segment_id": "130",
+                "timestamp": "2:10"
+              }
+            ]
+          },
+          "student_trigger": "Student disclosed: 'Just Lexix' (call_595566272953, seg_130), indicating specific learning support requirements.",
+          "consultant_response": "Consultant detailed: 'We have student coaches who provide wellbeing support and resources to students, and then we have a dedicated accessibility and support team' (call_595566272953, seg_136).",
+          "context_impact": "Opportunity to demonstrate institutional commitment to student success through available support mechanisms.",
+          "recommended_approach": "Provide specific examples of support service benefits while maintaining appropriate pre-enrollment boundaries and clear post-enrollment expectations."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), multiple students shared specific availability constraints. A healthcare worker stated: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This was echoed in call 595732548084 (segment 163) where another student noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). The supporting consultant reinforced flexibility: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved from barriers to solutions while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern then immediately bridge to relevant examples that demonstrate our program's practical flexibility. The key is making our platform's features tangible through real-world healthcare scenarios. For example, when a nurse mentions rotating shifts, respond: 'I understand how challenging rotating rosters can be. Let me show you exactly how our program adapts to that. The platform lets you download all your weekly materials before your rotation starts. So if you're working three night shifts, you might download everything on Monday, use those quiet periods around 2-3am for focused reading, then complete your discussion posts during your recovery days.' This specific, healthcare-focused approach resonates more deeply than general statements about flexibility. Pay particular attention to proactively addressing night shifts and long rotations, always keeping examples grounded in the realities of healthcare work patterns."
+        },
+        {
+          "id": 2,
+          "title": "New Parent Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566272953",
+              "segment_id": "45",
+              "timestamp": "3:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in the enrollment journey, the student revealed significant personal circumstances affecting their study plans: 'I was wondering if I could start the one that's after that because I just had a baby' (call_595566272953, seg_45). This disclosure presented a vital opportunity to demonstrate program flexibility and support for students managing major life changes. The timing and context of this revelation made it especially important to show how the program could accommodate their new parental responsibilities while supporting their educational goals.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by immediately acknowledging the personal milestone and offering flexible solutions: 'Oh, oh my gosh, congratulations on baby. Yes, we do have the July intake. Otherwise, another option, you know, no pressure at all, but just so you know your options here as well, is that you could begin your studies with just one unit and that would be about 10 hours of study a week and it would just be a really gentle start' (call_595566272953, seg_46). This response effectively balanced celebration of the life event with practical academic planning, showing how the program could adapt to the student's new circumstances.",
+          "priority": "high",
+          "recommended_approach": "When engaging with new parents or students experiencing significant life changes, begin by acknowledging their circumstances and demonstrating genuine understanding of how these changes impact study decisions. Lead with congratulations and empathy: 'Congratulations on your new baby! It's wonderful to see you planning for your education during this exciting time.' Then, transition into exploring flexible study options that accommodate their new reality: 'Let's look at how we can create a study plan that works well with your new family commitments.' Present multiple pathways, such as reduced unit loads or deferred start dates, always emphasizing the program's ability to adapt to their needs. Share specific examples of how other parents have successfully managed their studies: 'Many new parents find success by downloading materials for offline study during feeding times or scheduling study blocks during nap times.' The key is transforming potential barriers into manageable solutions while maintaining sensitivity to their significant life adjustment."
+        },
+        {
+          "id": 3,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739516935",
+              "segment_id": "3",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student clearly articulated their career progression goals early in the conversation: 'I'm a counsellor, so I've already done a Bachelor in Counselling, but I'm wanting to look into psychology, become a registered psychologist' (call_595739516935, seg_3). This statement presented a prime opportunity to demonstrate how the program could support their professional transition while building on their existing qualifications. The specificity of their career goal made this an especially important moment for targeted pathway planning.",
+          "consultant_response": "The consultant effectively engaged in collaborative planning by immediately focusing on how to leverage the student's existing qualifications: 'What we can do in terms of assessing your eligibility is we can look at your Bachelor as your means of entry into the course for one thing, but also we could consider any recognition of prior learning' (call_595739516935, seg_17). This response demonstrated value for the student's prior education while opening discussions about efficient pathways to their desired qualification.",
+          "priority": "high",
+          "recommended_approach": "When discussing career transitions, especially in professional fields like psychology, focus first on validating the student's current qualifications and experience while maintaining appropriate boundaries. Begin with acknowledgment: 'Your counselling background provides an excellent foundation for this transition.' Then explore their specific career goals within educational parameters: 'Let's discuss how our program can support your journey toward psychology registration.' Present clear pathways that acknowledge their professional background while avoiding detailed career advice: 'The program structure builds on your counselling expertise while meeting psychology registration requirements. Here's how specific units align with your goals.' Use concrete examples: 'Many counsellors transitioning to psychology find that their existing skills in client interaction enhance their success in core psychology units.' The key is demonstrating program relevance while maintaining appropriate pre-enrollment advisory boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565681655",
+              "segment_id": "22",
+              "timestamp": "22:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a vulnerable moment (595565681655, seg_22), the student shared: 'I haven't studied for years and am worried about getting back into an academic routine.' This disclosure represented a critical opportunity to address concerns about returning to study through collaborative planning and support exploration.",
+          "consultant_response": "The consultant provided only generic reassurance: 'It's understandable to feel that way, but many mature age students succeed. We can help you too' (595565681655, seg_47). While sympathetic, this response missed the opportunity to engage in meaningful collaborative planning or explore specific support mechanisms that could ease the transition back to study.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study, begin by validating their experience while highlighting the value of their life skills: 'Your work experience provides valuable perspectives that can actually enhance your studies.' Then engage in collaborative exploration of specific concerns: 'Let's identify which aspects of returning to study feel most challenging, so we can look at how our support services address each one.' Share concrete examples of how other mature students have successfully transitioned: 'Many returning students find success by starting with one unit to establish their routine, then adjusting based on their comfort level.' Focus on building confidence through practical planning: 'We could look at how your current schedule might accommodate different study patterns, and explore which support services would be most helpful during your transition.' Remember to maintain appropriate boundaries while ensuring students understand the comprehensive support available post-enrollment."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554576095",
+              "segment_id": "34",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595565936046",
+                "segment_id": "20",
+                "timestamp": "01:13"
+              }
+            ]
+          },
+          "student_trigger": "The student sought clarification about documentation requirements: 'So the unit guide for the year that you studied that course, that's right?' (call_595554576095, seg_34). This query represented an opportunity to connect procedural requirements with the student's broader educational journey and goals. Similar documentation questions emerged across multiple calls, highlighting a common need for clearer context and purpose in documentation discussions.",
+          "consultant_response": "Consultants typically provided accurate but purely procedural responses, missing opportunities to connect documentation requirements to the student's goals and aspirations. This approach, while technically correct, failed to demonstrate how these requirements contribute to the student's educational journey or enhance their study experience.",
+          "priority": "high",
+          "recommended_approach": "When discussing documentation requirements, always frame them within the context of the student's educational journey and goals. Begin by acknowledging the procedural aspect while highlighting its purpose: 'Yes, we'll need your unit guide, and here's why this is valuable for your journey.' Connect each requirement to a specific benefit: 'This documentation helps us maximize your credit recognition, potentially reducing your study time and costs.' Use concrete examples from successful cases: 'For instance, a recent student's unit guide helped us identify three units of credit, saving them nearly $3,000 and one full term of study.' When students show confusion or resistance about documentation, acknowledge their concerns while reinforcing the benefits: 'I understand gathering these documents takes effort, but it's worth it because it could significantly reduce your study time and costs.' The key is transforming what could be perceived as bureaucratic requirements into valuable steps toward their educational goals."
+        },
+        {
+          "id": 6,
+          "title": "Support Services Overview",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566272953",
+              "segment_id": "136",
+              "timestamp": "9:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595566272953",
+                "segment_id": "130",
+                "timestamp": "2:10"
+              }
+            ]
+          },
+          "student_trigger": "The student disclosed specific learning requirements: 'Just Lexix' (call_595566272953, seg_130), presenting an opportunity to demonstrate the institution's commitment to supporting diverse learning needs. This type of disclosure appeared in multiple calls, highlighting the importance of effectively communicating available support services.",
+          "consultant_response": "The consultant provided a comprehensive overview of support resources: 'We have student coaches who provide wellbeing support and resources to students, and then we have a dedicated accessibility and support team' (call_595566272953, seg_136). This response effectively showcased the range of support available while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "When discussing support services, begin with a high-level overview while maintaining clear pre-enrollment boundaries. Start with validation: 'Thank you for sharing that information - we're committed to supporting diverse learning needs through our comprehensive support framework.' Then provide a structured overview: 'Our support services include dedicated accessibility teams, learning advisors, and student wellbeing specialists who work together to enhance your learning experience.' Use specific examples while maintaining boundaries: 'Once enrolled, many students work with our accessibility team to develop personalized study strategies. For instance, some students use specialized software for reading assistance, while others benefit from flexible assessment arrangements.' The key is creating confidence in available support while clearly indicating that detailed support planning occurs post-enrollment: 'After enrollment, our accessibility team will work with you to develop a personalized support plan tailored to your specific needs.'"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 15,
+    "university": "Monash",
+    "reporting_period": "02-03_02-07",
+    "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [
+            {
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 224.46,
+                "lower_bound": 107.02,
+                "green": 181.48
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 199.83,
+                "lower_bound": 91.28,
+                "green": 160.73
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 207.62,
+                "lower_bound": 115.25,
+                "green": 178.81
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 241.99,
+                "lower_bound": 88.46,
+                "green": 174.2
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "upper_bound": 212.73,
+                "lower_bound": 113.6,
+                "green": 157.75
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "upper_bound": 215.03,
+                "lower_bound": 71.16,
+                "green": 162.74
+            },
+            {
+                "title": "01-27_01-31\nweek 14",
+                "upper_bound": 222.83,
+                "lower_bound": 110.7,
+                "green": 155.43
+            },
+            {
+                "title": "02-03_02-07\nweek 15",
+                "upper_bound": 225.42,
+                "lower_bound": 99.11,
+                "green": 157.11
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 4059,
+        "consultant_results": [
+            {
+                "name": "Rochelle Khaddage",
+                "high_need_score": "225.4",
+                "all_score": "107.0",
+                "percentage_high_need": "16/206 (7.8%)",
+                "rank": 1
+            },
+            {
+                "name": "Sarah Charlwood",
+                "high_need_score": "207.0",
+                "all_score": "138.8",
+                "percentage_high_need": "17/225 (7.6%)",
+                "rank": 2
+            },
+            {
+                "name": "Robert Cecere",
+                "high_need_score": "193.1",
+                "all_score": "116.9",
+                "percentage_high_need": "17/289 (5.9%)",
+                "rank": 3
+            },
+            {
+                "name": "Alexandra Kepas",
+                "high_need_score": "175.4",
+                "all_score": "115.8",
+                "percentage_high_need": "13/241 (5.4%)",
+                "rank": 4
+            },
+            {
+                "name": "Jack Colleran",
+                "high_need_score": "172.3",
+                "all_score": "95.2",
+                "percentage_high_need": "14/217 (6.5%)",
+                "rank": 5
+            },
+            {
+                "name": "Jake Mckinnis",
+                "high_need_score": "171.1",
+                "all_score": "94.9",
+                "percentage_high_need": "12/295 (4.1%)",
+                "rank": 6
+            },
+            {
+                "name": "Yusuf Aly",
+                "high_need_score": "165.1",
+                "all_score": "158.3",
+                "percentage_high_need": "25/259 (9.7%)",
+                "rank": 7
+            },
+            {
+                "name": "Gabriel Almeida",
+                "high_need_score": "165.1",
+                "all_score": "141.4",
+                "percentage_high_need": "9/263 (3.4%)",
+                "rank": 8
+            },
+            {
+                "name": "Stephen Taylor",
+                "high_need_score": "162.6",
+                "all_score": "127.9",
+                "percentage_high_need": "19/276 (6.9%)",
+                "rank": 9
+            },
+            {
+                "name": "Nicholas Bowers",
+                "high_need_score": "156.8",
+                "all_score": "119.0",
+                "percentage_high_need": "18/235 (7.7%)",
+                "rank": 10
+            },
+            {
+                "name": "Valentina William",
+                "high_need_score": "151.6",
+                "all_score": "109.3",
+                "percentage_high_need": "9/248 (3.6%)",
+                "rank": 11
+            },
+            {
+                "name": "David Mccarthie",
+                "high_need_score": "134.9",
+                "all_score": "105.2",
+                "percentage_high_need": "19/210 (9.0%)",
+                "rank": 12
+            },
+            {
+                "name": "Bridgett Young",
+                "high_need_score": "128.3",
+                "all_score": "119.8",
+                "percentage_high_need": "18/339 (5.3%)",
+                "rank": 13
+            },
+            {
+                "name": "Sebastian Saunders",
+                "high_need_score": "109.0",
+                "all_score": "100.4",
+                "percentage_high_need": "18/224 (8.0%)",
+                "rank": 14
+            },
+            {
+                "name": "Michael Kiag",
+                "high_need_score": "108.2",
+                "all_score": "87.9",
+                "percentage_high_need": "22/300 (7.3%)",
+                "rank": 15
+            },
+            {
+                "name": "Shelton Frimpong",
+                "high_need_score": "99.1",
+                "all_score": "74.5",
+                "percentage_high_need": "7/232 (3.0%)",
+                "rank": 16
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "157.1",
+            "all_score": "113.2",
+            "percentage_high_need": "253/4059 (6.2%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": "Student trigger: Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility. | Context/impact: This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum. | Consultant response: Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility. | Improvement: Include more specific examples of successful study patterns from current healthcare students and highlight additional offline study features."
+                    },
+                    {
+                        "title": "Alternative Entry Pathway Planning",
+                        "content": "Student trigger: Student stated: 'So when I graduated I didn't get an ATAR, I had to go non-scored. Is that a problem with that course?' (call_595659404576, seg_21), revealing anxiety about entry requirements. | Context/impact: Critical moment to transform perceived barriers into achievable pathways while maintaining student confidence. | Consultant response: Consultant provided reassurance with options: 'So we have lots of options available for you for entry. So we can always find a different entry other than the ATAR' (call_595659404576, seg_22). | Improvement: Develop more comprehensive exploration of specific alternative pathway options aligned with student goals and timeline preferences."
+                    },
+                    {
+                        "title": "Professional Experience Integration",
+                        "content": "Student trigger: Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_595664355386, seg_156), showing anxiety about academic readiness. | Context/impact: Addressing study confidence was critical for maintaining enrollment momentum through validation of professional experience. | Consultant response: Consultant connected experience: 'Those project management skills you've developed are exactly what help our students succeed' (call_595664355386, seg_160), transforming perceived barrier into advantage. | Improvement: Provide more specific examples of how professional skills transfer to academic success through targeted success stories."
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": "Student trigger: Student expressed: 'I guess excited and nervous' (call_595450787390, seg_88), revealing mixed emotions about returning to study after extended break. | Context/impact: Critical moment to build confidence and demonstrate comprehensive support mechanisms for academic success. | Consultant response: Consultant's basic acknowledgment with 'No, that's pretty normal' missed opportunity to explore concerns and provide targeted support. | Improvement: Engage in deeper exploration of specific concerns and outline available support resources while maintaining clear pre-enrollment boundaries."
+                    },
+                    {
+                        "title": "Career Development Planning",
+                        "content": "Student trigger: Student stated: 'I want it to work with my employment' (call_595450905041, seg_11), indicating need for career-enhancing educational pathway. | Context/impact: Key opportunity to demonstrate program's direct impact on career advancement. | Consultant response: Consultant focused on scheduling logistics without exploring career enhancement opportunities or workplace applications. | Improvement: Discuss specific ways program content and structure contribute to immediate and long-term career advancement goals through concrete examples."
+                    },
+                    {
+                        "title": "Documentation Process Navigation",
+                        "content": "Student trigger: Student inquired: 'I was just wondering if there might have been an update in regards to how many credit points or something I would get in regards to my law thing' (call_595732280316, seg_38), seeking clarity on documentation progress. | Context/impact: Clear communication about credit transfer timelines significantly impacts student confidence and enrollment planning, requiring proactive updates and milestone tracking. | Consultant response: Consultant acknowledged: 'At the moment, I did receive your documents...we're in our peak enrollment period' (call_595732280316, seg_42), providing basic update without detailed timeline or next steps. | Improvement: Provide specific timeline estimates and interim milestones during peak enrollment periods with clear next steps and proactive communication plans."
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": {
+                            "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+                            "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+                            "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+                        }
+                    },
+                    {
+                        "title": "Alternative Entry Pathway Planning",
+                        "content": {
+                            "student_trigger": "During call 595659404576 (segment 21), the student revealed anxiety about entry requirements: 'So when I graduated I didn't get an ATAR, I had to go non-scored. Is that a problem with that course?' This disclosure highlighted both their interest in pursuing education and concern about potential barriers to entry. The moment demanded careful balance between maintaining engagement and providing practical alternatives.",
+                            "consultant_response": "The consultant demonstrated strong collaborative planning by immediately offering reassurance and alternatives: 'So we have lots of options available for you for entry. So we can always find a different entry other than the ATAR' (call_595659404576, seg_22). This was followed by specific pathway suggestions: 'What will be the best option for you would be to go and do a diploma' (seg_42). The approach effectively maintained student engagement by transforming a potential barrier into an opportunity for alternative pathway planning.",
+                            "recommended_approach": "When addressing entry requirement concerns, begin by acknowledging the student's educational aspirations while emphasizing our multiple pathway options. Start with immediate reassurance: 'Your academic journey can take many paths, and we'll find the one that best suits your situation.' Guide the conversation through available alternatives: 'Let's explore options like diploma pathways, work experience entry, or foundation programs.' Share success stories: 'Many of our current degree students started with similar circumstances and found our alternative entry paths provided excellent preparation.' Focus on transforming perceived barriers into stepping stones: 'A diploma pathway not only provides entry but can reduce your overall study time through credit recognition.' Always connect pathway discussions to the student's ultimate goals: 'While we're starting with an alternative entry path, let's look at how this aligns with your long-term educational aspirations.' The key is maintaining a solutions-focused dialogue that builds confidence while creating clear progression plans."
+                        }
+                    },
+                    {
+                        "title": "Professional Experience Integration",
+                        "content": {
+                            "student_trigger": "At a pivotal moment in the conversation (segment 156), the student revealed significant anxiety about returning to education, stating 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This disclosure represented both vulnerability and readiness to discuss concerns about academic preparedness after a long break from formal education. The context suggested that addressing these fears would be crucial for building confidence in their ability to succeed.",
+                            "consultant_response": "The consultant demonstrated exceptional skill in transforming the student's concern into confidence by responding: 'Those project management skills you've developed are exactly what help our students succeed' (segment 160). This approach effectively bridged the gap between professional experience and academic potential, helping the student recognize valuable transferable skills. The consultant's strategy of connecting workplace capabilities to academic success resonated strongly with the student, shifting the conversation from apprehension to capability.",
+                            "recommended_approach": "When addressing concerns from students returning to study after a significant break, begin by validating their apprehension while immediately highlighting the value of their life experience. The key insight is that professional experience often provides more relevant skills than recent academic history. Start by acknowledging their concern: 'It's natural to feel uncertain after time away from study, but your work experience has equipped you with valuable skills.' Then, help students identify specific transferable skills from their professional life. For instance, with project managers, highlight how their planning abilities translate to assignment management: 'Your experience coordinating projects has taught you time management and priority setting - exactly what successful students need.' When students share specific concerns about academic readiness, connect each worry to a relevant professional skill they've developed. This approach transforms perceived disadvantages into advantages, helping students recognize how their work experience can actually accelerate their academic success."
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": {
+                            "student_trigger": "During multiple calls, students expressed mixed emotions about returning to study after extended breaks. In call 595450787390 (segment 88), one student noted: 'I guess excited and nervous.' This revealed both enthusiasm and anxiety about re-entering the academic environment. Similar themes emerged in call 595554764260 where students discussed previous study challenges and confidence concerns.",
+                            "consultant_response": "Consultants often provided basic acknowledgment without deeper exploration. For example, responding with 'No, that's pretty normal' missed opportunities to validate specific concerns and demonstrate comprehensive support mechanisms. This surface-level engagement failed to build confidence or show how the program supports returning students.",
+                            "recommended_approach": "When students express mixed emotions about returning to study, begin by validating both their excitement and concerns. Start with empathetic acknowledgment: 'It's natural to feel both excited and nervous about returning to study - many successful students share similar feelings.' Then explore specific concerns: 'Could you tell me more about what's making you nervous? This helps us identify relevant support options.' Use their responses to highlight appropriate support mechanisms while maintaining pre-enrollment boundaries: 'While I can explain program structure now, once enrolled you'll have access to our comprehensive student support services, including study skills workshops and academic coaching.' Share examples of how other students have managed similar challenges: 'Many students returning to study find our flexible online platform and structured support system helps them build confidence gradually.' The goal is transforming anxiety into confidence through clear understanding of available resources while maintaining appropriate role boundaries."
+                        }
+                    },
+                    {
+                        "title": "Career Development Planning",
+                        "content": {
+                            "student_trigger": "The student emphasized career considerations, stating: 'I want it to work with my employment' (call_595450905041, segment 11). This moment presented a critical opportunity to demonstrate how the program could enhance their professional development while accommodating current work commitments. Similar career-focused concerns appeared across multiple calls, highlighting the importance of addressing both immediate compatibility and long-term career impact.",
+                            "consultant_response": "While consultants generally addressed scheduling flexibility, they often missed opportunities to explore how program elements could specifically enhance career trajectories and workplace capabilities. The focus remained primarily on logistical considerations rather than strategic career development benefits, limiting the program's perceived value for professional advancement.",
+                            "recommended_approach": "When students express career-focused concerns, begin by exploring their professional aspirations before discussing logistics. Open with targeted questions about their current role and desired career progression: 'Could you tell me more about your current position and where you'd like to see yourself professionally in the next few years?' Then connect specific program elements to their career goals: 'Our curriculum includes practical case studies drawn from real workplace scenarios, and many assignments can be tailored to address challenges you're facing in your current role.' Share concrete examples of how other working professionals have leveraged their studies: 'One of our recent graduates applied their learning about organizational behavior directly to their workplace, leading to a promotion within six months of completing the program.' When discussing flexibility, frame it in terms of career impact: 'The ability to study around your work schedule means you can immediately apply what you're learning to your current role, creating value for both your studies and your employer.' Throughout the conversation, maintain appropriate pre-enrollment boundaries while demonstrating how program features directly support professional growth and career advancement goals."
+                        }
+                    },
+                    {
+                        "title": "Documentation Process Navigation",
+                        "content": {
+                            "student_trigger": "The student sought clarity on credit assessment progress: 'I was just wondering if there might have been an update in regards to how many credit points or something I would get in regards to my law thing' (call_595732280316, seg_38). This inquiry revealed both engagement in the process and need for clear timeline expectations with specific milestones.",
+                            "consultant_response": "The consultant provided only basic acknowledgment without clear next steps: 'At the moment, I did receive your documents...we're in our peak enrollment period' (call_595732280316, seg_42). This limited response missed the opportunity to maintain engagement through detailed process planning and proactive communication strategies.",
+                            "recommended_approach": "When discussing documentation processes during peak periods, start by acknowledging the student's engagement while providing clear timeline expectations: 'I appreciate you following up on your credit assessment. During peak enrollment, this typically takes X weeks - let me walk you through the process.' Outline specific milestones: 'Your documents are currently in the initial review stage. Next, they'll go to our law faculty for detailed assessment, which usually takes 5-7 business days.' Create clear communication plans: 'I'll send you an email today confirming these timelines, and you can expect an update by [specific date]. If you haven't heard from us by then, please contact me directly.' Provide proactive updates: 'I'll also set a reminder to check your application status in 3 days and send you a progress update.' The key is maintaining engagement through transparent communication while providing clear pathways for support and follow-up, ensuring students feel confident in the process despite peak period delays."
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2024-12-13",
+        "report_id": "MONU-B-COLL-W7-2024",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

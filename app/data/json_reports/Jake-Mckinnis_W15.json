@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 295,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 75,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.423728813559322,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 220,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.57627118644068,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.815279358389176,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 220,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.71,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 140.67,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.53,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 148.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.26,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 171.09,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.89,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term career aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical, tailored solutions that address specific challenges"
+      },
+      {
+        "headline": "Process Navigation Support",
+        "explanation": "Clear and proactive guidance through administrative processes with effective demonstration of available support mechanisms while maintaining appropriate boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and immediate career advancement opportunities"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Clearer guidance required when transitioning students to support services with specific preparation steps and realistic expectations about pre-enrollment versus post-enrollment assistance"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by another healthcare worker noting: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students working various shift patterns."
+        },
+        {
+          "id": 2,
+          "title": "Career Opportunity Alignment",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554860692",
+              "segment_id": "35",
+              "timestamp": "04:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Sorry, there's a job available at our kindergarten, and they have a shortage of teachers, so they ask me to enroll, because if I am enrolled in that, they can appoint me as the teacher' (call_595554860692, seg_35), indicating urgent need to align enrollment with immediate career opportunity.",
+          "consultant_response": "Consultant focused on process details: 'So the preferred enrollment process is doing it with a course consultant' (call_595554860692, seg_36), missing opportunity to explore career transition support.",
+          "context_impact": "Critical moment requiring demonstration of how course enrollment directly supports career advancement while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Connect program elements directly to job requirements while maintaining appropriate career guidance boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739328574",
+              "segment_id": "19",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739328574",
+                "segment_id": "20",
+                "timestamp": "03:30"
+              }
+            ]
+          },
+          "student_trigger": "Student revealed: 'I did those in, I think, 2018' (call_595739328574, seg_19), indicating significant gap requiring transition support.",
+          "consultant_response": "Consultant responded minimally with 'Okay, perfect' (call_595739328574, seg_20), missing opportunity to explore transition needs and support options.",
+          "context_impact": "Critical opportunity to build confidence and demonstrate comprehensive support for returning students.",
+          "recommended_approach": "Develop detailed transition plan addressing academic skills refresh, technology updates, and available support services."
+        },
+        {
+          "id": 4,
+          "title": "Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554730154",
+              "segment_id": "109",
+              "timestamp": "14:56"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Let's do three' (call_595554730154, seg_109), making critical decision about study load commitment.",
+          "consultant_response": "Consultant provided clarity: 'So that's about 30 hours worth of study. One of the three units that we recommend you start with is called Learning Communicated for Innovative Business Practices' (call_595554730154, seg_110), effectively quantifying commitment.",
+          "context_impact": "This decision point required strategic guidance to ensure workload alignment with student capacity and success potential.",
+          "recommended_approach": "Include more detailed examples of how other students successfully manage similar study loads alongside their commitments."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732340847",
+              "segment_id": "43",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739403319",
+                "segment_id": "38",
+                "timestamp": "07:48"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'Is there anything else that I should do or should have that might help?' (call_595732340847, seg_43), seeking comprehensive understanding of available support resources.",
+          "consultant_response": "Consultant focused on entry requirements without exploring broader support ecosystem or creating clear expectations about available assistance.",
+          "context_impact": "Key moment to demonstrate comprehensive support available throughout student journey while maintaining clear pre-enrollment boundaries.",
+          "recommended_approach": "Outline relevant support services and their role in ensuring student success while maintaining appropriate boundaries between pre-enrollment guidance and post-enrollment support."
+        },
+        {
+          "id": 6,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732340847",
+              "segment_id": "43",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739403319",
+                "segment_id": "98",
+                "timestamp": "12:43"
+              }
+            ]
+          },
+          "student_trigger": "Student inquired: 'Is there anything else that I should do or should have that might help?' (call_595732340847, seg_43), seeking specific guidance on educational pathway requirements and preparation steps.",
+          "consultant_response": "Consultant provided structured guidance: 'Your advanced diploma is what we'll recognize for entry because that's the highest form of education you've completed' (call_595732340847, seg_44), effectively validating current qualifications while outlining clear next steps.",
+          "context_impact": "Critical opportunity to demonstrate clear pathways while maintaining realistic expectations and enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful pathway progression while maintaining enrollment focus and appropriate boundaries around detailed program planning."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern then immediately bridge to relevant examples that demonstrate our program's practical flexibility. Begin with acknowledgment: 'I understand rotating shifts create unique challenges for study planning.' Then share concrete examples from successful students: 'Many of our nursing students download materials before night shifts, study during quiet periods, and submit work between rotations.' The key is making flexibility tangible through healthcare-specific scenarios. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform their irregular schedule from a perceived barrier into a workable study pattern that aligns with their professional responsibilities."
+        },
+        {
+          "id": 2,
+          "title": "Career Opportunity Alignment",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554860692",
+              "segment_id": "35",
+              "timestamp": "04:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed an immediate career opportunity: 'Sorry, there's a job available at our kindergarten, and they have a shortage of teachers, so they ask me to enroll, because if I am enrolled in that, they can appoint me as the teacher' (call_595554860692, seg_35). This disclosure presented a critical moment to demonstrate how program enrollment could directly support their career progression while maintaining appropriate guidance boundaries.",
+          "consultant_response": "The consultant's response focused primarily on process details: 'So the preferred enrollment process is doing it with a course consultant' (call_595554860692, seg_36). This approach missed the opportunity to explore how the program could facilitate their transition into a teaching role while maintaining appropriate career guidance boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students present immediate career opportunities connected to enrollment, begin by validating the significance of this career milestone while maintaining appropriate boundaries: 'This sounds like an exciting opportunity - let's explore how our program can support your teaching aspirations.' Then focus on relevant program features without overstepping into detailed career guidance: 'Our education program is designed to support aspiring teachers. Could you share what specific qualifications the kindergarten is looking for?' This allows for targeted discussion of program elements that match their needs. When discussing timeline alignment, stay focused on enrollment-related aspects: 'Let's look at how our enrollment dates align with your potential start date at the kindergarten.' Remember to maintain appropriate boundaries by referring specific career planning questions to post-enrollment support services while keeping the immediate discussion focused on program alignment and enrollment benefits."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595739328574",
+              "segment_id": "19",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739328574",
+                "segment_id": "20",
+                "timestamp": "03:30"
+              }
+            ]
+          },
+          "student_trigger": "The student indicated a significant gap in their studies: 'I did those in, I think, 2018' (call_595739328574, seg_19). This disclosure presented a critical opportunity to address potential concerns about returning to study after an extended break and build confidence in their ability to succeed through comprehensive support planning.",
+          "consultant_response": "The consultant's brief response of 'Okay, perfect' (call_595739328574, seg_20) failed to explore the implications of returning to study or address potential concerns about re-engaging with academic work after a break, missing an opportunity to provide comprehensive transition support and build confidence through specific examples and resources.",
+          "priority": "high",
+          "recommended_approach": "When students disclose a break in their studies, immediately transform this into an opportunity to build confidence while addressing transition concerns. Start by validating their decision to return: 'Thank you for sharing that - returning to study shows great commitment to your professional development.' Then explore their growth since last studying: 'What valuable experiences have you gained since 2018 that you're excited to bring to your studies?' Share specific examples of how returning students succeed: 'Many students find their work experience adds valuable perspective to their academic work.' While maintaining appropriate boundaries, outline available support services: 'Our Learning Support team offers refresher workshops on academic writing and research skills, and our online orientation helps you navigate current learning technologies.' Pay particular attention to technology changes since their last study period: 'Our platform has evolved to be more intuitive, with features like mobile access and offline study options.' The key is demonstrating how their life experience enriches their academic journey while ensuring they feel fully supported in their transition."
+        },
+        {
+          "id": 4,
+          "title": "Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595554730154",
+              "segment_id": "109",
+              "timestamp": "14:56"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student made a clear decision about their study commitment: 'Let's do three' (call_595554730154, seg_109). This moment represented a critical opportunity to ensure the student understood workload implications while maintaining their enthusiasm and setting them up for success.",
+          "consultant_response": "The consultant provided clear guidance by stating: 'So that's about 30 hours worth of study. One of the three units that we recommend you start with is called Learning Communicated for Innovative Business Practices' (call_595554730154, seg_110). This response effectively quantified the time commitment while suggesting strategic unit selection to support student success.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load decisions, start by acknowledging the student's ambition while ensuring they understand practical implications. Begin with validation: 'It's great that you're ready to commit to three units - let's ensure this aligns well with your schedule.' Then provide specific time requirements: 'Three units typically involves about 30 hours of study per week, including online lessons, readings, and assignments.' Share strategic unit recommendations: 'Starting with our academic skills unit provides essential foundations while contributing to your degree progress.' While maintaining appropriate boundaries, explore their support systems: 'Many successful students schedule regular study blocks and use our learning resources to stay on track.' Remember to balance encouragement with realistic expectations while maintaining appropriate pre-enrollment consultation boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732340847",
+              "segment_id": "43",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739403319",
+                "segment_id": "38",
+                "timestamp": "07:48"
+              }
+            ]
+          },
+          "student_trigger": "The student asked: 'Is there anything else that I should do or should have that might help?' (call_595732340847, seg_43). This query represented an opportunity to outline available support services while maintaining appropriate pre-enrollment boundaries and creating realistic expectations about assistance timing.",
+          "consultant_response": "The consultant focused primarily on entry requirements without exploring the broader support ecosystem available to students or creating clear expectations about pre-enrollment versus post-enrollment assistance.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in support services, begin by acknowledging their proactive approach while setting appropriate expectations: 'It's great that you're thinking about support resources - this kind of planning often leads to better outcomes. Let me explain what support is available now and after enrollment.' Then outline the support framework with clear timing boundaries: 'Right now, I can help you understand program requirements and enrollment processes. Once enrolled, you'll have access to our comprehensive support network.' Present specific examples relevant to their situation while maintaining appropriate scope: 'For instance, our online learning advisers can help develop study strategies that work around your schedule, while our technical support ensures reliable access to materials.' For students expressing specific concerns, connect these to relevant services while clarifying availability timing: 'Given your interest in managing work and study, you'll have access to student success teams who specialize in helping students balance these commitments. They become available immediately after enrollment and stay with you throughout your journey.' Remember to position support services as part of the program's value proposition while maintaining clear boundaries about when these services become available."
+        },
+        {
+          "id": 6,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732340847",
+              "segment_id": "43",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739403319",
+                "segment_id": "98",
+                "timestamp": "12:43"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed interest in understanding pathway options, asking: 'Is there anything else that I should do or should have that might help?' (call_595732340847, seg_43). This question revealed a desire for clear guidance on educational progression while seeking validation of their current qualifications.",
+          "consultant_response": "The consultant provided structured guidance while validating existing qualifications: 'Your advanced diploma is what we'll recognize for entry because that's the highest form of education you've completed' (call_595732340847, seg_44). This response effectively balanced recognition of achievements with clear pathway guidance.",
+          "priority": "high",
+          "recommended_approach": "When discussing educational pathways, begin by acknowledging the student's current achievements and future aspirations while maintaining appropriate scope: 'Your advanced diploma provides a strong foundation - let's explore how this program can help you achieve your teaching goals.' Guide the conversation through specific milestones while maintaining enrollment focus: 'The pathway from your current qualification involves several key steps we can discuss, starting with the enrollment process and moving through your first teaching period.' While detailed unit selection happens after enrollment, explain how their background aligns with program requirements and what to expect in their first few weeks. Use examples of successful progression while maintaining realistic expectations: 'Many students with similar qualifications have successfully transitioned into teaching through this pathway.' Remember to balance encouragement with realistic expectations while maintaining appropriate boundaries: 'Your experience demonstrates strong capability - let's focus on the specific steps needed to begin your teaching qualification.' The goal is to create clear, achievable pathways while maintaining momentum toward enrollment."
+        }
+      ]
+    }
+  }
+}

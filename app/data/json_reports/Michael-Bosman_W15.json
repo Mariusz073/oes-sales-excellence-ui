@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 257,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 38,
+    "team_average_absolute_number": 41.63636363636363
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.785992217898833,
+    "team_average_percentage": 19.17030645264239
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 219,
+    "team_average_absolute_number": 180.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.21400778210116,
+    "team_average_percentage": 80.8296935473576
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.273302821454465,
+    "team_average": 52.278749524011396
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 219,
+    "team_total_excluded_transcripts": 1985
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 118.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.65,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 117.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.25,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 132.35,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.1,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term career and academic aspirations while maintaining momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through comprehensive scheduling adaptability and support mechanisms"
+      },
+      {
+        "headline": "Experience-Based Planning",
+        "explanation": "Clear validation of professional experience while building confidence in program alignment and demonstrating tangible career advancement pathways"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Research-Based Planning",
+        "explanation": "More comprehensive engagement required when students express initial research efforts to build effectively on existing knowledge and address specific interests"
+      },
+      {
+        "headline": "Support Need Planning",
+        "explanation": "Deeper exploration required of specific support mechanisms when students disclose health or learning considerations while maintaining pre-enrollment boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Development Alignment",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555449904",
+              "segment_id": "26",
+              "timestamp": "2:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm a statistician and an analyst at the State Electricity Commission and we are building a bit of a team...but it was the managerial side and the kind of business analytics side that I don't have so much experience in' (595555449904, seg_26), revealing opportunity for career advancement alignment.",
+          "consultant_response": "Consultant effectively connected background to benefits: 'given that you do have that statistics background and now working in that analyst role...it could be a formalization of some things you do know whilst also providing insights into new avenues' (595555449904, seg_49).",
+          "context_impact": "Clear demonstration needed of how program bridges technical expertise with management capabilities while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how program content builds management capabilities while leveraging existing technical expertise."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24).",
+          "context_impact": "Required clear demonstration of how program design specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and how they utilize program flexibility features."
+        },
+        {
+          "id": 3,
+          "title": "IT Career Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451032217",
+              "segment_id": "17",
+              "timestamp": "2:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I am currently working for IT sector having nearly 15 years of experience' (595451032217, seg_17), offering opportunity to align program with career progression.",
+          "consultant_response": "Consultant moved directly to entry requirements without leveraging student's extensive professional background for personalization.",
+          "context_impact": "Missed opportunity to demonstrate program value through specific IT career advancement potential.",
+          "recommended_approach": "Connect program benefits directly to IT career advancement opportunities based on student's significant experience and industry-specific progression paths."
+        },
+        {
+          "id": 4,
+          "title": "Health Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566446727",
+              "segment_id": "76",
+              "timestamp": "4:19"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'I have a compromised immune system, but it's not declared as a disability at this stage' (595566446727, seg_76), indicating need for support discussion.",
+          "consultant_response": "Consultant acknowledged need: 'I'll note it down anyway, and if it does interfere with your studies, please get in touch with us because we do have disability support options' (595566446727, seg_78).",
+          "context_impact": "Critical opportunity to demonstrate comprehensive support mechanisms while maintaining enrollment momentum.",
+          "recommended_approach": "Provide more specific examples of available support mechanisms and how they've helped similar students succeed while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Research Follow-Up",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659339474",
+              "segment_id": "24",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Yeah, I've had a look online a bit at it. Yeah, I've looked back and forth' (595659339474, seg_24), indicating preliminary research effort.",
+          "consultant_response": "Consultant moved to qualification checking without exploring student's existing research insights or questions.",
+          "context_impact": "Opportunity missed to build on student's existing research and identify specific areas needing clarification.",
+          "recommended_approach": "Probe student's research findings to identify specific interests and concerns needing clarification while maintaining enrollment momentum."
+        },
+        {
+          "id": 6,
+          "title": "Support Needs Recognition",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820957099",
+              "segment_id": "83",
+              "timestamp": "06:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'I mean, I do have ADHD. I don't know whether that count factors in, but yeah, that's the only one.' (595820957099, seg_83), seeking clarity on support availability.",
+          "consultant_response": "Consultant provided general reassurance without specific support details or examples.",
+          "context_impact": "Key moment to demonstrate understanding and available support mechanisms while maintaining pre-enrollment boundaries.",
+          "recommended_approach": "Provide overview of specific support services and success stories while maintaining appropriate pre-enrollment boundaries and ensuring clear post-enrollment pathways."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Development Alignment",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555449904",
+              "segment_id": "26",
+              "timestamp": "2:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed both their current position and career aspirations: 'I'm a statistician and an analyst at the State Electricity Commission and we are building a bit of a team...but it was the managerial side and the kind of business analytics side that I don't have so much experience in' (595555449904, seg_26). This detailed disclosure presented an ideal opportunity to demonstrate how the program could bridge their identified skill gaps while supporting career progression.",
+          "consultant_response": "The consultant effectively connected the student's background to program benefits: 'given that you do have that statistics background and now working in that analyst role...it could be a formalization of some things you do know whilst also providing insights into new avenues' (595555449904, seg_49). This response successfully acknowledged existing expertise while highlighting growth opportunities.",
+          "priority": "high",
+          "recommended_approach": "When students reveal specific career contexts and skill gaps, begin by acknowledging their current expertise while identifying clear development pathways. Start with validation: 'Your strong background in statistics provides an excellent foundation for advancing into management analytics.' Then explore specific growth areas: 'Which aspects of business analytics would be most valuable in your team leadership role?' Use their responses to highlight relevant program components, always connecting back to their career context. For example: 'Our advanced analytics modules focus on translating technical insights into strategic business decisions, which aligns perfectly with your transition into team leadership.' Pay particular attention to students moving from technical to management roles, showing how the program bridges this transition. When discussing course content, emphasize both the practical applications and the strategic thinking aspects, showing how the program builds upon technical expertise to develop management capabilities. The goal is to transform identified skill gaps into clear development opportunities while maintaining appropriate career guidance boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week.'",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, showing real-world flexibility. In the supporting call, the consultant built on this theme with additional specific examples of how current students manage their studies around shift work.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience while maintaining momentum toward enrollment."
+        },
+        {
+          "id": 3,
+          "title": "IT Career Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451032217",
+              "segment_id": "17",
+              "timestamp": "2:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 17, the student volunteered significant professional context: 'I am currently working for IT sector having nearly 15 years of experience.' This disclosure represented a prime opportunity for collaborative planning, as it provided rich context about the student's career background and potential motivations for further education.",
+          "consultant_response": "The consultant missed an opportunity to leverage this valuable professional context, instead focusing primarily on entry requirements without exploring how the program could enhance the student's established career. This approach failed to create a meaningful connection between the student's extensive IT experience and the program's potential career benefits.",
+          "priority": "high",
+          "recommended_approach": "When students share significant professional experience, immediately acknowledge and build upon this information to create a personalized educational pathway. Start by validating their experience: 'Fifteen years in IT gives you valuable industry insight. I'm curious about which aspects of your current role you're looking to enhance through further education.' Use their background to highlight relevant program features - if they mention specific technologies or sectors, connect these directly to course content. For instance: 'Many of our IT professionals with similar experience find our advanced modules particularly valuable for senior technical or management roles.' Pay special attention to career advancement opportunities, discussing how specific units can fill knowledge gaps or provide new specializations that align with their industry's direction. When exploring program options, frame them within the context of career progression, showing how each pathway could enhance their professional trajectory. This approach transforms the discussion from a general program overview into a personalized career development strategy while maintaining appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Health Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566446727",
+              "segment_id": "76",
+              "timestamp": "4:19"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed personal health information during the enrollment discussion: 'I have a compromised immune system, but it's not declared as a disability at this stage' (595566446727, seg_76). This disclosure represented a critical moment requiring sensitive handling and clear communication about support services.",
+          "consultant_response": "The consultant responded with basic acknowledgment: 'I'll note it down anyway, and if it does interfere with your studies, please get in touch with us because we do have disability support options' (595566446727, seg_78). While supportive, this response missed the opportunity to provide specific examples of available support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "When students disclose health conditions that may impact their studies, create a supportive environment while providing clear pathways for assistance. Begin by thanking them for sharing this information and validating their concerns about managing studies alongside health considerations. For example: 'Thank you for letting me know about your health situation. We have extensive experience supporting students with various health conditions.' Then outline specific support mechanisms available: 'Our disability support services can provide flexible assessment arrangements and additional study support if needed.' Always emphasize the proactive nature of support planning, explaining how students can access assistance before challenges arise. For instance: 'Many students find it helpful to connect with our support team early to discuss potential adjustments that might be needed.' While maintaining appropriate pre-enrollment boundaries, ensure students understand both the comprehensive support available and the clear process for accessing it when needed. The goal is to build confidence in their ability to succeed while keeping the focus on enrollment progression."
+        },
+        {
+          "id": 5,
+          "title": "Research Follow-Up",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659339474",
+              "segment_id": "24",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student indicated preliminary research efforts, stating: 'Yeah, I've had a look online a bit at it. Yeah, I've looked back and forth' (595659339474, seg_24). This admission of independent research represented an opportunity to explore the student's initial findings and interests, potentially uncovering specific areas needing clarification.",
+          "consultant_response": "Rather than exploring the student's research findings or specific interests, the consultant moved directly to qualification checking. This response missed the opportunity to build on the student's existing knowledge and failed to address any questions or concerns that may have arisen during their independent research.",
+          "priority": "medium",
+          "recommended_approach": "When students mention prior research, use this as a springboard for deeper program exploration. Begin by acknowledging their initiative: 'It's great that you've been looking into the program. What aspects particularly caught your interest?' Then probe specific areas they've explored: 'Did you have any questions about what you found online?' Guide the conversation based on their research focus - if they mention specific program features, expand on these with detailed examples. If they express uncertainty about particular aspects, provide clarification and context. For instance, if they've researched course structure, elaborate on how different units build upon each other: 'I notice you've looked at our course structure. Let me show you how our first semester units create a foundation for more advanced topics.' Always maintain a balance between addressing their current knowledge and introducing new, relevant information that enhances their understanding. The goal is to transform their initial research into a deeper, more personalized exploration of how the program aligns with their goals while maintaining momentum toward enrollment."
+        },
+        {
+          "id": 6,
+          "title": "Support Needs Recognition",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820957099",
+              "segment_id": "83",
+              "timestamp": "06:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed specific learning considerations: 'I mean, I do have ADHD. I don't know whether that count factors in, but yeah, that's the only one.' (595820957099, seg_83). This disclosure demonstrated trust and vulnerability while seeking clarity about available support mechanisms.",
+          "consultant_response": "The consultant provided a supportive but general response without outlining specific support services or mechanisms available. This missed the opportunity to demonstrate comprehensive understanding of learning support needs while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students disclose learning considerations, begin by validating their openness and explaining available support structures while maintaining pre-enrollment boundaries. Start with acknowledgment: 'Thank you for sharing this information - it helps us ensure you have access to the right support from day one.' Then outline available services: 'Our learning support team works with many students with ADHD to develop personalized study strategies and accommodations.' Provide specific examples while maintaining appropriate boundaries: 'This might include flexible assessment arrangements or additional time management support, depending on your needs.' While avoiding detailed support planning pre-enrollment, emphasize the comprehensive nature of available assistance: 'Once enrolled, you'll have access to dedicated advisors who can help you access these services whenever you need them.' Share relevant success stories: 'Many students with similar learning styles have found our flexible learning platform particularly helpful for maintaining focus and managing study effectively.' Remember to document the disclosure appropriately while maintaining confidentiality, ensuring relevant support teams can proactively engage post-enrollment while keeping current focus on enrollment progression."
+        }
+      ]
+    }
+  }
+}

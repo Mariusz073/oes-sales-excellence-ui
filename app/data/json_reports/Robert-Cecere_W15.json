@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "consultant_name": "Robert Cecere",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 289,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 78,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.989619377162633,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 211,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.01038062283737,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.87582141529146,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 211,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 187.01,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.99,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 173.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.27,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 241.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 142.91,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 150.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 123.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 205.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 162.37,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 222.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.24,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 193.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.92,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical solutions and clear support mechanisms"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through specific examples and targeted solutions that directly address individual needs"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Effective guidance through available support mechanisms while maintaining appropriate boundaries and creating clear action plans with specific post-enrollment resources"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific career transitions while maintaining appropriate guidance boundaries and focusing on educational pathways"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and cost-effective solutions that address financial concerns"
+      },
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "Deeper collaborative exploration needed of specific strategies for managing study alongside work commitments with tangible examples from successful students"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), followed by 'The beauty of our platform is you can switch between online and offline study' (call_595732548084, seg_164).",
+          "context_impact": "These moments required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students, particularly addressing night shifts and rotating rosters."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "87",
+              "timestamp": "08:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm waiting for the application for the occupational therapies and whether that's going to go through' (call_595732493616, seg_82), revealing uncertainty about managing multiple application processes.",
+          "consultant_response": "Consultant outlined clear pathway: 'With how we've got everything set up for you now, you basically got an offer secured...if you get an offer from the OT course...you would just withdraw before April 4th without any penalty' (call_595732493616, seg_87).",
+          "context_impact": "Required clear demonstration of how enrollment flexibility could accommodate multiple application outcomes while maintaining momentum and protecting student interests.",
+          "recommended_approach": "Provide more examples of successful transitions between programs with specific timelines and withdrawal policies."
+        },
+        {
+          "id": 3,
+          "title": "Financial Planning Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731882184",
+              "segment_id": "230",
+              "timestamp": "07:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'And with the HECS and everything like that, so that is per unit, the way that is processed, isn't it?' (call_595731882184, seg_230), revealing need for clarity on financial commitments.",
+          "consultant_response": "Consultant provided clear guidance: 'That's right, yeah. So you'll set your HECS up as part of your post-enrollment tasks on the student portal when you first log in' (call_595731882184, seg_235), connecting process to specific actions.",
+          "context_impact": "Clear understanding of HECS-HELP processes crucial for enrollment confidence and long-term planning decisions.",
+          "recommended_approach": "Expand discussion of financial planning options and available support resources, including step-by-step HECS-HELP setup guidance."
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565704815",
+              "segment_id": "66",
+              "timestamp": "06:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'but now I'm thinking like, I'd rather work with the bigger kids than the younger ones. So I feel like primary teaching will be the best' (call_595565704815, seg_66), revealing significant career direction shift.",
+          "consultant_response": "Consultant focused on process: 'we'll need to assess that diploma...likely that you'll need to do some pathway course' (call_595565704815, seg_69), missing opportunity to explore transition goals.",
+          "context_impact": "Career transition moment requiring exploration of motivations while maintaining appropriate educational guidance boundaries.",
+          "recommended_approach": "Better balance needed between acknowledging career aspirations and providing appropriate educational guidance while maintaining role boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566426629",
+              "segment_id": "21",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I don't want to spend three hundred dollars for no reason when English is there' (call_595566426629, seg_21), revealing frustration with documentation costs and requirements.",
+          "consultant_response": "Consultant provided basic acknowledgment without exploring alternatives or explaining requirements comprehensively, missing opportunity to address cost concerns.",
+          "context_impact": "Financial concerns about documentation requirements creating significant barrier to enrollment, requiring clear explanation and alternatives.",
+          "recommended_approach": "Develop more detailed exploration of documentation options and available support resources, including cost-effective alternatives and requirement rationales."
+        },
+        {
+          "id": 6,
+          "title": "Credit Transfer Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820654112",
+              "segment_id": "58",
+              "timestamp": "4:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've got three left' (call_595820654112, seg_58), indicating proximity to degree completion and need for comprehensive credit transfer guidance.",
+          "consultant_response": "Consultant replied: 'Okay, yeah, you may very well be exceeding maximum, just let me check' (call_595820654112, seg_60), missing opportunity for detailed completion planning.",
+          "context_impact": "Crucial moment to demonstrate clear pathways for completing remaining units while maximizing credit opportunities.",
+          "recommended_approach": "Provide comprehensive exploration of credit transfer options and completion pathways, including specific scenarios and timelines."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. For instance, explain: 'Many of our nursing students download materials before their night rotation starts. They use those quiet periods around 2-3am for focused reading, then complete discussion posts during recovery days.' The key is making flexibility tangible rather than theoretical. Explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt: 'Some students concentrate their study during their days off, while others prefer shorter daily sessions between shifts.' Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "87",
+              "timestamp": "08:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The pivotal moment occurred when the student expressed uncertainty about their application status: 'I'm waiting for the application for the occupational therapies and whether that's going to go through' (call_595732493616, segment 82). This revealed their need for flexibility and clarity around enrollment options, particularly regarding how to manage multiple application processes simultaneously. The student's statement indicated both program interest and desire to maintain options for their preferred pathway.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by outlining a clear, flexible pathway: 'With how we've got everything set up for you now, you basically got an offer secured. So if there's a chance you will be starting in March, I recommend enrolling. That way you've got everything organized, you can fill in your Help Learn forms, CSP forms, all those fun things. And then worst case scenario, you get an offer from the OT course that you want...then you would just withdraw before April 4th without any penalty or fees being due' (segment 87). This response effectively addressed the student's concerns by providing a risk-free way to proceed while keeping options open.",
+          "priority": "high",
+          "recommended_approach": "When addressing enrollment flexibility concerns, begin by acknowledging the student's need to keep options open while providing clear, actionable pathways forward. Start with validation: 'It's completely understandable to want to secure your education while waiting for other opportunities.' Then outline specific options using actual dates and deadlines: 'If you enroll now, you can complete all your setup tasks and be ready to start. If you receive another offer before April 4th, you can withdraw without any financial penalty.' Make flexibility tangible by sharing real examples: 'Many students secure their place with us while waiting for other applications. Last intake, we had a student who enrolled in our program while waiting for their physiotherapy application. When they got accepted, they simply withdrew before the census date - no penalties, no fees.' For students applying to multiple programs, ensure they understand withdrawal policies and dates: 'Let me show you exactly where to find the census dates and withdrawal procedures in your offer letter.' The goal is to transform uncertainty into a clear action plan while maintaining the student's autonomy in their final decision."
+        },
+        {
+          "id": 3,
+          "title": "Financial Planning Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731882184",
+              "segment_id": "230",
+              "timestamp": "07:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's question about HECS processing ('And with the HECS and everything like that, so that is per unit, the way that is processed, isn't it?') in call 595731882184 revealed a critical need for clarity regarding financial commitments. This moment represented an opportunity to address potential concerns about managing educational costs and ensure the student felt confident about their financial obligations. Understanding payment structures is often a key factor in enrollment decisions.",
+          "consultant_response": "The consultant provided a direct and reassuring response: 'That's right, yeah. So you'll set your HECS up as part of your post-enrollment tasks on the student portal when you first log in.' This clear explanation demonstrated effective collaborative planning by breaking down the process into manageable steps and connecting it to specific actions the student would take. The approach successfully addressed the immediate concern while also providing a practical roadmap for managing HECS arrangements.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial queries, begin by acknowledging the importance of financial clarity and demonstrating expertise in HECS-HELP arrangements. Start with confirming the basic structure: 'Yes, HECS-HELP is processed per unit, giving you flexibility in managing your study load and costs. For example, if you enroll in two units, your HECS-HELP will only be activated for those specific units.' Then, provide specific details about the process: 'Once enrolled, you'll receive an email with your student portal login. The first thing you'll see is your post-enrollment checklist, which includes your HECS-HELP setup. I'll walk you through exactly where to find this.' Always connect financial information to practical actions: 'When you log in, you'll see a clear step-by-step guide. First, you'll confirm your citizenship details, then your TFN information, and finally select HECS-HELP as your payment option. Our student support team is available if you need any help during this process.' This approach ensures students feel supported while maintaining their confidence in managing the financial aspects of their studies."
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Guidance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565704815",
+              "segment_id": "66",
+              "timestamp": "06:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student revealed a significant career direction shift: 'but now I'm thinking like, I'd rather work with the bigger kids than the younger ones. So I feel like primary teaching will be the best' (segment 66). This statement represented a crucial moment for exploring the student's evolving career aspirations while ensuring their educational pathway would align with these new goals. The timing and clarity of their statement provided an ideal opportunity for deeper exploration of their motivations and concerns.",
+          "consultant_response": "The consultant's response focused primarily on procedural aspects: 'Awesome, perfect. So, we'll need to assess that diploma. It's likely, because that sounds like a private RTO that you conceded the diploma, it's likely that you'll need to do some pathway course.' While providing useful information, this response missed the opportunity to explore the student's motivations for change or how the suggested pathway would support their career transition goals. The lack of deeper exploration potentially left valuable insights and concerns unaddressed.",
+          "priority": "high",
+          "recommended_approach": "When students express career transitions, begin by acknowledging and exploring their shift in focus while maintaining appropriate boundaries: 'That's an interesting change in direction - could you tell me more about what's drawing you toward teaching older students?' This opens a dialogue about their motivations while staying within our educational guidance role. Demonstrate how our program supports their transition: 'Our education program is designed to build on your existing experience. The foundational units cover child development across all age groups, helping you understand the transition from early childhood to primary education.' Guide the conversation toward relevant program features: 'You'll find the third-year placement units particularly valuable, as they give you direct experience in primary school settings.' Maintain focus on educational pathways rather than detailed career planning: 'While I can't provide specific career advice, I can show you how our program's learning outcomes align with primary teaching requirements.' The goal is to demonstrate how the program creates a bridge between their current position and future aspirations while maintaining appropriate scope of guidance."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566426629",
+              "segment_id": "21",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant frustration about document requirements, stating 'I don't want to spend three hundred dollars for no reason when English is there' (segment 21). This comment revealed both financial concerns and confusion about the necessity of certain documentation requirements. The student's tone and specific mention of costs indicated this could become a significant barrier to enrollment if not addressed effectively.",
+          "consultant_response": "While the consultant acknowledged the concern, they missed the opportunity to fully explore the student's situation or explain the requirements in detail. The response didn't address the underlying frustration about perceived unnecessary expenses or provide clear justification for the requirements. This left the student without a complete understanding of their options or the rationale behind the documentation process.",
+          "priority": "high",
+          "recommended_approach": "When handling documentation requirement concerns, start by validating the student's frustration about costs while exploring alternatives: 'I understand your concern about the expense. Let's look at your existing English qualifications first - these might already meet our requirements.' Create a collaborative approach to finding solutions: 'Could you tell me more about your English studies? Sometimes students have documentation they don't realize will qualify.' Share specific examples of acceptable alternatives: 'For instance, if you completed Year 12 in Australia within the last five years, or have a certificate IV or higher qualification taught in English, these would meet our requirements.' If discussing costs, provide context and explore options: 'While the standard test has that fee, we also accept results from approved free assessment options. Let me show you these alternatives.' Address the underlying need for requirements: 'These language requirements ensure you'll be well-supported in your studies. However, we want to find the most cost-effective way to demonstrate your proficiency.' Throughout the conversation, maintain a problem-solving mindset: 'Let's work through your options step by step. First, let's review what documentation you already have, then we can identify if you need anything additional.'"
+        },
+        {
+          "id": 6,
+          "title": "Credit Transfer Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595820654112",
+              "segment_id": "58",
+              "timestamp": "4:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation (call_595820654112, segment 58), the student revealed their proximity to completion by stating: 'I've got three left.' This crucial information indicated both their progress toward their degree and the need for careful planning of remaining requirements. The statement presented an opportunity for detailed exploration of credit transfer options and completion pathways.",
+          "consultant_response": "The consultant's response was limited: 'Okay, yeah, you may very well be exceeding maximum, just let me check.' This approach missed the opportunity to engage in meaningful discussion about credit transfer possibilities and specific completion strategies. The response focused on procedural aspects without addressing the student's underlying need for clear guidance on completing their remaining units.",
+          "priority": "high",
+          "recommended_approach": "When students indicate they are close to completing their degree, immediately acknowledge this achievement and express commitment to helping them reach their goal: 'That's excellent progress - having only three units remaining puts you very close to completion. Let's make sure we create a clear path for finishing your degree.' Then explore specific details: 'Can you tell me which three units you need to complete? This will help us identify the most efficient pathway.' Use successful examples to illustrate possibilities: 'We recently helped a student in a similar situation complete their final units through a combination of credit transfer and strategic unit selection.' Guide the conversation through specific completion scenarios: 'If these are core units, we'll need to map them carefully. If they're electives, we might have more flexibility in finding equivalent options.' Consider potential challenges proactively: 'Sometimes students in their final units face specific prerequisite requirements. Let's check these now so we can plan accordingly.' The goal is to transform potential transfer anxiety into confidence through clear, actionable steps toward degree completion."
+        }
+      ]
+    }
+  }
+}

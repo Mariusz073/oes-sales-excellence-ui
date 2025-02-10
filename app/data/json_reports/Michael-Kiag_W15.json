@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 300,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 92,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 30.666666666666664,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 208,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 69.33333333333334,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.1635676211784,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 208,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 114.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.9,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.88,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 138.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.77,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical study load management and comprehensive support mechanisms"
+      },
+      {
+        "headline": "Documentation Support Excellence",
+        "explanation": "Clear and proactive guidance through complex documentation requirements with effective verification processes that maintain student confidence"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements and specializations align with specific career aspirations and skill development goals"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks through targeted strategies and confidence building"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Stronger collaborative approach needed when guiding students through complex documentation requirements with clearer step-by-step support"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Alternative Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731790101",
+              "segment_id": "14",
+              "timestamp": "2:02"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595554987377",
+                "segment_id": "130",
+                "timestamp": "14:39"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm actually really bad at maths. So that's where I'm like, do I want to do a Bachelor of Counselling or do I start looking at like the more clinical route, the psychological route?' (call_595731790101, seg_14), revealing anxiety about program requirements.",
+          "consultant_response": "Consultant provided tailored alternative: 'Look, we do have another degree called the Bachelor of Social Science with the major in Behavioral Studies, which looks more at analyzing studying behavior on more of a community level' (call_595731790101, seg_16), effectively aligning options with student's capabilities.",
+          "context_impact": "Mathematical concerns could significantly impact program choice and enrollment decision.",
+          "recommended_approach": "Include specific success stories of graduates from each pathway who had similar concerns."
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 3,
+          "title": "Past Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451221905",
+              "segment_id": "18",
+              "timestamp": "01:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I have previously been enrolled with Finburn Online, but I was not in the best headspace at the time' (call_595451221905, seg_18), revealing need for confidence rebuilding.",
+          "consultant_response": "Consultant acknowledged achievement: 'You've done a diploma, you completed that diploma... recently, 2024' (call_595451221905, seg_24)",
+          "context_impact": "Critical opportunity to acknowledge past challenges while maintaining forward momentum.",
+          "recommended_approach": "Provide more comprehensive exploration of available support services while maintaining focus on recent successes."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659412700",
+              "segment_id": "37",
+              "timestamp": "05:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595738800183",
+                "segment_id": "32",
+                "timestamp": "02:47"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I've done the payment, I'm just finalising the application and the bottom, the last part up with asking me to give me two' (call_595659412700, seg_37), indicating documentation completion challenges.",
+          "consultant_response": "Consultant provided insufficient guidance on completing the application process, missing opportunity for detailed support.",
+          "context_impact": "Key opportunity to provide clear guidance on application completion to prevent enrollment barriers.",
+          "recommended_approach": "Develop step-by-step guidance while maintaining appropriate boundaries between sales and support roles."
+        },
+        {
+          "id": 5,
+          "title": "New Field Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821140170",
+              "segment_id": "76",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've never gotten into this sort of field before, and I think the only worry that I have is...' (call_595821140170, seg_76), revealing significant self-doubt.",
+          "consultant_response": "Consultant provided insufficient support, missing opportunity to explore transferable skills and available support mechanisms.",
+          "context_impact": "Critical opportunity to build confidence and demonstrate support for career transitions.",
+          "recommended_approach": "Engage in collaborative discussion about transferable skills while highlighting specific support resources."
+        },
+        {
+          "id": 6,
+          "title": "Initial Inquiry Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565929158",
+              "segment_id": "4",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595738800183",
+                "segment_id": "6",
+                "timestamp": "00:50"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm just calling about advice on applying for a Master's of Physiotherapy' (call_595565929158, seg_4), showing active interest in program guidance.",
+          "consultant_response": "Consultant stated: 'That would be a Swinburne campus run course. I'll have to transfer you through to the campus team' (call_595565929158, seg_7)",
+          "context_impact": "Prime opportunity to engage in initial exploration of student goals and program alignment.",
+          "recommended_approach": "Explore student goals and provide high-level program information before transfer to maintain engagement."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Alternative Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595731790101",
+              "segment_id": "14",
+              "timestamp": "2:02"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595554987377",
+                "segment_id": "130",
+                "timestamp": "14:39"
+              }
+            ]
+          },
+          "student_trigger": "During a critical moment in program selection, the student revealed significant anxiety about mathematical requirements: 'I'm actually really bad at maths. So that's where I'm like, do I want to do a Bachelor of Counselling or do I start looking at like the more clinical route, the psychological route?' (call_595731790101, seg_14). This admission represented both a potential barrier to enrollment and an opportunity to demonstrate program flexibility and student-centered planning.",
+          "consultant_response": "The consultant demonstrated exceptional collaborative planning by immediately acknowledging the concern and offering a viable alternative: 'Look, we do have another degree called the Bachelor of Social Science with the major in Behavioral Studies, which looks more at analyzing studying behavior on more of a community level' (call_595731790101, seg_16). This response effectively balanced honesty about program requirements with constructive alternatives that aligned with the student's interests and capabilities.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about specific program requirements, approach the conversation as an opportunity to demonstrate program flexibility and personalized planning. Start by validating their concern: 'Thank you for sharing that concern about mathematics - it's important we find a program that plays to your strengths while achieving your career goals.' Then systematically explore alternative pathways: 'Let's look at programs that could lead to similar career outcomes through different routes.' Guide the discussion through various options, clearly explaining how each aligns with their aspirations while potentially avoiding their areas of concern. Share success stories: 'Many students with similar concerns have found great success in our behavioral studies program, which focuses more on qualitative analysis.' Pay particular attention to maintaining enthusiasm while redirecting focus - if they seem disappointed about one path being unsuitable, emphasize the unique advantages of alternative routes. The key is transforming what might seem like a limitation into an opportunity to discover better-aligned pathways."
+        },
+        {
+          "id": 2,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant concern about balancing work commitments with study: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23). This revealed a critical need to demonstrate how the program could accommodate their professional responsibilities while maintaining academic progress. The concern about shift work presented an opportunity to showcase program flexibility and support mechanisms.",
+          "consultant_response": "The consultant provided practical, healthcare-specific solutions: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This response effectively demonstrated understanding of healthcare workers' needs while providing concrete examples of how the program accommodates their schedules. The approach transformed a potential barrier into a manageable challenge.",
+          "priority": "high",
+          "recommended_approach": "When addressing healthcare professionals' scheduling concerns, start by validating their specific work pattern then immediately bridge to relevant examples that demonstrate our program's practical flexibility. For instance, respond with 'I understand how challenging rotating rosters can be. Let me show you exactly how our program adapts to that.' Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For example, explain how asynchronous learning means no mandatory live sessions, and offline access ensures study can happen even in areas with poor connectivity, as demonstrated when a current nursing student shared: 'I download my weekly materials before my night rotation starts, using those quiet periods around 2-3am for focused reading.' For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding examples in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 3,
+          "title": "Past Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595451221905",
+              "segment_id": "18",
+              "timestamp": "01:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the conversation, the student shared a vulnerable moment about previous academic experience: 'I have previously been enrolled with Finburn Online, but I was not in the best headspace at the time' (call_595451221905, seg_18). This disclosure represented a critical moment where the student was seeking reassurance and understanding about their past challenges while considering re-enrollment.",
+          "consultant_response": "The consultant skillfully acknowledged the student's recent achievement to build confidence: 'You've done a diploma, you completed that diploma... recently, 2024' (call_595451221905, seg_24). This response effectively shifted focus to recent successes while maintaining sensitivity about past challenges. The approach demonstrated strong collaborative planning by using positive reinforcement to build momentum toward future goals.",
+          "priority": "high",
+          "recommended_approach": "When students disclose past academic challenges, balance acknowledgment of their experience with forward-focused planning. Begin by validating their self-awareness: 'Thank you for sharing that experience. It shows great insight to recognize what factors influenced your previous studies.' Then highlight recent achievements as evidence of capability: 'I see you've successfully completed your diploma recently, which demonstrates your current readiness for study.' Use this foundation to engage in collaborative planning about support systems, as demonstrated in successful cases: 'Many students who've had similar experiences found that our flexible study options and supportive learning environment helped them succeed.' Guide the discussion toward available support services while maintaining appropriate boundaries. The key is transforming past challenges into learning experiences that inform future success while emphasizing how current support mechanisms can help maintain their recent positive momentum."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595659412700",
+              "segment_id": "37",
+              "timestamp": "05:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595738800183",
+                "segment_id": "32",
+                "timestamp": "02:47"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed uncertainty about application requirements: 'I've done the payment, I'm just finalising the application and the bottom, the last part up with asking me to give me two' (call_595659412700, seg_37). This revealed confusion about documentation needs at a critical point in the enrollment process, where clear guidance could prevent application barriers.",
+          "consultant_response": "The consultant's response lacked sufficient detail and support, failing to address the student's specific concerns about application requirements. This gap in guidance left the student without clear direction on completing their application, potentially creating unnecessary barriers to enrollment completion.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation requirements, begin by acknowledging progress while providing clear, actionable guidance. Start with validation: 'Thank you for completing the payment - that's an important step. Let me help you understand what's needed for the final section.' While maintaining appropriate boundaries, provide high-level guidance about documentation options and alternatives, as shown in successful cases: 'Many students find it helpful to gather their documents before starting this section.' Use specific examples of how other students have successfully navigated similar challenges: 'When faced with missing documentation, some students have successfully used statutory declarations or employer letters as alternatives.' If more detailed support is needed, clearly explain the handoff process: 'Our enrollment team can provide specific guidance about document requirements. Would you like me to connect you with them now?' Remember to balance immediate assistance with appropriate referrals, ensuring students receive expert guidance while maintaining enrollment momentum."
+        },
+        {
+          "id": 5,
+          "title": "New Field Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821140170",
+              "segment_id": "76",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant apprehension about entering a new field: 'I've never gotten into this sort of field before, and I think the only worry that I have is...' (call_595821140170, seg_76). This statement highlighted their vulnerability about entering a new field of study, indicating a crucial need for reassurance and support in building confidence about their capability to succeed in the program.",
+          "consultant_response": "The consultant's response was inadequate, missing the opportunity to explore the student's transferable skills or discuss available support mechanisms. This lack of engagement failed to address the student's underlying concerns about their ability to succeed in a new field, potentially leaving them uncertain about proceeding with enrollment.",
+          "priority": "high",
+          "recommended_approach": "When students express uncertainty about entering a new field, transform their apprehension into confidence through collaborative exploration of their existing capabilities. Begin by normalizing their concerns: 'Many successful students have similar feelings when starting in a new field.' Guide the conversation to uncover transferable skills: 'What aspects of your current role involve skills like problem-solving or communication?' Use their responses to demonstrate relevant connections: 'Those project management skills you mentioned will be particularly valuable in our business units, just like another student who found their retail management experience gave them a strong foundation for understanding organizational behavior.' Then outline support structures: 'Our orientation program helps new students transition into the field, and our learning advisors provide ongoing support as you progress.' The key is helping students see how their existing capabilities can be leveraged while ensuring they understand the comprehensive support available to address any knowledge gaps."
+        },
+        {
+          "id": 6,
+          "title": "Initial Inquiry Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565929158",
+              "segment_id": "4",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595738800183",
+                "segment_id": "6",
+                "timestamp": "00:50"
+              }
+            ]
+          },
+          "student_trigger": "At the beginning of the call, the student expressed clear interest: 'I'm just calling about advice on applying for a Master's of Physiotherapy' (call_595565929158, seg_4). This direct request for guidance presented a prime opportunity to engage in collaborative planning by exploring the student's goals and providing initial program information before any necessary transfers.",
+          "consultant_response": "The consultant replied with a basic redirect: 'That would be a Swinburne campus run course. I'll have to transfer you through to the campus team' (call_595565929158, seg_7). This response, while procedurally correct, missed the opportunity to gather valuable information about the student's interests and provide preliminary guidance.",
+          "priority": "high",
+          "recommended_approach": "When handling initial program inquiries, even if a transfer will be necessary, begin by engaging with the student's interests and goals. Start with acknowledgment and exploration: 'Thank you for your interest in the Master's of Physiotherapy. Before I connect you with our campus team, could you tell me what specifically interests you about this program?' Share relevant high-level information: 'While this is a campus-based program, I can tell you about the strong clinical placement components and career outcomes.' When transitioning, provide context: 'I'm going to connect you with our campus team who can provide specific details about clinical placements and course structure. They'll be able to build on what we've discussed about your interests.' The key is creating a seamless handoff while ensuring the student feels their inquiry is being treated thoroughly rather than simply redirected. This approach maintains engagement and demonstrates commitment to supporting their educational journey from the first point of contact."
+        }
+      ]
+    }
+  }
+}

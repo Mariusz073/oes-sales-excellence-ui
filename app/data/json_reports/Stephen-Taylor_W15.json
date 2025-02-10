@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 276,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 97,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 35.14492753623188,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 179,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 64.85507246376811,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.712271102392876,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 179,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 124.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.05,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 119.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.77,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 214.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.23,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 162.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.86,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear program differentiation"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including healthcare shift work through practical examples and specific solutions"
+      },
+      {
+        "headline": "Professional Experience Integration",
+        "explanation": "Effective validation and leveraging of students' work experience to build academic confidence and demonstrate practical skill transfer to study success"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students expressing anxiety about returning to education after extended breaks with focus on transferable skills and practical strategies"
+      },
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "Deeper discussion needed of practical strategies for managing study alongside specific work commitments while maintaining desired graduation timelines"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Program Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738572324",
+              "segment_id": "24",
+              "timestamp": "04:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595451478773",
+                "segment_id": "10",
+                "timestamp": "00:50"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'Is there a major difference between the Bachelor of Accounting and Bachelor of Business with majoring in accounting and majoring in finance?' (call_595738572324, seg_24), seeking program clarity for informed decision-making.",
+          "consultant_response": "Consultant explained key differences: 'The accounting and finance covers a major in both fields... if you did the Bachelor of business with a major in accounting, those finance units would be replaced by electives' (call_595738572324, seg_27), effectively highlighting program distinctions.",
+          "context_impact": "Critical moment for guiding program selection through clear differentiation while maintaining enrollment momentum.",
+          "recommended_approach": "Include specific career outcome examples and graduate success stories when comparing programs to enhance decision-making context."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and highlight additional offline study features."
+        },
+        {
+          "id": 3,
+          "title": "Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664355386",
+              "segment_id": "156",
+              "timestamp": "8:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_595664355386, seg_156), showing anxiety about academic readiness.",
+          "consultant_response": "Consultant connected experience: 'Those project management skills you've developed are exactly what help our students succeed' (call_595664355386, seg_160), transforming perceived barrier into advantage.",
+          "context_impact": "Addressing study confidence was critical for maintaining enrollment momentum.",
+          "recommended_approach": "Provide more specific examples of how professional skills transfer to academic success."
+        },
+        {
+          "id": 4,
+          "title": "Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450905041",
+              "segment_id": "11",
+              "timestamp": "11:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want it to work with my employment' (call_595450905041, seg_11), indicating need for career-enhancing educational pathway.",
+          "consultant_response": "Consultant focused on scheduling logistics without exploring career enhancement opportunities or workplace applications.",
+          "context_impact": "Key opportunity to demonstrate program's direct impact on career advancement.",
+          "recommended_approach": "Discuss specific ways program content and structure contribute to immediate and long-term career advancement goals."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664355386",
+              "segment_id": "127",
+              "timestamp": "5:07"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I tried studying last year but had to withdraw because I couldn't manage the workload' (call_595664355386, seg_127), revealing past difficulties.",
+          "consultant_response": "Consultant asked: 'What's changed in your circumstances since then that's made you consider study again?' (call_595664355386, seg_130), missing opportunity to address specific challenges.",
+          "context_impact": "Past negative experience created significant barrier to enrollment confidence.",
+          "recommended_approach": "Develop concrete strategies to address previous challenges while setting clear expectations about available post-enrollment support."
+        },
+        {
+          "id": 6,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565619917",
+              "segment_id": "49",
+              "timestamp": "2:49"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern: 'If I reduce my part-time, reduce down to part-time, I won't graduate by the end of the year as well' (call_595565619917, seg_49), revealing anxiety about managing commitments.",
+          "consultant_response": "Consultant emphasized limitations without exploring solutions: 'Yeah sure look you can look elsewhere but it's probably going to be a similar situation...every uni is going to have some kind of limit' (call_595565619917, seg_55).",
+          "context_impact": "Vital opportunity to demonstrate program flexibility while preserving graduation timeline goals.",
+          "recommended_approach": "Create tailored study plans that accommodate work schedules while maintaining graduation goals through flexible study options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Program Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595738572324",
+              "segment_id": "24",
+              "timestamp": "04:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595451478773",
+                "segment_id": "10",
+                "timestamp": "00:50"
+              }
+            ]
+          },
+          "student_trigger": "During call 595738572324 (segment 24), the student sought clarity on program differences by asking: 'Is there a major difference between the Bachelor of Accounting and Bachelor of Business with majoring in accounting and majoring in finance?' This question revealed the need for clear program differentiation to support informed decision-making. Similar queries in supporting calls highlighted the importance of detailed program comparison guidance.",
+          "consultant_response": "The consultant demonstrated strong understanding by providing a clear, structured explanation: 'The accounting and finance covers a major in both fields... if you did the Bachelor of business with a major in accounting, those finance units would be replaced by electives' (call_595738572324, seg_27). This response effectively outlined program differences while maintaining focus on practical implications, helping the student understand the unique benefits and opportunities of each pathway.",
+          "priority": "high",
+          "recommended_approach": "When addressing program comparison queries, begin by acknowledging the importance of understanding key differences for informed decision-making: 'Let me help you understand how these programs differ and align with different career paths.' Start with a clear overview: 'The Bachelor of Business with accounting major offers broader business exposure through electives, while the Bachelor of Accounting provides deeper specialization in financial practices.' Use specific examples to illustrate practical implications: 'Business graduates often move into roles requiring broader management skills, while Accounting graduates typically pursue specialized positions in financial reporting or analysis.' Connect program features to career outcomes: 'The double major in accounting and finance particularly suits students aiming for roles in financial planning or investment analysis.' Share success stories: 'One of our recent graduates chose the Business degree with accounting major because she wanted to combine accounting expertise with marketing electives - she now manages financial communications for a major firm.' Pay particular attention to the student's expressed interests and career goals, adapting examples accordingly. The goal is to help students envision their professional future through each program option while maintaining engagement through relevant examples and clear comparisons."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 3,
+          "title": "Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664355386",
+              "segment_id": "156",
+              "timestamp": "8:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At a pivotal moment in the conversation (segment 156), the student revealed significant anxiety about returning to education, stating 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This disclosure represented both vulnerability and readiness to discuss concerns about academic preparedness after a long break from formal education. The context suggested that addressing these fears would be crucial for building confidence in their ability to succeed.",
+          "consultant_response": "The consultant demonstrated exceptional skill in transforming the student's concern into confidence by responding: 'Those project management skills you've developed are exactly what help our students succeed' (segment 160). This approach effectively bridged the gap between professional experience and academic potential, helping the student recognize valuable transferable skills. The consultant's strategy of connecting workplace capabilities to academic success resonated strongly with the student, shifting the conversation from apprehension to capability.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns from students returning to study after a significant break, begin by validating their apprehension while immediately highlighting the value of their life experience. The key insight is that professional experience often provides more relevant skills than recent academic history. Start by acknowledging their concern: 'It's natural to feel uncertain after time away from study, but your work experience has equipped you with valuable skills.' Then, help students identify specific transferable skills from their professional life. For instance, with project managers, highlight how their planning abilities translate to assignment management: 'Your experience coordinating projects has taught you time management and priority setting - exactly what successful students need.' When students share specific concerns about academic readiness, connect each worry to a relevant professional skill they've developed. This approach transforms perceived disadvantages into advantages, helping students recognize how their work experience can actually accelerate their academic success."
+        },
+        {
+          "id": 4,
+          "title": "Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450905041",
+              "segment_id": "11",
+              "timestamp": "11:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student emphasized career considerations, stating: 'I want it to work with my employment' (call_595450905041, segment 11). This moment presented a critical opportunity to demonstrate how the program could enhance their professional development while accommodating current work commitments. Similar career-focused concerns appeared across multiple calls, highlighting the importance of addressing both immediate compatibility and long-term career impact.",
+          "consultant_response": "While consultants generally addressed scheduling flexibility, they often missed opportunities to explore how program elements could specifically enhance career trajectories and workplace capabilities. The focus remained primarily on logistical considerations rather than strategic career development benefits, limiting the program's perceived value for professional advancement.",
+          "priority": "high",
+          "recommended_approach": "When students express career-focused concerns, begin by exploring their professional aspirations before discussing logistics. Open with targeted questions about their current role and desired career progression: 'Could you tell me more about your current position and where you'd like to see yourself professionally in the next few years?' Then connect specific program elements to their career goals: 'Our curriculum includes practical case studies drawn from real workplace scenarios, and many assignments can be tailored to address challenges you're facing in your current role.' Share concrete examples of how other working professionals have leveraged their studies: 'One of our recent graduates applied their learning about organizational behavior directly to their workplace, leading to a promotion within six months of completing the program.' When discussing flexibility, frame it in terms of career impact: 'The ability to study around your work schedule means you can immediately apply what you're learning to your current role, creating value for both your studies and your employer.' Throughout the conversation, maintain appropriate pre-enrollment boundaries while demonstrating how program features directly support professional growth and career advancement goals."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664355386",
+              "segment_id": "127",
+              "timestamp": "5:07"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial moment in the enrollment discussion, the student revealed a significant barrier by sharing: 'I tried studying last year but had to withdraw because I couldn't manage the workload' (segment 127). This disclosure highlighted both past difficulties and present concerns about repeating similar challenges. The context suggested that addressing these previous struggles would be essential for building confidence in a successful second attempt.",
+          "consultant_response": "The consultant's response of 'What's changed in your circumstances since then that's made you consider study again?' (segment 130), while showing interest, missed the opportunity to deeply explore specific challenges and develop concrete strategies for success. This general approach failed to address the root causes of the previous withdrawal or provide tangible solutions to prevent similar issues.",
+          "priority": "high",
+          "recommended_approach": "When students disclose previous study challenges, transform this vulnerability into a constructive planning opportunity. Begin by acknowledging their self-awareness: 'Thank you for sharing that experience - understanding past challenges helps us plan for your success.' The key is to explore specific difficulties while immediately connecting them to available support services. Start by identifying particular barriers: 'What aspects of the workload proved most challenging?' Then outline relevant support mechanisms: 'Our learning advisers help develop personalized study schedules that account for your specific commitments.' Focus on how flexible study options and support services address common challenges: 'Many students find our asynchronous learning model helpful during busy periods - you can adjust your study schedule week by week based on your workload.' Share examples of how other students overcame similar challenges: 'One of our current students also withdrew previously, but succeeded second time by starting with a reduced study load and gradually increasing it as they built confidence.' The goal is to demonstrate how institutional support and flexible study options can prevent similar difficulties while building confidence in successful completion."
+        },
+        {
+          "id": 6,
+          "title": "Work-Life Balance Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565619917",
+              "segment_id": "49",
+              "timestamp": "2:49"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about managing multiple commitments: 'If I reduce my part-time, reduce down to part-time, I won't graduate by the end of the year as well' (call_595565619917, segment 49). This revealed anxiety about balancing work responsibilities with study goals and desired graduation timeline, presenting a critical moment for demonstrating practical program flexibility.",
+          "consultant_response": "The consultant emphasized limitations rather than solutions, stating: 'Yeah sure look you can look elsewhere but it's probably going to be a similar situation...every uni is going to have some kind of limit' (segment 55). This response missed the opportunity to explore flexible study options and practical strategies for balancing commitments while maintaining progress toward graduation goals.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-life balance concerns, begin by validating the student's commitment to both their professional responsibilities and academic goals. Start with a collaborative exploration: 'Let's look at how we can create a study plan that maintains your graduation timeline while working around your professional commitments.' Share specific strategies for managing multiple responsibilities: 'Many of our students combine full-time work with accelerated study by using our flexible assessment options and study intensives during quieter work periods.' Demonstrate how program features support different study patterns: 'Our online platform allows you to complete readings during lunch breaks, watch lectures while commuting, and participate in discussions during evenings or weekends.' Address graduation timeline concerns directly: 'While full-time study with full-time work is challenging, we can explore ways to optimize your study approach through strategic unit selection and flexible assessment timing.' The key is transforming their work-life balance concern into a manageable challenge with clear, practical solutions that maintain progress toward their desired graduation date."
+        }
+      ]
+    }
+  }
+}

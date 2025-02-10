@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "consultant_name": "Yusuf Aly",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 259,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 73,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.185328185328185,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 186,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.81467181467181,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.7008679834109,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 186,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 224.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.03,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 193.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.72,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 189.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.4,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 226.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.47,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 185.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.36,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 215.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 159.02,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 203.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.71,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 165.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 158.28,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through concrete action steps and milestone planning"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through specific examples and practical solutions tailored to individual work, family, and location constraints"
+      },
+      {
+        "headline": "Goal-Aligned Exploration",
+        "explanation": "Effective exploration and validation of student goals before providing targeted guidance with specific examples and measurable outcomes that resonate with their career and educational aspirations"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, particularly in translating professional experience into academic confidence and practical study skills"
+      },
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "Deeper collaborative discussion required around integrating study commitments with existing work and family responsibilities through specific time management strategies and flexible learning options"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific timeline commitments, progress updates, and proactive solutions for maintaining enrollment momentum during administrative processes"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450744589",
+              "segment_id": "60",
+              "timestamp": "8:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595566076743",
+                "segment_id": "43",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'if I do go for full-time, I just want to know how many hours that it actually requires and then if I do go part-time because I am actually working full-time as well' (call_595450744589, seg_60), revealing critical need for work-study balance planning.",
+          "consultant_response": "Consultant effectively normalized the situation: '70% of our students are working full-time as well, so you certainly wouldn't be the only one. In fact, you'd be in the majority' (call_595450744589, seg_62), building confidence through relatable statistics and peer success examples.",
+          "context_impact": "This moment required clear demonstration of program flexibility to maintain enrollment momentum for working professionals while providing specific, achievable study strategies.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current working students and explore individual scheduling preferences with concrete time management strategies."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Transition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566076743",
+              "segment_id": "43",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I'm now almost 35 and I'm an integration aid in a primary school' (call_595566076743, seg_43), indicating relevant experience and career transition goals requiring clear pathway guidance.",
+          "consultant_response": "Consultant engaged effectively: 'you've been working in the industry for a while then it sounds like. Is that the plan?' (call_595566076743, seg_45), exploring career aspirations and potential pathways while validating existing experience.",
+          "context_impact": "Critical opportunity to align current experience with educational pathway while maintaining career progression momentum through specific milestone planning.",
+          "recommended_approach": "Provide more specific examples of successful transitions from similar roles and outline concrete steps in the career progression journey with clear timelines and milestones."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450835367",
+              "segment_id": "16",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739510979",
+                "segment_id": "320",
+                "timestamp": "12:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_595450835367, seg_16), revealing significant anxiety about returning to study that required immediate confidence building.",
+          "consultant_response": "Consultant missed opportunity by not addressing study concerns or providing reassurance about available support mechanisms and transferable professional skills.",
+          "context_impact": "Major emotional barrier that could prevent enrollment if not effectively addressed and supported through specific examples and practical strategies.",
+          "recommended_approach": "Validate concerns while highlighting how professional experience provides valuable transferable skills for academic success through specific examples and support resources."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732280316",
+              "segment_id": "38",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'I was just wondering if there might have been an update in regards to how many credit points or something I would get in regards to my law thing' (call_595732280316, seg_38), seeking clarity on documentation progress.",
+          "consultant_response": "Consultant acknowledged: 'At the moment, I did receive your documents...we're in our peak enrollment period' (call_595732280316, seg_42), providing basic update without detailed timeline or next steps.",
+          "context_impact": "Clear communication about credit transfer timelines significantly impacts student confidence and enrollment planning, requiring proactive updates and milestone tracking.",
+          "recommended_approach": "Provide specific timeline estimates and interim milestones during peak enrollment periods with clear next steps and proactive communication plans."
+        },
+        {
+          "id": 5,
+          "title": "Family Commitment Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555496482",
+              "segment_id": "31",
+              "timestamp": "2:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595450858429",
+                "segment_id": "13",
+                "timestamp": "2:15"
+              }
+            ]
+          },
+          "student_trigger": "Student shared: 'I've actually got two young children and I've just thought of doing something a little different and taking a different avenue in life' (call_595555496482, seg_31), highlighting need for family-conscious study planning.",
+          "consultant_response": "Multiple consultants provided general reassurance about flexibility without exploring specific strategies for balancing family commitments or offering concrete solutions.",
+          "context_impact": "Critical opportunity to demonstrate how program flexibility specifically accommodates family responsibilities through practical examples and support mechanisms.",
+          "recommended_approach": "Should collaboratively develop specific study strategies that align with family routines and responsibilities while providing clear examples of successful parent-student approaches."
+        },
+        {
+          "id": 6,
+          "title": "Goal-Aligned Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664145008",
+              "segment_id": "50",
+              "timestamp": "4:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Now what she's really wanting to do is she wants to take the criminal law pathway, you know' (call_595664145008, seg_50), revealing specific career aspirations requiring clear guidance and pathway planning.",
+          "consultant_response": "Consultant provided targeted pathway: 'Our criminal justice and criminology short course...is a pathway into the Bachelor of Laws later on. If you finish with a 60% average or higher, you can transfer into the Bachelor of Law' (call_595664145008, seg_54), effectively outlining progression requirements.",
+          "context_impact": "This moment required demonstrating how our programs could create a structured pathway to achieve the student's goal while maintaining realistic expectations through specific milestones.",
+          "recommended_approach": "Include more specific examples of successful student transitions and highlight key preparation strategies with clear performance benchmarks and support resources."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450744589",
+              "segment_id": "60",
+              "timestamp": "8:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595566076743",
+                "segment_id": "43",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "During segment 60, the student expressed concerns about balancing work and study commitments: 'if I do go for full-time, I just want to know how many hours that it actually requires and then if I do go part-time because I am actually working full-time as well.' This revealed both their serious interest in pursuing education and their practical need to understand how this could be balanced with existing work obligations.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning skills by immediately normalizing the student's situation with concrete statistics: '70% of our students are working full-time as well, so you certainly wouldn't be the only one. In fact, you'd be in the majority.' This response effectively combined statistical evidence with emotional reassurance, helping the student see themselves as part of a successful community of working learners.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by validating the student's practical considerations while positioning them as proactive planning rather than obstacles. Start with phrases like 'I appreciate you thinking carefully about managing your commitments' to establish a collaborative tone. Share specific examples of how current students successfully balance work and study, using real scenarios to make the flexibility tangible. For instance, explain how different study modes can adapt to various work patterns: 'Many of our full-time workers choose to download materials for offline study during quiet periods at work' or 'Some students prefer to concentrate their study on weekends, while others spread it throughout the week.' When discussing time commitments, provide clear frameworks while emphasizing flexibility: 'While part-time study typically involves 16-20 hours per week, you can distribute these hours in ways that work best for your schedule.' Remember to highlight the availability of post-enrollment support services that can help fine-tune their study approach as they progress. The goal is to transform their concerns about managing commitments into confidence in their ability to succeed with our flexible support systems."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Transition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566076743",
+              "segment_id": "43",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At a significant point in the conversation (segment 43), the student revealed their professional context and aspirations: 'I'm now almost 35 and I'm an integration aid in a primary school.' This disclosure presented a valuable opportunity to explore how their current role could serve as a foundation for career advancement through education.",
+          "consultant_response": "The consultant engaged effectively by recognizing the value of their experience and exploring career goals: 'you've been working in the industry for a while then it sounds like. Is that the plan?' This response acknowledged their existing professional context while inviting further discussion about career aspirations. The approach helped establish a foundation for exploring how the program could support their career advancement journey.",
+          "priority": "high",
+          "recommended_approach": "When discussing career transitions with students currently working in related fields, start by acknowledging their existing experience while exploring their career vision: 'Your experience as an integration aid gives you valuable insights into the education sector. What aspects of teaching particularly interest you?' Use their current role as a springboard to discuss program benefits: 'Many of our students find their classroom support experience helps them understand teaching concepts more deeply.' When outlining the transition path, provide concrete examples: 'For instance, your experience working with diverse learning needs will be particularly valuable in units covering inclusive education.' Remember to highlight how their current role can enhance their studies: 'Many former integration aids excel in our teaching methodology units because they've already seen these principles in action.' The goal is to help them envision a clear pathway from their current role to their desired teaching career while validating their existing experience and demonstrating how our program can bridge that transition effectively."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595450835367",
+              "segment_id": "16",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595739510979",
+                "segment_id": "320",
+                "timestamp": "12:45"
+              }
+            ]
+          },
+          "student_trigger": "During segment 16, the student revealed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This admission exposed deep concerns about academic readiness after an extended break from formal education.",
+          "consultant_response": "The consultant missed this opportunity by not addressing the expressed concerns about returning to study or providing reassurance about available support mechanisms. This approach failed to validate the student's feelings or demonstrate how their professional experience could translate to academic success.",
+          "priority": "high",
+          "recommended_approach": "When students express anxiety about returning to study, begin by normalizing their feelings: 'Many successful students share similar concerns when returning to study after a break.' Then, help them recognize their existing strengths: 'Your professional experience has actually equipped you with valuable skills for academic success - let's explore how they'll help you.' Guide them through specific examples: 'Your ability to manage projects at work directly translates to managing assignments and deadlines.' Discuss available support systems: 'We have dedicated learning advisors who specialize in helping returning students transition back to study.' Show them practical examples of how other mature students have succeeded: 'One of our recent graduates hadn't studied for 20 years before starting - she found her work experience actually gave her an advantage in applying concepts to real-world scenarios.' The goal is to transform their anxiety into confidence by showing how their life experience enhances their potential for academic success."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732280316",
+              "segment_id": "38",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 595732280316 (segment 38), the student sought clarity on documentation progress: 'I was just wondering if there might have been an update in regards to how many credit points or something I would get in regards to my law thing.' This inquiry revealed both engagement in the process and a need for clear timeline expectations.",
+          "consultant_response": "The consultant provided only basic acknowledgment: 'At the moment, I did receive your documents...we're in our peak enrollment period' without offering specific timeline guidance or clear next steps. This limited response missed an opportunity to maintain engagement through detailed process planning.",
+          "priority": "high",
+          "recommended_approach": "When handling documentation processes, especially during peak periods, establish clear expectations while maintaining engagement. Begin with transparent timeline acknowledgment: 'Thank you for following up on your credit assessment. During peak enrollment, this typically takes X weeks, but let me walk you through exactly what happens at each stage.' Then provide specific milestones: 'Within the first week, your documents are reviewed for completeness. By week two, our faculty assessors evaluate your prior learning against our course outcomes.' Create clear communication plans: 'I'll send you an email confirmation today with these timeline details, and you can expect an update by [specific date]. If you haven't heard from us by then, please contact me directly.' Include proactive guidance: 'While we await the formal assessment, let's explore your study plans for different credit scenarios. This helps us prepare for quick enrollment once the assessment is complete.' Remember to maintain engagement: 'Would you like to schedule a brief follow-up call next week to discuss any questions that arise?' The goal is keeping students informed and engaged throughout the documentation process while providing clear pathways for support."
+        },
+        {
+          "id": 5,
+          "title": "Family Commitment Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595555496482",
+              "segment_id": "31",
+              "timestamp": "2:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595450858429",
+                "segment_id": "13",
+                "timestamp": "2:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about balancing family responsibilities with study, exemplified by one student stating: 'I've actually got two young children and I've just thought of doing something a little different and taking a different avenue in life' (call_595555496482, seg_31).",
+          "consultant_response": "Across multiple calls, consultants typically responded with general reassurances about program flexibility without deeply exploring specific strategies for balancing family commitments. While well-intentioned, these responses often lacked the detailed, practical guidance needed to help students visualize successful study integration.",
+          "priority": "high",
+          "recommended_approach": "When students mention family commitments, engage in detailed exploration of their specific situation: 'Tell me about your typical day with your children. When do you usually have quiet moments?' Use this information to collaboratively develop practical study strategies: 'Many parents find success studying during naptime or after bedtime. What times might work best in your routine?' Share specific examples of how other parents manage: 'One of our students with young children breaks her study into 30-minute blocks throughout the day, while another dedicates weekend mornings while their partner manages childcare.' Discuss how our flexible submission policies accommodate family emergencies: 'If your child is sick or you have unexpected family commitments, you can request assignment extensions.' The key is making flexibility tangible through specific, practical examples rather than general reassurances. Remember to validate their concerns while demonstrating how our program features specifically address family-related challenges and support sustainable study patterns."
+        },
+        {
+          "id": 6,
+          "title": "Goal-Aligned Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664145008",
+              "segment_id": "50",
+              "timestamp": "4:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 50 of call 595664145008, the student expressed interest in a specific career path: 'Now what she's really wanting to do is she wants to take the criminal law pathway, you know.' This revelation provided an opportunity to demonstrate how our program structure could support their career aspirations while ensuring realistic expectations about the journey ahead.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning skills by outlining a clear pathway: 'Our criminal justice and criminology short course...is a pathway into the Bachelor of Laws later on. If you finish with a 60% average or higher, you can transfer into the Bachelor of Law.' This response effectively mapped out both immediate steps and future possibilities while maintaining focus on the student's ultimate goal.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in specific career pathways, begin by validating their career aspirations while establishing realistic expectations about the journey ahead. Start with acknowledgment: 'Criminal law offers exciting opportunities - let's explore how our programs can help you achieve this goal step by step.' Create clear progression milestones: 'The criminology short course provides an excellent foundation, and maintaining a 60% average ensures your pathway into the law degree.' Use success stories: 'Many of our current law students started exactly this way, using the short course to build confidence and confirm their interest in legal studies.' Discuss practical preparation: 'While in the short course, you'll develop crucial analytical and research skills that directly support law studies.' Always maintain focus on both immediate steps and long-term vision: 'Each unit you complete brings you closer to your goal while building essential skills for legal studies.' The key is creating realistic expectations while maintaining enthusiasm through clear, achievable milestones."
+        }
+      ]
+    }
+  }
+}
