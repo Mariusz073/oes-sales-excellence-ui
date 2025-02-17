@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 15,
+    "date_range": "02-03_02-07",
+    "report_type": "Adaptability"
+  },
+  "total_number_of_calls": 241,
+  "team_average_total_number_of_calls_per_sales_consultant": 253.6875,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 80,
+    "team_average_absolute_number": 70.125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 33.19502074688796,
+    "team_average_percentage": 27.813489709874816
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 161,
+    "team_average_absolute_number": 183.5625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 66.80497925311202,
+    "team_average_percentage": 72.18651029012518
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.71298107591705,
+    "team_average": 53.68171627040834
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 161,
+    "team_total_excluded_transcripts": 2938
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.77,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.51,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 154.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.25,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 130.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.62,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 175.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical, achievable steps"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical solutions tailored to specific work patterns and life commitments"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Strategic incorporation of support services with clear access points, practical examples, and specific success stories that enhance student confidence throughout their journey"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Return to Study Support",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, including exploration of transferable skills and available support services"
+      },
+      {
+        "headline": "External Stakeholder Planning",
+        "explanation": "Stronger strategies needed for supporting students in discussions with partners, employers and other key stakeholders about enrollment decisions and study plans"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566290041",
+              "segment_id": "20",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm working full time, so if I'm not able to attend a live class, are they pre-recorded?' (call_595566290041, seg_20), revealing need for study flexibility.",
+          "consultant_response": "Consultant effectively explained: 'The majority of our students are full-time working professionals...If you can't join them live, you can watch it back in your own time' (call_595566290041, seg_25), showing practical flexibility.",
+          "context_impact": "Critical moment to demonstrate program's compatibility with full-time work commitments to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how current working students manage their study schedules successfully."
+        },
+        {
+          "id": 2,
+          "title": "MBA Pathway Planning Success",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565631591",
+              "segment_id": "16",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'Would I be able to get into one of those or not possible?' (call_595565631591, seg_16), revealing uncertainty about MBA qualification requirements.",
+          "consultant_response": "Consultant effectively explained: 'With the MBA, the threshold for entry is quite high... So if the MBA is something you'd like to do down the track, the bachelor of business will provide you with direct entry into that' (call_595565631591, seg_22).",
+          "context_impact": "Critical moment requiring clear pathway guidance while maintaining engagement despite current ineligibility.",
+          "recommended_approach": "Include specific examples of successful student transitions from bachelor's to MBA programs with clear timelines."
+        },
+        {
+          "id": 3,
+          "title": "Comprehensive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732549118",
+              "segment_id": "176",
+              "timestamp": "07:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Okay cool and then if I wanted to like speak to like a teacher or something I mean like someone that can just be like hey this is where you're going wrong is that how easy is it to do that?' (call_595732549118, seg_176).",
+          "consultant_response": "Consultant provided detailed overview: 'You'll have a unit convener for each of them... you'll also have a dedicated e-learning advisor... and student advisor team available seven days a week outside of normal business hours' (call_595732549118, seg_179).",
+          "context_impact": "Vital moment to demonstrate comprehensive support systems and build confidence in academic success resources.",
+          "recommended_approach": "Include specific examples of how each support service has helped past students overcome challenges."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664185850",
+              "segment_id": "92",
+              "timestamp": "15:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I didn't make it through Year 10, but I started Year 10' (call_595664185850, seg_92), revealing potential concerns about academic preparation.",
+          "consultant_response": "Consultant simply noted: 'That's okay. And what calendar year would that have been?' (seg_94), missing opportunity for deeper support and confidence building.",
+          "context_impact": "Critical moment to address concerns about academic preparation and provide clear pathway guidance while building confidence.",
+          "recommended_approach": "Explore alternative pathways, available support services, and success stories while acknowledging valuable life experience."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821189762",
+              "segment_id": "33",
+              "timestamp": "3:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I did an MBA because my dad's a CEO and my mom's a lawyer and my aunt's a CEO' (call_595821189762, seg_33), indicating career transition desires.",
+          "consultant_response": "Consultant outlined flexible study options without exploring transferable skills or career transition strategies.",
+          "context_impact": "Opportunity to validate past achievements while supporting new career direction through program alignment.",
+          "recommended_approach": "Deepen exploration of how existing leadership skills could transfer to new field with specific examples from successful career changers."
+        },
+        {
+          "id": 6,
+          "title": "Partner Discussion Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821261438",
+              "segment_id": "115",
+              "timestamp": "08:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'll have a talk about it with my husband and then, yeah, I'll keep, sorry, you'll hear back from me early next week' (call_595821261438, seg_115).",
+          "consultant_response": "Consultant replied: 'Alright, no problem at all. I'll send that email through now for you' (call_595821261438, seg_117), missing chance to explore partner concerns.",
+          "context_impact": "Crucial opportunity to support external validation process and address potential partner concerns.",
+          "recommended_approach": "Provide specific resources and information to support productive discussion with partners while maintaining appropriate boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595566290041",
+              "segment_id": "20",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed their primary concern about balancing work and study commitments: 'I'm working full time, so if I'm not able to attend a live class, are they pre-recorded?' (call_595566290041, seg_20). This question revealed both their serious interest in the program and their need for reassurance about managing their professional obligations alongside their studies. The timing and nature of this inquiry provided an excellent opportunity to demonstrate the program's flexibility and practical compatibility with full-time work.",
+          "consultant_response": "The consultant provided a comprehensive and reassuring response: 'Yeah, so the majority of our students are full-time working professionals, so it is definitely something that is doable against a busy schedule. [...] If you can't join them live, you can watch it back in your own time as they are recorded as well' (call_595566290041, seg_25). This response effectively validated the student's concern while providing specific details about program structure and flexibility. By emphasizing that many current students are working professionals and explaining the concrete ways the program accommodates work schedules, the consultant successfully transformed a potential barrier into a manageable aspect of the program.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by validating the student's practical considerations. Start with acknowledgment: 'Your attention to managing work commitments shows you're thinking seriously about success.' Then share concrete examples from current students: 'Many of our working professionals download lecture content for offline viewing during quiet periods at work, then engage with online discussions during evenings.' Focus on specific flexibility features: 'Our recorded sessions mean you can study at 6am before work or 9pm after your shift - whatever suits your schedule best.' When discussing time management, demonstrate how other students succeed: 'One of our current students, also working full-time, breaks his study into 90-minute blocks three evenings a week, with longer sessions on weekends.' The goal is transforming work commitments from a perceived barrier into a manageable aspect of their educational journey, always grounding examples in real student experiences."
+        },
+        {
+          "id": 2,
+          "title": "MBA Pathway Planning Success",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595565631591",
+              "segment_id": "16",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "When the student inquired 'Would I be able to get into one of those or not possible?' (call_595565631591, seg_16), they revealed both ambition and uncertainty about MBA qualification requirements. This moment required careful handling to maintain engagement while providing clear pathway guidance, as immediate ineligibility could potentially discourage further exploration of educational options.",
+          "consultant_response": "The consultant demonstrated excellent planning skills by explaining: 'With the MBA, the threshold for entry is quite high... So if the MBA is something you'd like to do down the track, the bachelor of business will provide you with direct entry into that' (call_595565631591, seg_22). This response effectively acknowledged current limitations while immediately providing a clear pathway forward, transforming a potential barrier into a structured progression plan.",
+          "priority": "high",
+          "recommended_approach": "When discussing advanced qualification pathways, begin by validating the student's ambition while setting realistic expectations. Start with acknowledgment: 'Your interest in pursuing an MBA shows great career vision. Let's map out the most effective path to get you there.' Then outline specific steps: 'While direct MBA entry isn't possible right now, many successful students begin with our Bachelor of Business, which provides guaranteed MBA entry upon completion.' Share concrete examples: 'For instance, we had a student last year who started with the bachelor's program and is now transitioning into our MBA, finding that the business degree provided an excellent foundation for advanced study.' The key is transforming potential barriers into structured stepping stones, always grounding explanations in real student success stories and maintaining clear progression pathways throughout the discussion."
+        },
+        {
+          "id": 3,
+          "title": "Comprehensive Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732549118",
+              "segment_id": "176",
+              "timestamp": "07:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's question 'Okay cool and then if I wanted to like speak to like a teacher or something I mean like someone that can just be like hey this is where you're going wrong is that how easy is it to do that?' (call_595732549118, seg_176) indicated a critical need to understand available academic support. This query revealed underlying concerns about accessing help when needed and demonstrated the student's proactive approach to understanding support systems before enrollment.",
+          "consultant_response": "The consultant provided a comprehensive overview of support systems: 'You'll have a unit convener for each of them... you'll also have a dedicated e-learning advisor... and student advisor team available seven days a week outside of normal business hours' (call_595732549118, seg_179). This response effectively addressed the student's concerns by outlining multiple support channels and emphasizing their accessibility. The consultant's detailed explanation of different support roles demonstrated strong collaborative planning by helping the student understand exactly how and when they could access help.",
+          "priority": "high",
+          "recommended_approach": "When addressing support service inquiries, start by validating the student's proactive approach to understanding available resources. Begin with a clear overview: 'You'll never be studying alone - we have a comprehensive support network designed to help you succeed.' Then detail each support channel with specific examples: 'Your unit convener provides expert guidance on course content, like clarifying assignment requirements. Your e-learning advisor helps develop study strategies and time management skills. Additionally, our student support team is available seven days a week, even outside business hours.' Share real scenarios: 'For example, if you're working on an assignment at 8pm and need help with accessing resources or understanding requirements, you can call our support team for immediate assistance.' The goal is transforming abstract support services into concrete resources students feel confident accessing whenever needed."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595664185850",
+              "segment_id": "92",
+              "timestamp": "15:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "When the student shared 'I didn't make it through Year 10, but I started Year 10' (call_595664185850, seg_92), they revealed significant vulnerability about their educational background. This disclosure required careful handling to maintain confidence while providing clear pathways forward. The student's openness presented an opportunity to explore alternative routes while validating their life experience.",
+          "consultant_response": "The consultant's response was procedural rather than supportive: 'That's okay. And what calendar year would that have been?' (seg_94). This missed the critical opportunity to validate the student's experience, explore their subsequent achievements, and build confidence in their ability to succeed. The interaction failed to transform a potential barrier into a structured pathway forward.",
+          "priority": "high",
+          "recommended_approach": "When students disclose interrupted education histories, begin by acknowledging their courage in returning to study while highlighting how life experience enriches learning. Start with validation: 'Thank you for sharing that - many successful students come to us through non-traditional paths.' Then explore their experience: 'Tell me about what you've been doing since then - often work and life experience provide valuable skills for academic success.' Connect their experience to academic potential: 'Many students find their practical problem-solving skills from work transfer directly to academic analysis.' Share specific support resources: 'Our learning advisors specialize in helping students return to study, providing personalized strategies for success.' The goal is transforming perceived educational gaps into valuable life experience while ensuring students understand the comprehensive support available throughout their journey."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821189762",
+              "segment_id": "33",
+              "timestamp": "3:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed their family background and career transition desires: 'I did an MBA because my dad's a CEO and my mom's a lawyer and my aunt's a CEO' (call_595821189762, seg_33), indicating both accomplished experience and desire for change. This disclosure presented an opportunity to validate their background while supporting their new direction.",
+          "consultant_response": "The consultant focused primarily on program logistics and flexibility without exploring how the student's executive experience and MBA background could enhance their new career direction. This missed the opportunity to create meaningful connections between their current expertise and future goals.",
+          "priority": "high",
+          "recommended_approach": "When working with accomplished professionals seeking career change, begin by validating their existing achievements while embracing their new direction. Start with acknowledgment: 'Your executive background and MBA provide valuable perspectives that can enhance your transition into this new field.' Then explore their vision: 'How do you see your leadership experience informing your future role? Many of our career changers find their previous experience offers unique insights.' Create clear connections: 'Your MBA foundation in organizational behavior and leadership could be particularly valuable in understanding how our program's concepts apply in real-world settings.' Share specific examples: 'We had a former executive who found her strategic planning skills extremely valuable in our program, particularly when analyzing case studies from multiple perspectives.' The key is building bridges between their current expertise and future aspirations, helping them see how their experience creates advantages rather than barriers."
+        },
+        {
+          "id": 6,
+          "title": "Partner Discussion Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595821261438",
+              "segment_id": "115",
+              "timestamp": "08:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student indicated need for partner consultation: 'I'll have a talk about it with my husband and then, yeah, I'll keep, sorry, you'll hear back from me early next week' (call_595821261438, seg_115). This revealed the importance of external stakeholder support in their enrollment decision and presented an opportunity to provide resources supporting productive partnership discussions.",
+          "consultant_response": "The consultant provided minimal response: 'Alright, no problem at all. I'll send that email through now for you' (call_595821261438, seg_117), missing the opportunity to provide resources supporting productive partner discussions and address potential concerns proactively.",
+          "priority": "high",
+          "recommended_approach": "When students indicate they need to discuss enrollment with partners, acknowledge this as a positive step while providing resources to support the conversation. Begin with validation: 'It's great that you're involving your partner in this decision - family support often contributes to student success.' Then provide specific information to facilitate discussion: 'Let me share some key points many partners find helpful when discussing program commitments.' Include practical examples: 'Many of our students find that our flexible study options allow them to maintain family time while progressing their education.' Provide clear information about costs and time investments while maintaining appropriate boundaries: 'While I can't advise on personal financial decisions, I can provide clear information about program costs and payment options to inform your discussion.' The goal is equipping students with concrete information for productive family conversations while respecting personal decision-making processes."
+        }
+      ]
+    }
+  }
+}
