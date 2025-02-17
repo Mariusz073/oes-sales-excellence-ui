@@ -1,26 +1,25 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-export async function getTeamReportData(team: string, analysisType: string, week: string) {
+export async function getTeamReportData(team: string, analysisType: string, week: string, code?: string) {
   try {
     const teamPrefix = team === 'monash' ? 'MONU' : 'SOLU';
     const analysisKeyword = analysisType === 'compliance' ? 'Compliance' : 'Behavioural';
     
-    // For behavioral reports, we need to check both spellings and collaborative keyword
+    // For behavioral reports, we need to check both spellings and the specific code
     const analysisMatches = (file: string) => {
       const fileLower = file.toLowerCase();
       if (analysisType === 'compliance') {
         return fileLower.includes('compliance');
       } else {
-        return fileLower.includes('behavioural') || 
-               fileLower.includes('behavioral') || 
-               fileLower.includes('collaborative');
+        return (fileLower.includes('behavioural') || fileLower.includes('behavioral')) && 
+               (code ? fileLower.includes(code.toLowerCase()) : true);
       }
     };
     
     const teamReportsDir = path.join(process.cwd(), 'app/data/team_reports');
     console.log('Looking in directory:', teamReportsDir);
-    console.log('Search parameters:', { team, analysisType, week });
+    console.log('Search parameters:', { team, analysisType, week, code });
     
     // Check if directory exists
     try {
@@ -32,7 +31,7 @@ export async function getTeamReportData(team: string, analysisType: string, week
     
     const files = await fs.readdir(teamReportsDir);
     console.log('Available files:', files);
-    console.log('Looking for file with:', { teamPrefix, analysisKeyword });
+    console.log('Looking for file with:', { teamPrefix, analysisKeyword, code });
     
     // Find file that matches team prefix, analysis type, and week number
     const matchingFile = files.find(file => {
@@ -45,6 +44,7 @@ export async function getTeamReportData(team: string, analysisType: string, week
         teamPrefix,
         analysisKeyword,
         week,
+        code,
         matchesTeam,
         matchesAnalysis,
         matchesWeek,

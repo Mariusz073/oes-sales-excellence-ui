@@ -75,12 +75,13 @@ interface TeamReportData {
 export default async function TeamReportPage({
   searchParams,
 }: {
-  searchParams: { team: string; analysis: string; week: string };
+  searchParams: { team: string; analysis: string; week: string; code?: string };
 }): Promise<JSX.Element> {
   const reportData = (await getTeamReportData(
     searchParams.team,
     searchParams.analysis,
-    searchParams.week
+    searchParams.week,
+    searchParams.code
   )) as TeamReportData | null;
 
   // Transform data for behavioral reports

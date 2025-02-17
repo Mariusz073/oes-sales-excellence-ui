@@ -42,6 +42,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   const [selectedWeek, setSelectedWeek] = useState<string>('');
   const [availableWeeks, setAvailableWeeks] = useState<string[]>([]);
 
+  // Options for individual report analysis
   const analysisOptions = [
     { code: 'COLL', label: 'Collaborative Planning' },
     { code: 'ADAP', label: 'Adaptability' },
@@ -53,6 +54,21 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
     { code: 'OBJE', label: 'Objection Handling' },
     { code: 'PROF', label: 'Professionalism and Composure' },
     { code: 'ONEC', label: 'One Call Resolution' }
+  ];
+
+  // Options for team report analysis
+  const teamAnalysisOptions = [
+    { value: 'behavioural-coll', label: 'Behavioural-Collaborative Planning', code: 'COLL' },
+    { value: 'behavioural-adap', label: 'Behavioural-Adaptability', code: 'ADAP' },
+    { value: 'behavioural-clea', label: 'Behavioural-Clear and Effective Communication', code: 'CLEA' },
+    { value: 'behavioural-conf', label: 'Behavioural-Confidence and Expertise', code: 'CONF' },
+    { value: 'behavioural-cons', label: 'Behavioural-Consultative Approach', code: 'CONS' },
+    { value: 'behavioural-empa', label: 'Behavioural-Empathy', code: 'EMPA' },
+    { value: 'behavioural-acti', label: 'Behavioural-Active Listening', code: 'ACTI' },
+    { value: 'behavioural-obje', label: 'Behavioural-Objection Handling', code: 'OBJE' },
+    { value: 'behavioural-prof', label: 'Behavioural-Professionalism and Composure', code: 'PROF' },
+    { value: 'behavioural-onec', label: 'Behavioural-One Call Resolution', code: 'ONEC' },
+    { value: 'compliance', label: 'Compliance - Call recording disclosure' }
   ];
 
   // Update available weeks for individual reports when person or analysis changes
@@ -76,17 +92,19 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   useEffect(() => {
     if (selectedTeam && selectedAnalysis) {
       const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
-      const analysisType = selectedAnalysis === 'compliance' ? 'Compliance' : 'Behavioural';
+      const selectedOption = teamAnalysisOptions.find(option => option.value === selectedAnalysis);
       
       // Get all files that match the pattern
       const matchingFiles = teamReportFiles.filter(file => {
         const filename = file.filename;
-        // Handle both naming patterns for behavioral reports
-        if (analysisType === 'Behavioural') {
+        if (selectedAnalysis === 'compliance') {
+          return filename.includes(prefix) && filename.includes('Compliance');
+        } else {
+          // For behavioral reports, match the specific code
           return filename.includes(prefix) && 
-                 (filename.includes('Behavioural-COLL') || filename.includes('Behavioural'));
+                 filename.includes('Behavioural') && 
+                 filename.includes(selectedOption?.code || '');
         }
-        return filename.includes(prefix) && filename.includes(analysisType);
       });
 
       // Extract week numbers
@@ -143,14 +161,39 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
 
   const handleViewTeamReport = () => {
     if (selectedTeam && selectedAnalysis && selectedWeek) {
-      // Open in new tab
-      window.open(`/team_report?team=${selectedTeam}&analysis=${selectedAnalysis}&week=${selectedWeek}`, '_blank');
+      const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
+      const selectedOption = teamAnalysisOptions.find(option => option.value === selectedAnalysis);
+      
+      // Find the matching file to get its exact name
+      const teamFile = teamReportFiles.find(file => {
+        const filename = file.filename;
+        if (selectedAnalysis === 'compliance') {
+          return filename.includes(prefix) && 
+                 filename.includes('Compliance') && 
+                 filename.includes(`W${selectedWeek}`);
+        } else {
+          return filename.includes(prefix) && 
+                 filename.includes('Behavioural') && 
+                 filename.includes(selectedOption?.code || '') && 
+                 filename.includes(`W${selectedWeek}`);
+        }
+      });
+
+      if (teamFile) {
+        // For behavioral reports, use 'behavioural' as the analysis type and include the code
+        const analysisType = selectedAnalysis === 'compliance' ? 'compliance' : 'behavioural';
+        const analysisCode = selectedOption?.code || '';
+        window.open(`/team_report?team=${selectedTeam}&analysis=${analysisType}&code=${analysisCode}&week=${selectedWeek}`, '_blank');
+      }
     }
   };
 
-  const selectStyles = `bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
-                       border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
-                       appearance-none cursor-pointer w-[300px] font-medium`;
+  const baseSelectStyles = `bg-[#252525] text-white px-4 py-3 rounded-lg text-base 
+                          border-none outline-none focus:ring-2 focus:ring-[#ff6b6b] 
+                          appearance-none cursor-pointer font-medium`;
+
+  const standardWidth = 'w-[300px]';
+  const analysisWidth = 'w-[469px]';
 
   const dropdownArrowStyle = {
     backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
@@ -177,7 +220,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
         <div className="mt-4">
           <div className="flex items-center gap-4">
             <select
-              className={`${selectStyles} ${!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0) ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`${baseSelectStyles} ${standardWidth} ${!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0) ? 'opacity-50 cursor-not-allowed' : ''}`}
               value={selectedPerson}
               aria-label="Select a report"
               onChange={(e) => {
@@ -210,7 +253,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             </select>
 
             <select
-              className={`${selectStyles} ${!selectedPerson ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`${baseSelectStyles} ${analysisWidth} ${!selectedPerson ? 'opacity-50 cursor-not-allowed' : ''}`}
               value={selectedPersonAnalysis}
               aria-label="Select kind of analysis"
               onChange={(e) => {
@@ -229,7 +272,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             </select>
 
             <select
-              className={`${selectStyles} ${!selectedPerson || !selectedPersonAnalysis ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`${baseSelectStyles} ${standardWidth} ${!selectedPerson || !selectedPersonAnalysis ? 'opacity-50 cursor-not-allowed' : ''}`}
               value={selectedPersonWeek}
               aria-label="Select week number"
               onChange={(e) => setSelectedPersonWeek(e.target.value)}
@@ -265,7 +308,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
         <div className="mt-4">
           <div className="flex items-center gap-4">
             <select
-              className={`${selectStyles} ${!isAdmin && !privileges.teamMonash && !privileges.teamSOL ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`${baseSelectStyles} ${standardWidth} ${!isAdmin && !privileges.teamMonash && !privileges.teamSOL ? 'opacity-50 cursor-not-allowed' : ''}`}
               disabled={!isAdmin && !privileges.teamMonash && !privileges.teamSOL}
               value={selectedTeam}
               aria-label="Select team"
@@ -278,7 +321,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             </select>
 
             <select
-              className={`${selectStyles} ${!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`${baseSelectStyles} ${analysisWidth} ${!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative ? 'opacity-50 cursor-not-allowed' : ''}`}
               disabled={!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative}
               value={selectedAnalysis}
               aria-label="Select analysis type"
@@ -286,12 +329,18 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               style={dropdownArrowStyle}
             >
               <option value="">Kind of analysis</option>
-              {(isAdmin || privileges.teamBehavioural) && <option value="behavioural">Behavioural-Collaborative planning</option>}
-              {(isAdmin || privileges.teamCollaborative) && <option value="compliance">Compliance - Call recording disclosure</option>}
+              {teamAnalysisOptions.map(option => (
+                ((option.value.startsWith('behavioural') && (isAdmin || privileges.teamBehavioural)) ||
+                 (option.value === 'compliance' && (isAdmin || privileges.teamCollaborative))) && (
+                  <option key={option.value} value={option.value}>
+                    {option.label}
+                  </option>
+                )
+              ))}
             </select>
 
             <select
-              className={`${selectStyles} ${!selectedTeam || !selectedAnalysis ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`${baseSelectStyles} ${standardWidth} ${!selectedTeam || !selectedAnalysis ? 'opacity-50 cursor-not-allowed' : ''}`}
               value={selectedWeek}
               aria-label="Select week number"
               onChange={(e) => setSelectedWeek(e.target.value)}
@@ -300,17 +349,21 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             >
               <option value="">Week</option>
               {availableWeeks.map((week) => {
+                const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
+                const selectedOption = teamAnalysisOptions.find(option => option.value === selectedAnalysis);
+                
                 const teamFile = teamReportFiles.find(file => {
                   const filename = file.filename;
-                  const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
-                  const isCorrectTeam = filename.includes(prefix);
-                  const hasCorrectWeek = filename.includes(`W${week}`);
-                  
-                  if (selectedAnalysis === 'behavioural') {
-                    return isCorrectTeam && hasCorrectWeek && 
-                           (filename.includes('Behavioural-COLL') || filename.includes('Behavioural'));
+                  if (selectedAnalysis === 'compliance') {
+                    return filename.includes(prefix) && 
+                           filename.includes('Compliance') && 
+                           filename.includes(`W${week}`);
+                  } else {
+                    return filename.includes(prefix) && 
+                           filename.includes('Behavioural') && 
+                           filename.includes(selectedOption?.code || '') && 
+                           filename.includes(`W${week}`);
                   }
-                  return isCorrectTeam && hasCorrectWeek && filename.includes('Compliance');
                 });
                 return (
                   <option key={week} value={week}>
