@@ -165,23 +165,6 @@ export default async function TeamReportPage({
     })
     .sort((a, b) => b.percentage - a.percentage);
 
-  // Create array of 13 positions
-  const totalBars = 13;
-  const bars = Array.from({ length: totalBars }, (_, index) => {
-    if (index == 0) {
-      return reportData.graph.bars[0];
-    }
-    if (reportData.graph.bars.length <= totalBars) {
-      return index < reportData.graph.bars.length
-        ? reportData.graph.bars[index]
-        : null;
-    }
-    return reportData.graph.bars[
-      reportData.graph.bars.length - totalBars + index // PK: Show only the last 13 bars
-    ];
-    return null;
-  });
-
   return (
     <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
       <div className="max-w-7xl mx-auto">
@@ -234,7 +217,7 @@ export default async function TeamReportPage({
             </div>
           </div>
 
-          <div className="relative h-[400px] mt-16 mb-24">
+          <div className="relative h-[460px] mt-16">
             {/* Y-axis labels */}
             <div className="absolute -left-2 -top-11 h-[110%] flex flex-col justify-between text-xs text-gray-400 font-normal">
               <span>% compliance</span>
@@ -251,74 +234,71 @@ export default async function TeamReportPage({
               <span>0</span>
             </div>
 
-            {/* Bars Container */}
-            <div
-              className="relative h-[98%] ml-8 grid"
-              style={{
-                gridTemplateColumns: "repeat(13, calc((100% - 96px) / 13))",
-                gap: "8px",
-              }}
-            >
-              {bars.map((graph, index) => (
-                <div key={index} className="relative">
-                  {graph ? (
-                    <>
-                      <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
-                        {reportData.type === "Compliance"
-                          ? `${graph.green + graph.red!}%`
-                          : `${Math.round((graph.green / 380) * 100)}%`}
-                      </div>
-                      <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
-                        {/* Green bar */}
+            {/* Bar Graph */}
+            <div className="relative h-full ml-8">
+              <div className="relative h-full flex gap-2">
+                {reportData.graph.bars.map((graph, index) => (
+                  <div
+                    key={index}
+                    className="relative"
+                    style={{
+                      width: `calc((100% - ${
+                        (reportData.graph.bars.length - 1) * 8
+                      }px) / ${reportData.graph.bars.length})`,
+                    }}
+                  >
+                    <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
+                      {reportData.type === "Compliance"
+                        ? `${graph.green + graph.red!}%`
+                        : `${Math.round((graph.green / 380) * 100)}%`}
+                    </div>
+                    <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
+                      {/* Green bar */}
+                      <div
+                        className="absolute bottom-0 w-full bg-[#78c38e]"
+                        style={{
+                          height: `${
+                            reportData.type === "behavioural" ||
+                            reportData.type === "behavioral"
+                              ? (graph.green / 380) * 100
+                              : graph.green
+                          }%`,
+                        }}
+                      ></div>
+                      {reportData.type === "Compliance" ? (
+                        /* Partial compliance bar for Compliance type */
                         <div
-                          className="absolute bottom-0 w-full bg-[#78c38e]"
+                          className="absolute w-full bg-[#FF6B8A]"
                           style={{
-                            height: `${
-                              reportData.type === "behavioural" ||
-                              reportData.type === "behavioral"
-                                ? (graph.green / 380) * 100
-                                : graph.green
-                            }%`,
+                            bottom: `${graph.green}%`,
+                            height: `${graph.red}%`,
                           }}
                         ></div>
-                        {reportData.type === "Compliance" ? (
-                          /* Partial compliance bar for Compliance type */
+                      ) : (
+                        /* Upper and Lower bound lines for Behavioral type */
+                        <>
                           <div
-                            className="absolute w-full bg-[#FF6B8A]"
+                            className="absolute w-full h-[2px] bg-[#FF6B8A]"
                             style={{
-                              bottom: `${graph.green}%`,
-                              height: `${graph.red}%`,
+                              bottom: `${(graph.lowerBound / 380) * 100}%`,
                             }}
                           ></div>
-                        ) : (
-                          /* Upper and Lower bound lines for Behavioral type */
-                          <>
-                            <div
-                              className="absolute w-full h-[2px] bg-[#FF6B8A]"
-                              style={{
-                                bottom: `${(graph.lowerBound / 380) * 100}%`,
-                              }}
-                            ></div>
-                            <div
-                              className="absolute w-full h-[2px] bg-[#FF6B8A]"
-                              style={{
-                                bottom: `${(graph.upperBound / 380) * 100}%`,
-                              }}
-                            ></div>
-                          </>
-                        )}
-                      </div>
-                      {/* X-axis label */}
-                      <div className="absolute bottom-[-52px] text-xs text-gray-400 font-normal text-center w-full leading-tight">
-                        {graph.title}
-                      </div>
-                    </>
-                  ) : (
-                    // Empty black bar for unused positions
-                    <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full"></div>
-                  )}
-                </div>
-              ))}
+                          <div
+                            className="absolute w-full h-[2px] bg-[#FF6B8A]"
+                            style={{
+                              bottom: `${(graph.upperBound / 380) * 100}%`,
+                            }}
+                          ></div>
+                        </>
+                      )}
+                    </div>
+                    {/* X-axis label */}
+                    <div className="absolute -bottom-14 text-xs text-gray-400 font-normal text-center w-full leading-tight">
+                      {graph.title}
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>
