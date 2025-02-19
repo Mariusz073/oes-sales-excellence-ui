@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 289,
+  "team_average_total_number_of_calls_per_sales_consultant": 242.8125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 96,
+    "team_average_absolute_number": 62.3125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 33.21799307958477,
+    "team_average_percentage": 25.75705321113411
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 193,
+    "team_average_absolute_number": 180.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 66.78200692041523,
+    "team_average_percentage": 74.2429467888659
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.35710860229414,
+    "team_average": 53.5140458127338
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 193,
+    "team_total_excluded_transcripts": 2888
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 114.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.9,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.88,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 138.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.77,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 132.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.67,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through collaborative exploration"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work commitments, geographic constraints, and career transitions through practical, tailored solutions"
+      },
+      {
+        "headline": "Credit Recognition Support",
+        "explanation": "Effective validation and leveraging of prior qualifications to create accelerated study pathways while building confidence and demonstrating tangible benefits"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how educational pathways specifically align with career transition goals while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Study Load Management",
+        "explanation": "More comprehensive collaborative exploration needed when discussing study load options and strategies for balancing academic commitments with existing responsibilities"
+      },
+      {
+        "headline": "Process Communication Strategy",
+        "explanation": "Clearer guidance required through administrative processes while maintaining engagement and demonstrating support availability throughout the enrollment journey"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and detailed offline study capabilities."
+        },
+        {
+          "id": 2,
+          "title": "Credit Recognition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596012632184",
+              "segment_id": "10",
+              "timestamp": "00:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596253297288",
+                "segment_id": "19",
+                "timestamp": "01:32"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Yes, so I've completed a diploma in business and I was looking to use that to apply for the Bachelor of Marketing' (call_596012632184, seg_10), seeking pathway acceleration through prior learning recognition.",
+          "consultant_response": "Consultant effectively responded: 'If you can reply to that email with those diploma documents, I will not only ring you up and secure your place to study with, but I can also give you eight units of credit for your diploma as well' (call_596012632184, seg_37).",
+          "context_impact": "Recognition of prior qualifications could significantly influence enrollment by demonstrating accelerated pathway possibilities.",
+          "recommended_approach": "Include more specific exploration of how credits apply to program structure and career goals, with clear examples of credit integration into study plans."
+        },
+        {
+          "id": 3,
+          "title": "Educational Progression Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "30",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596019607084",
+                "segment_id": "128",
+                "timestamp": "15:22"
+              }
+            ]
+          },
+          "student_trigger": "Student inquired: 'I was wondering if I can basically push you maybe bachelor's first and master's degree afterwards' (call_595732493616, seg_30), seeking comprehensive progression planning.",
+          "consultant_response": "Consultant outlined pathway: 'Your Diploma would give you eight units of credit towards our Bachelor's... you could then enroll into the Master's' (call_595732493616, seg_37), providing clear progression steps.",
+          "context_impact": "Critical opportunity to create clear progression pathway while validating aspirations through collaborative discussion.",
+          "recommended_approach": "Develop more detailed collaborative exploration of how current experience and interests align with program pathways while maintaining realistic timelines."
+        },
+        {
+          "id": 4,
+          "title": "Career Change Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090916674",
+              "segment_id": "5",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'basically last year I kind of decided that the career path I was on was a bit **** and I've just been kind of thinking about what I want to do instead.' (call_596090916674, seg_5), revealing significant career transition needs.",
+          "consultant_response": "Consultant replied procedurally: 'So what kind of study have you completed previously?' (call_596090916674, seg_6), missing opportunity for empathetic engagement.",
+          "context_impact": "Critical opportunity to validate career transition goals while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Acknowledge career transition goals while exploring educational pathways that support career change, maintaining appropriate advisory boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "128",
+              "timestamp": "07:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'With those elective units, so that'll be taking up some units, do you think I'm going to run into an issue with, like, doing three units per period?' (call_595732493616, seg_128), seeking study load guidance.",
+          "consultant_response": "Consultant provided basic guidance: 'Typically most students will start with two units and then do three' (call_595732493616, seg_132), without exploring personal circumstances.",
+          "context_impact": "Critical opportunity to collaboratively plan a manageable study approach based on individual circumstances.",
+          "recommended_approach": "Engage in detailed discussion of student's specific circumstances and capacity to develop a personalized study plan with practical examples."
+        },
+        {
+          "id": 6,
+          "title": "Process Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596104647566",
+              "segment_id": "0",
+              "timestamp": "00:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Hi, my name is Mackenzie, I applied for a Bachelor of Business online and I got a text saying that I got approved' (call_596104647566, seg_0), seeking next steps guidance.",
+          "consultant_response": "Consultant responded: 'That would have been my colleague Gabriel, let me see if he's free Mackenzie' (call_596104647566, seg_2), without providing immediate value or direction.",
+          "context_impact": "First contact after approval represented crucial moment for maintaining enrollment momentum through clear process communication.",
+          "recommended_approach": "Provide immediate validation and clear next steps before any transfer to maintain momentum, using transition time effectively for enrollment preparation."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, always start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Credit Recognition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596012632184",
+              "segment_id": "10",
+              "timestamp": "00:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596253297288",
+                "segment_id": "19",
+                "timestamp": "01:32"
+              }
+            ]
+          },
+          "student_trigger": "The student proactively shared their educational background: 'Yes, so I've completed a diploma in business and I was looking to use that to apply for the Bachelor of Marketing' (call_596012632184, seg_10). This represented a critical opportunity to validate prior learning and create a personalized educational pathway.",
+          "consultant_response": "The consultant effectively engaged with the credit recognition opportunity, stating: 'If you can reply to that email with those diploma documents, I will not only ring you up and secure your place to study with, but I can also give you eight units of credit for your diploma as well' (call_596012632184, seg_37). This response demonstrated strong understanding of how to leverage prior learning while maintaining enrollment momentum.",
+          "priority": "high",
+          "recommended_approach": "When students share their prior qualifications, transform this information into a personalized educational pathway that validates their experience while building momentum toward enrollment. Begin with acknowledgment: 'Your business diploma provides an excellent foundation for the Bachelor of Marketing.' Then explore alignment with goals: 'Let's look at how your previous studies can fast-track your journey. What aspects of your diploma did you find most relevant to your marketing interests?' Pay particular attention to students transitioning between related fields, helping them see connections between previous studies and future goals. The key is making credit recognition feel less administrative and more like strategic career planning, always grounding discussions in the student's expressed interests and aspirations. Share examples of how similar students have successfully built upon their diploma studies: 'Many of our marketing students with business diplomas find they have a strong advantage in advanced units due to their foundational knowledge.' When discussing exemptions, provide clear examples of how these credits integrate into their study plan: 'These eight units of credit mean you're already a quarter of the way through your degree, and your business foundation will be particularly valuable in units like Marketing Strategy.'"
+        },
+        {
+          "id": 3,
+          "title": "Educational Progression Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "30",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596019607084",
+                "segment_id": "128",
+                "timestamp": "15:22"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 30), the student initiated collaborative pathway planning by asking: 'I was wondering if I can basically push you maybe bachelor's first and master's degree afterwards.' This strategic inquiry revealed both immediate interest in enrollment and longer-term educational aspirations, creating an opportunity for comprehensive progression planning.",
+          "consultant_response": "The consultant engaged in effective collaborative planning by mapping out a clear progression pathway: 'Your Diploma would give you eight units of credit towards our Bachelor's... you could then enroll into the Master's' (call_595732493616, seg_37). This response validated the student's aspirations while providing specific progression steps, helping them visualize their educational journey from current position to ultimate goal.",
+          "priority": "high",
+          "recommended_approach": "When discussing educational progression, begin by validating both immediate and long-term aspirations. Start with clear acknowledgment: 'It's great that you're thinking strategically about your educational journey. Let's map out a pathway that supports both your immediate goals and future aspirations.' Guide structured exploration: 'First, let's look at how your current qualifications create a foundation, then explore how each step builds toward your ultimate goal.' When discussing multiple qualification levels, provide specific timelines and transition points: 'You could complete your Bachelor's in two years with your current credits, then transition directly into the Master's program.' Pay particular attention to maintaining realistic expectations while encouraging ambition: 'While planning long-term goals is valuable, let's ensure each step provides meaningful qualifications and career advancement opportunities.' Share success stories of similar progression paths: 'Many students successfully navigate this journey, using their Bachelor's experience to enhance their Master's studies.' The key is creating a clear vision of the complete educational journey while maintaining focus on immediate enrollment steps."
+        },
+        {
+          "id": 4,
+          "title": "Career Change Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090916674",
+              "segment_id": "5",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant career dissatisfaction and uncertainty: 'basically last year I kind of decided that the career path I was on was a bit **** and I've just been kind of thinking about what I want to do instead.' (call_596090916674, seg_5). This vulnerable disclosure presented a crucial opportunity to engage in supportive exploration of new career directions through education.",
+          "consultant_response": "The consultant missed the emotional weight of the disclosure, responding procedurally: 'So what kind of study have you completed previously?' (call_596090916674, seg_6). This response failed to acknowledge the student's career transition needs and missed the opportunity to explore how educational pathways could support their desired change.",
+          "priority": "high",
+          "recommended_approach": "When students express career dissatisfaction and seeking change, it's essential to acknowledge their situation while maintaining appropriate boundaries between sales and career counseling roles. Begin with empathetic validation: 'Thank you for sharing that with me. It takes courage to recognize when you're ready for a career change.' Then, focus the discussion on educational pathways that could support their transition: 'While I can't provide specific career advice, I can help you explore how our programs might support your career transition goals. What fields or roles interest you now?' Guide the conversation toward program benefits that align with career development: 'Our programs include practical skills and industry connections that can support career transitions.' Share examples of how similar students have successfully navigated career changes: 'Many of our students have used this program as a springboard into new careers, building on their existing experience while developing new skills.' When discussing program features, link them directly to career development: 'Our units in organizational leadership have helped many students transition into management roles, while our industry-focused projects provide practical experience you can discuss in job interviews.'"
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "128",
+              "timestamp": "07:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about managing their study load: 'With those elective units, so that'll be taking up some units, do you think I'm going to run into an issue with, like, doing three units per period?' (call_595732493616, seg_128). This question revealed thoughtful consideration of their capacity to manage academic commitments and showed a need for guidance in planning a sustainable study approach.",
+          "consultant_response": "The consultant provided a basic response about typical study patterns: 'Typically most students will start with two units and then do three' (call_595732493616, seg_132). While this offered some guidance, it missed the opportunity to explore the student's specific circumstances and develop a truly personalized study plan.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load planning, begin by acknowledging the student's proactive thinking about managing their commitments. Start with validation: 'It's excellent that you're thinking carefully about managing your study load - this kind of planning is crucial for success.' Then explore their specific situation with targeted questions about current commitments, previous study experience, and work responsibilities. Create a collaborative dialogue that uncovers their unique circumstances and capacity for study. Share specific examples of how similar students manage their study loads: 'Many students working full-time find starting with two units helps them establish effective study routines.' Develop a personalized plan that considers their individual circumstances, using practical examples: 'Given your current work schedule, we could look at structuring your units to align with your quieter periods.' When discussing unit combinations, provide specific insights: 'Students often pair a theory-heavy unit with a more practical one to balance the workload.' Pay attention to potential pressure points in their schedule, offering strategies for managing busy periods: 'During intensive work periods, you might reduce to one unit, then increase your load during lighter periods.'"
+        },
+        {
+          "id": 6,
+          "title": "Process Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596104647566",
+              "segment_id": "0",
+              "timestamp": "00:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student initiated contact after receiving approval: 'Hi, my name is Mackenzie, I applied for a Bachelor of Business online and I got a text saying that I got approved' (call_596104647566, seg_0). This represented a crucial moment to validate their approval and provide clear next steps in their enrollment journey.",
+          "consultant_response": "The consultant's response was purely administrative: 'That would have been my colleague Gabriel, let me see if he's free Mackenzie' (call_596104647566, seg_2). This missed the opportunity to acknowledge the approval achievement and provide immediate guidance, potentially leaving the student feeling uncertain about their next steps.",
+          "priority": "high",
+          "recommended_approach": "When handling post-approval contact, begin by celebrating this milestone and immediately providing clear direction, regardless of any needed transfers. Start with enthusiastic acknowledgment: 'Congratulations on your approval, Mackenzie! That's an exciting step forward.' Then provide immediate value: 'While I connect you with Gabriel who's managing your application, let me outline what happens next.' Share specific next steps: 'You'll receive a welcome email within 24 hours containing your student portal access and enrollment checklist.' When transfers are necessary, maintain engagement: 'Gabriel will help you complete your enrollment, but I can explain the general process while we connect you.' Use the transition time effectively: 'While we wait, let's review your unit preferences to ensure a smooth enrollment process.' Pay particular attention to maintaining momentum during administrative transitions: 'Let's use this time to ensure you're clear on the immediate next steps, so you can hit the ground running with Gabriel.' Always end with clear expectations: 'If Gabriel isn't available right now, he'll call you back within 2 hours, and in the meantime, you can start gathering your enrollment documents.'"
+        }
+      ]
+    }
+  }
+}

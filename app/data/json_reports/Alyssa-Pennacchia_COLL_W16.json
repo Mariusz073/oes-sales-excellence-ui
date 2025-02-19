@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 306,
+  "team_average_total_number_of_calls_per_sales_consultant": 229.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 53,
+    "team_average_absolute_number": 46.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 17.320261437908496,
+    "team_average_percentage": 25.638189410827206
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 253,
+    "team_average_absolute_number": 183.63636363636363
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 82.6797385620915,
+    "team_average_percentage": 65.27090149826371
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.24702731587987,
+    "team_average": 56.25193772093511
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 254,
+    "team_total_excluded_transcripts": 2021
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 134.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.26,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.05,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 120.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 80.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 157.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.28,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 155.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.72,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 95.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.77,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 131.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.01,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 173.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.9,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 135.01,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.82,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through specific support mechanisms and clear milestone achievements"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical, actionable examples and comprehensive support systems"
+      },
+      {
+        "headline": "Professional Experience Recognition",
+        "explanation": "Effective validation and leveraging of students' professional experience to build confidence and demonstrate program relevance while enriching the learning environment through peer connections"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate guidance boundaries and clear support pathways"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, including specific success strategies, concrete examples, and clear support mechanisms"
+      },
+      {
+        "headline": "Complex Documentation Management",
+        "explanation": "Clearer guidance required for managing international transcripts and transfer credits while maintaining enrollment momentum through interim solutions and structured planning"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by another student noting: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). Another consultant reinforced: 'The beauty of our platform is you can switch between online and offline study' (call_595732548084, seg_164).",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and demonstrate how different shift patterns can be accommodated."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090912145",
+              "segment_id": "15",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596090912145, seg_15), revealing significant anxiety about academic readiness after an extended break.",
+          "consultant_response": "Consultant asked: 'What's changed in your circumstances since then that's made you consider studying again?' (call_596090912145, seg_17), missing opportunity to provide immediate reassurance and support details.",
+          "context_impact": "Critical opportunity to address confidence concerns and demonstrate comprehensive support systems while validating professional experience.",
+          "recommended_approach": "Provide specific examples of support services, share success stories of similar students who excelled after long breaks, and demonstrate how professional experience enhances academic success."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907943965",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'And I need to get into the study stream, so the idea would be is that I can start in the diploma, so the graduate certificate' (call_595907943965, seg_23), revealing proactive thinking about educational progression.",
+          "consultant_response": "Consultant validated approach: 'Yeah, that's absolutely fine. We can do that. Have you, you've not completed a degree before this based on work experience?' (call_595907943965, seg_24), effectively balancing support with qualification verification.",
+          "context_impact": "Critical moment to validate alternative entry pathway while maintaining alignment with institutional requirements and supporting student initiative.",
+          "recommended_approach": "Include more specific examples of successful pathway transitions and outline clear milestone achievements for similar scenarios."
+        },
+        {
+          "id": 4,
+          "title": "International Documentation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013328161",
+              "segment_id": "57",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student explained: 'So my Canadian grades haven't been transferred over to my UNSW transcript yet' (call_596013328161, seg_57), revealing complexity in international documentation requirements.",
+          "consultant_response": "Consultant only acknowledged: 'Oh, OK. Yes. Sometimes that can take some time' (call_596013328161, seg_60), missing opportunity for strategic planning and interim solutions.",
+          "context_impact": "Critical moment to provide clear guidance on managing international transcripts while maintaining enrollment momentum through structured planning.",
+          "recommended_approach": "Develop clear action plan for managing international transcript processing including interim solutions and specific timeline expectations."
+        },
+        {
+          "id": 5,
+          "title": "Professional Network Development",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267563999",
+              "segment_id": "27",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'Will I be able to connect with other professionals in my field?' (call_596267563999, seg_27), seeking concrete information about networking opportunities and professional development.",
+          "consultant_response": "Consultant effectively outlined peer learning opportunities and specific industry connections, showing clear pathway to professional network development through course interactions and group projects.",
+          "context_impact": "Opportunity to demonstrate program's concrete professional networking value and industry-specific benefits.",
+          "recommended_approach": "Include more success stories and specific examples of professional relationships formed through program collaboration."
+        },
+        {
+          "id": 6,
+          "title": "Life Integration Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013463910",
+              "segment_id": "35",
+              "timestamp": "02:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm obviously working as well, and I have three kids, and you know, I'm kind of busy' (call_596013463910, seg_35), revealing significant concerns about balancing multiple family and professional commitments.",
+          "consultant_response": "Consultant explained flexible options: 'You can defer teaching periods if you need to, if you need to take breaks' (call_596013463910, seg_39), showing program adaptability while maintaining academic progression.",
+          "context_impact": "Essential moment to demonstrate program flexibility and practical support options while maintaining enrollment momentum through specific examples.",
+          "recommended_approach": "Provide more specific examples of how working parents successfully manage study commitments and utilize available support resources effectively."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 595732493616 (segment 23), the student expressed significant concern about managing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The consultant demonstrated strong understanding of healthcare workflows, responding with practical solutions: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable.' In the supporting call, the consultant reinforced the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience and maintaining focus on practical implementation strategies."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090912145",
+              "segment_id": "15",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596090912145 (segment 15), the student expressed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This vulnerable disclosure represented a crucial moment to address confidence concerns and demonstrate available support mechanisms. The student's openness about their fears provided an opportunity to show how the program supports returning students through comprehensive resources and structured guidance.",
+          "consultant_response": "The consultant's response, while reflective, missed the opportunity to provide immediate reassurance: 'What's changed in your circumstances since then that's made you consider studying again?' While this question encouraged reflection, it didn't address the immediate concerns about academic readiness or highlight available support services that could build confidence and demonstrate clear pathways to success.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after a long break, begin by normalizing their feelings while highlighting support systems. Start with validation: 'Many of our successful students return to study after similar breaks, and we have specific support systems to help you transition back.' Then explore their current strengths: 'Your professional experience often provides valuable perspectives that enhance academic success.' Share specific examples of how working professionals leverage their experience: 'Many students find their project management skills from work directly enhance their academic performance.' For instance, highlight a success story: 'One of our recent graduates returned to study after 20 years and found their industry experience gave them unique insights into case studies.' Outline concrete support mechanisms: 'We offer study skills workshops, time management coaching, and one-on-one learning adviser support.' The key is building confidence through tangible examples and clear support pathways, always maintaining a balance between encouragement and realistic preparation for academic demands while emphasizing how professional experience enhances academic success."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907943965",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595907943965 (segment 23), the student articulated a clear educational progression plan: 'And I need to get into the study stream, so the idea would be is that I can start in the diploma, so the graduate certificate.' This revealed both immediate and long-term educational aspirations, presenting a prime opportunity for collaborative planning and pathway validation while ensuring proper alignment with institutional requirements.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by effectively validating the student's strategy while confirming the viability of their planned progression: 'Yeah, that's absolutely fine. We can do that. Have you, you've not completed a degree before this based on work experience?' (segment 24). This response built confidence while ensuring proper qualification verification and maintaining momentum toward enrollment.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in alternative pathways, begin by validating their proactive thinking while ensuring alignment with institutional requirements. Start with affirming language like 'That's excellent planning - let's explore how we can make this pathway work best for you.' Guide the conversation with targeted questions about their background and goals to create a personalized pathway plan. For instance: 'Could you tell me more about your work experience and how it relates to your chosen field?' This helps identify the most appropriate entry point and progression route. Show how each stage builds toward their ultimate educational goals: 'The graduate certificate provides immediate applicable skills while creating a foundation for further study.' Pay particular attention to transition points, explaining prerequisites and credit transfer processes that ensure smooth progression. The key is transforming their initial pathway idea into a concrete plan with clear milestones and support mechanisms, always maintaining focus on both immediate success and long-term achievement while validating their strategic approach to education."
+        },
+        {
+          "id": 4,
+          "title": "International Documentation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013328161",
+              "segment_id": "57",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596013328161 (segment 57), the student revealed documentation challenges: 'So my Canadian grades haven't been transferred over to my UNSW transcript yet.' This disclosed both complexity in their application process and potential anxiety about enrollment timing, requiring clear guidance and strategic planning to maintain momentum.",
+          "consultant_response": "The consultant provided minimal acknowledgment without offering strategic solutions: 'Oh, OK. Yes. Sometimes that can take some time' (segment 60). This response missed the opportunity to provide clear guidance and maintain enrollment momentum through specific action steps and interim solutions.",
+          "priority": "high",
+          "recommended_approach": "When managing international documentation challenges, begin with empathetic acknowledgment while immediately focusing on solutions: 'I understand managing international transcripts can be complex - let's create a clear plan to handle this.' Create a structured approach: 'First, let's contact your previous institution about expediting the transcript. While that's in process, we can explore using your existing documentation as interim evidence.' Develop specific timelines: 'Let's map out key dates - when you'll contact the institution, when we'll follow up, and what alternative documentation we might need.' Address common concerns proactively: 'Many international students face similar challenges, and we have established processes to help manage these situations.' Maintain regular communication: 'I'll check in with you next week about the transcript progress, and we can adjust our plan if needed.' The key is demonstrating that while documentation requirements are firm, there are clear processes and support mechanisms to help navigate complex scenarios while maintaining enrollment momentum and providing concrete next steps throughout the process."
+        },
+        {
+          "id": 5,
+          "title": "Professional Network Development",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267563999",
+              "segment_id": "27",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596267563999 (segment 27), the student inquired about professional networking opportunities: 'Will I be able to connect with other professionals in my field?' This revealed interest in building valuable industry connections through their studies and understanding the program's broader professional benefits beyond academic achievement.",
+          "consultant_response": "The consultant effectively outlined peer learning opportunities and industry connections, demonstrating how course interactions could lead to valuable professional relationships. The response highlighted both formal and informal networking opportunities within the program structure while maintaining appropriate pre-enrollment guidance boundaries.",
+          "priority": "high",
+          "recommended_approach": "When discussing networking opportunities, emphasize both formal and informal connection points within the program. Begin with concrete examples: 'In your cohort, you'll collaborate with professionals from various industries through group projects and discussion forums. Many students find these connections evolve into valuable professional relationships.' Share specific success stories: 'A recent graduate formed a professional network during group projects that led to industry collaborations post-graduation.' Describe how academic collaboration naturally builds professional networks: 'Our virtual team projects mirror real-world collaboration, creating organic networking opportunities.' Show how course interactions lead to lasting professional connections: 'Students often maintain these relationships well beyond graduation, creating a valuable industry network.' Pay particular attention to industry-specific opportunities, demonstrating how shared professional interests create natural networking opportunities. The key is showing how academic collaboration naturally evolves into professional networking while maintaining appropriate guidance boundaries and focusing on program-specific features that enable valuable connections."
+        },
+        {
+          "id": 6,
+          "title": "Life Integration Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013463910",
+              "segment_id": "35",
+              "timestamp": "02:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596013463910 (segment 35), the student revealed multiple life commitments: 'I'm obviously working as well, and I have three kids, and you know, I'm kind of busy.' This disclosure demonstrated both interest in the program and significant concern about managing multiple responsibilities, requiring clear demonstration of program flexibility and support systems.",
+          "consultant_response": "The consultant highlighted program flexibility features: 'You can defer teaching periods if you need to, if you need to take breaks' (segment 39). This response effectively demonstrated program adaptability while maintaining enrollment momentum and showing understanding of complex life demands.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-life balance concerns, start by acknowledging the complexity of managing multiple commitments: 'I understand you're juggling significant responsibilities, and many of our successful students are in similar situations.' Use their specific circumstances to demonstrate program flexibility: 'Let me show you how other working parents have managed their studies successfully.' Break down practical strategies: 'Many parents find downloading materials for offline study during children's activities works well, or planning study blocks around school hours.' Discuss specific support mechanisms: 'Our learning platform allows you to access materials any time, and our support team is available seven days a week.' Address common challenges proactively: 'During busy periods like school holidays or work deadlines, you can adjust your study load or use our deferral options.' The goal is transforming perceived barriers into manageable challenges through practical planning and clear support structures while maintaining focus on both immediate solutions and long-term success strategies."
+        }
+      ]
+    }
+  }
+}
