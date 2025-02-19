@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "consultant_name": "Olive Jerome",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative planning"
+  },
+  "total_number_of_calls": 1,
+  "team_average_total_number_of_calls_per_sales_consultant": 229.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 1,
+    "team_average_absolute_number": 46.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 100.0,
+    "team_average_percentage": 25.638189410827206
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 0,
+    "team_average_absolute_number": 183.63636363636363
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 0.0,
+    "team_average_percentage": 65.27090149826371
+  },
+  "average_talking_percentage": {
+    "individual_average": 84.22360248447205,
+    "team_average": 56.25193772093511
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 0,
+    "team_total_excluded_transcripts": 2021
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 124.86,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.31,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 172.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.44,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 179.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 62.62,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 60.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 52.85,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 82.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.8,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 108.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 62.49,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.38,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 55.25,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 182.5,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    }
+  ],
+  "themes": {
+    "positive": [],
+    "improvement": []
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": []
+    },
+    "verbose": {
+      "conversations": []
+    }
+  }
+}

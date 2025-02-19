@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "consultant_name": "Yusuf Aly",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 253,
+  "team_average_total_number_of_calls_per_sales_consultant": 242.8125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 62,
+    "team_average_absolute_number": 62.3125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 24.50592885375494,
+    "team_average_percentage": 25.75705321113411
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 191,
+    "team_average_absolute_number": 180.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 75.49407114624506,
+    "team_average_percentage": 74.2429467888659
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.01703559486069,
+    "team_average": 53.5140458127338
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 191,
+    "team_total_excluded_transcripts": 2888
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 224.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.03,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 193.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.72,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 189.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.4,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 226.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.47,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 185.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.36,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 215.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 159.02,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 203.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.71,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 165.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 158.28,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 198.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 159.61,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical solutions"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through adaptable study options and tangible success strategies backed by specific examples"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Clear and proactive guidance through available support mechanisms while maintaining appropriate pre-enrollment boundaries and providing concrete examples of successful support utilization"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and evolving career aspirations while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Alternative Pathway Planning",
+        "explanation": "More comprehensive discussion needed of non-traditional entry options and recognition of diverse qualifications while demonstrating pathway viability through success stories"
+      },
+      {
+        "headline": "Study Planning Collaboration",
+        "explanation": "Stronger collaborative approach needed when helping students develop practical strategies for managing study commitments alongside existing responsibilities"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from another healthcare worker: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students, particularly focusing on night shift and rotating roster management."
+        },
+        {
+          "id": 2,
+          "title": "Military Experience Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267627352",
+              "segment_id": "10",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm in the military right now, and because I haven't finished Year 12 in school, but I do have a statement of service, a resume' (call_596267627352, seg_10), revealing need for alternative pathway exploration.",
+          "consultant_response": "Consultant replied: 'Yeah, so you'll need to finish year 12 first. That's the first thing to know' (call_596267627352, seg_11), missing opportunity to explore alternative pathways.",
+          "context_impact": "Critical opportunity to demonstrate program accessibility through recognition of military experience and alternative entry pathways.",
+          "recommended_approach": "Begin with acknowledging military background, then explore specific skills and qualifications that could support alternative entry pathways while sharing success stories of similar students."
+        },
+        {
+          "id": 3,
+          "title": "Effective Support Network Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090969370",
+              "segment_id": "338",
+              "timestamp": "41:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596090969370",
+                "segment_id": "341",
+                "timestamp": "41:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'There's times where I'm like oh I wish I could kind of bounce ideas with some other students' (call_596090969370, seg_338), revealing desire for peer connection while maintaining independence.",
+          "consultant_response": "Consultant offered: 'I would mention the Student Mentor Program as a starting place. You can put your hand up to have someone who's been enrolled with us for a little while help you out' (call_596090969370, seg_341), effectively introducing flexible peer support options.",
+          "context_impact": "Critical moment to demonstrate available support systems that could enhance student experience while respecting their learning preferences.",
+          "recommended_approach": "Could expand discussion of various peer support mechanisms and provide specific examples of successful mentor relationships while maintaining appropriate boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596020158165",
+              "segment_id": "31",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I haven't really had a career goal because I've been a single mom for so long' (call_596020158165, seg_31), indicating readiness to explore new professional directions.",
+          "consultant_response": "Consultant provided minimal response: 'Ah, okay, cool. Yeah, yeah' (call_596020158165, seg_33), missing opportunity to explore emerging career aspirations.",
+          "context_impact": "Critical moment to help student envision new career possibilities while maintaining appropriate sales role boundaries.",
+          "recommended_approach": "Engage in deeper exploration of potential career paths and how program features align with professional development while maintaining appropriate sales role boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267844487",
+              "segment_id": "30",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'So how much, because I can't remember exactly how much like the, I guess quoted was price for the overall cost' (call_596267844487, seg_30), revealing need for comprehensive financial planning support.",
+          "consultant_response": "Consultant stated: 'Yeah, so initially it would be looking like about 50,000, give or take' (call_596267844487, seg_32), missing opportunity for deeper financial planning discussion.",
+          "context_impact": "Critical opportunity to demonstrate financial pathways and support options while maintaining appropriate boundaries.",
+          "recommended_approach": "Provide detailed FEE-HELP explanations and explore financial support options while maintaining appropriate boundaries and sharing examples of successful financial management strategies."
+        },
+        {
+          "id": 6,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596178929626",
+              "segment_id": "141",
+              "timestamp": "05:41"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I know it says on the website, like it's at your own pace... Are there going to be lessons or classes or lectures that I need to attend, like compulsory ones?' (call_596178929626, seg_141), revealing concern about scheduling flexibility.",
+          "consultant_response": "Consultant addressed flexibility clearly: 'There's no attendance requirement... We will have live sessions available for you to take part in. If you can't make them, then that's okay. Yeah and they are recorded too' (call_596178929626, seg_149).",
+          "context_impact": "Critical moment to demonstrate program's compatibility with existing commitments while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how current working students successfully manage their study schedule and utilize flexible learning options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students expressed significant concern about balancing study with shift work. In the primary call, one student stated 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23). This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 where another healthcare worker noted: 'My roster changes every week, and I often work nights' (seg_163). These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The consultants demonstrated strong understanding of healthcare workflows by providing practical solutions. The primary consultant responded: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This resonated strongly, with the student responding positively: 'That actually sounds manageable.' In the supporting call, the consultant reinforced flexibility: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (segment 164). Both consultants effectively moved conversations from 'if' to 'how', maintaining enrollment momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Military Experience Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267627352",
+              "segment_id": "10",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in the enrollment discussion, the student revealed their military background and educational circumstances: 'I'm in the military right now, and because I haven't finished Year 12 in school, but I do have a statement of service, a resume' (call_596267627352, seg_10). This disclosure presented a vital opportunity to explore alternative pathways and demonstrate how military experience could potentially support program entry.",
+          "consultant_response": "The consultant's response was limited to traditional entry requirements: 'Yeah, so you'll need to finish year 12 first. That's the first thing to know' (call_596267627352, seg_11). This approach missed the opportunity to explore the student's unique background and potential alternative pathways. The rigid response potentially diminished the student's confidence in finding a viable path to enrollment.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students from military backgrounds, immediately acknowledge their service experience and explore potential pathways. Begin with validation: 'Your military service has likely provided valuable skills and experience that could support your educational journey.' Guide the exploration of their background: 'Could you tell me more about your military training and qualifications? This helps us identify potential entry pathways.' Share specific examples: 'Many veterans have successfully entered our program through alternative pathways that recognize their service experience.' Focus on creating a collaborative dialogue that helps students understand available options while maintaining appropriate boundaries: 'While I can't make specific determinations about qualification recognition, I can explain how our entry pathways might align with your military experience.' Remember to highlight post-enrollment support services while keeping expectations realistic. The goal is to demonstrate how their military background could be an asset rather than a barrier to enrollment."
+        },
+        {
+          "id": 3,
+          "title": "Effective Support Network Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090969370",
+              "segment_id": "338",
+              "timestamp": "41:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596090969370",
+                "segment_id": "341",
+                "timestamp": "41:30"
+              }
+            ]
+          },
+          "student_trigger": "During a pivotal moment in the conversation (call_596090969370, segment 338), the student expressed interest in peer collaboration while maintaining independence: 'There's times where I'm like oh I wish I could kind of bounce ideas with some other students.' This statement revealed an important opportunity to demonstrate how the institution's support systems could enhance their learning experience while respecting their preference for autonomy. The context suggested a student who values independence but recognizes the benefits of occasional collaborative learning.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by introducing relevant support options: 'I would mention the Student Mentor Program as a starting place. You can put your hand up to have someone who's been enrolled with us for a little while help you out in the first couple of teaching periods.' This response effectively addressed the student's needs by presenting a flexible support option that wouldn't compromise their independence. The consultant followed up by promising to research additional options, showing commitment to finding the right balance of support for the student's preferences.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in peer support while valuing independence, it's crucial to present flexible, opt-in support mechanisms that respect their autonomy. Begin by validating their balanced approach to learning: 'It's great that you recognize the value of both independent study and peer collaboration.' Then, introduce support options with clear boundaries, for example: 'Our Student Mentor Program is designed to provide support exactly when you need it, while letting you maintain control of your study approach.' Share specific success stories: 'Many of our independent learners connect with mentors for particular subjects or challenging concepts - like one recent student who scheduled monthly check-ins for complex assignments while maintaining their independent study routine.' Throughout the discussion, emphasize how each support option can be customized to maintain their independence while maximizing learning outcomes. This approach empowers students to create their ideal balance of support and autonomy while feeling confident in the available resources."
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596020158165",
+              "segment_id": "31",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed a significant life transition moment: 'I haven't really had a career goal because I've been a single mom for so long' (call_596020158165, seg_31). This disclosure presented a crucial opportunity to help the student envision new career possibilities now that their circumstances were changing.",
+          "consultant_response": "The consultant's response was minimal and missed the opportunity for deeper exploration: 'Ah, okay, cool. Yeah, yeah' (call_596020158165, seg_33). This brief acknowledgment failed to engage with the student's emerging readiness for career planning or help them explore potential professional pathways.",
+          "priority": "high",
+          "recommended_approach": "When students indicate readiness to explore career directions after focusing on other life roles, transform this into an opportunity for collaborative vision-building while maintaining appropriate sales role boundaries. Begin with validation while pivoting to future possibilities: 'Your experience as a parent has given you valuable skills that could translate into various career pathways.' Guide the exploration of program alignment: 'Which aspects of your experience have you found most rewarding? Our program offers several pathways that could build on these strengths.' Share appropriate examples of how other students have successfully transitioned: 'Many students in similar situations find our program helps them leverage their life experience in new professional directions.' Keep the discussion focused on program features and educational planning while avoiding detailed career guidance that belongs to post-enrollment support services."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267844487",
+              "segment_id": "30",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596267844487 (segment 30), the student expressed uncertainty about financial commitments, stating: 'So how much, because I can't remember exactly how much like the, I guess quoted was price for the overall cost.' This question revealed both a need for clear financial information and an opportunity to explore comprehensive financial planning options.",
+          "consultant_response": "The consultant's response was limited to basic information: 'Yeah, so initially it would be looking like about 50,000, give or take' (segment 32). While providing a general cost estimate, this response missed the opportunity to engage in deeper financial planning discussions or explore available support options.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, transform the conversation into a comprehensive planning discussion while maintaining appropriate boundaries. Begin by acknowledging the importance of financial clarity: 'I understand that cost is a crucial factor in your decision. Let me walk you through both the investment and the support options available.' Then provide specific details about FEE-HELP, explaining: 'The FEE-HELP system means you don't need to pay upfront - repayments only start once you're earning above the threshold.' Share concrete examples: 'Many students combine FEE-HELP with flexible study loads to manage their financial commitments effectively. For instance, some start with two units per semester while establishing their study routine.' Follow this with practical examples of how current students manage their financial commitments: 'Many students combine FEE-HELP with flexible study loads to balance their financial and academic goals.' Direct students to appropriate financial support services for detailed advice while maintaining pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596178929626",
+              "segment_id": "141",
+              "timestamp": "05:41"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A critical moment arose when the student expressed concerns about program flexibility: 'I know it says on the website, like it's at your own pace... Are there going to be lessons or classes or lectures that I need to attend, like compulsory ones? Because I can't be working full-time' (call_596178929626, seg_141). This query revealed underlying anxiety about balancing work commitments with study requirements, making it essential to demonstrate how the program could accommodate their schedule.",
+          "consultant_response": "The consultant effectively addressed the flexibility concerns with clear, practical information: 'There's no attendance requirement... We will have live sessions available for you to take part in. If you can't make them, then that's okay. Yeah and they are recorded too' (call_596178929626, seg_149). This response successfully demonstrated program flexibility while highlighting valuable features like recorded sessions that support working students. The approach transformed potential barriers into manageable aspects of the program.",
+          "priority": "high",
+          "recommended_approach": "When addressing flexibility concerns, start by acknowledging the specific challenges of balancing work and study commitments. Begin with validation: 'Many of our students are working professionals, and our program is designed with this in mind.' Then demonstrate specific flexibility features that address their concerns: 'While we offer live sessions for interactive learning, all sessions are recorded and available on-demand, allowing you to engage at times that work with your schedule.' Share concrete examples of how current working students manage their studies: 'Some students watch lecture recordings during their commute, others download materials for offline study during breaks, and many dedicate specific evening hours for focused learning.' Pay particular attention to signs of scheduling anxiety, using these moments to highlight relevant program features and support mechanisms. The key is making flexibility tangible through practical examples while maintaining appropriate boundaries around specific study planning advice."
+        }
+      ]
+    }
+  }
+}

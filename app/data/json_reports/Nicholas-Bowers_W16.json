@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 252,
+  "team_average_total_number_of_calls_per_sales_consultant": 242.8125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 71,
+    "team_average_absolute_number": 62.3125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.174603174603174,
+    "team_average_percentage": 25.75705321113411
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 181,
+    "team_average_absolute_number": 180.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.82539682539682,
+    "team_average_percentage": 74.2429467888659
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.42063742418026,
+    "team_average": 53.5140458127338
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 181,
+    "team_total_excluded_transcripts": 2888
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 171.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.94,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.25,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 212.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.4,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 110.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.42,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 110.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.94,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 156.8,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 118.97,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 189.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.92,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through concrete examples and clear next steps"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical solutions that transform perceived barriers into manageable opportunities"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Effective guidance through support services with clear explanations of available resources and integrated mechanisms that enhance student confidence and success potential"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career transition goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, with stronger emphasis on transferable skills and specific support resources"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "Clearer guidance required for addressing financial concerns through comprehensive discussion of support options and contingency planning"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267984991",
+              "segment_id": "11",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm still a little bit confused like what I want to do for a master's so I was thinking maybe I might' (call_596267984991, seg_11), revealing uncertainty about educational direction.",
+          "consultant_response": "Consultant explained: 'The Graduate Certificate of Educational Studies can give you a bit of a background in the theories of education... you could leverage this into a Master's degree once you gain more clarity' (call_596267984991, seg_39)",
+          "context_impact": "Critical moment to validate uncertainty while maintaining momentum through clear pathway options.",
+          "recommended_approach": "Include more specific examples of successful progression pathways while maintaining collaborative dialogue."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907754214",
+              "segment_id": "15",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_595907754214, seg_15), revealing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant provided no direct response to the concern, missing opportunity to address study readiness anxiety and showcase available support resources.",
+          "context_impact": "This concern required immediate attention to prevent it from becoming a barrier to enrollment.",
+          "recommended_approach": "Develop collaborative discussion exploring transferable skills from professional experience and available study support resources."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013377386",
+              "segment_id": "121",
+              "timestamp": "12:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student voiced: 'My only concern is if I pay 16 grand and then I find that everything goes to **** again' (call_596013377386, seg_121), revealing significant financial anxiety.",
+          "consultant_response": "Consultant provided limited response without exploring available financial support mechanisms or contingency options.",
+          "context_impact": "Critical moment to address financial commitment concerns through comprehensive support options.",
+          "recommended_approach": "Develop comprehensive discussion of financial support options and payment flexibility available to students."
+        },
+        {
+          "id": 5,
+          "title": "Study Continuity Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596252575841",
+              "segment_id": "82",
+              "timestamp": "24:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'Before, I had to take a study break because of my family personal reasons' (call_596252575841, seg_82), expressing concern about potential interruptions.",
+          "consultant_response": "Consultant assured: 'The course is designed for 12 months but you still have access to course deferrals if you need to defer a term' (call_596252575841, seg_86)",
+          "context_impact": "Critical moment to address past study break concerns through demonstration of flexible support options.",
+          "recommended_approach": "Provide more detailed examples of how other students have successfully managed study breaks and returns."
+        },
+        {
+          "id": 6,
+          "title": "Career Development Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013377386",
+              "segment_id": "25",
+              "timestamp": "03:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'So I sort of just want to do a course, fresh up a little bit so I can go in a little bit prepared' (call_596013377386, seg_25), seeking professional development guidance.",
+          "consultant_response": "Consultant provided general course information without exploring specific career development opportunities.",
+          "context_impact": "Opportunity to align course content with specific career development goals.",
+          "recommended_approach": "Better integrate discussion of how course content aligns with specific career development goals while maintaining pre-enrollment boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding positively to the flexibility described. In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The key is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267984991",
+              "segment_id": "11",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596267984991 (segment 11), the student expressed uncertainty about their educational direction: 'I'm still a little bit confused like what I want to do for a master's so I was thinking maybe I might.' This moment of confusion represented a critical opportunity to provide guidance and demonstrate how our program structure could accommodate their evolving career goals. The student's openness about their uncertainty created an ideal context for collaborative planning.",
+          "consultant_response": "The consultant effectively addressed this uncertainty by outlining a flexible pathway: 'The Graduate Certificate of Educational Studies can give you a bit of a background in the theories of education... you could leverage this into a Master's degree once you gain more clarity.' This response demonstrated strong collaborative planning by acknowledging the student's current uncertainty while showing how their choices could evolve with their goals.",
+          "priority": "high",
+          "recommended_approach": "When students express uncertainty about their educational direction, begin by acknowledging their confusion as a natural part of career development. Frame the discussion around building a flexible pathway that can evolve with their goals, showing how initial qualifications like a graduate certificate can create multiple progression options. Use specific examples from successful students who have navigated similar uncertainty: 'Many students start with the certificate to explore their interests while gaining valuable credentials, then transition into specialized programs once they've confirmed their direction.' Pay particular attention to connecting their current experience with potential pathways, using concrete examples of how different program options can align with their evolving career aspirations. The key is creating a collaborative dialogue that helps students see how program flexibility supports their journey of discovery while maintaining clear progression routes."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907754214",
+              "segment_id": "15",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595907754214 (segment 15), the student expressed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This disclosure revealed deep concerns about academic readiness and highlighted the need for comprehensive support discussion. The student's candid expression of worry presented a crucial opportunity to address common mature student concerns.",
+          "consultant_response": "The consultant missed a critical opportunity by providing no direct response to the study readiness concern. This gap in addressing the student's anxiety failed to demonstrate our comprehensive support system and potentially left the student with unaddressed concerns about their ability to succeed in the program.",
+          "priority": "high",
+          "recommended_approach": "When students express anxiety about returning to study after an extended break, begin by validating their concern while highlighting how life experience enhances academic success: 'Many of our most successful students return to study after significant breaks - they bring valuable real-world perspectives to their learning.' Guide the conversation toward their strengths: 'You've developed important skills during your career that directly transfer to academic success. For instance, your professional experience in analyzing problems and managing priorities provides an excellent foundation for university study.' Show examples of success: 'Just last trimester, we had several students returning after 20+ years who excelled because they could connect theory with their professional experience.' The key is transforming perceived barriers into advantages while being explicit about available support systems and how they can be accessed."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013377386",
+              "segment_id": "121",
+              "timestamp": "12:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596013377386 (segment 121), the student expressed significant financial anxiety: 'My only concern is if I pay 16 grand and then I find that everything goes to **** again.' This candid expression of financial concern revealed deep-seated worries about committing to a substantial investment amid uncertainty. The statement highlighted a critical need for detailed discussion of financial support options and contingency planning.",
+          "consultant_response": "The consultant provided limited response without exploring available financial support mechanisms or contingency options. This missed opportunity to address financial concerns could significantly impact the student's confidence in proceeding with enrollment.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about financial commitment, begin by validating their investment anxiety while introducing our comprehensive financial support framework. Create confidence through clear understanding of financial safeguards and flexibility options: 'Many students utilize FEE-HELP, which means you only begin repaying once you're earning above the threshold. Others take advantage of our term-by-term payment structure to manage their cash flow.' Address contingency scenarios directly: 'If unexpected circumstances arise, our term-based structure means you're only committed to the current term's fees, and our deferral options let you pause without financial penalty.' Share success stories that demonstrate how other students have successfully managed their investment while maintaining study progress. The key is showing how our financial support options create multiple pathways to manage program costs effectively."
+        },
+        {
+          "id": 5,
+          "title": "Study Continuity Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596252575841",
+              "segment_id": "82",
+              "timestamp": "24:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596252575841 (segment 82), the student shared a significant concern about study continuity: 'Before, I had to take a study break because of my family personal reasons.' This disclosure revealed their apprehension about committing to study given past experiences with interruptions. The student's openness about previous challenges presented a crucial opportunity to address concerns about managing potential future disruptions.",
+          "consultant_response": "The consultant effectively addressed these concerns by explaining: 'The course is designed for 12 months but you still have access to course deferrals if you need to defer a term.' This response successfully demonstrated program flexibility while maintaining focus on completion timeframes, effectively balancing the need for flexibility with encouraging progress toward completion.",
+          "priority": "high",
+          "recommended_approach": "When students reveal concerns about potential study interruptions, begin by validating their experience while focusing on our support systems: 'I understand how family commitments can impact studies, and that's exactly why we've built comprehensive flexibility into our program.' Share specific examples of how students successfully manage interruptions: 'Many of our students use our deferral options to navigate family responsibilities effectively. For instance, one recent student managed an extended family situation by deferring one term, then resumed their studies with additional support.' Outline our multi-layered support approach that includes term-by-term flexibility through deferrals, weekly flexibility through online study options, and ongoing support through our student success team. The key is demonstrating how our program's built-in flexibility and support systems create multiple pathways to success, even when life presents unexpected challenges."
+        },
+        {
+          "id": 6,
+          "title": "Career Development Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013377386",
+              "segment_id": "25",
+              "timestamp": "03:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596013377386 (segment 25), the student expressed a desire for professional development: 'So I sort of just want to do a course, fresh up a little bit so I can go in a little bit prepared.' This statement revealed an opportunity to align course content with specific career development goals while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant provided only general course information without exploring how program elements could specifically support the student's career development goals. This surface-level response missed the opportunity to demonstrate how course content and structure could directly enhance their professional preparation.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in professional development, begin by exploring their specific career objectives while maintaining appropriate pre-enrollment boundaries. Create clear links between course content and professional applications: 'Our program includes elements like advanced research methods and contemporary theory that many students apply directly in their workplace projects.' Share specific success stories that demonstrate immediate value: 'Recent graduates have used their final projects to develop innovative approaches they've implemented in their workplaces, leading to career advancement opportunities.' Demonstrate how program elements directly contribute to career development while clearly delineating pre-enrollment guidance from post-enrollment career support. The key is showing how program features create both immediate professional value and long-term career development opportunities."
+        }
+      ]
+    }
+  }
+}

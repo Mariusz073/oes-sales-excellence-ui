@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "consultant_name": "Mrudang Pancholi",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 270,
+  "team_average_total_number_of_calls_per_sales_consultant": 229.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 64,
+    "team_average_absolute_number": 46.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.703703703703706,
+    "team_average_percentage": 25.638189410827206
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 206,
+    "team_average_absolute_number": 183.63636363636363
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.29629629629629,
+    "team_average_percentage": 65.27090149826371
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.70450635548348,
+    "team_average": 56.25193772093511
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 206,
+    "team_total_excluded_transcripts": 2021
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 133.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.87,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 51.41,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.15,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 170.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.3,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 127.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.49,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 133.28,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.18,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 144.64,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.41,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 84.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.39,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 137.36,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.41,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 129.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.26,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work schedules, medical needs, and location constraints"
+      },
+      {
+        "headline": "Support Resource Navigation",
+        "explanation": "Clear guidance through available support mechanisms while maintaining appropriate sales role boundaries and enrollment focus"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career transition goals"
+      },
+      {
+        "headline": "Alternative Pathway Planning",
+        "explanation": "More comprehensive exploration required of alternative educational routes when students face prerequisite or circumstantial barriers"
+      },
+      {
+        "headline": "Documentation Support",
+        "explanation": "Stronger guidance needed through documentation requirements with clearer alternatives and interim solutions when challenges arise"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Medical Accommodation Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595908384731",
+              "segment_id": "69",
+              "timestamp": "08:52"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595908384731",
+                "segment_id": "85",
+                "timestamp": "09:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'For some personal reasons and medical reasons, I would like to just start in term three' (call_595908384731, seg_69), highlighting need for enrollment flexibility.",
+          "consultant_response": "Consultant offered immediate solution: 'It's totally up to you...if you want me to put you into the 5th of May I can do that for you' (call_595908384731, seg_85)",
+          "context_impact": "Opportunity to demonstrate program's ability to accommodate personal circumstances while maintaining academic progress.",
+          "recommended_approach": "Include more detail about ongoing support services and flexibility options available throughout program."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596179420535",
+              "segment_id": "74",
+              "timestamp": "19:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596091395943",
+                "segment_id": "13",
+                "timestamp": "01:04"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'So, if I did a Graduate Diploma of Psychology, what goes, like, how long is that, and then what happens after that?' (call_596179420535, seg_74), revealing need for clear pathway guidance.",
+          "consultant_response": "Consultant provided comprehensive guidance: 'So, yeah, once you complete, that's exactly equivalent to your bachelor's degree...you can just get done in 1.7 years, pretty much half-time' (call_596179420535, seg_76), effectively outlining program timeline and benefits.",
+          "context_impact": "Critical moment for demonstrating how educational pathway aligns with career goals while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful graduate outcomes and career progression paths."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907674440",
+              "segment_id": "33",
+              "timestamp": "1:58"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'We spent all day Saturday and half of yesterday trying to find it' (call_595907674440, seg_33), revealing significant frustration with documentation requirements.",
+          "consultant_response": "Consultant offered basic solution: 'You'll probably have to order another one' (call_595907674440, seg_54), missing opportunity for more comprehensive support.",
+          "context_impact": "Critical moment to demonstrate comprehensive support and provide clear guidance through documentation challenges.",
+          "recommended_approach": "Develop stronger support system for documentation challenges including alternative options and interim solutions."
+        },
+        {
+          "id": 5,
+          "title": "Experience Recognition Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907828668",
+              "segment_id": "46",
+              "timestamp": "3:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'Is there any possibility that my prior training and experience would help me to fast track anything?' (call_595907828668, seg_46), seeking recognition of past achievements.",
+          "consultant_response": "Consultant focused on limitations: 'The main thing is, unfortunately, they don't look at the work experience', missing opportunity to highlight experience benefits.",
+          "context_impact": "Key moment to validate prior experience while explaining institutional requirements and benefits.",
+          "recommended_approach": "Balance institutional requirements with recognition of how prior experience enhances learning journey."
+        },
+        {
+          "id": 6,
+          "title": "Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595908053283",
+              "segment_id": "43",
+              "timestamp": "7:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Is there any way to speed up the course?' (call_595908053283, seg_43), seeking alternative completion options.",
+          "consultant_response": "Consultant provided limited response: 'Well, usually it is with the pace', missing chance to explore viable alternatives.",
+          "context_impact": "Critical opportunity to explore flexible pathways while maintaining program integrity.",
+          "recommended_approach": "Develop comprehensive framework for discussing alternative pathways and flexible study options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, always start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding examples in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Medical Accommodation Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595908384731",
+              "segment_id": "69",
+              "timestamp": "08:52"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595908384731",
+                "segment_id": "85",
+                "timestamp": "09:15"
+              }
+            ]
+          },
+          "student_trigger": "During the call, the student expressed personal circumstances affecting their enrollment timing: 'For some personal reasons and medical reasons, I would like to just start in term three' (call_595908384731, seg_69). This disclosure indicated both a desire to pursue education and a need for flexibility in timing due to personal circumstances.",
+          "consultant_response": "The consultant demonstrated immediate flexibility and understanding with the response: 'It's totally up to you...if you want me to put you into the 5th of May I can do that for you' (call_595908384731, seg_85). This approach validated the student's needs while providing a concrete solution, effectively showing how the program could accommodate personal circumstances without compromising educational goals.",
+          "priority": "high",
+          "recommended_approach": "When students disclose medical or personal circumstances affecting their study plans, begin by validating their disclosure while maintaining appropriate boundaries: 'I appreciate you sharing this with me. We absolutely can work with your timeline.' Follow with practical options: 'Let me show you how our flexible start dates and study arrangements can accommodate your situation.' Guide the conversation toward specific solutions: 'Would starting in May give you the time you need? We can also explore part-time options or reduced study loads if helpful.' Focus on program features that support their circumstances: 'Our online learning platform allows you to access materials at your own pace, and you can adjust your study load each term as needed.' Always emphasize available support services while maintaining enrollment momentum: 'Once enrolled, our student support team can help you develop a personalized study plan that works with your schedule.'"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596179420535",
+              "segment_id": "74",
+              "timestamp": "19:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596091395943",
+                "segment_id": "13",
+                "timestamp": "01:04"
+              }
+            ]
+          },
+          "student_trigger": "During the consultation, the student articulated clear career aspirations: 'So, if I did a Graduate Diploma of Psychology, what goes, like, how long is that, and then what happens after that?' (call_596179420535, seg_74). This revealed both their interest in understanding immediate program requirements and their need for longer-term career pathway visibility. Similar pattern emerged in the supporting call where another student sought clarity about program progression and professional outcomes.",
+          "consultant_response": "The consultant provided clear, structured guidance by stating: 'So, yeah, once you complete, that's exactly equivalent to your bachelor's degree...you can just get done in 1.7 years, pretty much half-time' (call_596179420535, seg_76). This response effectively outlined the required educational pathway while managing expectations about the timeline and prerequisites. The approach successfully balanced immediate information needs with long-term planning considerations.",
+          "priority": "high",
+          "recommended_approach": "When addressing career pathway inquiries, begin by validating the student's goal orientation while providing realistic pathway guidance. Start with acknowledging their forward thinking: 'It's great that you're looking at both immediate steps and long-term career goals.' Then outline specific requirements while connecting them to career outcomes: 'Let me show you how each stage of the program builds toward your career aspirations.' For example, with psychology students, explain how the graduate diploma provides foundational knowledge essential for advanced practice: 'The graduate diploma gives you the core psychological principles needed for further specialization, and many of our students have used this as a stepping stone to master's programs.' Pay particular attention to timeline questions, providing clear markers while maintaining flexibility: 'While the program typically takes 1.7 years at a steady pace, we can adjust the study load to match your circumstances.' When discussing prerequisites or requirements, frame them as building blocks rather than barriers: 'Each component strengthens your foundation for success in the field.' Always ground examples in real student experiences: 'Many of our current students have successfully navigated this pathway while managing similar commitments.' The key is maintaining enthusiasm while ensuring students have a realistic understanding of their journey."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907674440",
+              "segment_id": "33",
+              "timestamp": "1:58"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant frustration with documentation requirements: 'We spent all day Saturday and half of yesterday trying to find it' (call_595907674440, seg_33). This revealed intense stress about potential enrollment delays and highlighted the need for immediate support and guidance in navigating documentation challenges.",
+          "consultant_response": "The consultant provided only basic guidance by stating: 'You'll probably have to order another one' (call_595907674440, seg_54). While this offered a practical next step, it missed the opportunity to provide comprehensive support or explore alternative documentation options that could help maintain enrollment momentum.",
+          "priority": "high",
+          "recommended_approach": "When students express documentation frustrations, begin with empathetic acknowledgment: 'I understand how challenging this process can be, especially after spending so much time searching. Let's work together to find the best solution.' Follow with a structured exploration of options: 'First, let me check what alternative documentation we might be able to accept while waiting for the original.' For instance, if a student can't locate their transcript, explain: 'Some students have successfully used official academic records or letters from their previous institution as temporary documentation.' Provide specific guidance for different scenarios: 'If you're having trouble accessing your academic records, I can guide you through the process of requesting them directly from your previous institution - many have online portals for this.' When discussing timelines, offer clear steps: 'While we work on getting the original document, let's submit what you have now to keep your application moving forward. Meanwhile, I'll note in your file that the additional documentation is pending.' Always maintain focus on solutions rather than limitations: 'There are usually several ways we can work through documentation challenges. Let's explore what might work best in your situation.'"
+        },
+        {
+          "id": 5,
+          "title": "Experience Recognition Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595907828668",
+              "segment_id": "46",
+              "timestamp": "3:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student inquired about leveraging their background: 'Is there any possibility that my prior training and experience would help me to fast track anything?' (call_595907828668, seg_46). This question revealed their desire for recognition of past achievements and potential acceleration of their educational journey.",
+          "consultant_response": "The consultant focused primarily on limitations: 'The main thing is, unfortunately, they don't look at the work experience,' missing an opportunity to discuss how prior experience could enhance their learning journey or explore alternative pathways. This response likely discouraged the student and failed to validate their professional achievements.",
+          "priority": "high",
+          "recommended_approach": "When addressing questions about experience recognition, focus on balancing institutional requirements with validating the student's background. Begin by acknowledging their experience: 'While the program has specific progression requirements, your professional background brings valuable insights and perspectives to your studies.' Then explain how their experience can benefit them: 'Although we can't formally fast-track based on work experience, your background in [field] will give you unique advantages in understanding concepts and applying them practically.' For example: 'Many of our business students find their industry experience helps them grasp advanced concepts more quickly, particularly in areas like strategic management or organizational behavior.' When discussing institutional requirements, frame them positively: 'The structured program ensures everyone builds a strong foundation, but your experience will help you engage with the material more deeply and make meaningful connections to real-world applications.' Focus on highlighting how their professional experience can enrich their learning journey: 'Students with professional experience often become valuable contributors to class discussions, sharing insights that enhance everyone's learning.' The goal is helping students see value in both their past experience and the formal education process, while maintaining clear expectations about program requirements."
+        },
+        {
+          "id": 6,
+          "title": "Alternative Pathway Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595908053283",
+              "segment_id": "43",
+              "timestamp": "7:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed interest in accelerated completion options: 'Is there any way to speed up the course?' (call_595908053283, seg_43). This question revealed their desire to explore alternative pathways while maintaining program quality and learning outcomes.",
+          "consultant_response": "The consultant provided a limited response stating: 'Well, usually it is with the pace', missing the opportunity to explore viable alternatives or explain program structure flexibility in detail. This approach failed to address the student's underlying concerns about program duration and potential acceleration options.",
+          "priority": "high",
+          "recommended_approach": "When students inquire about course acceleration or alternative pathways, begin by understanding their motivations: 'Let's explore what's driving your interest in faster completion - this helps us identify the best approach for your situation.' Then outline available options clearly: 'While our standard program structure ensures thorough learning, there are several ways to optimize your study timeline. For instance, some students take additional units during periods when their work schedule is lighter.' Share specific examples: 'One of our recent graduates completed their program ahead of schedule by strategically planning their unit selection and maintaining a consistent study routine.' When discussing acceleration options, always balance efficiency with quality: 'While we want to help you complete efficiently, we also want to ensure you gain maximum value from the program.' Guide the conversation toward realistic planning: 'Let's look at your schedule and commitments to find the most effective study pattern for your situation.' Throughout the discussion, maintain focus on finding solutions that align with both the student's goals and program requirements."
+        }
+      ]
+    }
+  }
+}

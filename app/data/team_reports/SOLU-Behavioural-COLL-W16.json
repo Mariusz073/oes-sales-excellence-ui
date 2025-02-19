@@ -1,0 +1,287 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 16,
+    "university": "Monash",
+    "reporting_period": "02-10_02-14",
+    "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [
+            {
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 224.46,
+                "lower_bound": 107.02,
+                "green": 181.48
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 199.83,
+                "lower_bound": 91.28,
+                "green": 160.73
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 207.62,
+                "lower_bound": 115.25,
+                "green": 178.81
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 241.99,
+                "lower_bound": 88.46,
+                "green": 174.2
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "upper_bound": 212.73,
+                "lower_bound": 113.6,
+                "green": 157.75
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "upper_bound": 215.03,
+                "lower_bound": 71.16,
+                "green": 162.74
+            },
+            {
+                "title": "01-27_01-31\nweek 14",
+                "upper_bound": 222.83,
+                "lower_bound": 110.7,
+                "green": 155.43
+            },
+            {
+                "title": "02-03_02-07\nweek 15",
+                "upper_bound": 225.42,
+                "lower_bound": 99.11,
+                "green": 157.11
+            },
+            {
+                "title": "02-10_02-14\nweek 16",
+                "upper_bound": 215.5,
+                "lower_bound": 97.56,
+                "green": 163.3
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 3885,
+        "consultant_results": [
+            {
+                "name": "Sebastian Saunders",
+                "high_need_score": "215.5",
+                "all_score": "108.9",
+                "percentage_high_need": "10/220 (4.5%)",
+                "rank": 1
+            },
+            {
+                "name": "Sarah Charlwood",
+                "high_need_score": "204.8",
+                "all_score": "138.7",
+                "percentage_high_need": "23/207 (11.1%)",
+                "rank": 2
+            },
+            {
+                "name": "Yusuf Aly",
+                "high_need_score": "198.3",
+                "all_score": "159.6",
+                "percentage_high_need": "23/253 (9.1%)",
+                "rank": 3
+            },
+            {
+                "name": "Rochelle Khaddage",
+                "high_need_score": "194.1",
+                "all_score": "140.2",
+                "percentage_high_need": "17/177 (9.6%)",
+                "rank": 4
+            },
+            {
+                "name": "David Mccarthie",
+                "high_need_score": "193.8",
+                "all_score": "147.3",
+                "percentage_high_need": "10/230 (4.3%)",
+                "rank": 5
+            },
+            {
+                "name": "Nicholas Bowers",
+                "high_need_score": "189.8",
+                "all_score": "109.9",
+                "percentage_high_need": "14/252 (5.6%)",
+                "rank": 6
+            },
+            {
+                "name": "Bridgett Young",
+                "high_need_score": "171.3",
+                "all_score": "107.1",
+                "percentage_high_need": "16/300 (5.3%)",
+                "rank": 7
+            },
+            {
+                "name": "Gabriel Almeida",
+                "high_need_score": "162.0",
+                "all_score": "132.1",
+                "percentage_high_need": "14/274 (5.1%)",
+                "rank": 8
+            },
+            {
+                "name": "Valentina William",
+                "high_need_score": "148.9",
+                "all_score": "98.2",
+                "percentage_high_need": "17/243 (7.0%)",
+                "rank": 9
+            },
+            {
+                "name": "Robert Cecere",
+                "high_need_score": "145.1",
+                "all_score": "105.8",
+                "percentage_high_need": "16/280 (5.7%)",
+                "rank": 10
+            },
+            {
+                "name": "Michael Kiag",
+                "high_need_score": "132.0",
+                "all_score": "87.7",
+                "percentage_high_need": "17/289 (5.9%)",
+                "rank": 11
+            },
+            {
+                "name": "Jake Mckinnis",
+                "high_need_score": "118.6",
+                "all_score": "84.0",
+                "percentage_high_need": "10/280 (3.6%)",
+                "rank": 12
+            },
+            {
+                "name": "Jack Colleran",
+                "high_need_score": "118.4",
+                "all_score": "81.6",
+                "percentage_high_need": "10/200 (5.0%)",
+                "rank": 13
+            },
+            {
+                "name": "Shelton Frimpong",
+                "high_need_score": "115.0",
+                "all_score": "72.1",
+                "percentage_high_need": "9/249 (3.6%)",
+                "rank": 14
+            },
+            {
+                "name": "Stephen Taylor",
+                "high_need_score": "108.5",
+                "all_score": "87.2",
+                "percentage_high_need": "19/246 (7.7%)",
+                "rank": 15
+            },
+            {
+                "name": "Alexandra Kepas",
+                "high_need_score": "97.6",
+                "all_score": "115.0",
+                "percentage_high_need": "8/185 (4.3%)",
+                "rank": 16
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "163.3",
+            "all_score": "109.2",
+            "percentage_high_need": "233/3885 (6.0%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": "Student trigger: Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from another healthcare worker: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs. | Context/impact: This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum through practical solutions. | Consultant response: Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility. | Improvement: Include more specific examples of successful study patterns from current healthcare students and demonstrate varied approaches to different shift patterns."
+                    },
+                    {
+                        "title": "Professional Sports Integration",
+                        "content": "Student trigger: Parent stated: 'He's going to be able to take a professional soccer contracts overseas next year' (call_595908404265, seg_15), revealing critical need for flexible study arrangements. | Context/impact: This moment required clear demonstration of how education could seamlessly align with professional sports commitments to maintain enrollment momentum. | Consultant response: Consultant effectively demonstrated flexibility: 'This course is completely done online... he can actually watch it in his own time that works when he's here overseas' (call_595908404265, seg_23), showing practical accommodation of professional commitments. | Improvement: Include more specific examples of successful student-athletes balancing study with international sports commitments and competition schedules."
+                    },
+                    {
+                        "title": "Educational Pathway Development",
+                        "content": "Student trigger: Student expressed: 'I'm 53 and I wanted to do a PhD. I'm not sure if I can do that' (call_596013512541, seg_19), revealing uncertainty about educational pathway feasibility. | Context/impact: Student's concern about age and aspirations required clear demonstration of pathway achievability to maintain enrollment momentum. | Consultant response: Consultant provided structured guidance: 'So with your pathway, you start off with the undergraduates...need to complete the third year at an average of 70% to be eligible to go into the fourth year' (call_596013512541, seg_39), effectively mapping the journey. | Improvement: Enhance response with more explicit validation of mature student capabilities and specific support mechanisms available throughout the academic journey."
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": "Student trigger: Student stated: 'I'm probably in a bit of a better mind now to take it a little bit more seriously' (call_596019991713, seg_10), indicating readiness but potential uncertainty about returning to study. | Context/impact: This moment required careful support for a returning student's transition while maintaining their newfound momentum through practical guidance and confidence building. | Consultant response: Consultant replied with basic acknowledgment: 'Yeah, absolutely. How can I help you with that one?' (call_596019991713, seg_8), missing deeper exploration of support needs and transition strategies. | Improvement: Develop more comprehensive support strategies for students returning to study after breaks with specific examples of successful transitions and confidence-building approaches."
+                    },
+                    {
+                        "title": "Career Development Planning",
+                        "content": "Student trigger: Student stated: 'I'm a disability support worker, but I want to move into become a behaviour support practitioner' (call_596091164372, seg_37), seeking clear pathway guidance for career transition. | Context/impact: Critical opportunity to demonstrate how program supports specific career transition goals while maintaining appropriate pre-enrollment boundaries. | Consultant response: Consultant provided basic resources: 'I've sent you the brochure of the course' (call_596091164372, seg_96), without exploring specific pathway alignment or transition strategies. | Improvement: Engage in collaborative exploration of how program elements support career transition goals while maintaining appropriate advisory boundaries."
+                    },
+                    {
+                        "title": "Documentation Process Planning",
+                        "content": "Student trigger: Student stated: 'Okay, yes, I just need to get my transcript to just in a piece and do that and also declare, yeah' (call_595907804215, seg_299), showing uncertainty about documentation requirements and process steps. | Context/impact: Clear documentation guidance directly impacts enrollment completion rates and student confidence in managing requirements while maintaining momentum. | Consultant response: Consultant offered basic guidance: 'I'm just going to send you an email just confirming what you've got to do next' (call_595907804215, seg_301), without providing comprehensive support or exploring potential challenges. | Improvement: Develop comprehensive documentation support approach with clear milestones, contingency planning, and proactive assistance mechanisms to ensure successful completion."
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": {
+                            "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+                            "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+                            "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+                        }
+                    },
+                    {
+                        "title": "Professional Sports Integration",
+                        "content": {
+                            "student_trigger": "During the call with a parent discussing their son's educational future, they revealed: 'He's going to be able to take a professional soccer contracts overseas next year' (call_595908404265, seg_15). This disclosure presented a crucial opportunity to demonstrate how our program could accommodate high-level athletic pursuits while maintaining academic progress. The timing and context made this revelation particularly significant as it required immediate demonstration of program flexibility.",
+                            "consultant_response": "The consultant effectively addressed these unique circumstances by highlighting the program's adaptability: 'This course is completely done online so there's never any class times that he has to attend, it's all pre-recorded so he can actually watch it in his own time that works when he's here overseas' (call_595908404265, seg_23). This response successfully demonstrated how the program could accommodate professional sports commitments while maintaining academic progress.",
+                            "recommended_approach": "When addressing the needs of student-athletes or professionals with demanding schedules, begin by acknowledging their unique situation and the importance of maintaining both career and academic progress. Start with exploring their specific schedule patterns: 'Let's look at how your training and competition schedule might align with our study periods.' Share concrete examples of how current student-athletes manage similar situations, particularly highlighting successful cases of international athletes maintaining their studies. For instance, demonstrate how offline access to materials allows study during travel periods, and how assessment schedules can work around competition seasons. Pay special attention to tournament or competition periods, showing how our platform's flexibility accommodates these intensive times. Include specific examples like: 'One of our soccer players downloads all materials before overseas tournaments, completing readings during recovery periods and participating in online discussions during travel days.' The goal is to transform perceived conflicts between sport and study into manageable opportunities through practical planning and proven strategies."
+                        }
+                    },
+                    {
+                        "title": "Educational Pathway Development",
+                        "content": {
+                            "student_trigger": "The critical moment emerged when a mature student voiced their aspiration and uncertainty: 'I'm 53 and I wanted to do a PhD. I'm not sure if I can do that' (call_596013512541, seg_19). This statement revealed both ambition and apprehension about pursuing advanced education later in life, presenting a crucial opportunity to demonstrate how our program could support their goals while addressing age-related concerns.",
+                            "consultant_response": "The consultant demonstrated strong pathway planning by providing a detailed roadmap: 'So with your pathway, you start off with the undergraduates, which is a three-year bachelor's degree. You need to complete the third year at an average of 70% to be eligible to go into the fourth year' (call_596013512541, seg_39). This response effectively broke down the journey into manageable steps while maintaining focus on the student's ultimate goal.",
+                            "recommended_approach": "When addressing advanced educational aspirations, especially with mature students, begin by validating their goals while acknowledging their life experience as an asset. Start with explicit validation: 'Your goal of pursuing a PhD shows great ambition, and many successful students begin their journey at similar life stages.' Break down the pathway into clear stages, identifying key milestones and support services available at each step. For instance, share how professional experience often enhances academic performance: 'Many of our mature students find their work experience provides valuable context for research and critical analysis.' Use specific success stories: 'One of our recent graduates began their bachelor's degree at 55 and is now completing their PhD, finding their life experience particularly valuable in research.' Pay special attention to confidence-building, showing how mature students often excel due to their focused approach and rich life experience. The goal is to transform age-related concerns into confidence while providing practical steps toward advanced academic goals."
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": {
+                            "student_trigger": "During call 596019991713 (segment 10), the student expressed: 'I'm probably in a bit of a better mind now to take it a little bit more seriously.' This statement indicated both readiness to return to study and potential uncertainty about the transition, presenting a crucial opportunity for supportive guidance in their re-entry to education.",
+                            "consultant_response": "The consultant offered a basic acknowledgment: 'Yeah, absolutely. How can I help you with that one?' While friendly, this response missed the opportunity to explore the student's readiness more deeply or provide specific support strategies for returning to study. The interaction could have been enhanced with more targeted guidance and confidence-building discussion.",
+                            "recommended_approach": "When students indicate readiness to return to study, begin by validating their decision while providing structured support for the transition. Start with acknowledgment: 'It's great that you're feeling ready to take this step - many successful students return to study when they feel the timing is right.' Then explore their specific circumstances: 'What aspects of returning to study excite you most, and where would you like additional support?' Share concrete examples of support mechanisms: 'Our study skills refresher resources and flexible study options help many returning students transition back successfully.' When discussing academic preparation, provide specific strategies: 'Many returning students start with our Learning and Communication unit, which helps rebuild academic confidence while developing essential study skills.' Include success stories: 'One recent graduate returned to study after 15 years, starting with one unit to build confidence, and graduated with distinction.' The goal is to transform their readiness into confidence through practical support and proven transition strategies."
+                        }
+                    },
+                    {
+                        "title": "Career Development Planning",
+                        "content": {
+                            "student_trigger": "During call 596091164372 (segment 37), the student clearly articulated their career transition goals: 'I'm a disability support worker, but I want to move into become a behaviour support practitioner.' This moment represented a critical opportunity to demonstrate how the program could support their specific career transition goals while maintaining appropriate boundaries around career guidance.",
+                            "consultant_response": "The consultant's response focused primarily on providing resources rather than engaging in deeper discussion: 'I've sent you the brochure of the course' (call_596091164372, seg_96). This approach missed the opportunity to explore specific pathways and create a collaborative plan aligned with the student's career transition goals.",
+                            "recommended_approach": "When students express specific career transition goals, engage in collaborative pathway planning while maintaining appropriate boundaries. Begin by acknowledging their current role and aspirations: 'Your experience as a disability support worker provides a strong foundation. Let's explore how our program can help you transition to a behaviour support practitioner role.' Guide the discussion to program elements that support their goals: 'Many of our students make similar transitions. Would you like to explore which aspects of our program specifically support this career path?' Use examples of how current students have navigated similar transitions: 'One recent graduate successfully moved from disability support to behaviour support practice, finding our behavioral science modules particularly valuable for expanding their expertise.' Always maintain focus on educational pathways rather than specific career advice: 'While we can't provide detailed career guidance, I can show you how our program components align with your professional goals.' The key is demonstrating clear pathways while staying within appropriate pre-enrollment discussion boundaries."
+                        }
+                    },
+                    {
+                        "title": "Documentation Process Planning",
+                        "content": {
+                            "student_trigger": "The student expressed uncertainty about documentation requirements: 'Okay, yes, I just need to get my transcript to just in a piece and do that and also declare, yeah' (call_595907804215, seg_299). This moment revealed both willingness to proceed and need for clear guidance on documentation processes to maintain enrollment momentum.",
+                            "consultant_response": "The consultant provided minimal guidance: 'I'm just going to send you an email just confirming what you've got to do next' (call_595907804215, seg_301). This basic response missed the opportunity to provide comprehensive support and explore potential documentation challenges that could impact enrollment progress.",
+                            "recommended_approach": "When guiding students through documentation requirements, begin by creating a clear, structured process that anticipates and addresses potential challenges. Start with acknowledgment: 'Documentation can seem overwhelming, but we'll break it down into manageable steps.' Create a detailed timeline: 'Let's outline what documents you need now for enrollment, and what can be submitted later.' Provide specific guidance: 'For your transcript request, I can show you exactly what to ask for and help you draft the email if needed.' When discussing requirements, include alternatives: 'If you can't obtain original documents, we have several other acceptable options we can explore.' The key is transforming documentation from a potential barrier into a clear, achievable process. Maintain momentum through proactive support: 'I'll send you our comprehensive documentation guide, and we can schedule a quick check-in next week to review your progress.' Always include contingency planning: 'If you encounter any difficulties obtaining documents, let's discuss alternative options early so we can maintain your enrollment timeline.' The goal is ensuring students feel supported while maintaining clear progress toward enrollment completion."
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2024-12-13",
+        "report_id": "MONU-B-COLL-W7-2024",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

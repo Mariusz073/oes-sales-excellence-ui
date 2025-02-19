@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 290,
+  "team_average_total_number_of_calls_per_sales_consultant": 229.8181818181818,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 46.18181818181818
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.03448275862069,
+    "team_average_percentage": 25.638189410827206
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 229,
+    "team_average_absolute_number": 183.63636363636363
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.96551724137932,
+    "team_average_percentage": 65.27090149826371
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.54497199602691,
+    "team_average": 56.25193772093511
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 229,
+    "team_total_excluded_transcripts": 2021
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 269.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 182.46,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 178.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.64,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.48,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 190.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.56,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.07,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 189.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 137.5,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 121.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.72,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 199.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 131.89,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 178.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.75,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through specific solution mapping"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through clear structure, adaptable study options and practical support mechanisms"
+      },
+      {
+        "headline": "Financial Support Navigation",
+        "explanation": "Clear articulation of financial support options and pathways, helping students understand and plan for program costs with specific funding mechanisms"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career progression goals through detailed pathway mapping"
+      },
+      {
+        "headline": "Study Return Confidence",
+        "explanation": "More comprehensive support required for building academic confidence in students returning to education through structured preparation and success strategies"
+      },
+      {
+        "headline": "Communication Pace Adaptation",
+        "explanation": "Need for better adaptation of communication style and pace to match student comprehension needs during complex planning discussions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596091044814",
+              "segment_id": "10",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'If I do the graduate diploma and then the advanced graduate diploma, how far along the pathway to being an actual registered psychologist am I?' (call_596091044814, seg_10), revealing critical need for clear career progression understanding.",
+          "consultant_response": "Consultant effectively outlined progression: 'In terms of completing both of those two, you would be on track to becoming a registered psychologist...you will be able to start working as a psychologist but in non-clinical roles' (call_596091044814, seg_24).",
+          "context_impact": "This pivotal moment required demonstrating program value and career pathway clarity while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Include specific examples of non-clinical roles and typical progression timelines while maintaining sales role boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595908157534",
+              "segment_id": "99",
+              "timestamp": "06:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Oh wow, so with that 18 grand is there any chance that I can ask for the government help or any subsidiary?' (call_595908157534, seg_99), showing critical concern about course affordability.",
+          "consultant_response": "Consultant effectively explained: 'As an Australian citizen you do automatically have access to government support which is in the form of fee help' (call_595908157534, seg_101), providing clear pathway to assistance.",
+          "context_impact": "Clear guidance on financial aid options was crucial for maintaining enrollment momentum.",
+          "recommended_approach": "Include more proactive exploration of available financial support options and documentation requirements."
+        },
+        {
+          "id": 4,
+          "title": "Study Return Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267920886",
+              "segment_id": "20",
+              "timestamp": "21:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596267920886, seg_20), revealing anxiety about academic readiness.",
+          "consultant_response": "Consultant provided basic acknowledgment without exploring transferable skills or available support mechanisms.",
+          "context_impact": "Critical moment to address study confidence barriers through comprehensive support demonstration and success strategies.",
+          "recommended_approach": "Identify specific transferable professional skills and connect them to academic success strategies while detailing support resources."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596105486509",
+              "segment_id": "30",
+              "timestamp": "4:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Now, if I complete a Bachelor's in Counselling, can I get into Psychology at Monash part-time?' (call_596105486509, seg_30), seeking career progression clarity.",
+          "consultant_response": "Consultant provided basic confirmation without exploring goals or creating detailed pathway plan.",
+          "context_impact": "Clear guidance on career progression pathways was crucial for building confidence in educational investment.",
+          "recommended_approach": "Develop comprehensive discussion of career progression options and how different study pathways align with career goals."
+        },
+        {
+          "id": 6,
+          "title": "Communication Clarity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596105013225",
+              "segment_id": "99",
+              "timestamp": "unknown"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student requested: 'Oh yeah, can you please repeat it again because it just goes so fast and I don't catch up really' (call_596105013225, seg_99), indicating information overload.",
+          "consultant_response": "Consultant continued: 'Yeah, no worries there. Yeah, so as I mentioned with Monash Online...' (call_596105013225, seg_101), missing opportunity to adjust pace.",
+          "context_impact": "Clear communication crucial for student understanding and confidence in program requirements.",
+          "recommended_approach": "Implement structured approach with clear checkpoints for student understanding and comfort with information flow."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "When addressing shift workers' scheduling concerns, the student expressed significant anxiety about managing studies alongside their rotating hospital shifts: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23). This was echoed in supporting calls where healthcare workers noted similar challenges: 'My roster changes every week' (call_595732548084, seg_163). These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The consultant demonstrated strong understanding of healthcare workflows, responding with practical solutions: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding positively. Both consultants effectively moved the conversation from 'if' to 'how', directly addressing practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, begin by validating their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596091044814",
+              "segment_id": "10",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought specific clarity about their psychology career progression, asking: 'If I do the graduate diploma and then the advanced graduate diploma, how far along the pathway to being an actual registered psychologist am I?' (call_596091044814, seg_10). This detailed question demonstrated both strong engagement with the program and a critical need for understanding how these qualifications would contribute to their professional goals.",
+          "consultant_response": "The consultant provided comprehensive pathway guidance while maintaining appropriate boundaries: 'In terms of completing both of those two, you would be on track to becoming a registered psychologist... you will be able to start working as a psychologist but in non-clinical roles supporting clinicians' (call_596091044814, seg_24). This response effectively balanced immediate program benefits with longer-term career progression.",
+          "priority": "high",
+          "recommended_approach": "When addressing psychology career pathway questions, begin by validating the student's career aspirations while maintaining clear sales role boundaries: 'Your interest in becoming a registered psychologist shows excellent career planning. Let me outline how our programs support that journey.' Structure the response to focus first on immediate outcomes: 'The graduate diploma provides foundational psychology knowledge and opens doors to roles like behavioral technician or research assistant.' Then progress to advanced qualifications: 'The advanced diploma builds on this foundation, qualifying you for non-clinical psychology roles such as behavior specialist or psychological wellbeing practitioner.' When discussing registration requirements, maintain focus on current program value: 'While full registration requires additional study through a master's program, each qualification level provides valuable practical experience and career progression opportunities.' Throughout the explanation, use specific examples from current students: 'For instance, one of our recent graduates started as a research assistant while completing further qualifications.' The key is helping students visualize their journey while maintaining appropriate role boundaries and focusing on achievable next steps."
+        },
+        {
+          "id": 3,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595908157534",
+              "segment_id": "99",
+              "timestamp": "06:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "When the student exclaimed 'Oh wow, so with that 18 grand is there any chance that I can ask for the government help or any subsidiary?' (call_595908157534, seg_99), it marked a critical moment where financial concerns could have derailed enrollment momentum. The student's reaction to the course cost and immediate inquiry about support options indicated both strong interest in the program and a need for clarity on financial assistance to move forward.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by immediately addressing eligibility and explaining the support process: 'As an Australian citizen you do automatically have access to government support which is in the form of fee help where the only thing you'll need to take advantage of is to provide us with your tax file number so that we can defer your payments into government support.' This response effectively reduced the perceived financial barrier by confirming support availability and outlining clear next steps.",
+          "priority": "high",
+          "recommended_approach": "When students express concern about course costs, begin by acknowledging their financial considerations while positioning government support as a standard enrollment component. Start with confirming eligibility through a citizenship check, then explain FEE-HELP as a common solution: 'That's a very common concern, and I'm glad you asked about support options. Let me explain how most of our students manage this through FEE-HELP.' Transform the cost barrier into a procedural step by clearly outlining the support process and requirements. For example: 'While the course investment is significant, the government support system makes education accessible - many of our students use FEE-HELP to defer all costs until they're earning above the threshold.' When students show particular concern about cost, emphasize both the accessibility of support and the straightforward application process: 'Once we confirm your citizenship status, all you'll need is your tax file number to access FEE-HELP.' This approach combines reassurance with practical guidance while maintaining enrollment momentum."
+        },
+        {
+          "id": 4,
+          "title": "Study Return Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267920886",
+              "segment_id": "20",
+              "timestamp": "21:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A critical moment arose when the student expressed anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596267920886, seg_20). This vulnerable disclosure revealed deep-seated concerns about academic readiness, presenting a crucial opportunity to demonstrate how program support systems ensure student success.",
+          "consultant_response": "The consultant provided basic acknowledgment without exploring transferable skills or detailing available support mechanisms. This limited response failed to address underlying anxiety about academic performance and missed the opportunity to transform professional experience into academic confidence.",
+          "priority": "high",
+          "recommended_approach": "When students express anxiety about returning to study after a long break, transform their perceived disadvantage into a strength through structured confidence building. Start with validation: 'Many of our most successful students return to study after significant career experience - they often perform better because of their professional skills.' Then identify specific transferable strengths: 'Your years of professional experience have developed crucial skills like project management, problem-solving, and time management - all vital for academic success.' Create explicit connections to program support: 'Our Learning Success team specializes in helping returning students transition back to study, offering personalized support with study techniques and academic writing.' For example, when a student expresses study anxiety, respond with: 'Let me share how one of our recent graduates managed their return to study. They started by meeting with our Learning Success team to create a study plan that built on their professional experience in [relevant field]. They found their project management skills were invaluable for assignment planning.' If students remain hesitant, provide concrete solutions: 'We can schedule a session with our Learning Success team before your first trimester to develop study strategies that work with your experience and learning style.' Always conclude with a clear support plan that gives them confidence in their ability to succeed."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596105486509",
+              "segment_id": "30",
+              "timestamp": "4:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "When the student sought clarity about their educational progression by asking: 'Now, if I complete a Bachelor's in Counselling, can I get into Psychology at Monash part-time?' (call_596105486509, seg_30), this revealed their focus on long-term career planning and need for understanding how different qualifications could support their professional goals.",
+          "consultant_response": "The consultant's response was limited to basic confirmation without exploring the student's career aspirations or creating a comprehensive educational pathway plan. This missed the opportunity to engage in meaningful discussion about how different study options could align with and support their career goals.",
+          "priority": "high",
+          "recommended_approach": "When students inquire about career progression pathways, start by acknowledging their forward-thinking approach: 'It's excellent that you're planning your educational journey with clear career goals in mind.' Then, explore their career aspirations in detail: 'What aspects of psychology particularly interest you? This will help us ensure your educational pathway aligns with your professional goals.' The key is creating a clear connection between their current steps and long-term objectives. Discuss how different qualifications build upon each other: 'The counselling degree can provide a strong foundation in human behavior and therapeutic approaches, which many students find valuable when transitioning into psychology studies.' Focus on practical career progression examples: 'Many of our graduates have successfully followed this pathway, developing valuable skills in counselling before specializing in psychology.' Address both immediate and long-term planning needs, ensuring students understand how each qualification contributes to their career development."
+        },
+        {
+          "id": 6,
+          "title": "Communication Clarity",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596105013225",
+              "segment_id": "99",
+              "timestamp": "unknown"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student requested clarity in communication by stating: 'Oh yeah, can you please repeat it again because it just goes so fast and I don't catch up really' (call_596105013225, seg_99). This moment revealed their struggle to process information at the current pace, presenting an opportunity to adjust the communication approach and ensure better understanding of program details.",
+          "consultant_response": "The consultant's response failed to adequately address the pace concern: 'Yeah, no worries there. Yeah, so as I mentioned with Monash Online, it is a little bit different to other universities in a sense that we operate in teaching periods as opposed to semesters' (call_596105013225, seg_101). This response missed the opportunity to adjust the communication style and ensure better understanding.",
+          "priority": "high",
+          "recommended_approach": "When students signal difficulty following the conversation, immediately shift to a more structured, measured approach to information delivery. Begin with acknowledgment: 'I appreciate you letting me know. Let's take this step by step to ensure everything is clear.' Then break complex information into digestible segments: 'First, let's focus on understanding teaching periods. What specific questions do you have about this?' Maintain regular comprehension checks: 'Does this part make sense before we move on?' Use clear examples to illustrate points: 'For instance, instead of two long semesters, we have six teaching periods throughout the year, giving you more flexibility to plan your studies.' Pay close attention to the student's verbal cues indicating confusion or information overload. The goal is to create a supportive environment where students feel comfortable asking for clarification."
+        }
+      ]
+    }
+  }
+}

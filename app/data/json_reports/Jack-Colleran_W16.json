@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 200,
+  "team_average_total_number_of_calls_per_sales_consultant": 242.8125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 42,
+    "team_average_absolute_number": 62.3125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.0,
+    "team_average_percentage": 25.75705321113411
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 158,
+    "team_average_absolute_number": 180.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 79.0,
+    "team_average_percentage": 74.2429467888659
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.401977084533115,
+    "team_average": 53.5140458127338
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 158,
+    "team_total_excluded_transcripts": 2888
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 177.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 173.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.86,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 188.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 172.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.63,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum and providing clear next steps"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples, specific scheduling solutions and clear adaptation options"
+      },
+      {
+        "headline": "Proactive Support Connection",
+        "explanation": "Effective guidance through transitions by connecting students with appropriate resources while maintaining clear role boundaries and demonstrating comprehensive support availability"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "More comprehensive support needed for students balancing multiple commitments, with specific strategies for managing professional and personal responsibilities across varied schedules"
+      },
+      {
+        "headline": "Value Proposition Differentiation",
+        "explanation": "Enhanced exploration needed of unique institutional benefits and accreditation value when students are comparing educational options or questioning program recognition"
+      },
+      {
+        "headline": "Circumstantial Planning Detail",
+        "explanation": "Deeper discussion required of how program elements and pathways specifically align with students' unique circumstances and career development goals"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596091242148",
+              "segment_id": "45",
+              "timestamp": "0:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732493616",
+                "segment_id": "23",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm really interested in psychology but with my hospital shifts, I'm not sure how I could manage the workload' (call_596091242148, seg_45), revealing critical concerns about balancing work and study commitments.",
+          "consultant_response": "Consultant responded effectively: 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster' (call_596091242148, seg_46), actively engaging in collaborative planning.",
+          "context_impact": "This moment required demonstrating how program flexibility could specifically accommodate healthcare shift work to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and detailed offline study strategies."
+        },
+        {
+          "id": 2,
+          "title": "Career Goal Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596253137655",
+              "segment_id": "31",
+              "timestamp": "1:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want my end goal or my direct actual direction I want to get into family violence' (call_596253137655, seg_31), revealing clear career aspirations requiring pathway alignment.",
+          "consultant_response": "Consultant effectively validated the pathway: 'I think this will be the right course for you...especially the fact that you're doing the Certificate IV in Community Services' (call_596253137655, seg_38), connecting current progress to career goals.",
+          "context_impact": "Critical moment to demonstrate program alignment with career goals while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Include more specific examples of how program elements directly support career progression while maintaining appropriate advisory boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Study Readiness Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090967797",
+              "segment_id": "46",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I feel like I'm under prepared to enroll in March' (call_596090967797, seg_46), revealing critical concerns about academic readiness.",
+          "consultant_response": "Consultant offered practical solution: 'You can start with one unit...learning and communicating online units...it'll just kind of get you back used to how obviously online study works' (call_596090967797, seg_60).",
+          "context_impact": "Key moment to transform study anxiety into structured confidence-building plan with clear support mechanisms.",
+          "recommended_approach": "Provide more comprehensive overview of available support resources and specific examples of successful student transitions."
+        },
+        {
+          "id": 4,
+          "title": "Parent Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596019763675",
+              "segment_id": "4",
+              "timestamp": "1:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Not too bad, just I'm a mum so it's always busy' (call_596019763675, seg_4), indicating critical need for flexibility discussion.",
+          "consultant_response": "Consultant offered basic flexibility without exploring specific support strategies or success examples.",
+          "context_impact": "Recognition of parental responsibilities and time management concerns critical for enrollment confidence.",
+          "recommended_approach": "Develop detailed discussion of how parent students successfully manage their studies with specific scheduling strategies and support options."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596252662013",
+              "segment_id": "101",
+              "timestamp": "16:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I was looking at keeping a bit of a part-time light load for now' (call_596252662013, seg_101), revealing need for guidance on managing study commitments.",
+          "consultant_response": "Consultant provided basic information about unit load without exploring specific support mechanisms or success strategies.",
+          "context_impact": "Critical moment to demonstrate program flexibility and support options to boost enrollment confidence.",
+          "recommended_approach": "Create comprehensive discussion of study load options with specific support strategies and examples of successful part-time progression."
+        },
+        {
+          "id": 6,
+          "title": "Program Recognition Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090967797",
+              "segment_id": "414",
+              "timestamp": "40:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'When you finish, what are you? And I said, well, I've got a Bachelor of Law and he said, yeah but is it recognised?' (call_596090967797, seg_414), revealing fundamental concerns about program credibility.",
+          "consultant_response": "Consultant stated: 'No, so when you finish obviously it's accredited right, so it's accredited by across Australia, especially in Victoria' (call_596090967797, seg_419), providing limited validation.",
+          "context_impact": "Critical moment to establish program credibility and long-term value through clear demonstration of recognition and outcomes.",
+          "recommended_approach": "Develop comprehensive explanation of accreditation value, industry recognition, and specific career pathway implications with graduate success examples."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596091242148",
+              "segment_id": "45",
+              "timestamp": "0:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732493616",
+                "segment_id": "23",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "During the call, the student expressed significant concern about managing their studies alongside their professional commitments, stating 'I'm really interested in psychology but with my hospital shifts, I'm not sure how I could manage the workload' (call_596091242148, seg_45). Similar concerns emerged across multiple calls, indicating a common need to demonstrate how the program could accommodate healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning skills by responding, 'I understand managing shift work can be challenging. Let's look at how our flexible study options could work around your roster' (call_596091242148, seg_46). This response effectively acknowledged the student's concerns while actively engaging them in solution-finding, transforming potential barriers into opportunities for detailed planning. The inclusive language and proactive approach helped establish a foundation for exploring practical study arrangements.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, particularly with healthcare professionals, begin by validating their situation and demonstrating understanding of their unique challenges. Start with targeted questions about their work patterns: 'Could you tell me about your typical roster cycle?' Use this information to showcase relevant program features: 'Many of our nursing students download materials before night shifts for offline study during quiet periods.' Share specific success strategies: 'Some students complete readings during break periods, while others dedicate specific days between shifts for focused study.' Always maintain focus on practical solutions while avoiding overly detailed study planning that belongs to learning coaches. When discussing flexibility options, use concrete examples: 'If you're working three night shifts, you might download all materials Monday, use quiet periods around 2-3am for focused reading, then complete discussion posts during recovery days.' The goal is to help students envision a manageable integration of study with their professional lives, building their confidence in program feasibility."
+        },
+        {
+          "id": 2,
+          "title": "Career Goal Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596253137655",
+              "segment_id": "31",
+              "timestamp": "1:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The conversation reached a pivotal moment when the student expressed clear career aspirations: 'I want my end goal or my direct actual direction I want to get into family violence' (call_596253137655, seg_31). This statement revealed both specific career goals and readiness for guidance on educational pathways, presenting an ideal opportunity for collaborative planning.",
+          "consultant_response": "The consultant effectively validated the career direction while connecting it to current educational progress: 'I think this will be the right course for you...especially the fact that you're doing the Certificate IV in Community Services' (call_596253137655, seg_38). This response demonstrated strong collaborative planning by acknowledging the student's goals while creating clear connections between their current studies and future aspirations.",
+          "priority": "high",
+          "recommended_approach": "When students share specific career goals, begin by validating their aspirations while maintaining appropriate guidance boundaries. Start with acknowledgment: 'Your interest in family violence prevention shows clear career focus - let's explore how our program can support that path.' Then outline relevant program elements: 'Our community services units include specific content around family violence intervention and support services.' Connect their current experience to future opportunities: 'Your Certificate IV provides an excellent foundation - many successful graduates started with similar qualifications.' Always stay within educational guidance scope while demonstrating program relevance: 'While we focus on educational preparation, our graduates often move into roles supporting family violence prevention.' Share tangible examples: 'For instance, one recent graduate now coordinates domestic violence support services, building on the theoretical framework and practical skills developed during their studies.' The goal is showing clear pathways to their chosen field while maintaining appropriate boundaries between educational guidance and career planning."
+        },
+        {
+          "id": 3,
+          "title": "Study Readiness Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090967797",
+              "segment_id": "46",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A critical moment arose when the student voiced concerns about academic readiness, stating: 'I feel like I'm under prepared to enroll in March' (call_596090967797, seg_46). This expression of anxiety about returning to study represented a crucial opportunity to address fears that could potentially derail enrollment while demonstrating available support structures.",
+          "consultant_response": "The consultant addressed these concerns effectively by suggesting: 'You can start with one unit...learning and communicating online units...it'll just kind of get you back used to how obviously online study works' (call_596090967797, seg_60). This response demonstrated understanding of the student's apprehension while offering a concrete, manageable solution that could build confidence progressively.",
+          "priority": "high",
+          "recommended_approach": "When addressing study readiness concerns, begin by normalizing their feelings while providing clear pathways forward: 'Many successful students start with similar concerns - let's explore how we can build your confidence step by step.' Share specific success stories: 'One recent graduate told me starting with our learning and communications unit helped them develop study routines that carried through their entire degree.' Create a collaborative plan by asking targeted questions: 'What aspects of returning to study concern you most?' Use their responses to highlight relevant support services: 'Our online learning coaches can help you develop time management strategies tailored to your schedule.' Discuss the starter unit as a strategic foundation: 'This unit is specifically designed to build your study confidence and digital literacy skills, with many students finding it transforms their approach to online learning.' Share practical examples: 'For instance, one student who hadn't studied for 15 years started with one unit, developed strong study habits, and is now successfully managing a full-time load.' The goal is transforming anxiety into action through clear, manageable steps while demonstrating comprehensive support availability."
+        },
+        {
+          "id": 4,
+          "title": "Parent Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596019763675",
+              "segment_id": "4",
+              "timestamp": "1:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the conversation, the student revealed their parental responsibilities: 'Not too bad, just I'm a mum so it's always busy' (call_596019763675, seg_4). This disclosure presented a crucial opportunity to demonstrate how the program could accommodate parental responsibilities and address potential time management concerns that could impact enrollment decisions.",
+          "consultant_response": "The consultant provided basic acknowledgment of flexibility without exploring specific support mechanisms or strategies that could help the student manage their parental responsibilities alongside their studies. This missed opportunity to provide concrete solutions and build confidence in program suitability.",
+          "priority": "high",
+          "recommended_approach": "When addressing parental time management concerns, begin by validating their current commitments and demonstrating understanding of their unique challenges. Start with empathy: 'Many of our successful students are parents - let's explore how our program flexibility can work for your family schedule.' Ask specific questions about their routine: 'What times typically work best for you to focus on study?' Then share concrete examples: 'Some parent students download materials to study during children's activities, while others prefer early mornings or evenings after bedtime.' Discuss specific support features: 'Our flexible assessment deadlines accommodate school holidays and family commitments, and our offline access means you can study anywhere.' Include success stories: 'One recent graduate managed her studies by breaking assignments into small tasks she could complete during her children's activities.' Share specific strategies: 'Many parent students find success by dedicating specific time blocks to study, like Sunday mornings or weekday evenings after children's bedtime.' The goal is showing how program flexibility specifically addresses parental needs while building confidence in their ability to succeed."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596252662013",
+              "segment_id": "101",
+              "timestamp": "16:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed interest in managing their study load carefully: 'I was looking at keeping a bit of a part-time light load for now' (call_596252662013, seg_101). This revealed both interest in the program and concern about managing study commitments effectively.",
+          "consultant_response": "The consultant provided basic information about unit loads without fully exploring the student's specific circumstances or discussing comprehensive support mechanisms available for managing different study patterns.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load options, begin by exploring the student's specific circumstances and commitments that influence their preferred study pattern. Start with understanding their situation: 'Could you tell me more about what's influencing your thoughts on a lighter study load?' Then, demonstrate how our program flexibility can accommodate their needs: 'We can structure your study load to align with your other commitments, whether that's starting with one unit and building up, or maintaining a consistent part-time pattern.' Share specific examples of successful study patterns: 'Many students begin with two units per trimester, allowing them to maintain work-life balance while making steady progress.' Discuss available support services: 'Our learning advisors can help you develop effective study strategies, and our flexible assessment deadlines accommodate busy periods.' Provide concrete examples: 'For instance, one student recently shared how starting with two units helped them establish effective study routines before gradually increasing their load.' The goal is creating confidence in their ability to succeed while ensuring they understand all available support mechanisms."
+        },
+        {
+          "id": 6,
+          "title": "Program Recognition Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596090967797",
+              "segment_id": "414",
+              "timestamp": "40:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student raised a critical question about program credibility: 'When you finish, what are you? And I said, well, I've got a Bachelor of Law and he said, yeah but is it recognised?' (call_596090967797, seg_414). This query reflected fundamental concerns about the program's value and industry recognition, representing a crucial moment for building confidence in the qualification's credibility.",
+          "consultant_response": "The consultant provided a basic response: 'No, so when you finish obviously it's accredited right, so it's accredited by across Australia, especially in Victoria' (call_596090967797, seg_419). While mentioning accreditation, the response lacked depth in explaining the specific value and recognition of the qualification.",
+          "priority": "high",
+          "recommended_approach": "When addressing program recognition concerns, begin with a clear statement about accreditation while connecting it to tangible benefits: 'Our Bachelor of Law is fully accredited by [specific body] and holds the same standing as law degrees from any Australian university.' Explore the student's career aspirations: 'What type of legal work interests you most?' Use their response to highlight relevant program features: 'Many of our graduates have successful careers in corporate law, and our program includes specific preparation for bar admission.' Share concrete examples of graduate outcomes and industry partnerships: 'For example, one of our recent graduates secured a position at a leading law firm, while another successfully established their own practice.' Discuss specific recognition aspects: 'Our program meets all requirements for legal practice admission, and many of our graduates now work in prestigious firms across Australia.' The goal is to transform their concern about recognition into confidence in the program's ability to support their professional aspirations through clear demonstration of industry value and career impact."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "consultant_name": "Gabriel Almeida",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 274,
+  "team_average_total_number_of_calls_per_sales_consultant": 242.8125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 62.3125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.16788321167883,
+    "team_average_percentage": 25.75705321113411
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 216,
+    "team_average_absolute_number": 180.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.83211678832117,
+    "team_average_percentage": 74.2429467888659
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.679330696293164,
+    "team_average": 53.5140458127338
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 216,
+    "team_total_excluded_transcripts": 2888
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 107.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 145.91,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 142.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 152.31,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 183.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.28,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 126.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.5,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 204.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 120.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.41,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 165.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.99,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 165.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 162.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.06,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through concrete examples and clear action steps"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work schedules, international transitions, and varied professional commitments through practical examples"
+      },
+      {
+        "headline": "Support System Navigation",
+        "explanation": "Clear articulation of comprehensive support mechanisms while maintaining appropriate pre-enrollment boundaries and setting realistic expectations for post-enrollment services"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Study Load Management",
+        "explanation": "More comprehensive discussion needed around study load progression and management strategies, including specific examples of successful patterns"
+      },
+      {
+        "headline": "Support Service Transitions",
+        "explanation": "Clearer delineation needed between pre-enrollment guidance and post-enrollment support services while maintaining appropriate planning boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596178648798",
+              "segment_id": "18",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595907763536",
+                "segment_id": "58",
+                "timestamp": "05:35"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I've been working in this field for over 10 years' (call_596178648798, seg_18), followed by another stating: 'I have worked in an accounting field before I've worked for the tax accounting' (call_595907763536, seg_58), revealing need for experience validation.",
+          "consultant_response": "Consultant effectively validated experience: 'Because you already have the diploma and the work experience you are eligible to apply for the graduate diploma' (call_596178648798, seg_31), maintaining appropriate pre-enrollment boundaries.",
+          "context_impact": "Recognition of professional experience critically impacts enrollment confidence while requiring clear boundaries between pre and post-enrollment support.",
+          "recommended_approach": "Include more specific examples of how graduate programs build upon industry experience while directing detailed career planning to student advisors."
+        },
+        {
+          "id": 3,
+          "title": "International Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596268192522",
+              "segment_id": "72",
+              "timestamp": "2:39"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'So we will be moving back to Thailand for about three to four years, and does that affect anything at all?' (call_596268192522, seg_72), seeking clarity on international study impact.",
+          "consultant_response": "Consultant clarified: 'This course is available online and there is no specific time that you must be logged in...it is available for students to do overseas as long as you have access to Wi-Fi and a computer' (seg_76), effectively addressing practical concerns.",
+          "context_impact": "Clear demonstration of international study flexibility essential for maintaining enrollment momentum while establishing appropriate support expectations.",
+          "recommended_approach": "Add specific examples of successful international student experiences while clearly delineating pre and post-enrollment support services."
+        },
+        {
+          "id": 4,
+          "title": "Study Load Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596253089150",
+              "segment_id": "83",
+              "timestamp": "14:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596253089150",
+                "segment_id": "112",
+                "timestamp": "16:20"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'And I can do this course part-time, right?' (call_596253089150, seg_83), followed by 'I would like to start with one unit' (call_596253089150, seg_112), showing thoughtful approach to study planning.",
+          "consultant_response": "Consultant confirmed: 'Yes, yes absolutely' (call_596253089150, seg_84), providing basic affirmation without exploring progression planning.",
+          "context_impact": "Key opportunity to demonstrate program flexibility and support for varied study approaches.",
+          "recommended_approach": "Develop detailed discussion of study load progression options and available support mechanisms."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596091164372",
+              "segment_id": "37",
+              "timestamp": "03:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm a disability support worker, but I want to move into become a behaviour support practitioner' (call_596091164372, seg_37), seeking clear pathway guidance.",
+          "consultant_response": "Consultant provided basic resources: 'I've sent you the brochure of the course' (call_596091164372, seg_96), without exploring specific pathway alignment.",
+          "context_impact": "Opportunity to demonstrate how program supports specific career transition goals and professional development.",
+          "recommended_approach": "Engage in collaborative exploration of how program elements support career transition goals."
+        },
+        {
+          "id": 6,
+          "title": "Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "103",
+              "timestamp": "05:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596253089150",
+                "segment_id": "112",
+                "timestamp": "16:20"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed interest in support systems: 'Just know that the course has a lot of support' (call_595732493616, seg_103), seeking clarity on available assistance.",
+          "consultant_response": "Consultant provided general overview without specific implementation details or practical examples.",
+          "context_impact": "Opportunity to detail practical support system navigation and integration.",
+          "recommended_approach": "Develop clearer examples of how students can effectively utilize and combine different support services."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596178648798",
+              "segment_id": "18",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595907763536",
+                "segment_id": "58",
+                "timestamp": "05:35"
+              }
+            ]
+          },
+          "student_trigger": "During initial discussions, students revealed significant professional backgrounds: 'I've been working in this field for over 10 years' (call_596178648798, seg_18) and 'I have worked in an accounting field before I've worked for the tax accounting' (call_595907763536, seg_58). These disclosures represented critical opportunities to validate experience while maintaining appropriate pre-enrollment planning boundaries.",
+          "consultant_response": "Consultants effectively validated experience and qualifications: 'Because you already have the diploma and the work experience you are eligible to apply for the graduate diploma' (call_596178648798, seg_31) and 'Based on your work experience, you're already qualified to apply to the course and be accepted into the courses straight away' (call_595907763536, seg_66). These responses built confidence while maintaining appropriate boundaries between pre and post-enrollment support.",
+          "priority": "high",
+          "recommended_approach": "When students share significant professional experience, begin by validating their expertise while maintaining appropriate pre-enrollment boundaries: 'Your extensive industry experience is valuable and can enhance your educational journey with us.' Guide the conversation to show how the program builds on their background: 'Let's explore how our graduate program can advance your expertise while opening new opportunities.' Create clear connections between their experience and program benefits: 'Many of our successful students with similar backgrounds find that their industry knowledge enriches classroom discussions while our theoretical frameworks enhance their practical skills.' Throughout the discussion, maintain focus on program alignment while directing detailed career planning to post-enrollment support: 'Once enrolled, our career advisors can provide in-depth guidance on leveraging your experience in new directions.' Remember to validate experience without overstepping into detailed career guidance: 'While I can outline how the program aligns with your background, our student advisors can provide comprehensive career planning support once you're enrolled.'"
+        },
+        {
+          "id": 3,
+          "title": "International Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596268192522",
+              "segment_id": "72",
+              "timestamp": "2:39"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about international relocation: 'So we will be moving back to Thailand for about three to four years, and does that affect anything at all?' (call_596268192522, seg_72). This query revealed both practical concerns about continuing studies internationally and the need for clear guidance on program flexibility while maintaining appropriate support boundaries.",
+          "consultant_response": "The consultant provided comprehensive clarification: 'This course is available online and there is no specific time that you must be logged in...it is available for students to do overseas as long as you have access to Wi-Fi and a computer' (seg_76). This response effectively addressed practical concerns while highlighting program flexibility and maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "When addressing international study plans, begin by affirming program accessibility while establishing clear support boundaries: 'Our online platform is designed to support students studying from anywhere in the world, and I can outline our key flexibility features.' Provide specific details about program access: 'There are no mandatory live sessions, and all materials can be accessed 24/7 to accommodate different time zones.' Address common concerns while directing to appropriate support services: 'Many of our international students successfully manage their studies through features like offline material downloads. Once enrolled, our 24/7 technical support team can provide detailed guidance on these tools.' Discuss support mechanisms with appropriate boundaries: 'While I can outline our flexible study options, our online learning advisors will provide comprehensive support for managing international study once you're enrolled.' Remember to highlight successful examples while maintaining clear service distinctions: 'We have many students studying successfully from various countries, and our student success team helps them optimize their study approach post-enrollment.'"
+        },
+        {
+          "id": 4,
+          "title": "Study Load Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596253089150",
+              "segment_id": "83",
+              "timestamp": "14:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596253089150",
+                "segment_id": "112",
+                "timestamp": "16:20"
+              }
+            ]
+          },
+          "student_trigger": "In call 596253089150, a crucial moment emerged when the student inquired: 'And I can do this course part-time, right?' (segment 83), followed later by a more specific preference: 'I would like to start with one unit' (segment 112). These statements revealed careful consideration of study load management and a desire to ensure the program could accommodate their circumstances. The progressive nature of these queries indicated growing comfort with exploring flexible study options.",
+          "consultant_response": "The consultant responded initially with clear affirmation: 'Yes, yes absolutely. We are getting there very soon' (segment 84). This confident response addressed the immediate concern about part-time availability but missed the opportunity to explore study load progression planning and support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load options, begin by validating the student's thoughtful approach to managing their commitments. Start with clear affirmation of available options: 'Yes, absolutely - our program is designed to flex around your life.' Then, engage in collaborative exploration of their preferences: 'Could you tell me more about what makes starting with one unit feel right for you?' This invites deeper discussion about their circumstances and concerns. Share successful progression examples: 'Many students start with one unit to establish their rhythm, then gradually increase their load as they become more confident. For instance, one recent student began with one unit while working full-time, then moved to two units in their second term once they had developed effective study habits.' Always emphasize the support available for load adjustments: 'Our learning coaches can help you evaluate when you're ready to increase your load, ensuring you maintain a healthy study-life balance.' The goal is to build confidence in both their current choice and their ability to progress successfully."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596091164372",
+              "segment_id": "37",
+              "timestamp": "03:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596091164372 (segment 37), the student clearly articulated their career transition goals: 'I'm a disability support worker, but I want to move into become a behaviour support practitioner.' This moment represented a critical opportunity to demonstrate how the program could support their specific career transition goals and provide clarity on educational pathways while maintaining appropriate boundaries around career guidance.",
+          "consultant_response": "The consultant's response focused primarily on providing resources rather than engaging in deeper discussion: 'I've sent you the brochure of the course, so we can have a better understanding of exactly what you're going to be studying in the course' (call_596091164372, seg_96). This approach missed the opportunity to explore specific pathways and create a collaborative plan aligned with the student's career transition goals.",
+          "priority": "high",
+          "recommended_approach": "When students express specific career transition goals, engage in collaborative pathway planning while maintaining appropriate boundaries. Begin by acknowledging their current role and aspirations: 'Your experience as a disability support worker provides a strong foundation. Let's explore how our program can help you transition to a behaviour support practitioner role.' Then guide the discussion to program elements that support their goals: 'Many of our students make similar transitions. Would you like to explore which aspects of our program specifically support this career path?' Use examples of how current students have navigated similar transitions: 'One recent graduate successfully moved from disability support to behaviour support practice, finding our behavioral science modules particularly valuable for expanding their expertise.' Always maintain focus on educational pathways rather than specific career advice: 'While we can't provide detailed career guidance, I can show you how our program components align with your professional goals.' The key is demonstrating clear pathways while staying within appropriate pre-enrollment discussion boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Support Service Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "103",
+              "timestamp": "05:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596253089150",
+                "segment_id": "112",
+                "timestamp": "16:20"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed interest in understanding support systems, particularly evident in the statement: 'Just know that the course has a lot of support' (call_595732493616, seg_103). This pattern of inquiries revealed a common need for detailed understanding of how support services integrate and function practically within the study experience.",
+          "consultant_response": "While consultants generally provided overviews of available support services, responses often lacked specific details about implementation and practical usage. For example, one consultant listed available resources: 'You have teachers, student advisors, a coach' but didn't elaborate on how these services work together or how students access them effectively.",
+          "priority": "high",
+          "recommended_approach": "Transform support system discussions into practical, action-oriented conversations that help students envision how they'll utilize these resources. Begin with a clear overview: 'Let me show you exactly how our support system works together to ensure your success.' Then provide specific scenarios: 'For instance, if you're working on an assignment, you might begin with a live session with your teacher, then schedule a one-on-one with our academic skills team for writing support, while your coach helps you manage the overall timeline.' Use real student examples: 'Many students find it helpful to connect with their advisor in the first week to map out their support plan. For example, one student recently coordinated regular check-ins with their coach around their work schedule.' Include practical access information: 'You can book support sessions through our online portal, with options for both immediate assistance and scheduled consultations.' Always maintain appropriate pre-enrollment boundaries while showing how support services integrate naturally into the student journey. The goal is to make support feel tangible and accessible rather than just a list of available services."
+        }
+      ]
+    }
+  }
+}

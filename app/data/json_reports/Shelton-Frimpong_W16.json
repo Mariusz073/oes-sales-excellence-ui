@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "consultant_name": "Shelton Frimpong",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 249,
+  "team_average_total_number_of_calls_per_sales_consultant": 242.8125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 53,
+    "team_average_absolute_number": 62.3125
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.285140562248998,
+    "team_average_percentage": 25.75705321113411
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 196,
+    "team_average_absolute_number": 180.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.714859437751,
+    "team_average_percentage": 74.2429467888659
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.08600266811348,
+    "team_average": 53.5140458127338
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 196,
+    "team_total_excluded_transcripts": 2888
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 131.37,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 75.44,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 91.58,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.14,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.5,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 135.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.51,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 182.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 71.16,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.79,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 118.6,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.58,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 99.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 74.52,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 115.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 72.13,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical solutions and clear progression steps"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical examples and clear implementation strategies tailored to specific work patterns"
+      },
+      {
+        "headline": "Alternative Entry Solutions",
+        "explanation": "Proactive exploration of alternative entry pathways when standard requirements present barriers, transforming potential rejections into viable opportunities through specific examples and clear timelines"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "Enhanced exploration needed of how professional experience translates to academic success for students returning after extended breaks, with specific focus on transferable skills and support mechanisms"
+      },
+      {
+        "headline": "Health Support Integration",
+        "explanation": "More comprehensive exploration required when students disclose health considerations to demonstrate available support while maintaining appropriate boundaries and clear post-enrollment pathways"
+      },
+      {
+        "headline": "Study Load Planning",
+        "explanation": "Deeper collaborative discussion needed around flexible study options and workload management strategies aligned with individual circumstances and professional commitments"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and detailed offline study capabilities."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267900487",
+              "segment_id": "35",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596267900487, seg_35), expressing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant provided generic reassurance without exploring specific concerns or available support mechanisms.",
+          "context_impact": "Essential moment to address study confidence concerns that could prevent enrollment.",
+          "recommended_approach": "Develop structured approach to explore transferable skills and outline specific support resources for returning students with clear examples of success stories."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013317593",
+              "segment_id": "56",
+              "timestamp": "02:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Um, yeah, but I only got 51 and I know that I think the requirements is 60' (call_596013317593, seg_56), revealing anxiety about meeting entry requirements.",
+          "consultant_response": "Consultant outlined options: 'So you have two options... One is to, for example, either do a diploma... Second option is that you can wait till our November intake' (call_596013317593, seg_60), effectively presenting solutions.",
+          "context_impact": "Critical moment to prevent self-disqualification by exploring viable alternative pathways to enrollment.",
+          "recommended_approach": "Include more specific examples of successful pathway transitions and clear timelines for each option with progression milestones."
+        },
+        {
+          "id": 4,
+          "title": "Mental Health Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596253142540",
+              "segment_id": "24",
+              "timestamp": "02:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I've attempted to do quite a few courses in the past, and due to my own mental health, have not been able to complete them. I have NDIS support now' (call_596253142540, seg_24).",
+          "consultant_response": "Consultant acknowledged but didn't fully explore available support options or integrate into study planning effectively.",
+          "context_impact": "Opportunity to demonstrate institutional support while maintaining appropriate boundaries.",
+          "recommended_approach": "Create structured discussion of support services while maintaining clear boundaries between sales and support roles with specific examples of successful support integration."
+        },
+        {
+          "id": 5,
+          "title": "Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596178583481",
+              "segment_id": "76",
+              "timestamp": "06:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'how I could credit some of the subjects that I've completed at La Trobe, and what my study plan would look like' (call_596178583481, seg_76), seeking pathway clarity.",
+          "consultant_response": "Consultant explained: 'If you've done some units of a bachelor, that's actually pretty good... we can do what's called a match exemption case' (call_596178583481, seg_85), providing clear process guidance.",
+          "context_impact": "This represented a crucial opportunity to demonstrate program value through recognition of prior learning and efficient study planning.",
+          "recommended_approach": "Enhance explanation with specific timeline expectations and detailed examples of successful credit transfers with completion timeframes."
+        },
+        {
+          "id": 6,
+          "title": "Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596179297636",
+              "segment_id": "62",
+              "timestamp": "7:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I wanted to look into like social work, a bachelor's degree or something along those lines' (call_596179297636, seg_62), revealing need for clear pathway guidance.",
+          "consultant_response": "Consultant explained: 'So this is not primarily social work... it's a bit of like psychology but also... counseling, social work, support' (call_596179297636, seg_64), effectively showing program alignment with career goals.",
+          "context_impact": "Critical moment to demonstrate program relevance to career aspirations and maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how program elements and courses directly support social work career paths with graduate success stories."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how program features align with healthcare workflows. Begin with validation: 'I understand how challenging rotating rosters can be' then immediately demonstrate practical solutions: 'Let me show you exactly how our program adapts to that.' Share concrete examples of how current students manage study around shifts - whether downloading materials for night shifts, studying during quiet periods, or breaking study into smaller blocks between rotations. Make flexibility tangible rather than theoretical by explaining how asynchronous learning means no mandatory live sessions, and offline access enables study even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to night shift workers, showing how our platform's flexibility specifically addresses their unique challenges. The goal is transforming perceived scheduling barriers into manageable planning opportunities through healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596267900487",
+              "segment_id": "35",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596267900487, seg_35). This vulnerable disclosure represented a critical moment for collaborative planning, as concerns about academic readiness could significantly impact their enrollment decision. The statement revealed both interest in advancing their education and apprehension about managing academic requirements after an extended break.",
+          "consultant_response": "The consultant provided only general reassurance without exploring specific concerns or detailing available support resources. This response missed the opportunity to help the student understand how their life experience could benefit their studies and failed to outline specific support mechanisms available for returning students. The surface-level response likely left the student's underlying anxieties unaddressed.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after a long break, begin by validating their feelings while highlighting how their life experience is an asset. Start with acknowledgment: 'Many successful students come to us after years away from formal education, and their professional experience often gives them an advantage.' Then actively explore their professional background: 'Tell me about your current role - what kinds of problems do you solve? What skills have you developed?' Use their responses to draw explicit connections between professional capabilities and academic success. For example, if they mention project management, explain how these skills directly translate to assignment planning. When discussing support services, be specific but maintain appropriate boundaries: 'Our program includes orientation modules specifically designed for returning students, and once enrolled, our learning coaches can help you refresh study skills and develop strategies that work with your schedule.' Share examples of how other mature students have succeeded, emphasizing that their years of professional experience provide valuable real-world context for academic concepts. The key is transforming perceived academic gaps into recognizable strengths while ensuring confidence in available support mechanisms."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596013317593",
+              "segment_id": "56",
+              "timestamp": "02:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At a critical point in the call, the student expressed concern about meeting entry requirements: 'Um, yeah, but I only got 51 and I know that I think the requirements is 60' (call_596013317593, seg_56). This disclosure represented a moment where the student's educational aspirations could have been derailed by perceived ineligibility, requiring skilled navigation to maintain engagement and explore viable alternatives.",
+          "consultant_response": "The consultant demonstrated effective pathway planning by offering multiple solutions: 'So you have two options... One is to, for example, either do a diploma... Second option is that you can wait till our November intake' (call_596013317593, seg_60). This response transformed a potential barrier into opportunity by providing specific, actionable alternatives while maintaining momentum toward the student's educational goals.",
+          "priority": "high",
+          "recommended_approach": "When addressing entry requirement concerns, begin with validation then immediately pivot to exploring alternatives. Start with acknowledgment: 'I understand your concern about the current requirements' then transition to solution-focused discussion: 'Let's explore the different pathways available to help you reach your goal.' Present options strategically, starting with the most direct route: 'The diploma pathway not only provides entry but also reduces your total units needed in the degree.' Follow with additional alternatives: 'Alternatively, waiting for the November intake allows us to consider your work experience as an entry pathway.' For each option, provide specific examples: 'Many of our successful students have started with a diploma, completing their degree in X time while gaining additional qualifications.' Pay particular attention to timelines and milestones: 'With the diploma pathway, you could start next month and potentially transition to the degree within a year.' The goal is maintaining momentum by showing how different pathways all lead to their desired outcome, while providing clear progression steps and timeline expectations."
+        },
+        {
+          "id": 4,
+          "title": "Mental Health Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596253142540",
+              "segment_id": "24",
+              "timestamp": "02:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student disclosed mental health considerations: 'I've attempted to do quite a few courses in the past, and due to my own mental health, have not been able to complete them. I have NDIS support now' (call_596253142540, seg_24). This candid disclosure presented a crucial opportunity to demonstrate institutional support while maintaining appropriate boundaries.",
+          "consultant_response": "While the consultant acknowledged the disclosure, they missed the opportunity to effectively outline available support services or demonstrate how institutional support could enhance their academic journey. The surface-level response failed to build confidence in available support mechanisms while maintaining appropriate sales role boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students disclose health considerations, respond with empathy while focusing on high-level support planning that maintains appropriate boundaries. Begin with validation: 'Thank you for sharing that with me - it helps us understand how we can best support your studies.' Then outline institutional support framework: 'Our university has comprehensive support services designed to help students succeed, including disability support services that can implement reasonable adjustments.' Focus on program features rather than detailed support planning: 'Our online learning platform offers flexible study options, and once enrolled, you'll have access to dedicated support staff who can help create a personalized support plan.' Maintain clear role boundaries: 'While I can't provide detailed support planning at this stage, I can explain how our services have helped many students succeed.' The key is demonstrating institutional commitment to student success while directing detailed support discussions to appropriate post-enrollment services. Use specific examples of successful support integration while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596178583481",
+              "segment_id": "76",
+              "timestamp": "06:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought guidance on credit transfer possibilities: 'how I could credit some of the subjects that I've completed at La Trobe, and what my study plan would look like' (call_596178583481, seg_76). This inquiry demonstrated both practical concerns about study duration and a desire to leverage previous academic achievements effectively.",
+          "consultant_response": "The consultant provided comprehensive guidance: 'If you've done some units of a bachelor, that's actually pretty good... we can do what's called a match exemption case... I can then let you know exactly what credit you can get, whether there will be matches or electives' (call_596178583481, seg_85). This response effectively addressed both practical and emotional aspects by explaining the process while maintaining an encouraging tone, positioning credit transfer as a valuable opportunity rather than a complex barrier.",
+          "priority": "high",
+          "recommended_approach": "When discussing credit transfers, begin by acknowledging the value of previous academic achievements and express enthusiasm about exploring transfer possibilities. Start with validating statements like 'Your previous studies are valuable, and we want to help you build on that foundation.' Guide students through the credit assessment process step-by-step while maintaining focus on benefits. For instance, say 'Let's explore how your previous courses could reduce your study time and accelerate your progress.' When explaining the assessment process, provide clear timelines: 'Once you provide your transcripts, our team typically completes the assessment within X days.' Pay particular attention to connecting credit opportunities with career goals, helping students see how their past learning contributes to their future success. The key is transforming what could be seen as an administrative process into an exciting opportunity for academic advancement. Use specific examples of successful credit transfers and clear progression timelines to maintain momentum."
+        },
+        {
+          "id": 6,
+          "title": "Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596179297636",
+              "segment_id": "62",
+              "timestamp": "7:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial moment in the call (596179297636, segment 62), the student expressed clear career aspirations: 'I wanted to look into like social work, a bachelor's degree or something along those lines.' This statement revealed both specific career goals and openness to related pathways, creating an opportunity to demonstrate program relevance and flexibility.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding: 'So this is not primarily social work. Basically, it's a bit of like psychology but also in terms of like depending on the position I go in terms of like my counseling, social work, support and more like those are the kind of area it kind of goes through' (segment 64). This response effectively acknowledged the student's career goals while highlighting relevant program elements that align with social work and related fields.",
+          "priority": "high",
+          "recommended_approach": "When addressing career-focused program inquiries, begin by acknowledging the student's specific career goals and demonstrating understanding of their professional aspirations. The key is to create clear connections between program elements and career objectives while maintaining transparency about program focus. For example, when a student expresses interest in social work, respond with: 'I appreciate your interest in social work. Let's explore how our program's psychology and counseling components can build valuable foundations for that career path.' Then walk through specific course elements that align with their goals: 'Our units in human behavior and counseling techniques provide essential skills that many social workers use daily.' When the program isn't an exact match, be honest while highlighting relevant benefits: 'While this isn't specifically a social work degree, many of our graduates have successfully transitioned into social services roles by combining our program's strong behavioral science foundation with further specialization.' Include specific examples of graduate success stories and career progression pathways to demonstrate program value."
+        }
+      ]
+    }
+  }
+}
