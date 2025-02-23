@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 175,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 46,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.285714285714285,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 129,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.71428571428571,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.395317656811514,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 129,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 111.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.21,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including shift work, international relocation, and work commitments"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Clear guidance through support mechanisms while validating student needs and maintaining appropriate role boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how educational pathways directly align with specific career aspirations and professional development goals"
+      },
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "More proactive exploration needed of specific strategies to balance work, family, and study commitments with concrete examples and success stories"
+      },
+      {
+        "headline": "Study Load Optimization",
+        "explanation": "Deeper collaborative discussion needed around study patterns that balance completion timeframes with student circumstances and capabilities"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549437052",
+              "segment_id": "73",
+              "timestamp": "12:32"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548850647",
+                "segment_id": "18",
+                "timestamp": "2:34"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I started a new job on Tuesday in HR. They said that they would help subsidise my study, so I'm not sure what I would do with them' (call_596549437052, seg_73), revealing need for guidance on balancing work and study commitments.",
+          "consultant_response": "Consultant responded with practical solution: 'You could even begin with just one unit...at that part-time rate, but it would mean getting in and having that happen while you dip your toes into your new role' (call_596549437052, seg_78).",
+          "context_impact": "Critical moment requiring demonstration of how flexible study options could specifically accommodate career commitments while leveraging employer support.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current working professionals and how they utilized employer support."
+        },
+        {
+          "id": 2,
+          "title": "International Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616856198",
+              "segment_id": "93",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm moving overseas in a couple of months but I guess just sort of thinking about my career and where I want to go' (call_596616856198, seg_93), revealing need for study flexibility with international relocation.",
+          "consultant_response": "Consultant effectively explained: 'The way the online studies system works is your year is broken down into four teaching periods... each unit roughly taking about 12 to 15 hours worth of study' (call_596616856198, seg_98).",
+          "context_impact": "Critical moment to demonstrate how online study options accommodate international relocation while supporting career development.",
+          "recommended_approach": "Include more specific examples of how current international students successfully manage their studies."
+        },
+        {
+          "id": 3,
+          "title": "Support Services Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549489642",
+              "segment_id": "33",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'So I have a disability, I suffer from chronic pain and another chronic illness' (call_596549489642, seg_33), seeking clarity on available support.",
+          "consultant_response": "Consultant outlined process: 'This is all discussed with our student advisors centre... after you get enrolled, you would have the discussion with our student advisors as to what support looks like' (call_596549489642, seg_39).",
+          "context_impact": "This vulnerable disclosure required clear explanation of support processes while maintaining appropriate boundaries.",
+          "recommended_approach": "Add brief examples of common support accommodations while maintaining sales role boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616856198",
+              "segment_id": "3",
+              "timestamp": "00:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'I'm currently a qualified physiotherapist and I was just wondering if any of my prior study would help me get into that course' (call_596616856198, seg_3), seeking career transition guidance.",
+          "consultant_response": "Consultant provided generic response: 'We can accept a Bachelor in any field' (call_596616856198, seg_56), missing opportunity for deeper exploration.",
+          "context_impact": "Critical opportunity to demonstrate program alignment with professional background while maintaining appropriate boundaries.",
+          "recommended_approach": "Explore specific aspects of student's prior qualification that align with program requirements and career goals."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Optimization",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549061878",
+              "segment_id": "43",
+              "timestamp": "7:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'See the thing that we didn't like about a lighter study load is it's going to take way too long' (call_596549061878, seg_43), expressing concerns about program duration.",
+          "consultant_response": "Consultant acknowledged: 'It's going to take a while but it's still going to get you there if that was' (call_596549061878, seg_44), missing opportunity for deeper exploration.",
+          "context_impact": "Key opportunity to demonstrate flexible study options that balance completion time with student capabilities.",
+          "recommended_approach": "Develop tailored study plans that optimize completion time while ensuring manageable workload."
+        },
+        {
+          "id": 6,
+          "title": "Application Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549409060",
+              "segment_id": "15",
+              "timestamp": "1:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student admitted: 'I was meant to apply like a month ago and I just kept putting it off and forgetting' (call_596549409060, seg_15), revealing application management challenges.",
+          "consultant_response": "Consultant stated: 'Yeah, so for our education courses they are completely filled up for this first teaching period' (call_596549409060, seg_18), missing opportunity to address underlying delays.",
+          "context_impact": "Critical opportunity to transform procrastination into concrete action through clear process guidance.",
+          "recommended_approach": "Create structured application support plan with specific milestones and check-ins to maintain momentum."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549437052",
+              "segment_id": "73",
+              "timestamp": "12:32"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548850647",
+                "segment_id": "18",
+                "timestamp": "2:34"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant concerns about managing work-study balance, stating 'I started a new job on Tuesday in HR. They said that they would help subsidise my study, so I'm not sure what I would do with them' (call_596549437052, seg_73). This revealed both career ambition and practical concerns, creating a critical opportunity to demonstrate how our program specifically accommodates working professionals.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by responding with empathy and practical guidance: 'You could even begin with just one unit...at that part-time rate, but it would mean getting in and having that happen while you dip your toes into your new role' (call_596549437052, seg_78). This approach effectively validated the student's concerns while initiating specific planning to address their needs.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging both career advancement goals and practical challenges. Start with validation: 'It's great that you're thinking strategically about advancing your career while managing your current role.' Then explore their specific work pattern: 'Could you tell me about your typical week?' Use this information to demonstrate practical solutions: 'Many students with similar schedules download materials for offline study during quiet periods' or 'Some find breaking study into smaller blocks throughout the week works well.' Pay particular attention to employer support opportunities: 'Let's look at how we can maximize your employer's study assistance while ensuring a manageable workload.' Share relevant success stories: 'One of our current HR students started with one unit while settling into their new role, then increased their load once they established a routine.' The goal is to transform perceived barriers into manageable aspects of their educational journey while leveraging available support."
+        },
+        {
+          "id": 2,
+          "title": "International Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616856198",
+              "segment_id": "93",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed upcoming life changes: 'I'm moving overseas in a couple of months but I guess just sort of thinking about my career and where I want to go' (call_596616856198, seg_93). This disclosure highlighted the need to demonstrate how the program's flexibility could accommodate significant geographic changes while supporting career development goals.",
+          "consultant_response": "The consultant effectively addressed both immediate concerns and long-term planning: 'The way the online studies system works is your year is broken down into four teaching periods... each unit roughly taking about 12 to 15 hours worth of study' (call_596616856198, seg_98). This comprehensive response demonstrated how the program structure could adapt to the student's changing circumstances while maintaining academic progression.",
+          "priority": "high",
+          "recommended_approach": "When addressing international relocation scenarios, begin by acknowledging the complexity of the transition while highlighting program features that ensure continuity. Start with validation: 'Moving overseas is a significant step, and our program is designed to maintain your study momentum through such transitions.' Then outline specific flexibility features: 'Our online platform allows 24/7 access from anywhere in the world, with materials downloadable for offline study during travel or settling periods.' Share practical strategies: 'Many international students download their weekly materials in advance, schedule study blocks around time zone differences, and utilize offline access during transitions.' Address common concerns proactively: 'If internet access is intermittent during your move, you can download materials in advance. Our flexible submission windows also accommodate time zone adjustments.' The goal is to transform international relocation from a potential barrier into a manageable aspect of their educational journey."
+        },
+        {
+          "id": 3,
+          "title": "Support Services Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549489642",
+              "segment_id": "33",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed personal health challenges requiring support: 'So I have a disability, I suffer from chronic pain and another chronic illness' (call_596549489642, seg_33). This vulnerable moment demanded clear explanation of available support while maintaining appropriate professional boundaries and focusing on enrollment decision-making.",
+          "consultant_response": "The consultant effectively outlined the support process while maintaining role boundaries: 'This is all discussed with our student advisors centre... after you get enrolled, you would have the discussion with our student advisors as to what support looks like' (call_596549489642, seg_39). This response appropriately addressed the immediate concern while directing detailed support planning to the appropriate post-enrollment services.",
+          "priority": "high",
+          "recommended_approach": "When students disclose health challenges or disabilities, begin with empathetic acknowledgment while maintaining professional boundaries: 'Thank you for sharing that with me. We have comprehensive support systems in place for students managing health conditions.' Then provide a clear overview of the support process: 'During enrollment, you'll have the opportunity to indicate your support needs, and our student advisors will reach out to discuss specific accommodations.' Briefly mention common flexibility features: 'Our online platform allows flexible study timing, and materials can be accessed 24/7 to accommodate varying energy levels.' Always maintain appropriate boundaries: 'While I can't detail specific accommodations now, our student advisors will work with you post-enrollment to ensure you have the support needed for success.' The goal is to build confidence in available support while directing detailed discussions to appropriate specialized staff."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616856198",
+              "segment_id": "3",
+              "timestamp": "00:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A physiotherapy professional inquired about recognition of prior qualifications: 'I'm currently a qualified physiotherapist and I was just wondering if any of my prior study would help me get into that course' (call_596616856198, seg_3). This moment presented an opportunity to explore how their existing qualifications could create a pathway into the program.",
+          "consultant_response": "The consultant provided a generic response about program requirements: 'We can accept a Bachelor in any field' (call_596616856198, seg_56), missing the opportunity to explore specific aspects of the student's physiotherapy background that could support their transition into education.",
+          "priority": "high",
+          "recommended_approach": "When exploring career transitions with healthcare professionals, begin by validating their existing expertise while demonstrating clear pathways forward. Start with acknowledgment: 'Your physiotherapy background brings valuable skills that can enhance your transition into education.' Then explore relevant connections: 'Your experience in patient education and developing treatment plans provides excellent foundations for educational planning.' Guide a collaborative exploration: 'Could you tell me more about the aspects of physiotherapy you find most rewarding? This helps us identify how your strengths could transfer to education.' Share specific examples: 'Many healthcare professionals find their clinical teaching experience valuable in formal education roles.' Always maintain focus on the immediate goal of confirming eligibility while building confidence in their ability to transition successfully."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Optimization",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549061878",
+              "segment_id": "43",
+              "timestamp": "7:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed direct concerns about program duration: 'See the thing that we didn't like about a lighter study load is it's going to take way too long' (call_596549061878, seg_43). This revealed their struggle with balancing completion time against study load, indicating a critical need for personalized study planning.",
+          "consultant_response": "The consultant provided a limited acknowledgment: 'It's going to take a while but it's still going to get you there if that was' (call_596549061878, seg_44). This response missed the opportunity to explore alternative study patterns or discuss strategies for optimizing program completion time.",
+          "priority": "high",
+          "recommended_approach": "When addressing program duration concerns, start by validating the desire for efficient completion while ensuring sustainable study patterns. Begin with acknowledgment: 'I understand your concern about completion time - let's explore options that could help you achieve your goals efficiently.' Then engage in collaborative planning: 'Many successful students find ways to optimize their study load without overwhelming themselves. For instance, some combine complementary units during lighter work periods or utilize intensive study blocks during semester breaks.' Share specific strategies: 'One approach is starting with a manageable load to establish your routine, then increasing units during periods you know will be less demanding.' Always maintain focus on sustainable success: 'The key is finding a pattern that gets you to completion while ensuring you can maintain quality performance throughout your studies.' The goal is to demonstrate how flexible study patterns can reduce overall duration without compromising success."
+        },
+        {
+          "id": 6,
+          "title": "Application Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549409060",
+              "segment_id": "15",
+              "timestamp": "1:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed challenges with application timing: 'I was meant to apply like a month ago and I just kept putting it off and forgetting' (call_596549409060, seg_15). This admission highlighted critical need for structured application support and proactive follow-up to maintain momentum.",
+          "consultant_response": "The consultant provided limited guidance: 'Yeah, so for our education courses they are completely filled up for this first teaching period' (call_596549409060, seg_18). This response missed the opportunity to address underlying procrastination barriers and create a concrete action plan for successful application completion.",
+          "priority": "high",
+          "recommended_approach": "When students disclose application delays, begin by normalizing their experience while focusing on solutions. Start with empathy: 'Many students face similar challenges with application timing - let's create a clear plan to ensure you're ready for the next intake.' Then break down the process into manageable steps: 'We can start by gathering your documents this week, then work through each application component with specific deadlines.' Create accountability through regular check-ins: 'Would it help if I followed up with you next Wednesday to see how the document collection is progressing?' Address specific barriers proactively: 'Many students find breaking the application into smaller tasks helps overcome procrastination. For instance, we could start with just your transcript request today.' The goal is to transform potential procrastination into actionable progress while maintaining supportive communication throughout the process."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "consultant_name": "Rochelle Khaddage",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 164,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 66,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 40.243902439024396,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 98,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 59.756097560975604,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.78464885329242,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 98,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 172.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.84,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through concrete examples and clear guidance"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work schedules, family commitments and location constraints through practical, tailored solutions"
+      },
+      {
+        "headline": "Cultural Connection Integration",
+        "explanation": "Effective use of cultural understanding to build trust and validate educational goals while supporting community impact aspirations through authentic engagement"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals through concrete examples and clear pathways"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students expressing anxiety about returning to education after extended breaks through validation of life experience and specific support mechanisms"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and backup plans while maintaining enrollment momentum"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163).",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "Critical moment requiring clear demonstration of how program flexibility could accommodate healthcare work patterns while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from healthcare professionals and demonstrate available support resources through concrete scenarios."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697556870",
+              "segment_id": "67",
+              "timestamp": "5:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596697556870, seg_67), indicating significant anxiety about academic reintegration.",
+          "consultant_response": "Consultant provided minimal acknowledgment without exploring transferable skills or support mechanisms, missing opportunity to build confidence.",
+          "context_impact": "Crucial opportunity to transform potential barrier into confidence about returning to study through comprehensive support planning.",
+          "recommended_approach": "Develop detailed discussion of how professional experience and available support services enable successful study return while validating life experience value."
+        },
+        {
+          "id": 3,
+          "title": "Cultural Understanding Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596461636619",
+              "segment_id": "47",
+              "timestamp": "02:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'It's such a taboo topic to talk about mental health, so I wanted to challenge the idea within the Asian community here' (call_596461636619, seg_47), revealing desire for cultural impact.",
+          "consultant_response": "Consultant connected personally: 'I come from a Lebanese background myself, so I understand that' (call_596461636619, seg_50), building strong rapport through shared understanding.",
+          "context_impact": "Critical opportunity to validate personal motivations and demonstrate how program supports cultural change goals through specific examples.",
+          "recommended_approach": "Provide more specific examples of how program equips students to drive positive cultural change while maintaining professional boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Effective Pathway Confirmation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689424212",
+              "segment_id": "24",
+              "timestamp": "1:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yes, I would like to do that.' (call_596689424212, seg_24), showing clear interest in pursuing the suggested educational pathway.",
+          "consultant_response": "Consultant effectively personalized the pathway: 'Perfect. So look, I did put down that you're gonna enrol the Bachelor of Business Majoring in Marketing just because that's actually a degree that I did...' (call_596689424212, seg_26)",
+          "context_impact": "This decisive moment required reinforcement through collaborative planning to ensure student confidence and commitment.",
+          "recommended_approach": "Enhance commitment by exploring immediate goals and creating a visual roadmap of their academic journey"
+        },
+        {
+          "id": 5,
+          "title": "Credit Transfer Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689424212",
+              "segment_id": "107",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Does the credit go to the?' (call_596689424212, seg_107), seeking clarity about credit transfer implications.",
+          "consultant_response": "Consultant provided basic confirmation: 'Of course, yeah, there's no extra time on your studies at all.' (call_596689424212, seg_110)",
+          "context_impact": "This question revealed uncertainty about educational pathway continuity requiring clear explanation.",
+          "recommended_approach": "Provide comprehensive explanation of credit transfer process with clear roadmap of how units contribute to degree progression"
+        },
+        {
+          "id": 6,
+          "title": "Support Services Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616560553",
+              "segment_id": "81",
+              "timestamp": "8:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student needed guidance on accessing specific services (call_596616560553, seg_81).",
+          "consultant_response": "Consultant simply stated: 'So I'll transfer you through to Swinburne Campus' (call_596616560553, seg_81)",
+          "context_impact": "Critical moment for demonstrating comprehensive support system understanding.",
+          "recommended_approach": "Provide clearer explanation of available support services and how to access them effectively"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During critical enrollment discussions, students expressed significant concerns about managing study commitments alongside healthcare shift work. The primary example came when a student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23). This was echoed in another call where a student noted: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163). These moments represented crucial opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning skills by providing clear, relevant accommodations: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This response effectively addressed the immediate query while proactively exploring additional support options. The consultant further enhanced the interaction by explaining specific features that support flexible study patterns.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding examples in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697556870",
+              "segment_id": "67",
+              "timestamp": "5:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant anxiety about returning to education after an extended break: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596697556870, seg_67). This admission presented a crucial opportunity to address deep-seated fears about academic reintegration and demonstrate how their life experience could actually benefit their studies.",
+          "consultant_response": "The consultant provided minimal acknowledgment without exploring how the student's professional experience could translate into academic success or outlining available support mechanisms. This missed opportunity left the student's concerns unaddressed and their confidence unbolstered.",
+          "priority": "high",
+          "recommended_approach": "When students express anxiety about returning to study after a long break, begin by validating their concern while highlighting how life experience enhances academic success: 'Many of our most successful students return to study after establishing their careers, bringing valuable real-world perspectives to their studies.' Guide the conversation to explore their professional achievements, using these to demonstrate transferable skills: 'Your time management and problem-solving skills from your career will be invaluable in your studies.' Share specific examples of how previous students with similar backgrounds have succeeded, making success feel tangible and achievable. When discussing support services, frame them as tools for enhancing their existing capabilities rather than remedial assistance. For instance, explain how academic skills workshops help adapt professional experience to academic requirements. The goal is to help students recognize that their life experience is a valuable foundation for academic success, transforming their anxiety into confidence through practical examples and clear support pathways."
+        },
+        {
+          "id": 3,
+          "title": "Cultural Understanding Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596461636619",
+              "segment_id": "47",
+              "timestamp": "02:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in the consultation, the student shared their deeper motivation: 'It's such a taboo topic to talk about mental health, so I wanted to challenge the idea within the Asian community here' (call_596461636619, seg_47). This statement revealed both personal passion and broader cultural mission, presenting an opportunity to validate and support their aspirations through educational planning.",
+          "consultant_response": "The consultant demonstrated exceptional cultural sensitivity by sharing: 'I come from a Lebanese background myself, so I understand that' (call_596461636619, seg_50). This personal connection created immediate rapport and validated the student's cultural context and goals. The approach effectively bridged personal understanding with professional guidance.",
+          "priority": "high",
+          "recommended_approach": "When students reveal cultural motivations driving their educational goals, engage with both cultural sensitivity and strategic guidance. Begin by validating their insight: 'Your understanding of community needs shows remarkable awareness - let's explore how this program can help you create that positive change.' Share relevant examples: 'Many of our students have successfully introduced mental health awareness in culturally sensitive ways through strategies they've learned in our program.' Guide students in seeing how specific course elements support their goals: 'Our units on cultural competency and community engagement specifically address the challenges you're passionate about.' When appropriate, share personal understanding of cultural dynamics while maintaining professional focus: 'While cultural change takes time, you'll develop evidence-based approaches to facilitate these important conversations.' The key is maintaining focus on how their cultural understanding enriches both their studies and their potential impact."
+        },
+        {
+          "id": 4,
+          "title": "Effective Pathway Confirmation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689424212",
+              "segment_id": "24",
+              "timestamp": "1:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's statement 'Yes, I would like to do that' (segment 24) marked a pivotal moment in the enrollment journey. This clear expression of interest in the suggested pathway represented a crucial opportunity to reinforce the decision through collaborative planning while ensuring the student fully understood and felt confident about their chosen direction.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by personalizing the response: 'Perfect. So look, I did put down that you're gonna enrol the Bachelor of Business Majoring in Marketing just because that's actually a degree that I did...' This approach effectively combined personal experience with practical guidance about unit selection and program flexibility. The consultant's explanation encouraged student engagement in the decision-making process while maintaining appropriate boundaries between enrollment guidance and detailed career planning.",
+          "priority": "high",
+          "recommended_approach": "When a student expresses clear interest in an educational pathway, immediately acknowledge their enthusiasm while transitioning into collaborative planning mode. Begin by saying something like 'I love your enthusiasm! Let's ensure you have all the information you need to feel confident in your choice.' Follow this by exploring their immediate goals: 'What aspects of the program most interest you? How do you see this aligning with your aspirations?' This discussion should lead to creating a visual roadmap of their academic journey: 'Let's outline how these foundational units connect to your long-term goals and the broader program.' Always maintain focus on enrollment-relevant details while making appropriate referrals for post-enrollment support. For example, when discussing unit selection, explain: 'These initial units provide a strong foundation, and once enrolled, our learning advisers can help you optimize your study path.' This approach ensures students feel supported while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Credit Transfer Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689424212",
+              "segment_id": "107",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's question 'Does the credit go to the?' (segment 107) revealed uncertainty about how their studies would integrate into their broader educational journey. This question indicated a critical need for clarity about the credit transfer process, which could directly impact their confidence in proceeding with enrollment.",
+          "consultant_response": "While the consultant provided basic confirmation saying 'Of course, yeah, there's no extra time on your studies at all,' this response missed an opportunity for deeper exploration of the credit transfer process. The brief answer, though accurate, failed to address potential underlying concerns about pathway progression and didn't provide the detailed clarity needed for full student confidence.",
+          "priority": "high",
+          "recommended_approach": "When addressing credit transfer inquiries, begin by acknowledging the importance of the question: 'That's a crucial point about your academic journey. Let's make sure you have a clear picture of how your credits will contribute to your degree.' Then, provide a comprehensive yet accessible explanation: 'Your completed units will directly credit toward your bachelor's degree, meaning you're already progressing toward your goal.' Use specific examples: 'For instance, your foundation unit in business will count as one of your core units, putting you ahead in your degree progression.' Always check understanding: 'Would you like me to explain how your specific units will transfer?' This approach ensures students feel confident about their academic pathway while maintaining appropriate pre-enrollment boundaries. Consider creating a simple visual or written summary of the credit transfer process, particularly for complex scenarios."
+        },
+        {
+          "id": 6,
+          "title": "Support Services Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616560553",
+              "segment_id": "81",
+              "timestamp": "8:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student demonstrated a need for guidance on accessing specific support services, highlighting the importance of clear direction in navigating institutional resources.",
+          "consultant_response": "The consultant's response was minimal, simply stating: 'So I'll transfer you through to Swinburne Campus' (segment 81). This approach missed an opportunity to provide comprehensive guidance about available support services and access methods.",
+          "priority": "high",
+          "recommended_approach": "When students need guidance on support services, begin by providing a clear overview of available resources: 'Let me explain the different support services available to you and how to access each one effectively.' Then outline specific services and their purposes: 'Our Student Success team provides academic support, while Student Services handles administrative needs. For your specific question about [topic], here's exactly how to connect with the right team.' Always provide concrete next steps: 'I'll give you the direct contact information for [specific service], and let me explain exactly what to ask for when you reach out.' Before transferring or concluding, confirm understanding: 'Would you like me to clarify anything about these support services or how to access them?' This comprehensive approach ensures students feel supported while maintaining appropriate boundaries between enrollment and post-enrollment services."
+        }
+      ]
+    }
+  }
+}

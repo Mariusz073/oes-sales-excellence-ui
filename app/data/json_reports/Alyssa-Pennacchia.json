@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 263,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 57,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.673003802281368,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 206,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.32699619771863,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 59.779017404008485,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 206,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 112.68,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.33,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear alternatives and progression options"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through concrete examples of customizable study patterns, recorded sessions, and adaptable assessment methods"
+      },
+      {
+        "headline": "Support System Navigation",
+        "explanation": "Clear guidance through comprehensive support mechanisms including academic coaching, student advisors, and specialized resources with specific pathways for immediate access"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, requiring deeper exploration of specific concerns and practical success strategies"
+      },
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and professional advancement goals through detailed industry examples"
+      },
+      {
+        "headline": "Progressive Load Planning",
+        "explanation": "Stronger emphasis needed on specific support mechanisms and transition strategies when helping students plan gradual study load increases"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689358477",
+              "segment_id": "108",
+              "timestamp": "05:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'It's designed for people like yourself who are busy so it's very manageable' (call_596689358477, seg_108), revealing critical need for flexible study options that accommodate professional commitments.",
+          "consultant_response": "Consultant provided practical solution: 'It's not designed to cut into your personal life or your working life...there's just one live session a week after hours on Zoom which you can watch live or watch the recording' (call_596689358477, seg_108), effectively showing real-world flexibility.",
+          "context_impact": "Required clear demonstration of how program design specifically accommodates professional commitments to maintain enrollment momentum while building confidence in success.",
+          "recommended_approach": "Include more specific examples of successful work-study integration patterns from current professionals in similar roles."
+        },
+        {
+          "id": 2,
+          "title": "Support System Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548830288",
+              "segment_id": "136",
+              "timestamp": "12:22"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617304761",
+                "segment_id": "142",
+                "timestamp": "13:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I know it's all online, do I have to attend classes during business hours?' (call_596548830288, seg_131), seeking clarity on available support and attendance requirements.",
+          "consultant_response": "Consultant outlined: 'Well just so you are aware there are three pillars of support. Your academics, which are those who are teaching you the content, your student advisors and we can also set you up with a coach' (call_596548830288, seg_136).",
+          "context_impact": "Opportunity to demonstrate comprehensive support system addressing various student needs while maintaining enrollment momentum.",
+          "recommended_approach": "Should explore specific concerns before introducing support options to ensure targeted relevance to student's situation."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549393143",
+              "segment_id": "15",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've just finished studying at Swinburne in psychology... hoping to do an honours year, but because I did the degree a bit faster, I ended up finishing like in the middle of the year' (call_596549393143, seg_15), revealing need for strategic pathway planning.",
+          "consultant_response": "Consultant explained: 'That's kind of why I'm looking at the advanced diplomas, because I can start earlier' (call_596549393143, seg_20), effectively presenting alternative pathways while acknowledging timing constraints.",
+          "context_impact": "Critical moment requiring collaborative exploration of viable alternatives to maintain student's educational momentum.",
+          "recommended_approach": "Include more detailed exploration of how advanced diplomas align with student's long-term career goals and academic aspirations."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549290017",
+              "segment_id": "92",
+              "timestamp": "04:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596549290017, seg_92), revealing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant provided generic reassurance: 'That's interesting. Our course is quite flexible' (call_596549290017, seg_93), missing opportunity for deeper engagement with student's concerns.",
+          "context_impact": "Critical opportunity to address academic confidence concerns and demonstrate how professional experience enhances academic success.",
+          "recommended_approach": "Explore student's professional experience and demonstrate how existing skills transfer to academic success while building confidence."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462127809",
+              "segment_id": "24",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462127809",
+                "segment_id": "31",
+                "timestamp": "03:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I have a background in biomedical science...I'm trying to transfer out of academia and get more into that data science space' (call_596462127809, seg_24), revealing specific career transition goals.",
+          "consultant_response": "Consultant focused solely on requirements: 'Yeah, perfect. So a completed degree, so I think you did a bachelor degree, is that right, in medical science?' (call_596462127809, seg_31).",
+          "context_impact": "Essential opportunity to demonstrate program's role in supporting transition from academia to industry while maintaining appropriate boundaries.",
+          "recommended_approach": "Connect program features directly to career transition goals while maintaining sales role boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Progressive Load Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617195592",
+              "segment_id": "40",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I enrolled in the graduate diploma in psychology and then I withdrew because I was working and it was a bit too much' (call_596617195592, seg_5), highlighting need for workload management strategies.",
+          "consultant_response": "Consultant detailed: 'You need to still do the first four units one at a time. Then once you've done that and you've got the hang of it, you can then start to overload your study' (call_596617195592, seg_40).",
+          "context_impact": "Key opportunity to demonstrate program flexibility and support mechanisms for preventing history from repeating.",
+          "recommended_approach": "Further explore specific support resources available during transition periods between study loads while building confidence in success."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689358477",
+              "segment_id": "108",
+              "timestamp": "05:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 596689358477 (segment 108), the student expressed both interest and concern regarding program manageability: 'It's designed for people like yourself who are busy so it's very manageable.' This statement revealed a critical need to demonstrate how the program's flexibility specifically accommodates working professionals while maintaining academic quality. Similar concerns emerged in supporting calls, highlighting this as a common enrollment consideration.",
+          "consultant_response": "The consultant demonstrated strong understanding of work-life balance needs by providing specific, practical examples: 'It's not designed to cut into your personal life or your working life...there's just one live session a week after hours on Zoom which you can watch live or watch the recording' (call_596689358477, seg_108). This response effectively showcased program flexibility while maintaining academic credibility, transforming a potential barrier into a manageable solution. The consultant's focus on specific features helped the student envision how they could successfully integrate study with their professional commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study integration concerns, begin by validating the legitimate challenge of balancing multiple commitments, then immediately transition to specific, practical solutions. Start with empathetic acknowledgment: 'I understand managing work and study can feel overwhelming. Let me show you how our program is specifically designed for working professionals like yourself.' Then provide concrete examples from current students: 'Many of our professionals access recorded lectures during break periods or download materials for offline study during quiet periods.' Detail specific flexibility features: 'The weekly Zoom sessions are recorded, so if you're working, you can watch later. All materials can be downloaded in advance, letting you study whenever suits your schedule.' Share success stories: 'We have many students balancing full-time work who find our flexible approach lets them maintain both career and study progress effectively.' Pay particular attention to the student's specific work context, offering targeted examples that resonate with their situation. The key is transforming perceived scheduling barriers into manageable planning opportunities while maintaining supportive guidance throughout the discussion."
+        },
+        {
+          "id": 2,
+          "title": "Support System Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548830288",
+              "segment_id": "136",
+              "timestamp": "12:22"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617304761",
+                "segment_id": "142",
+                "timestamp": "13:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing online study requirements, with questions ranging from attendance requirements to study support availability (call_596548830288, seg_131; call_596617304761, seg_142). These inquiries revealed a common need for clarity about available support mechanisms and how they integrate into the student journey.",
+          "consultant_response": "Consultants effectively outlined the three-pillar support system, explaining how academics, advisors, and coaches work together to support student success: 'Well just so you are aware there are three pillars of support. Your academics, which are those who are teaching you the content, your student advisors and we can also set you up with a coach' (call_596548830288, seg_136). This comprehensive explanation helped students understand the full range of support available while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "When introducing support systems, begin by acknowledging that online study success relies on having the right support at the right time. Start with open-ended questions about specific concerns: 'What aspects of online study are you most curious about?' Then connect each support pillar to common student needs: 'Our academic team provides regular feedback and guidance on course content, while student advisors help with program progression, and coaches can assist with study strategies once enrolled.' Use specific examples: 'If you have questions about an assignment, your academic is there to help. If you need to adjust your study load, your advisor can guide you through the options.' Always maintain clear boundaries between pre-enrollment guidance and post-enrollment support, explaining which services become available after enrollment. The key is building confidence in the comprehensive support system while maintaining appropriate consulting roles and setting realistic expectations about available assistance."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549393143",
+              "segment_id": "15",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 2:30 into the call, the student expressed their situation: 'I've just finished studying at Swinburne in psychology, and yeah, just started to look around at like fourth-year programs, and I was hoping to do an honours year, but because I did the degree a bit faster, I ended up finishing like in the middle of the year, And so, like even at Swinburne, the honours year applications have passed.' This disclosure revealed both the student's academic achievements and the timing challenge they faced, creating an opportunity for collaborative pathway planning.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by acknowledging the timing constraint and immediately presenting an alternative solution: 'That's kind of why I'm looking at the advanced diplomas, because I can start earlier.' This response showed understanding of the student's situation while offering a practical alternative that addressed their immediate concern about timing. The consultant's approach maintained engagement by focusing on solutions rather than dwelling on the missed honours intake.",
+          "priority": "high",
+          "recommended_approach": "When addressing timing misalignments with preferred programs, begin by acknowledging the student's accelerated achievement and use this as a foundation for exploring alternative pathways. Start with validation: 'Your quick completion of your degree shows strong academic capability - let's explore how we can maintain that momentum.' Then outline available options: 'While the honours intake timing doesn't align perfectly, there are several pathways we could consider that would keep you progressing toward your goals.' Present alternatives strategically: 'The advanced diploma could offer immediate enrollment while providing valuable advanced knowledge that could strengthen your eventual honours application.' Always connect immediate solutions to long-term goals: 'Many of our students have found that this pathway not only bridges the timing gap but also enhances their academic preparation for honours-level study.' The key is transforming a potential timing barrier into an opportunity for strategic academic advancement while maintaining clear progression toward the student's ultimate objectives."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549290017",
+              "segment_id": "92",
+              "timestamp": "04:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 4:30 in the call (call_596549290017, segment 92), the student revealed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This disclosure represented a critical opportunity to address academic confidence concerns and demonstrate how professional experience can translate into academic success. The extended gap in formal education created clear apprehension about academic readiness.",
+          "consultant_response": "The consultant's response fell short of the collaborative planning standard with a generic reply: 'That's interesting. Our course is quite flexible' (segment 93). This response missed the opportunity to explore the student's professional experience and build confidence through personalized discussion. The lack of specific engagement with the student's concerns potentially left them with unaddressed anxieties about their ability to succeed.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after a significant break, begin by validating their feelings while immediately highlighting how professional experience can enhance academic success. Start with acknowledgment: 'Many of our most successful students return to study after years in the workforce, bringing valuable skills with them.' Then, engage in specific exploration: 'Could you tell me more about your current role? I'd love to show you how those skills directly translate to academic success.' Guide the discussion to draw parallels between their professional achievements and academic capabilities. For instance, if they mention project management experience, explain how these skills apply to assignment planning and time management. Pay particular attention to specific examples: 'Your experience managing multiple priorities in your current role has actually prepared you well for balancing study requirements.' The goal is to transform perceived barriers into recognized advantages, always grounding examples in the student's own experience while building confidence in their ability to succeed."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462127809",
+              "segment_id": "24",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462127809",
+                "segment_id": "31",
+                "timestamp": "03:30"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed clear career transition goals: 'I have a background in biomedical science...I'm trying to transfer out of academia and get more into that data science space' (call_596462127809, seg_24). This disclosure presented a perfect opportunity to demonstrate how the program could support their career transition while maintaining appropriate sales role boundaries. The specific mention of moving from academia to industry revealed both clear direction and potential concerns about the transition.",
+          "consultant_response": "The consultant's response focused solely on administrative aspects: 'Yeah, perfect. So a completed degree, so I think you did a bachelor degree, is that right, in medical science?' (call_596462127809, seg_31). This missed the opportunity to engage with the student's career transition goals and demonstrate how program features could bridge their move from academia to industry, potentially leaving valuable enrollment momentum unrealized.",
+          "priority": "high",
+          "recommended_approach": "When students express career transition goals, begin by acknowledging their professional background while focusing on program features that support career development. Start with validation: 'Your background in biomedical science provides an excellent foundation for moving into data science.' Then explore program elements that support career transitions: 'Let me show you how our program helps students bridge the gap between academia and industry.' Highlight specific features that align with their goals: 'Our curriculum includes practical data science applications that many former academics find valuable for industry roles.' Keep the focus on program benefits rather than detailed career advice: 'While our career services team can provide detailed guidance after enrollment, I can show you how our program structure supports career transitions.' Always connect program features to their specific transition goals while maintaining appropriate sales boundaries. The key is demonstrating how the program facilitates career transitions without overstepping into detailed career planning that should be handled post-enrollment."
+        },
+        {
+          "id": 6,
+          "title": "Progressive Load Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617195592",
+              "segment_id": "40",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared their previous experience: 'I enrolled in the graduate diploma in psychology and then I withdrew because I was working and it was a bit too much' (call_596617195592, seg_5). This disclosure revealed past challenges managing study load alongside work commitments and indicated a need for clear strategies to prevent history from repeating. The timing and context of this admission presented a crucial opportunity to demonstrate how the program's structure and support systems could create a different outcome.",
+          "consultant_response": "While the consultant provided basic information about progressive study options, stating 'You need to still do the first four units one at a time. Then once you've done that and you've got the hang of it, you can then start to overload your study' (call_596617195592, seg_40), they could have explored more specific support mechanisms and transition strategies to build confidence in the student's ability to succeed this time.",
+          "priority": "high",
+          "recommended_approach": "When addressing previous withdrawal due to workload challenges, focus on how progressive load management and support services can create a different outcome while maintaining appropriate pre-enrollment boundaries. Begin with acknowledgment: 'Your previous experience gives us valuable insight into creating a more manageable approach this time.' Then outline the structured progression: 'Our program is designed to help you build study confidence gradually, starting with a single unit to establish effective routines.' When discussing load increases, emphasize support mechanisms: 'As you consider taking on additional units, you'll have access to learning advisers who can help assess your readiness and develop strategies for success.' Share specific examples: 'Many students find that starting with one unit helps them develop effective study habits before increasing their load.' Pay particular attention to identifying early warning signs and support resources: 'Our student advisors regularly check in during your first unit to ensure you're comfortable with the workload before discussing any increases.' The key is demonstrating how program structure and support services work together to prevent overwhelm while maintaining focus on pre-enrollment guidance rather than detailed study planning."
+        }
+      ]
+    }
+  }
+}

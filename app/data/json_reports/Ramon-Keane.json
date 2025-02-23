@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "consultant_name": "Ramon Keane",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 217,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 74,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 34.10138248847927,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 143,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 65.89861751152074,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 59.752001834432825,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 143,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 141.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.33,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical, actionable examples and success stories"
+      },
+      {
+        "headline": "Proactive Support Connection",
+        "explanation": "Effective introduction of support services at key decision points with clear examples and specific resources to build student confidence and demonstrate comprehensive assistance"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, including specific strategies, success stories and confidence-building approaches"
+      },
+      {
+        "headline": "Career Integration Planning",
+        "explanation": "Enhanced exploration needed of how program elements specifically align with career transition goals and workplace challenges through targeted examples and success pathways"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific step-by-step verification processes and timeline commitments to maintain enrollment momentum"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility through specific examples.",
+          "context_impact": "These moments required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students, with concrete timelines and achievements."
+        },
+        {
+          "id": 2,
+          "title": "Career Path Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462284477",
+              "segment_id": "23",
+              "timestamp": "1:07"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462284477",
+                "segment_id": "30",
+                "timestamp": "1:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I think there's obviously kind of a capacity to kind of the level that you can get to and I think something like a Master of public health aside from like the research I think it is learning all the systems within you know health care' (call_596462284477, seg_23), revealing strategic understanding of qualification needs.",
+          "consultant_response": "Consultant validated with real-world context: 'Yeah definitely and look you're completely right I speak to applicants every day you know in this sort of boat where it's like you know they'll have years or sometimes even decades of experience in a certain field' (call_596462284477, seg_30), effectively connecting program value to career progression.",
+          "context_impact": "Critical moment requiring demonstration of how the program could overcome career limitations and provide clear advancement opportunities through formal qualification.",
+          "recommended_approach": "Include more specific examples of career advancement pathways and salary progression achieved by program graduates, with concrete timelines."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616828099",
+              "segment_id": "163",
+              "timestamp": "15:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596616828099, seg_163), revealing significant anxiety about academic reentry and need for comprehensive support.",
+          "consultant_response": "Consultant provided basic acknowledgment without exploring specific support strategies or available resources, missing opportunity to showcase comprehensive support systems.",
+          "context_impact": "Critical opportunity to build confidence through comprehensive support demonstration and specific success strategies for returning students.",
+          "recommended_approach": "Develop comprehensive discussion of available study support resources and transition strategies focused on building academic confidence through specific examples and success stories."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617443826",
+              "segment_id": "22",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I just wanted to triple check on the WAM... because I just had a look at my transcript again' (call_596617443826, seg_22), seeking clarity on documentation verification process and requirements.",
+          "consultant_response": "Consultant replied: 'What do you mean by that?...I'm not sure about that' (call_596617443826, seg_48), failing to demonstrate process knowledge or provide clear direction.",
+          "context_impact": "Required clear guidance on documentation verification process to maintain enrollment confidence and demonstrate institutional expertise.",
+          "recommended_approach": "Provide comprehensive explanation of documentation processes and verification steps with clear student guidance, including specific timelines and support options."
+        },
+        {
+          "id": 5,
+          "title": "Career Direction Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616757326",
+              "segment_id": "135",
+              "timestamp": "22:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596616757326",
+                "segment_id": "138",
+                "timestamp": "22:30"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Yeah, change career direction' (call_596616757326, seg_135), indicating critical need for career transition guidance and program alignment exploration.",
+          "consultant_response": "Consultant shifted to administrative focus: 'Okay, yeah. And then just confirming you're an Australian citizen born in Sri Lanka?' (call_596616757326, seg_138), bypassing critical career exploration opportunity.",
+          "context_impact": "Missing this opportunity could reduce student confidence in program's ability to support career transition goals and decrease enrollment likelihood.",
+          "recommended_approach": "Pause to explore specific career goals and link program features to professional development before proceeding with administrative tasks, including targeted examples and success stories."
+        },
+        {
+          "id": 6,
+          "title": "Proactive Support Introduction",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616757326",
+              "segment_id": "187",
+              "timestamp": "30:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689248312",
+                "segment_id": "79",
+                "timestamp": "15:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm quite nervous about returning to study' (call_596616757326, seg_183), followed by concerns about accessing information: 'I haven't seen it at all' (call_596689248312, seg_45), indicating need for comprehensive support guidance.",
+          "consultant_response": "Consultant effectively introduced support resources: 'You'll see there at the bottom of those emails, there's the contact details for the student advisors team, they're sort of like your tech support' (call_596689248312, seg_79), providing specific access points for assistance.",
+          "context_impact": "These moments required clear demonstration of available support systems to build confidence in institutional guidance and ongoing assistance.",
+          "recommended_approach": "Further personalize support introductions based on specific student concerns and circumstances, with concrete examples of support utilization."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, begin by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Start with validation: 'I understand how challenging rotating rosters can be. Let me show you exactly how our program adapts to that.' Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. For instance, explain how one current nursing student downloads their weekly materials before night shifts, uses quiet periods for focused reading, then completes online discussions during recovery days. The key is making flexibility tangible rather than theoretical: 'Many of our healthcare students find those quiet periods around 2-3am perfect for focused study, and our platform's offline access means you can study even in areas with poor connectivity.' For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules: 'If you're working three night shifts, you might download everything on Monday, study during quiet periods, then catch up on discussions during your off days.' Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Career Path Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462284477",
+              "segment_id": "23",
+              "timestamp": "1:07"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462284477",
+                "segment_id": "30",
+                "timestamp": "1:45"
+              }
+            ]
+          },
+          "student_trigger": "During a critical enrollment conversation, the student revealed their understanding of career limitations and desire for advancement: 'I think there's obviously kind of a capacity to kind of the level that you can get to and I think something like a Master of public health aside from like the research I think it is learning all the systems within you know health care.' This articulation demonstrated both awareness of current career constraints and clear recognition of how further education could expand their professional opportunities.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by validating the student's career insights while reinforcing program value: 'Yeah definitely and look you're completely right I speak to applicants every day you know in this sort of boat where it's like you know they'll have years or sometimes even decades of experience in a certain field. But then, yeah, at some point without like a formal postgrad qualification, those career opportunities like just cap out.' This response effectively established credibility through shared experiences while positioning the program as a logical next step in professional development.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students expressing career advancement aspirations, begin by validating their industry insights while demonstrating understanding of professional progression patterns. Start with acknowledgment: 'Your observation about career progression in healthcare is spot-on - many professionals reach similar conclusions.' Then provide specific examples: 'Just last month, one of our graduates moved from clinical practice to a senior health systems role, increasing their salary by 40% within six months of completion.' Use their insights to showcase relevant program features: 'Our healthcare systems management unit directly addresses the broader organizational perspective you're seeking, with practical projects that build your leadership portfolio.' Share concrete examples of career progression: 'One recent graduate used their final project to redesign their department's workflow, leading to a promotion before they even completed the program.' When discussing career limitations, frame the conversation positively around growth opportunities: 'While your experience is incredibly valuable, our program provides the formal qualification often required for senior positions, combined with practical knowledge that accelerates career progression.' Always maintain focus on both immediate and long-term career benefits while demonstrating clear pathways to advancement through program completion."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616828099",
+              "segment_id": "163",
+              "timestamp": "15:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to education after an extended break: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596616828099, seg_163). This disclosure revealed both the emotional and practical challenges faced by returning students, creating a critical opportunity to demonstrate comprehensive support systems.",
+          "consultant_response": "The consultant provided only basic acknowledgment without exploring the specific concerns or detailing available support mechanisms. This limited response failed to address the underlying anxiety about academic readiness or showcase the program's robust support systems for transitioning students.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns from students returning to study after significant breaks, begin by normalizing their experience while demonstrating confidence in their success potential. Start with validation: 'Many of our most successful students return to study after extended breaks - your life experience is actually a valuable asset.' Share specific success stories: 'Last semester, we had a student return after 18 years who finished with distinction, using our academic skills workshops to refresh their writing and research abilities.' Then engage in collaborative exploration: 'Let's discuss what aspects of returning to study feel most challenging to you.' Use their responses to highlight relevant support services: 'Our dedicated Student Success team specializes in helping returning students transition back to academic study. They'll help you develop practical strategies for managing readings, assignments, and time management - many students find our pre-semester academic skills refresher particularly helpful.' Focus on practical solutions: 'We can create a structured study plan that breaks down each assignment into manageable steps, with check-ins from your success coach to keep you on track.' Always emphasize comprehensive support: 'You'll have access to academic skills advisors, peer mentoring, and dedicated tutors who understand the unique needs of returning students, plus our online writing center for 24/7 assistance.' The goal is to transform their anxiety into confidence by demonstrating clear support pathways and practical success strategies."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617443826",
+              "segment_id": "22",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clarification about academic documentation verification: 'I just wanted to triple check on the WAM... because I just had a look at my transcript again' (call_596617443826, seg_22). This query indicated both attention to detail and uncertainty about the verification process, creating an opportunity for clear process guidance.",
+          "consultant_response": "The consultant demonstrated limited process knowledge with their response: 'What do you mean by that?...I'm not sure about that' (call_596617443826, seg_48). This interaction failed to provide clear guidance or build confidence in institutional processes.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation verification queries, begin by acknowledging the student's attention to detail while demonstrating clear process expertise. Start with validation: 'Thank you for being thorough with your academic documentation. Let me guide you through our verification process step by step.' Provide specific examples: 'For instance, when we receive your transcript, our assessment team looks specifically at course weightings and grades. Last week, we helped a student with a similar query by breaking down exactly what information we needed.' Then outline clear timelines: 'Our verification process typically takes 3-5 business days. I'll set a reminder to check on your application next Tuesday and update you personally.' When reviewing documents, offer practical guidance: 'Let's look at your transcript together - I can show you exactly what our team needs to see.' For complex cases, demonstrate proactive support: 'If anything seems unclear, I can connect you directly with our assessment team for preliminary feedback before formal submission.' The goal is to transform documentation requirements from potential barriers into manageable steps while maintaining enrollment momentum through clear guidance and support."
+        },
+        {
+          "id": 5,
+          "title": "Career Direction Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616757326",
+              "segment_id": "135",
+              "timestamp": "22:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596616757326",
+                "segment_id": "138",
+                "timestamp": "22:30"
+              }
+            ]
+          },
+          "student_trigger": "The student clearly expressed their primary motivation: 'Yeah, change career direction' (call_596616757326, seg_135). This statement presented a crucial opportunity to explore career transition goals and demonstrate program alignment with professional development needs.",
+          "consultant_response": "The consultant moved directly to administrative matters: 'Okay, yeah. And then just confirming you're an Australian citizen born in Sri Lanka?' (call_596616757326, seg_138). This response missed the opportunity to explore career aspirations and demonstrate program value for career transitions.",
+          "priority": "high",
+          "recommended_approach": "When students indicate career change as their primary motivation, pause to explore this critical aspect before proceeding with administrative tasks. Begin with an encouraging acknowledgment: 'Making a career change is an exciting step, and many of our students successfully navigate this transition through our program.' Share specific examples: 'Last trimester, we had a student transition from marketing to data analytics, using our portfolio projects to demonstrate their new skills to employers.' Then engage in specific career exploration: 'Could you tell me more about the career direction you're hoping to move into? This helps me highlight the most relevant program features for your goals.' Use this information to demonstrate program value: 'Our industry-aligned curriculum and networking opportunities helped a recent graduate secure a role in their target field before graduation.' When discussing program features, connect them directly to career development: 'Our applied projects let you build a portfolio in your target field while studying - one student used their final project to solve a real problem for their dream employer.' Always maintain focus on long-term career objectives while addressing immediate enrollment steps: 'While we complete the enrollment process, let's keep sight of how each element supports your career transition goals.' This approach ensures students see a clear path to their professional objectives through program completion."
+        },
+        {
+          "id": 6,
+          "title": "Proactive Support Introduction",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616757326",
+              "segment_id": "187",
+              "timestamp": "30:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689248312",
+                "segment_id": "79",
+                "timestamp": "15:30"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed multiple support needs through statements like 'I'm quite nervous about returning to study' (call_596616757326, seg_183) and 'I haven't seen it at all' (call_596689248312, seg_45), indicating need for comprehensive support guidance.",
+          "consultant_response": "The consultant effectively introduced available support resources, explaining 'You'll see there at the bottom of those emails, there's the contact details for the student advisors team, they're sort of like your tech support' (call_596689248312, seg_79). This approach successfully connected specific support services to expressed student needs.",
+          "priority": "high",
+          "recommended_approach": "When introducing support resources, create a comprehensive support narrative that directly addresses expressed student needs. Begin by acknowledging specific concerns: 'I understand you're feeling nervous about returning to study, and we have several support systems designed specifically for students in your situation.' Share concrete examples: 'Last week, our Student Success team helped a returning student create a flexible study schedule around their work commitments, breaking down assignments into manageable weekly tasks.' Then introduce relevant services systematically: 'Let me walk you through our support ecosystem, starting with our academic skills team who can help refresh your study techniques.' Provide practical scenarios: 'Many students find our 24/7 online writing center particularly helpful - you can submit draft assignments for feedback at any time.' When discussing technical support, emphasize accessibility: 'Our support team is available through multiple channels - phone, email, or live chat - ensuring you can always reach someone when needed.' Always confirm understanding and access: 'Let's verify you have all these contact details saved where you can easily find them. I'll also email you a support guide with direct links to each service.' The goal is to transform support services from abstract resources into practical tools for student success, while maintaining a collaborative and encouraging tone throughout the conversation."
+        }
+      ]
+    }
+  }
+}

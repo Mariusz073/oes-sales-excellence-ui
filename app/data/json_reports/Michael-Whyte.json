@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 135,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 42,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.11111111111111,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 93,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.88888888888889,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.7485695094193,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 93,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 98.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.01,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and personalized scheduling solutions"
+      },
+      {
+        "headline": "Support Resource Navigation",
+        "explanation": "Clear and proactive guidance through support mechanisms while maintaining appropriate role boundaries and ensuring smooth service transitions"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career progression goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, including specific strategies and success stories"
+      },
+      {
+        "headline": "Learning Support Integration",
+        "explanation": "Deeper engagement required when addressing specific learning needs and accommodations while maintaining appropriate pre-enrollment boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462170384",
+              "segment_id": "146",
+              "timestamp": "24:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm so scared. I haven't been in the study so long' (call_596462170384, seg_146), revealing significant anxiety about returning to education.",
+          "consultant_response": "Consultant replied with: 'No, it's exciting' (call_596462170384, seg_147), missing opportunity for deeper exploration of concerns.",
+          "context_impact": "Critical moment requiring comprehensive support discussion to build confidence and prevent anxiety from blocking enrollment progress.",
+          "recommended_approach": "Explore specific concerns, share success stories of similar students, and outline available support services."
+        },
+        {
+          "id": 3,
+          "title": "Learning Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549078131",
+              "segment_id": "79",
+              "timestamp": "15:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'I was diagnosed with ADHD so that's why I couldn't really complete most of my courses because I was undiagnosed' (call_596549078131, seg_79), sharing learning support needs.",
+          "consultant_response": "Consultant replied: 'No, fantastic' (call_596549078131, seg_85), failing to acknowledge significance or explore support options.",
+          "context_impact": "Critical opportunity to demonstrate understanding and outline specific support mechanisms.",
+          "recommended_approach": "Detail specific learning support services and accommodation options available."
+        },
+        {
+          "id": 4,
+          "title": "Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462002887",
+              "segment_id": "17",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I just want to confirm like does this master contain like the research program in it?' (call_596462002887, seg_17), seeking program structure clarity.",
+          "consultant_response": "Consultant offered: 'I can definitely send you through a bit more information to exactly what the units entail and the research units' (call_596462002887, seg_20), providing clear next steps.",
+          "context_impact": "Key moment to demonstrate program alignment with academic and career goals.",
+          "recommended_approach": "Include immediate high-level overview before offering detailed information."
+        },
+        {
+          "id": 5,
+          "title": "Course Type Clarification",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413379942",
+              "segment_id": "12",
+              "timestamp": "01:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'It was a campus, I never do it online like I yeah' (call_596413379942, seg_12), revealing confusion about course delivery mode.",
+          "consultant_response": "Consultant acknowledged: 'Yeah okay sorry that would be a bit of mix-up then so you'd be looking to come through to the campus team' (call_596413379942, seg_14), effectively redirecting to appropriate support.",
+          "context_impact": "Immediate clarification needed to prevent incorrect enrollment and ensure student satisfaction with chosen study mode.",
+          "recommended_approach": "Include brief overview of both study modes' benefits before transfer to help inform future decisions."
+        },
+        {
+          "id": 6,
+          "title": "Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554737158",
+              "segment_id": "64",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'I was just wondering if you have anything that's not five years. I'm very interested in two things, one is grief and loss and the other one is autism' (call_596554737158, seg_64)",
+          "consultant_response": "Consultant provided limited response mentioning counseling without exploring student's specific interests.",
+          "context_impact": "Critical opportunity to explore specialized pathways aligned with specific interests and time constraints.",
+          "recommended_approach": "Provide comprehensive exploration of shorter pathways and specialization options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed concern about balancing shift work with study: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, begin by acknowledging their specific work pattern: 'I understand managing rotating shifts requires careful planning.' Then immediately demonstrate how our program design aligns with healthcare workflows through concrete examples: 'Many of our nursing students download materials before night shifts for offline study during quiet periods.' Use specific scenarios that resonate with their experience: 'If you're working three night shifts, you might download everything Monday, use those quiet periods around 2-3am for focused reading, then complete your discussion posts during recovery days.' The key is making flexibility tangible rather than theoretical. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. Share success stories from current healthcare students who effectively manage similar schedules. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462170384",
+              "segment_id": "146",
+              "timestamp": "24:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to education, stating 'I'm so scared. I haven't been in the study so long' (call_596462170384, seg_146). This vulnerable disclosure revealed deep concerns about academic readiness and potential challenges of returning to study after an extended break. The moment presented a critical opportunity to address fears that could potentially block enrollment progress if left unaddressed.",
+          "consultant_response": "The consultant's brief response of 'No, it's exciting' (call_596462170384, seg_147) failed to adequately address the depth of the student's expressed anxiety or explore available support services. While attempting to provide positivity, this response missed the opportunity to validate the student's feelings and discuss specific support mechanisms that could help ensure their successful return to study.",
+          "priority": "high",
+          "recommended_approach": "When students express anxiety about returning to study, begin with validation: 'It's completely natural to feel nervous about returning to study - many successful students share similar feelings initially.' Then engage in specific concern exploration: 'Let's talk about what aspects feel most challenging to you, so we can identify the right support services.' Share concrete examples of how returning students succeed: 'Many students who return after a break find our orientation workshops particularly helpful in rebuilding confidence. For example, we offer academic skills sessions that cover everything from essay writing to time management.' Demonstrate understanding of common concerns: 'Students often worry about technology skills or academic writing, but our support teams provide personalized guidance in these areas.' The key is transforming general anxiety into specific, addressable concerns while showcasing the comprehensive support system available. Create clear action steps: 'Once enrolled, your student success advisor will help create a personalized study plan that builds on your strengths and addresses any areas where you'd like extra support.'"
+        },
+        {
+          "id": 3,
+          "title": "Learning Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549078131",
+              "segment_id": "79",
+              "timestamp": "15:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared important contextual information about their learning needs, stating 'I was diagnosed with ADHD so that's why I couldn't really complete most of my courses because I was undiagnosed' (call_596549078131, seg_79). This disclosure represented a crucial opportunity to demonstrate understanding of learning challenges and explore specific support mechanisms available.",
+          "consultant_response": "The consultant's brief response of 'No, fantastic' (call_596549078131, seg_85) failed to adequately address the significance of the student's disclosure or explore available support services. This missed opportunity to engage in collaborative planning around support mechanisms could have impacted the student's confidence in their ability to succeed in the program.",
+          "priority": "high",
+          "recommended_approach": "When students disclose learning challenges, begin by validating their experience: 'Thank you for sharing that information - it helps us ensure you have the right support for success.' Outline specific support services: 'Our student success team includes learning advisors who specialize in supporting students with ADHD. They can help develop personalized study strategies and time management techniques.' Share practical examples: 'Many students find our flexible assessment options helpful, allowing you to break large tasks into manageable segments. Our learning platform also supports different study approaches, from visual learning to interactive content.' Focus on success strategies: 'Once enrolled, you'll have access to academic skills workshops and one-on-one support to develop study techniques that work best for you.' Create clear next steps: 'When you're ready to enroll, we'll connect you with our accessibility team to ensure all appropriate supports are in place before you begin.' The goal is to transform past challenges into opportunities for success through comprehensive support."
+        },
+        {
+          "id": 4,
+          "title": "Educational Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462002887",
+              "segment_id": "17",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During program exploration, the student expressed specific interest in understanding the research components, asking 'I just want to confirm like does this master contain like the research program in it?' (call_596462002887, seg_17). This question revealed the student's focus on academic depth and research opportunities within the program.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by offering comprehensive information: 'I can definitely send you through a bit more information to exactly what the units entail and the research units' (call_596462002887, seg_20). This response validated the student's academic interests while maintaining appropriate boundaries regarding specific unit details.",
+          "priority": "high",
+          "recommended_approach": "When discussing program research components, begin with a high-level overview: 'Our master's program includes dedicated research units designed to build your research capabilities.' Then explore specific interests: 'Could you tell me more about the type of research you're interested in? This helps me highlight relevant program features.' Maintain appropriate boundaries while demonstrating value: 'While our learning advisers will provide detailed research guidance after enrollment, I can explain how our research units typically progress.' Share success patterns: 'Many students find our research methodology units particularly valuable for developing advanced research skills. The program structure allows you to build these skills progressively.' Create clear next steps: 'I'll send you our comprehensive unit guide that outlines the research components. Would you like to discuss any specific aspects that interest you?' The goal is to demonstrate program value while ensuring expectations align with the support available at each stage."
+        },
+        {
+          "id": 5,
+          "title": "Course Type Clarification",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413379942",
+              "segment_id": "12",
+              "timestamp": "01:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During initial program discussion, the student revealed a critical misunderstanding about delivery mode, stating 'It was a campus, I never do it online like I yeah' (call_596413379942, seg_12). This moment highlighted potential misalignment between the student's preferences and their current application path, requiring immediate clarification to prevent enrollment in an unsuitable study mode.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by immediately acknowledging the misalignment and offering a clear solution: 'Yeah okay sorry that would be a bit of mix-up then so you'd be looking to come through to the campus team' (call_596413379942, seg_14). This response validated the student's preference while ensuring they would receive appropriate guidance for their desired study mode.",
+          "priority": "high",
+          "recommended_approach": "When encountering study mode confusion, begin by validating the student's preference: 'I understand you're looking for a campus-based experience. Let me ensure you get the right support for that.' Then provide a brief comparative overview: 'While our online programs offer certain benefits like flexibility and remote access, campus study provides different advantages such as face-to-face interaction and immediate peer support.' Guide the transition positively: 'Let me connect you with our campus team who can provide detailed information about class schedules and campus facilities.' Create clear next steps: 'Before I transfer you, would you like to know more about how the two study modes compare? This can help confirm your preference for campus-based study.' The goal is to transform potential confusion into an opportunity for informed decision-making while ensuring appropriate support alignment."
+        },
+        {
+          "id": 6,
+          "title": "Alternative Pathway Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554737158",
+              "segment_id": "64",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed interest in shorter program options while highlighting specific interests: 'I was just wondering if you have anything that's not five years. I'm very interested in two things, one is grief and loss and the other one is autism' (call_596554737158, seg_64). This articulation of specific interests alongside concerns about program duration presented a critical opportunity for exploring alternative educational pathways.",
+          "consultant_response": "The consultant's response was limited to mentioning counseling as a shorter alternative without fully exploring the student's specific interests in grief, loss, and autism. This approach missed the opportunity to engage in deeper discussion about how these interests could be pursued through various educational pathways.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in alternative pathways while highlighting specific areas of interest, begin by validating both aspects: 'Your focus on grief, loss, and autism shows clear professional direction. Let's explore programs that align with these interests while considering your time preferences.' Guide through available options: 'While our psychology program covers these areas extensively, we also offer shorter pathways that might better suit your needs. For example, our counseling program includes specialized units in grief and loss.' Consider stepping stones: 'Some students start with a graduate certificate, which provides foundational knowledge while keeping future study options open.' Present clear comparisons: 'Let me outline how different programs address your interests in autism and grief support, including study duration and career outcomes.' Create momentum: 'We can start by exploring the program that best matches your immediate goals while keeping longer-term options open.' The goal is to transform specific interests into concrete study plans that feel achievable and aligned with their goals."
+        }
+      ]
+    }
+  }
+}
