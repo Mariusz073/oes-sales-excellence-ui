@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 16,
+    "date_range": "02-10_02-14",
+    "report_type": "Enrolment closing - condensed"
+  },
+  "percentage_of_consultation": {
+    "individual": 44,
+    "team": 50
+  },
+  "percentage_of_attempted_close": {
+    "individual": 18,
+    "team": 22
+  },
+  "percentage_of_positive_response": {
+    "individual": 6,
+    "team": 8
+  },
+  "bargraph_sub_requirements": [
+    {
+      "label": "Next steps & follow-up",
+      "green": 35,
+      "red": 51
+    },
+    {
+      "label": "Clear action plan",
+      "green": 28,
+      "red": 24
+    },
+    {
+      "label": "Mutual commitment establishment",
+      "green": 20,
+      "red": 25
+    },
+    {
+      "label": "Proactive support & follow-up scheduling",
+      "green": 45,
+      "red": 20
+    }
+  ],
+  "bargraph_historical": [
+    {
+      "label": "Feb-Mar 2024 2000 hours",
+      "green": 35,
+      "red": 51
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "green": 28,
+      "red": 24
+    },
+    {
+      "label": "week-12_01-06_01-10",
+      "green": 20,
+      "red": 25
+    },
+    {
+      "label": "week-13_01-06_01-10",
+      "green": 45,
+      "red": 20
+    },
+    {
+      "label": "week-14_01-06_01-10",
+      "green": 28,
+      "red": 24
+    },
+    {
+      "label": "week-15_01-06_01-10",
+      "green": 20,
+      "red": 25
+    },
+    {
+      "label": "week-16_01-06_01-10",
+      "green": 45,
+      "red": 20
+    }
+  ],
+  "bargraph_legend": [
+    {
+      "green_label": "Full fulfilment",
+      "red_label": "Partial fulfilment"
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "explanation": "Your crystal-clear breakdown of next steps with specific deadlines is driving enrollment completion - keep detailing each stage of the journey with exact dates and consequences",
+        "explanation1": "Your proactive scheduling of specific follow-up appointments for document submission is maintaining strong momentum - continue setting these concrete checkpoints",
+        "explanation2": "Your direct, confident tone when outlining enrollment requirements creates clarity and trust - maintain this authoritative yet supportive approach"
+      }
+    ],
+    "improvement": [
+      {
+        "explanation": "Convert your clear step explanations into firm commitments by directly asking 'Should we complete your enrollment now?' rather than leaving next steps open-ended",
+        "explanation1": "Strengthen your document collection by setting specific submission deadlines and scheduling follow-up calls to check on progress - 'I'll call you Wednesday at 2pm to confirm receipt'",
+        "explanation2": "Take more control of the enrollment process by actively scheduling next steps rather than saying 'Let me know if you have any questions' - own the follow-up timeline"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Enrollment Close",
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596019635356",
+              "segment_id": "23",
+              "timestamp": "2:09"
+            },
+            "supporting_calls": []
+          },
+          "consultant_close_attempt": "I can see you're interested in the March intake. Let's secure your place right now - I'll guide you through the enrollment form and we can submit your documents by Friday. Should we do that now?",
+          "student_response": "I'm interested but not sure about the documents - I'll need to check what I have...",
+          "consultant_adaptation": "I understand. Let's start the enrollment now to secure your place, and I'll call you tomorrow at 2pm specifically to help with the document process. That way you won't miss out on the March intake. Does that time work for you?",
+          "recommended_improvement": "Initial attempt: Perfect execution - direct, specific, and action-oriented Adaptation: Excellent balance of maintaining momentum while addressing concerns"
+        },
+        {
+          "id": 2,
+          "title": "Strong Document Collection Management",
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "consultant_close_attempt": "The application deadline is February 19th. I'll send you the course information and you can let me know if you want to proceed.",
+          "student_response": "Thanks, yes I'll have a think about it...",
+          "consultant_adaptation": "Actually, since you're interested in starting in March, why don't we secure your spot now? I can walk you through the enrollment form right here on the phone. It only takes 10 minutes.",
+          "recommended_improvement": "Initial attempt: Should have been more direct and action-oriented from the start Adaptation: Perfect recovery - took control and created urgency while offering immediate support"
+        },
+        {
+          "id": 3,
+          "title": "Missed Enrollment Close Opportunity",
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595908510694",
+              "segment_id": "135",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": []
+          },
+          "consultant_close_attempt": "Great to hear you're interested. Just upload your documents to the student hub when you're ready.",
+          "student_response": "Okay, I'll try to do that soon.",
+          "consultant_adaptation": "You can reach out if you have any questions.",
+          "recommended_improvement": "Initial attempt: Should have proposed immediate enrollment with specific document timeline Adaptation: Needed to regain control by scheduling specific follow-up and offering guided document submission"
+        }
+      ]
+    },
+    "effective_collaborating_planning": {
+      "goal_setting": [
+        {
+          "id": 1,
+          "title": "Effective Collaborative Planning in Goal Setting",
+          "consultant_close_attempt": "The consultant took a passive approach, providing only basic logistical information without actively guiding the enrollment process: 'Just upload your documents to the student hub when you're ready. There's a tab in there for you to be able to do that.' This response failed to create any urgency or demonstrate ownership of the enrollment journey.",
+          "student_response": "The student's non-committal reply indicated potential interest but lack of clear direction: 'Okay, I'll try to do that soon. I'm still thinking about how I'm going to pay for it myself.' This response was a clear signal for needing more guidance on both the practical and financial aspects of enrollment.",
+          "consultant_adaptation": "Rather than addressing the underlying financial concern and uncertainty, the consultant maintained the passive stance: 'You can reach out if you have any questions.' This response missed the opportunity to explore financial options and create a structured plan for both document submission and financial planning.",
+          "recommended_improvement": "Initial attempt: The consultant should have: Taken immediate control of the enrollment process Addressed the financial aspect directly by exploring payment options and support Proposed a specific time to complete the enrollment together Set clear document submission deadlines Example stronger approach: 'I understand you're managing this independently. Let's break this down into manageable steps. First, shall we explore the payment options available? I can walk you through those right now. Then, we can secure your place while I guide you through the document submission process. Would you have your documents ready for review by this Wednesday? I can schedule a call at 2pm to help you through that process.' Adaptation needed: Should have recognized the financial concern as a key trigger for deeper discussion Needed to provide specific support for both document submission and financial planning Could have scheduled a concrete follow-up appointment to maintain momentum Should have demonstrated proactive support rather than leaving the initiative with the student"
+        }
+      ]
+    }
+  }
+}
