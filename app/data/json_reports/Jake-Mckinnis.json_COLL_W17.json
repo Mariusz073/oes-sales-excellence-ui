@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 289,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 60,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 20.761245674740483,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 229,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 79.23875432525952,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.42865082257108,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 229,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 60.63,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through tailored guidance and comprehensive support"
+      },
+      {
+        "headline": "Professional Experience Integration",
+        "explanation": "Strong demonstration of how professional experience and qualifications can be leveraged for program entry and academic success through specific examples and practical applications"
+      },
+      {
+        "headline": "Flexible Study Solutions",
+        "explanation": "Clear presentation of program flexibility options to accommodate diverse student circumstances through practical examples, personalized planning, and targeted support mechanisms"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals while creating clear pathways to professional growth"
+      },
+      {
+        "headline": "Life Transition Support",
+        "explanation": "More comprehensive strategies required for supporting students through major life transitions like returning from leave or career changes with practical planning and guidance"
+      },
+      {
+        "headline": "Work-Study Balance Planning",
+        "explanation": "Deeper engagement needed in helping students develop concrete strategies for balancing study with existing commitments through specific examples and success stories"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616646463",
+              "segment_id": "3",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours' (call_596616646463, seg_1), revealing concerns about balancing professional commitments with study requirements.",
+          "consultant_response": "Consultant effectively engaged: 'I can hear you're being really thoughtful about managing this commitment. You mentioned you're in management - could you tell me more about how you currently handle multiple priorities in your role?' (call_596616646463, seg_3), connecting existing skills to academic success.",
+          "context_impact": "Critical opportunity to demonstrate how professional skills translate to academic success while building enrollment confidence through practical examples.",
+          "recommended_approach": "Include more specific examples of how current students in management roles successfully balance their commitments with concrete strategies and timelines"
+        },
+        {
+          "id": 2,
+          "title": "Life Transition Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462069931",
+              "segment_id": "25",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm just finishing my maternity leave and I'm like due to go back to work in my corporate role, but I wanna do something different' (call_596462069931, seg_25), indicating complex life transition needs and career change aspirations.",
+          "consultant_response": "Consultant focused narrowly on process: 'So if that's the case that's completely fine obviously our next intake is July' (call_596462069931, seg_30), missing opportunity for transition support and career guidance.",
+          "context_impact": "Critical moment requiring tailored support for managing multiple life transitions while maintaining enrollment momentum through comprehensive planning.",
+          "recommended_approach": "Develop comprehensive transition support strategies incorporating work return planning, study integration, and career change guidance with specific examples"
+        },
+        {
+          "id": 3,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412646466",
+              "segment_id": "14",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I don't think it would be a full-on Masters of Primary that I need to add on, or is it just certain units?' (call_596412646466, seg_14), seeking clarity on program requirements and efficient progression options.",
+          "consultant_response": "Consultant provided structured guidance: 'Step one, we would need to assess your Bachelor for entry into our Masters of Teaching primary... upon assessment, you potentially may need to complete a full master's depending on what units carry across' (call_596412646466, seg_19)",
+          "context_impact": "Essential opportunity to demonstrate pathway flexibility while maintaining realistic expectations about program requirements through clear guidance.",
+          "recommended_approach": "Include more specific examples of successful pathway planning and credit transfer outcomes with detailed timelines"
+        },
+        {
+          "id": 4,
+          "title": "Career Development Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689221775",
+              "segment_id": "17",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I just finished a master's just end of last year. So, and I work full time. So I'm just, I don't know if I want to enter another degree' (call_596689221775, seg_17), revealing need for clear career value proposition and advancement pathways.",
+          "consultant_response": "Consultant provided minimal guidance without exploring career development alignment or specific professional outcomes that could justify additional qualification.",
+          "context_impact": "Critical opportunity to demonstrate specific career advancement value while addressing concerns about further study investment through concrete examples.",
+          "recommended_approach": "Develop deeper discussion of how program specifically supports career advancement with concrete examples of successful transitions and professional outcomes"
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462069931",
+              "segment_id": "28",
+              "timestamp": "02:29"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Obviously like studying means I won't be able to work so I just need to kind of figure out the best timing' (call_596462069931, seg_28), revealing critical need for practical planning and work-study balance strategies.",
+          "consultant_response": "Consultant provided basic information: 'That would be 30 hours of study each week on top of what have you got going on' (call_596462069931, seg_98), missing opportunity for collaborative planning and practical solutions.",
+          "context_impact": "Key moment requiring detailed exploration of work-study integration strategies to maintain enrollment momentum through specific examples.",
+          "recommended_approach": "Develop collaborative study plans incorporating specific work patterns and commitments with practical examples of successful work-study integration"
+        },
+        {
+          "id": 6,
+          "title": "Flexible Study Solutions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412982564",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I wanted to essentially get a law degree to progress into a specific pathway and so I just wanted to understand two things about the online Bachelor of Law...' (call_596412982564, seg_31), seeking program flexibility understanding.",
+          "consultant_response": "Consultant effectively explained adaptability: 'I do know what the bachelor's will do, depending on what you've completed, when you've completed it, and what your WAM is... That way she can confirm not only if you meet entry, but what the duration will be' (call_596412982564, seg_53)",
+          "context_impact": "Essential opportunity to demonstrate program flexibility while maintaining focus on career progression goals through practical examples.",
+          "recommended_approach": "Include more specific examples of how program flexibility accommodates different student situations and career goals with concrete success stories"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Professional Experience Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616646463",
+              "segment_id": "3",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the enrollment discussion, the student expressed concern about balancing their studies while maintaining professional effectiveness: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours.' This revealed both strong interest in professional development and awareness of potential challenges in balancing commitments. Their management background presented an opportunity to explore how professional skills could transfer to academic success.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning by responding: 'I can hear you're being really thoughtful about managing this commitment. You mentioned you're in management - could you tell me more about how you currently handle multiple priorities in your role?' This approach effectively bridged the gap between professional capabilities and academic requirements, encouraging the student to recognize their existing skills in managing complex responsibilities.",
+          "priority": "high",
+          "recommended_approach": "When working with experienced professionals, begin by acknowledging their existing management capabilities and demonstrate how these skills translate to academic success. Start with validating their experience: 'Your project management skills are valuable assets for academic success.' Then explore specific parallels: 'The way you prioritize tasks at work can directly apply to managing coursework. For instance, many students find their experience scheduling team projects helps them plan assignment submissions effectively.' Share concrete examples: 'One of our current MBA students, also in a management role, uses her project planning approach to break down assignments into weekly deliverables, treating them like workplace milestones.' Use their current role as a framework: 'Just as you schedule team meetings and deadlines, you can create similar structures for study blocks and assignments. Many successful students block out study time in their work calendar just like important meetings.' Throughout the discussion, maintain focus on how their professional strengths support academic success: 'Your experience managing multiple priorities will be invaluable in coordinating study with other commitments. For example, you can apply the same delegation and time-blocking techniques you use at work to your study schedule.' The goal is helping them recognize how their professional toolkit can be adapted for academic success, always grounding examples in real workplace scenarios they can relate to while providing specific strategies for implementation."
+        },
+        {
+          "id": 2,
+          "title": "Life Transition Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462069931",
+              "segment_id": "25",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 25, the student revealed a significant life transition: 'I'm just finishing my maternity leave and I'm like due to go back to work in my corporate role, but I wanna do something different.' This disclosure presented a unique opportunity to address multiple transition challenges while demonstrating program flexibility. The statement showed both readiness for change and need for practical guidance on managing multiple transitions.",
+          "consultant_response": "The consultant's response focused primarily on administrative aspects: 'So if that's the case that's completely fine obviously our next intake is July.' This approach missed the opportunity to explore how the program could specifically support the student through their transition from maternity leave while pursuing new career directions. The response didn't adequately address the complexity of managing multiple life changes or demonstrate how the program could accommodate these challenges.",
+          "priority": "high",
+          "recommended_approach": "When supporting students through major life transitions, start by acknowledging the significance and complexity of their situation: 'Returning to work while starting study is a significant step, and it's great that you're planning ahead.' Then explore specific aspects of their transition: 'Let's look at how our flexible study options can align with your return-to-work schedule. Many of our students successfully manage similar transitions by starting with a reduced study load.' Share examples of successful transitions: 'One recent student returning from maternity leave began with a single unit to establish her routine, then increased to two units once she felt comfortable with her work-study balance. She found studying during her commute and early mornings worked best while her energy was high.' Focus on practical planning while maintaining sensitivity to the challenges: 'We can create a study plan that adapts to your changing schedule, starting gradually and increasing as you find your rhythm. For instance, many students begin with 10-15 hours of weekly study, then adjust based on their comfort level.' Throughout the discussion, emphasize support mechanisms: 'Our success coaches have extensive experience helping students balance study with work and family commitments. They can help you develop strategies like batch preparing meals on weekends to free up weekday study time, or identifying your peak energy periods for focused study.' The goal is creating a clear picture of how study can fit into their changing circumstances while building confidence through specific, actionable strategies and comprehensive support examples."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412646466",
+              "segment_id": "14",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student demonstrated strategic thinking about their educational pathway by asking: 'I don't think it would be a full-on Masters of Primary that I need to add on, or is it just certain units?' This question revealed both their desire for efficient progression and need for clarity about program requirements. The moment represented a critical opportunity to demonstrate how strategic planning could optimize their study journey.",
+          "consultant_response": "The consultant provided a structured and transparent response: 'Step one, we would need to assess your Bachelor for entry into our Masters of Teaching primary... upon assessment, you potentially may need to complete a full master's depending on what units carry across.' This approach effectively balanced maintaining optimism while setting realistic expectations about the assessment process.",
+          "priority": "high",
+          "recommended_approach": "When exploring educational pathways, start by acknowledging the student's strategic approach: 'It's great you're thinking strategically about your study pathway. This helps us create the most efficient route to your goals.' Then provide a clear framework for assessment and planning: 'Let's explore your prior learning and how it might align with program requirements. For example, your bachelor's degree might provide credit for core units in educational psychology or curriculum development.' Share specific success stories: 'One recent graduate initially thought they needed a full program but received credit for four units based on their prior learning, reducing their study time by six months. They focused on specialized teaching units while building on their existing knowledge.' Guide them through the assessment process with clear examples: 'If you've completed units in developmental psychology, for instance, these often align with our educational psychology requirements. We'll review the content overlap to maximize your credit opportunities.' Throughout the discussion, maintain transparency while building confidence: 'While we can't guarantee specific outcomes before assessment, I can show you how other students optimized their pathways. For example, one student with a similar background completed their qualification in 18 months instead of 24 by strategically planning their unit progression.' The goal is creating a clear connection between program structure and their aspirations, showing how strategic planning can lead to efficient progression while maintaining realistic expectations about requirements and timelines through concrete examples and clear pathways."
+        },
+        {
+          "id": 4,
+          "title": "Career Development Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689221775",
+              "segment_id": "17",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed hesitation about further education after completing advanced studies: 'I just finished a master's just end of last year. So, and I work full time. So I'm just, I don't know if I want to enter another degree.' This statement highlighted their need for clear career value proposition and understanding of how additional qualifications would advance their professional goals.",
+          "consultant_response": "The consultant provided minimal guidance without exploring career development alignment or demonstrating specific professional outcomes. This represented a missed opportunity to show how the program could enhance their existing qualifications and accelerate career advancement.",
+          "priority": "high",
+          "recommended_approach": "When working with post-masters students considering further education, begin by acknowledging their advanced academic achievement: 'Your masters completion demonstrates both your academic excellence and commitment to professional development. Let's explore how this program can specifically advance your career beyond your current qualifications.' Engage in deeper exploration of their professional goals: 'Could you tell me more about where you see your career heading? This helps us align program elements with your advancement goals. For example, many of our students use this qualification to transition into senior leadership roles or specialized sectors.' Share specific examples of successful transitions: 'One recent graduate with an MBA used our program to pivot into educational leadership, securing a position that specifically required both business and educational expertise. Another leveraged their combined qualifications to develop corporate training programs, creating a unique career niche.' Focus on demonstrating unique value: 'Let's look at how specific program elements complement your existing qualifications. For instance, our educational leadership units combined with your business background could position you for roles in organizational learning and development.' Throughout the discussion, maintain focus on concrete career outcomes: 'Our industry-aligned curriculum specifically supports transitions into roles like learning and development manager or corporate training director, where your combined qualifications create a compelling advantage. Recent graduates have seen salary increases averaging 25% within a year of completion.' The goal is transforming their perception from 'another degree' to a strategic career advancement tool through specific examples, clear professional outcomes, and tangible benefits."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462069931",
+              "segment_id": "28",
+              "timestamp": "02:29"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concerns about managing work commitments alongside study: 'Obviously like studying means I won't be able to work so I just need to kind of figure out the best timing.' This revealed their need for practical guidance in balancing professional responsibilities with academic requirements.",
+          "consultant_response": "The consultant provided only basic information: 'That would be 30 hours of study each week on top of what have you got going on.' This response missed the opportunity to engage in collaborative planning or demonstrate specific strategies for successful work-study integration.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by exploring the student's specific work patterns: 'Could you tell me more about your typical work schedule? This helps us explore study patterns that align with your professional responsibilities. For example, many students with standard office hours find early morning or evening study most effective.' Then demonstrate practical integration strategies: 'Let's create a customized study plan that works with your schedule. One successful approach is breaking study into smaller, manageable segments throughout the week.' Share specific examples: 'A current student with similar work commitments downloads materials for offline study during their commute, completes readings during lunch breaks, and dedicates two focused hours each evening to assignments. They found this routine more sustainable than longer weekend sessions.' Explore flexible study options: 'Our online platform lets you access materials 24/7, so you can study when it best fits your schedule. For instance, some students prefer early morning study sessions from 6-8am, while others focus on evening blocks from 7-9pm.' Throughout the discussion, emphasize support mechanisms: 'Our success coaches help develop personalized study plans that work around your professional commitments. They can suggest specific strategies like batch processing assignments during quieter work periods or using technology to maximize study efficiency.' The goal is transforming work-study balance from a perceived barrier into a manageable challenge through specific, actionable strategies, real examples, and comprehensive support options."
+        },
+        {
+          "id": 6,
+          "title": "Flexible Study Solutions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412982564",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clarity on program flexibility: 'I wanted to essentially get a law degree to progress into a specific pathway and so I just wanted to understand two things about the online Bachelor of Law...' This inquiry demonstrated their need to understand how the program could accommodate their circumstances while supporting career progression.",
+          "consultant_response": "The consultant effectively addressed adaptability: 'I do know what the bachelor's will do, depending on what you've completed, when you've completed it, and what your WAM is... That way she can confirm not only if you meet entry, but what the duration of the law degree will be.' This response demonstrated understanding of the student's need for program flexibility while maintaining focus on practical implementation.",
+          "priority": "high",
+          "recommended_approach": "When discussing program flexibility, start by acknowledging both academic and professional aspirations: 'Our law program is designed to accommodate diverse student circumstances while maintaining clear progression toward qualification. Let's explore how our flexibility features align with your specific situation.' Then demonstrate practical applications: 'Our online learning platform offers multiple ways to engage with your studies. For instance, you can download materials for offline study during quiet periods, access recorded lectures at convenient times, and participate in discussions when it suits your schedule.' Share specific success stories: 'One of our current law students maintains their full-time practice while studying by utilizing our flexible options. They download weekly materials every Sunday, complete readings during court waiting periods, and engage in online discussions during evening hours.' Explore personalized solutions: 'If you travel for work, our offline access ensures continuous study progress. Many students download materials before flights or hotel stays, maximizing otherwise idle time.' Throughout the discussion, emphasize practical implementation: 'Let's look at how these flexibility features might work in your typical week. For example, you might prefer accessing lectures during your commute, completing readings in the evening, and participating in online discussions during lunch breaks.' The goal is making program flexibility tangible through real examples and specific strategies while creating clear connections to their professional aspirations and study success."
+        }
+      ]
+    }
+  }
+}

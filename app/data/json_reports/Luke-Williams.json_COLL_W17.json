@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "consultant_name": "Luke Williams",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 200,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 38,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.0,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 162,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 81.0,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.50654159372423,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 162,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 190.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.25,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical examples and clear guidance"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical examples and comprehensive support resources"
+      },
+      {
+        "headline": "Proactive Support Implementation",
+        "explanation": "Effective implementation of support mechanisms including disability services, academic resources, and study planning while maintaining appropriate enrollment focus"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements specifically align with workplace challenges and career goals when students share professional context"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, including specific strategies and success stories"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and proactive interim planning steps"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549383734",
+              "segment_id": "3",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549383734",
+                "segment_id": "6",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I completed a graduate diploma in psychology from Monash Online in 2019. And I just want to know what's my next step? What do I do in the psychology area?' (call_596549383734, seg_3), revealing critical need for pathway guidance.",
+          "consultant_response": "Consultant explored aspirations effectively: 'You're looking to progress into the Masters thereafter, I'm assuming? Are you looking to become a psychologist?' (call_596549383734, seg_6), opening dialogue about career goals while suggesting concrete next steps.",
+          "context_impact": "This moment required clear demonstration of potential pathways and next steps to maintain enrollment momentum while connecting previous achievements to future goals.",
+          "recommended_approach": "Include more specific examples of career pathways and outcomes from current psychology students to make progression options more tangible."
+        },
+        {
+          "id": 2,
+          "title": "Disability Support Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549283284",
+              "segment_id": "18",
+              "timestamp": "00:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549283284",
+                "segment_id": "24",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'When I was in uni, when I was doing my Bachelors, I registered myself with Disability Support Services' (call_596549283284, seg_18), revealing need for support continuity.",
+          "consultant_response": "Consultant assured: 'There's a question I do ask you about any disabilities that you may have, so we can note them down and we can get that support arranged for you' (call_596549283284, seg_24), effectively validating support needs.",
+          "context_impact": "Critical moment for demonstrating institutional support capabilities while maintaining appropriate service boundaries.",
+          "recommended_approach": "Provide clearer explanation of support registration process while maintaining appropriate enrollment focus."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413547238",
+              "segment_id": "54",
+              "timestamp": "5:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617235286",
+                "segment_id": "87",
+                "timestamp": "5:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work full-time, a really busy job, I can only do part-time' (call_596413547238, seg_54), revealing critical need for flexible study options.",
+          "consultant_response": "Consultant explained: 'So the way our online courses work is you only do one unit at a time. Each unit takes six weeks to complete and then you get a two-week break' (call_596413547238, seg_127), effectively showing manageable study structure.",
+          "context_impact": "This moment required clear demonstration of how program structure accommodates full-time workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current working students."
+        },
+        {
+          "id": 4,
+          "title": "Results Documentation Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617228935",
+              "segment_id": "14",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617228935",
+                "segment_id": "18",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'In terms of obviously not having my results and everything' (call_596617228935, seg_14), showing anxiety about documentation gap.",
+          "consultant_response": "Consultant stated: 'Yeah so until we've got your results we won't be able to do that for you' (call_596617228935, seg_18), missing opportunity for interim planning.",
+          "context_impact": "Critical moment to maintain confidence despite missing documentation.",
+          "recommended_approach": "Create detailed interim action plan while waiting for results to maintain engagement and momentum."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617235286",
+              "segment_id": "218",
+              "timestamp": "10:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617235286",
+                "segment_id": "161",
+                "timestamp": "8:30"
+              }
+            ]
+          },
+          "student_trigger": "Student shared: 'I did study for about a year, two years ago' (call_596617235286, seg_218), indicating gap in academic engagement.",
+          "consultant_response": "Consultant acknowledged experience but didn't explore specific strategies for returning to study or address confidence concerns.",
+          "context_impact": "Gap in studies requires specific attention to confidence building and skill refreshment.",
+          "recommended_approach": "Develop comprehensive discussion of resources and strategies specifically for returning students while maintaining enrollment focus."
+        },
+        {
+          "id": 6,
+          "title": "Family-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462198357",
+              "segment_id": "20",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I have a young family so it would be better if I can do it online' (call_596462198357, seg_20), highlighting need for family-conscious planning.",
+          "consultant_response": "Consultant acknowledged online option without exploring specific strategies for balancing family and study commitments.",
+          "context_impact": "Critical moment to demonstrate understanding of family commitments and create supportive study strategies.",
+          "recommended_approach": "Engage in detailed exploration of family dynamics to create personalized study planning solutions while maintaining appropriate boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Educational Pathway Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549383734",
+              "segment_id": "3",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549383734",
+                "segment_id": "6",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 596549383734 (segment 3), the student sought guidance on their educational journey, stating 'I completed a graduate diploma in psychology from Monash Online in 2019. And I just want to know what's my next step? What do I do in the psychology area?' This revealed both their readiness to progress and need for clear pathway guidance. The specific mention of previous study created an opportunity for strategic planning that could connect past achievements with future aspirations.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by engaging with the student's aspirations, responding with: 'You're looking to progress into the Masters thereafter, I'm assuming? Are you looking to become a psychologist?' (call_596549383734, seg_6). This approach effectively opened a dialogue about career goals while suggesting potential next steps, creating a framework for meaningful discussion about educational pathways. The consultant maintained appropriate boundaries while providing clear direction for further exploration.",
+          "priority": "high",
+          "recommended_approach": "When students seek guidance on educational pathways, begin by acknowledging their current achievements and immediately transition into exploring their career aspirations. Start with open-ended questions that encourage students to share their goals, such as 'What aspects of psychology particularly interest you?' or 'What type of role do you envision yourself in?' This creates a foundation for personalized guidance. When discussing potential pathways, always connect them directly to the student's expressed interests and goals. For instance, if a student mentions interest in clinical work, outline the specific educational steps required while highlighting how each stage builds towards their goal. Pay particular attention to students transitioning between qualification levels, as they often need clarity on how additional education enhances their career prospects. Share specific examples of successful transitions: 'Many of our psychology graduates have found that the Masters program directly enhanced their professional opportunities. For example, one recent graduate now works in clinical research, applying advanced methods learned in the program.' The key is maintaining a balance between providing clear direction and allowing students to explore options that align with their aspirations."
+        },
+        {
+          "id": 2,
+          "title": "Disability Support Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549283284",
+              "segment_id": "18",
+              "timestamp": "00:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549283284",
+                "segment_id": "24",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "During call 596549283284 (segment 18), the student proactively disclosed their history with support services: 'When I was in uni, when I was doing my Bachelors, I registered myself with Disability Support Services.' This disclosure demonstrated both self-advocacy and a desire to ensure continued support in their new academic journey, creating a critical moment for demonstrating institutional support capabilities while maintaining appropriate service boundaries.",
+          "consultant_response": "The consultant responded with clarity about support registration: 'There's a question I do ask you about any disabilities that you may have, so we can note them down and we can get that support arranged for you' (call_596549283284, seg_24). This response effectively validated the student's needs while providing concrete information about the support registration process, demonstrating the institution's commitment to accessible education while maintaining appropriate enrollment focus.",
+          "priority": "high",
+          "recommended_approach": "When students disclose previous experience with disability support services, begin by validating their proactive approach: 'Thank you for sharing that information - it helps us ensure continuity of support in your academic journey.' Then clearly outline the support registration process while maintaining appropriate enrollment focus: 'While we focus on your enrollment today, let me explain how our disability support registration works.' Guide them through the immediate next steps while setting clear expectations about post-enrollment support: 'During enrollment, we'll note your support needs, and once enrolled, our disability support team will work with you to implement specific accommodations.' Share examples of available support options without making specific promises: 'Our support services can include flexible assessment arrangements, accessible materials, and specialized academic support, though specific accommodations are arranged after enrollment.' The goal is demonstrating institutional commitment to support while keeping the conversation within appropriate pre-enrollment boundaries and maintaining clear service role distinctions."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413547238",
+              "segment_id": "54",
+              "timestamp": "5:54"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617235286",
+                "segment_id": "87",
+                "timestamp": "5:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 596413547238 (segment 54), the student expressed significant concern about balancing work and study commitments, stating 'I work full-time, a really busy job, I can only do part-time.' This revealed both the student's desire to pursue education and their anxiety about managing the workload alongside professional responsibilities. Similar concerns emerged in supporting calls, highlighting a common need for clear demonstration of program flexibility.",
+          "consultant_response": "The consultant effectively responded by providing a detailed explanation: 'So the way our online courses work is you only do one unit at a time. Each unit takes six weeks to complete and then you get a two-week break before you move on to your next unit. It's a time commitment of around 20 to 25 hours of online study per week' (call_596413547238, seg_127). This response demonstrated strong collaborative planning by breaking down the program structure into manageable components and providing specific time commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by validating the challenge of managing full-time work alongside study: 'Many of our successful students are working professionals, and we've designed our program specifically with this in mind.' Then break down the program structure into clear, manageable components: 'Let me show you exactly how our flexible structure works for busy professionals.' Use specific examples of how current working students succeed: 'Some students prefer shorter daily study sessions during lunch breaks, while others concentrate their study time on weekends.' Show how different work patterns require different approaches: some students download materials for offline study during commutes, while others use quiet periods at work for focused reading. Pay particular attention to proactively addressing common concerns about deadlines and workload peaks. The goal is transforming perceived scheduling barriers into practical opportunities, always grounding explanations in real-world scenarios that resonate with working professionals while maintaining appropriate boundaries regarding detailed study planning that occurs post-enrollment."
+        },
+        {
+          "id": 4,
+          "title": "Results Documentation Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617228935",
+              "segment_id": "14",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617228935",
+                "segment_id": "18",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 596617228935 (segment 14), the student expressed uncertainty about missing documentation: 'In terms of obviously not having my results and everything.' This revealed anxiety about how documentation gaps might affect their enrollment prospects, creating a critical moment for maintaining confidence while developing clear interim plans.",
+          "consultant_response": "The consultant's response was notably limited: 'Yeah so until we've got your results we won't be able to do that for you' (call_596617228935, seg_18). This failed to provide constructive guidance or maintain engagement during the waiting period, missing the opportunity to transform a potential barrier into a strategic planning opportunity.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation gaps, immediately pivot to constructive planning: 'While we wait for your results, let's create a plan to keep your enrollment moving forward.' Outline specific steps students can take: 'Many applicants use this time to gather other required documents, explore financial planning options, or begin preliminary program preparation.' Create clear timelines and action items: 'Let's identify what you can do now and what needs to wait for results.' Share examples of how other students have successfully managed similar situations: 'One recent student used this waiting period to organize their study space and explore our online learning platform.' Break down the documentation process into manageable steps: 'First, let's confirm exactly what results we're waiting for and their expected timeline.' The goal is transforming waiting periods into productive preparation time while maintaining clear enrollment momentum through specific, actionable steps that keep students engaged in the process."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617235286",
+              "segment_id": "218",
+              "timestamp": "10:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617235286",
+                "segment_id": "161",
+                "timestamp": "8:30"
+              }
+            ]
+          },
+          "student_trigger": "The student revealed a significant gap in their academic journey: 'I did study for about a year, two years ago' (call_596617235286, seg_218). This disclosure indicated both previous academic experience and a need for support in returning to study, creating an opportunity for comprehensive return-to-study planning.",
+          "consultant_response": "While the consultant acknowledged the previous study experience, they missed the opportunity to explore specific strategies and resources designed to support students returning to study after a break. This limited response failed to address potential concerns about academic confidence and skill renewal.",
+          "priority": "high",
+          "recommended_approach": "When working with returning students, begin by validating their previous experience while acknowledging the transition: 'Your prior study experience is valuable, and we have specific resources to help you build on that foundation as you return to study.' Explore their specific concerns: 'What aspects of returning to study feel most challenging?' Then outline relevant support services while maintaining appropriate enrollment boundaries: 'While detailed study planning happens after enrollment, I can show you how our program supports returning students through orientation modules, refresher resources, and ongoing academic support.' Use examples of successful transitions: 'Many returning students find our structured unit format helps them rebuild study routines gradually.' Focus on building confidence through specific program features: 'Our online platform includes study skills refresher modules, and you'll have access to academic support staff who specialize in helping returning students.' The goal is transforming their break from studies from a perceived weakness into an opportunity for strategic preparation while maintaining appropriate boundaries regarding post-enrollment support services."
+        },
+        {
+          "id": 6,
+          "title": "Family-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462198357",
+              "segment_id": "20",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed important family circumstances: 'I have a young family so it would be better if I can do it online' (call_596462198357, seg_20). This statement highlighted the need for flexible study options and understanding of family commitments in educational planning.",
+          "consultant_response": "The consultant provided basic information about online study options without engaging in detailed exploration of how the program's flexibility could specifically accommodate family responsibilities. This limited response missed the opportunity to demonstrate deep understanding of and support for students balancing family commitments.",
+          "priority": "high",
+          "recommended_approach": "When students mention family commitments, immediately engage in collaborative planning that demonstrates how program flexibility supports successful family-study integration. Begin with empathetic acknowledgment: 'Many of our students successfully balance family life with study through our flexible learning options.' Then explore their specific situation: 'Could you share more about your typical family routine? This helps us identify study approaches that work best for parents.' Use this information to demonstrate how program features like asynchronous learning, mobile access, and flexible deadlines accommodate family life. Share specific examples: 'Some parents download materials to review during children's activities or after bedtime, while others use our mobile app to study during school runs.' Maintain appropriate enrollment focus while showing how successful study can coexist with family responsibilities. Pay particular attention to school holidays and family routines when discussing program flexibility. The goal is transforming perceived barriers into practical opportunities through clear examples and supportive planning while staying within appropriate pre-enrollment guidance boundaries."
+        }
+      ]
+    }
+  }
+}

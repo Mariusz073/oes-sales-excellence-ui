@@ -1,0 +1,181 @@
+{
+    "type": "Compliance",
+    "requirement": "Call Recording Disclosure Compliance",
+    "week": 17,
+    "university": "Monash",
+    "reporting_period": "02-17_02-21",
+    "first_page_title": "Monash full compliance has <em>improved remarkably this week</em>, driven by improved disclosure rates within 2 minutes",
+    "second_page_title": "<em>Weekly report initiative 1 |</em> Rapidly improve call recording disclosure compliance",
+    "graph": {
+        "bars": [
+            {
+                "title": "Feb-Mar 2024\n2000 hours",
+                "green": 24,
+                "red": 27
+            },
+            {
+                "title": "10-25_11-01\nweek 1",
+                "green": 27,
+                "red": 34
+            },
+            {
+                "title": "11-04_11-08\nweek 2",
+                "green": 25,
+                "red": 49
+            },
+            {
+                "title": "11-11_11-15\nweek 3",
+                "green": 39,
+                "red": 43
+            },
+            {
+                "title": "11-18_11-22\nweek 4",
+                "green": 35,
+                "red": 51
+            },
+            {
+                "title": "11-25_11-29\nweek 5",
+                "green": 39,
+                "red": 49
+            },
+            {
+                "title": "12-02_12-06\nweek 6",
+                "green": 58,
+                "red": 32
+            },
+            {
+                "title": "12-9_12-13\nweek 7",
+                "green": 59,
+                "red": 31
+            },
+            {
+                "title": "12-16_12-20\nweek 8",
+                "green": 51,
+                "red": 29
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "green": 58,
+                "red": 29
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "green": 55,
+                "red": 30
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "green": 56,
+                "red": 33
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "green": 57,
+                "red": 34
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "green": 64,
+                "red": 28
+            },
+            {
+                "title": "01-27_01-31\nweek 14",
+                "green": 66,
+                "red": 28
+            },
+            {
+                "title": "02-03_02-07\nweek 15",
+                "green": 68,
+                "red": 23
+            },
+            {
+                "title": "02-10_02-14\nweek 16",
+                "green": 73,
+                "red": 20
+            },
+            {
+                "title": "02-17_02-21\nweek 17",
+                "green": 65,
+                "red": 27
+            }
+        ],
+        "green_label": "Full compliance",
+        "red_label": "Partial compliance",
+        "black_label": "No compliance",
+        "result_label": "93% = Full & Partial compliance combined"
+    },
+    "sub_requirements": {
+        "data": [
+            {
+                "title": "Timing of disclosure",
+                "current": 85,
+                "last_week": 91
+            },
+            {
+                "title": "Content of disclosure",
+                "current": 57,
+                "last_week": 69
+            }
+        ],
+        "verdicts_count": 303
+    },
+    "individual_performance": {
+        "verdicts_count": 303,
+        "consultant_results": [
+            {
+                "name": "Elisha Odhiambo",
+                "result": "20/20 (100.00%)"
+            },
+            {
+                "name": "Olive Jerome",
+                "result": "1/1 (100.00%)"
+            },
+            {
+                "name": "Ramon Keane",
+                "result": "32/33 (96.97%)"
+            },
+            {
+                "name": "Michael Bosman",
+                "result": "28/29 (96.55%)"
+            },
+            {
+                "name": "Pawan Thapa",
+                "result": "25/26 (96.15%)"
+            },
+            {
+                "name": "Tayla Viglione",
+                "result": "34/36 (94.44%)"
+            },
+            {
+                "name": "Michael Whyte",
+                "result": "16/17 (94.12%)"
+            },
+            {
+                "name": "Mrudang Pancholi",
+                "result": "44/47 (93.62%)"
+            },
+            {
+                "name": "James Lockie",
+                "result": "38/41 (92.68%)"
+            },
+            {
+                "name": "Luke Williams",
+                "result": "21/24 (87.50%)"
+            },
+            {
+                "name": "Alyssa Pennacchia",
+                "result": "24/29 (82.76%)"
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "result": "283/303 (93.40%)",
+            "average_compliance_percentage": "94.07%"
+        }
+    },
+    "metadata": {
+        "generated_date": "2025-02-23",
+        "report_id": "MONA-C-CALL-W17-2025",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

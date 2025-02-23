@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 258,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 84,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.55813953488372,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 174,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.44186046511628,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.795445213275855,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 174,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 142.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through tailored guidance and proactive solution development"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples of successful study management strategies and comprehensive support options"
+      },
+      {
+        "headline": "Support Systems Navigation",
+        "explanation": "Clear communication of extensive support services across multiple channels with specific success strategies, proactive engagement plans, and integrated guidance mechanisms"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements specifically align with career goals and professional advancement opportunities while maintaining appropriate pre-enrollment support boundaries"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, requiring deeper exploration of transferable skills and targeted confidence-building strategies"
+      },
+      {
+        "headline": "Process Navigation Planning",
+        "explanation": "Clearer collaborative guidance required for complex documentation and enrollment scenarios with specific alternative pathways and proactive support mechanisms across diverse student situations"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from another healthcare worker: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility with specific examples.",
+          "context_impact": "This moment required clear demonstration of how our program specifically accommodates healthcare shift workers to maintain enrollment momentum through practical solutions.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students with varying shift patterns and documented success strategies."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555375938",
+              "segment_id": "156",
+              "timestamp": "16:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596555375938, seg_156), revealing significant anxiety about returning to study after an extended break.",
+          "consultant_response": "Consultant provided minimal response: 'Understood. Let's make sure you have all the information you need' (call_596555375938, seg_157), missing opportunity for deeper confidence building through specific examples.",
+          "context_impact": "Critical moment requiring validation of professional experience while building academic confidence through clear support strategies and success examples.",
+          "recommended_approach": "Develop comprehensive discussion of transferable skills and specific strategies for returning to study successfully, including examples of similar students' achievements."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697700119",
+              "segment_id": "150",
+              "timestamp": "10:03"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596697700119",
+                "segment_id": "153",
+                "timestamp": "10:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Maybe I'll do one to two for now' (call_596697700119, seg_150), indicating thoughtful consideration of workload management and study-life balance.",
+          "consultant_response": "Consultant offered clear progression path: 'You get to choose them every single term... you can start with two and then in the July term, if you're feeling confident, you can add on a third' (call_596697700119, seg_153), effectively showing adaptable study options.",
+          "context_impact": "Critical moment requiring demonstration of program flexibility while maintaining enrollment momentum through tailored guidance and progressive planning.",
+          "recommended_approach": "Include more specific examples of successful study load progression strategies from current students, including timing and workload adjustment patterns."
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549073078",
+              "segment_id": "67",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'is there any options of, like, you know, career building beyond that. Like beyond the graduate diploma or any career support during the course?' (call_596549073078, seg_67), seeking clarity on professional development pathways.",
+          "consultant_response": "Consultant gave generic response: 'So I mean it's a twofold kind of things... there is a fantastic careers hub' (call_596549073078, seg_74), missing opportunity for personalized career pathway discussion.",
+          "context_impact": "Critical opportunity to demonstrate how program elements support specific career development goals while maintaining appropriate pre-enrollment support boundaries.",
+          "recommended_approach": "Develop more personalized discussion of career pathways aligned with student goals while maintaining appropriate boundaries and highlighting specific program-career connections."
+        },
+        {
+          "id": 5,
+          "title": "Support Channel Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465248066",
+              "segment_id": "14",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596465248066",
+                "segment_id": "18",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I tried to just go onto the website because I know that you guys usually have live chat and then I realised the live chat wasn't working' (call_596465248066, seg_14), highlighting access challenges.",
+          "consultant_response": "Consultant briefly noted: 'Yeah that's right so it's always good to talk to us anyway just over the phone' (call_596465248066, seg_18), missing chance to outline full support ecosystem.",
+          "context_impact": "Crucial opportunity to demonstrate comprehensive support access across multiple channels and time zones with clear availability patterns.",
+          "recommended_approach": "Provide detailed overview of all available communication channels and their optimal use cases, including specific examples of successful support interactions."
+        },
+        {
+          "id": 6,
+          "title": "International Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548983477",
+              "segment_id": "45",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'It's for my sister, actually. And she's here with me on a separate visa, visitor visa, actually.' (call_596548983477, seg_17), revealing critical need for international study pathway planning.",
+          "consultant_response": "Consultant effectively responded: 'So in that case, because the Bachelor of Accountancy has a three-year degree, she'd have to be an offshore international student... she actually gets a 30% scholarship if she is studying from Sri Lanka' (call_596548983477, seg_45), highlighting specific advantages.",
+          "context_impact": "This moment required clear guidance on viable study options considering visa constraints while maintaining enrollment momentum through benefit-focused planning.",
+          "recommended_approach": "Include more specific examples of successful international student pathways and transition planning, with emphasis on support mechanisms and scholarship opportunities."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both responses effectively transformed perceived barriers into manageable solutions through healthcare-specific examples.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, always start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555375938",
+              "segment_id": "156",
+              "timestamp": "16:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to education after a long break: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596555375938, seg_156). This vulnerable moment presented a crucial opportunity to build confidence and address fears about academic readiness, directly impacting their likelihood of enrollment.",
+          "consultant_response": "The consultant's response was minimal and missed the opportunity for deeper support: 'Understood. Let's make sure you have all the information you need' (call_596555375938, seg_157). This generic response failed to address the student's underlying concerns about academic readiness and missed the chance to build confidence through collaborative planning and specific examples of similar student successes.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after a long break, begin with validation and normalization: 'Many of our most successful students come to us after similar breaks from formal education, and their life experience often becomes a significant advantage.' Then guide the student to recognize their transferable skills: 'Let's explore how your professional experience has prepared you for academic success. Your ability to manage complex situations and solve problems in your work directly translates to academic skills.' Share specific examples: 'We had a student last year who returned after 20 years - she found her work experience in project management made her exceptionally good at planning assignments and meeting deadlines.' Focus on connecting their current capabilities to academic requirements: 'The time management and analytical skills you've developed in your career will be invaluable in your studies.' When discussing support services, frame them as resources that enhance existing capabilities rather than remedial services. The key is transforming their perceived disadvantage into a foundation for academic confidence by highlighting specific success stories and practical support mechanisms."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697700119",
+              "segment_id": "150",
+              "timestamp": "10:03"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596697700119",
+                "segment_id": "153",
+                "timestamp": "10:15"
+              }
+            ]
+          },
+          "student_trigger": "During the discussion about study load, the student expressed thoughtful consideration: 'Maybe I'll do one to two for now' (call_596697700119, seg_150). This statement revealed both interest in enrollment and careful consideration of workload management, creating an opportunity to demonstrate program flexibility while maintaining momentum through strategic planning.",
+          "consultant_response": "The consultant skillfully addressed this by explaining the flexible options: 'You get to choose them every single term... you can start with two and then in the July term, if you're feeling confident, you can add on a third to your study plan or go down to one whatever you like' (call_596697700119, seg_153). This response effectively balanced support for cautious planning with encouragement toward progress, showing how the program adapts to individual student confidence and capacity.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load options, begin by validating the student's thoughtful approach to planning: 'It's excellent that you're considering your study load carefully - this kind of planning is key to success.' Then explore their specific circumstances: 'Let's look at how different study loads could fit with your current commitments.' Share concrete examples: 'Many successful students start with two units to establish their routine. For instance, one recent student began with two units while working full-time, found their rhythm, then confidently added a third unit in their second term.' Emphasize flexibility: 'The beauty of our system is that you can adjust your load each term based on your confidence and circumstances.' Always provide specific success strategies: 'Students often find success by starting with a manageable load and increasing it once they've developed effective study habits.' Focus on building confidence through strategic planning: 'Let's map out a study progression that aligns with your goals while ensuring you feel confident at each stage.' The key is showing how the program's flexibility supports their success journey while maintaining steady progress toward completion."
+        },
+        {
+          "id": 4,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549073078",
+              "segment_id": "67",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596549073078 (segment 67), the student inquired about career development opportunities: 'is there any options of, like, you know, career building beyond that. Like beyond the graduate diploma or any career support during the course?' This question reflected their desire to understand how the program could advance their professional development through integrated career support.",
+          "consultant_response": "The consultant provided a general overview without personalizing: 'So I mean it's a twofold kind of things... there is a fantastic careers hub that you can take advantage of when you are a student' (call_596549073078, seg_74). While mentioning available resources, the response missed the opportunity to explore the student's specific career aspirations and create a personalized vision of how the program could support their professional growth through targeted examples and clear pathways.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in career development, begin by exploring their professional goals: 'Tell me more about your career aspirations - what specific roles or areas interest you most?' Then connect program features to those aspirations: 'Let me show you how our program components specifically support those goals. For example, our industry-relevant projects help develop the exact skills employers in your target field value.' Share concrete examples: 'One of our recent graduates used their final project to solve a real challenge from their workplace, which led directly to a promotion.' Focus on building a clear vision: 'Throughout your studies, you'll have access to our careers hub, which offers personalized career planning, industry networking opportunities, and practical tools for professional development.' The key is creating a tangible connection between program outcomes and career goals: 'Let's look at how each stage of your study journey builds specific capabilities that align with your professional aspirations.' Always maintain appropriate pre-enrollment boundaries while highlighting valuable post-enrollment career support and specific success pathways."
+        },
+        {
+          "id": 5,
+          "title": "Support Channel Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465248066",
+              "segment_id": "14",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596465248066",
+                "segment_id": "18",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed difficulty accessing their preferred support channel: 'I tried to just go onto the website because I know that you guys usually have live chat and then I realised the live chat wasn't working' (call_596465248066, seg_14). This highlighted a need to address communication channel reliability and demonstrate comprehensive support options across multiple platforms.",
+          "consultant_response": "The consultant's response was limited: 'Yeah that's right so it's always good to talk to us anyway just over the phone' (call_596465248066, seg_18). This missed the opportunity to fully explain available communication options and build confidence in support accessibility through specific examples and clear channel guidance.",
+          "priority": "high",
+          "recommended_approach": "When addressing support channel concerns, begin by acknowledging any access difficulties while emphasizing our comprehensive support system: 'I understand it can be frustrating when your preferred contact method isn't available. Let me explain all the ways you can reach us to ensure you always have support when needed.' Then outline specific channels and their optimal use cases: 'Our phone support is ideal for detailed discussions like program planning, while live chat works well for quick questions during business hours. Email support provides documented responses you can reference later, and our online resources are available 24/7.' Share practical examples: 'Many students use a combination of channels - perhaps starting with live chat for quick questions, scheduling phone calls for in-depth planning, and using email for documentation needs.' Focus on creating confidence in support accessibility: 'We ensure multiple channels are always available, so you're never without assistance when you need it.' Always conclude with clear guidance: 'Let me show you exactly how to access each support option and when you might find each most helpful.' The key is demonstrating how our multi-channel support system ensures consistent access to assistance while meeting diverse student needs."
+        },
+        {
+          "id": 6,
+          "title": "International Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548983477",
+              "segment_id": "45",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed complex international study needs: 'It's for my sister, actually. And she's here with me on a separate visa, visitor visa, actually.' (call_596548983477, seg_17). This disclosure highlighted the need for careful navigation of visa requirements while maintaining enrollment momentum through clear pathway planning and benefit identification.",
+          "consultant_response": "The consultant provided comprehensive guidance while highlighting benefits: 'So in that case, because the Bachelor of Accountancy has a three-year degree, she'd have to be an offshore international student... she actually gets a 30% scholarship if she is studying from Sri Lanka' (call_596548983477, seg_45). This response effectively transformed potential barriers into opportunities while maintaining focus on viable study pathways and specific advantages.",
+          "priority": "high",
+          "recommended_approach": "When addressing international study inquiries, begin by acknowledging visa considerations while focusing on available opportunities: 'While visa requirements are important to consider, let's explore how we can create the best possible study pathway for your sister.' Then outline specific options with clear benefits: 'Studying as an offshore international student actually opens up several advantages, including potential scholarships and flexible study arrangements.' Share concrete examples: 'Many of our international students successfully complete their studies from abroad, taking advantage of our online platform and dedicated support services.' When discussing offshore study, emphasize the comprehensive support available: 'Our international student support team provides specialized assistance across time zones, ensuring you have access to help when needed.' The key is transforming geographical distance into a manageable aspect of the study journey while highlighting the specific advantages and support mechanisms available to international students. Always maintain focus on practical solutions while demonstrating clear understanding of international student needs and success pathways."
+        }
+      ]
+    }
+  }
+}

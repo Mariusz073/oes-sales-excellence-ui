@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 267,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 80,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.962546816479403,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 187,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.0374531835206,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.78203409873349,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 187,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 92.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.65,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through targeted exploration and clear progression mapping"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through adaptive study options, offline access capabilities, and comprehensive support mechanisms"
+      },
+      {
+        "headline": "Geographic Mobility Support",
+        "explanation": "Clear articulation of interstate recognition and career mobility options, effectively addressing location-based concerns through evidence-based examples and success stories"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals through structured planning discussions and practical examples"
+      },
+      {
+        "headline": "Documentation Process Support",
+        "explanation": "More comprehensive collaborative planning required around enrollment requirements and documentation pathways with clear alternatives, proactive guidance, and ongoing support mechanisms"
+      },
+      {
+        "headline": "Withdrawal Prevention Strategy",
+        "explanation": "Stronger intervention needed when addressing withdrawal requests through collaborative problem-solving, solution exploration, and clear demonstration of support resources"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689382244",
+              "segment_id": "176",
+              "timestamp": "12:31"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm just in a position where I still need to work full-time, so that's why I want to study online' (call_596689382244, seg_176), revealing critical need for work-study balance guidance.",
+          "consultant_response": "Consultant explained: 'You choose how many units you want to take on for a given teaching period. The units will run for 13 weeks' (call_596689382244, seg_126), effectively showing program adaptability.",
+          "context_impact": "Clear demonstration of program flexibility could directly influence enrollment decision for working professionals seeking sustainable study patterns.",
+          "recommended_approach": "Include specific examples of how current working students successfully manage their studies, with clear timelines and practical strategies."
+        },
+        {
+          "id": 2,
+          "title": "Geographic Flexibility Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462487964",
+              "segment_id": "24",
+              "timestamp": "1:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I just read in the email quickly that, yes, I can work anywhere, right? I can work in New South Wales?' (call_596462487964, seg_24), expressing uncertainty about geographic work flexibility.",
+          "consultant_response": "Consultant provided clarity: 'The course is registered with the Victorian Institute of Teaching. But Victoria has an agreement with all the other states' (call_596462487964, seg_27), effectively addressing interstate recognition.",
+          "context_impact": "Critical moment to address geographic mobility concerns that could impact enrollment decision through clear interstate recognition explanation.",
+          "recommended_approach": "Include specific examples of successful interstate transfers and registration processes with clear timelines."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Academic Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689297951",
+              "segment_id": "13",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'I was wondering to do the graduate diploma, and would that course will take me to the master's of?' (call_596689297951, seg_13), revealing need for clear progression guidance.",
+          "consultant_response": "Consultant explained: 'You can either do the Bachelor of Psychological Sciences or the Graduate Diploma of Psychology and then when you finished, you can apply for the honors course...' (call_596689297951, seg_18), effectively mapping the journey.",
+          "context_impact": "Understanding academic pathways crucial for enrollment consideration, requiring strategic direction on progression options and timelines.",
+          "recommended_approach": "Include specific timeline estimates and credit recognition possibilities for each pathway stage while maintaining enrollment momentum."
+        },
+        {
+          "id": 4,
+          "title": "Withdrawal Prevention",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689079398",
+              "segment_id": "2",
+              "timestamp": "00:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just calling to cancel my enrolment' (call_596689079398, seg_2), indicating immediate retention risk requiring intervention.",
+          "consultant_response": "Consultant replied: 'Okay, let me have a look. Looks like, yeah, so you've enrolled in the course' (call_596689079398, seg_4), missing opportunity for deeper engagement.",
+          "context_impact": "Critical moment requiring collaborative exploration of withdrawal reasons and potential solutions to maintain enrollment.",
+          "recommended_approach": "Implement structured approach to explore withdrawal reasons and discuss potential solutions through collaborative problem-solving."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596464650338",
+              "segment_id": "26",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah that's gonna be the tricky thing because they don't they've changed their course structure there now so the units that I did I've got no information on their' (call_596464650338, seg_26), highlighting documentation challenges.",
+          "consultant_response": "Consultant provided basic guidance: 'Sure, well, just call up the uni when you have a spare time' (call_596464650338, seg_56), missing opportunity for comprehensive support planning.",
+          "context_impact": "Key opportunity to demonstrate proactive support in overcoming enrollment barriers through collaborative solutions.",
+          "recommended_approach": "Develop detailed action plan with specific steps, alternative documentation options, and ongoing support mechanisms through structured guidance."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555348567",
+              "segment_id": "46",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm just kicking myself. That's the only thing, Steven. I just wish I did it in 2023.' (call_596555348567, seg_46), showing regret about past decisions.",
+          "consultant_response": "Consultant provided basic redirection: 'Well, look, we can't go backwards, but we can certainly go forwards if you want to.' (call_596555348567, seg_50), missing opportunity for deeper support.",
+          "context_impact": "Critical opportunity to transform regret into positive future action through supportive collaborative planning.",
+          "recommended_approach": "Develop comprehensive support strategy for students returning after extended breaks, including specific success strategies and confidence-building approaches with practical examples."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689382244",
+              "segment_id": "176",
+              "timestamp": "12:31"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 596689382244 at 12:31, the student expressed significant concern about managing work commitments: 'I'm just in a position where I still need to work full-time, so that's why I want to study online' (segment 176). This revealed both interest in pursuing education and anxiety about maintaining professional responsibilities. Similar concerns emerged in supporting call 595732548084 where another student expressed concerns about shift work flexibility.",
+          "consultant_response": "The consultant demonstrated strong understanding of flexibility needs by explaining: 'You choose how many units you want to take on for a given teaching period. The units will run for 13 weeks' (call_596689382244, seg_126). This response effectively showed how the program adapts to individual circumstances while maintaining academic progress. Supporting examples of successful study patterns reinforced the feasibility of work-study integration.",
+          "priority": "high",
+          "recommended_approach": "When discussing study flexibility with working professionals, begin by validating their need to maintain work commitments. Start with exploring their specific situation: 'Could you tell me about your typical work schedule? This helps me show you exactly how our program can flex around your commitments.' Use this information to demonstrate practical solutions: 'Many of our students studying while working full-time download materials for offline study during quiet periods, then engage with online discussions when their schedule allows.' When discussing study load, emphasize control and adaptability: 'You can adjust your unit load based on work demands - many students take more units during lighter work periods and reduce their load during peak times.' Share specific success strategies: 'One current student working in healthcare found that breaking study into smaller daily segments worked best for their rotating shifts.' Always connect flexibility options to their specific circumstances while ensuring they understand the support available. The key is transforming perceived time constraints into manageable opportunities through practical planning and clear examples from successful students."
+        },
+        {
+          "id": 2,
+          "title": "Geographic Flexibility Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462487964",
+              "segment_id": "24",
+              "timestamp": "1:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The critical moment arose when the student expressed uncertainty about geographic mobility: 'I just read in the email quickly that, yes, I can work anywhere, right? I can work in New South Wales?' (call_596462487964, seg_24). This query revealed both interest in the program and concern about potential geographic limitations on future employment opportunities.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by providing comprehensive clarity about interstate recognition: 'The course is registered with the Victorian Institute of Teaching. But Victoria has an agreement with all the other states, so that if you are registered in Victoria, you'll then be able to register in your home state as well' (call_596462487964, seg_27). This response successfully balanced providing factual information with addressing the underlying concern about career flexibility.",
+          "priority": "high",
+          "recommended_approach": "When addressing geographic mobility concerns, start by acknowledging the importance of career flexibility in the student's decision-making process. Begin with validation: 'Career mobility is an important consideration, and I'm glad you're thinking about this.' Then provide clear information about interstate recognition while maintaining appropriate boundaries: 'Let me explain how our program supports geographic flexibility through interstate agreements.' Share specific examples from successful graduates: 'Many of our alumni have successfully registered and are now teaching in different states, including New South Wales and Queensland.' Address common concerns proactively: 'The interstate recognition process is straightforward - you'll first register in Victoria, then apply for recognition in your preferred state.' Always connect mobility options to their career goals: 'This flexibility means you can pursue teaching opportunities across Australia as your career develops.' The key is transforming geographic concerns into opportunities while providing clear, practical examples of successful transitions."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Academic Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689297951",
+              "segment_id": "13",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clarity about academic progression options: 'I was wondering to do the graduate diploma, and would that course will take me to the master's of?' (call_596689297951, seg_13). This query revealed both long-term aspirations and uncertainty about available pathways.",
+          "consultant_response": "The consultant provided comprehensive pathway guidance: 'You can either do the Bachelor of Psychological Sciences or the Graduate Diploma of Psychology and then when you finished, you can apply for the honors course...' (call_596689297951, seg_18). This response effectively mapped multiple progression options while maintaining clear academic standards and requirements.",
+          "priority": "high",
+          "recommended_approach": "When addressing academic pathway questions, begin by acknowledging the student's long-term aspirations while creating a structured progression plan. Start with validation: 'It's excellent that you're thinking about your complete academic journey. Let me show you how our programs can support your goals.' Use clear visual or verbal mapping: 'There are several pathways we can explore, each with its own advantages. The Graduate Diploma pathway typically takes X time, while the Bachelor's route includes Y practical components.' Share specific examples: 'Many students begin with the Graduate Diploma then progress to Masters, finding the shorter initial commitment helps them build confidence.' Always connect immediate enrollment decisions to longer-term goals: 'Starting with the Graduate Diploma gives you a strong foundation while keeping multiple progression options open.' The key is making complex academic pathways tangible through clear examples and achievable milestones while maintaining enrollment momentum through structured planning."
+        },
+        {
+          "id": 4,
+          "title": "Withdrawal Prevention",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689079398",
+              "segment_id": "2",
+              "timestamp": "00:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student initiated contact with clear withdrawal intent: 'I'm just calling to cancel my enrolment' (call_596689079398, seg_2). This direct statement signaled a critical moment requiring immediate intervention to understand underlying concerns and explore potential retention solutions.",
+          "consultant_response": "The consultant's response was primarily procedural: 'Okay, let me have a look. Looks like, yeah, so you've enrolled in the course' (call_596689079398, seg_4). This approach missed the crucial opportunity to engage with the student's underlying reasons for withdrawal and explore potential alternatives through collaborative discussion.",
+          "priority": "high",
+          "recommended_approach": "When handling withdrawal requests, immediately engage in collaborative problem-solving while maintaining appropriate boundaries. Begin with acknowledgment and exploration: 'I understand you're thinking about withdrawing. Could you share what's led to this decision?' Listen actively to identify specific concerns, then explore potential solutions: 'Many students face similar challenges, and we've developed several ways to help.' If they mention workload concerns, discuss flexibility options: 'We can adjust your study load or explore different support services that might help.' Share relevant examples: 'Recently, a student in a similar situation found that reducing their unit load and working with our learning advisors helped them continue successfully.' Present alternatives before processing withdrawal: 'Before we proceed with cancellation, let's explore some options that might better suit your situation.' The key is transforming a withdrawal request into a collaborative planning opportunity while respecting the student's ultimate decision and maintaining clear professional boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596464650338",
+              "segment_id": "26",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about documentation challenges: 'Yeah that's gonna be the tricky thing because they don't they've changed their course structure there now so the units that I did I've got no information on their' (call_596464650338, seg_26). This revealed anxiety about meeting requirements and need for clear guidance.",
+          "consultant_response": "The consultant provided only basic guidance: 'Sure, well, just call up the uni when you have a spare time' (call_596464650338, seg_56). This response missed the opportunity to demonstrate proactive support and collaborative problem-solving.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation challenges, begin by validating concerns while immediately positioning yourself as an active partner in finding solutions. Start with empathy: 'I understand these changes can make obtaining documentation challenging. Let's work together to find the best approach.' Outline specific action steps: 'First, let's identify all possible pathways for obtaining your documentation. While contacting your previous university is one option, we can also explore alternatives like academic transcripts or course descriptions.' Create a clear action plan: 'Let's develop a step-by-step approach, starting with the most readily available documents while pursuing additional options.' Share success strategies: 'Many students in similar situations have successfully gathered documentation by requesting detailed academic transcripts and course outlines.' Always maintain momentum by setting clear next steps: 'Let's schedule a follow-up call once you've gathered initial documents to review progress and plan next steps.' The key is transforming documentation requirements from barriers into manageable tasks through structured planning and clear guidance."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555348567",
+              "segment_id": "46",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant regret about past decisions: 'I'm just kicking myself. That's the only thing, Steven. I just wish I did it in 2023.' (call_596555348567, seg_46). This moment revealed both emotional vulnerability and potential barrier to moving forward with enrollment.",
+          "consultant_response": "The consultant provided basic redirection without deeper support: 'Well, look, we can't go backwards, but we can certainly go forwards if you want to.' (call_596555348567, seg_50). While attempting to be positive, this missed the opportunity to develop a comprehensive support strategy for returning students.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students returning to study after a break, begin by validating their feelings while building confidence about moving forward. Start with acknowledgment: 'Many successful students wish they'd started earlier, but your previous experiences can actually enhance your studies now.' Ask questions that prompt forward thinking: 'What aspects of the program most excite you?' or 'How do you see your previous experience contributing to your studies?' Share success stories of similar students: 'One of our recent graduates returned to study after ten years and found their work experience gave them valuable insights.' Outline specific support mechanisms: 'Our learning advisors specialize in helping returning students transition back to academic writing and study skills.' Always connect past experiences to future success: 'Your work and life experience can actually enhance your studies, giving you practical context for theoretical concepts.' The key is transforming past hesitation into future motivation through practical support strategies and confidence-building approaches while maintaining clear focus on immediate enrollment steps."
+        }
+      ]
+    }
+  }
+}

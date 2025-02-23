@@ -1,0 +1,293 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 17,
+    "university": "Monash",
+    "reporting_period": "02-17_02-21",
+    "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [
+            {
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 224.46,
+                "lower_bound": 107.02,
+                "green": 181.48
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 199.83,
+                "lower_bound": 91.28,
+                "green": 160.73
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 207.62,
+                "lower_bound": 115.25,
+                "green": 178.81
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 241.99,
+                "lower_bound": 88.46,
+                "green": 174.2
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "upper_bound": 212.73,
+                "lower_bound": 113.6,
+                "green": 157.75
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "upper_bound": 215.03,
+                "lower_bound": 71.16,
+                "green": 162.74
+            },
+            {
+                "title": "01-27_01-31\nweek 14",
+                "upper_bound": 222.83,
+                "lower_bound": 110.7,
+                "green": 155.43
+            },
+            {
+                "title": "02-03_02-07\nweek 15",
+                "upper_bound": 225.42,
+                "lower_bound": 99.11,
+                "green": 157.11
+            },
+            {
+                "title": "02-10_02-14\nweek 16",
+                "upper_bound": 215.5,
+                "lower_bound": 97.56,
+                "green": 163.3
+            },
+            {
+                "title": "02-17_02-21\nweek 17",
+                "upper_bound": 198.62,
+                "lower_bound": 84.14,
+                "green": 148.21
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 3826,
+        "consultant_results": [
+            {
+                "name": "Yusuf Aly",
+                "high_need_score": "198.6",
+                "all_score": "125.4",
+                "percentage_high_need": "21/239 (8.8%)",
+                "rank": 1
+            },
+            {
+                "name": "David Mccarthie",
+                "high_need_score": "182.3",
+                "all_score": "135.5",
+                "percentage_high_need": "9/230 (3.9%)",
+                "rank": 2
+            },
+            {
+                "name": "Rochelle Khaddage",
+                "high_need_score": "172.5",
+                "all_score": "120.8",
+                "percentage_high_need": "27/164 (16.5%)",
+                "rank": 3
+            },
+            {
+                "name": "Robert Cecere",
+                "high_need_score": "166.3",
+                "all_score": "114.2",
+                "percentage_high_need": "16/267 (6.0%)",
+                "rank": 4
+            },
+            {
+                "name": "Gabriel Almeida",
+                "high_need_score": "160.5",
+                "all_score": "134.3",
+                "percentage_high_need": "27/268 (10.1%)",
+                "rank": 5
+            },
+            {
+                "name": "Jake Mckinnis",
+                "high_need_score": "157.5",
+                "all_score": "60.6",
+                "percentage_high_need": "8/289 (2.8%)",
+                "rank": 6
+            },
+            {
+                "name": "Valentina William",
+                "high_need_score": "154.5",
+                "all_score": "130.2",
+                "percentage_high_need": "13/172 (7.6%)",
+                "rank": 7
+            },
+            {
+                "name": "Bridgett Young",
+                "high_need_score": "151.9",
+                "all_score": "106.3",
+                "percentage_high_need": "21/282 (7.4%)",
+                "rank": 8
+            },
+            {
+                "name": "Nicholas Bowers",
+                "high_need_score": "142.1",
+                "all_score": "110.1",
+                "percentage_high_need": "17/258 (6.6%)",
+                "rank": 9
+            },
+            {
+                "name": "Sebastian Saunders",
+                "high_need_score": "138.2",
+                "all_score": "97.0",
+                "percentage_high_need": "18/247 (7.3%)",
+                "rank": 10
+            },
+            {
+                "name": "Michael Kiag",
+                "high_need_score": "129.1",
+                "all_score": "100.1",
+                "percentage_high_need": "27/281 (9.6%)",
+                "rank": 11
+            },
+            {
+                "name": "Alexandra Kepas",
+                "high_need_score": "120.4",
+                "all_score": "101.5",
+                "percentage_high_need": "8/234 (3.4%)",
+                "rank": 12
+            },
+            {
+                "name": "Sarah Charlwood",
+                "high_need_score": "112.0",
+                "all_score": "120.2",
+                "percentage_high_need": "16/175 (9.1%)",
+                "rank": 13
+            },
+            {
+                "name": "Jack Colleran",
+                "high_need_score": "109.4",
+                "all_score": "131.6",
+                "percentage_high_need": "4/217 (1.8%)",
+                "rank": 14
+            },
+            {
+                "name": "Stephen Taylor",
+                "high_need_score": "92.2",
+                "all_score": "96.7",
+                "percentage_high_need": "15/267 (5.6%)",
+                "rank": 15
+            },
+            {
+                "name": "Shelton Frimpong",
+                "high_need_score": "84.1",
+                "all_score": "77.9",
+                "percentage_high_need": "18/236 (7.6%)",
+                "rank": 16
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "148.2",
+            "all_score": "109.8",
+            "percentage_high_need": "265/3826 (6.9%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Military Service Integration",
+                        "content": "Student trigger: Student stated: 'The reason I'm doing the online course is because I'll be moving to Singapore to serve the military service there' (call_596412764251, seg_45), revealing critical need for flexible study options during service. | Context/impact: Critical opportunity to demonstrate program flexibility for significant life transitions affecting enrollment decision. | Consultant response: Consultant effectively addressed concerns: 'Moving overseas won't affect your ability to get a HECS loan, won't change your fees as an Australian citizen' (call_596412764251, seg_146), providing clear practical and financial reassurance. | Improvement: Include more specific examples of how other students successfully manage studies during military service and detail available offline study options."
+                    },
+                    {
+                        "title": "Work-Study Integration",
+                        "content": "Student trigger: Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163), revealing critical flexibility needs. | Context/impact: This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum. | Consultant response: Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility. | Improvement: Include more specific examples of successful study patterns from current healthcare students with varying shift patterns."
+                    },
+                    {
+                        "title": "Professional Experience Integration",
+                        "content": "Student trigger: Student stated: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours' (call_596616646463, seg_1), revealing concerns about balancing professional commitments with study requirements. | Context/impact: Critical opportunity to demonstrate how professional skills translate to academic success while building enrollment confidence through practical examples. | Consultant response: Consultant effectively engaged: 'I can hear you're being really thoughtful about managing this commitment. You mentioned you're in management - could you tell me more about how you currently handle multiple priorities in your role?' (call_596616646463, seg_3), connecting existing skills to academic success. | Improvement: Include more specific examples of how current students in management roles successfully balance their commitments with concrete strategies and timelines."
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": "Student trigger: Student stated: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596555318422, seg_34), revealing deep anxiety about academic readiness. | Context/impact: Critical opportunity to build confidence and demonstrate comprehensive support for returning students. | Consultant response: Consultant responded with general reassurance rather than addressing specific student concerns about academic preparedness. | Improvement: Implement structured discussion of study return concerns with specific support strategies and success stories."
+                    },
+                    {
+                        "title": "Career Development Integration",
+                        "content": "Student trigger: Student expressed: 'I'm a company director already and I've got several companies interested in having me do an IPO at Forum' (call_596343510126, seg_35), signaling need for qualification alignment with specific career goals. | Context/impact: Critical opportunity to demonstrate how program could support specific career advancement goals while maintaining appropriate boundaries. | Consultant response: Consultant focused on logistics: 'I can see you did enroll about four years ago...' (call_596343510126, seg_40), missing chance to explore program-career alignment. | Improvement: Develop deeper discussion of how specific program components align with professional objectives while maintaining pre-enrollment scope."
+                    },
+                    {
+                        "title": "Documentation Process Support",
+                        "content": "Student trigger: Student asked: 'So I will need to go call campus and have a chat with them?' (call_596412941676, seg_37), seeking clarity on process steps and support availability. | Context/impact: Clear guidance through administrative processes was essential for maintaining enrollment momentum and student confidence. | Consultant response: Consultant provided minimal direction: 'I can transfer you across to them' without explaining process context or offering collaborative support through the transition. | Improvement: Develop comprehensive process overview with clear steps and proactive support offerings while maintaining appropriate boundaries."
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Military Service Integration",
+                        "content": {
+                            "student_trigger": "During a critical moment in call 596412764251 (segment 45), the student revealed significant life changes affecting their study plans: 'The reason I'm doing the online course is because I'll be moving to Singapore to serve the military service there.' This disclosure presented a prime opportunity for collaborative planning, requiring careful consideration of how educational goals could align with military service obligations while maintaining study momentum.",
+                            "consultant_response": "The consultant demonstrated strong collaborative planning by directly addressing both practical and financial concerns: 'Moving overseas won't affect your ability to get a HECS loan, won't change your fees as an Australian citizen' (segment 146). This response effectively validated the student's chosen path while providing crucial information about maintaining domestic student status abroad, transforming potential barriers into manageable considerations.",
+                            "recommended_approach": "When addressing major life transitions like military service, begin by acknowledging the significance of the commitment while immediately connecting it to educational possibilities: 'I appreciate you sharing these plans - let's explore how our program can support your goals during service.' Focus on specific features that accommodate international study: flexible deadlines, offline access, and asynchronous learning. Share examples of other students successfully managing military service while studying: 'Many of our students serve while studying - they often download materials during reliable internet access periods and complete work offline.' Proactively address common concerns about studying abroad - internet access, time zones, and assessment submissions. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access ensures study can continue even with variable internet connectivity. When discussing financial aspects, clearly outline how domestic student benefits remain intact regardless of location: 'Your HECS-HELP eligibility and fee structure stay the same, ensuring consistent support throughout your service.' The goal is transforming what might seem like obstacles into manageable aspects of their educational journey, always grounding explanations in practical examples that resonate with their specific situation."
+                        }
+                    },
+                    {
+                        "title": "Work-Study Integration",
+                        "content": {
+                            "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+                            "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+                            "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+                        }
+                    },
+                    {
+                        "title": "Professional Experience Integration",
+                        "content": {
+                            "student_trigger": "During the enrollment discussion, the student expressed concern about balancing their studies while maintaining professional effectiveness: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours.' This revealed both strong interest in professional development and awareness of potential challenges in balancing commitments. Their management background presented an opportunity to explore how professional skills could transfer to academic success.",
+                            "consultant_response": "The consultant demonstrated excellent collaborative planning by responding: 'I can hear you're being really thoughtful about managing this commitment. You mentioned you're in management - could you tell me more about how you currently handle multiple priorities in your role?' This approach effectively bridged the gap between professional capabilities and academic requirements, encouraging the student to recognize their existing skills in managing complex responsibilities.",
+                            "recommended_approach": "When working with experienced professionals, begin by acknowledging their existing management capabilities and demonstrate how these skills translate to academic success. Start with validating their experience: 'Your project management skills are valuable assets for academic success.' Then explore specific parallels: 'The way you prioritize tasks at work can directly apply to managing coursework. For instance, many students find their experience scheduling team projects helps them plan assignment submissions effectively.' Share concrete examples: 'One of our current MBA students, also in a management role, uses her project planning approach to break down assignments into weekly deliverables, treating them like workplace milestones.' Use their current role as a framework: 'Just as you schedule team meetings and deadlines, you can create similar structures for study blocks and assignments. Many successful students block out study time in their work calendar just like important meetings.' Throughout the discussion, maintain focus on how their professional strengths support academic success: 'Your experience managing multiple priorities will be invaluable in coordinating study with other commitments. For example, you can apply the same delegation and time-blocking techniques you use at work to your study schedule.' The goal is helping them recognize how their professional toolkit can be adapted for academic success, always grounding examples in real workplace scenarios they can relate to while providing specific strategies for implementation."
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": {
+                            "student_trigger": "Multiple students expressed anxiety about returning to study after extended breaks, exemplified when one shared: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596555318422, seg_34). These disclosures represented critical opportunities to build confidence while demonstrating comprehensive support mechanisms.",
+                            "consultant_response": "Consultants often missed opportunities to address return to study concerns effectively, focusing on personal experiences rather than building student confidence through specific support strategies and success stories.",
+                            "recommended_approach": "When students express concerns about returning to study, begin by validating their feelings while highlighting the strengths mature students bring: 'Many of our most successful students return to study after extended breaks, bringing valuable life and work experience.' Guide the conversation toward identifying transferable skills: 'Your professional experience gives you unique advantages - let's discuss how your workplace skills will benefit your studies.' Share specific success stories: 'One of our recent graduates returned after 20 years away and found her work experience gave her unique insights in analyzing case studies.' Outline available support: 'Our student success team provides specialized support for returning students, including study skills workshops and one-on-one academic coaching.' Remember to emphasize the value of life experience: 'Your professional background will help you relate course concepts to real-world scenarios, something many direct-entry students struggle with.' Throughout the conversation, maintain focus on building confidence through practical support while creating clear action plans for academic success."
+                        }
+                    },
+                    {
+                        "title": "Career Development Integration",
+                        "content": {
+                            "student_trigger": "At segment 35 of the call, the student clearly articulated their professional context and goals: 'I'm a company director already and I've got several companies interested in having me do an IPO at Forum' (call_596343510126, seg_35). This statement presented a prime opportunity to demonstrate how the educational program could directly support their career advancement.",
+                            "consultant_response": "The consultant's response focused primarily on administrative aspects: 'I can see you did enroll about four years ago... but I don't think you got started into the Bachelor of Business' (call_596343510126, seg_40). While this acknowledged the student's history with the institution, it missed the opportunity to explore how the program could support their specific career ambitions.",
+                            "recommended_approach": "When engaging with professionals seeking qualifications for specific career advancements, start by acknowledging their current achievements and exploring their specific professional goals. Rather than immediately focusing on administrative details, open with 'Your experience as a company director provides an excellent foundation. Let's explore how this program can support your IPO aspirations.' Guide the conversation to highlight relevant course components that align with their professional objectives, such as advanced financial management or corporate governance units. When discussing program benefits, connect them directly to their career context: 'Our corporate finance units cover IPO processes and requirements, which aligns directly with your current goals.' Remember to maintain appropriate boundaries - avoid making specific career promises but focus on how the program develops relevant knowledge and skills. The goal is to show program relevance while maintaining appropriate scope of guidance."
+                        }
+                    },
+                    {
+                        "title": "Documentation Process Support",
+                        "content": {
+                            "student_trigger": "Multiple students sought clarity about documentation processes, exemplified when one asked: 'So I will need to go call campus and have a chat with them?' (call_596412941676, seg_37). These moments represented critical opportunities to demonstrate clear process guidance while maintaining enrollment momentum.",
+                            "consultant_response": "Consultants often provided minimal direction, such as 'I can transfer you across to them' without explaining process context or offering collaborative support through the transition. This approach missed opportunities to build confidence and demonstrate comprehensive institutional support.",
+                            "recommended_approach": "When guiding students through documentation processes, begin by providing a clear overview while maintaining a supportive approach. Start with context: 'Let me outline the complete process so you know exactly what to expect at each step.' Then walk through specific requirements while offering assistance: 'I'll help coordinate with campus services and ensure you have all necessary information before connecting with them.' Consider creating a collaborative checklist: 'Would you like me to summarize the key points to discuss and provide an email with these details for your reference?' When discussing timelines, be specific: 'Once documents are submitted, our team typically reviews within [timeframe] and I'll personally follow up to ensure everything is progressing.' The key is transforming what could be an overwhelming process into manageable steps while demonstrating ongoing support. Throughout the conversation, maintain appropriate boundaries while ensuring students feel supported: 'While I'll help facilitate the process, our campus team specializes in these requirements and will provide detailed guidance when you connect with them.'"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2024-12-13",
+        "report_id": "MONU-B-COLL-W7-2024",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

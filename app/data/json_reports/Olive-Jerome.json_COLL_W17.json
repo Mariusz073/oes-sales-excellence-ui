@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "consultant_name": "Olive Jerome",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative planning"
+  },
+  "total_number_of_calls": 2,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 1,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 50.0,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 1,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 50.0,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 30.529172320217096,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 1,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [],
+    "improvement": []
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": []
+    },
+    "verbose": {
+      "conversations": []
+    }
+  }
+}
