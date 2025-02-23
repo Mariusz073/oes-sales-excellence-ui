@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative planning"
+  },
+  "total_number_of_calls": 234,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 70,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.914529914529915,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 164,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.08547008547008,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 58.08484132598095,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 164,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 120.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.48,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [],
+    "improvement": []
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": []
+    },
+    "verbose": {
+      "conversations": []
+    }
+  }
+}

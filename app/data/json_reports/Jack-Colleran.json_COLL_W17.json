@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 217,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 46,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.19815668202765,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 171,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.80184331797236,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.1470967025612,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 171,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 109.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 131.58,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical workload management options and study pattern adaptation"
+      },
+      {
+        "headline": "Transparent Support Communication",
+        "explanation": "Effective communication of program requirements and support structures while maintaining clear boundaries between pre-enrollment guidance and post-enrollment services"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career transition goals"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, including specific success strategies"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Enhanced collaborative approach needed for complex documentation scenarios with clearer alternative pathways and support mechanisms"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Workload Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412660529",
+              "segment_id": "108",
+              "timestamp": "22:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548973663",
+                "segment_id": "93",
+                "timestamp": "7:00"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'And one unit equates about eight to 10 hours of study per week.' (call_596412660529, seg_108), seeking clarity on balancing study commitments with other responsibilities.",
+          "consultant_response": "Consultant provided specific guidance: 'So I would say two is usually part time...that's about 16 to 20 hours per week... you will get it done in less than three years' (call_596412660529, seg_111), offering clear pathway planning.",
+          "context_impact": "Clear understanding of study commitments directly influences enrollment decisions and reduces future withdrawal risk due to misaligned expectations.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current students managing similar workloads and schedules."
+        },
+        {
+          "id": 2,
+          "title": "Career Experience Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413412250",
+              "segment_id": "24",
+              "timestamp": "02:51"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've done a lot of work in prisons and stuff so I'm just sort of interested in that sort of field?' (call_596413412250, seg_24), revealing valuable professional experience and interest in program alignment.",
+          "consultant_response": "Consultant effectively outlined program structure: 'So essentially the way that Swinburne Online works is we do three trimesters... helps you get it done a little bit faster' (call_596413412250, seg_31), highlighting flexible pathways for working professionals.",
+          "context_impact": "Critical moment to validate experience and demonstrate program's relevance to professional growth while maintaining enrollment momentum.",
+          "recommended_approach": "Enhance response by directly connecting prison work experience to specific course content and career advancement opportunities within the field."
+        },
+        {
+          "id": 3,
+          "title": "Study Return Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596461687296",
+              "segment_id": "8",
+              "timestamp": "1:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596461687296, seg_8), revealing significant anxiety about academic readiness.",
+          "consultant_response": "The consultant missed addressing the concern directly, leaving the student's anxiety unaddressed and failing to outline available support systems.",
+          "context_impact": "This moment required clear demonstration of support mechanisms and confidence building to maintain enrollment momentum.",
+          "recommended_approach": "Validate concerns while highlighting transferable skills and available support: 'That's a common concern. Let's explore how your work experience can actually benefit your studies.'"
+        },
+        {
+          "id": 4,
+          "title": "Documentation Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689081161",
+              "segment_id": "60",
+              "timestamp": "2:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Consultant noted: 'So if you'd like, we can also use your resume as entry if this is something that you may want to do just in case we can't get your diploma checked in time...' (call_596689081161, seg_60)",
+          "consultant_response": "Limited exploration of documentation options without engaging student in collaborative solution-finding.",
+          "context_impact": "Documentation challenges can significantly impact enrollment progress, requiring clear alternative pathways.",
+          "recommended_approach": "Develop comprehensive documentation planning approach that actively involves student in exploring alternatives: 'Let's review all available documentation options together and find the best pathway for your situation.'"
+        },
+        {
+          "id": 5,
+          "title": "Transparent Intake Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555326735",
+              "segment_id": "39",
+              "timestamp": "04:17"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'Is there any chance of getting in or not, for the March intake?' (call_596555326735, seg_39), expressing uncertainty about enrollment timing and options.",
+          "consultant_response": "Consultant maintained transparency: 'Probably highly unlikely if I'm honest...' (call_596555326735, seg_40), building trust while preserving relationship.",
+          "context_impact": "Handling timing uncertainty crucially impacts student confidence and likelihood of maintaining engagement for future enrollment.",
+          "recommended_approach": "Follow transparency with collaborative exploration of alternative pathways and specific preparation steps for next available intake."
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413412250",
+              "segment_id": "48",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I've only just started actually at the end of last year... I think first year in a new job, I think I probably need to put a bit of focus there first' (call_596413412250, seg_48), indicating thoughtful consideration of work-study integration.",
+          "consultant_response": "Consultant acknowledged but missed planning opportunity: 'Yeah, no that's completely understandable. So essentially the way that Swinburne Online works is we do... three trimesters' (call_596413412250, seg_53).",
+          "context_impact": "Key opportunity to demonstrate how program flexibility specifically supports career transitions and new job adaptation.",
+          "recommended_approach": "Provide specific examples of how professionals successfully manage new job transitions while studying, emphasizing flexible study load options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Workload Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412660529",
+              "segment_id": "108",
+              "timestamp": "22:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548973663",
+                "segment_id": "93",
+                "timestamp": "7:00"
+              }
+            ]
+          },
+          "student_trigger": "At 22:45 into the call (segment 108), the student inquired about study commitments, asking 'And one unit equates about eight to 10 hours of study per week.' This question revealed thoughtful consideration of potential study workload and demonstrated the student's desire to make an informed enrollment decision based on realistic time commitments. The timing and nature of this question indicated a critical moment for providing clarity that could significantly impact the student's confidence in proceeding with enrollment.",
+          "consultant_response": "The consultant provided a comprehensive response: 'So I would say two is usually part time. And especially the fact you only have 16 units left to do. So like if you do two units, that's about 16 to 20 hours per week... That means that the 16 units, you will get it done in less than three years.' This response effectively demonstrated collaborative planning by offering specific time commitments and explaining how different unit loads would impact degree completion. The consultant's detailed breakdown helped transform abstract unit numbers into concrete weekly commitments, making the planning process more tangible and manageable for the student.",
+          "priority": "high",
+          "recommended_approach": "When addressing study workload inquiries, begin with clear unit-to-hours conversions that help students visualize their weekly commitments. For example, saying 'Let's look at how different unit loads translate to weekly study time and see what best fits your schedule' invites collaborative discussion. Share specific examples from current students: 'Many students studying two units successfully block out two hours each weekday evening plus a longer session on weekends.' Pay particular attention to students juggling multiple commitments, helping them identify realistic study patterns. Mention that OES learning coaches can assist with detailed study planning post-enrollment, positioning this as a valuable support resource. The goal is to transform abstract course loads into concrete, achievable weekly schedules while maintaining proper role boundaries in the sales process."
+        },
+        {
+          "id": 2,
+          "title": "Career Experience Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413412250",
+              "segment_id": "24",
+              "timestamp": "02:51"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596413412250 (segment 24), the student revealed significant professional experience, stating: 'I've done a lot of work in prisons and stuff so I'm just sort of interested in that sort of field?' This disclosure presented a crucial opportunity to validate their experience while demonstrating how the program could enhance their existing professional knowledge. The statement indicated both genuine interest in the field and a need to understand how their background could contribute to their academic journey.",
+          "consultant_response": "The consultant demonstrated effective pathway planning by responding with program structure details: 'So essentially the way that Swinburne Online works is we do, typical university does two semesters, we do three trimesters. So it helps you get it done a little bit faster' (segment 31). This response highlighted practical benefits of the program structure, particularly emphasizing efficiency and flexibility. The approach helped bridge the gap between the student's professional experience and academic aspirations by showcasing how the program's design could accommodate their needs while maintaining career momentum.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students who bring relevant professional experience, begin by explicitly acknowledging the value of that experience and its relevance to the program. Start with validation: 'Your experience working in prisons provides an incredibly valuable practical foundation for this program.' Then, explore specific aspects of their experience that align with course content: 'Could you tell me more about your role in the prison system? This could help us identify areas where the program will build on your practical knowledge.' Present the program's structure and benefits in direct relation to their experience: 'The trimester system allows professionals like yourself to maintain career momentum while advancing your qualifications.' Focus on high-level program benefits rather than detailed career planning, maintaining appropriate boundaries while demonstrating how the program can enhance their professional trajectory. This approach transforms their experience from a background detail into a valuable asset for their academic journey, while ensuring discussions remain within the scope of enrollment planning."
+        },
+        {
+          "id": 3,
+          "title": "Study Return Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596461687296",
+              "segment_id": "8",
+              "timestamp": "1:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 1:24 into the call, the student expressed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596461687296, seg_8). This admission revealed deep-seated concerns about academic readiness after a lengthy break from formal education. Such concerns are common among returning students and can significantly impact their confidence in proceeding with enrollment. The moment presented a crucial opportunity to address these fears while maintaining momentum toward enrollment through supportive dialogue and practical guidance.",
+          "consultant_response": "The consultant's response fell short of addressing the student's concerns effectively. Instead of engaging with the expressed anxiety and providing reassurance through concrete examples and support mechanisms, the interaction remained surface-level. This missed opportunity likely left the student feeling uncertain about their ability to succeed in the program. A more comprehensive response could have validated these common concerns while highlighting the institution's support systems and the student's existing strengths.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study after an extended break, begin by normalizing these feelings and validating the student's self-awareness. A powerful opening could be, 'That's a very common concern, especially for professionals returning to study. May I ask what kind of support systems you have in your current role?' This validates their feelings while opening the door to explore their existing strengths. Follow this by guiding the discussion toward how their professional experience can enhance their studies: 'Many of our successful students find their work experience actually gives them an advantage in applying concepts to real-world situations.' When discussing support mechanisms, be specific about available resources: 'We provide dedicated academic skills workshops in the first few weeks, and our learning coaches can help you develop a study schedule that fits your life.' Particularly important is helping students recognize their transferable skills: 'Your 15 years of work experience has given you valuable time management and problem-solving skills that will be incredibly useful in your studies.' The key is transforming their perceived disadvantage into a potential strength while ensuring they feel supported throughout their educational journey."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689081161",
+              "segment_id": "60",
+              "timestamp": "2:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 2:10 into the call (segment 60), the consultant mentioned: 'So if you'd like, we can also use your resume as entry if this is something that you may want to do just in case we can't get your diploma checked in time...' This point revealed potential documentation challenges that could impact enrollment progress. The need for exploring alternative pathways highlighted the importance of addressing documentation requirements collaboratively to facilitate effective enrollment.",
+          "consultant_response": "While the consultant suggested using the resume as a potential entry point, the response lacked depth and did not involve the student in discussing possible documentation alternatives. By not engaging the student in dialogue about documentation options, the consultant missed an opportunity to understand the student's perspective and alleviate concerns. The unilateral approach diluted the effectiveness of the response.",
+          "priority": "high",
+          "recommended_approach": "When documentation challenges arise, transform potential barriers into structured planning opportunities. Begin by acknowledging the situation: 'Let's explore what documentation options could work best for your entry. This way, we can maintain your enrollment momentum.' Guide collaborative exploration: 'Based on your background, we have several pathways available - would you like to discuss how each might work for your situation?' Share specific examples: 'Many students successfully use their professional resume combined with other documents. What documentation do you feel most confident about providing?' Watch for signs of documentation anxiety, being ready to provide reassurance about flexibility while maintaining proper compliance standards. The key is partnering with the student to find viable solutions within institutional requirements."
+        },
+        {
+          "id": 5,
+          "title": "Transparent Intake Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555326735",
+              "segment_id": "39",
+              "timestamp": "04:17"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the call at 04:17 (segment 39), the student expressed uncertainty about enrollment timing, asking 'Is there any chance of getting in or not, for the March intake?' This question revealed anxiety about their enrollment prospects and highlighted a critical moment where clear guidance could significantly impact their confidence and future planning. The student's tone and phrasing suggested a need for both honest assessment and strategic direction.",
+          "consultant_response": "The consultant demonstrated commendable transparency in their response: 'Probably highly unlikely if I'm honest and there is a slight chance but it is quite unlikely because like John, a number of people would have to drop out before the start of March and it doesn't seem like that will happen.' This honest assessment built trust by avoiding false hopes while acknowledging the reality of the situation. However, the response could have been enhanced by transitioning into a collaborative discussion about alternative pathways and preparation strategies for future intakes.",
+          "priority": "high",
+          "recommended_approach": "When addressing intake availability concerns, start with honest assessment while maintaining a constructive focus on pathways forward. Begin with clear acknowledgment: 'I appreciate you asking about March intake. Let me be transparent about the current situation.' Then guide the conversation toward concrete next steps: 'While March looks unlikely, let's explore how we can best position you for the next intake.' Share specific preparation strategies that maintain momentum: 'Many successful students use this time to gather documentation, explore financing options, and develop study plans.' Be attentive to signs of disappointment, ready to emphasize how proper preparation enhances future success. Maintain focus on high-level planning within sales role boundaries, referring detailed study planning to student support services post-enrollment."
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Balance Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413412250",
+              "segment_id": "48",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596413412250 (segment 48), the student expressed concern about managing new job responsibilities alongside potential study: 'I've only just started actually at the end of last year... I think first year in a new job, I think I probably need to put a bit of focus there first and then start.' This statement revealed thoughtful consideration of work-life balance and a need for strategic planning to ensure successful integration of study with career development.",
+          "consultant_response": "The consultant's response was limited to acknowledging the concern and explaining program structure: 'Yeah, no that's completely understandable. So essentially the way that Swinburne Online works is we do... three trimesters' (segment 53). While this provided basic information about program flexibility, it missed the opportunity to explore specific strategies for balancing work and study commitments, particularly during career transitions.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, especially with students in career transitions, begin by validating their strategic thinking about timing and commitments. Frame the discussion around how our program's flexibility specifically supports career development: 'Your thoughtful approach to managing this transition shows exactly the kind of planning that successful students demonstrate.' Guide the conversation to explore their specific work patterns: 'Tell me more about your typical work week - this will help us identify the best study options for your situation.' Share relevant examples while maintaining appropriate boundaries: 'Many professionals in new roles start with a reduced study load in their first trimester, then adjust as they establish their work routines.' Focus on program features that support work-study integration: 'Our online platform is designed for busy professionals, with flexible access that lets you study when it works best for you.' Always keep the discussion centered on enrollment decisions rather than detailed study planning, which becomes available through our learning advisers post-enrollment."
+        }
+      ]
+    }
+  }
+}

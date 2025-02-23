@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 250,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 34,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 13.600000000000001,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 216,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 86.4,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.48446496973492,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 216,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 207.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.0,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Educational Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear progression guidance"
+      },
+      {
+        "headline": "Supportive Transition Guidance",
+        "explanation": "Strong demonstration of how program structure and support systems facilitate transitions between educational stages through strategic validation and clear action planning"
+      },
+      {
+        "headline": "Career Integration Alignment",
+        "explanation": "Effective connection between program benefits and career aspirations, reinforcing student confidence through specific examples and measurable outcomes"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deeper Motivation Exploration",
+        "explanation": "Enhanced investigation needed of specific motivations and preferences to create more personalized educational plans that directly address individual goals"
+      },
+      {
+        "headline": "Comprehensive Support Planning",
+        "explanation": "More detailed discussion required of how specific support mechanisms align with individual student needs throughout their educational journey"
+      },
+      {
+        "headline": "Program-Career Alignment Clarity",
+        "explanation": "Clearer demonstration needed of how specific program features translate into career success through concrete examples and graduate outcomes"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Change Aspiration Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462291325",
+              "segment_id": "38",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want a career change and I want something interesting and fulfilling at the end of it' (call_596462291325, seg_38), revealing critical need for career pathway guidance.",
+          "consultant_response": "Consultant responded: 'Yeah, you'll definitely have a wealth of support around you as well. And the psych course specifically is redesigned from the ground up to be structured to be online' (call_596462291325, seg_59), effectively highlighting program adaptability.",
+          "context_impact": "Critical moment to demonstrate program's alignment with career change aspirations to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of career transition support and concrete program-to-career alignment examples."
+        },
+        {
+          "id": 2,
+          "title": "Educational Bridging Path Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462530367",
+              "segment_id": "18",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I originally, well I still am planning to do a master's in professional psychology, but as I didn't do an honours year...' (call_596462530367, seg_18), seeking clear pathway guidance.",
+          "consultant_response": "Consultant confirmed: 'Yeah, absolutely. Because it does count as your fourth year's Odyssey. So based on your master's enquiry, you're just essentially looking to pick up where you left off' (call_596462530367, seg_22), validating student's strategy.",
+          "context_impact": "Key opportunity to validate educational strategy and provide clear pathway to advanced studies.",
+          "recommended_approach": "Explore specific outcomes and post-graduation pathways to strengthen commitment to program progression."
+        },
+        {
+          "id": 3,
+          "title": "Online Learning Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689151172",
+              "segment_id": "12",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689151172",
+                "segment_id": "20",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I guess I mainly just wanted to know probably the fees and can that be done through HECS and things like that and what the attendance required was and whether it was online' (call_596689151172, seg_12), seeking program structure clarity.",
+          "consultant_response": "Consultant provided comprehensive overview: 'This course is completely online... We've got six teaching periods each year that run for a total of six weeks each, followed by a two-week holiday break' (call_596689151172, seg_20), effectively explaining program structure.",
+          "context_impact": "This moment required clear demonstration of program flexibility and structure to boost enrollment confidence.",
+          "recommended_approach": "Include more specific examples of how current students successfully manage their study schedules and apply flexible learning options."
+        },
+        {
+          "id": 4,
+          "title": "Motivation Exploration Opportunity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462530367",
+              "segment_id": "29",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'And what got you to consider Monash Online this time around?' (call_596462530367, seg_29), opening door for motivation exploration.",
+          "consultant_response": "Consultant provided general program information without exploring student's personal motivations or preferences.",
+          "context_impact": "Key moment to understand and align with student's specific motivations for choosing the institution.",
+          "recommended_approach": "Use probing questions to understand specific motivations and align program features with individual goals."
+        },
+        {
+          "id": 5,
+          "title": "Support System Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462291325",
+              "segment_id": "59",
+              "timestamp": "06:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I need to know what support is available' (call_596462291325, seg_58), seeking clarity on support mechanisms.",
+          "consultant_response": "Consultant provided basic overview without specific examples or personalization to student situation.",
+          "context_impact": "Critical opportunity to detail comprehensive support systems and their alignment with student needs.",
+          "recommended_approach": "Provide detailed examples of support mechanisms and their practical application to student's specific situation."
+        },
+        {
+          "id": 6,
+          "title": "Program-Career Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462291325",
+              "segment_id": "38",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I want something fulfilling at the end of it' (call_596462291325, seg_38), seeking clear career outcome understanding.",
+          "consultant_response": "Consultant provided general assurance without specific examples linking program elements to career success.",
+          "context_impact": "Key moment to demonstrate clear connection between program features and career outcomes.",
+          "recommended_approach": "Provide concrete examples and success stories showing how program features directly support career outcomes."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Change Aspiration Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462291325",
+              "segment_id": "38",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student articulated clear career change aspirations, stating: 'I want a career change and I want something interesting and fulfilling at the end of it' (call_596462291325, seg_38). This statement revealed both a strong motivation for study and a need for clear guidance on how the program could facilitate their professional transition. The explicit connection between education and career fulfillment presented a crucial opportunity for collaborative planning.",
+          "consultant_response": "The consultant demonstrated understanding by highlighting program adaptability and support: 'Yeah, you'll definitely have a wealth of support around you as well. And the psych course specifically is redesigned from the ground up to be structured to be online' (call_596462291325, seg_59). This response effectively aligned program features with the student's career transition needs, emphasizing both the structured support and modern program design that would facilitate their journey.",
+          "priority": "high",
+          "recommended_approach": "When engaging with career change aspirants, begin by acknowledging their desire for meaningful professional transition while validating their choice to pursue education as a pathway. Frame the discussion around how specific program elements support career transitions: 'I understand you're looking for a fulfilling career change. Let's explore how our program's design specifically supports professionals making this transition.' Guide the conversation to include both immediate course benefits and longer-term career implications. Share concrete examples of how current students balance career transition demands: 'Many of our students use the online flexibility to maintain their current work while building towards their new career.' Pay particular attention to incorporating support mechanisms that specifically address career transition challenges, such as professional networking opportunities and career services. When students express uncertainty about the transition process, provide reassurance through specific examples of successful career changers, while maintaining realistic expectations about the journey ahead. For instance, share how recent graduates have successfully transitioned: 'One of our recent graduates started in a completely different field, and used our program's flexible study options to complete her qualification while working. She's now practicing as a registered psychologist.'"
+        },
+        {
+          "id": 2,
+          "title": "Educational Bridging Path Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462530367",
+              "segment_id": "18",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a clear understanding of their educational needs: 'I originally, well I still am planning to do a master's in professional psychology, but as I didn't do an honours year as part of my bachelor degree, I need to, you know, do the bridging course' (call_596462530367, seg_18). This articulation of their specific pathway requirements presented a prime opportunity for collaborative planning to ensure their educational journey aligned with their professional goals.",
+          "consultant_response": "The consultant validated the student's strategy while confirming the program's suitability: 'Yeah, absolutely. Because it does count as your fourth year's Odyssey. So based on your master's enquiry, you're just essentially looking to pick up where you left off' (call_596462530367, seg_22). This response effectively acknowledged the student's understanding while reinforcing the program's role as a bridge to their desired master's degree.",
+          "priority": "high",
+          "recommended_approach": "When working with students seeking bridging pathways, start by affirming their understanding of educational requirements while ensuring accuracy: 'I can see you've researched the pathway to your master's degree carefully. Let's confirm how our program aligns with those requirements.' Guide the discussion to explore specific aspects of the transition: 'What specific areas of psychology interest you most for your master's studies?' This helps tailor the conversation to their professional interests while validating their chosen path. Be prepared to discuss course intensity and workload management: 'Many students find starting with one unit helps them adjust to post-graduate expectations.' Address any concerns about the transition between programs, providing specific examples of successful progressions: 'One of our current students completed our program last year and is now excelling in their master's studies, particularly because of the research skills they developed in our program.' When students express confidence in their path, reinforce their strategy while ensuring they understand all support resources available: 'Your plan aligns well with our program structure, and you'll have access to academic support throughout your journey, including research supervisors who can help prepare you for master's level work.'"
+        },
+        {
+          "id": 3,
+          "title": "Online Learning Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689151172",
+              "segment_id": "12",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689151172",
+                "segment_id": "20",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "The student sought comprehensive understanding of program structure and delivery: 'I guess I mainly just wanted to know probably the fees and can that be done through HECS and things like that and what the attendance required was and whether it was online' (call_596689151172, seg_12). This multi-faceted query revealed the need to clearly demonstrate how online learning integrates with their circumstances.",
+          "consultant_response": "The consultant provided a detailed and structured response: 'This course is completely online... We've got six teaching periods each year that run for a total of six weeks each, followed by a two-week holiday break. For a period of six weeks, you'll only focus on one unit at a time online' (call_596689151172, seg_20). This comprehensive explanation effectively demonstrated program flexibility while providing concrete details about structure and expectations.",
+          "priority": "high",
+          "recommended_approach": "When explaining online learning structure, begin by acknowledging the importance of understanding how it works in practice. Start with 'Let me show you exactly how our online learning format supports successful study.' Then walk through specific program features: 'Our six-week teaching periods let you focus intensively on one subject at a time, which many students find more manageable.' Share real examples of how current students succeed: 'Many students download their weekly materials on Sunday evening, then structure their study around work commitments since there are no fixed class times.' Demonstrate how the flexible format supports different learning styles: 'You can access lectures on your commute, participate in discussions during lunch breaks, or complete readings in the evening - whatever works best for your schedule.' Pay particular attention to explaining how online tools facilitate learning: 'Our interactive platform lets you engage with materials in various ways, from video lectures to discussion forums, ensuring you're fully supported regardless of how you prefer to learn.'"
+        },
+        {
+          "id": 4,
+          "title": "Motivation Exploration Opportunity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462530367",
+              "segment_id": "29",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student initiated an opportunity for deeper discussion by asking: 'And what got you to consider Monash Online this time around?' (call_596462530367, seg_29). This question opened a door to explore their specific motivations and preferences, potentially revealing valuable insights for personalizing their educational journey.",
+          "consultant_response": "Instead of probing deeper into personal motivations, the consultant provided general program information. This surface-level response missed the opportunity to understand and align with the student's specific drivers for choosing Monash Online.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in understanding program choice, use this as an opportunity to explore their personal motivations deeply. Begin with acknowledgment: 'That's an excellent question that shows you're thinking carefully about your educational choices.' Follow with probing questions that reveal specific motivations: 'What aspects of psychology particularly interest you?' or 'How do you see this program fitting into your longer-term career plans?' Use their responses to create meaningful connections between their goals and program features: 'Given your interest in clinical practice, let me show you how our program specifically prepares students for that path. For instance, our research methods unit includes practical applications in clinical settings.' Pay attention to both explicit and implicit motivations, addressing both practical concerns and aspirational goals. For students who seem hesitant, offer stories of similar students who've succeeded: 'Many of our current students shared similar goals. One recent graduate was particularly interested in child psychology and used her research project to explore early intervention strategies, which helped secure her current role in family therapy.' The key is transforming a general inquiry into a meaningful discussion about personal motivations and program alignment, always grounding examples in real student experiences and outcomes."
+        },
+        {
+          "id": 5,
+          "title": "Support System Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462291325",
+              "segment_id": "59",
+              "timestamp": "06:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a need for clarity about support systems: 'I need to know what support is available' (call_596462291325, seg_58). This direct request presented an opportunity to detail how comprehensive support mechanisms could enhance their educational experience and success.",
+          "consultant_response": "The consultant provided only a basic overview of support systems without delving into specific examples or personalizing the information to the student's situation. This surface-level response missed the opportunity to demonstrate how support systems could directly address their individual needs.",
+          "priority": "high",
+          "recommended_approach": "When discussing support systems, start by acknowledging the importance of comprehensive support in online education: 'Understanding available support is crucial for your success, so let me walk you through how our systems work together.' Then, provide specific examples tailored to the student's situation: 'For instance, if you're studying while working, our online learning advisors can help you develop effective time management strategies. One of our current students works full-time in healthcare and worked with their advisor to create a study schedule that fits around shift work.' Detail each support mechanism's practical application: 'Our technical support team is available 24/7, so if you're studying late after work and need help accessing materials, they're there to assist. Last week, they helped a student resolve an issue with accessing video content during their night shift study session.' Use success stories to illustrate support effectiveness: 'One of our current students recently shared how working with their academic advisor helped them improve their research writing skills, leading to distinction-level grades in their latest assessment.' Be attentive to specific concerns and adjust the focus accordingly, whether it's academic support, technical assistance, or career guidance. The goal is to make support systems tangible and relevant to their individual journey, always grounding explanations in real examples and practical applications."
+        },
+        {
+          "id": 6,
+          "title": "Program-Career Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462291325",
+              "segment_id": "38",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a desire for fulfilling career outcomes: 'I want something fulfilling at the end of it' (call_596462291325, seg_38). This statement presented an opportunity to clearly demonstrate how program features directly support specific career outcomes.",
+          "consultant_response": "The consultant provided general assurance without specific examples of how program elements connect to career success. This generic response missed the opportunity to create clear links between program features and career objectives.",
+          "priority": "high",
+          "recommended_approach": "When addressing career alignment, begin by acknowledging the student's desire for meaningful outcomes: 'I understand you're looking for a program that leads to fulfilling career opportunities, so let me show you exactly how our course elements support that goal.' Then, create explicit connections between program features and career outcomes: 'Our advanced research methods unit, for example, develops skills that our graduates regularly use in clinical practice. One recent graduate applied these skills to develop an innovative treatment approach at their youth counseling center.' Share specific success stories: 'A recent graduate used her final project to develop expertise in cognitive behavioral therapy, which directly led to her current role in youth counseling. She particularly valued how our online collaboration tools prepared her for telehealth delivery.' Detail how different program components build career-relevant skills: 'The online collaboration tools we use mirror the telehealth platforms increasingly used in professional practice. Last trimester, students conducted mock therapy sessions using these tools, gaining practical experience that directly translates to modern clinical work.' Be attentive to the student's specific career interests, adjusting examples to align with their goals. For those uncertain about exact career paths, demonstrate the program's flexibility: 'While many graduates enter clinical practice, others have used these skills to succeed in organizational psychology or research roles. For instance, one graduate now leads workplace wellness programs for a major corporation, applying both clinical skills and research methodology in a corporate setting.' The key is making career outcomes tangible through specific examples and clear connections to program elements, always grounding discussion in real graduate experiences and achievements."
+        }
+      ]
+    }
+  }
+}

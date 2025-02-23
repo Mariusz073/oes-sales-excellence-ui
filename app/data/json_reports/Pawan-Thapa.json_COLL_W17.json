@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 242,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.206611570247933,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 181,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.79338842975206,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 58.4575985023054,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 181,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 101.93,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 79.56,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through tailored solutions and clear progression plans"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical solutions backed by specific examples from successful students"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Effective incorporation of available support mechanisms into planning discussions while maintaining appropriate pre-enrollment boundaries and demonstrating comprehensive accessibility"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals while maintaining appropriate boundaries and realistic expectations"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways, timeline planning, and proactive problem-solving support mechanisms"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks including specific transition strategies and confidence-building approaches"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343547181",
+              "segment_id": "107",
+              "timestamp": "25:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I want to advance my career but it's hard to find time for study with my fly-in fly-out job' (call_596343547181, seg_107), revealing anxiety about managing study with demanding work schedule.",
+          "consultant_response": "Consultant provided practical solution: 'So if it is recorded... you can come back to it and watch the video again and once again is that two weeks off that you have, you can run it on your own pace' (call_596343547181, seg_116), effectively showing real-world study flexibility.",
+          "context_impact": "This moment required clear demonstration of program flexibility to maintain enrollment momentum for a student with significant scheduling constraints.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current FIFO workers to make flexibility more tangible and demonstrate proven pathways to success."
+        },
+        {
+          "id": 2,
+          "title": "Career Advancement Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596688977830",
+              "segment_id": "14",
+              "timestamp": "1:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Actually, I'm an engineer and had experience about 15 years but I couldn't manage any good position' (call_596688977830, seg_14), revealing career advancement as key motivation.",
+          "consultant_response": "Consultant responded: 'Now this qualification...will give you that qualification so that it looks good in your CV as well. And you do understand the fundamentals of project management as well' (call_596688977830, seg_28).",
+          "context_impact": "This moment required demonstrating how educational qualifications could unlock better career opportunities while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Create stronger connections between program outcomes and specific career advancement opportunities while maintaining consultation boundaries and focusing on program benefits."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412602831",
+              "segment_id": "45",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596412602831, seg_45), revealing anxiety about academic readiness.",
+          "consultant_response": "Consultant validated concern and explored strengths: 'That's a common concern for many of our successful students. Could you tell me about what you've been doing professionally during that time?' (call_596412602831, seg_75)",
+          "context_impact": "Addressing return-to-study concerns directly influences enrollment confidence and commitment.",
+          "recommended_approach": "Develop more specific examples connecting professional experience to academic success scenarios while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465044341",
+              "segment_id": "48",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Yeah I can ask that's why because I'm not doing it anymore and my account with them is not like accessible' (call_596465044341, seg_48), highlighting documentation access challenges.",
+          "consultant_response": "Consultant stated: 'Yeah, so for that one, this, so we do require an official from them, so this is just an email' (call_596465044341, seg_56), focusing mainly on requirements rather than solutions.",
+          "context_impact": "Document accessibility issues presented critical barrier to enrollment completion requiring immediate problem-solving support.",
+          "recommended_approach": "Develop comprehensive documentation support strategy including alternative pathways, proactive problem-solving guidance, and clear timeline planning."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554821410",
+              "segment_id": "54",
+              "timestamp": "6:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I think it's a bit too expensive for me just to pay it upfront, so I think I'll probably give that a miss' (call_596554821410, seg_54), indicating financial concerns as significant barrier.",
+          "consultant_response": "Consultant provided basic cost information without exploring available financial assistance pathways or payment flexibility options.",
+          "context_impact": "Critical moment requiring comprehensive exploration of financial support options to prevent loss of qualified student.",
+          "recommended_approach": "Proactively explore full range of financial assistance options including FEE-HELP, payment plans, and employer sponsorship opportunities with specific examples and clear pathways."
+        },
+        {
+          "id": 6,
+          "title": "Study Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554585804",
+              "segment_id": "78",
+              "timestamp": "5:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Attendance is not required. Your support is available from 8 in the morning till 9 p.m.' (call_596554585804, seg_78), revealing need to understand support accessibility.",
+          "consultant_response": "Consultant provided comprehensive details: 'So you can view the next day. Your support is available from 8 in the morning till 9 p.m. Monday to Friday and then on Saturdays and Sundays they're available from 9 a.m. to 6 p.m. as well' (call_596554585804, seg_76).",
+          "context_impact": "Clear support hours information directly impacts student confidence in managing studies alongside other commitments.",
+          "recommended_approach": "Include specific examples of how current students successfully utilize different support time slots while maintaining appropriate boundaries and focusing on pre-enrollment guidance."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343547181",
+              "segment_id": "107",
+              "timestamp": "25:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the interaction, the student expressed significant concern about managing their studies alongside their FIFO work schedule: 'I want to advance my career but it's hard to find time for study with my fly-in fly-out job' (call_596343547181, seg_107). This statement revealed both career ambition and practical anxiety about managing the demands of both work and study. The moment was particularly crucial as it represented a potential barrier to enrollment if not addressed effectively.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning skills by providing a detailed explanation of how the program's flexibility could accommodate the student's unique work schedule: 'So if it is recorded so even if you miss as an example. You'll get in. Yeah you can come back to it and watch the video again and once again is that two weeks off that you have, you can run it on your own pace' (call_596343547181, seg_116). This response effectively addressed the student's concerns by outlining specific features like recorded lectures and flexible study pacing that would enable successful study alongside their FIFO commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about balancing FIFO work schedules with study, begin by acknowledging the unique challenges these students face while immediately pivoting to practical solutions. Start with understanding their roster structure: 'Could you tell me about your typical swing - how many weeks on and off site?' This allows for tailored examples: 'Many of our FIFO students download their materials during their off weeks, then use quiet periods during night shifts for focused study.' Share specific strategies that have worked for other FIFO students, such as completing assignments during off-swing weeks and utilizing recorded lectures for flexibility. When discussing support services, emphasize their availability during both on and off-site periods. Pay particular attention to detailing offline access capabilities for remote work locations, and explain how asynchronous learning allows for study pattern adjustments based on changing rosters. The goal is to transform their FIFO schedule from a perceived barrier into a workable study structure, always grounding examples in real-world scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Career Advancement Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596688977830",
+              "segment_id": "14",
+              "timestamp": "1:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant career aspirations when stating 'Actually, I'm an engineer and had experience about 15 years but I couldn't manage any good position' (call_596688977830, seg_14). This disclosure highlighted both extensive experience and career advancement challenges, presenting an opportunity to demonstrate how the program could support professional growth while maintaining appropriate guidance boundaries.",
+          "consultant_response": "The consultant positioned the qualification as a career enhancement tool: 'Now this qualification...will give you that qualification so that it looks good in your CV as well. And you do understand the fundamentals of project management as well' (call_596688977830, seg_28). This response effectively linked educational outcomes to career advancement while staying within appropriate consultation boundaries.",
+          "priority": "high",
+          "recommended_approach": "When addressing career advancement motivations, start by acknowledging the student's professional experience while maintaining appropriate boundaries. Begin with validation: 'Your engineering background provides a strong foundation. Let's explore how this qualification can enhance your professional profile.' Then focus on program outcomes: 'Our program develops advanced skills in areas like project management and leadership, which many professionals find valuable for career progression.' Share general examples while maintaining boundaries: 'Many of our graduates have successfully transitioned into senior roles, leveraging both their experience and new qualifications.' The key is demonstrating program value for career advancement while avoiding specific career coaching or advice, maintaining appropriate pre-enrollment consultation boundaries throughout the discussion."
+        },
+        {
+          "id": 3,
+          "title": "Return to Study Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412602831",
+              "segment_id": "45",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 45 of call 596412602831, the student expressed a common concern: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This moment represented a critical opportunity to address anxiety about returning to education after a significant gap, revealing both interest in continuing education and apprehension about academic readiness.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding: 'That's a common concern for many of our successful students. Could you tell me about what you've been doing professionally during that time?' This approach effectively validated the student's concerns while pivoting to explore how their professional experience could be an asset.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study after an extended break, begin by normalizing these feelings while highlighting how professional experience often enhances academic success. Start with validation: 'Your work experience brings valuable perspectives to your studies.' Then explore specific aspects of their professional background that align with academic skills - for example, if they've managed projects, discuss how this relates to assignment planning. Create a dialogue that helps students recognize how their professional skills translate to academic success: 'Many of our most successful students find their work experience gives them practical contexts for theoretical concepts.' Throughout the discussion, maintain appropriate boundaries by focusing on program features and learning support rather than detailed study planning."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465044341",
+              "segment_id": "48",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the interaction, the student expressed significant challenges with documentation access, stating 'Yeah I can ask that's why because I'm not doing it anymore and my account with them is not like accessible' (call_596465044341, seg_48). This revealed a critical barrier to enrollment progress, as the student was struggling to obtain necessary documentation from a previous institution.",
+          "consultant_response": "The consultant's response focused primarily on requirements rather than solutions: 'Yeah, so for that one, this, so we do require an official from them, so this is just an email' (call_596465044341, seg_56). This approach missed the opportunity to actively engage in problem-solving or explore alternative documentation options.",
+          "priority": "high",
+          "recommended_approach": "When students face documentation access challenges, provide immediate support with clear alternative pathways. Begin with empathetic acknowledgment: 'I understand accessing these documents can be challenging, especially with inactive accounts. Let's explore alternative options together.' Then outline specific solutions: 'While we need official documentation, there are several ways to obtain this. Many institutions have specific processes for alumni document requests, or we might be able to accept alternative verification forms.' Create clear action plans: 'Let's start with a direct request to their records office, and I can show you our alternative documentation pathways if needed.' Throughout the conversation, maintain forward momentum while preparing students for possible challenges and solutions."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554821410",
+              "segment_id": "54",
+              "timestamp": "6:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concerns about program affordability: 'I think it's a bit too expensive for me just to pay it upfront, so I think I'll probably give that a miss' (call_596554821410, seg_54). This statement indicated financial concerns as a potential enrollment barrier requiring immediate attention.",
+          "consultant_response": "The consultant provided only basic cost information without exploring available financial support options or payment plans. This missed opportunity to engage in collaborative financial planning left the student without clear understanding of how to make the program financially accessible.",
+          "priority": "high",
+          "recommended_approach": "When students express financial concerns, transform the discussion into a comprehensive exploration of support options and payment pathways. Begin with acknowledging the investment while immediately introducing solutions: 'While the total program investment is significant, we have several ways to make this manageable. Let's explore what might work best for your situation.' Guide the discussion through available options like FEE-HELP, payment plans, and potential employer support, always maintaining appropriate boundaries regarding specific financial advice. Share general examples: 'Many students combine FEE-HELP with flexible payment arrangements to make their investment manageable.' The goal is to transform financial concerns from enrollment barriers into manageable aspects of their educational journey."
+        },
+        {
+          "id": 6,
+          "title": "Study Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554585804",
+              "segment_id": "78",
+              "timestamp": "5:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 78 of call 596554585804, the student was evaluating support mechanisms when stating: 'Attendance is not required. Your support is available from 8 in the morning till 9 p.m.' This represented a crucial moment for demonstrating how the program's support structure could accommodate various student needs and schedules.",
+          "consultant_response": "The consultant effectively provided comprehensive details: 'So you can view the next day. Your support is available from 8 in the morning till 9 p.m. Monday to Friday and then on Saturdays and Sundays they're available from 9 a.m. to 6 p.m. as well.' This response successfully demonstrated the extensive availability of support services.",
+          "priority": "high",
+          "recommended_approach": "When discussing support availability, begin by acknowledging the importance of flexible support in student success while maintaining clear role boundaries. Frame the conversation around how support hours accommodate different student situations - explaining how early morning support helps students review materials before work, or how evening hours enable post-work study sessions. Share specific examples of how current students utilize different support windows: 'Many of our healthcare students connect with advisors during break times' or 'Working parents often prefer evening sessions after their children are asleep.' This makes the support structure tangible rather than theoretical. Additionally, highlight how weekend availability provides backup for busy weekday schedules, demonstrating understanding of work-life-study balance while maintaining appropriate pre-enrollment boundaries."
+        }
+      ]
+    }
+  }
+}

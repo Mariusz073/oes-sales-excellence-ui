@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "consultant_name": "Sebastian Saunders",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 247,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 86,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 34.81781376518219,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 161,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 65.18218623481782,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.32345414534417,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 161,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 138.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.05,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways by balancing immediate constraints with long-term aspirations while maintaining clear role boundaries and enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of program adaptability to accommodate diverse circumstances including military service, shift work, and major life transitions with practical, specific solutions"
+      },
+      {
+        "headline": "Support System Integration",
+        "explanation": "Clear demonstration of available accommodations and support services, with effective processes for accessing assistance while maintaining appropriate pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements and course structures align with specific career goals and workplace advancement opportunities through detailed discussion"
+      },
+      {
+        "headline": "Proactive Needs Assessment",
+        "explanation": "Stronger emphasis required on proactively exploring and addressing student questions, concerns, and support requirements through comprehensive collaborative dialogue"
+      },
+      {
+        "headline": "Long-term Goal Integration",
+        "explanation": "More comprehensive discussion required of how current enrollment choices align with future academic and career aspirations to ensure optimal pathway selection"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Military Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412764251",
+              "segment_id": "45",
+              "timestamp": "02:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'The reason I'm doing the online course is because I'll be moving to Singapore to serve the military service there' (call_596412764251, seg_45), revealing critical need for flexible study options during service.",
+          "consultant_response": "Consultant effectively addressed concerns: 'Moving overseas won't affect your ability to get a HECS loan, won't change your fees as an Australian citizen' (call_596412764251, seg_146), providing clear practical and financial reassurance.",
+          "context_impact": "Critical opportunity to demonstrate program flexibility for significant life transitions affecting enrollment decision.",
+          "recommended_approach": "Include more specific examples of how other students successfully manage studies during military service and detail available offline study options."
+        },
+        {
+          "id": 2,
+          "title": "Support Services Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616709183",
+              "segment_id": "58",
+              "timestamp": "2:17"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I have a hearing impairment and an intellectual disability but is there support surrounding that' (call_596616709183, seg_58), seeking reassurance about accessibility support.",
+          "consultant_response": "Consultant provided reassurance: 'Yeah certainly there is support available and so I can put this down on your enrolment form' (call_596616709183, seg_60), establishing clear next steps for support access.",
+          "context_impact": "Crucial opportunity to demonstrate institutional commitment to inclusive support and comprehensive accommodation services.",
+          "recommended_approach": "Provide more specific examples of available support services and detail how they've successfully supported students with similar needs."
+        },
+        {
+          "id": 3,
+          "title": "Educational Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689044434",
+              "segment_id": "11",
+              "timestamp": "00:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So what is the pathway to becoming, like, studying that post-grad diploma?' (call_596689044434, seg_11), seeking clarity on their educational journey.",
+          "consultant_response": "Consultant effectively explored options: 'Have you done any studies previously, like have you done a bachelor's degree before [...] So, we have two options' (call_596689044434, seg_15), tailoring pathways to student's background.",
+          "context_impact": "Critical moment for demonstrating program flexibility and building enrollment confidence through clear pathway guidance.",
+          "recommended_approach": "Include more proactive exploration of how each pathway specifically aligns with career goals and professional development plans."
+        },
+        {
+          "id": 4,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465054580",
+              "segment_id": "72",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'And so do most people do the lines like 3-3-2 or something?' (call_596465054580, seg_72), seeking clarity on typical study pathways.",
+          "consultant_response": "Consultant provided basic information about unit structure without exploring personal circumstances or support options.",
+          "context_impact": "Opportunity to demonstrate program flexibility and build confidence in managing study load.",
+          "recommended_approach": "Engage in collaborative discussion about individual study preferences, circumstances, and available support mechanisms for successful study load management."
+        },
+        {
+          "id": 6,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412696273",
+              "segment_id": "34",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted: 'Sorry, and the other one is just five' (call_596412696273, seg_34), comparing program structure options.",
+          "consultant_response": "Consultant provided basic information without exploring alignment with student's professional goals or career aspirations.",
+          "context_impact": "Critical opportunity to connect course choices with long-term career objectives and professional development goals.",
+          "recommended_approach": "Engage in detailed discussion of how each program structure option specifically supports career advancement goals and professional development plans."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Military Service Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412764251",
+              "segment_id": "45",
+              "timestamp": "02:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in call 596412764251 (segment 45), the student revealed significant life changes affecting their study plans: 'The reason I'm doing the online course is because I'll be moving to Singapore to serve the military service there.' This disclosure presented a prime opportunity for collaborative planning, requiring careful consideration of how educational goals could align with military service obligations while maintaining study momentum.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by directly addressing both practical and financial concerns: 'Moving overseas won't affect your ability to get a HECS loan, won't change your fees as an Australian citizen' (segment 146). This response effectively validated the student's chosen path while providing crucial information about maintaining domestic student status abroad, transforming potential barriers into manageable considerations.",
+          "priority": "high",
+          "recommended_approach": "When addressing major life transitions like military service, begin by acknowledging the significance of the commitment while immediately connecting it to educational possibilities: 'I appreciate you sharing these plans - let's explore how our program can support your goals during service.' Focus on specific features that accommodate international study: flexible deadlines, offline access, and asynchronous learning. Share examples of other students successfully managing military service while studying: 'Many of our students serve while studying - they often download materials during reliable internet access periods and complete work offline.' Proactively address common concerns about studying abroad - internet access, time zones, and assessment submissions. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access ensures study can continue even with variable internet connectivity. When discussing financial aspects, clearly outline how domestic student benefits remain intact regardless of location: 'Your HECS-HELP eligibility and fee structure stay the same, ensuring consistent support throughout your service.' The goal is transforming what might seem like obstacles into manageable aspects of their educational journey, always grounding explanations in practical examples that resonate with their specific situation."
+        },
+        {
+          "id": 2,
+          "title": "Support Services Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616709183",
+              "segment_id": "58",
+              "timestamp": "2:17"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed specific needs by stating: 'I have a hearing impairment and an intellectual disability but is there support surrounding that' (call_596616709183, seg_58). This disclosure demonstrated trust and a need for clear understanding of available support mechanisms, presenting a crucial opportunity to demonstrate the institution's commitment to inclusive education.",
+          "consultant_response": "The consultant provided reassurance and next steps: 'Yeah certainly there is support available and so I can put this down on your enrolment form and so that our student advisors for a current student support and they can refer you to the support services that we offer after your enrolment has been processed' (call_596616709183, seg_60). This response acknowledged the student's needs and outlined a clear process for accessing support.",
+          "priority": "high",
+          "recommended_approach": "When students disclose disabilities or specific support needs, respond with both empathy and practical guidance. Begin by validating their disclosure: 'Thank you for sharing that information - it helps us ensure you have the right support from day one.' Then outline specific support services: 'We have a dedicated accessibility team that can provide accommodations like assistive technology for lectures, flexible assessment arrangements, and specialized academic support.' Provide clear next steps: 'Let me walk you through exactly how we'll connect you with our support services.' For instance, explain: 'Many students with similar needs have benefited from our screen reader compatibility for online materials and flexible assessment timing options.' The key is demonstrating both immediate understanding and a clear pathway to support. Include specific examples of how similar students have succeeded with these accommodations: 'One of our current students uses our captioning service for video content and has found it greatly enhances their learning experience.' When discussing the registration process, be specific: 'Once we note your requirements on the enrollment form, our accessibility team will reach out within [timeframe] to develop your personalized support plan.' Throughout the conversation, maintain appropriate boundaries about detailed support planning that happens post-enrollment while ensuring students feel confident in the available support structures."
+        },
+        {
+          "id": 3,
+          "title": "Educational Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689044434",
+              "segment_id": "11",
+              "timestamp": "00:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student initiated pathway exploration by asking 'So what is the pathway to becoming, like, studying that post-grad diploma?' (call_596689044434, seg_11). This question revealed both interest and uncertainty about their educational journey, presenting a crucial opportunity for collaborative planning that could significantly influence their enrollment choice.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by first establishing context: 'Have you done any studies previously, like have you done a bachelor's degree before?' They then outlined clear options: 'So, we have two options. One, if your studies are from more than 20 years ago, I'd need to seek approval from the program director for entering the graduate diploma... The other option we'd have would just be doing the Bachelor of Psychological Sciences' (call_596689044434, seg_15). This approach showed strong alignment with collaborative planning principles by tailoring pathways to the student's background.",
+          "priority": "high",
+          "recommended_approach": "When exploring educational pathways, start by acknowledging the student's proactive approach: 'I appreciate you thinking ahead about your educational journey.' Follow with targeted questions about their background and goals: 'Let's explore your previous education and career experience to identify the most suitable pathway.' Transform pathway exploration into a collaborative process by connecting options to their specific circumstances: 'Based on your background in [field], here's how each pathway could align with your goals.' Frame requirements as stepping stones rather than barriers: 'These requirements ensure you're well-prepared for success in the program.' When discussing pathway options, provide specific examples: 'Many students with similar backgrounds have found success by starting with our Graduate Certificate, which provides a strong foundation for the diploma while letting you test the waters.' Throughout the discussion, maintain a balance between providing clear guidance and encouraging student input, always connecting pathway choices to their expressed goals and aspirations. Regular check-ins ensure understanding: 'How does this pathway align with what you envisioned for your educational journey?' The key is making each step tangible while demonstrating how it builds toward their larger educational goals."
+        },
+        {
+          "id": 4,
+          "title": "Flexible Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). The consultant effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465054580",
+              "segment_id": "72",
+              "timestamp": "04:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596465054580 (segment 72), the student sought guidance on typical study patterns, asking: 'And so do most people do the lines like 3-3-2 or something?' This question revealed their desire to understand common study approaches and potentially align their own planning with successful patterns, presenting an opportunity for personalized study load guidance.",
+          "consultant_response": "While the consultant provided basic information about unit structure, they missed the opportunity to engage in deeper collaborative planning about the student's specific circumstances and needs. The response focused primarily on standard patterns rather than exploring how these could be tailored to the student's situation or what support services could help manage their chosen study load.",
+          "priority": "high",
+          "recommended_approach": "Effective study load planning requires transforming standard course structures into personalized learning pathways. Begin by acknowledging the student's proactive thinking: 'It's great that you're considering different study patterns. Let's explore what might work best for your situation.' Guide the discussion toward understanding their specific circumstances: 'Could you tell me about your current work and personal commitments?' Share examples of successful approaches while emphasizing flexibility: 'While many students start with two units to establish strong study habits, others maintain three units throughout. For example, one of our current students working full-time found starting with two units helped them develop effective study routines.' When discussing support services, make them tangible: 'Our learning coaches can help you develop study schedules that work around your commitments, and our online resources are available 24/7 for those times when you need additional support.' Regular check-ins ensure alignment: 'How does this study pattern feel in relation to your other commitments?' The goal is empowering students to choose a study load that optimizes their success while feeling supported in their decision: 'Remember, we can adjust your study load as your circumstances change - many students find their confidence and capacity increases after their first study period.'"
+        },
+        {
+          "id": 6,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412696273",
+              "segment_id": "34",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's comment 'Sorry, and the other one is just five' (call_596412696273, seg_34) indicated they were actively comparing course options and seeking to understand their choices better. This moment presented a crucial opportunity to explore how different program structures could align with their academic and professional goals, potentially influencing their enrollment decision and long-term satisfaction with the program.",
+          "consultant_response": "The consultant provided basic information about the options but missed the opportunity to engage in deeper discussion about how each choice aligned with the student's career goals and aspirations. This surface-level response left potential questions unanswered and didn't fully address the implications of each option for the student's professional development journey.",
+          "priority": "high",
+          "recommended_approach": "Transform course structure discussions into meaningful explorations of student goals and aspirations. Begin by acknowledging their active comparison: 'I appreciate you're carefully considering these options - let's explore how each could support your career goals.' Guide the conversation toward deeper understanding: 'What aspects of your professional development are most important when choosing between these options?' When discussing specific structures, connect them to career outcomes: 'The five-course option might benefit professionals focusing on [specific career path], while seven courses could be ideal for those aiming to [different career outcome].' Share real examples: 'One of our recent graduates chose the five-course structure because it aligned perfectly with their goal of [specific career outcome].' Use probing questions throughout: 'How do you see these different structures fitting with your current role and future career plans?' Regular check-ins ensure alignment: 'Based on your goal of [specific aspiration], how does this option resonate with your professional development timeline?' The key is making each choice's career impact tangible while demonstrating how it supports their specific professional development goals: 'Many professionals in your field have found that this structure particularly benefits their career progression by [specific example].' Throughout the discussion, maintain focus on long-term career benefits while helping students see clear connections between program choices and professional outcomes."
+        }
+      ]
+    }
+  }
+}
