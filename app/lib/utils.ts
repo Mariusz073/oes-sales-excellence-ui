@@ -14,8 +14,5 @@ export function getCollaborativePercentageScore(
 export function getHighPerformanceColor(
   resultStr: string | undefined
 ): string | undefined {
-  if (!resultStr) return undefined;
-  const match = resultStr.match(/\((\d+(?:\.\d+)?)%\)/);
-  const percentage = match ? parseFloat(match[1]) : 0;
-  return percentage >= 90 ? "#4ade80" : undefined; // bright green if >= 90%
+  return "white"; // Always return white color
 }
