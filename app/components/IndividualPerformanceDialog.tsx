@@ -82,17 +82,20 @@ export const IndividualPerformanceDialog = ({
   const getSquareColor = (
     index: number,
     total: number,
-    isAboveAverage: boolean
+    isAboveAverage: boolean,
+    consultant: Consultant
   ) => {
-    const baseColor = isAboveAverage
-      ? showNonCompliance
-        ? "#FF6B8A"
-        : "#78c38e" // Red : Green
-      : showNonCompliance
-      ? "#78c38e"
-      : "#FF6B8A"; // Green : Red
+    const resultStr = consultant.result || consultant.percentage_high_need;
+    const percentage = parseFloat(
+      resultStr?.match(/\((\d+(?:\.\d+)?)%\)/)?.[1] || "0"
+    );
+    
+    // Always use compliance percentage for color threshold
+    const baseColor = percentage >= 90
+      ? "#78c38e" // Green for ≥90% compliance
+      : "#FF6B8A"; // Red for <90% compliance
 
-    // Calculate opacity based on position
+    // Calculate opacity based on position (maintain gradient style)
     const relativePosition = isAboveAverage
       ? index / teamAverageIndex
       : (index - teamAverageIndex) / (total - teamAverageIndex);
@@ -164,7 +167,8 @@ export const IndividualPerformanceDialog = ({
                       backgroundColor: getSquareColor(
                         index,
                         sortedConsultants.length,
-                        true
+                        true,
+                        consultant
                       ),
                     }}
                   >
@@ -228,7 +232,8 @@ export const IndividualPerformanceDialog = ({
                       backgroundColor: getSquareColor(
                         index + teamAverageIndex,
                         sortedConsultants.length,
-                        false
+                        false,
+                        consultant
                       ),
                     }}
                   >
