@@ -1,0 +1,355 @@
+import CreatePdfButton from "../components/CreatePdfButton";
+import { EnrolmentReportData } from "../types/types";
+
+export default function EnrolmentReportPage({
+  reportData,
+}: {
+  reportData: EnrolmentReportData;
+}) {
+
+  return (
+    <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
+      <div className="max-w-5xl mx-auto">
+        {/* Sticky Header */}
+        <div className="sticky top-0 z-50 bg-[#1E1E1E] pt-8">
+          {/* Header */}
+          <div className="mb-8">
+            <h1 className="text-5xl whitespace-nowrap">
+              <span className="text-[#FF6B8A] font-semibold">
+                {reportData.metadata.consultant_name} |
+              </span>
+              <span className="text-white text-4xl">
+                {" "}
+                {reportData.metadata.report_type}
+              </span>
+            </h1>
+            <p className="text-xl italic text-[#a6a6a6] mt-4">
+              Week {reportData.metadata.week_number}:{" "}
+              {reportData.metadata.date_range}
+            </p>
+          </div>
+
+          {/* Divider */}
+          <div className="border-t border-[#a6a6a6] my-8"></div>
+        </div>
+
+        {/* Stats Table */}
+        <div className="bg-[#252525] rounded-lg px-10 pb-10">
+          {/* Stats Title */}
+          <h2 className="text-2xl font-medium pt-8 mb-8">
+            Your week in numbers:
+          </h2>
+
+          <table className="w-full border-separate border-spacing-x-6">
+            <thead>
+              <tr>
+                <th className="text-left pb-8 w-12">
+                  <span className="sr-only">Category</span>
+                </th>
+                <th className="text-center pb-8 w-1/3">
+                  <div className="bg-[#303030] rounded px-4 py-6 text-xl font-normal">
+                    consultation %
+                  </div>
+                </th>
+                <th className="text-center pb-8 w-1/3">
+                  <div className="bg-[#303030] rounded px-4 py-6 text-xl font-normal">
+                    attempted close %
+                  </div>
+                </th>
+                <th className="text-center pb-8 w-1/3">
+                  <div className="bg-[#303030] rounded px-4 py-6 text-xl font-normal">
+                    positive response %
+                  </div>
+                </th>
+              </tr>
+            </thead>
+            <tbody className="text-3xl tracking-wide">
+              <tr>
+                <td className="relative w-12">
+                  <div
+                    className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/80 text-lg -rotate-180 font-semibold"
+                    style={{ writingMode: "vertical-lr", height: "auto" }}
+                  >
+                    Individ.
+                  </div>
+                </td>
+                <td className="text-center py-6 font-normal">
+                  {reportData.percentage_of_consultation.individual}%
+                </td>
+                <td className="text-center py-6 font-normal">
+                  {reportData.percentage_of_attempted_close.individual}%
+                </td>
+                <td className="text-center py-6 font-normal">
+                  {reportData.percentage_of_positive_response.individual}%
+                </td>
+              </tr>
+              <tr>
+                <td className="relative w-12">
+                  <div
+                    className="absolute -left-2 top-1/2 -translate-y-1/2 text-white/80 text-lg -rotate-180 font-semibold"
+                    style={{ writingMode: "vertical-lr", height: "auto" }}
+                  >
+                    Avrg<br />Team
+                  </div>
+                </td>
+                <td className="text-center py-6 font-normal">
+                  {reportData.percentage_of_consultation.team}%
+                </td>
+                <td className="text-center py-6 font-normal">
+                  {reportData.percentage_of_attempted_close.team}%
+                </td>
+                <td className="text-center py-6 font-normal">
+                  {reportData.percentage_of_positive_response.team}%
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        {/* Bar Graph */}
+        <div className="mt-8 bg-[#252525] rounded-lg p-10">
+          {/* Graph Title */}
+          <h2 className="text-2xl mb-6 font-normal">
+            <span className="font-medium">Next steps skill fulfilment</span> | historical scores
+          </h2>
+
+          <div className="flex items-center gap-6 mb-4">
+            <div className="flex items-center gap-2">
+              <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
+              <span className="text-xs text-[#a6a6a6] font-normal">
+                {reportData.bargraph_legend[0].red_label}
+              </span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="w-6 h-[2px] bg-[#78c38e]"></div>
+              <span className="text-xs text-[#a6a6a6] font-normal">
+                {reportData.bargraph_legend[0].green_label}
+              </span>
+            </div>
+          </div>
+
+          <div className="relative h-[400px] mt-16 mb-16">
+            {/* Y-axis labels */}
+            <div className="absolute -left-2 -top-11 h-[110%] flex flex-col justify-between text-xs text-[#a6a6a6] font-normal">
+              <span>Score</span>
+              <span>100</span>
+              <span>90</span>
+              <span>80</span>
+              <span>70</span>
+              <span>60</span>
+              <span>50</span>
+              <span>40</span>
+              <span>30</span>
+              <span>20</span>
+              <span>10</span>
+              <span>0</span>
+            </div>
+
+            {/* Bars Container */}
+            <div className="relative h-[98%] ml-8">
+              {reportData.bargraph_historical.map((score, index) => {
+                const barWidth = 64;
+                const gapWidth = 16;
+                const totalWidth = barWidth + gapWidth;
+                
+                return (
+                  <div
+                    key={index}
+                    className="absolute bottom-0 h-full"
+                    style={{ left: `${index * totalWidth}px` }}
+                  >
+                    <div className="absolute bottom-0 w-16 bg-[#1E1E1E] h-full">
+                      <>
+                        <div
+                          className="absolute bottom-0 w-full bg-[#78c38e]"
+                          style={{
+                            height: `${score.green}%`,
+                          }}
+                        ></div>
+                        {/* Red bar */}
+                        <div
+                          className="absolute w-full bg-[#FF6B8A]"
+                          style={{
+                            height: `${score.red}%`,
+                            bottom: `${score.green}%`,
+                          }}
+                        ></div>
+                      </>
+                    </div>
+                    {/* X-axis label */}
+                    <div 
+                      className="absolute text-xs text-[#a6a6a6] whitespace-nowrap font-normal text-center"
+                      style={{
+                        bottom: index % 2 === 0 ? '-40px' : '-60px',
+                        left: '50%',
+                        transform: 'translateX(-50%)',
+                        width: barWidth
+                      }}
+                    >
+                      {score.label}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+
+        {/* Positive themes driving successful enrolment responses */}
+        <div className="mt-16">
+          <h2 className="text-2xl mb-6 font-medium">
+            Positive themes driving successful enrolment responses:
+          </h2>
+
+          <div className="space-y-8">
+            {/* Highlights */}
+            <div className="bg-[#252525] rounded-lg p-8">
+              <h3 className="text-3xl font-semibold mb-6 text-[#78c38e]">
+                Highlights:
+              </h3>
+              <ul className="space-y-4">
+                {reportData.themes.positive.map(
+                  (theme: any, index: number) => (
+                    <li key={index} className="mb-4">
+                      <div className="text-lg font-normal mt-1">{theme.explanation}</div>
+                      {theme.explanation1 && (
+                        <div className="text-lg font-normal mt-4">{theme.explanation1}</div>
+                      )}
+                      {theme.explanation2 && (
+                        <div className="text-lg font-normal mt-4">{theme.explanation2}</div>
+                      )}
+                    </li>
+                  )
+                )}
+              </ul>
+            </div>
+
+            {/* Opportunities */}
+            <div className="bg-[#252525] rounded-lg p-8">
+              <h3 className="text-3xl font-semibold mb-6 text-[#FF6B8A]">
+                Opportunities:
+              </h3>
+              <ul className="space-y-4">
+                {reportData.themes.improvement.map(
+                  (theme: any, index: number) => (
+                    <li key={index} className="mb-4">
+                      <div className="text-lg font-normal mt-1">{theme.explanation}</div>
+                      {theme.explanation1 && (
+                        <div className="text-lg font-normal mt-4">{theme.explanation1}</div>
+                      )}
+                      {theme.explanation2 && (
+                        <div className="text-lg font-normal mt-4">{theme.explanation2}</div>
+                      )}
+                    </li>
+                  )
+                )}
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        {/* Conversation Analysis */}
+        <div className="mt-12">
+          <h2 className="text-2xl mb-6 font-medium">Conversation Analysis</h2>
+          <div className="space-y-4">
+            {reportData.conversation_analysis.condensed.conversations.map(
+              (conv: any) => (
+                <div key={conv.id} className="bg-[#2A2A2A] p-6 rounded">
+                  <h3 className="text-xl font-medium mb-2">
+                    {conv.id}. {conv.title} 
+                    <span className="text-sm text-[#a6a6a6] ml-2">
+                      (Call ID: {conv.related_calls.primary_call.call_id})
+                    </span>
+                  </h3>
+                  <div className="space-y-2 text-base font-normal">
+                    <p>
+                      <span className="font-semibold">
+                        Consultant Close Attempt:
+                      </span>
+                      <br /> {conv.consultant_close_attempt}
+                    </p>
+                    <p>
+                      <span className="font-semibold">
+                        Student Response:
+                      </span>
+                      <br /> {conv.student_response}
+                    </p>
+                    <p>
+                      <span className="font-semibold">
+                        Consultant Adaptation:
+                      </span>
+                      <br /> {conv.consultant_adaptation}
+                    </p>
+                    <p>
+                      <span className="font-semibold">
+                        Recommended Improvement:
+                      </span>
+                      <br /> {conv.recommended_improvement}
+                    </p>
+                  </div>
+                </div>
+              )
+            )}
+          </div>
+        </div>
+
+        {/* Effective Collaborating Planning */}
+        <div className="mt-16 space-y-12">
+          {reportData.conversation_analysis.effective_collaborating_planning.goal_setting.map((conv: any) => (
+            <div key={conv.id} className="space-y-6">
+              <h2 className="text-2xl mb-6 font-medium">
+                {conv.id}. {conv.title}
+              </h2>
+
+              {/* Consultant Close Attempt */}
+              <div className="space-y-2">
+                <h3 className="text-xl font-normal italic">
+                  Consultant Close Attempt:
+                </h3>
+                <div className="border border-[#78c38e] rounded-lg p-6">
+                  <p className="text-lg font-normal">{conv.consultant_close_attempt}</p>
+                </div>
+              </div>
+
+              {/* Student Response */}
+              <div className="space-y-2">
+                <h3 className="text-xl font-normal italic">
+                  Student Response:
+                </h3>
+                <div className="border border-[#78c38e] rounded-lg p-6">
+                  <p className="text-lg font-normal">
+                    {conv.student_response}
+                  </p>
+                </div>
+              </div>
+
+              {/* Consultant Adaptation */}
+              <div className="space-y-2">
+                <h3 className="text-xl font-normal italic">
+                  Consultant Adaptation:
+                </h3>
+                <div className="border border-[#78c38e] rounded-lg p-6">
+                  <p className="text-lg font-normal">
+                    {conv.consultant_adaptation}
+                  </p>
+                </div>
+              </div>
+
+              {/* Recommended Improvement */}
+              <div className="space-y-2">
+                <h3 className="text-xl font-normal italic">
+                  Recommended Improvement:
+                </h3>
+                <div className="border border-[#FF6B8A] rounded-lg p-6">
+                  <p className="text-lg font-normal">
+                    {conv.recommended_improvement}
+                  </p>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}

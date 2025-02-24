@@ -47,7 +47,9 @@ interface ConversationVerbose extends ConversationBase {
   priority: string;
 }
 
-export interface ReportData {
+import { EnrolmentReportData } from '../types/types';
+
+export interface RegularReportData {
   metadata: {
     consultant_name: string;
     report_type: string;
@@ -95,6 +97,8 @@ export interface ReportData {
   };
 }
 
+export type ReportData = RegularReportData | EnrolmentReportData;
+
 export async function getReportData(filename: string): Promise<ReportData> {
   const jsonDirectory = path.join(process.cwd(), 'app/data/json_reports');
   
@@ -106,29 +110,46 @@ export async function getReportData(filename: string): Promise<ReportData> {
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const rawData = JSON.parse(fileContent);
 
-    // Transform data to match expected format
-    const data: ReportData = {
-      metadata: {
-        consultant_name: rawData.metadata.consultant_name,
-        report_type: rawData.metadata.report_type,
-        week_number: rawData.metadata.week_number,
-        date_range: rawData.metadata.date_range
-      },
-      total_number_of_calls: rawData.total_number_of_calls,
-      team_average_total_number_of_calls_per_sales_consultant: rawData.team_average_total_number_of_calls_per_sales_consultant,
-      number_of_calls_over_2_minutes: rawData.number_of_calls_over_2_minutes,
-      percent_of_calls_over_2_minutes: rawData.percent_of_calls_over_2_minutes,
-      number_of_calls_under_2_minutes: rawData.number_of_calls_under_2_minutes,
-      percent_of_calls_under_2_minutes: rawData.percent_of_calls_under_2_minutes,
-      average_talking_percentage: rawData.average_talking_percentage,
-      excluded_transcripts: rawData.excluded_transcripts,
-      behavioral_scores: rawData.behavioral_scores,
-      themes: rawData.themes,
-      conversation_analysis: rawData.conversation_analysis
-    };
+    // Check if this is an enrolment report
+    const isEnrolmentReport = filename.includes('ENRO');
 
-    console.log('Transformed data:', JSON.stringify(data, null, 2));
-    return data;
+    if (isEnrolmentReport) {
+      // Return enrolment report data structure
+      const data: EnrolmentReportData = {
+        metadata: rawData.metadata,
+        percentage_of_consultation: rawData.percentage_of_consultation,
+        percentage_of_attempted_close: rawData.percentage_of_attempted_close,
+        percentage_of_positive_response: rawData.percentage_of_positive_response,
+        bargraph_sub_requirements: rawData.bargraph_sub_requirements,
+        bargraph_historical: rawData.bargraph_historical,
+        bargraph_legend: rawData.bargraph_legend,
+        themes: rawData.themes,
+        conversation_analysis: rawData.conversation_analysis
+      };
+      return data;
+    } else {
+      // Return regular report data structure
+      const data: RegularReportData = {
+        metadata: {
+          consultant_name: rawData.metadata.consultant_name,
+          report_type: rawData.metadata.report_type,
+          week_number: rawData.metadata.week_number,
+          date_range: rawData.metadata.date_range
+        },
+        total_number_of_calls: rawData.total_number_of_calls,
+        team_average_total_number_of_calls_per_sales_consultant: rawData.team_average_total_number_of_calls_per_sales_consultant,
+        number_of_calls_over_2_minutes: rawData.number_of_calls_over_2_minutes,
+        percent_of_calls_over_2_minutes: rawData.percent_of_calls_over_2_minutes,
+        number_of_calls_under_2_minutes: rawData.number_of_calls_under_2_minutes,
+        percent_of_calls_under_2_minutes: rawData.percent_of_calls_under_2_minutes,
+        average_talking_percentage: rawData.average_talking_percentage,
+        excluded_transcripts: rawData.excluded_transcripts,
+        behavioral_scores: rawData.behavioral_scores,
+        themes: rawData.themes,
+        conversation_analysis: rawData.conversation_analysis
+      };
+      return data;
+    }
   } catch (error) {
     console.error('Error reading JSON report:', error);
     throw new Error('Failed to read report data');

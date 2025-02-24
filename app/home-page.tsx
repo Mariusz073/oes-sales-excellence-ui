@@ -53,7 +53,8 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
     { code: 'ACTI', label: 'Active Listening' },
     { code: 'OBJE', label: 'Objection Handling' },
     { code: 'PROF', label: 'Professionalism and Composure' },
-    { code: 'ONEC', label: 'One Call Resolution' }
+    { code: 'ONEC', label: 'One Call Resolution' },
+    { code: 'ENRO', label: 'Enrolment closing' }
   ];
 
   // Options for team report analysis
@@ -154,7 +155,9 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
                file.weekNumber === parseInt(selectedPersonWeek)
       );
       if (selectedFile) {
-        window.open(`/report?file=${encodeURIComponent(selectedFile.filename)}`, '_blank');
+        const isEnrolmentReport = selectedFile.filename.includes('ENRO');
+        const reportPath = isEnrolmentReport ? '/report/enrolment' : '/report';
+        window.open(`${reportPath}?file=${encodeURIComponent(selectedFile.filename)}`, '_blank');
       }
     }
   };
