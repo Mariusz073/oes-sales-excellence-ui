@@ -244,15 +244,27 @@ export default async function ReportPage({
                     {/* X-axis label */}
                     {score && (
                       <div 
-                        className="absolute text-xs text-[#a6a6a6] whitespace-nowrap font-normal text-center"
+                        className="absolute text-xs font-normal text-center flex flex-col gap-1.5"
                         style={{
-                          bottom: index % 2 === 0 ? '-40px' : '-60px',
-                          left: '50%',
+                          bottom: '-82px',
+                          left: '32px',
                           transform: 'translateX(-50%)',
                           width: barWidth
                         }}
                       >
-                        {score.label}
+                        {(() => {
+                          const parts = score.label.split('_');
+                          const weekMatch = parts[0].match(/week-(\d+)/);
+                          return (
+                            <>
+                              <div className="text-[#a6a6a6] font-medium">
+                                {weekMatch ? `Week ${weekMatch[1]}` : parts[0]}
+                              </div>
+                              <div className="text-[#a6a6a6]">{parts[1] || ''}</div>
+                              <div className="text-[#a6a6a6]">{parts[2] || ''}</div>
+                            </>
+                          );
+                        })()}
                       </div>
                     )}
                   </div>
