@@ -181,7 +181,7 @@ export default async function TeamReportPage({
         </h1>
 
         {/* First Bar Graph Section */}
-        <div className="mt-8 bg-[#252525] rounded-lg p-10">
+        <div className="mt-8 bg-[#252525] rounded-lg p-10 pb-40">
           {/* Graph Title */}
           <h2 className="text-2xl mb-6 font-semibold">{formattedFirstTitle}</h2>
 
@@ -236,68 +236,87 @@ export default async function TeamReportPage({
 
             {/* Bar Graph */}
             <div className="relative h-full ml-8">
-              <div className="relative h-full flex gap-2">
-                {reportData.graph.bars.map((graph, index) => (
+            <div className="relative h-full flex gap-2">
+              {/* Always render 13 bars */}
+              {Array.from({ length: 13 }).map((_, index) => {
+                // Get graph data if available, starting from the end if more than 13
+                const graphData = reportData.graph.bars.length > 13 
+                  ? reportData.graph.bars.slice(-13)[index]
+                  : reportData.graph.bars[index];
+
+                return (
                   <div
                     key={index}
                     className="relative"
                     style={{
-                      width: `calc((100% - ${
-                        (reportData.graph.bars.length - 1) * 8
-                      }px) / ${reportData.graph.bars.length})`,
+                      width: `calc((100% - ${12 * 8}px) / 13)`, // Fixed width for 13 bars
                     }}
                   >
-                    <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
-                      {reportData.type === "Compliance"
-                        ? `${graph.green + graph.red!}%`
-                        : `${Math.round((graph.green / 380) * 100)}%`}
-                    </div>
-                    <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
-                      {/* Green bar */}
-                      <div
-                        className="absolute bottom-0 w-full bg-[#78c38e]"
-                        style={{
-                          height: `${
-                            reportData.type === "behavioural" ||
-                            reportData.type === "behavioral"
-                              ? (graph.green / 380) * 100
-                              : graph.green
-                          }%`,
-                        }}
-                      ></div>
-                      {reportData.type === "Compliance" ? (
-                        /* Partial compliance bar for Compliance type */
-                        <div
-                          className="absolute w-full bg-[#FF6B8A]"
-                          style={{
-                            bottom: `${graph.green}%`,
-                            height: `${graph.red}%`,
-                          }}
-                        ></div>
-                      ) : (
-                        /* Upper and Lower bound lines for Behavioral type */
-                        <>
+                    {graphData ? (
+                      <>
+                        <div className="absolute -top-6 w-full text-center text-gray-400 text-xs font-normal">
+                          {reportData.type === "Compliance"
+                            ? `${graphData.green + graphData.red!}%`
+                            : `${Math.round((graphData.green / 380) * 100)}%`}
+                        </div>
+                        <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full">
+                          {/* Green bar */}
                           <div
-                            className="absolute w-full h-[2px] bg-[#FF6B8A]"
+                            className="absolute bottom-0 w-full bg-[#78c38e]"
                             style={{
-                              bottom: `${(graph.lowerBound / 380) * 100}%`,
+                              height: `${
+                                reportData.type === "behavioural" ||
+                                reportData.type === "behavioral"
+                                  ? (graphData.green / 380) * 100
+                                  : graphData.green
+                              }%`,
                             }}
                           ></div>
-                          <div
-                            className="absolute w-full h-[2px] bg-[#FF6B8A]"
-                            style={{
-                              bottom: `${(graph.upperBound / 380) * 100}%`,
-                            }}
-                          ></div>
-                        </>
-                      )}
-                    </div>
-                    {/* X-axis label */}
-                    <div className="absolute -bottom-14 text-xs text-gray-400 font-normal text-center w-full leading-tight">
-                      {graph.title}
-                    </div>
+                          {reportData.type === "Compliance" ? (
+                            /* Partial compliance bar for Compliance type */
+                            <div
+                              className="absolute w-full bg-[#FF6B8A]"
+                              style={{
+                                bottom: `${graphData.green}%`,
+                                height: `${graphData.red}%`,
+                              }}
+                            ></div>
+                          ) : (
+                            /* Upper and Lower bound lines for Behavioral type */
+                            <>
+                              <div
+                                className="absolute w-full h-[2px] bg-[#FF6B8A]"
+                                style={{
+                                  bottom: `${(graphData.lowerBound / 380) * 100}%`,
+                                }}
+                              ></div>
+                              <div
+                                className="absolute w-full h-[2px] bg-[#FF6B8A]"
+                                style={{
+                                  bottom: `${(graphData.upperBound / 380) * 100}%`,
+                                }}
+                              ></div>
+                            </>
+                          )}
+                        </div>
+                        {/* X-axis label */}
+                        <div className="absolute -bottom-14 text-xs text-gray-400 font-normal text-center w-full leading-tight">
+                          {graphData.title}
+                        </div>
+                      </>
+                    ) : (
+                      <>
+                        {/* Black rectangle for missing graphs */}
+                        <div className="absolute bottom-0 w-full bg-[#1E1E1E] h-full"></div>
+                        {/* Empty space for missing label */}
+                        <div className="absolute -bottom-14 text-xs text-gray-400 font-normal text-center w-full leading-tight">
+                          &nbsp;
+                        </div>
+                      </>
+                    )}
                   </div>
-                ))}
+                );
+              })}
               </div>
             </div>
           </div>
