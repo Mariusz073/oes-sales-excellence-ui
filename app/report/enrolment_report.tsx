@@ -1,11 +1,35 @@
+"use client";
 import CreatePdfButton from "../components/CreatePdfButton";
 import { EnrolmentReportData } from "../types/types";
+import { useState } from "react";
 
 export default function EnrolmentReportPage({
   reportData,
 }: {
   reportData: EnrolmentReportData;
 }) {
+  const [showSubRequirements, setShowSubRequirements] = useState(false);
+
+  const formatLabel = (label: string) => {
+    if (label.startsWith('Feb-Mar')) {
+      return {
+        row1: 'Feb-Mar',
+        row2: '2024',
+        row3: '2000 hours'
+      };
+    }
+    const weekMatch = label.match(/week-(\d+)/);
+    if (weekMatch) {
+      const [_, dates] = label.split('_');
+      const [firstDate, secondDate] = dates.split('-');
+      return {
+        row1: `Week ${weekMatch[1]}`,
+        row2: firstDate,
+        row3: secondDate
+      };
+    }
+    return null;
+  };
 
   return (
     <div className="min-h-screen bg-[#1E1E1E] text-white p-8 font-light">
@@ -108,21 +132,42 @@ export default function EnrolmentReportPage({
 
         {/* Bar Graph */}
         <div className="mt-8 bg-[#252525] rounded-lg p-10">
-          {/* Graph Title */}
-          <h2 className="text-2xl mb-6 font-normal">
-            <span className="font-medium">Next steps skill fulfilment</span> | historical scores
-          </h2>
+          {/* Graph Title and Toggle */}
+          <div className="flex justify-between items-center mb-6">
+            <h2 className="text-2xl font-normal">
+              <span className="font-medium">Next steps skill fulfillment</span> | {showSubRequirements ? "sub-requirements" : "historical scores"}
+            </h2>
+            <div className="flex items-center gap-2">
+              <span className="text-base font-normal text-[#ffffff]">
+                {showSubRequirements 
+                  ? "toggle for historical trend"
+                  : "toggle for sub requirements"
+                }
+              </span>
+              <button
+                onClick={() => setShowSubRequirements(!showSubRequirements)}
+                className={`relative w-12 h-6 rounded-full transition-colors duration-200 ease-in-out bg-[#FF6B8A]`}
+                aria-label={showSubRequirements ? "Switch to historical trend view" : "Switch to sub-requirements view"}
+              >
+                <div
+                  className={`absolute w-4 h-4 bg-white rounded-full top-1 transition-transform duration-200 ease-in-out ${
+                    showSubRequirements ? 'left-1' : 'transform translate-x-6 left-1'
+                  }`}
+                />
+              </button>
+            </div>
+          </div>
 
           <div className="flex items-center gap-6 mb-4">
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#FF6B8A]"></div>
-              <span className="text-xs text-[#a6a6a6] font-normal">
+              <span className="text-xs text-[#e5e5e5] font-normal">
                 {reportData.bargraph_legend[0].red_label}
               </span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-6 h-[2px] bg-[#78c38e]"></div>
-              <span className="text-xs text-[#a6a6a6] font-normal">
+              <span className="text-xs text-[#e5e5e5] font-normal">
                 {reportData.bargraph_legend[0].green_label}
               </span>
             </div>
@@ -147,9 +192,9 @@ export default function EnrolmentReportPage({
 
             {/* Bars Container */}
             <div className="relative h-[98%] ml-8">
-              {reportData.bargraph_historical.map((score, index) => {
+              {(showSubRequirements ? reportData.bargraph_sub_requirements : reportData.bargraph_historical).map((score, index) => {
                 const barWidth = 64;
-                const gapWidth = 16;
+                const gapWidth = showSubRequirements ? 160 : 16; // Enhanced spacing for sub-requirements
                 const totalWidth = barWidth + gapWidth;
                 
                 return (
@@ -177,17 +222,53 @@ export default function EnrolmentReportPage({
                       </>
                     </div>
                     {/* X-axis label */}
-                    <div 
-                      className="absolute text-xs text-[#a6a6a6] whitespace-nowrap font-normal text-center"
-                      style={{
-                        bottom: index % 2 === 0 ? '-40px' : '-60px',
-                        left: '50%',
-                        transform: 'translateX(-50%)',
-                        width: barWidth
-                      }}
-                    >
-                      {score.label}
-                    </div>
+                    {showSubRequirements ? (
+                      <div 
+                        className="absolute text-xs font-normal text-center flex flex-col gap-1.5"
+                        style={{
+                          bottom: '-52px',
+                          left: '32px',
+                          transform: 'translateX(-50%)',
+                          width: barWidth * 2.5
+                        }}
+                      >
+                        {(() => {
+                          const label = score.label;
+                          const parts = label.split(' | ');
+                          if (parts.length === 2) {
+                            return (
+                              <>
+                                <div className="text-white whitespace-normal text-[11px] leading-tight">{parts[0]}</div>
+                                <div className="text-white whitespace-normal text-[11px] leading-tight">{parts[1]}</div>
+                              </>
+                            );
+                          }
+                          return <div className="text-white whitespace-normal text-[11px] leading-tight">{label}</div>;
+                        })()}
+                      </div>
+                    ) : (
+                      <div 
+                        className="absolute text-xs font-normal text-center flex flex-col gap-1.5"
+                        style={{
+                          bottom: '-82px',
+                          left: 0,
+                          right: 0,
+                          width: barWidth,
+                          margin: '0 auto'
+                        }}
+                      >
+                        {(() => {
+                          const parts = score.label.split('_');
+                          return (
+                            <>
+                              <div className="text-white font-medium">{parts[0]}</div>
+                              <div className="text-white">{parts[1] || ''}</div>
+                              <div className="text-white">{parts[2] || ''}</div>
+                            </>
+                          );
+                        })()}
+                      </div>
+                    )}
                   </div>
                 );
               })}
