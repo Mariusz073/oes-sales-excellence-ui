@@ -1,5 +1,17 @@
-import { getReportData } from "../actions/getReportData";
+import { getReportData, RegularReportData } from "../actions/getReportData";
 import CreatePdfButton from "../components/CreatePdfButton";
+
+function isRegularReport(report: any): report is RegularReportData {
+  return 'behavioral_scores' in report &&
+         'total_number_of_calls' in report &&
+         'team_average_total_number_of_calls_per_sales_consultant' in report &&
+         'number_of_calls_over_2_minutes' in report &&
+         'percent_of_calls_over_2_minutes' in report &&
+         'number_of_calls_under_2_minutes' in report &&
+         'percent_of_calls_under_2_minutes' in report &&
+         'average_talking_percentage' in report &&
+         'excluded_transcripts' in report;
+}
 
 export default async function ReportPage({
   searchParams,
@@ -9,6 +21,16 @@ export default async function ReportPage({
   const reportData = await getReportData(searchParams.file);
 
   if (!reportData) return <div>Loading...</div>;
+
+  if (!isRegularReport(reportData)) {
+    // Redirect to enrolment report page
+    return (
+      <meta
+        httpEquiv="refresh"
+        content={`0;url=/report/enrolment?file=${encodeURIComponent(searchParams.file)}`}
+      />
+    );
+  }
 
   const currentBehavioralScore = reportData.behavioral_scores[reportData.behavioral_scores.length - 1];
 
@@ -181,7 +203,7 @@ export default async function ReportPage({
             {/* Bars Container */}
             <div className="relative h-[98%] ml-8">
               {Array.from({ length: 12 }).map((_, index) => {
-                const score = reportData.behavioral_scores[index];
+                const score = isRegularReport(reportData) ? reportData.behavioral_scores[index] : null;
                 const barWidth = 64; // 16px * 4
                 const gapWidth = 16;
                 const totalWidth = barWidth + gapWidth;
