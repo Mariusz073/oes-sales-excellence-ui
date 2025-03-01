@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 268,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 82,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 30.597014925373134,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 186,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 69.40298507462687,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.9145070523255,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 186,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 129.12,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 122.36,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 91.15,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and clear support mechanisms within appropriate boundaries"
+      },
+      {
+        "headline": "Documentation Support Navigation",
+        "explanation": "Clear guidance through documentation requirements with effective alternatives and support mechanisms while maintaining appropriate process boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Study-Life Balance Planning",
+        "explanation": "More comprehensive discussion required of practical strategies for integrating study commitments with existing personal and professional responsibilities"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Clearer delineation needed between immediate enrollment guidance and post-enrollment services while maintaining appropriate boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students while maintaining appropriate guidance boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Documentation Process Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147786950",
+              "segment_id": "27",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062143728",
+                "segment_id": "23",
+                "timestamp": "01:18"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work in a financial planning office I can get the advisor to certify copies if that works' (call_597147786950, seg_27), revealing proactive engagement in documentation requirements.",
+          "consultant_response": "Consultant provided practical guidance: 'If you can log into your USI account and download a copy of the award and the transcript of results...' (call_597147786950, seg_32), effectively simplifying the certification process.",
+          "context_impact": "This moment required balancing student initiative with efficient documentation pathways while maintaining appropriate enrollment process boundaries.",
+          "recommended_approach": "Include more specific examples of successful documentation pathways while maintaining appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Educational Direction Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062503051",
+              "segment_id": "45",
+              "timestamp": "04:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm kind of just doing this degree because I don't really know what else to do' (call_597062503051, seg_45), revealing significant uncertainty about educational direction.",
+          "consultant_response": "Consultant stated: 'I mean, I can't really talk to you about that' (call_597062503051, seg_51), missing opportunity for appropriate guidance.",
+          "context_impact": "Critical moment to help student align educational choices with genuine interests while maintaining appropriate pre-enrollment boundaries.",
+          "recommended_approach": "Provide high-level program exploration while maintaining appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Flexible Study Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147900935",
+              "segment_id": "38",
+              "timestamp": "02:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah, because I know some of them it's like a hybrid like you still have to come in for like the workshops and everything' (call_597147900935, seg_36), revealing critical concern about program accessibility.",
+          "consultant_response": "Consultant provided comprehensive solution: 'No, no we don't. Those are also delivered online... they're not mandatory and they are recorded and uploaded' (call_597147900935, seg_38), effectively demonstrating program flexibility.",
+          "context_impact": "Clear explanation of online delivery flexibility was crucial for removing geographical barriers while maintaining appropriate enrollment guidance.",
+          "recommended_approach": "Include more specific examples of how current students successfully manage online study arrangements while maintaining appropriate boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147771742",
+              "segment_id": "64",
+              "timestamp": "05:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I run my own support worker business and want to eventually bring it out to doing behavioral therapy' (call_597147771742, seg_64), revealing clear career transition goals.",
+          "consultant_response": "Consultant replied: 'Fantastic, fantastic, fantastic. Let's run through the enrollment process' (call_597147771742, seg_66), missing chance to explore appropriate career alignment.",
+          "context_impact": "Opportunity to align program benefits with career aspirations while maintaining appropriate pre-enrollment boundaries.",
+          "recommended_approach": "Discuss program features that specifically support career transition while maintaining appropriate guidance boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Study Return Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914615227",
+              "segment_id": "18",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596914615227, seg_18), revealing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant focused on requirements: 'So what you need to do is you need to take those four units of study and pass them with the average mark of 60 percent' (call_596914615227, seg_75).",
+          "context_impact": "Academic confidence directly impacts enrollment decisions and requires immediate supportive response within appropriate boundaries.",
+          "recommended_approach": "Address confidence concerns while maintaining appropriate pre-enrollment guidance boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about managing study alongside shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows by responding with practical solutions: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (595732493616, segment 24). This tangible example resonated strongly, evidenced by the student's reply: 'That actually sounds manageable.' The approach effectively transformed a potential barrier into a manageable aspect of their educational journey, maintaining momentum toward enrollment while building confidence in their ability to succeed.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, begin by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows while maintaining appropriate pre-enrollment boundaries. Share appropriate examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical while staying within proper guidance scope. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges while maintaining appropriate boundaries. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience while staying within proper pre-enrollment guidance limits."
+        },
+        {
+          "id": 2,
+          "title": "Documentation Process Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147786950",
+              "segment_id": "27",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062143728",
+                "segment_id": "23",
+                "timestamp": "01:18"
+              }
+            ]
+          },
+          "student_trigger": "During segment 27 of call 597147786950, the student proactively suggested: 'I work in a financial planning office I can get the advisor to certify copies if that works.' This demonstrated initiative in resolving documentation requirements and created an opportunity for collaborative problem-solving while maintaining appropriate enrollment boundaries.",
+          "consultant_response": "The consultant effectively guided the process by suggesting an even more efficient solution: 'If you can log into your USI account and download a copy of the award and the transcript of results...' (call_597147786950, seg_32). This response validated the student's initiative while introducing a streamlined alternative that could accelerate the process while maintaining appropriate guidance boundaries.",
+          "priority": "high",
+          "recommended_approach": "When handling documentation requirements, start by acknowledging the student's proactive suggestions while maintaining appropriate boundaries: 'That's excellent thinking about getting your advisor to help. Let me share some additional options that might make this even easier for you.' Guide them through digital alternatives within proper scope: 'Many students find the USI portal particularly efficient - would you like to explore that together?' Always maintain a collaborative tone while staying within pre-enrollment boundaries: 'While your advisor could certainly help with certification, let's look at how the digital option might save you time.' When presenting solutions, provide specific benefits while maintaining appropriate guidance limits: 'Using the USI portal means immediate access to verified documents, eliminating the need for additional certification.' Remember to keep focus on the student's convenience while providing appropriate pre-enrollment guidance: 'Our goal is to make this process as smooth as possible for you, whether through digital options or traditional certification.' This approach maintains the collaborative spirit while steering toward the most efficient solution and staying within proper enrollment boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Educational Direction Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062503051",
+              "segment_id": "45",
+              "timestamp": "04:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant uncertainty about their educational direction: 'I'm kind of just doing this degree because I don't really know what else to do' (call_597062503051, seg_45). This vulnerable disclosure presented a crucial opportunity to help align educational choices with genuine interests and career aspirations while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant's response was notably insufficient: 'I mean, I can't really talk to you about that' (call_597062503051, seg_51). This missed a vital opportunity to engage with the student's uncertainty and explore potential pathways that might better align with their interests and goals while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students express uncertainty about their educational direction, engage them in supportive exploration while maintaining appropriate pre-enrollment boundaries. Begin with empathy: 'It's completely normal to feel uncertain about your direction - let's explore how our program might align with your interests.' Guide the conversation through their previous positive experiences while staying within appropriate scope: 'What aspects of your current work or past studies have you found most engaging?' Use their responses to highlight relevant program features: 'Your interest in [specific area] aligns well with our [relevant course component].' Share examples of how current students found their direction while maintaining proper boundaries: 'Many students initially felt uncertain but discovered their passion through exploring different aspects of the program.' Always maintain appropriate pre-enrollment boundaries while providing clear, actionable steps: 'While detailed career guidance comes after enrollment through our career services team, I can show you how our program helps students explore different pathways while developing valuable skills.' The goal is helping students see potential directions while maintaining appropriate consultant boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Flexible Study Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147900935",
+              "segment_id": "38",
+              "timestamp": "02:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 2:23 into the call (segment 36), the student expressed concern about hybrid delivery requirements: 'Yeah, because I know some of them it's like a hybrid like you still have to come in for like the workshops and everything.' This revealed critical anxiety about program accessibility, particularly given their location constraints.",
+          "consultant_response": "The consultant provided a comprehensive and reassuring response: 'No, no we don't. Those are also delivered online... they're not mandatory and they are recorded and uploaded. You don't get marked for attendance and you can always watch it afterwards' (call_597147900935, seg_38). This effectively addressed multiple aspects of flexibility while maintaining focus on practical solutions.",
+          "priority": "high",
+          "recommended_approach": "When addressing online delivery concerns, begin by acknowledging their specific situation while maintaining appropriate guidance boundaries: 'I understand your concerns about location - let me explain how our program is designed to work seamlessly regardless of where you are.' Then detail the online delivery structure within pre-enrollment scope: 'All components, including workshops and interactive sessions, are fully accessible online. Live sessions are recorded and available on-demand, and participation can be asynchronous to accommodate different schedules.' Share specific examples while maintaining appropriate boundaries: 'Many students choose to watch workshop recordings during their preferred study times, maintaining full program engagement without location constraints.' Always emphasize flexibility within proper scope: 'You'll have 24/7 access to all materials, and our assessment structure accommodates different schedules and commitments.' The key is transforming location concerns from a potential barrier into a manageable aspect of the learning experience while maintaining appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Career Development Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147771742",
+              "segment_id": "64",
+              "timestamp": "05:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared clear career aspirations: 'I run my own support worker business and want to eventually bring it out to doing behavioral therapy' (call_597147771742, seg_64). This disclosure presented an opportunity to demonstrate program alignment with career goals while maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant's response was insufficient: 'Fantastic, fantastic, fantastic. Let's run through the enrollment process' (call_597147771742, seg_66). This missed the opportunity to explore appropriate program-career alignment while maintaining proper boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students share career aspirations, acknowledge their goals while maintaining appropriate pre-enrollment boundaries. Begin with validation: 'Your experience in support work provides an excellent foundation. Let me show you how our program's features align with your behavioral therapy goals.' Highlight relevant program elements within proper scope: 'While detailed career guidance comes post-enrollment, I can explain how our core units develop fundamental skills for behavioral therapy practice.' Share appropriate examples: 'Many students with support work backgrounds find our [specific unit] particularly valuable for expanding their therapeutic knowledge.' Always maintain clear boundaries: 'Our career services team will provide detailed guidance after enrollment, but for now, let's focus on how the program structure supports your professional development goals.' The key is demonstrating program relevance while staying within appropriate pre-enrollment guidance limits."
+        },
+        {
+          "id": 6,
+          "title": "Study Return Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914615227",
+              "segment_id": "18",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596914615227, seg_18). This revealed deep concerns about academic readiness while seeking reassurance within appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant focused solely on requirements: 'So what you need to do is you need to take those four units of study and pass them with the average mark of 60 percent' (call_596914615227, seg_75). This response missed addressing emotional concerns while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students express anxiety about returning to study, validate their concerns while maintaining appropriate pre-enrollment boundaries. Begin with empathetic acknowledgment: 'Many successful students return to study after long breaks. Let me show you how our program supports this transition.' Highlight relevant support features within proper scope: 'While detailed study planning happens post-enrollment, our orientation program helps returning students rebuild confidence through structured support.' Share appropriate examples: 'Students returning after similar breaks often find our flexible study options and supportive learning environment especially helpful.' Always maintain clear boundaries: 'Our learning advisors will provide detailed study strategies after enrollment, but for now, let's focus on how our program structure supports returning students.' The key is building confidence while staying within appropriate pre-enrollment guidance limits."
+        }
+      ]
+    }
+  }
+}

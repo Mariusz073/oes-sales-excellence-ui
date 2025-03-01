@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 215,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 40,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 18.6046511627907,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 175,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 81.3953488372093,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.61891134470578,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 175,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 141.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.59,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 160.04,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.65,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through tailored scheduling and payment options"
+      },
+      {
+        "headline": "Proactive Support Planning",
+        "explanation": "Excellence in identifying and addressing individual support needs while maintaining appropriate pre-enrollment boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Academic Confidence Building",
+        "explanation": "Enhanced support needed for students returning to study after extended breaks, with specific strategies for building academic confidence"
+      },
+      {
+        "headline": "Career Integration Planning",
+        "explanation": "Stronger exploration needed of how program elements align with specific workplace challenges and career transition goals"
+      },
+      {
+        "headline": "Process Navigation Clarity",
+        "explanation": "More comprehensive guidance required for enrollment procedures and next steps to maintain momentum and student confidence"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148504929",
+              "segment_id": "28",
+              "timestamp": "02:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'So I'm considering going back and doing a to master this but I just probably on the basis purely for my credit points to apply' (call_597148504929, seg_28), revealing focus on credit recognition pathways.",
+          "consultant_response": "Consultant provided clear guidance: 'So I could see you definitely getting your grad cert recognized and then moving in probably a few units in there' (call_597148504929, seg_34), effectively reducing enrollment barriers.",
+          "context_impact": "Critical moment for demonstrating pathway feasibility through credit recognition to influence enrollment decision.",
+          "recommended_approach": "Include more specific examples of how credits affect completion timeline and cost savings."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148469613",
+              "segment_id": "93",
+              "timestamp": "15:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597148469613, seg_93), revealing significant academic anxiety.",
+          "consultant_response": "Consultant provided minimal reassurance: 'You can actually still get in touch with the university as well' (call_597148469613, seg_99), missing opportunity for comprehensive support discussion.",
+          "context_impact": "Unaddressed study gap concerns can become significant enrollment barriers.",
+          "recommended_approach": "Develop detailed framework for addressing study gap concerns with specific support strategies and success examples."
+        },
+        {
+          "id": 3,
+          "title": "Effective Payment Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846219077",
+              "segment_id": "67",
+              "timestamp": "13:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So if I was to start the Masters, can I pay that out-of-pocket $5,200 per course, per semester instead of paying everything up front?' (call_596846219077, seg_67), revealing payment flexibility needs.",
+          "consultant_response": "Consultant provided clear guidance: 'Yes. So we do pay per unit. So you only pay as you go' (call_596846219077, seg_70), effectively transforming financial concerns into manageable steps.",
+          "context_impact": "Critical moment requiring clear demonstration of payment options to maintain enrollment momentum.",
+          "recommended_approach": "Include specific examples of payment schedules aligned with study periods."
+        },
+        {
+          "id": 4,
+          "title": "Process Navigation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061631187",
+              "segment_id": "9",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty: 'So I think I did an application' (call_597061631187, seg_9), indicating confusion about process status.",
+          "consultant_response": "Consultant missed opportunity to clarify application status and provide clear next steps guidance.",
+          "context_impact": "Application uncertainty can lead to enrollment delays or dropout.",
+          "recommended_approach": "Implement systematic application status check and next steps guidance protocol."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148504929",
+              "segment_id": "106",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just changing the roles, so I'm kind of just sussing stuff out at the moment' (call_597148504929, seg_106), revealing need for career transition support.",
+          "consultant_response": "Consultant acknowledged change without exploring implications for program selection and planning.",
+          "context_impact": "Critical opportunity to align program benefits with career transition needs.",
+          "recommended_approach": "Develop stronger framework for demonstrating program alignment with career transition goals."
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914909973",
+              "segment_id": "92",
+              "timestamp": "9:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'Just ADHD and generalised anxiety' (call_596914909973, seg_92), signaling need for clear support assurance while maintaining appropriate boundaries.",
+          "consultant_response": "Consultant acknowledged supportively: 'If this at any time affects your studies in any way, please let us know because we will have support options available for you' (call_596914909973, seg_95), effectively balancing support assurance with appropriate scope.",
+          "context_impact": "Essential moment to demonstrate institutional support while maintaining pre-enrollment boundaries.",
+          "recommended_approach": "Provide clearer overview of specific support mechanisms available post-enrollment while maintaining boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Credit Transfer Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148504929",
+              "segment_id": "28",
+              "timestamp": "02:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597148504929 (segment 28), the student expressed focused interest in credit recognition pathways, stating: 'So I'm considering going back and doing a to master this but I just probably on the basis purely for my credit points to apply.' This inquiry revealed both strategic thinking about educational efficiency and a need for clear guidance on credit transfer possibilities to maintain enrollment momentum.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by providing clear, confident information about credit recognition: 'So I could see you definitely getting your grad cert recognized and then moving in probably a few units in there' (call_597148504929, seg_34). This response effectively addressed immediate concerns while maintaining momentum in the enrollment process by transforming credit transfer from a potential barrier into a strategic advantage.",
+          "priority": "high",
+          "recommended_approach": "When addressing credit transfer inquiries, begin by acknowledging the value of previous qualifications while demonstrating understanding of efficiency goals. Start with validation: 'Your existing qualifications represent significant achievement - let's explore how we can build on that foundation.' Guide the conversation through specific credit possibilities: 'Based on your graduate certificate, we can likely recognize several units, potentially reducing both your study time and costs.' Share concrete examples: 'Many students with similar backgrounds receive credit for core units, allowing them to focus on specialized areas.' When discussing specific credits, maintain focus on the strategic advantages: 'Credit recognition not only saves time and money but lets you concentrate on new areas that align with your career goals.' Throughout these conversations, emphasize how credit recognition creates a more efficient pathway to qualification while maintaining academic rigor. The goal is transforming credit discussions from technical processes into strategic planning opportunities."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148469613",
+              "segment_id": "93",
+              "timestamp": "15:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597148469613 (segment 93), the student revealed significant anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This vulnerable disclosure highlighted both their desire to pursue further education and deep concerns about academic readiness after an extended break from study.",
+          "consultant_response": "The consultant's response was minimal and ineffective: 'You can actually still get in touch with the university as well' (call_597148469613, seg_99). This surface-level guidance missed the opportunity to address both emotional and practical concerns, failing to provide specific strategies or examples of successful returning students.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study after an extended break, begin by normalizing their experience and validating their decision to return: 'Many of our most successful students return to study after similar breaks, bringing valuable work and life experience.' Share specific success stories: 'Just last semester, we had a student return after 20 years who excelled by utilizing our support services.' Outline available support mechanisms: 'Our online learning coaches specialize in helping returning students develop effective study strategies, and our orientation program includes dedicated sessions for those returning to education.' Demonstrate how the program structure supports successful transitions: 'Our flexible study options let you start with one unit to build confidence while mastering our online learning platform.' Pay particular attention to specific concerns: 'Many returning students worry about academic writing - our academic skills team provides specialized workshops and one-on-one support in this area.' The key is transforming their perceived gap in education into an advantage while providing concrete strategies for success."
+        },
+        {
+          "id": 3,
+          "title": "Effective Payment Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846219077",
+              "segment_id": "67",
+              "timestamp": "13:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596846219077 (segment 67), the student sought clarity on payment flexibility: 'So if I was to start the Masters, can I pay that out-of-pocket $5,200 per course, per semester instead of paying everything up front?' This inquiry revealed both interest in the program and concern about managing the financial commitment effectively.",
+          "consultant_response": "The consultant provided clear, confident information about payment flexibility: 'Yes. So we do pay per unit. So you only pay as you go' (call_596846219077, seg_70). This direct response effectively transformed a potential financial barrier into a manageable aspect of program planning, maintaining enrollment momentum while addressing practical concerns.",
+          "priority": "high",
+          "recommended_approach": "When discussing payment options, begin by validating the importance of financial planning while immediately highlighting program flexibility: 'Managing educational investment effectively is crucial - let me show you how our payment structure supports this.' Guide the conversation through specific payment scenarios: 'Many students choose to pay per unit, which means managing $5,200 every two months rather than a larger upfront sum.' Share practical examples: 'Some students combine upfront payments for certain units with FEE-HELP for others, creating a balanced approach.' When addressing specific payment concerns, provide clear timelines: 'If you start with one unit, your first payment of $5,200 would be due [specific date], with the next unit payment not due until [specific date].' Throughout these discussions, maintain focus on how payment flexibility supports educational goals: 'This structure lets you pace your investment while maintaining steady progress toward your qualification.' The key is transforming financial discussions from potential barriers into practical planning opportunities."
+        },
+        {
+          "id": 4,
+          "title": "Process Navigation Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061631187",
+              "segment_id": "9",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597061631187 (segment 9), the student expressed uncertainty about their application status: 'So I think I did an application.' This hesitation indicated potential confusion about the enrollment process and highlighted a need for immediate clarification to prevent delays or disengagement.",
+          "consultant_response": "The consultant missed this critical opportunity to clarify application status and provide clear next steps guidance. This oversight left the student's uncertainty unaddressed, potentially impacting their confidence in proceeding with enrollment.",
+          "priority": "high",
+          "recommended_approach": "When students express uncertainty about application status, immediately implement a systematic check and clarification process: 'Let's review your application status together and ensure everything's on track.' Start with status confirmation: 'I can see your application was received on [date] - let's check what's been completed and what's still needed.' Provide clear next steps with specific timelines: 'The next requirement is your academic transcripts, due by [specific date]. Once received, assessment typically takes 3-5 business days.' Schedule specific follow-up points: 'I'll check in with you next [day] to ensure everything's progressing smoothly.' Document all information in a follow-up email: 'I'm sending you an email now with everything we've discussed, including key dates and requirements.' Throughout the process, maintain proactive engagement: 'Please don't hesitate to reach out if you have questions between now and our next check-in.' The goal is transforming process uncertainty into clear, manageable steps while maintaining enrollment momentum."
+        },
+        {
+          "id": 5,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148504929",
+              "segment_id": "106",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597148504929 (segment 106), the student revealed career transition intentions: 'I'm just changing the roles, so I'm kind of just sussing stuff out at the moment.' This disclosure represented a critical opportunity to demonstrate how the program could support their professional evolution while maintaining appropriate advisory boundaries.",
+          "consultant_response": "The consultant acknowledged the career change without exploring its implications for program selection and planning. This surface-level response missed the opportunity to demonstrate how specific program elements could support their professional transition while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students indicate career transition interests, begin by exploring their professional evolution goals before connecting them to program benefits. Start with deeper understanding: 'Could you tell me more about the type of role you're moving toward? This will help us align your studies with your career direction.' Then demonstrate program relevance: 'Our curriculum includes several units that directly support career transitions, such as [specific examples] that develop transferable leadership skills.' Share relevant examples: 'Many students have successfully transitioned careers through this program, finding the [specific units] particularly valuable during their change.' When discussing career development, maintain appropriate boundaries: 'While we can't provide specific career advice, our program is designed to build broad professional capabilities that support career evolution.' Focus on educational elements that enable career growth: 'The applied projects in units like [example] let you focus on your target industry while building relevant skills.' The key is showing how the program becomes a strategic tool in their career evolution while maintaining appropriate advisory limits."
+        },
+        {
+          "id": 6,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914909973",
+              "segment_id": "92",
+              "timestamp": "9:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596914909973 (segment 92), the student disclosed specific learning needs: 'Just ADHD and generalised anxiety.' This self-disclosure represented a critical moment requiring careful balance between acknowledging support needs and maintaining appropriate pre-enrollment boundaries.",
+          "consultant_response": "The consultant provided a balanced and supportive response: 'If this at any time affects your studies in any way, please let us know because we will have support options available for you' (call_596914909973, seg_95). This effectively acknowledged the disclosure while maintaining appropriate boundaries regarding specific support promises.",
+          "priority": "high",
+          "recommended_approach": "When students disclose learning needs or health considerations, begin by acknowledging their openness while maintaining clear pre-enrollment boundaries. Start with validation: 'Thank you for sharing that information - it helps us understand how to best support your success.' Provide a high-level overview of available support: 'Our learning support team includes specialists experienced in working with students managing similar circumstances.' Explain the support engagement process: 'After enrollment, they can help you develop personalized strategies for managing your studies effectively.' Share general examples while maintaining appropriate scope: 'Many students work with our learning coaches to develop study techniques that align with their learning style.' Throughout the conversation, emphasize the comprehensive nature of support while keeping discussions within pre-enrollment bounds: 'While I can't detail specific accommodations now, I can assure you we have robust support systems in place.' The goal is demonstrating institutional commitment to student success while maintaining appropriate advisory boundaries."
+        }
+      ]
+    }
+  }
+}

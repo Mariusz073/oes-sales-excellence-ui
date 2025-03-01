@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "consultant_name": "Shelton Frimpong",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 209,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 57,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.27272727272727,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 152,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.72727272727273,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.456247450859905,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 152,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 84.14,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 77.92,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 132.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.02,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through targeted exploration and clear progression mapping"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples, tailored study options and comprehensive support mechanisms"
+      },
+      {
+        "headline": "Alternative Entry Support",
+        "explanation": "Clear articulation of alternative qualification pathways and entry options while maintaining focus on student goals and academic progression with specific transition examples"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Return to Study Support",
+        "explanation": "More comprehensive guidance required for students returning to education after extended breaks to build confidence through specific strategies and support mechanisms"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and interim solutions that maintain enrollment momentum"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061576646",
+              "segment_id": "93",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597148480384",
+                "segment_id": "20",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'It's four units, which is, you pass those four units' (call_597061576646, seg_93), seeking clarity on qualification pathways and progression options.",
+          "consultant_response": "Consultant outlined clear path: 'You complete that and once you've done so, you'll get credit for those four units and you can use it to get into the bachelors of law as long as you average 60%' (call_597061576646, seg_93), effectively demonstrating progression opportunities.",
+          "context_impact": "Critical moment requiring clear articulation of progression options and pathways to maintain enrollment momentum and student confidence.",
+          "recommended_approach": "Include more specific examples of successful transitions between qualifications and available support mechanisms."
+        },
+        {
+          "id": 3,
+          "title": "Study Schedule Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148504613",
+              "segment_id": "243",
+              "timestamp": "21:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597148082347",
+                "segment_id": "19",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'You know, for the lecturers, we have to be. Online or they're just... They're live?' (call_597148504613, seg_243), seeking clarity on lecture accessibility and scheduling options.",
+          "consultant_response": "Consultant confirmed flexibility: 'They're live, but they're also recorded. So, you can always assess it in your own time as well' (call_597148504613, seg_247), effectively demonstrating program adaptability.",
+          "context_impact": "Understanding lecture flexibility was crucial for student's ability to manage study with existing commitments and maintain confidence in program manageability.",
+          "recommended_approach": "Include more specific examples of how current students successfully manage flexible study arrangements."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908503725",
+              "segment_id": "15",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I don't know whether I should just finish my law degree or switch over because I've worked in a prison as well as a prison officer for nine months so that's why I was looking at this one' (call_596908503725, seg_15), revealing need for pathway guidance.",
+          "consultant_response": "Consultant focused on administrative process: 'So I will need you to... get your transcript right so I can assess it' (call_596908503725, seg_24), missing opportunity for deeper career alignment discussion.",
+          "context_impact": "This moment required strategic exploration of how the Criminal Justice program could complement existing law studies and corrections experience while maintaining enrollment momentum.",
+          "recommended_approach": "Explore how program specifically enhances corrections career while leveraging law background through relevant examples."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069848122",
+              "segment_id": "11",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'Nine and a half years ago I did the Bachelor of Social Science and Psychology... since then I haven't done anything with it because I've had five children' (call_597069848122, seg_11), indicating significant life changes affecting study readiness.",
+          "consultant_response": "Consultant moved directly to course specifics without addressing return to study concerns: 'Yes, correct. Now some of the subjects in there, are they the same as what I would have done in the Bachelor of Social Science and Psychology' (call_597069848122, seg_22).",
+          "context_impact": "This moment required demonstrating how program support could address concerns about returning to study after an extended break while managing family commitments.",
+          "recommended_approach": "Develop comprehensive support discussion including specific strategies for balancing study with family commitments."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Challenge Resolution",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148454579",
+              "segment_id": "10",
+              "timestamp": "01:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I just had a problem with one of the, like, requirements. I was trying, I had to get my transcript of education' (call_597148454579, seg_10), indicating a potential enrollment barrier.",
+          "consultant_response": "Basic acknowledgment: 'On time, yeah' (call_597148454579), missing opportunity to explore interim solutions.",
+          "context_impact": "Clear guidance on transcript requirements and alternatives was needed to maintain enrollment momentum and student confidence.",
+          "recommended_approach": "Provide clear alternatives and temporary solutions while maintaining proper enrollment boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, always start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061576646",
+              "segment_id": "93",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597148480384",
+                "segment_id": "20",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During discussions of course requirements, students frequently expressed need for clarity about progression options. Primary example: 'It's four units, which is, you pass those four units' (call_597061576646, seg_93). This revealed both interest in program progression and need for clear understanding of available pathways. Supporting interactions showed similar patterns of students seeking to understand how initial qualifications could lead to higher degrees.",
+          "consultant_response": "The consultants effectively outlined clear progression pathways, as demonstrated in the primary example: 'You complete that and once you've done so, you'll get credit for those four units and you can use it to get into the bachelors of law as long as you average 60%' (call_597061576646, seg_93). This comprehensive explanation showed how completing initial units could lead to broader qualifications while maintaining academic rigor and student confidence.",
+          "priority": "high",
+          "recommended_approach": "When discussing qualification pathways, begin by acknowledging the student's current understanding and then build a clear progression narrative. Start with confirming their immediate goal: 'I understand you're interested in the Bachelor's program.' Then outline the stepping stones available: 'Let me show you how our certificate program can be your first step.' Use specific examples of credit transfer and progression requirements, such as 'completing these four units with a 60% average opens your path to the bachelor degree.' This approach helps students visualize their journey while understanding the achievable steps along the way. Pay particular attention to emphasizing how each unit contributes to their larger qualification goals, ensuring students see value in every step of their academic journey. When discussing grade requirements, frame them as achievable milestones rather than barriers, emphasizing the support available to help students succeed: 'Many of our current law students started with the certificate pathway and found it gave them a strong foundation for success in the bachelor program.'"
+        },
+        {
+          "id": 3,
+          "title": "Study Schedule Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148504613",
+              "segment_id": "243",
+              "timestamp": "21:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597148082347",
+                "segment_id": "19",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students expressed concerns about accessing course materials and lectures, with a representative example being: 'You know, for the lecturers, we have to be. Online or they're just... They're live?' (call_597148504613, seg_243). This question revealed their need to understand how the program's structure could accommodate their schedule, a critical factor in their enrollment decision.",
+          "consultant_response": "The consultants effectively communicated program flexibility, as demonstrated in the primary response: 'They're live, but they're also recorded. So, you can always assess it in your own time as well' (call_597148504613, seg_247). This approach successfully addressed immediate concerns about lecture accessibility while highlighting the program's adaptable nature.",
+          "priority": "high",
+          "recommended_approach": "When addressing questions about program flexibility, start by acknowledging the importance of accessible learning options in today's busy world. Begin with a clear overview: 'Our program is designed to fit around your commitments, with both live and recorded lectures available.' Then, explore the student's specific scheduling needs: 'What does your typical week look like? This helps us show how our flexible options can work for you.' Demonstrate practical applications: 'If you can't attend a live session, you can watch the recording later that day or week. Many students review recordings during quiet periods at work or on weekends.' Share specific examples: 'Some students prefer downloading lecture content on Sunday evenings for the week ahead, while others break their study into shorter daily sessions.' When students express specific scheduling challenges, provide relevant examples of how others have successfully managed similar situations. The goal is to transform perceived scheduling barriers into manageable planning opportunities while maintaining appropriate boundaries between sales and academic support roles."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908503725",
+              "segment_id": "15",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student revealed significant career transition considerations: 'I don't know whether I should just finish my law degree or switch over because I've worked in a prison as well as a prison officer for nine months so that's why I was looking at this one' (call_596908503725, seg_15). This statement highlighted a critical juncture in the student's academic and professional journey, requiring careful guidance to align educational choices with career aspirations.",
+          "consultant_response": "The consultant's response focused primarily on administrative processes: 'So I will need you to... get your transcript right so I can assess it' (call_596908503725, seg_24). While this addressed the practical aspect of credit assessment, it missed the opportunity to explore how the Criminal Justice program could specifically enhance their corrections career while leveraging their law background. The response could have better demonstrated understanding of the career transition challenge and shown how the program could bridge current experience with future goals.",
+          "priority": "high",
+          "recommended_approach": "When addressing career transition discussions, begin by acknowledging the significance of the student's existing experience and academic background. Start with validation: 'Your experience in corrections combined with your law studies provides a unique foundation for our Criminal Justice program.' Then explore specific career enhancement opportunities: 'Let's look at how this program could build on your corrections experience while complementing your legal knowledge.' Guide the conversation to demonstrate program relevance: 'Many of our successful graduates have similar backgrounds in law enforcement and legal studies - they often find that understanding both perspectives enhances their career progression.' When students express uncertainty about changing paths, help them explore program elements that align with their current role while opening doors to future opportunities. The goal is to transform their experience into a valuable asset for their educational journey while maintaining appropriate pre-enrollment consultation boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069848122",
+              "segment_id": "11",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant life changes affecting their educational journey: 'Nine and a half years ago I did the Bachelor of Social Science and Psychology... since then I haven't done anything with it because I've had five children' (call_597069848122, seg_11). This disclosure created a critical opportunity to address concerns about returning to study after an extended break and managing studies alongside family commitments.",
+          "consultant_response": "The consultant moved directly to course specifics without addressing the underlying concerns about returning to study: 'Yes, correct. Now some of the subjects in there, are they the same as what I would have done in the Bachelor of Social Science and Psychology' (call_597069848122, seg_22). This approach missed the opportunity to acknowledge and address the challenges of returning to study after a significant break and explore available support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students returning to study after extended breaks, begin by validating their experience and acknowledging the courage it takes to re-enter education. Start with empathetic recognition: 'Thank you for sharing your journey with us. Many students successfully return to study after focusing on family commitments.' Then explore their specific concerns about returning to academic life while maintaining appropriate pre-enrollment boundaries: 'Let's look at how our program supports students returning to study, particularly those balancing family responsibilities.' Demonstrate understanding through examples: 'Many parents in our program start with one unit to rebuild their study habits before taking on a full load.' Show how program features support their situation: 'Our flexible online platform lets you study when your children are asleep or at school, and our support services help you transition back into academic life.' The goal is to build confidence in their ability to succeed while showing how program features and support services facilitate a successful return to education."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Challenge Resolution",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148454579",
+              "segment_id": "10",
+              "timestamp": "01:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about documentation requirements: 'I just had a problem with one of the, like, requirements. I was trying, I had to get my transcript of education' (call_597148454579, seg_10). This revealed a potential barrier to enrollment that needed immediate addressing to maintain application momentum.",
+          "consultant_response": "The consultant provided only basic acknowledgment: 'On time, yeah' (call_597148454579), missing an opportunity to explore interim solutions or alternative documentation options. This limited response failed to address the student's underlying concern about meeting enrollment requirements, potentially leaving them uncertain about how to proceed.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about documentation requirements, begin by acknowledging their situation while maintaining proper enrollment boundaries: 'I understand getting transcripts can be challenging. Let me explain what options we have available.' Then provide clear guidance within appropriate limits: 'While we'll need your official transcripts eventually, here are some interim steps we can take.' Guide them through practical solutions: 'Many students start with unofficial transcripts while waiting for official documents, or we can work with your previous institution's records office.' Show understanding through examples: 'We recently helped a student in a similar situation by accepting a provisional enrollment while their official transcripts were being processed.' The goal is to demonstrate understanding while providing practical, actionable steps within institutional guidelines, always maintaining appropriate enrollment boundaries while keeping momentum toward program commencement."
+        }
+      ]
+    }
+  }
+}

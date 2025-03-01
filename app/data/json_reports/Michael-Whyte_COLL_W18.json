@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 177,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 53,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.943502824858758,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 124,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.05649717514125,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.15618887276222,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 124,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 98.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.01,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 137.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.21,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear progression strategies"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and specific adaptation strategies for varying work patterns"
+      },
+      {
+        "headline": "Career Transition Support",
+        "explanation": "Effective exploration of career change pathways through program alignment, accreditation planning, and clear professional development roadmaps"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and tangible career progression goals through concrete examples"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks including specific success strategies and practical study approaches"
+      },
+      {
+        "headline": "Documentation Planning Support",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and detailed timeline planning for international students"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students with varying shift patterns."
+        },
+        {
+          "id": 2,
+          "title": "Program Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983513941",
+              "segment_id": "13",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597148051069",
+                "segment_id": "40",
+                "timestamp": "03:17"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'But I want to find out more about the difference between applying for the graduate certificate and also whether I have a chance in applying for the Master's as well' (call_596983513941, seg_13), revealing need for pathway clarity.",
+          "consultant_response": "Consultant validated and explored options: 'Of course, we can definitely look at both pathways. The graduate certificate provides a great foundation and can articulate directly into the master's' (call_596983513941, seg_16).",
+          "context_impact": "Critical moment for establishing program understanding and potential progression pathways to support enrollment decision.",
+          "recommended_approach": "Enhance exploration of long-term goals and aspirations when discussing pathway options with specific credit transfer examples."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845673469",
+              "segment_id": "16",
+              "timestamp": "1:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596908009685",
+                "segment_id": "46",
+                "timestamp": "3:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'The end game is to get registered as a psychotherapist with something like ACA and PACSA' (call_596845673469, seg_16), revealing clear professional accreditation goals.",
+          "consultant_response": "Consultant provided solution: 'Well look, that should gain you entry into the course, we would just have to get them assessed and double checked by our admissions department' (call_596845673469, seg_46), effectively showing pathway to goal.",
+          "context_impact": "This moment required clear demonstration of how our program directly supports professional accreditation pathways.",
+          "recommended_approach": "Include more specific examples of successful accreditation journeys and detailed timeline estimates."
+        },
+        {
+          "id": 4,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846010985",
+              "segment_id": "23",
+              "timestamp": "1:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I saw that this Graduate Certificate of Epidemiology could lead to it but I'm like well I've already done it' (call_596846010985, seg_23), revealing uncertainty about program value given past qualifications.",
+          "consultant_response": "Consultant replied: 'In terms of the degree, your master's stuff, it's not invalid, it's still absolutely a master's degree and I'm sure it still holds a lot of weight' (call_596846010985, seg_35), providing basic validation but missing deeper career integration.",
+          "context_impact": "This uncertainty about course relevance posed a significant risk to enrollment, requiring clear demonstration of how the program would enhance existing qualifications.",
+          "recommended_approach": "Explore specific career advancement opportunities and demonstrate how the program uniquely complements existing qualifications with industry examples."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148011512",
+              "segment_id": "25",
+              "timestamp": "01:52"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597148011512, seg_25).",
+          "consultant_response": "Consultant missed addressing specific concerns about returning to study after long break.",
+          "context_impact": "Critical moment to address study confidence and demonstrate support mechanisms.",
+          "recommended_approach": "Outline specific support services and success strategies for returning students with examples of similar student successes."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061567078",
+              "segment_id": "148",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So, will that still work? Because I can basically apply in the next few days and hopefully I'll get the bridging visa document' (call_597061567078, seg_148), seeking documentation clarity.",
+          "consultant_response": "Consultant replied: 'Let me just double down and check on that for you and I'll pop you an email' (call_597061567078, seg_161), deferring rather than providing immediate guidance.",
+          "context_impact": "Unclear documentation guidance could significantly delay or prevent enrollment progress.",
+          "recommended_approach": "Provide clearer immediate guidance on documentation requirements with specific timelines and alternative pathways for international students."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Program Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983513941",
+              "segment_id": "13",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597148051069",
+                "segment_id": "40",
+                "timestamp": "03:17"
+              }
+            ]
+          },
+          "student_trigger": "During initial exploratory discussions, students consistently sought clarity on educational pathways. The primary example came when a student asked: 'But I want to find out more about the difference between applying for the graduate certificate and also whether I have a chance in applying for the Master's as well' (call_596983513941, seg_13). This revealed student's strategic thinking about educational progression and need for clear pathway guidance.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by first validating the feasibility of different pathways: 'Of course, we can definitely look at both options. The graduate certificate provides a great foundation and can articulate directly into the master's' (call_596983513941, seg_16). This response effectively opened a dialogue about progression while maintaining focus on immediate enrollment decisions. The consultant successfully balanced addressing immediate concerns about qualification recognition with maintaining focus on the longer-term academic goals.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in multiple program pathways, begin by acknowledging their strategic thinking about education options: 'It's excellent that you're considering both immediate and long-term study options.' Guide the conversation by exploring their motivations and timeframes: 'What aspects of each program interest you most?' Use their responses to collaboratively map potential pathways, showing how different entry points can align with their goals. For example: 'The graduate certificate gives you a valuable qualification in 8 months, plus guaranteed credit toward the master's if you decide to continue.' When discussing transitions between qualifications, be specific about credit recognition and progression requirements: 'All eight units from the graduate certificate count toward the master's, meaning you're already halfway there if you choose to progress.' Pay particular attention to students expressing uncertainty about longer commitments, emphasizing how starting with a graduate certificate provides both immediate qualification and future flexibility. The key is helping them visualize a clear progression path while maintaining appropriate boundaries between enrollment guidance and detailed career planning."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845673469",
+              "segment_id": "16",
+              "timestamp": "1:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596908009685",
+                "segment_id": "46",
+                "timestamp": "3:15"
+              }
+            ]
+          },
+          "student_trigger": "Early in the conversation (segment 16, timestamp 1:20), the student clearly articulated their professional goal: 'The end game is to get registered as a psychotherapist with something like ACA and PACSA.' This statement revealed both specific career aspirations and understanding of professional requirements, presenting a prime opportunity for collaborative planning to align the educational pathway with accreditation goals.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding: 'Well look, that should gain you entry into the course, we would just have to get them assessed and double checked by our admissions department' (segment 46). This response effectively showed understanding of the accreditation path while providing concrete next steps. The consultant successfully balanced addressing immediate concerns about qualification recognition with maintaining focus on the longer-term accreditation goal.",
+          "priority": "high",
+          "recommended_approach": "When students express specific professional accreditation goals, begin by validating their career direction: 'I can see you have a clear goal of registered psychotherapist status, which is excellent.' Then outline how the program specifically supports this journey: 'Our program is designed to align with professional accreditation requirements.' Share real examples from current students progressing toward similar goals, using specific timelines and milestones: 'Many of our current students begin their accreditation process during their final semester, a timing that aligns well with professional body requirements.' Maintain focus on both immediate steps and long-term goals, connecting qualification assessment to the broader accreditation journey. This approach helps students visualize their complete professional development path while understanding the immediate actions needed. When discussing timelines, provide concrete examples: 'For instance, students typically complete their core requirements in X semesters, positioning them well for the accreditation process.' Always validate the student's proactive thinking about professional requirements while demonstrating how the program specifically supports their journey toward accreditation."
+        },
+        {
+          "id": 4,
+          "title": "Career Integration Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846010985",
+              "segment_id": "23",
+              "timestamp": "1:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in call 596846010985, the student revealed significant uncertainty about the value of additional education, stating: 'I saw that this Graduate Certificate of Epidemiology could lead to it but I'm like well I've already done it' (segment 23). This comment exposed deeper concerns about how the proposed program would complement their existing qualifications and advance their career goals.",
+          "consultant_response": "The consultant's response attempted basic validation of past achievements: 'In terms of the degree, your master's stuff, it's not invalid, it's still absolutely a master's degree and I'm sure it still holds a lot of weight' (segment 35). While this acknowledgment provided some reassurance about existing qualifications, it fell short of engaging in a meaningful exploration of how the graduate certificate could specifically enhance the student's career path.",
+          "priority": "high",
+          "recommended_approach": "When encountering students questioning program value relative to existing qualifications, transform this uncertainty into a strategic planning discussion. Start by validating their achievements while pivoting to future opportunities: 'Your master's degree provides an excellent foundation. Let's explore how this graduate certificate could specifically enhance your career trajectory.' Then engage in detailed exploration of their professional goals: 'What aspects of your current role would you like to develop further?' Use their responses to draw clear connections between their ambitions and program offerings, showing how specific course elements could unlock new opportunities. For instance, if they mention research interests, highlight how advanced epidemiology studies could strengthen their research capabilities. The key is positioning the graduate certificate as a strategic enhancement to their existing expertise, creating a compelling narrative about career advancement while maintaining appropriate boundaries around detailed career advice."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148011512",
+              "segment_id": "25",
+              "timestamp": "01:52"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597148011512, seg_25). This revealed deep concerns about academic readiness and the challenges of returning to study after a long break.",
+          "consultant_response": "The consultant missed the opportunity to address these specific concerns about returning to study, focusing instead on program requirements without acknowledging or alleviating the student's anxiety about their ability to succeed after a long break from education.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after an extended break, begin by normalizing their feelings and sharing success stories of similar students. Start with validation: 'Many of our most successful students return to study after long breaks, bringing valuable life and work experience.' Then outline specific support mechanisms: 'Our learning advisers specialize in helping returning students develop study strategies that work for them.' Provide concrete examples of available support: 'You'll have access to academic skills workshops, one-on-one tutoring, and flexible study options that help you balance your commitments.' Share success stories that resonate: 'We recently had a student return after twenty years who excelled by applying their professional experience to their studies.' Focus on how life experience enhances rather than hinders academic success, while ensuring students understand the comprehensive support available to them throughout their journey."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061567078",
+              "segment_id": "148",
+              "timestamp": "05:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During enrollment discussions, students frequently sought clarity on documentation requirements. A key example emerged when a student asked: 'So, will that still work? Because I can basically apply in the next few days and hopefully I'll get the bridging visa document' (call_597061567078, seg_148). This revealed uncertainty about documentation processes that could potentially delay or prevent enrollment.",
+          "consultant_response": "The consultant's approach was notably insufficient, offering only to check and follow up: 'Let me just double down and check on that for you and I'll pop you an email' (call_597061567078, seg_161). This deferral missed the opportunity to provide immediate guidance or explore interim steps the student could take.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation inquiries, begin by acknowledging the specific requirements while providing immediate guidance where possible: 'Let me help you understand the visa documentation process and what steps you can take right now.' Create a clear timeline of required documents and actions: 'While we verify your visa eligibility, let's identify what other documentation you can prepare.' Explain parallel processes: 'You can begin gathering your academic transcripts and English language evidence while waiting for your visa documentation.' When specific details need verification, provide clear next steps: 'I'll confirm the exact visa requirements within 24 hours, but meanwhile, let's ensure your other documentation is ready.' Pay particular attention to time-sensitive requirements: 'Since you're planning to apply in the next few days, let's prioritize the most urgent documentation first.' The goal is to maintain enrollment momentum while ensuring compliance with all requirements. Share specific examples of alternative documentation options when available: 'Some students in similar situations have successfully used their current visa documentation while their bridging visa is processing.' Remember to set clear expectations about processing times and requirements while maintaining a supportive and solution-focused approach."
+        }
+      ]
+    }
+  }
+}

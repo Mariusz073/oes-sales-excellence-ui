@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "consultant_name": "James Lockie",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 206,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 27,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 13.106796116504855,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 179,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 86.89320388349515,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.83978141754801,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 179,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 118.36,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 67.84,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 88.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.87,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining clear progression options"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and support mechanisms"
+      },
+      {
+        "headline": "Experience Recognition",
+        "explanation": "Effective validation of professional and academic experience while demonstrating clear alignment between past achievements and future academic success"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific career goals while maintaining appropriate sales role boundaries"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "More comprehensive integration required of available support services into initial planning discussions while maintaining pre-enrollment parameters"
+      },
+      {
+        "headline": "Financial Planning Integration",
+        "explanation": "Stronger emphasis needed on developing comprehensive financial planning strategies that align with student circumstances and support enrollment decisions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Experience-Based Confidence Building",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915538360",
+              "segment_id": "65",
+              "timestamp": "04:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Let's put it this way if you've been able to do a PhD you should definitely be able to organize your way through this' (call_596915538360, seg_65), showing readiness for academic challenge.",
+          "consultant_response": "Consultant effectively validated experience: 'I've seen first-hand what a PhD involves, so you'll be able to do it yourself' (call_596915538360, seg_67), building confidence through achievement recognition.",
+          "context_impact": "Key moment for reinforcing academic confidence while addressing practical planning needs.",
+          "recommended_approach": "Include more specific examples of successful study management strategies from similar students."
+        },
+        {
+          "id": 3,
+          "title": "Course Pathway Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "47",
+              "timestamp": "01:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "50",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm interested in doing a graduate diploma in psychology, or the advanced one' (call_595732493616, seg_47), seeking guidance on program progression.",
+          "consultant_response": "Consultant provided clear guidance: 'The advanced program is basically a fourth year's honours, to get into that stage you will need to do your grad level psychology' (call_595732493616, seg_50).",
+          "context_impact": "Critical moment requiring collaborative planning to map appropriate educational pathway options.",
+          "recommended_approach": "Include more specific examples of successful transitions through various pathways."
+        },
+        {
+          "id": 4,
+          "title": "Alternative Analytics Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983287984",
+              "segment_id": "58",
+              "timestamp": "09:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I would like to study online for their managerial analysis' (call_596983287984, seg_58), showing interest in program transition.",
+          "consultant_response": "Consultant replied: 'Unfortunately, without a pre-study certificate at university, I can't really do much for you' (call_596983287984, seg_107), failing to explore alternatives.",
+          "context_impact": "Critical opportunity to explore alternative pathways maintaining student engagement.",
+          "recommended_approach": "Develop structured pathway options including preparatory courses and related programs."
+        },
+        {
+          "id": 5,
+          "title": "Financial Barrier Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148457869",
+              "segment_id": "49",
+              "timestamp": "11:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah, I think it's just much for me at the moment.' (call_597148457869, seg_49), indicating significant financial concerns.",
+          "consultant_response": "Consultant acknowledged: 'No, and that's okay, that's why I wanted you to know, because you were paying up front...' (call_597148457869, seg_50), but missed exploring solutions.",
+          "context_impact": "Financial barriers could prevent enrollment without proper exploration of options and support.",
+          "recommended_approach": "Develop comprehensive discussion of payment options, financial planning strategies and available support mechanisms."
+        },
+        {
+          "id": 6,
+          "title": "Study Break Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062280008",
+              "segment_id": "48",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062463219",
+                "segment_id": "159",
+                "timestamp": "08:30"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'And do you have to do it in a certain time frame or can you... if there's busy periods of my life where I know I'm going to be really busy can I have a break and come back to it?' (call_597062280008, seg_48)",
+          "consultant_response": "Consultant replied: 'Yeah you can you've got three and a half years to do it if you want that's fine' (call_597062280008, seg_51), missing opportunity for detailed planning discussion.",
+          "context_impact": "Addressing flexibility in study scheduling was crucial for building student confidence in program manageability.",
+          "recommended_approach": "Develop more comprehensive discussion of how breaks can be strategically planned around anticipated busy periods."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Begin with validation: 'I understand how challenging rotating rosters can be. Let me show you exactly how our program adapts to that.' Share concrete examples of how current students manage: 'Many of our nursing students download materials before night shifts, using quiet periods around 2-3am for focused reading, then complete discussion posts during recovery days.' Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges: 'You can download all materials to your tablet before your shift, complete the readings during quiet periods, then sync your progress when you're back online.' The key is transforming perceived scheduling barriers into manageable planning opportunities, always grounding examples in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Experience-Based Confidence Building",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915538360",
+              "segment_id": "65",
+              "timestamp": "04:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596915538360 (segment 65), the student demonstrated self-awareness of their academic capabilities by stating, 'Let's put it this way if you've been able to do a PhD you should definitely be able to organize your way through this.' This pivotal moment revealed both confidence in their academic abilities and an underlying need to validate their capacity to manage new educational commitments alongside existing responsibilities.",
+          "consultant_response": "The consultant effectively responded by saying, 'I've seen first-hand what a PhD involves, so you'll be able to do it yourself, it shouldn't be an issue for you, it just depends on finding the time, alright' (segment 67). This response successfully validated the student's past academic achievements while realistically acknowledging time management as the primary consideration rather than academic capability. The consultant's personal acknowledgment of PhD-level work added credibility to their reassurance.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students who possess significant academic achievements, start by acknowledging their proven capabilities while focusing on practical application in the new context. Begin with validation: 'Your PhD experience demonstrates exceptional academic abilities and study management skills.' Then guide the conversation toward applying these strengths in the new program context: 'Let's explore how we can leverage your research experience in this program.' Share specific examples of how other academically accomplished students have successfully managed the transition: 'Many of our students with PhD backgrounds find they can effectively apply their existing time management and research skills.' Address potential concerns proactively: 'While the content focus may be different, your proven ability to manage complex academic work will be a significant advantage.' Remember to maintain balance between confidence building and practical planning: 'Your academic background gives you a strong foundation - let's focus on how to best structure your study around your current commitments.'"
+        },
+        {
+          "id": 3,
+          "title": "Course Pathway Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "47",
+              "timestamp": "01:06"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "50",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students sought clarity on psychology program pathways, with the primary example being: 'I'm interested in doing a graduate diploma in psychology, or the advanced one' (call_595732493616, seg_47). This pattern of inquiries about program levels and progression options highlighted the need for clear guidance on educational pathways while maintaining enrollment momentum.",
+          "consultant_response": "The consultant provided structured guidance by explaining: 'The advanced program is basically a fourth year's honours, to get into that stage you will need to do your grad level psychology, which is basically your first 10 units, it's an APAC accredited course' (call_595732493616, seg_50). This response effectively broke down the pathway into clear steps while highlighting important accreditation details, helping students understand both immediate and future study options.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in multiple program levels, begin by acknowledging their ambition while ensuring clarity about progression pathways. Start with exploration: 'Let's look at how these programs build on each other to support your psychology career goals.' Map out the journey clearly: 'The graduate diploma provides your foundation in psychology principles, while the advanced program builds toward professional practice requirements.' Use specific examples to illustrate progression: 'Many of our successful students start with the graduate diploma, using it as a stepping stone to the advanced program.' Always connect pathways to career outcomes: 'This structured approach ensures you meet accreditation requirements while developing professional competencies.' Remember to maintain appropriate boundaries by focusing on program structure rather than specific career guidance."
+        },
+        {
+          "id": 4,
+          "title": "Alternative Analytics Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983287984",
+              "segment_id": "58",
+              "timestamp": "09:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed clear interest in pursuing analytics education, stating 'I would like to study online for their managerial analysis' (call_596983287984, seg_58). This indicated both specific career direction and educational goals, creating an opportunity to explore viable pathways even when direct program entry wasn't immediately possible.",
+          "consultant_response": "The consultant's response was limited and discouraging: 'Unfortunately, without a pre-study certificate at university, I can't really do much for you in terms of getting into the Graduate Certificate of Analytics. I'm really sorry' (segment 107). This approach failed to explore alternative pathways or maintain student engagement through constructive solutions.",
+          "priority": "high",
+          "recommended_approach": "When direct program entry isn't possible, transform the conversation from a dead end into an opportunity for strategic pathway planning. Begin by acknowledging their career goal: 'I appreciate your interest in analytics, and I want to help you find a path toward that goal.' Then explore their background: 'Could you tell me more about your current experience with data and analysis?' Use this information to suggest viable alternatives: 'While the Graduate Certificate requires specific prerequisites, we have several pathways that could help you build the necessary foundation.' Present specific options: 'Many successful students start with our business fundamentals course, which includes introductory statistics and data analysis.' Show how each step builds toward their goal: 'This approach not only prepares you for the analytics program but provides valuable business context for your future analytics work.' The key is maintaining momentum by transforming barriers into structured stepping stones toward their desired outcome."
+        },
+        {
+          "id": 5,
+          "title": "Financial Barrier Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148457869",
+              "segment_id": "49",
+              "timestamp": "11:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597148457869 (segment 49), the student expressed significant financial concerns, stating 'Yeah, I think it's just much for me at the moment.' This crucial moment revealed that cost was emerging as a potential barrier to enrollment, requiring immediate and thorough attention to prevent the student from disengaging from the enrollment process entirely.",
+          "consultant_response": "The consultant responded with 'No, and that's okay, that's why I wanted you to know, because you were paying up front, and yeah, if you did have free help it would probably be different' (segment 50). While this showed acknowledgment of the concern, it failed to actively explore potential solutions or discuss various payment options that might make the program more accessible.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, begin by validating the investment nature of education while immediately transitioning to explore viable solutions. Start with empathy: 'I understand this is a significant investment, and I want to help you explore all available options.' Then probe gently to understand their specific financial situation: 'Are you interested in learning about our various payment arrangements?' Guide them through available options: 'Many students find our payment plan option helps make the program more manageable - it breaks the fees into smaller installments.' Share specific examples of how other students have successfully managed program costs: 'Some students choose to start with one unit to spread the initial investment, while others utilize employer support programs.' Present multiple pathways: 'Let's explore which combination of payment options and study pace would work best for your circumstances.' The key is transforming financial concerns from barriers into planning opportunities through collaborative exploration of solutions."
+        },
+        {
+          "id": 6,
+          "title": "Study Break Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062280008",
+              "segment_id": "48",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062463219",
+                "segment_id": "159",
+                "timestamp": "08:30"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed concern about managing study during busy periods: 'And do you have to do it in a certain time frame or can you... if there's busy periods of my life where I know I'm going to be really busy can I have a break and come back to it?' (call_597062280008, seg_48). This was reinforced in another call where a student stated: 'I would love to know if I got in so I know how to pace myself' (call_597062463219, seg_159), both indicating a need for strategic break planning.",
+          "consultant_response": "The consultant's response was minimal, stating only: 'Yeah you can you've got three and a half years to do it if you want that's fine' (call_597062280008, seg_51). While this provided basic timeline information, it missed the opportunity to engage in meaningful discussion about strategic break planning and study management strategies.",
+          "priority": "high",
+          "recommended_approach": "When discussing program flexibility and break planning, begin by acknowledging that life demands often require strategic pauses in study. Start with validation: 'It's great that you're thinking proactively about managing your study around busy periods.' Then explore their anticipated challenges: 'When do you typically experience peak workload or busy seasons?' Use this information to develop strategic planning: 'Let's look at how we can structure your study to accommodate these busy periods while maintaining momentum.' Share specific strategies that successful students use: 'Some students reduce their study load during busy periods rather than taking a complete break, while others plan intensive study during quieter times.' Guide them in thinking through options: 'The 3.5-year timeframe gives you flexibility to plan strategic breaks while staying on track with your goals.' The key is transforming potential barriers into manageable challenges through proactive planning."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 256,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 72,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.125,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 184,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.875,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.61386447173493,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 184,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 92.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.65,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 163.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.28,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear, actionable guidance and support mechanisms"
+      },
+      {
+        "headline": "Credit Recognition Integration",
+        "explanation": "Strong demonstration of how prior learning recognition creates tangible benefits through reduced study requirements, accelerated completion pathways, and strategic timing advantages"
+      },
+      {
+        "headline": "Flexible Study Implementation",
+        "explanation": "Effective demonstration of how program flexibility accommodates diverse student circumstances through tailored study load options, adaptive scheduling approaches, and personalized planning support"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Alignment",
+        "explanation": "Enhanced exploration needed of how program elements and support systems specifically align with students' professional goals through structured pathway discussions and concrete examples"
+      },
+      {
+        "headline": "Administrative Process Navigation",
+        "explanation": "More proactive and solution-focused guidance needed when addressing administrative challenges that could impact enrollment progress, with clear resolution pathways"
+      },
+      {
+        "headline": "Initial Engagement Depth",
+        "explanation": "Need for deeper exploration of student motivations and goals during initial discussions to establish stronger collaborative foundations and personalized guidance"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845842675",
+              "segment_id": "304",
+              "timestamp": "50:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596845842675",
+                "segment_id": "307",
+                "timestamp": "51:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I want to get a degree in criminology' (call_596845842675, seg_304), revealing need for clear educational pathway guidance and career progression options.",
+          "consultant_response": "Consultant provided detailed pathway: 'So you're hoping to get into the law course? So all you've got to do is you've got to pass four units and you've got to get a 60% grade average' (call_596845842675, seg_307).",
+          "context_impact": "Critical moment to demonstrate how program specifically supports career aspirations while providing clear progression pathways.",
+          "recommended_approach": "Include more specific examples of successful transitions and diverse career outcomes from past students to strengthen pathway credibility and motivation."
+        },
+        {
+          "id": 2,
+          "title": "Credit Recognition Benefits",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983482112",
+              "segment_id": "18",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596983482112",
+                "segment_id": "19",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed surprise: 'Oh really?' (call_596983482112, seg_18) when learning about significant unit exemptions and accelerated completion options.",
+          "consultant_response": "Consultant explained benefits clearly: 'Yeah so you just have 16 units left before you can finish the course. So if you think you can take on one unit, you can just do the foundation unit to begin with' (call_596983482112, seg_19).",
+          "context_impact": "Pivotal opportunity to demonstrate concrete program benefits through reduced study requirements while maintaining academic quality standards.",
+          "recommended_approach": "Provide more detailed exploration of how reduced units specifically align with student's career timeline and professional development goals."
+        },
+        {
+          "id": 3,
+          "title": "Administrative Barrier Resolution",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845842675",
+              "segment_id": "30",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted: 'So, my preferred name is Nathaniel' (call_596845842675, seg_30), highlighting potential enrollment documentation issues requiring resolution.",
+          "consultant_response": "Consultant provided minimal guidance: 'Yeah, but do you see how these aren't, like the names aren't the same?' (call_596845842675, seg_34).",
+          "context_impact": "Administrative discrepancy requiring clear resolution pathway to prevent enrollment delays and maintain student confidence.",
+          "recommended_approach": "Provide clear, step-by-step guidance for resolving name discrepancies, including specific documentation requirements and support contact points."
+        },
+        {
+          "id": 4,
+          "title": "Study Load Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061627569",
+              "segment_id": "173",
+              "timestamp": "13:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597061627569",
+                "segment_id": "175",
+                "timestamp": "13:30"
+              }
+            ]
+          },
+          "student_trigger": "Consultant initiated flexibility discussion: 'Now you get to choose your study load so remember it is flexible' (call_597061627569, seg_173).",
+          "consultant_response": "Consultant outlined options: 'Were you thinking of just starting with the one unit?... you can drop a unit up until the Census date' (call_597061627569, seg_175).",
+          "context_impact": "Key moment to demonstrate how program accommodates diverse student circumstances through adaptive study options.",
+          "recommended_approach": "Explore student's specific circumstances more deeply to provide more tailored flexibility recommendations aligned with their goals and commitments."
+        },
+        {
+          "id": 5,
+          "title": "Initial Program Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983482112",
+              "segment_id": "4",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Consultant noted: 'I was just calling about the application that you started for the Bachelor of Accounting' (call_596983482112, seg_4).",
+          "consultant_response": "Consultant asked basic question: 'Yeah have we got you at a good time?' (call_596983482112, seg_7).",
+          "context_impact": "Opportunity to deeply explore student's program choice motivations and career aspirations.",
+          "recommended_approach": "Implement more strategic questioning to understand student's program choice rationale and career goals during initial contact."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158814213",
+              "segment_id": "42",
+              "timestamp": "7:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I might need help with academic writing since it's been a while' (call_597158814213, seg_42), revealing specific concerns about academic readiness.",
+          "consultant_response": "Consultant provided basic information about writing support without exploring full range of available resources or addressing specific concerns.",
+          "context_impact": "Key opportunity to demonstrate comprehensive support systems that enable successful return to study through targeted assistance.",
+          "recommended_approach": "Develop more detailed discussion of academic support services and specific success strategies for returning students with clear implementation steps."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845842675",
+              "segment_id": "304",
+              "timestamp": "50:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596845842675",
+                "segment_id": "307",
+                "timestamp": "51:15"
+              }
+            ]
+          },
+          "student_trigger": "During call 596845842675, the student expressed clear career aspirations: 'I want to get a degree in criminology' (segment 304). This statement revealed not just an interest in the program but a desire for clear guidance on educational pathways that could support their career goals. This type of direct expression of career interests creates a crucial opportunity for the consultant to demonstrate how the program can align with and support specific professional aspirations.",
+          "consultant_response": "The consultant demonstrated strong pathway planning by responding: 'So you're hoping to get into the law course? So all you've got to do is you've got to pass four units and you've got to get a 60% grade average. You can request the course transfer and you can use that to get into the Bachelor of Laws' (segment 307). This response effectively showed how the criminology program could serve as a stepping stone to law, providing specific criteria and clear milestones. By outlining concrete requirements and progression options, the consultant helped the student visualize their potential educational journey while building confidence in their ability to achieve their goals.",
+          "priority": "high",
+          "recommended_approach": "When addressing career pathway planning, consultants should start by acknowledging the student's expressed career goals and then immediately bridge to specific program benefits that support those aspirations. The key is making progression pathways tangible through clear, achievable milestones. For example, when a student expresses interest in a specific field like criminology, respond with concrete information about potential career trajectories: 'Many of our graduates use this degree as a foundation for various career paths. For instance, with a 60% average in your first four units, you could transition into law, or you could pursue opportunities in criminal justice, policy development, or research.' This approach should be tailored based on the student's expressed interests while maintaining flexibility for future career options. Pay particular attention to providing specific examples of successful transitions and career outcomes from past students, as these real-world examples help students visualize their own potential journey. The goal is to transform general career interests into clear, actionable educational pathways that motivate immediate enrollment while supporting long-term career success."
+        },
+        {
+          "id": 2,
+          "title": "Credit Recognition Benefits",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983482112",
+              "segment_id": "18",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596983482112",
+                "segment_id": "19",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "In call 596983482112, when informed about unit exemptions, the student responded with surprise: 'Oh really?' followed by confirmation about having only 16 units remaining (segment 18). This reaction indicated a pivotal moment where the student realized the significant advantage of their prior learning being recognized. Such moments are crucial for demonstrating the tangible benefits of enrollment while addressing potential concerns about study duration.",
+          "consultant_response": "The consultant effectively capitalized on this opportunity by explaining: 'Yeah so you just have 16 units left before you can finish the course. So if you think you can take on one unit, you can just do the foundation unit to begin with if you want to. Otherwise, we can obviously still enrol you for July once the enrolments are open' (segment 19). This response successfully balanced highlighting the benefits of credit recognition with practical next steps, demonstrating both the value proposition and flexibility of the program.",
+          "priority": "high",
+          "recommended_approach": "When discussing credit recognition benefits, begin by clearly acknowledging the value of the student's prior learning while connecting it to their current goals. Start with confirmation of the credits: 'Your previous studies have put you in an excellent position - you're already halfway through the degree with 16 units remaining.' Then immediately connect this to practical benefits: 'This means you could complete your degree in half the usual time, potentially graduating by [specific date] if you maintain a full-time load, or we can create a more flexible schedule that works around your other commitments.' Pay particular attention to showing how reduced study requirements can accelerate career progression: 'Many students find that combining their existing credits with our flexible study options allows them to balance work commitments while still making steady progress toward their career goals.' The key is transforming credit recognition from a simple administrative process into a strategic advantage for the student's educational journey through structured planning and clear progression pathways."
+        },
+        {
+          "id": 3,
+          "title": "Administrative Barrier Resolution",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845842675",
+              "segment_id": "30",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596845842675, the student raised an administrative concern by stating: 'So, my preferred name is Nathaniel' (segment 30), highlighting a potential documentation issue that could impact their enrollment process. This type of administrative discrepancy, while seemingly minor, can create significant barriers to smooth enrollment if not addressed properly and proactively.",
+          "consultant_response": "The consultant's response was minimal and non-directive: 'Yeah, but do you see how these aren't, like the names aren't the same?' (segment 34). This approach failed to provide clear guidance or resolution steps, potentially leaving the student uncertain about how to proceed and what impact this discrepancy might have on their enrollment. The lack of proactive problem-solving could create unnecessary anxiety and administrative delays.",
+          "priority": "medium",
+          "recommended_approach": "When addressing administrative barriers like name discrepancies, consultants should take a proactive, solution-focused approach that demonstrates institutional support while maintaining appropriate boundaries. Begin by acknowledging the issue with empathy: 'I understand having your preferred name properly recorded is important, and I want to ensure this is resolved before it impacts your enrollment.' Then provide clear, actionable steps: 'Let me walk you through the process for updating your name in our system. First, you'll need to submit official documentation to our enrollment team - I can email you the specific requirements and forms right after our call.' Throughout the conversation, maintain a supportive tone while being specific about requirements: 'While we process the update, I'll note your preferred name in our system to ensure other staff address you correctly.' This approach should be structured to resolve administrative barriers efficiently while building trust in the institution's support systems through clear guidance and proactive assistance."
+        },
+        {
+          "id": 4,
+          "title": "Study Load Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061627569",
+              "segment_id": "173",
+              "timestamp": "13:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597061627569",
+                "segment_id": "175",
+                "timestamp": "13:30"
+              }
+            ]
+          },
+          "student_trigger": "At segment 173, the consultant initiated a discussion about study load flexibility: 'Now you get to choose your study load so remember it is flexible.' This proactive introduction of flexibility options created an opportunity to demonstrate how the program accommodates diverse student circumstances and commitments through adaptable study arrangements.",
+          "consultant_response": "The consultant outlined options by stating: 'Were you thinking of just starting with the one unit? Yeah that's fine if you want to start with one like I said you can drop a unit up until the Census date' (segment 175). While this response provided basic information about study load options and adjustment periods, it could have been enhanced through deeper exploration of the student's specific circumstances and needs.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load flexibility, begin with a broad acknowledgment of how different students require different approaches to managing their studies. Open with questions that explore the student's specific situation: 'Before we discuss study load options, could you tell me about your current work or family commitments?' Use this information to tailor recommendations: 'Given your full-time work schedule, many students in similar situations find starting with one unit helps them establish a sustainable study routine.' Provide specific examples of how flexibility works in practice: 'For instance, you could start with one unit in your first teaching period, then adjust based on how you're managing - some students increase their load once they're comfortable with the study rhythm, while others maintain a steady pace throughout.' Always emphasize the support available for making these decisions: 'Our student advisors can help you plan your study schedule around your commitments, ensuring you maintain momentum while balancing other responsibilities.' The key is demonstrating how our flexible study options enable success through personalized planning and adaptive support."
+        },
+        {
+          "id": 5,
+          "title": "Initial Program Exploration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983482112",
+              "segment_id": "4",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The consultant opened with: 'I was just calling about the application that you started for the Bachelor of Accounting' (segment 4), presenting an opportunity to explore the student's program choice rationale and career aspirations in depth.",
+          "consultant_response": "The consultant defaulted to a basic scheduling question: 'Yeah have we got you at a good time?' (segment 7), missing the chance to engage in meaningful discussion about the student's educational and career goals.",
+          "priority": "medium",
+          "recommended_approach": "When initiating contact about a program application, use this moment to build rapport and gather valuable insights about the student's motivations. Begin with acknowledgment and curiosity: 'I see you've started an application for our Bachelor of Accounting - I'd love to hear what attracted you to this program.' This opens the door for deeper exploration: 'What aspects of accounting particularly interest you? Are there specific career paths you're considering?' Use their responses to tailor the discussion: 'Many of our accounting students are drawn to [specific aspect they mentioned] - let me share how our program specifically supports that interest.' Throughout the conversation, connect their motivations to program features: 'Given your interest in [career goal], you might be particularly interested in our [relevant specialization or industry partnership].' The aim is to transform a routine follow-up call into a meaningful discussion that strengthens the student's connection to the program while gathering insights that can inform future interactions and personalized support planning."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158814213",
+              "segment_id": "42",
+              "timestamp": "7:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed specific concerns about academic readiness: 'I might need help with academic writing since it's been a while' (call_597158814213, seg_42). This disclosure revealed both self-awareness about potential challenges and proactive interest in support services, presenting a crucial opportunity to demonstrate comprehensive support mechanisms while building confidence in their return to study.",
+          "consultant_response": "The consultant provided only basic information about writing support services without exploring the full range of available resources or addressing the underlying concerns about returning to study. This missed opportunity to build confidence through comprehensive support planning and specific success strategies for returning students.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study, begin by validating the student's awareness of potential challenges while emphasizing the comprehensive support available. Start with acknowledgment: 'It's great that you're thinking proactively about academic support - many successful students return to study after breaks, and we have specific systems designed to help you transition back effectively.' Then outline concrete support mechanisms: 'Our academic skills team provides personalized writing support, from basics like essay structure to advanced research methods. Many returning students start with our academic skills workshops in the weeks before classes begin, then schedule regular check-ins with learning advisors during their first term.' The key is demonstrating how our support systems transform academic concerns into manageable challenges through structured planning and clear guidance: 'We can work together to create a personalized academic support plan that builds your confidence and skills from day one.' Always emphasize the practical implementation of support services while maintaining focus on the student's specific needs and goals through targeted assistance and regular check-ins."
+        }
+      ]
+    }
+  }
+}

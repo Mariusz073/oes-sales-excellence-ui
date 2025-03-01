@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 379,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 16.094986807387862,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 318,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 83.90501319261213,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.9000255451277,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 318,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 207.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.0,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 142.26,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.94,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical action plans"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through tailored study options, specific examples, and comprehensive support systems"
+      },
+      {
+        "headline": "Support System Navigation",
+        "explanation": "Clear communication of available support mechanisms with seamless guidance through transitions, ensuring students understand both immediate and post-enrollment resources"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career transition goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, particularly around academic readiness and transferable skills"
+      },
+      {
+        "headline": "Alternative Pathway Exploration",
+        "explanation": "Deeper discussion required when exploring alternative study pathways to maintain student motivation while demonstrating clear routes to program completion"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914953139",
+              "segment_id": "90",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'If it doesn't work, because like, I am working currently, so I want that freedom to do my own study on my own pace' (call_596914953139, seg_90), revealing need for study flexibility.",
+          "consultant_response": "Consultant effectively explained: 'With Monash Online we operate in teaching periods...because it is online, you've got that flexibility to get your coursework done at any point in time as there are no set classes or attendance requirements' (call_596914953139, seg_97).",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates working students to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current working students in similar roles."
+        },
+        {
+          "id": 2,
+          "title": "Academic Confidence Building",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148248836",
+              "segment_id": "0",
+              "timestamp": "00:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597148248836, seg_0), revealing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant simply replied: 'That's quite alright' (call_597148248836, seg_36), missing opportunity to address underlying fears and build confidence.",
+          "context_impact": "Student confidence in academic ability directly impacts enrollment decision and requires comprehensive support approach.",
+          "recommended_approach": "Validate concerns while highlighting transferable skills from work experience and available support resources."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062535190",
+              "segment_id": "95",
+              "timestamp": "05:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'Yeah, the grades in the undergrad were not as great, which is why back when I completed it, I didn't go on for honours or anything else' (call_597062535190, seg_95).",
+          "consultant_response": "Consultant outlined options: 'If it falls between 60 to 69.99 we do have two single unit pathways in which you'll be able to enroll into. Once you complete those successfully, you'll then be able to continue your studies' (call_597062535190, seg_102).",
+          "context_impact": "This concern about past academic performance required clear demonstration of alternative pathways while maintaining enrollment momentum.",
+          "recommended_approach": "Include more emphasis on recent successes and current capabilities while explaining pathway options."
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908308470",
+              "segment_id": "61",
+              "timestamp": "10:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm restarting my architecture business. I was quite ill and I had to stop my architecture business, stop everything' (call_596908308470, seg_61), revealing need for education aligned with business revival.",
+          "consultant_response": "Consultant provided limited program information without exploring how specific elements could support business revival goals.",
+          "context_impact": "Crucial opportunity to demonstrate program support for business restart while showing sensitivity to health recovery context.",
+          "recommended_approach": "Include concrete examples of how program skills apply to business scenarios while maintaining appropriate boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062343858",
+              "segment_id": "52",
+              "timestamp": "02:57"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I wasn't born in Australia though' (call_597062343858, seg_52), revealing need for specific documentation guidance.",
+          "consultant_response": "Consultant offered practical solution: 'So regarding that, it will mean that we'll still need your English transcripts... I can actually access that on my behalf if you do give us consent' (call_597062343858, seg_62).",
+          "context_impact": "Critical moment requiring clear direction on alternative documentation options to maintain enrollment momentum.",
+          "recommended_approach": "Include more proactive exploration of documentation alternatives and support options."
+        },
+        {
+          "id": 6,
+          "title": "Study Timeline Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915500176",
+              "segment_id": "137",
+              "timestamp": "07:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student discussed surgery scheduling: 'So I have a surgery scheduled in July for which I have to take two weeks off' (call_596915500176, seg_137).",
+          "consultant_response": "Consultant explored timeline fit: 'How would beginning at that timeframe suit your work-life balance?' (call_596915500176, seg_137).",
+          "context_impact": "Key opportunity to demonstrate program flexibility around personal health commitments.",
+          "recommended_approach": "Include more specific examples of flexible study planning around medical procedures while maintaining boundaries."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914953139",
+              "segment_id": "90",
+              "timestamp": "04:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 596914953139 (segment 90), the student expressed significant concern about managing work and study commitments: 'If it doesn't work, because like, I am working currently, so I want that freedom to do my own study on my own pace.' This statement revealed both interest in pursuing education and anxiety about practical implementation, highlighting the critical need to demonstrate how the program could accommodate their working lifestyle.",
+          "consultant_response": "The consultant provided a comprehensive explanation of the program's flexible structure: 'With Monash Online we operate in teaching periods as opposed to trimesters, so we've got six teaching periods each year that run for a total of six weeks each... because it is online, you've got that flexibility in a sense that you can get your coursework done at any point in time as there are no set classes or attendance requirements' (call_596914953139, seg_97). This response effectively addressed the student's concerns by outlining specific program features that enable work-study balance.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging the specific challenges working students face, then immediately bridge to concrete examples of how our program structure accommodates these needs. The key is transforming general flexibility statements into tangible benefits. For instance, explain how the six-week teaching periods allow for focused, manageable study blocks, and how the absence of fixed class times enables students to create study schedules around their work commitments. Share specific examples of how current working students structure their study time: 'Many students download materials at the start of each teaching period, completing readings during lunch breaks or setting aside weekend study time.' When discussing online flexibility, demonstrate exactly how it works: 'You can access all materials offline, so whether you're commuting or between meetings, you can make progress on your studies.' The goal is to help students envision how they'll practically integrate study into their existing commitments, always grounding explanations in real-world scenarios that resonate with their situation."
+        },
+        {
+          "id": 2,
+          "title": "Academic Confidence Building",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148248836",
+              "segment_id": "0",
+              "timestamp": "00:01"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During initial conversation, the student revealed significant anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597148248836, seg_0). This disclosure represented a critical moment where addressing the student's confidence concerns could directly impact their enrollment decision.",
+          "consultant_response": "The consultant's response was notably brief and missed the opportunity for deeper engagement, simply stating: 'That's quite alright' (call_597148248836, seg_36). This minimal acknowledgment failed to address the student's underlying fears about academic readiness or provide any meaningful reassurance about their ability to succeed in the program.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after an extended break, start by validating their feelings while emphasizing how common this situation is among successful students. Begin with empathetic acknowledgment: 'Many of our most successful students have had similar gaps in their formal education - your life experience is actually a valuable asset.' Then, explore their professional background: 'Could you tell me about your work experience? Often, skills like project management and problem-solving transfer directly to academic success.' Share specific examples of how other career professionals have successfully transitioned back to study: 'We recently had a student who returned after 20 years - they found their workplace experience actually gave them an advantage in applying concepts to real-world scenarios.' Focus on the comprehensive support available: 'Our online learning environment is specifically designed for professionals returning to study, with features like flexible scheduling and dedicated academic support.' Remember to emphasize that academic confidence often builds quickly once students begin applying their professional skills to their studies."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Pathway Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062535190",
+              "segment_id": "95",
+              "timestamp": "05:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about past academic performance: 'Yeah, the grades in the undergrad were not as great, which is why back when I completed it, I didn't go on for honours or anything else' (call_597062535190, seg_95). This disclosure revealed anxiety about qualification requirements while presenting an opportunity to demonstrate alternative pathway options.",
+          "consultant_response": "The consultant provided clear pathways guidance: 'If it falls between 60 to 69.99 we do have two single unit pathways in which you'll be able to enroll into. Once you complete those successfully, you'll then be able to continue your studies' (call_597062535190, seg_102). This response effectively outlined specific options while maintaining focus on achievable progression.",
+          "priority": "high",
+          "recommended_approach": "When discussing alternative pathways, begin by acknowledging past challenges while emphasizing current potential: 'Thank you for sharing that context - let me show you how our pathway options create opportunities for success.' Guide the conversation through available options: 'We have multiple entry pathways designed to help students demonstrate their current capabilities.' Share specific success stories: 'Many of our strongest students have used these pathway options to showcase their abilities and progress into full program study.' Explain the support available: 'During pathway units, you'll have access to comprehensive academic support to ensure a strong start.' Always emphasize how pathway options create clear routes to program completion: 'These units are designed to build confidence and demonstrate your readiness for advanced study.' The key is showing how alternative pathways represent opportunities rather than barriers, while maintaining focus on the student's demonstrated potential for success."
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908308470",
+              "segment_id": "61",
+              "timestamp": "10:47"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant personal and professional transition needs: 'I'm restarting my architecture business. I was quite ill and I had to stop my architecture business, stop everything' (call_596908308470, seg_61). This disclosure presented a complex need to align educational choices with business revival goals while considering health recovery context.",
+          "consultant_response": "The consultant provided basic program information without adequately exploring how specific program elements could support the student's business restart goals or demonstrating sensitivity to their health recovery journey.",
+          "priority": "high",
+          "recommended_approach": "When supporting students restarting businesses after health challenges, begin by acknowledging both their professional experience and personal journey: 'I understand you're looking to restart your architecture practice - let's explore how our program can support that goal.' Guide the discussion toward specific applications: 'Many architects have enhanced their practices through our programming courses. For example, database knowledge helps manage complex project data, while Java programming can automate design processes.' Use targeted questions to understand their business needs: 'What specific technological aspects of your practice would you like to enhance?' Share relevant alumni success stories while maintaining sensitivity to health recovery context. The key is demonstrating immediate practical applications while showing how program flexibility supports their transition back to full business operations."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062343858",
+              "segment_id": "52",
+              "timestamp": "02:57"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed an important documentation consideration: 'I wasn't born in Australia though' (call_597062343858, seg_52). This statement revealed potential complexity in their documentation requirements and highlighted the need for clear guidance on alternative documentation pathways.",
+          "consultant_response": "The consultant offered a practical and proactive solution: 'So regarding that, it will mean that we'll still need your English transcripts... I can actually access that on my behalf if you do give us consent' (call_597062343858, seg_62). This response effectively addressed the immediate concern while offering tangible assistance, demonstrating both understanding of requirements and willingness to support the process.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation requirements for international students, begin by acknowledging their specific situation while immediately offering clear, actionable solutions. Start with validation: 'Thank you for bringing this up - let me show you exactly how we can handle your documentation requirements.' Then outline specific options: 'There are several ways we can verify your English proficiency, including academic transcripts or standardized test scores.' When students express concern about documentation access, offer practical support while maintaining appropriate boundaries: 'I can help access your transcripts directly if you provide consent, or guide you through alternative documentation options.' The key is transforming potential barriers into manageable steps: 'Let's create a checklist of required documents and explore the easiest way to obtain each one.' Always emphasize available support mechanisms: 'Our team can assist with document verification and provide guidance throughout the process.' The goal is to demonstrate that documentation requirements, while important, shouldn't be a barrier to enrollment."
+        },
+        {
+          "id": 6,
+          "title": "Study Timeline Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915500176",
+              "segment_id": "137",
+              "timestamp": "07:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed important medical timing considerations: 'So I have a surgery scheduled in July for which I have to take two weeks off' (call_596915500176, seg_137). This presented an opportunity to demonstrate program flexibility while maintaining appropriate boundaries regarding medical circumstances.",
+          "consultant_response": "The consultant showed good awareness of work-life balance needs by asking: 'How would beginning at that timeframe suit your work-life balance?' (call_596915500176, seg_137). This response demonstrated sensitivity to personal circumstances while maintaining focus on practical planning.",
+          "priority": "high",
+          "recommended_approach": "When students disclose medical procedures affecting study timing, begin by acknowledging their situation while focusing on flexible solutions: 'Thank you for sharing about your upcoming surgery. Let's ensure your study schedule supports your recovery.' Guide the discussion toward specific planning options: 'Many students successfully manage similar situations through our flexible study options. For instance, you could start with a reduced load or delay until full recovery.' Share examples of how others have managed similar circumstances: 'Some students download materials before procedures for light review during recovery, while others prefer a fresh start post-recovery.' Always emphasize program flexibility while maintaining appropriate boundaries regarding medical specifics. The key is demonstrating how course structure accommodates personal circumstances while creating clear action plans aligned with their recovery timeline."
+        }
+      ]
+    }
+  }
+}

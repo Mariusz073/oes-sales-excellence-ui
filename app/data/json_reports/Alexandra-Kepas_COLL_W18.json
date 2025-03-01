@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 210,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 67,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.9047619047619,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 143,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.0952380952381,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.705944045572224,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 143,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 120.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.48,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 151.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.62,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work schedules, family commitments and lifestyle demands"
+      },
+      {
+        "headline": "Proactive Documentation Support",
+        "explanation": "Clear guidance through documentation requirements with effective templates, support mechanisms and personalized assistance throughout the process"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, particularly in validating transferable skills and addressing academic concerns"
+      },
+      {
+        "headline": "Communication Continuity",
+        "explanation": "Stronger attention required to previous interactions and student context to maintain trust and engagement throughout the enrollment journey while ensuring consistent support"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070183676",
+              "segment_id": "29",
+              "timestamp": "1:26"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062095255",
+                "segment_id": "236",
+                "timestamp": "10:02"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I really want to do this course, I just I don't want to... overdo it' (call_597070183676, seg_29), revealing concerns about balancing study with work commitments.",
+          "consultant_response": "Consultant effectively advised: 'our largest demographic of students are full-time working professionals with young families just like yourself so our studies are ultimately designed for someone like yourself' (call_597070183676, seg_33).",
+          "context_impact": "Critical moment requiring demonstration of how program flexibility enables successful study alongside work commitments while maintaining academic quality.",
+          "recommended_approach": "Include more specific examples of successful work-study integration strategies from current students with similar circumstances."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845887055",
+              "segment_id": "33",
+              "timestamp": "03:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596845560213",
+                "segment_id": "51",
+                "timestamp": "04:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596845887055, seg_33), revealing anxiety about academic readiness.",
+          "consultant_response": "Consultant focused on administrative details without addressing study confidence concerns or validating transferable skills.",
+          "context_impact": "Crucial opportunity to validate professional experience while building academic confidence and developing practical success strategies.",
+          "recommended_approach": "Develop comprehensive discussion validating professional experience while demonstrating how specific program features support successful return to study."
+        },
+        {
+          "id": 3,
+          "title": "Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158642463",
+              "segment_id": "147",
+              "timestamp": "21:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597158642463",
+                "segment_id": "149",
+                "timestamp": "21:30"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I was thinking maybe to start with part-time, but then maybe change to full-time maybe next year' (call_597158642463, seg_147), seeking guidance on study load progression.",
+          "consultant_response": "Consultant provided strategic guidance: 'If you want to be part-time we usually recommend starting on two units... but if you don't think you can manage it then I would just say start with the one unit, see how you go?' (call_597158642463, seg_149)",
+          "context_impact": "Required clear demonstration of program flexibility while ensuring appropriate academic progression planning.",
+          "recommended_approach": "Include more specific examples of successful study load transitions and available support resources."
+        },
+        {
+          "id": 4,
+          "title": "Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148119117",
+              "segment_id": "19",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I did try uni like three times when I was younger and then COVID hit and I became a restaurant manager' (call_597148119117, seg_19), revealing valuable experience and previous study attempts.",
+          "consultant_response": "Consultant missed exploring how management experience could benefit studies or how program flexibility addresses past challenges, losing opportunity to demonstrate program relevance.",
+          "context_impact": "Understanding past experiences and current role was crucial for tailoring program benefits and support strategies while building confidence in future success.",
+          "recommended_approach": "Explore transferable skills from management role and discuss how program design prevents previous study challenges while maintaining enrollment momentum."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148119117",
+              "segment_id": "41",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So like a pay slip for four years?' (call_597148119117, seg_39), revealing uncertainty about documentation requirements and need for clear guidance.",
+          "consultant_response": "Consultant offered specific support: 'I'll include a resume template for you...send that through to Bridget as a reply to that email' (call_597148119117, seg_41), providing both tools and clear next steps.",
+          "context_impact": "Providing clear documentation guidance was essential for maintaining application momentum and reducing complexity while demonstrating proactive support.",
+          "recommended_approach": "Add timeline expectations and confirmation process details while maintaining clear communication channels."
+        },
+        {
+          "id": 6,
+          "title": "Communication Continuity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761301441",
+              "segment_id": "15",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'The response from what? From you, when I told you that he was on live chat' (call_596761301441, seg_13), indicating confusion about previous interaction.",
+          "consultant_response": "Consultant responded dismissively: 'Oh, really? I think so. I don't think was me. I don't remember this guy at all' (call_596761301441, seg_15), missing opportunity to rebuild trust.",
+          "context_impact": "Addressing previous interaction concerns was crucial for maintaining student confidence and trust throughout the enrollment journey.",
+          "recommended_approach": "Acknowledge previous interaction concerns and provide clear path forward with specific support steps while maintaining professional communication."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070183676",
+              "segment_id": "29",
+              "timestamp": "1:26"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062095255",
+                "segment_id": "236",
+                "timestamp": "10:02"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant concern about managing competing commitments: 'I really want to do this course, I just I don't want to... overdo it' (call_597070183676, seg_29). This revealed both strong interest in the program and anxiety about practical implementation of study alongside work commitments.",
+          "consultant_response": "The consultant effectively addressed these concerns by relating to the student's situation: 'our largest demographic of students are full-time working professionals with young families just like yourself so our studies are ultimately designed for someone like yourself to be able to add that on top of your existing schedule' (call_597070183676, seg_33). This response successfully validated the student's concerns while highlighting program flexibility and demonstrating understanding of their specific circumstances.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging the specific challenges of managing multiple commitments while maintaining a positive, solution-focused approach. Start with validation: 'Managing work alongside study requires careful planning - let me show you how our program is specifically designed for working professionals.' Then explore their particular work patterns: 'What does a typical work week look like for you?' This allows for targeted examples of how program features support their schedule. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access enables study during quiet periods or commutes. Share specific success strategies: 'Many of our students download materials for offline study during breaks, some prefer focused evening sessions, while others spread study across their week.' When discussing flexibility, always ground examples in real scenarios: 'One recent graduate maintained full-time work by studying in focused blocks during quieter periods - they found our mobile platform particularly helpful for maximizing small pockets of time.' The key is demonstrating how specific program features enable successful integration while maintaining appropriate advisory boundaries and academic quality."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845887055",
+              "segment_id": "33",
+              "timestamp": "03:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596845560213",
+                "segment_id": "51",
+                "timestamp": "04:30"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596845887055, seg_33). This revealed both concern about academic readiness and hope that their professional experience might be valuable in their studies.",
+          "consultant_response": "The consultant focused primarily on administrative processes without addressing the emotional aspects of returning to study or validating the student's professional experience. This missed opportunity to build confidence and demonstrate how life experience enhances academic success.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after a long break, immediately validate their professional growth during that time. Begin with acknowledgment: 'Those 15 years haven't been lost time - you've been developing valuable skills that can enhance your academic success.' Guide them to recognize transferable skills: 'Your experience managing projects and analyzing reports demonstrates the critical thinking skills needed in academic work.' Share success stories: 'Many of our most successful students return to study after significant breaks, bringing valuable work experience that enriches classroom discussions.' When discussing study strategies, connect to familiar skills: 'Just as you break down complex work projects, we'll help you approach assignments in manageable steps.' The key is helping students recognize how their mature perspective and professional experience actually advantages them in academic contexts, while ensuring they understand the comprehensive support available to refresh academic skills."
+        },
+        {
+          "id": 3,
+          "title": "Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158642463",
+              "segment_id": "147",
+              "timestamp": "21:00"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597158642463",
+                "segment_id": "149",
+                "timestamp": "21:30"
+              }
+            ]
+          },
+          "student_trigger": "The student initiated thoughtful load planning: 'I was thinking maybe to start with part-time, but then maybe change to full-time maybe next year' (call_597158642463, seg_147). This demonstrated proactive consideration of their study progression while seeking validation of their approach.",
+          "consultant_response": "The consultant provided strategic guidance balancing structure with flexibility: 'If you want to be part-time we usually recommend starting with two units... but if you don't think you can manage it then I would just say start with the one unit, see how you go?' (call_597158642463, seg_149). This effectively validated the student's cautious approach while keeping options open for increased load.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load decisions, acknowledge the student's thoughtful approach to planning while providing structured guidance. Begin with validation: 'Your strategy of starting cautiously shows good planning - let's explore how we can build your confidence and success.' Share specific load management strategies: 'Many students start with one unit to establish their routine, then add another once they're comfortable with the study rhythm.' Discuss transition points: 'Key times for reviewing your study load include after your first assignments and near census dates. Our learning coaches can help you evaluate when you're ready to increase your load.' Use concrete examples: 'One recent graduate started with one unit while working full-time, increased to two units once they established effective study habits, then maintained that balanced approach through graduation.' Always emphasize support availability: 'Whatever load you choose, our learning advisers can help you develop strategies that work for your situation.' The goal is empowering confident decisions while ensuring students understand all available support and flexibility options."
+        },
+        {
+          "id": 4,
+          "title": "Career Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148119117",
+              "segment_id": "19",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared valuable context about their journey: 'I did try uni like three times when I was younger and then COVID hit and I became a restaurant manager' (call_597148119117, seg_19). This revealed both previous academic attempts and significant professional growth, presenting an opportunity to explore how their management experience could enhance their studies.",
+          "consultant_response": "The consultant missed exploring the rich potential in the student's background, failing to discuss how their management experience could be leveraged in their studies or how the program's flexibility could address previous challenges that led to incomplete studies.",
+          "priority": "high",
+          "recommended_approach": "When students reveal past study attempts and significant work experience, engage them in exploring how these experiences can enhance their current educational journey. Begin with acknowledging their resilience: 'Your journey from previous study attempts to becoming a restaurant manager during COVID shows impressive adaptability. That kind of resilience is valuable in education.' Then explore specific skills: 'Restaurant management involves complex people and operational skills - these experiences directly relate to many aspects of our business program.' Use their responses to demonstrate program relevance: 'Your experience managing teams and operations aligns particularly well with our organizational behavior and leadership units. Many successful students bring similar real-world experience to their studies.' Address previous study challenges by highlighting program flexibility: 'Understanding your past university experience helps us ensure you have the right support this time. Our flexible study options mean you can balance work and study effectively, and our student success team is here to help you navigate any challenges.' The key is transforming past challenges into current advantages while building confidence in their ability to succeed."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148119117",
+              "segment_id": "41",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about documentation requirements: 'So like a pay slip for four years?' (call_597148119117, seg_39). This question indicated both willingness to provide documentation and need for clear guidance on acceptable formats.",
+          "consultant_response": "The consultant effectively simplified the process while providing practical support: 'I'll include a resume template for you...send that through to Bridget as a reply to that email' (call_597148119117, seg_41). This response provided both specific tools and clear next steps, reducing complexity while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation requirements, start by affirming the student's attention to detail while simplifying the process. Begin with clear guidance: 'I appreciate you wanting to ensure you provide the right documentation. Let me make this straightforward by sending you our template.' Then outline the process step-by-step: 'Here's exactly what we need: first, I'll email you our resume template, which is designed specifically for highlighting your relevant experience. Many students find it helpful because it clearly shows where to list your roles and qualifications.' Follow with immediate action: 'I'm sending that template now, and I'll CC our advisor Bridget who will help review it once completed. She's helped many students through this exact process.' Always close with clear expectations: 'Once you receive the template, take your time to fill it out, and aim to return it within the next few days if possible. We'll confirm receipt within 24 hours and let you know if we need anything else.' This approach combines practical support with clear communication, reducing anxiety about documentation requirements while maintaining momentum."
+        },
+        {
+          "id": 6,
+          "title": "Communication Continuity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761301441",
+              "segment_id": "15",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about previous communication: 'The response from what? From you, when I told you that he was on live chat' (call_596761301441, seg_13), indicating confusion and potential frustration with interaction continuity.",
+          "consultant_response": "The consultant responded dismissively: 'Oh, really? I think so. I don't think was me. I don't remember this guy at all' (call_596761301441, seg_15), missing the opportunity to address the student's concerns constructively.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about previous interactions, prioritize acknowledgment and forward momentum while maintaining professionalism. Begin with validation: 'I appreciate you bringing this to my attention. While I wasn't involved in your previous interaction, I want to ensure we address any concerns and move forward positively.' Follow with specific action steps: 'Let's review your current situation together and ensure you have all the information and support you need.' Then demonstrate proactive support: 'I can see you've already taken important steps by submitting your application. Let's go through what you've provided and identify any additional support you might need.' This approach acknowledges past experiences while focusing on constructive next steps. Always maintain detailed notes about the current interaction and any agreed actions: 'I'm noting down our discussion points to ensure continuity for your next interaction.' The goal is to rebuild trust through demonstrable attention to the student's needs and clear communication about the path forward."
+        }
+      ]
+    }
+  }
+}

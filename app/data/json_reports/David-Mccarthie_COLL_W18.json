@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 196,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 50,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.510204081632654,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 146,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.48979591836735,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.27531491462942,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 146,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 182.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.52,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 184.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.62,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through collaborative exploration"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical examples and clear validation of unique situations"
+      },
+      {
+        "headline": "Support Framework Integration",
+        "explanation": "Effective guidance through documentation and administrative requirements with clear support mechanisms that build student confidence while maintaining appropriate boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career transition goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Health Support Planning",
+        "explanation": "More comprehensive discussion needed around health accommodations and support mechanisms, particularly for students with disclosed medical conditions requiring specific arrangements"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "Enhanced collaborative discussion needed around financial options and support mechanisms, particularly for students exploring complex payment pathways and support eligibility"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Work-Study Integration Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914718910",
+              "segment_id": "49",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596846436244",
+                "segment_id": "23",
+                "timestamp": "05:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm currently an occupational therapist. I'm on maternity leave at the moment and yeah, just thought I'd inquire and see what the options are. Online learning is probably what I'm after' (call_596914718910, seg_49), revealing critical need for flexible study planning.",
+          "consultant_response": "Consultant effectively replied: 'Yeah, completely online. So the course is done just from the comfort of your own home. You really don't have to go anywhere for any of it. All the exams are online as well' (call_596914718910, seg_56), showing practical understanding of student needs.",
+          "context_impact": "This moment required clear demonstration of how program flexibility could accommodate both professional and personal commitments while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how current students successfully manage study around complex life commitments and healthcare schedules."
+        },
+        {
+          "id": 2,
+          "title": "Health Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148545299",
+              "segment_id": "103",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'I've also got a disability too, I've got Crohn's disease as well' (call_597148545299, seg_103), seeking understanding of available support and accommodations for managing their condition.",
+          "consultant_response": "Consultant replied only: 'Yeah, cool' (call_597148545299, seg_104), missing opportunity to outline available support services and accommodation processes.",
+          "context_impact": "Critical moment requiring demonstration of institutional support capabilities while maintaining appropriate pre-enrollment boundaries.",
+          "recommended_approach": "Should validate health disclosure, outline available support services, and explain accommodation processes while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Career Goal Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846129484",
+              "segment_id": "21",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I guess I've just always had a bit of an interest in the finance side of things. I thought like a financial planner, advisor' (call_596846129484, seg_21), seeking career pathway validation.",
+          "consultant_response": "Consultant stated: 'Yeah, awesome goal. This is definitely the course that'll help you with this one' (call_596846129484, seg_32), providing only surface-level validation without specific program benefits.",
+          "context_impact": "Required balanced exploration of program-career alignment while maintaining appropriate advisory boundaries.",
+          "recommended_approach": "Should explore specific program features supporting career development while clearly referring detailed career guidance to appropriate post-enrollment services."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846111462",
+              "segment_id": "5",
+              "timestamp": "00:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I can only do the course if it's Commonwealth supported place and I know time's ticking away' (call_596846111462, seg_5), revealing urgent need for financial pathway clarity.",
+          "consultant_response": "Consultant provided timeline: 'So the Commonwealth supported place we just need your hex sorted by the census date which is the 4th of April' (call_596846111462, seg_9), focusing only on deadline without comprehensive support.",
+          "context_impact": "Critical moment requiring clear financial guidance while maintaining enrollment momentum and building confidence.",
+          "recommended_approach": "Should provide step-by-step guidance for financial requirements while outlining available support mechanisms and maintaining appropriate boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Experience Recognition",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148545299",
+              "segment_id": "159",
+              "timestamp": "15:33"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've also had 10 years work experience volunteering for the community doing music, organizing music events for Darabin Council as well' (call_597148545299, seg_159), highlighting valuable community experience.",
+          "consultant_response": "Consultant validated: 'Perfect. You can put that on your resume as well. So we can take volunteer work into account' (call_597148545299, seg_162), effectively acknowledging experience value.",
+          "context_impact": "Opportunity to validate non-traditional experience while demonstrating how it strengthens their application and academic preparation.",
+          "recommended_approach": "Could explore specific ways volunteer experience translates to academic success with concrete examples from similar students."
+        },
+        {
+          "id": 6,
+          "title": "Strong Enrollment Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148078833",
+              "segment_id": "77",
+              "timestamp": "05:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062398098",
+                "segment_id": "75",
+                "timestamp": "05:26"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'When does all of this have to be in by? Friday.' (call_597062398098, seg_75), seeking clear timeline guidance for enrollment completion.",
+          "consultant_response": "Consultant stated: 'Close of business tomorrow, which is absolutely achievable' (call_597062398098, seg_77), providing clear timeline while building confidence in completion.",
+          "context_impact": "Critical moment requiring balance of deadline urgency with confidence-building support to maintain enrollment momentum.",
+          "recommended_approach": "Include specific support mechanisms and step-by-step guidance to help students meet application deadlines efficiently."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Work-Study Integration Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914718910",
+              "segment_id": "49",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596846436244",
+                "segment_id": "23",
+                "timestamp": "05:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 596914718910 (segment 49), the student revealed complex life circumstances affecting their study needs: 'I'm currently an occupational therapist. I'm on maternity leave at the moment and yeah, just thought I'd inquire and see what the options are. Online learning is probably what I'm after.' This statement clearly indicated the need for flexible study options that could accommodate both professional and personal commitments. Similarly in call 596846436244 (segment 23), another student expressed concerns about balancing work and study: 'I want to advance my career but I'm worried about balancing study with my current role.'",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding with detailed program flexibility: 'Yeah, completely online. So the course is done just from the comfort of your own home. You really don't have to go anywhere for any of it. All the exams are online as well and there's no classes that you have to attend. Everything's pre-recorded for you and then you're just logging on to your student hub.' This response effectively addressed the student's flexibility concerns by outlining specific program features that would accommodate their circumstances.",
+          "priority": "high",
+          "recommended_approach": "When addressing students with complex life circumstances, begin by acknowledging their specific situation and demonstrating how program flexibility directly addresses their needs. Start with validation: 'I understand you're balancing professional commitments with personal responsibilities.' Then outline specific program features that enable flexibility: 'Our online platform is designed for students juggling multiple commitments.' Share concrete examples: 'Many healthcare professionals download materials for offline study during quiet periods.' Pay attention to specific circumstances, emphasizing relevant flexibility features: 'The asynchronous format means no mandatory live sessions, perfect for managing unpredictable schedules.' When discussing study management, provide specific examples: 'Some nursing students download lecture content before night shifts, while others use quiet periods for focused study.' Always ground explanations in relevant scenarios: 'Parents often appreciate our flexible assessment deadlines during school holidays.' The goal is transforming perceived barriers into manageable planning opportunities while ensuring students understand both the program's flexibility and available support mechanisms."
+        },
+        {
+          "id": 2,
+          "title": "Health Support Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148545299",
+              "segment_id": "103",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597148545299 (segment 103), the student made an important disclosure about their health condition: 'I've also got a disability too, I've got Crohn's disease as well.' This statement represented a crucial moment requiring careful acknowledgment and support planning. The student was essentially asking about the institution's ability to accommodate their health needs while pursuing their studies.",
+          "consultant_response": "The consultant's response was notably inadequate, offering only a brief 'Yeah, cool' (segment 104). This minimal acknowledgment failed to address the significant implications of managing a chronic health condition while studying. The response missed the opportunity to discuss available support services, potential accommodations, or how other students with similar challenges successfully navigate their studies.",
+          "priority": "high",
+          "recommended_approach": "When a student discloses a health condition, start with genuine acknowledgment while maintaining appropriate pre-enrollment boundaries: 'Thank you for sharing that with me. Understanding your health needs helps us ensure you have the right support throughout your studies.' Then outline the support framework: 'We have a dedicated accessibility services team who work with many students managing chronic health conditions. They can help arrange appropriate accommodations and ensure you have the support you need.' Build confidence by sharing general examples: 'Many students with similar health considerations have successfully completed their studies with us, thanks to our flexible learning options and support services.' When discussing accommodations, be specific while maintaining boundaries: 'Our accessibility team can arrange extended deadlines during flare-ups and provide alternative assessment options when needed.' Pay particular attention to online learning benefits: 'The ability to access materials at any time and pace your study around your health needs often proves valuable.' Always conclude with clear next steps: 'Would you like me to note this in your application so our accessibility team can reach out to discuss specific support options once you're enrolled?'"
+        },
+        {
+          "id": 3,
+          "title": "Career Goal Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846129484",
+              "segment_id": "21",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 21 of call 596846129484, the student expressed: 'I guess I've just always had a bit of an interest in the finance side of things. I thought like a financial planner, advisor, is sort of what I had in mind potentially.' This statement revealed their career aspirations and desire for guidance in aligning educational choices with professional goals.",
+          "consultant_response": "The consultant provided only surface-level validation: 'Yeah, awesome goal. This is definitely the course that'll help you with this one.' While acknowledging the goal, this response failed to explore the student's specific interests or demonstrate how the program could support their career development while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students express career interests, acknowledge their goals while maintaining clear role boundaries. Begin with validation: 'Your interest in financial planning aligns well with our program's focus. While I can't provide specific career advice, I can explain how our curriculum supports students interested in finance.' Focus on program features that align with professional development: 'Our finance units include both theoretical foundations and practical applications.' When discussing career connections, be specific about program benefits while maintaining appropriate scope: 'The analytical skills developed in our research methods unit are particularly valued in financial roles.' Share relevant program features: 'Our economics and investment analysis units provide strong foundations for understanding financial markets.' Pay attention to maintaining appropriate boundaries: 'While I can't advise on specific career paths, I can show you how our program develops relevant skills.' Direct detailed career planning queries to appropriate resources: 'Once enrolled, our career services team can provide comprehensive guidance on financial planning pathways.' The goal is demonstrating program-career alignment while ensuring students receive specialized career guidance through proper channels."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846111462",
+              "segment_id": "5",
+              "timestamp": "00:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed urgent concern about their financial support eligibility: 'I can only do the course if it's Commonwealth supported place and I know time's ticking away' (segment 5). This communication revealed both a critical enrollment requirement and anxiety about meeting necessary deadlines, creating an opportunity for collaborative planning.",
+          "consultant_response": "The consultant provided clear timeline guidance: 'So the Commonwealth supported place we just need your hex sorted by the census date which is the 4th of April so that's fine you've got over a month for that still.' This response effectively addressed both the immediate concern about eligibility and timeline pressure, offering specific dates and reassurance while maintaining a collaborative approach.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial support eligibility concerns, engage in collaborative planning by breaking down requirements into manageable steps. Start with timeline clarity: 'Let's map out exactly what you need for your Commonwealth supported place and when.' Create a shared action plan: 'First, we'll confirm your eligibility, then complete the HELP form by [date], ensuring everything's ready for the April 4th census date.' Provide specific guidance: 'The HELP form typically takes 15-20 minutes to complete online. Would you like me to walk you through the key sections?' Address anxiety directly: 'I understand the timeline feels tight - let's look at how we can prioritize these tasks together.' When discussing documentation, be specific: 'You'll need your tax file number and citizenship evidence. I can explain exactly what documents are accepted.' Pay attention to signs of financial stress, offering relevant support information: 'We have financial advisors available to discuss payment options if helpful.' The key is maintaining collaborative dialogue throughout, ensuring students feel supported while developing a clear plan for meeting deadlines."
+        },
+        {
+          "id": 5,
+          "title": "Experience Recognition",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148545299",
+              "segment_id": "159",
+              "timestamp": "15:33"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a key moment in call 597148545299 (segment 159), the student shared their extensive community involvement: 'I've also had 10 years work experience volunteering for the community doing music, organizing music events for Darabin Council as well.' This disclosure represented a critical opportunity to validate non-traditional experience and demonstrate how it strengthens their application.",
+          "consultant_response": "The consultant effectively acknowledged the value of this experience, responding: 'Perfect. You can put that on your resume as well. So we can take volunteer work into account' (call_597148545299, seg_162). This validation was particularly impactful as it demonstrated the program's flexible approach to recognizing diverse experiences.",
+          "priority": "high",
+          "recommended_approach": "When students share significant volunteer or community experience, begin by acknowledging the specific value of their contributions: 'Your decade of community organizing demonstrates exactly the kind of initiative and practical experience we value in successful students.' Then explicitly connect their experience to program success: 'The event management skills you've developed through council work often translate exceptionally well to academic project management and leadership roles.' Rather than simply noting experience for entry requirements, explore specific aspects: 'Tell me more about how you handled event planning - those organizational skills are particularly valuable for managing study commitments.' When discussing experience application, be specific: 'Your experience coordinating volunteers shows strong leadership and communication skills - both crucial for academic success.' Pay attention to transferable skills: 'The budget management and stakeholder engagement involved in event planning develop valuable analytical and interpersonal abilities.' The goal is helping students recognize how their experience prepares them for academic success while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Strong Enrollment Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148078833",
+              "segment_id": "77",
+              "timestamp": "05:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597062398098",
+                "segment_id": "75",
+                "timestamp": "05:26"
+              }
+            ]
+          },
+          "student_trigger": "In call 597148078833 (segment 77), the student inquired about intake timing: 'Are you looking to get started in our March intake?' Similarly, in call 597062398098 (segment 75), another student asked: 'When does all of this have to be in by? Friday.' Both moments highlighted critical opportunities to maintain enrollment momentum through clear timeline management and collaborative planning.",
+          "consultant_response": "The consultant demonstrated excellent timeline management by stating: 'Close of business tomorrow, which is absolutely achievable.' This clear communication of deadlines while offering support created urgency without causing anxiety. The approach effectively balanced deadline pressure with confidence-building assurance.",
+          "priority": "high",
+          "recommended_approach": "When managing enrollment timelines, combine clear deadlines with supportive guidance. Begin by acknowledging the student's readiness: 'I appreciate your focus on meeting our March intake deadline.' Frame timelines as manageable milestones: 'We have until close of business tomorrow, and I'll help you meet each requirement.' Break down requirements into clear steps: 'Let's outline exactly what you need to submit and when.' When students express timeline concerns, provide specific support: 'Many complete this process within similar timeframes - I can guide you through each step.' Share practical strategies: 'Let's start with the most critical documents first, then work through any supporting materials.' Pay particular attention to students juggling multiple commitments, offering flexible support options while maintaining clarity about fixed deadlines. The key is transforming timeline pressure into a collaborative planning opportunity that builds confidence while ensuring all requirements are met efficiently."
+        }
+      ]
+    }
+  }
+}

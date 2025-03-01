@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "consultant_name": "Yusuf Aly",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 226,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 71,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.41592920353982,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 155,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.58407079646017,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.50783260363755,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 155,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 198.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.43,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 179.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 144.74,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical solutions"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and personalized solutions that address specific challenges"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective coordination of specialized advisory support while maintaining appropriate boundaries and providing clear guidance for comprehensive student assistance"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Process Clarity Enhancement",
+        "explanation": "More structured approaches required when addressing student confusion about pathways, requirements and documentation to prevent enrollment hesitation"
+      },
+      {
+        "headline": "Academic Planning Depth",
+        "explanation": "Deeper collaborative exploration needed when addressing educational goals and pathway planning to ensure comprehensive, future-focused solutions"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "Required clear demonstration of how program flexibility accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students, particularly around managing different shift patterns."
+        },
+        {
+          "id": 2,
+          "title": "Course Navigation Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062519569",
+              "segment_id": "60",
+              "timestamp": "05:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm just seeing if I can find the direct email that the admin team sent me' (call_597062519569, seg_60), seeking course equivalency guidance.",
+          "consultant_response": "Consultant provided specific guidance: 'For financial information for decision-making...it should be accounting ACT100' (call_597062519569, seg_61).",
+          "context_impact": "Clear understanding of course equivalencies crucial for student confidence in transfer process.",
+          "recommended_approach": "Include broader context about transfer process while discussing specific courses, with clear documentation trail."
+        },
+        {
+          "id": 3,
+          "title": "Academic Re-entry Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158575863",
+              "segment_id": "213",
+              "timestamp": "31:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'No, I have not. I'm currently 21 turning 22 and so I had was going to start studying but things fell through...' (call_597158575863, seg_213), revealing anxiety about returning to study.",
+          "consultant_response": "Consultant offered tailored support: 'The reason I'm asking is...whether our academic skills unit would be of use for you...focuses on academic writing, referencing...' (call_597158575863, seg_230).",
+          "context_impact": "Critical moment to build confidence and demonstrate realistic pathway for academic re-entry.",
+          "recommended_approach": "Include more specific examples of successful transitions back to study and outline clear milestones for building academic confidence."
+        },
+        {
+          "id": 4,
+          "title": "Student Confusion Resolution",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062519569",
+              "segment_id": "68",
+              "timestamp": "06:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm not sure what I'm doing' (call_597062519569, seg_68), expressing process uncertainty.",
+          "consultant_response": "Failed to provide structured guidance or clear next steps to address confusion.",
+          "context_impact": "Student confusion risks enrollment confidence and progress.",
+          "recommended_approach": "Implement step-by-step guidance while maintaining collaborative dialogue, with written follow-up plan."
+        },
+        {
+          "id": 5,
+          "title": "Consultant Continuity Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062519569",
+              "segment_id": "3",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Is he available?' (call_597062519569, seg_3), seeking preferred consultant.",
+          "consultant_response": "Failed to acknowledge preference or establish alternative support confidence.",
+          "context_impact": "Student preference indicates need for relationship continuity in support.",
+          "recommended_approach": "Acknowledge previous relationship while confidently offering equivalent support capability, with specific transition plan."
+        },
+        {
+          "id": 6,
+          "title": "Educational Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845695312",
+              "segment_id": "10",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm looking to begin studying a course at some point in the near future' (call_596845695312, seg_10), seeking guidance.",
+          "consultant_response": "Failed to probe timeline or explore specific motivations and goals.",
+          "context_impact": "Opportunity to explore and align educational goals with specific pathways.",
+          "recommended_approach": "Engage in deeper exploration of student's timeline and educational objectives with concrete milestone planning."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, always start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Course Navigation Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062519569",
+              "segment_id": "60",
+              "timestamp": "05:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597062519569 at segment 60, the student expressed a need for guidance on course equivalencies: 'I'm just seeing if I can find the direct email that the admin team sent me.' This request indicated both confusion about course requirements and a desire for clarity in the transfer process. The student's attempt to locate previous documentation highlighted the importance of providing clear, accessible information about course equivalencies.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by providing specific course mapping information: 'For financial information for decision-making...it should be accounting ACT100' (call_597062519569, seg_61). This precise response transformed potential confusion into clarity by directly addressing the course equivalency question. The consultant's ability to quickly identify and communicate the correct course code helped maintain momentum in the enrollment process while building student confidence in the transfer pathway.",
+          "priority": "high",
+          "recommended_approach": "When addressing course equivalency questions, begin by acknowledging the student's current understanding: 'I see you're looking for specific course matches - let's clarify these together.' Follow with precise mapping: 'The course you mentioned, Financial Information for Decision-Making, aligns with our ACT100 unit.' Provide context: 'These equivalencies are carefully mapped to ensure your previous studies are recognized.' If students express uncertainty, offer to break down the process: 'Let's go through each course one by one to ensure you have a clear picture of your study pathway.' Document the discussion: 'I'll summarize these equivalencies in an email for your reference.' For complex cases, highlight additional support: 'Our credit assessment team can provide detailed guidance if needed.' This comprehensive approach ensures students feel confident about their course transitions while maintaining clear documentation."
+        },
+        {
+          "id": 3,
+          "title": "Academic Re-entry Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158575863",
+              "segment_id": "213",
+              "timestamp": "31:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 213, the student revealed their educational background stating, 'No, I have not. I'm currently 21 turning 22 and so I had was going to start studying but things fell through...' This disclosure signaled both a desire to return to education and underlying anxiety about the transition. The statement carried significant weight as it demonstrated the student's willingness to be vulnerable about their past experiences while seeking guidance for their academic future.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by responding with a thoughtful, structured approach: 'The reason I'm asking the question is just to get a bit of a sense of whether or not one of our units academic skills or success would be of use for you... It is essentially an academic skill building unit. So it focuses on things like academic writing, how to do referencing appropriately...' This response effectively transformed potential anxiety into a constructive opportunity by suggesting a manageable entry point. The consultant's explanation of specific support mechanisms and skill-building opportunities showed deep understanding of returning student needs.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students returning to education, consultants should begin by validating their decision to re-enter academia while acknowledging the courage it takes to restart. The key is transforming potential anxiety into actionable steps through structured support options. Start with open-ended questions about their previous educational experience: 'Could you tell me more about your educational journey so far?' This creates space for students to share concerns while providing valuable context for tailoring support. When suggesting pathways like the academic skills unit, frame it as a strategic advantage rather than remedial support: 'Many successful students use this unit to build a strong foundation for their studies.' Include specific examples of how the unit helps with transition: 'You'll learn practical skills like academic writing and research methods, which will give you confidence in tackling future assignments.' Throughout the conversation, maintain a balance between acknowledging past challenges and focusing on future success, always connecting support options to the student's expressed goals."
+        },
+        {
+          "id": 4,
+          "title": "Student Confusion Resolution",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062519569",
+              "segment_id": "68",
+              "timestamp": "06:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597062519569 at segment 68, the student expressed clear uncertainty by stating: 'I'm not sure what I'm doing.' This direct admission of confusion represented a critical moment requiring immediate, structured support to maintain enrollment momentum. The student's statement indicated potential risk of disengagement if clarity wasn't promptly provided.",
+          "consultant_response": "The consultant's response lacked the necessary structure and clarity to effectively address the student's expressed confusion. Instead of providing clear guidance and step-by-step support, the response maintained ambiguity, potentially increasing the student's uncertainty. This inadequate handling of confusion could impact the student's confidence in proceeding with enrollment.",
+          "priority": "high",
+          "recommended_approach": "When students express uncertainty, immediately implement a structured yet collaborative approach to restore confidence. Begin with empathetic acknowledgment: 'I hear your uncertainty, and I'm here to help make this clear.' Then, probe specific areas of confusion: 'Could you tell me which part feels most unclear?' Structure the resolution process: 'Let's break this down into manageable steps.' For instance, if a student is confused about documentation requirements, respond: 'First, let's identify which documents you currently have. Then we'll list what else you need and create a timeline for gathering them.' Use confirmation checks throughout: 'Does that make sense so far?' or 'Would you like me to explain that differently?' Provide written follow-up: 'I'll email you these steps for reference.' This approach transforms confusion into clarity while maintaining student engagement and confidence."
+        },
+        {
+          "id": 5,
+          "title": "Consultant Continuity Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062519569",
+              "segment_id": "3",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At the beginning of call 597062519569 (segment 3), the student asked, 'Is he available?' seeking their preferred consultant. This request indicated a desire for continuity in their enrollment journey and highlighted the importance of maintaining established relationships. The student's query suggested they had developed trust with their previous consultant and were seeking that familiar support.",
+          "consultant_response": "The consultant's response failed to effectively acknowledge the student's preference or establish confidence in alternative support capabilities. This missed opportunity to manage the transition professionally may have diminished the student's confidence in receiving consistent, high-quality support. The lack of acknowledgment of the previous relationship potentially impacted the student's trust in the enrollment process.",
+          "priority": "high",
+          "recommended_approach": "When students request a specific consultant, immediately acknowledge their preference while establishing your capability to provide equivalent support. Start with validation: 'I understand you usually work with [name] - they're an excellent consultant.' Then build connection: 'While they're not available right now, I've been fully briefed on your situation and can provide the same level of support.' Show familiarity: 'I see you were discussing [specific topic] in your last conversation - would you like to continue exploring that?' If appropriate, offer future connection: 'I can ensure [preferred consultant] is updated on our discussion if you'd like to reconnect with them later.' Focus on maintaining momentum: 'In the meantime, I'm here to help you move forward with [specific next steps].' This approach respects the established relationship while building confidence in current support capabilities."
+        },
+        {
+          "id": 6,
+          "title": "Educational Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845695312",
+              "segment_id": "10",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in call 596845695312 (segment 10), the student expressed: 'I'm looking to begin studying a course at some point in the near future.' This statement indicated an opportunity to explore their educational aspirations and help develop a concrete timeline for enrollment. The vague nature of 'some point in the near future' suggested a need for collaborative planning to transform general interest into specific action.",
+          "consultant_response": "The consultant missed the opportunity to explore the student's timeline, motivations, and specific educational goals. By not probing deeper into the student's aspirations or discussing concrete planning options, the interaction remained surface-level rather than developing into a meaningful exploration of educational pathways. This gap in engagement potentially delayed the student's progression toward enrollment.",
+          "priority": "high",
+          "recommended_approach": "When students express general interest in future study, engage them in detailed exploration of their educational journey. Begin with open-ended questions about their timeline: 'What's influencing your thinking about when to start?' Then explore specific goals: 'Could you tell me more about what you're hoping to achieve through this program?' Guide the conversation toward concrete planning: 'Let's look at upcoming intake dates and map out a timeline that aligns with your goals.' Address potential barriers proactively: 'What factors might influence your start date? Let's plan how to address them.' Document the discussion and next steps: 'I'll summarize our planning discussion in an email, including the key dates and actions we've identified.' This approach transforms vague intentions into actionable plans while maintaining student engagement."
+        }
+      ]
+    }
+  }
+}

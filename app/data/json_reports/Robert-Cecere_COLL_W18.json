@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "consultant_name": "Robert Cecere",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 206,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 76,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 36.89320388349515,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 130,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 63.10679611650486,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.85717922906238,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 130,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 166.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.22,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 217.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Professional Experience Integration",
+        "explanation": "Strong demonstration of leveraging existing management and professional competencies for academic success and confidence building"
+      },
+      {
+        "headline": "Support System Connection",
+        "explanation": "Effective guidance through comprehensive support resources enhances student confidence and maintains momentum throughout the enrollment journey"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how specific program elements align with workplace challenges and career advancement goals"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "More comprehensive collaborative approach needed when guiding students through financial aid processes and available support options"
+      },
+      {
+        "headline": "Entry Requirement Navigation",
+        "explanation": "Stronger emphasis needed on addressing course entry concerns through personalized exploration and confidence-building strategies"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Management Skills Translation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915008579",
+              "segment_id": "112",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours' (call_596915008579, seg_112), revealing concerns about balancing professional and academic commitments.",
+          "consultant_response": "Consultant effectively engaged: 'I can hear you're being really thoughtful about managing this commitment. Could you tell me more about how you currently handle multiple priorities in your role?' (call_596915008579, seg_113), transforming perceived barriers into advantages.",
+          "context_impact": "This moment required demonstrating how existing management skills could translate to successful academic planning while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how current management students successfully balance work and study commitments while maintaining career progression."
+        },
+        {
+          "id": 2,
+          "title": "Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846498952",
+              "segment_id": "83",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Because I'm sort of a team leader role, I guess my next step in that would be a service coordinator role. And when we're starting to look in those areas they want some kind of degree' (call_596846498952, seg_83), revealing specific career advancement goals.",
+          "consultant_response": "Consultant engaged effectively: 'Perfect. How long have you been with the current company?' (call_596846498952, seg_59), exploring professional context to align education with career goals.",
+          "context_impact": "Critical moment to demonstrate how educational pathways directly support career progression to strengthen enrollment commitment.",
+          "recommended_approach": "Include more specific examples of how course content and skills directly map to service coordinator role requirements."
+        },
+        {
+          "id": 3,
+          "title": "Support System Connection",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062272257",
+              "segment_id": "53",
+              "timestamp": "08:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted: 'Luckily, I called her, so she sent me the transfer' (call_597062272257, seg_53), expressing relief and appreciation for support received.",
+          "consultant_response": "Consultant reinforced support: 'And if you need help filling in the form, just call them. The student advisor team' (call_597062272257, seg_39), ensuring support continuity.",
+          "context_impact": "Opportunity to reinforce available support systems and build trust in institutional commitment to student success.",
+          "recommended_approach": "Provide more specific examples of how advisor team assists with different aspects of enrollment and study planning."
+        },
+        {
+          "id": 4,
+          "title": "Financial Aid Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846498952",
+              "segment_id": "409",
+              "timestamp": "29:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'So with the, with help through government, do I apply to that separately?' (call_596846498952, seg_409), seeking clarity on financial aid process.",
+          "consultant_response": "Consultant provided basic information: 'That is on the forms that I mentioned once you've logged in for the first time' (call_596846498952, seg_410), missing opportunity for comprehensive guidance.",
+          "context_impact": "Critical moment to provide clear guidance on financial support access to facilitate enrollment progression.",
+          "recommended_approach": "Develop detailed overview of financial aid process with clear timeline and support resources available."
+        },
+        {
+          "id": 5,
+          "title": "Course Entry Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846498952",
+              "segment_id": "20",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'd be a little overwhelmed without having to do some extra courses and I just wanted to check' (call_596846498952, seg_20), revealing anxiety about requirements.",
+          "consultant_response": "Consultant offered basic reassurance: 'I'll ask you a few questions and from there I'll be able to advise you' (call_596846498952, seg_25), missing opportunity for deeper support discussion.",
+          "context_impact": "Essential moment to address course load concerns and build confidence through collaborative planning.",
+          "recommended_approach": "Provide detailed exploration of entry requirements and specific strategies for building academic confidence."
+        },
+        {
+          "id": 6,
+          "title": "Previous Education Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983526252",
+              "segment_id": "90",
+              "timestamp": "02:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I was initially enrolled in the Bachelor of Early Childhood not eight years but I exited that just with a Bachelor of Education Studies' (call_596983526252, seg_90), indicating previous academic experience.",
+          "consultant_response": "Consultant acknowledged history and ensured relevant materials would be provided for informed decision-making about the Graduate Diploma pathway.",
+          "context_impact": "Opportunity to demonstrate how past education could be leveraged for current goals while maintaining momentum.",
+          "recommended_approach": "Explore specific connections between previous studies and current program options to demonstrate cumulative value."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Management Skills Translation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915008579",
+              "segment_id": "112",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596915008579 (segment 112), the student expressed significant concern about balancing professional and academic commitments: 'I'm interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours.' This revealed both strong interest in the program and anxiety about managing multiple responsibilities. The student's management background presented a unique opportunity to leverage existing skills for academic success.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by responding: 'I can hear you're being really thoughtful about managing this commitment. You mentioned you're in management - could you tell me more about how you currently handle multiple priorities in your role?' (segment 113). This response effectively validated the student's concerns while inviting them to recognize how their professional skills could transfer to academic success. The approach led to a productive dialogue about time management strategies, increasing the student's confidence in their ability to manage both work and study commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing time management concerns with working professionals, start by acknowledging their thoughtful consideration of commitments while positioning their current skills as valuable assets for academic success. For instance, when students in management roles express concern about study hours, respond with: 'Your experience managing multiple priorities in your current role gives you a strong foundation for balancing work and study.' Transform perceived barriers into advantages by exploring specific aspects of their current role that demonstrate relevant skills - perhaps they're already skilled at prioritizing tasks, delegating effectively, or managing competing deadlines. Share concrete examples of how current students in similar positions successfully manage their studies, such as: 'One of our current MBA students, also a senior manager, applies her project management skills to break down assignments into manageable weekly tasks.' Pay particular attention to students in senior roles who may have additional responsibilities; help them see how their advanced organizational skills create a strong foundation for academic success. The key is building confidence by showing how their professional capabilities directly translate to effective study strategies."
+        },
+        {
+          "id": 2,
+          "title": "Career Path Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846498952",
+              "segment_id": "83",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in call 596846498952 (segment 83), the student articulated their career aspirations: 'Because I'm sort of a team leader role, I guess my next step in that would be a service coordinator role. And when we're starting to look in those areas they want some kind of degree or some kind of education that would be helping with us.' This statement revealed both current professional standing and future career goals, creating an ideal opportunity to demonstrate how educational pathways could support career progression.",
+          "consultant_response": "The consultant skillfully engaged with this opportunity, responding: 'Perfect. How long have you been with the current company?' This response demonstrated effective collaborative planning by probing deeper into the student's professional context. The consultant's approach validated the student's career aspirations while gathering additional information to better align educational recommendations with career goals. This exploration helped establish a foundation for showing how the program could facilitate desired career progression.",
+          "priority": "high",
+          "recommended_approach": "When students express career advancement goals, immediately validate their aspirations and use their current role as a springboard for deeper exploration. Begin with phrases like 'Your progression from team leader to service coordinator shows clear career momentum - let's ensure your education amplifies this growth.' Guide the conversation to explore specific role requirements, asking questions such as 'What skills gaps have you identified between your current role and the service coordinator position?' Use their responses to map program benefits directly to career objectives, saying for example: 'Our leadership unit specifically addresses team coordination and service delivery management - skills crucial for service coordinator roles.' When discussing course elements, always connect them to workplace application: 'During the strategic management unit, you'll analyze real service delivery cases, directly relevant to your target role.' Pay particular attention to industry-specific requirements, demonstrating how course assessments align with actual workplace challenges. The goal is transforming their career aspirations into a concrete educational plan with clear progression milestones."
+        },
+        {
+          "id": 3,
+          "title": "Support System Connection",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062272257",
+              "segment_id": "53",
+              "timestamp": "08:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597062272257 (segment 53), the student expressed appreciation for previous support: 'Luckily, I called her, so she sent me the transfer.' This statement indicated positive experience with support services and openness to ongoing assistance. The moment presented an opportunity to reinforce the institution's commitment to student support and establish expectations for continued collaborative planning throughout their educational journey.",
+          "consultant_response": "The consultant effectively built on this positive experience by stating: 'And if you need help filling in the form, just call them. The student advisor team that you were speaking with.' This response successfully reinforced the availability of support resources while maintaining continuity with previous positive interactions. By explicitly connecting the student to specific support channels, the consultant demonstrated a proactive approach to collaborative planning and strengthened the student's confidence in accessing help when needed.",
+          "priority": "high",
+          "recommended_approach": "When students express gratitude for support received, leverage this positive sentiment to deepen their understanding of available resources. Start by acknowledging their experience: 'I'm glad you found the transfer process helpful. Let me show you how our support team continues to assist throughout your journey.' Then outline specific support pathways, using real examples: 'Many students work closely with our advisors during enrollment - for instance, Sarah on our team specializes in helping students complete their documentation efficiently.' Create clear expectations about ongoing support: 'Once enrolled, you'll have dedicated advisors for academic planning, technology support, and study skills development.' Share specific examples of how students access help: 'You can book advisor consultations through our online portal, with same-day responses for urgent questions.' Always emphasize the proactive nature of support: 'We recommend connecting with your advisor before each study period to optimize your subject selection and workload planning.' The goal is transforming their initial positive support experience into confidence about comprehensive, ongoing assistance."
+        },
+        {
+          "id": 4,
+          "title": "Financial Aid Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846498952",
+              "segment_id": "409",
+              "timestamp": "29:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596846498952 (segment 409), the student inquired about financial support processes: 'So with the, with help through government, do I apply to that separately?' This question indicated both interest in financial assistance and uncertainty about the application process. The student's query presented an opportunity to provide clear guidance on accessing financial support, a critical factor in their ability to proceed with enrollment.",
+          "consultant_response": "The consultant provided basic information: 'That is on the forms that I mentioned once you've logged in for the first time with your student details. Yeah, that's one of the high priority forms that you need to complete on the checklist.' While this response offered procedural guidance, it missed the opportunity to engage in detailed collaborative planning around financial support access and options.",
+          "priority": "high",
+          "recommended_approach": "When students inquire about financial aid, acknowledge this as a critical consideration while providing clear, structured guidance. Begin with validation: 'Understanding the financial support process is an important step - let's ensure you have a clear picture of the options and timeline.' Then outline the process using specific examples: 'After your enrollment is confirmed, you'll receive login details within 24 hours. Many students complete their government assistance application the same day using our step-by-step guide.' Describe available support explicitly: 'Our financial aid specialists can guide you through each section. For example, they recently helped a student navigate proof of income requirements within 30 minutes.' Create clear expectations about timing: 'Most students complete their applications within two days of enrollment, receiving confirmation within a week.' Always emphasize available assistance: 'Our advisory team is here to help with each step - they can even review your application before submission to ensure everything is properly documented.' The goal is transforming financial aid from a potential barrier into a clear, supported process."
+        },
+        {
+          "id": 5,
+          "title": "Course Entry Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846498952",
+              "segment_id": "20",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596846498952 (segment 20), the student expressed anxiety about course requirements: 'I just wasn't too sure. I'd be a little overwhelmed without having to do some extra courses and I just wanted to check.' This statement revealed significant concerns about course load and prerequisites, presenting a critical moment to address these fears through collaborative planning.",
+          "consultant_response": "The consultant offered a procedural response: 'Yeah, no problem. So if it's, I'll ask you a few questions and from there I'll be able to advise you the best entry criteria eligibility and next steps.' While this attempted to provide structure, it missed the opportunity to directly address the student's expressed overwhelm and engage in collaborative exploration of solutions.",
+          "priority": "high",
+          "recommended_approach": "When students voice concerns about course requirements, immediately validate their feelings while transitioning to constructive planning. Begin with empathy: 'It's completely natural to feel overwhelmed when considering additional courses - let's explore this together and find the right path for you.' Guide the conversation to uncover specific concerns: 'Could you share what aspects feel most challenging?' Use their responses to demonstrate support strategies, sharing real examples: 'Many students initially feel similar concerns. Recently, a student with comparable background found our preparation workshops extremely helpful for building confidence.' When discussing requirements, emphasize building blocks: 'Each preparatory course develops specific skills you'll use throughout your degree. For instance, our academic writing workshop helps students achieve distinction-level assignments in their first term.' Create clear progression markers: 'Let's map out a timeline showing how each preliminary step strengthens your foundation for success.' The goal is transforming their anxiety about requirements into confidence in their ability to succeed with proper support."
+        },
+        {
+          "id": 6,
+          "title": "Previous Education Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983526252",
+              "segment_id": "90",
+              "timestamp": "02:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596983526252 (segment 90), the student shared their educational history: 'I was initially enrolled in the Bachelor of Early Childhood not eight years but I exited that just with a Bachelor of Education Studies.' This disclosure revealed both previous academic experience and a potential need for guidance in leveraging past studies toward current goals. The moment presented an opportunity to demonstrate how their educational background could inform and enhance their current academic journey.",
+          "consultant_response": "The consultant acknowledged the student's educational history and ensured they would receive relevant materials about the Graduate Diploma pathway. While this provided basic information, the response could have more deeply explored how the student's previous studies might specifically benefit their current educational goals.",
+          "priority": "high",
+          "recommended_approach": "When students reveal previous educational experience, immediately validate their academic achievement while exploring specific connections to current goals. Begin by acknowledging their foundation: 'Your Bachelor of Education Studies provides valuable knowledge that will enhance your Graduate Diploma experience. Let's explore how we can build on this strong foundation.' Guide them through specific connections: 'The educational theory you've studied will give you unique insights in our advanced units. For example, your understanding of learning processes will be particularly valuable in our curriculum development unit.' Share success stories: 'Many students with education backgrounds excel in our program - one recent graduate found her previous studies gave her a significant advantage in understanding advanced pedagogical concepts.' When discussing course requirements, highlight their advantages: 'Your experience with academic writing and research will help you tackle advanced assignments confidently.' The goal is transforming their previous education from a historical qualification into an active asset for their current academic journey."
+        }
+      ]
+    }
+  }
+}

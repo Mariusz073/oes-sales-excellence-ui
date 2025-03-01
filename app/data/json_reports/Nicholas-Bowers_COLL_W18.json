@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 260,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 72,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.692307692307693,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 188,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.3076923076923,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.91215646184053,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 188,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 142.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 148.88,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.25,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear guidance"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including work schedules, health conditions, and family commitments through practical solutions"
+      },
+      {
+        "headline": "Support System Integration",
+        "explanation": "Clear, comprehensive guidance through institutional resources and support mechanisms while maintaining appropriate pre-enrollment boundaries and building essential trust"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deep Context Exploration",
+        "explanation": "Enhanced investigation needed of student circumstances and constraints to create more personalized and actionable study plans with specific support mechanisms"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer collaborative guidance required for enrollment processes and documentation requirements to reduce friction points and build confidence"
+      },
+      {
+        "headline": "Career Development Alignment",
+        "explanation": "Stronger connection needed between program elements and specific career transition goals while maintaining appropriate consultation boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Advancement Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908230304",
+              "segment_id": "30",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah, I guess to upskill because originally, like, I've always wanted to do sort of something in this, like I wanted to be in the police force but I ended up getting into corrections...' (call_596908230304, seg_30), revealing career transition aspirations.",
+          "consultant_response": "Consultant validated timing: 'I think now is usually, you know, while you are young and still in a developing career, and you have that chance to pivot towards different things that you might wanna do, is usually the best time to get a bachelor's degree under your belt.' (call_596908230304, seg_37)",
+          "context_impact": "Critical opportunity to demonstrate how program could support career transition while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Include more specific examples of how program elements align with law enforcement career pathways while staying within pre-enrollment scope."
+        },
+        {
+          "id": 2,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158800405",
+              "segment_id": "18",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'So a bit about me though is I have got ADHD and I have also got complex post-traumatic stress disorder.' (call_597158800405, seg_18)",
+          "consultant_response": "Consultant introduced relevant support: 'Spinburne has a great service called AccessAbility... together you guys develop an education access plan that includes services and reasonable charges.' (call_597158800405, seg_26)",
+          "context_impact": "Critical moment to demonstrate understanding and available support mechanisms while maintaining appropriate service boundaries.",
+          "recommended_approach": "Explore specific accommodation examples while clearly maintaining pre-enrollment boundaries and service scope."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24)",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062509984",
+              "segment_id": "10",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty: 'I'm pretty sure it is the updated academic one.' (call_597062509984, seg_10)",
+          "consultant_response": "Consultant gave minimal response: 'Yep, cool, cool. So it says here official academic transcript will be posted posted.' (call_597062509984, seg_11)",
+          "context_impact": "Opportunity to provide clear guidance on document requirements and submission process to reduce enrollment friction.",
+          "recommended_approach": "Develop comprehensive collaborative planning around documentation requirements and submission processes."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Development",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158865203",
+              "segment_id": "3",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Parent stated: 'Our daughter's just finished year 12 last year and didn't get an ATAR that she was after' (call_597158865203, seg_3), revealing anxiety about future educational options.",
+          "consultant_response": "Consultant focused only on ATAR requirements without exploring broader pathway options or building confidence in alternative routes.",
+          "context_impact": "Key opportunity to demonstrate alternative pathways and build confidence in institutional support for non-traditional entry routes.",
+          "recommended_approach": "Proactively explore alternative entry pathways aligned with student's interests and career goals, supported by specific success stories."
+        },
+        {
+          "id": 6,
+          "title": "Deep Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983147629",
+              "segment_id": "40",
+              "timestamp": "02:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I just want to know how many units, how the course will go, is it online, how can I get help, all of the information please?' (call_596983147629, seg_40)",
+          "consultant_response": "Consultant provided basic program information without exploring specific student circumstances or tailoring support solutions.",
+          "context_impact": "Critical opportunity to demonstrate understanding of student needs and available support mechanisms through detailed exploration.",
+          "recommended_approach": "Implement structured exploration of student's situation to provide targeted program guidance and support planning."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Advancement Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908230304",
+              "segment_id": "30",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The conversation reached a pivotal moment when the student revealed their career aspirations: 'Yeah, I guess to upskill because originally, like, I've always wanted to do sort of something in this, like I wanted to be in the police force but I ended up getting into corrections...' (call_596908230304, seg_30). This disclosure represented a critical opportunity for collaborative planning, as it highlighted both their current situation and future aspirations.",
+          "consultant_response": "The consultant demonstrated effective collaborative planning by emphasizing the timeliness of pursuing education: 'I think now is usually, you know, while you are young and still in a developing career, and you have that chance to pivot towards different things that you might wanna do, is usually the best time to get a bachelor's degree under your belt.' (call_596908230304, seg_37). This response validated the student's career transition goals while positioning education as a strategic tool for achieving them.",
+          "priority": "high",
+          "recommended_approach": "When addressing career transition aspirations, begin by acknowledging the value of the student's current experience while helping them envision pathways to their desired future. Start by validating their existing role: 'Your corrections experience provides valuable insight into law enforcement - let's explore how our program can help you build on that foundation.' This creates a natural bridge to discussing specific program elements that align with their career goals. The key is maintaining balance between validating their current position while illuminating the path to their desired role. When students express uncertainty about the transition, break down the journey into manageable steps, always connecting program components to practical career outcomes. If they show hesitation about the timeline, emphasize how our flexible study options allow them to maintain current employment while working toward their goals. Throughout the discussion, use specific examples of how different program elements support career development while staying within appropriate pre-enrollment boundaries. The goal is transforming career transition anxiety into structured planning opportunities, always grounding explanations in relevant industry contexts that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158800405",
+              "segment_id": "18",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A significant opportunity for collaborative planning arose when the student disclosed personal circumstances: 'So a bit about me though is I have got ADHD and I have also got complex post-traumatic stress disorder.' (call_597158800405, seg_18). This disclosure demonstrated trust and created an opening to discuss specific support mechanisms that could enhance their educational experience.",
+          "consultant_response": "The consultant effectively engaged in collaborative planning by introducing relevant support services: 'Yeah, absolutely. So ultimately, Spinburne has a great service called AccessAbility... together you guys develop an education access plan that includes services and reasonable charges.' (call_597158800405, seg_26). This response demonstrated understanding while positioning support services as a collaborative tool for success.",
+          "priority": "high",
+          "recommended_approach": "When students disclose personal circumstances that may affect their studies, create a supportive dialogue that emphasizes available resources while maintaining appropriate pre-enrollment boundaries. Begin by acknowledging their openness: 'Thank you for sharing that - it helps us ensure you have access to the right support from day one.' Then introduce relevant services like AccessAbility while emphasizing the collaborative nature of support planning: 'Our AccessAbility team specializes in creating personalized support plans - they'll work directly with you to ensure you have exactly what you need to succeed.' Keep the focus on high-level service availability rather than detailed accommodation specifics, which are best handled post-enrollment. The key is demonstrating institutional readiness to support while avoiding promises about specific accommodations. When students press for detailed arrangements, gently redirect to the professional support teams: 'Once enrolled, you'll meet with an AccessAbility advisor who will work with you to develop a personalized education access plan that addresses your specific needs.' Throughout the conversation, maintain focus on the collaborative nature of support planning while clearly establishing service boundaries. The goal is building confidence in our support framework while ensuring realistic expectations about the post-enrollment accommodation process."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation.",
+          "consultant_response": "The consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, showing how the program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062509984",
+              "segment_id": "10",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The need for collaborative planning became evident when the student expressed uncertainty about documentation: 'I'm pretty sure it is the updated academic one.' (call_597062509984, seg_10). This moment revealed the student's need for clarity and guidance in the document submission process.",
+          "consultant_response": "The consultant's response was minimal: 'Yep, cool, cool. So it says here official academic transcript will be posted posted.' (call_597062509984, seg_11). This response missed the opportunity to engage in meaningful collaborative planning around document requirements and submission processes.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation requirements, create a clear, collaborative framework for managing submission processes. Begin by acknowledging any uncertainty: 'Let's review your documentation needs together and create a clear checklist of what's required.' Guide students through each requirement, explaining the purpose and available submission methods. For academic transcripts, explain: 'There are several ways to submit your transcript - you can request an official digital copy from your previous institution, or we can help you explore alternative documentation if needed.' When students express concern about specific documents, provide practical solutions: 'If you're having trouble obtaining your original transcript, we can work with certified copies or explore other verification options.' The key is transforming potential documentation barriers into manageable steps while maintaining enrollment momentum. Throughout the discussion, emphasize available support: 'Our admissions team can help you navigate any documentation challenges - let's make sure you have their direct contact information.' The goal is creating confidence through clarity, ensuring students feel supported rather than overwhelmed by documentation requirements."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Development",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158865203",
+              "segment_id": "3",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A critical opportunity for alternative pathway planning emerged when the parent expressed concern: 'Our daughter's just finished year 12 last year and didn't get an ATAR that she was after' (call_597158865203, seg_3). This revealed significant anxiety about future educational opportunities and need for clear alternative pathway guidance.",
+          "consultant_response": "The consultant focused only on ATAR requirements without exploring broader pathway options or building confidence in alternative routes. This missed opportunity to showcase institutional flexibility and support for non-traditional entry students through specific examples and success stories.",
+          "priority": "high",
+          "recommended_approach": "When discussing alternative pathways, begin by acknowledging that successful students enter through various routes. Start with validation: 'While ATAR is one path to university, we have multiple entry options designed to recognize different types of potential and readiness for study.' Then explore the student's interests and strengths: 'Tell me about your academic interests and career goals - this helps us identify the most suitable pathway.' Present specific alternative options: 'Many successful students begin with our foundation program, which develops university-ready skills while earning credit toward their degree.' Share detailed success stories: 'Just last term, we had a student who entered through our pathway program after receiving a lower ATAR than expected - she's now excelling in her chosen degree.' Throughout the conversation, emphasize available support: 'At each step, we provide dedicated guidance - from study skills workshops to one-on-one academic support.' The goal is transforming perceived barriers into viable pathways while building confidence through specific examples and clear support mechanisms."
+        },
+        {
+          "id": 6,
+          "title": "Deep Context Exploration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983147629",
+              "segment_id": "40",
+              "timestamp": "02:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought comprehensive program understanding: 'I just want to know how many units, how the course will go, is it online, how can I get help, all of the information please?' (call_596983147629, seg_40). This indicated need for both program clarity and understanding of support mechanisms through detailed exploration.",
+          "consultant_response": "The consultant provided basic program information without exploring specific student circumstances or tailoring information to their needs. This generic approach missed the opportunity to demonstrate how program features could specifically address their situation through targeted examples and planning.",
+          "priority": "high",
+          "recommended_approach": "When addressing comprehensive program inquiries, implement a structured exploration process that reveals specific student needs while demonstrating program value. Begin with broad validation: 'It's great you're seeking detailed understanding - let's explore how our program can specifically support your goals.' Guide the conversation through key areas: 'Could you tell me more about what attracted you to this program? What specific aspects are most important for your success?' Use their responses to provide targeted information: 'Given your interest in flexible study options, let me show you how our online platform adapts to different learning styles and schedules.' Share relevant examples: 'Many students appreciate our digital study tools because they can maximize productivity during their peak energy periods.' Throughout the conversation, maintain focus on their specific needs: 'You mentioned concern about getting help - let me demonstrate how our support services align with your study preferences.' The goal is transforming general inquiries into personalized guidance that demonstrates clear program value through specific, relevant examples and targeted support planning."
+        }
+      ]
+    }
+  }
+}

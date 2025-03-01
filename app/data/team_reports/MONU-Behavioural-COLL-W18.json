@@ -1,0 +1,236 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 18,
+    "university": "Monash",
+    "reporting_period": "02-24_02-28",
+    "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [
+            {
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 269.55,
+                "lower_bound": 118.89,
+                "green": 159.84
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 201.34,
+                "lower_bound": 51.41,
+                "green": 152.6
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 185.93,
+                "lower_bound": 14.0,
+                "green": 149.83
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 190.51,
+                "lower_bound": 60.45,
+                "green": 135.45
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "upper_bound": 183.08,
+                "lower_bound": 82.0,
+                "green": 149.51
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "upper_bound": 189.9,
+                "lower_bound": 85.82,
+                "green": 139.49
+            },
+            {
+                "title": "01-27_01-31\nweek 14",
+                "upper_bound": 225.5,
+                "lower_bound": 84.42,
+                "green": 123.13
+            },
+            {
+                "title": "02-03_02-07\nweek 15",
+                "upper_bound": 214.86,
+                "lower_bound": 42.0,
+                "green": 154.42
+            },
+            {
+                "title": "02-10_02-14\nweek 16",
+                "upper_bound": 178.02,
+                "lower_bound": 98.37,
+                "green": 133.34
+            },
+            {
+                "title": "02-17_02-21\nweek 17",
+                "upper_bound": 207.82,
+                "lower_bound": 86.7,
+                "green": 124.49
+            },
+            {
+                "title": "02-24_02-28\nweek 18",
+                "upper_bound": 160.04,
+                "lower_bound": 88.73,
+                "green": 138.95
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 1740,
+        "consultant_results": [
+            {
+                "name": "Michael Bosman",
+                "high_need_score": "160.0",
+                "all_score": "113.7",
+                "percentage_high_need": "12/215 (5.6%)",
+                "rank": 1
+            },
+            {
+                "name": "Tayla Viglione",
+                "high_need_score": "143.1",
+                "all_score": "108.7",
+                "percentage_high_need": "12/284 (4.2%)",
+                "rank": 2
+            },
+            {
+                "name": "Elisha Odhiambo",
+                "high_need_score": "142.3",
+                "all_score": "107.9",
+                "percentage_high_need": "21/379 (5.5%)",
+                "rank": 3
+            },
+            {
+                "name": "Alyssa Pennacchia",
+                "high_need_score": "141.4",
+                "all_score": "94.0",
+                "percentage_high_need": "13/239 (5.4%)",
+                "rank": 4
+            },
+            {
+                "name": "Michael Whyte",
+                "high_need_score": "137.2",
+                "all_score": "110.2",
+                "percentage_high_need": "18/177 (10.2%)",
+                "rank": 5
+            },
+            {
+                "name": "Pawan Thapa",
+                "high_need_score": "124.9",
+                "all_score": "99.8",
+                "percentage_high_need": "15/240 (6.2%)",
+                "rank": 6
+            },
+            {
+                "name": "James Lockie",
+                "high_need_score": "88.7",
+                "all_score": "76.9",
+                "percentage_high_need": "11/206 (5.3%)",
+                "rank": 7
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "138.9",
+            "all_score": "104.7",
+            "percentage_high_need": "102/1740 (5.9%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": "Student trigger: Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs. | Context/impact: This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum. | Consultant response: Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility. | Improvement: Include more specific examples of successful study patterns from current healthcare students with varying shift patterns and detailed offline access strategies."
+                    },
+                    {
+                        "title": "Strategic Educational Pathway Planning",
+                        "content": "Student trigger: Student stated: 'I was looking at the whole masters because I'd rather just talk about the whole thing because I'm only applying for the grad cert in order to continue' (call_596845929467, seg_32), revealing strategic thinking about qualification progression. | Context/impact: Critical opportunity to validate long-term educational planning while providing clear pathway guidance and credit transfer details. | Consultant response: Consultant confirmed progression path: 'If you were to start with the grad cert of project management, from there you could articulate into the double master and receive credit for the full four units' (call_596845929467, seg_71), effectively validating student's strategy. | Improvement: Provide more detailed timeline examples and specific credit transfer pathways while maintaining enrollment momentum through clear progression milestones."
+                    },
+                    {
+                        "title": "Alternative Pathway Planning",
+                        "content": "Student trigger: Student stated: 'Okay, now you've done a bachelor's in psychology, but your weighted average mark will not get you to move into the honors program' (call_597147798866, seg_56), revealing need for strategic alternative pathway guidance. | Context/impact: Critical moment requiring clear alternative options and timeline planning to maintain student engagement despite academic barriers. | Consultant response: Consultant offered practical solution: 'So you will need to do, rather than doing three years of your studies, again, you can try and finishing the studies within that, you know, one year or 1.2 years and get a better mark to get into the honours program' (call_597147798866, seg_60). | Improvement: Include specific examples of successful pathway transitions with detailed timeline expectations and academic support strategies."
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": "Student trigger: Student expressed: 'It's been a while since I've done this, so it's all just not really fresh in my memory' (call_597062430507, seg_54), revealing significant anxiety about academic readiness after extended break. | Context/impact: Required comprehensive confidence-building support and clear guidance on available academic resources and transition strategies. | Consultant response: Consultant provided basic reassurance: 'No, that's okay. Understandably, that's all good. No worries' (call_597062430507, seg_56), missing opportunity for detailed support discussion and confidence building. | Improvement: Develop comprehensive discussion of available support services and specific strategies for successful return to study, including orientation resources and academic skill development pathways."
+                    },
+                    {
+                        "title": "Career Development Integration",
+                        "content": "Student trigger: Student stated: 'I'm looking to improve my skills. I've done my bachelors in hospitality management and I'm trying to see how I can switch career away from the restaurant business' (call_596982717264, seg_16), seeking comprehensive career change guidance. | Context/impact: Key opportunity to align program benefits with career transition goals through specific examples and practical transition pathways. | Consultant response: Consultant validated approach: 'regarding the course itself, yes we have a lot of students...60% of our students are looking to this course to change careers' (call_596982717264, seg_21), missing opportunity for detailed program-career alignment discussion. | Improvement: Provide specific examples of successful industry transitions and outline concrete program features supporting career change while maintaining appropriate pre-enrollment boundaries."
+                    },
+                    {
+                        "title": "Documentation Process Support",
+                        "content": "Student trigger: Student stated: 'Although I have the academic certificate, but I don't have the transcript' (call_597070135109, seg_6), indicating significant documentation barriers requiring immediate resolution planning. | Context/impact: Documentation challenges risking enrollment completion required comprehensive solution planning while maintaining momentum. | Consultant response: Consultant simply stated: 'What I can do for you, just to make things simpler, is I can transfer you to the right people' (call_597070135109, seg_15), missing opportunity for detailed guidance and alternative documentation planning. | Improvement: Provide clear explanation of documentation alternatives and specific next steps before transfer, including timeline estimates and interim documentation options."
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": {
+                            "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+                            "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexibility theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+                            "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules: 'Many students download their weekly materials before their rotation starts, study during quiet periods around 2-3am, then complete assignments during recovery days.' Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges: 'You can switch between online and offline access, perfect for hospital environments with variable connectivity.' The goal is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+                        }
+                    },
+                    {
+                        "title": "Strategic Educational Pathway Planning",
+                        "content": {
+                            "student_trigger": "The student demonstrated clear strategic thinking about their educational journey: 'I was looking at the whole masters because I'd rather just talk about the whole thing because I'm only applying for the grad cert in order to continue' (call_596845929467, seg_32). This statement revealed sophisticated planning and desire to understand how initial enrollment decisions would impact longer-term educational goals.",
+                            "consultant_response": "The consultant effectively validated this approach while providing specific progression details: 'If you were to start with the grad cert of project management, from there you could articulate into the double master and receive credit for the full four units' (call_596845929467, seg_71). This response successfully confirmed the viability of the student's strategy while offering clear credit transfer information.",
+                            "recommended_approach": "When students demonstrate strategic thinking about qualification progression, begin by validating their proactive approach to educational planning. Start with clear confirmation of pathway possibilities: 'Your strategic thinking about the full qualification pathway is excellent. Let me outline how this journey typically works.' Then provide specific examples: 'Many students complete their graduate certificate in two study periods, earning four units of credit they can immediately apply to their masters.' Share timeline options: 'You could progress directly into the masters program, typically completing the remaining eight units in three to four study periods, or take a break between qualifications if needed.' Always emphasize flexibility while maintaining momentum: 'While the graduate certificate to masters pathway is designed for seamless progression, you can adjust your pace based on work and life commitments.' The key is transforming their long-term aspirations into clear, actionable steps while demonstrating how initial decisions support their broader educational goals."
+                        }
+                    },
+                    {
+                        "title": "Alternative Pathway Planning",
+                        "content": {
+                            "student_trigger": "During the call, a critical moment arose when the student acknowledged their academic standing: 'Okay, now you've done a bachelor's in psychology, but your weighted average mark will not get you to move into the honors program' (call_597147798866, seg_56). This self-awareness of academic limitations created an opportunity to demonstrate how alternative pathways could still lead to their desired outcome.",
+                            "consultant_response": "The consultant demonstrated strong collaborative planning skills by immediately offering a practical alternative: 'So you will need to do, rather than doing three years of your studies, again, you can try and finishing the studies within that, you know, one year or 1.2 years and get a better mark to get into the honours program' (call_597147798866, seg_60). This response effectively maintained the student's engagement by providing a clear, actionable alternative that acknowledged their current situation while offering a path forward.",
+                            "recommended_approach": "When students face academic barriers, begin by validating their situation while immediately offering alternative pathways. Start with acknowledgment: 'I understand your weighted average mark creates a challenge, but let's explore how we can work toward your goals.' Then outline specific options with clear timelines: 'Many students have successfully used the one-year intensive option to improve their academic standing. This typically involves 2-3 units per teaching period over 12-14 months.' Share success stories: 'We recently had a student in a similar situation who completed the intensive program in 14 months, achieving the marks needed for honors entry.' When discussing workload, be specific: 'The intensive program requires about 25-30 hours of study per week, with comprehensive support including academic advisors and study skills workshops.' Create clear milestones: 'We'll set up regular check-points every 6 weeks to review your progress and adjust strategies as needed.' The key is maintaining momentum while building confidence through strategic planning with clear expectations and support mechanisms."
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": {
+                            "student_trigger": "The student voiced significant concern about academic readiness: 'It's been a while since I've done this, so it's all just not really fresh in my memory' (call_597062430507, seg_54). This vulnerability about returning to study after an extended break presented a crucial opportunity for collaborative planning to address fears and build confidence in their ability to succeed through structured support mechanisms.",
+                            "consultant_response": "The consultant's response focused solely on basic reassurance: 'No, that's okay. Understandably, that's all good. No worries' (call_597062430507, seg_56). This reply failed to address the core concern about academic readiness, missing the opportunity to discuss relevant support services and strategies for returning students, potentially leaving their anxiety unaddressed.",
+                            "recommended_approach": "When students express anxiety about returning to study after a long break, begin by normalizing their concerns while highlighting available support systems. Start with validation: 'Many of our successful students return to study after similar breaks - it's natural to feel apprehensive.' Then outline specific support mechanisms: 'Our program includes comprehensive academic support services, including study skills workshops and online learning resources.' Share examples of how other returning students have successfully managed their transition: 'Many students find our structured approach, with clear weekly goals and regular feedback, helps them regain their academic confidence.' Pay particular attention to specific anxiety triggers, addressing these with concrete examples of available support. For instance: 'Our academic skills advisors can help you refresh your writing skills through one-on-one sessions, and our online study guides walk you through academic requirements step by step.' When discussing the transition period, be specific: 'The first two weeks focus on orientation and study skills, giving you time to adjust before diving into course content.' The goal is transforming academic anxiety into confidence through clear demonstration of available support pathways and specific strategies for success."
+                        }
+                    },
+                    {
+                        "title": "Career Development Integration",
+                        "content": {
+                            "student_trigger": "The student revealed clear career transition goals: 'I'm looking to improve my skills. I've done my bachelors in hospitality management and I'm trying to see how I can switch career away from the restaurant business' (call_596982717264, seg_16). This disclosure represented both a clear need for guidance and an opportunity to demonstrate how the program specifically supports career changers.",
+                            "consultant_response": "While the consultant acknowledged career change aspirations: 'regarding the course itself, yes we have a lot of students...60% of our students are looking to this course to change careers' (call_596982717264, seg_21), they missed the opportunity to explore specific program features that would support the student's transition from hospitality to their desired field.",
+                            "recommended_approach": "When supporting career changers, begin by validating their transition goals while demonstrating how specific program features facilitate career evolution. Start with acknowledgment: 'Career transitions are significant steps, and our program is designed to support professionals making these changes.' Share concrete examples: 'Many hospitality professionals like yourself have successfully transitioned using our program. For instance, your customer service and team management skills provide valuable foundations for project management roles.' When discussing program structure, emphasize career-relevant features: 'Our industry-focused assignments let you build a portfolio of work in your target field while maintaining your current role.' Create clear timelines: 'Most career changers complete the transition within 18-24 months, using the first year to build core skills while maintaining employment stability.' The key is showing how program elements directly enable career transition while maintaining appropriate pre-enrollment boundaries."
+                        }
+                    },
+                    {
+                        "title": "Documentation Process Support",
+                        "content": {
+                            "student_trigger": "The student expressed concern about missing documentation: 'Although I have the academic certificate, but I don't have the transcript' (call_597070135109, seg_6). This revealed immediate anxiety about a potential enrollment barrier and needed clear guidance on resolving the documentation issue.",
+                            "consultant_response": "The consultant's response was primarily procedural: 'What I can do for you, just to make things simpler, is I can transfer you to the right people' (call_597070135109, seg_15). While this addressed the immediate need for connecting with appropriate support, it missed the opportunity to provide reassurance and clarity about the documentation process.",
+                            "recommended_approach": "When handling documentation concerns, begin by acknowledging the situation while immediately outlining available solutions: 'I understand missing documentation can be worrying, but let me show you our options.' Create a clear action plan with specific timelines: 'While we work on obtaining your transcript, which typically takes 5-10 business days, there may be alternative documentation we can consider.' Share specific examples: 'Many students have successfully used combinations of academic certificates, employer letters, and statutory declarations while awaiting official transcripts.' Before any transfer, ensure students understand both immediate actions and the broader resolution path: 'Our documentation team can guide you through options like contacting your previous institution or using alternative verification methods.' The key is maintaining enrollment momentum while providing clear, actionable steps toward documentation resolution."
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2024-12-13",
+        "report_id": "MONU-B-COLL-W7-2024",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}
