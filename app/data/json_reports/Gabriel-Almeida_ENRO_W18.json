@@ -55,243 +55,49 @@
     "themes": {
         "positive": [
             {
-                "headline": "Proactive Process Control",
-                "explanation": "Consultants effectively maintain leadership through clear direction, specific action steps, and confident guidance that drives enrollment momentum"
-            },
-            {
-                "headline": "Strategic Timeline Management",
-                "explanation": "Strong demonstration of urgency creation and intake date guidance through specific deadlines, clear benefits, and immediate action steps to secure enrollment commitment"
-            },
-            {
-                "headline": "Documentation Management",
-                "explanation": "Effective guidance through documentation requirements while maintaining strong control of process timelines and submission deadlines"
+                "explanation": "Consultants effectively maintain leadership through clear direction and specific action steps",
+                "explanation1": "Strong demonstration of urgency creation and intake date guidance through specific deadlines",
+                "explanation2": "Effective guidance through documentation requirements while maintaining strong control of process"
             }
         ],
         "improvement": [
             {
-                "headline": "Commitment Securing",
-                "explanation": "Enhanced focus needed on converting expressed interest into firm commitments through explicit verbal agreements and specific enrollment dates with clear next steps"
-            },
-            {
-                "headline": "Work-Study Integration",
-                "explanation": "Stronger demonstration required of how program flexibility specifically accommodates full-time work commitments with tangible examples and success stories"
-            },
-            {
-                "headline": "Timeline Control",
-                "explanation": "More assertive approach needed in setting and managing enrollment deadlines with definitive follow-up commitments and specific action steps"
+                "explanation": "Enhanced focus needed on converting expressed interest into firm commitments with specific dates",
+                "explanation1": "Stronger demonstration required of how program flexibility accommodates full-time work commitments",
+                "explanation2": "More assertive approach needed in setting and managing enrollment deadlines with follow-up"
             }
         ]
     },
     "conversation_analysis": {
         "condensed": {
-            "insights": [
+            "conversations": [
                 {
-                    "number": "1",
+                    "id": 1,
                     "title": "Timeline Commitment Excellence",
-                    "type": "positive",
-                    "is_aggregated": true,
                     "related_calls": {
                         "primary_call": {
                             "call_id": "596761372942",
                             "segment_id": "91",
                             "timestamp": "6:02"
-                        }
+                        },
+                        "supporting_calls": []
                     },
-                    "student_trigger": "Student stated: 'we can finalize by the end of this week.' (call_596761372942, seg_91), showing readiness to commit to a specific timeline.",
-                    "context_impact": "Critical moment to convert general timeline into specific commitment through immediate action steps.",
-                    "consultant_response": "Consultant replied: 'after having your exemptions approved and transferred I will call you to finalize your enrollment' (call_596761372942, seg_95), effectively taking control of the process.",
-                    "improvement": "Include specific day/time commitment for follow-up and immediate next steps to strengthen timeline certainty."
-                },
-                {
-                    "number": "2",
-                    "title": "Personal Growth Connection",
-                    "type": "positive",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596915085294",
-                            "segment_id": "20",
-                            "timestamp": "02:10"
-                        }
-                    },
-                    "student_trigger": "Student shared: 'I've been through a lot of mental illness and stuff and I just want to learn about myself pretty much with the course' (call_596915085294, seg_20), revealing deep personal motivation.",
-                    "context_impact": "Crucial opportunity to connect personal goals with program benefits while maintaining enrollment momentum.",
-                    "consultant_response": "Consultant replied: 'Yeah, absolutely and that's exactly one of the few subjects you're going to be studying about mental health, which is really good' (call_596915085294, seg_24), effectively connecting personal interests to course content.",
-                    "improvement": "Transform personal motivation into immediate enrollment action by securing commitment to specific intake date."
-                },
-                {
-                    "number": "3",
-                    "title": "Work-Study Balance Communication",
-                    "type": "improvement",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596846036216",
-                            "segment_id": "18",
-                            "timestamp": "N/A"
-                        }
-                    },
-                    "student_trigger": "Student expressed: 'So it's just a bit like, do I actually bother with the undergraduate because I'm already doing, you know, full-time work' (call_596846036216, seg_18).",
-                    "context_impact": "Critical moment to demonstrate program's compatibility with full-time work commitments.",
-                    "consultant_response": "Consultant focused on credit transfers: 'Regardless of that, the undergrad certification...you can transfer literally all of them towards your elective units' (call_596846036216, seg_21).",
-                    "improvement": "Provide specific examples of how current working students successfully manage study commitments, with clear flexible study options."
-                },
-                {
-                    "number": "4",
-                    "title": "Documentation Timeline Management",
-                    "type": "positive",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596982901226",
-                            "segment_id": "262",
-                            "timestamp": "44:30"
-                        }
-                    },
-                    "student_trigger": "Student stated: 'You should have it. On Monday by. The latest?' (call_596982901226, seg_262), showing readiness to commit to document submission timeline.",
-                    "context_impact": "Clear timeline commitment was crucial for maintaining enrollment momentum and enabling eligibility checking.",
-                    "consultant_response": "Consultant replied: 'Yeah, the sooner you can get it, the better, because we can check your eligibility. And then if you are eligible, you can book the CASPer test straight away' (call_596982901226, seg_257).",
-                    "improvement": "Set specific follow-up commitment: 'I will call you Tuesday at 10am to confirm receipt and guide you through next steps.'"
-                },
-                {
-                    "number": "5",
-                    "title": "Initial Hesitation Management",
-                    "type": "positive",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596846036216",
-                            "segment_id": "12",
-                            "timestamp": "00:41"
-                        }
-                    },
-                    "student_trigger": "Student stated: 'Unfortunately, I don't think it's the right time for me at the moment' (call_596846036216, seg_12), indicating timing concerns.",
-                    "context_impact": "Key opportunity to address timing objections and maintain enrollment possibility.",
-                    "consultant_response": "Consultant proactively addressed concerns by highlighting program flexibility and credit transfer options.",
-                    "improvement": "Provide specific examples of how similar students overcame timing concerns and secure commitment to next steps."
-                },
-                {
-                    "number": "6",
-                    "title": "Follow-up Commitment",
-                    "type": "improvement",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "595732493616",
-                            "segment_id": "149",
-                            "timestamp": "06:49"
-                        }
-                    },
-                    "student_trigger": "After discussing ATAR requirements, student needed clear follow-up plan (call_595732493616, seg_149).",
-                    "context_impact": "Essential moment to maintain momentum and ensure clear next steps.",
-                    "consultant_response": "Consultant stated: 'I'll try to get this today, and as soon as I get the response back from the admission team with your ATAR, I will call you this afternoon then.'",
-                    "improvement": "Use definitive language: 'I will call you at 2pm today with your ATAR results. Does that time work for you?'"
+                    "consultant_close_attempt": "after having your exemptions approved and transferred I will call you to finalize your enrollment",
+                    "student_response": "we can finalize by the end of this week",
+                    "consultant_adaptation": "Yeah, absolutely and that's exactly one of the few subjects you're going to be studying about mental health",
+                    "recommended_improvement": "Include specific day/time commitment for follow-up and immediate next steps"
                 }
             ]
         },
         "effective_collaborating_planning": {
-            "insights": [
+            "goal_setting": [
                 {
-                    "number": "1",
+                    "id": 1,
                     "title": "Timeline Commitment Excellence",
-                    "type": "positive",
-                    "priority": "high",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596761372942",
-                            "segment_id": "91",
-                            "timestamp": "6:02"
-                        }
-                    },
-                    "student_trigger": "During a crucial enrollment discussion, the student demonstrated readiness to commit by stating 'we can finalize by the end of this week' (call_596761372942, seg_91). This proactive suggestion of a timeline presented an ideal opportunity to secure specific commitments and maintain strong enrollment momentum.",
-                    "consultant_response": "The consultant effectively seized control of the process, responding with 'after having your exemptions approved and transferred I will call you to finalize your enrollment' (call_596761372942, seg_95). This direct approach demonstrated strong leadership while maintaining clear communication about next steps, effectively guiding the student toward enrollment completion.",
-                    "recommended_approach": "When students express readiness to finalize within a specific timeframe, immediately capitalize on this momentum by securing explicit commitment and establishing clear next steps. Begin with validation while taking control: 'Excellent that you're ready to finalize this week. Let's lock in specific times right now.' Then provide a structured timeline: 'I'll process your exemptions first thing tomorrow morning, and I'd like to schedule our final enrollment call for Thursday at 2 PM - this ensures we meet your goal of completing everything this week.' Create accountability through specific commitments: 'Shall we confirm that Thursday appointment now? I'll send you a calendar invitation with all the documents you'll need to have ready.' If the student shows any hesitation about timing, offer alternatives while maintaining control: 'If Thursday afternoon doesn't suit you, I also have Friday morning slots available, but let's definitely confirm a time now to ensure we meet your week-end goal.' Remember to always document agreed times and next steps, and maintain regular contact to ensure momentum toward enrollment completion."
-                },
-                {
-                    "number": "2",
-                    "title": "Personal Growth Connection",
-                    "type": "positive",
-                    "priority": "high",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596915085294",
-                            "segment_id": "20",
-                            "timestamp": "02:10"
-                        }
-                    },
-                    "student_trigger": "During a pivotal moment in the conversation, the student revealed their deep personal motivation by stating: 'I've been through a lot of mental illness and stuff and I just want to learn about myself pretty much with the course' (call_596915085294, seg_20). This disclosure represented a critical enrollment opportunity as it connected the student's personal experiences and growth aspirations directly with the program's potential benefits.",
-                    "consultant_response": "The consultant demonstrated effective behavioral alignment by responding: 'Yeah, absolutely and that's exactly one of the few subjects you're going to be studying about mental health, which is really good' (call_596915085294, seg_24). This response validated the student's personal interest while connecting it to specific course features, effectively building emotional investment in the program.",
-                    "recommended_approach": "When students share personal motivations, immediately create a strong connection between their goals and specific program benefits while maintaining momentum toward enrollment. Begin with empathetic acknowledgment: 'Thank you for sharing that with me. Your personal journey gives you valuable insight, and I can see how this program will support your growth.' Then provide specific program benefits: 'Our mental health units combine theoretical knowledge with practical self-awareness exercises. Many students find these particularly valuable for both personal and professional development.' Move directly to enrollment: 'Given your goals, I'd love to help you get started with our next intake. Would you like to secure your place now so you can begin this important journey?' Address any hesitation immediately while maintaining forward momentum: 'What specific aspects of the program would you like to explore further? We can discuss these as we complete your enrollment.' Remember to balance emotional support with professional guidance throughout the process, always maintaining focus on securing enrollment commitment."
-                },
-                {
-                    "number": "3",
-                    "title": "Work-Study Balance Communication",
-                    "type": "improvement",
-                    "priority": "high",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596846036216",
-                            "segment_id": "18",
-                            "timestamp": "N/A"
-                        }
-                    },
-                    "student_trigger": "The student expressed significant concern about managing studies alongside full-time work, stating 'So it's just a bit like, do I actually bother with the undergraduate because I'm already doing, you know, full-time work' (call_596846036216, seg_18). This comment revealed deep uncertainty about their ability to balance professional and academic commitments.",
-                    "consultant_response": "The consultant focused primarily on credit transfers, stating 'Regardless of that, the undergrad certification...you can transfer literally all of them towards your elective units' (call_596846036216, seg_21). While addressing one aspect, this response missed the opportunity to demonstrate how the program's flexibility specifically accommodates working professionals.",
-                    "recommended_approach": "When addressing work-study balance concerns, immediately validate the consideration while demonstrating specific solutions. Begin with confident reassurance: 'Many of our most successful students are working professionals like yourself. Let me show you exactly how our program is designed to fit around your career.' Share specific examples: 'For instance, Sarah, one of our current students who works full-time, downloads her weekly materials every Sunday and completes readings during her lunch breaks. She uses our mobile app to access course content during her commute.' Then move to immediate commitment: 'Let's look at your typical work schedule now and identify your ideal study windows. Then we can secure your place in the program and set up your study plan immediately.' Address any hesitation with additional success stories: 'Another student, John, was concerned about managing full-time work but found our flexible submission deadlines perfectly accommodated his schedule. He's now halfway through the program while maintaining his career.' Always maintain focus on converting work-study balance from a perceived barrier into a manageable reality through specific examples and immediate enrollment action."
-                },
-                {
-                    "number": "4",
-                    "title": "Documentation Timeline Management",
-                    "type": "positive",
-                    "priority": "high",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596982901226",
-                            "segment_id": "262",
-                            "timestamp": "44:30"
-                        }
-                    },
-                    "student_trigger": "The student initiated timeline discussion by asking 'You should have it. On Monday by. The latest?' (call_596982901226, seg_262). This proactive inquiry about documentation deadlines presented an opportunity to establish clear timelines and maintain strong enrollment momentum.",
-                    "consultant_response": "The consultant effectively moved the process forward by stating: 'Yeah, the sooner you can get it, the better, because we can check your eligibility. And then if you are eligible, you can book the CASPer test straight away' (call_596982901226, seg_257). This response created urgency while clearly outlining the next steps in the process.",
-                    "recommended_approach": "When managing document submission timelines, immediately establish clear deadlines while maintaining strong process control. Begin with explicit confirmation: 'Excellent, let's lock in Monday as your submission deadline. I'll personally review your documents as soon as they arrive.' Then outline the specific sequence: 'Here's exactly what will happen: Once you submit on Monday, I'll check everything within 2 hours and confirm your eligibility. Then we'll immediately book your CASPer test for later that week.' Create accountability through specific follow-up: 'I will call you Tuesday at 10am to confirm receipt and guide you through the next steps. Can you confirm that time works for you?' Address any timeline concerns immediately with solutions: 'If you're worried about meeting the Monday deadline, we can review your documents together now to ensure everything is ready.' Always maintain momentum by linking each step to enrollment progress, demonstrating strong leadership throughout the documentation process."
-                },
-                {
-                    "number": "5",
-                    "title": "Initial Hesitation Management",
-                    "type": "positive",
-                    "priority": "high",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "596846036216",
-                            "segment_id": "12",
-                            "timestamp": "00:41"
-                        }
-                    },
-                    "student_trigger": "The student expressed initial timing concerns by stating 'Unfortunately, I don't think it's the right time for me at the moment' (call_596846036216, seg_12). This hesitation required immediate attention to maintain enrollment possibility while addressing underlying concerns.",
-                    "consultant_response": "The consultant demonstrated effective enrollment closing behavior by addressing the concern with tangible solutions, highlighting program flexibility and credit transfer options. This approach kept the focus on possibilities rather than limitations, effectively maintaining engagement despite initial resistance.",
-                    "recommended_approach": "When encountering timing hesitation, immediately acknowledge the concern while pivoting to concrete solutions. Begin with validation: 'I understand your concern about timing - it's important to feel confident about your study commitment. Let me show you how our program is specifically designed for students in your situation.' Share success stories: 'Many of our current students had similar concerns before starting. For instance, Maria was hesitant about timing but found our flexible study options made it the perfect time to begin.' Address timing objections with clear solutions: 'Our program lets you adjust your study load each term based on your commitments. You can start with two units, then increase or decrease based on your comfort level.' Move to immediate commitment: 'Let's review your schedule now and identify the best study patterns for you. Then we can secure your place in the upcoming intake while this flexibility is still available.' Always maintain focus on converting timing concerns into manageable solutions while guiding students toward enrollment commitment."
-                },
-                {
-                    "number": "6",
-                    "title": "Follow-up Commitment",
-                    "type": "improvement",
-                    "priority": "high",
-                    "is_aggregated": true,
-                    "related_calls": {
-                        "primary_call": {
-                            "call_id": "595732493616",
-                            "segment_id": "149",
-                            "timestamp": "06:49"
-                        }
-                    },
-                    "student_trigger": "After discussing ATAR requirements, the student needed clear direction on next steps (call_595732493616, seg_149). This moment required decisive communication to maintain enrollment momentum and ensure clear progression.",
-                    "consultant_response": "The consultant used tentative language, stating 'I'll try to get this today, and as soon as I get the response back from the admission team with your ATAR, I will call you this afternoon then.' While providing a general timeline, this approach lacked the decisiveness needed for strong enrollment closing behavior.",
-                    "recommended_approach": "When establishing follow-up commitments, use decisive language that demonstrates strong process control while securing specific agreements. Replace tentative phrases like 'I'll try' with confident statements: 'I will call you at 2pm today with your ATAR results. Can you confirm that time works for you?' Then outline exact next steps: 'During our 2pm call, we'll review your ATAR results and immediately proceed with your enrollment if you're eligible. I'll have all the enrollment forms ready, and we can complete them together during the call.' Create mutual commitment: 'So I'll speak with you at 2pm, and we'll aim to have your enrollment completed by 2:30. Does that timeline work for you?' Address any scheduling concerns immediately with alternatives: 'If 2pm doesn't work, I can also call at 3pm or 4pm - which would you prefer?' Always maintain strong momentum through specific, mutually agreed-upon commitments while demonstrating clear leadership of the enrollment process."
+                    "consultant_close_attempt": "The consultant took control of the process but didn't set specific follow-up times",
+                    "student_response": "The student showed readiness to commit to a timeline",
+                    "consultant_adaptation": "The consultant validated interest but missed opportunity for immediate commitment",
+                    "recommended_improvement": "Should have secured specific day/time commitments for document submission and enrollment"
                 }
             ]
         }

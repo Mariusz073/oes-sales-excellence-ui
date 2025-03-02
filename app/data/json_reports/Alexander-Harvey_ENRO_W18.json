@@ -53,8 +53,53 @@
         }
     ],
     "themes": {
-        "positive": [],
-        "improvement": []
+        "positive": [
+            {
+                "explanation": "",
+                "explanation1": "",
+                "explanation2": ""
+            }
+        ],
+        "improvement": [
+            {
+                "explanation": "",
+                "explanation1": "",
+                "explanation2": ""
+            }
+        ]
     },
-    "conversation_analysis": {}
+    "conversation_analysis": {
+        "condensed": {
+            "conversations": [
+                {
+                    "id": 1,
+                    "title": "",
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "",
+                            "segment_id": "",
+                            "timestamp": ""
+                        },
+                        "supporting_calls": []
+                    },
+                    "consultant_close_attempt": "",
+                    "student_response": "",
+                    "consultant_adaptation": "",
+                    "recommended_improvement": ""
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "goal_setting": [
+                {
+                    "id": 1,
+                    "title": "",
+                    "consultant_close_attempt": "",
+                    "student_response": "",
+                    "consultant_adaptation": "",
+                    "recommended_improvement": ""
+                }
+            ]
+        }
+    }
 }
