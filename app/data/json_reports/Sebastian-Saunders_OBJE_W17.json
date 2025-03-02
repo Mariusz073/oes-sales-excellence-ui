@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "consultant_name": "Sebastian Saunders",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 247,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 86,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 34.81781376518219,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 161,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 65.18218623481782,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.32345414534417,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 161,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 124.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.68,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 131.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 166.1,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.95,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 139.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.31,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 215.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.92,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 138.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.05,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Support Integration",
+        "explanation": "Consultants effectively transform support-related concerns into confidence through detailed guidance and comprehensive demonstration of institutional resources that directly address student needs"
+      },
+      {
+        "headline": "Financial Navigation Excellence",
+        "explanation": "Strong demonstration of comprehensive funding options and payment structures that build confidence through transparent, solution-focused guidance tailored to individual circumstances"
+      },
+      {
+        "headline": "Experience Validation Mastery",
+        "explanation": "Effective transformation of qualification concerns into confidence by validating diverse professional backgrounds while demonstrating clear academic pathways and success strategies"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhanced Concern Discovery",
+        "explanation": "Greater emphasis needed on proactively uncovering and addressing unstated concerns through strategic questioning, active listening, and comprehensive follow-up"
+      },
+      {
+        "headline": "Academic Support Integration",
+        "explanation": "More comprehensive explanation required of available academic support services when addressing study confidence concerns, including specific resources and success pathways"
+      },
+      {
+        "headline": "Career Pathway Clarity",
+        "explanation": "Deeper exploration needed of how program elements align with specific career goals and advancement opportunities through concrete examples and industry connections"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Financial Aid Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616833495",
+              "segment_id": "78",
+              "timestamp": "12:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596464577509",
+                "segment_id": "81",
+                "timestamp": "05:15"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'How does the fee help work?' (call_596616833495, seg_78), showing critical need for financial clarity, echoed by others seeking concession options: 'Because I'm a concession card holder, he did say that you guys may offer concession rates' (call_596464577509, seg_81).",
+          "consultant_response": "Consultant provided clear explanation: 'So, fee help is a loan. So, instead of paying the fees up front, you can put the fees onto that loan and pay that off over time' (call_596616833495, seg_80), effectively demystifying the payment process while maintaining engagement.",
+          "context_impact": "Clear financial guidance crucial for reducing enrollment barriers and maintaining momentum while building confidence in program affordability.",
+          "recommended_approach": "Include specific repayment thresholds and comprehensive financial planning resources while demonstrating how current students successfully manage program costs."
+        },
+        {
+          "id": 2,
+          "title": "Experience Recognition Excellence",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412670462",
+              "segment_id": "20",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Is a Masters something I can jump into if I've been running my own business for 21 years or no?' (call_596412670462, seg_20), expressing concern about eligibility and academic readiness.",
+          "consultant_response": "Consultant explained pathway: 'So there is work experience entries into this course... that's into what's called our Graduate Certificate of Business Administration' (call_596412670462, seg_23), effectively showing progression options.",
+          "context_impact": "Required clear validation of professional experience value while maintaining academic standards and building enrollment confidence.",
+          "recommended_approach": "Include more emphasis on how business experience enriches academic journey and creates unique advantages in program success through specific examples."
+        },
+        {
+          "id": 3,
+          "title": "Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412997513",
+              "segment_id": "15",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596464881601",
+                "segment_id": "36",
+                "timestamp": "03:12"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'Can I do one unit per trimester or is it a climate of two?' (call_596412997513, seg_15), with similar concerns: 'I reckon I probably might just start with one if I'm honest' (call_596464881601, seg_36), revealing flexibility needs.",
+          "consultant_response": "Consultant provided clear options: 'Yeah absolutely you can do one unit at a time... you can adjust your study load all the way until the census date' (call_596412997513, seg_16), effectively showing program flexibility.",
+          "context_impact": "Study load flexibility crucial for maintaining enrollment confidence and momentum while demonstrating program adaptability.",
+          "recommended_approach": "Include specific examples of successful study load adjustment strategies and support resources that maintain academic progress."
+        },
+        {
+          "id": 4,
+          "title": "Academic Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596464577509",
+              "segment_id": "24",
+              "timestamp": "02:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412997513",
+                "segment_id": "29",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I find it a little bit difficult but yeah just it's dedicating a bit more time to math' (call_596464577509, seg_24), with others noting study gaps: 'I've had a study break for six months now' (call_596412997513, seg_29), revealing academic confidence concerns.",
+          "consultant_response": "Consultants provided basic acknowledgment without detailing specific support services: 'Yep, yep, absolutely, you're certainly not alone there' (call_596464577509, seg_27), missing opportunity to demonstrate comprehensive support.",
+          "context_impact": "Comprehensive academic support crucial for building enrollment confidence and maintaining student engagement through clear support pathways.",
+          "recommended_approach": "Detail available academic support services, learning resources, and transition strategies while sharing specific success stories and engagement options."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412670462",
+              "segment_id": "18",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Look, I'm a mature student that has not been to university at all, so I have no degree' (call_596412670462, seg_18), revealing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant focused on administrative aspects: 'Yes, so there is work experience entries into this course' without addressing emotional concerns about returning to study.",
+          "context_impact": "Critical moment requiring validation and comprehensive support information for returning students while building academic confidence.",
+          "recommended_approach": "Provide emotional validation and specific examples of mature student success stories along with available support services and transition strategies."
+        },
+        {
+          "id": 6,
+          "title": "Career Pathway Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555426602",
+              "segment_id": "279",
+              "timestamp": "34:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'What are career pathways for this qualification if I pursue the diploma?' (call_596555426602, seg_279), seeking clear understanding of professional outcomes.",
+          "consultant_response": "Consultant provided general career information without exploring student's specific goals or demonstrating clear professional advancement pathways.",
+          "context_impact": "Required clear connection between qualification and career advancement opportunities to maintain enrollment momentum.",
+          "recommended_approach": "Explore specific career aspirations and demonstrate clear alignment between program benefits and professional goals through concrete examples and success stories."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Financial Aid Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616833495",
+              "segment_id": "78",
+              "timestamp": "12:40"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596464577509",
+                "segment_id": "81",
+                "timestamp": "05:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed significant concerns about financial commitments and payment options. The primary example came when a student asked 'How does the fee help work?' (call_596616833495, seg_78), while another sought specific concession information: 'Because I'm a concession card holder, he did say that you guys may offer concession rates' (call_596464577509, seg_81). These queries revealed critical need for clear financial guidance and comprehensive support options.",
+          "consultant_response": "The primary consultant provided clear, accessible explanation: 'So, fee help is a loan. So, instead of paying the fees up front, you can put the fees onto that loan and pay that off over time' (call_596616833495, seg_80). While some consultants effectively demystified the FEE-HELP system, others showed inconsistency in addressing specific financial options and support pathways.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, begin with immediate acknowledgment of their importance while maintaining a solution-focused approach. Start by validating the specific financial situation: 'Thank you for asking about our financial options. It's an important aspect of your educational planning.' Then provide a clear overview: 'Let me explain our comprehensive financial support options and how they can make your education more accessible.' First, explain FEE-HELP basics using concrete examples: 'FEE-HELP is a government loan program that covers your full tuition. For instance, if your total program cost is $30,000, FEE-HELP can cover that entire amount, with repayments only starting once you're earning above $48,000.' Then, detail additional support options: 'Beyond FEE-HELP, we have several scholarship programs and flexible payment arrangements. For example, many of our students combine FEE-HELP with our interest-free payment plans to manage their educational investment effectively.' When discussing costs, always connect to value: 'Your total investment includes all learning materials, support services, and career development resources. Many students find this comprehensive package more cost-effective than programs with hidden extras.' Address concession questions with specific alternatives: 'While we don't offer direct concession rates, I can show you how our combined financial support options often achieve similar or better affordability. For instance, combining FEE-HELP with our scholarship program can reduce your immediate out-of-pocket expenses significantly.' Always conclude with clear next steps: 'Let's review the financial options that best fit your situation and outline exactly what documentation you'll need to proceed. This way, you can make an informed decision about your educational investment.' The goal is to transform financial concerns from barriers into manageable aspects of educational planning through comprehensive, transparent information and personalized guidance."
+        },
+        {
+          "id": 2,
+          "title": "Experience Recognition Excellence",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412670462",
+              "segment_id": "20",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student inquired about program eligibility based on extensive professional experience: 'Is a Masters something I can jump into if I've been running my own business for 21 years or no?' (call_596412670462, seg_20). This question revealed both their professional accomplishments and uncertainty about how their experience translates to academic requirements.",
+          "consultant_response": "The consultant provided clear pathway information: 'So there is work experience entries into this course and so and that's into what's called our Graduate Certificate of Business Administration. And so that course is the first four units of the MBA' (call_596412670462, seg_23). This response effectively outlined how their experience could be leveraged for program entry while maintaining academic standards.",
+          "priority": "high",
+          "recommended_approach": "When addressing experience-based entry inquiries, begin by validating their professional achievements: 'Your 21 years of business experience represents significant expertise that can enrich your academic journey. Many of our most successful students bring similar professional backgrounds.' Then explain how experience translates to academic opportunity: 'Our Graduate Certificate pathway is specifically designed to recognize and build upon professional expertise like yours. For instance, your business management experience directly relates to our strategic management units.' Share specific success stories: 'We recently had a business owner complete this pathway successfully, finding their experience provided unique insights in areas like organizational behavior and strategic planning.' Address common concerns proactively: 'While academic study may feel different from business operations, your real-world experience will help you contextualize theoretical concepts. Many of our students find their professional experience enriches classroom discussions and assignments.' The goal is to transform their professional experience from a perceived limitation into a recognized advantage for academic success, always grounding explanations in concrete examples and clear pathways."
+        },
+        {
+          "id": 3,
+          "title": "Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412997513",
+              "segment_id": "15",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596464881601",
+                "segment_id": "36",
+                "timestamp": "03:12"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about managing study commitments. The primary example showed direct inquiry about flexibility: 'Can I do one unit per trimester or is it a climate of two?' (call_596412997513, seg_15), while others sought confirmation of measured approaches: 'I reckon I probably might just start with one if I'm honest' (call_596464881601, seg_36). These queries revealed underlying anxiety about balancing study with other responsibilities.",
+          "consultant_response": "Consultants consistently demonstrated strong handling of study load concerns, as exemplified by clear, supportive responses: 'Yeah absolutely you can do one unit at a time... you can adjust your study load all the way until the census date' (call_596412997513, seg_16). This approach effectively validated student concerns while showcasing program flexibility.",
+          "priority": "high",
+          "recommended_approach": "When addressing study load concerns, implement a structured approach that balances flexibility with academic progress. Begin by validating the student's thoughtful consideration: 'It's excellent that you're carefully considering your study load - this kind of planning is crucial for success.' Then, outline specific options: 'Our program offers several study patterns: one unit per trimester for maximum flexibility, two units for steady progress, or three units for faster completion.' Share real examples: 'Many students start with one unit to establish their routine. For instance, one of our current students began with one unit while working full-time, then increased to two units once they found their rhythm.' Always specify adjustment timeframes: 'You can modify your study load until census date, giving you time to find your optimal pace.' Address common concerns proactively: 'Some students worry about progress with one unit, but our experience shows starting manageable and building confidence often leads to better outcomes.' The goal is to transform perceived workload barriers into customizable study plans through clear demonstration of program flexibility and support options."
+        },
+        {
+          "id": 4,
+          "title": "Academic Support Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596464577509",
+              "segment_id": "24",
+              "timestamp": "02:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412997513",
+                "segment_id": "29",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed academic confidence concerns, with the primary example stating: 'I find it a little bit difficult but yeah just it's dedicating a bit more time to math' (call_596464577509, seg_24). Others noted study gaps: 'I've had a study break for six months now' (call_596412997513, seg_29). These disclosures revealed significant need for comprehensive academic support guidance.",
+          "consultant_response": "Consultants typically provided basic acknowledgment without detailing specific support services: 'Yep, yep, absolutely, you're certainly not alone there' (call_596464577509, seg_27). This approach missed opportunities to demonstrate comprehensive academic support systems and build student confidence.",
+          "priority": "high",
+          "recommended_approach": "When students express academic concerns, implement a comprehensive support discussion strategy. Begin with validation while maintaining a solution-focused approach: 'Thank you for sharing your concerns about math. Your awareness of where you need support will help us provide the right resources.' Then outline specific support services: 'Let me walk you through our academic support system. We offer one-on-one tutoring, study groups, and online resources specifically designed for challenging subjects like mathematics.' For returning students, emphasize transition support: 'Our return to study program includes orientation workshops, study skills refreshers, and dedicated academic advisors.' Make support tangible through examples: 'Many students use our math help center for both scheduled sessions and drop-in support. For instance, one student regularly attended Tuesday afternoon workshops while working through challenging topics.' Address anxiety proactively: 'It's natural to feel uncertain after a study break, but our support services are designed to help you rebuild confidence quickly.' The goal is to demonstrate comprehensive academic support that can address any learning challenge while building student confidence in their ability to succeed."
+        },
+        {
+          "id": 5,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412670462",
+              "segment_id": "18",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed anxiety about returning to education: 'Look, I'm a mature student that has not been to university at all, so I have no degree' (call_596412670462, seg_18). This statement revealed both vulnerability about entering academia and uncertainty about their ability to succeed as a mature student.",
+          "consultant_response": "The consultant focused primarily on administrative aspects without addressing the emotional and practical concerns about returning to study. This approach missed the opportunity to build confidence and demonstrate comprehensive support available for mature students.",
+          "priority": "high",
+          "recommended_approach": "When supporting mature students returning to education, begin with emotional validation: 'Thank you for sharing that with me. Many successful students come to us with similar feelings about returning to study after a break.' Share specific success stories: 'Just last trimester, we had several mature students complete their first units with distinction, drawing on their life and work experience.' Then outline comprehensive support services: 'We have dedicated support designed for returning students, including study skills workshops, one-on-one academic support, and peer mentoring.' Provide practical examples: 'Our orientation program includes sessions specifically for mature students, covering everything from academic writing to digital literacy.' Address common concerns proactively: 'Many students worry about balancing study with other commitments. Here's how our flexible learning options can help.' Emphasize mature student advantages: 'Your life experience often provides valuable context for academic concepts, making learning more relevant and engaging.' The goal is to transform anxiety about returning to study into confidence through clear demonstration of available support and success pathways."
+        },
+        {
+          "id": 6,
+          "title": "Career Pathway Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555426602",
+              "segment_id": "279",
+              "timestamp": "34:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought clarity about professional outcomes: 'What are career pathways for this qualification if I pursue the diploma?' (call_596555426602, seg_279). This question indicated the need for clear understanding of how the qualification would advance their career prospects and contribute to their professional development.",
+          "consultant_response": "The consultant provided general career information without exploring the student's specific career goals or demonstrating how the program could advance their professional aspirations. This approach missed the opportunity to create clear connections between the program and career advancement.",
+          "priority": "high",
+          "recommended_approach": "When discussing career pathways, begin by exploring current position and aspirations: 'Could you tell me about your current role and where you'd like to see yourself professionally? This will help me show you how our program can support your career goals.' Share specific progression examples: 'Our graduates have moved into roles such as Senior Project Manager and Business Development Director across various industries. For instance, one recent graduate transitioned from Team Leader to Operations Manager within two years of completing the program.' Connect program elements to career outcomes: 'The skills you'll develop in units like Advanced Project Management directly apply to senior leadership roles. For example, our students often implement their learning in current positions, leading to promotions even before graduation.' Provide networking insights: 'Our industry partnerships and alumni network create opportunities for career advancement during and after your studies. We regularly host industry networking events where students connect with potential employers.' Address career transition concerns: 'If you're considering a career change, our career services team can help you identify transferable skills and target growth industries.' The goal is to transform general career possibilities into clear, achievable professional pathways aligned with their specific goals."
+        }
+      ]
+    }
+  }
+}

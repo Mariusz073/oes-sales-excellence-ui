@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "consultant_name": "James Lockie",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 242,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 67,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.685950413223143,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 175,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.31404958677686,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.31391712795,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 175,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.95,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 14.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 50.78,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.23,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 115.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 85.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.48,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 201.19,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.63,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 42.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 57.8,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 114.26,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.11,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 118.36,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 67.84,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Objection Navigation",
+        "explanation": "Consultants effectively transform potential obstacles into opportunities through empathetic validation and solution-focused guidance while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Pathway Flexibility Demonstration",
+        "explanation": "Strong demonstration of how program structures and entry points adapt to diverse student circumstances while maintaining clear progression paths"
+      },
+      {
+        "headline": "Complex Circumstance Support",
+        "explanation": "Effective handling of sensitive situations through balanced empathy and practical solutions while maintaining appropriate professional boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Financial Guidance Depth",
+        "explanation": "More comprehensive exploration needed of immediate financial solutions and support options to address cost concerns while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Career Integration Enhancement",
+        "explanation": "Stronger connection required between program elements and specific career advancement goals to demonstrate tangible professional value"
+      },
+      {
+        "headline": "Communication Follow-Through",
+        "explanation": "More robust follow-up processes needed to maintain trust and demonstrate reliable institutional support throughout the enrollment journey"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Timeline Resolution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465285202",
+              "segment_id": "83",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412848513",
+                "segment_id": "34",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'But when I had a look at the unit and how long it would take me to finish the Bachelor of Psychology at Monash, it'll actually be like double the time' (call_596465285202, seg_12), revealing significant timeline concerns.",
+          "consultant_response": "Consultant provided direct solution: 'So if you're 50% through Adam, honestly, I'd finish up your Bachelor's Degree and go straight into a fourth year. That's your fastest way' (call_596465285202, seg_83).",
+          "context_impact": "Timeline concerns could severely impact enrollment decision, requiring clear alternative pathway demonstration.",
+          "recommended_approach": "Include more specific examples of successful pathway transitions and timeline advantages while maintaining momentum."
+        },
+        {
+          "id": 2,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554686757",
+              "segment_id": "16",
+              "timestamp": "01:29"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412565087",
+                "segment_id": "99",
+                "timestamp": "04:29"
+              }
+            ]
+          },
+          "student_trigger": "Student inquired: 'I just want to see if it's like the application and all the other details, like if it's supported by a Commonwealth loan?' (call_596554686757, seg_16), seeking clarity on financial support options.",
+          "consultant_response": "Consultant confirmed: 'Oh yeah, we've got fee help definitely, that's fine' (call_596554686757, seg_18), providing immediate assurance about funding availability.",
+          "context_impact": "Comprehensive financial guidance needed to address funding concerns and maintain enrollment momentum.",
+          "recommended_approach": "Provide detailed explanation of FEE-HELP benefits, repayment structure, and explore employer sponsorship opportunities."
+        },
+        {
+          "id": 3,
+          "title": "Complex Circumstances Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689182317",
+              "segment_id": "18",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Most likely going into custody in like July. I was wondering if you guys have experienced that before, where you can complete studies?' (call_596689182317, seg_13).",
+          "consultant_response": "Consultant acknowledged empathetically: 'I think we have done it before. Look, again, I'm sorry to hear about your circumstances' (call_596689182317, seg_18).",
+          "context_impact": "Unique circumstances requiring sensitive handling and clear support pathway demonstration.",
+          "recommended_approach": "Provide more specific examples of support mechanisms while maintaining appropriate boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Career Value Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412565087",
+              "segment_id": "14",
+              "timestamp": "06:14"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596688921231",
+                "segment_id": "81",
+                "timestamp": "3:46"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm looking at a couple of things. A few different roles as well and I think that would assist with those roles' (call_596412565087, seg_14), seeking connection between program and career advancement.",
+          "consultant_response": "Consultant replied: 'Not a problem. Have you studied before?' (call_596412565087, seg_16), failing to explore career aspirations.",
+          "context_impact": "Missed opportunity to strengthen enrollment commitment through clear career benefit alignment.",
+          "recommended_approach": "Investigate specific career goals and demonstrate direct alignment between program elements and professional advancement opportunities."
+        },
+        {
+          "id": 5,
+          "title": "Communication Follow-Through",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616658052",
+              "segment_id": "50",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596616658052",
+                "segment_id": "2",
+                "timestamp": "00:10"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'everybody I've spoken to has told me that they'll get somebody to call me back, and nobody's ever called me back' (call_596616658052, seg_50).",
+          "consultant_response": "Consultant replied only: 'Oh, that's unfortunate' (call_596616658052, seg_53), failing to address core concern.",
+          "context_impact": "Risk of damaged institutional credibility due to inconsistent communication.",
+          "recommended_approach": "Provide clear commitment with specific follow-up timeline and direct contact information."
+        },
+        {
+          "id": 6,
+          "title": "Program Change Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413097390",
+              "segment_id": "13",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yes, but I changed my mind. I want to go for computer science degree, not data analytics' (call_596413097390, seg_13), revealing significant program redirection needs.",
+          "consultant_response": "Consultant provided solution-focused guidance: 'Graduate certificates are generally a good way to start, particularly if you are on the fence about it' (call_596413097390, seg_21).",
+          "context_impact": "Program change required immediate validation and clear guidance to maintain enrollment momentum.",
+          "recommended_approach": "Include deeper exploration of motivations behind program change and provide more specific computer science pathway examples."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Timeline Resolution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465285202",
+              "segment_id": "83",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412848513",
+                "segment_id": "34",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concern about program duration, exemplified when one stated: 'But when I had a look at the unit and how long it would take me to finish the Bachelor of Psychology at Monash, it'll actually be like double the time' (call_596465285202, seg_12). This objection revealed both practical and emotional barriers - the practical aspect of extended study time and the emotional component of feeling their previous studies weren't being fully valued.",
+          "consultant_response": "The consultant demonstrated effective objection handling by providing a clear alternative solution: 'So if you're 50% through Adam, honestly, I'd finish up your Bachelor's Degree and go straight into a fourth year. That's your fastest way' (call_596465285202, seg_83). This response was particularly effective because it acknowledged the timeline concern while offering a concrete alternative that actually better served the student's long-term goals. The consultant's direct and honest approach, coupled with a solution-focused response, helped transform what could have been a significant barrier into a clear path forward.",
+          "priority": "high",
+          "recommended_approach": "When addressing timeline concerns, begin by validating the student's desire for efficient progression while maintaining academic integrity. Start with acknowledgment: 'I understand your concern about the timeline - let's explore the most efficient pathway to your goals.' Then demonstrate how alternative approaches might better serve their long-term objectives: 'While completing your current degree might seem longer initially, it actually accelerates your career progression by positioning you for advanced studies.' Share specific examples of successful transitions: 'Many students who've taken this route have completed their studies faster than expected while maintaining strong academic performance.' Always connect the solution to their career goals: 'This pathway not only saves time overall but provides stronger foundations for your future specialization.' The key is transforming perceived delays into strategic advantages while maintaining momentum toward enrollment. Remember to check understanding and comfort with the proposed timeline throughout the discussion: 'How does this pathway align with your career timeline and goals?'"
+        },
+        {
+          "id": 2,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554686757",
+              "segment_id": "16",
+              "timestamp": "01:29"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412565087",
+                "segment_id": "99",
+                "timestamp": "04:29"
+              }
+            ]
+          },
+          "student_trigger": "The student raised critical financial concerns by asking: 'I just want to see if it's like the application and all the other details, like if it's supported by a Commonwealth loan?' (call_596554686757, seg_16). The timing and nature of this question indicated that financial support availability would be a decisive factor in their enrollment decision. Similar financial concerns emerged across multiple calls, highlighting the importance of comprehensive financial guidance in the enrollment process.",
+          "consultant_response": "The consultant provided immediate assurance about FEE-HELP availability: 'Oh yeah, we've got fee help definitely, that's fine' (call_596554686757, seg_18). While this quick confirmation addressed the basic concern, the response could have included more detailed information about the benefits and application process. However, the consultant's confident tone helped maintain enrollment momentum by removing financial uncertainty as a potential barrier.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, begin by validating their importance while immediately confirming available support options: 'That's an excellent question about financial support. Let me explain all your options, starting with FEE-HELP.' Guide students through specific benefits: 'FEE-HELP allows you to defer payment until you're earning above the threshold, currently at [amount]. Many students find this removes the immediate financial pressure.' Always include employer support possibilities: 'Additionally, many organizations offer education support - would you like information to help build a business case for your employer?' Provide clear next steps: 'Let's look at the FEE-HELP application process together. I can guide you through each requirement.' Remember to verify understanding throughout: 'Would you like me to explain any aspect of these financial options in more detail?' The goal is transforming financial concerns into manageable solutions while maintaining enrollment momentum. Close with specific action items: 'Let me email you the FEE-HELP guidelines and application details right after our call.'"
+        },
+        {
+          "id": 3,
+          "title": "Complex Circumstances Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689182317",
+              "segment_id": "18",
+              "timestamp": "01:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a sensitive conversation, the student disclosed: 'Most likely going into custody in like July. I was wondering if you guys have experienced that before, where you can complete studies?' (call_596689182317, seg_13). This disclosure required careful handling to maintain the student's dignity while exploring viable study options. The directness of the student's disclosure indicated their trust and hope for understanding.",
+          "consultant_response": "The consultant responded with appropriate empathy and professionalism: 'I think we have done it before. Look, again, I'm sorry to hear about your circumstances, but I think we have done it before. There can be privacy issues though, around it' (call_596689182317, seg_18). This response effectively balanced acknowledgment of the situation with practical consideration of potential challenges. The consultant maintained professional boundaries while showing understanding and willingness to explore solutions.",
+          "priority": "high",
+          "recommended_approach": "When handling sensitive disclosures, lead with empathy while maintaining professional boundaries: 'Thank you for sharing that with me. Let's explore how we can support your educational goals during this time.' Focus on practical aspects of study support while being mindful of institutional policies: 'Our online learning platform provides flexible access to materials, and we have experience supporting students in various circumstances.' Address specific concerns directly but professionally: 'Let me explain exactly how our support services can assist in your situation.' Provide clear next steps while maintaining appropriate boundaries: 'Here's what we can definitely provide, and here's where we might need to explore additional options together.' The goal is demonstrating institutional support while respecting student dignity and maintaining professional standards. Always conclude with concrete action items: 'Let's focus on establishing your study plan and support framework now, so everything is in place when you need it.'"
+        },
+        {
+          "id": 4,
+          "title": "Career Value Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412565087",
+              "segment_id": "14",
+              "timestamp": "06:14"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596688921231",
+                "segment_id": "81",
+                "timestamp": "3:46"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed career advancement motivations, exemplified when one stated: 'I'm looking at a couple of things. A few different roles as well and I think that would assist with those roles' (call_596412565087, seg_14). This pattern of career-focused inquiries highlighted a critical need for clear articulation of program benefits and professional outcomes.",
+          "consultant_response": "Consultants often provided minimal responses, such as 'Not a problem. Have you studied before?' (call_596412565087, seg_16), missing opportunities to explore career goals and demonstrate program value. These brief responses failed to connect program features with professional advancement opportunities or build confidence in the program's career benefits.",
+          "priority": "high",
+          "recommended_approach": "When students express career advancement interests, begin by exploring their specific goals: 'Tell me more about the roles you're targeting - this helps me show how our program directly supports your career progression.' Draw explicit connections between program elements and professional opportunities: 'Let me show you how our advanced modules align with the senior positions you're interested in.' Share specific success stories: 'Many of our graduates have successfully transitioned to roles like [specific examples] using the skills developed in this program.' Always verify career alignment: 'Based on your career goals, would you like to explore how specific course elements support your professional development?' The goal is transforming general career interest into clear pathways while maintaining enrollment momentum. Remember to highlight immediate workplace applications: 'Many of our students apply these skills in their current roles while preparing for advancement.'"
+        },
+        {
+          "id": 5,
+          "title": "Communication Follow-Through",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616658052",
+              "segment_id": "50",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596616658052",
+                "segment_id": "2",
+                "timestamp": "00:10"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant frustration with previous communication attempts: 'everybody I've spoken to has told me that they'll get somebody to call me back, and nobody's ever called me back' (call_596616658052, seg_50). This statement revealed a breakdown in trust due to unfulfilled promises of follow-up, highlighting how poor communication handling can damage the student-institution relationship.",
+          "consultant_response": "The consultant's response was notably inadequate, simply stating 'Oh, that's unfortunate' (call_596616658052, seg_53). This brief acknowledgment failed to address the underlying frustration or provide any concrete solution to prevent similar issues in the future. The response missed an opportunity to rebuild trust and demonstrate improved communication practices.",
+          "priority": "high",
+          "recommended_approach": "When addressing communication breakdowns, begin with genuine acknowledgment and accountability: 'I sincerely apologize for your experience with our follow-up process - that's not the level of service we aim to provide.' Take immediate ownership: 'I'm going to handle your case personally and ensure you don't face this situation again.' Provide specific commitments: 'Here's what will happen next: I'll address your concern today, and you'll receive a follow-up email by 5 PM with my direct contact information.' Set clear expectations: 'I'll call you tomorrow at [specific time] to ensure everything has been resolved to your satisfaction.' Always close the loop: 'Would you like me to send a calendar invitation for our follow-up call?' The goal is transforming frustration into an opportunity to demonstrate exceptional service recovery while rebuilding trust through reliable communication patterns."
+        },
+        {
+          "id": 6,
+          "title": "Program Change Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413097390",
+              "segment_id": "13",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596413097390 (segment 13), the student expressed a significant shift in academic direction: 'Yes, but I changed my mind. I want to go for computer science degree, not data analytics.' This statement revealed both clarity about their desired direction and potential uncertainty about how to navigate the change. The timing and nature of this disclosure presented a vital opportunity to demonstrate institutional support for evolving student goals while maintaining enrollment momentum.",
+          "consultant_response": "The consultant effectively acknowledged the change and provided structured guidance: 'Okay... graduate certificates are generally a good way to start, particularly if you are on the fence about it, because, I mean, it's only four units' (segment 21). This response validated the student's decision while offering a practical pathway forward. The consultant's approach demonstrated understanding of the student's situation and provided a concrete solution that could help bridge their transition to computer science.",
+          "priority": "high",
+          "recommended_approach": "When addressing program changes, begin by validating the student's evolving interests while maintaining momentum toward enrollment. Start with clear acknowledgment: 'I appreciate you sharing your interest in computer science with me - it's important that your program aligns with your goals.' Then, explore their motivations to ensure proper guidance: 'Could you tell me more about what drew you toward computer science?' This creates opportunity to align their aspirations with available pathways. When presenting the graduate certificate option, frame it as a strategic starting point: 'Many students find that starting with a graduate certificate helps them confirm their interest while building relevant skills. For example, our current computer science students often begin with core programming units that directly transfer into the full degree.' Always provide specific examples: 'One recent student started with the certificate while working full-time, completed the four units with excellent results, and then smoothly transitioned into the full master's program.' Throughout the conversation, emphasize flexibility while maintaining academic rigor: 'The certificate's four units give you focused exposure to key computer science concepts while keeping your long-term options open.' Remember to check understanding and address concerns throughout: 'How does this pathway align with what you were envisioning for your studies?'"
+        }
+      ]
+    }
+  }
+}

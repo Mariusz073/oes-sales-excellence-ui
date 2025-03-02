@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 281,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 90,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.028469750889684,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 191,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.97153024911033,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.18489425260641,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 191,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 114.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.9,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.88,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 138.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.77,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 132.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.67,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 129.12,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Adaptive Solution Provision",
+        "explanation": "Consultants effectively transform objections into opportunities by providing personalized, flexible solutions that maintain enrollment momentum while addressing individual circumstances"
+      },
+      {
+        "headline": "Program Flexibility Communication",
+        "explanation": "Strong demonstration of how program design accommodates diverse student needs through clear examples and specific adaptability options that build confidence"
+      },
+      {
+        "headline": "Alternative Pathway Solutions",
+        "explanation": "Effective presentation of clear, achievable alternative pathways that transform potential barriers into structured progression opportunities"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Comprehensive Concern Investigation",
+        "explanation": "Enhanced exploration needed when students express uncertainty to uncover and address underlying concerns before they become enrollment barriers"
+      },
+      {
+        "headline": "Financial Guidance Enhancement",
+        "explanation": "More detailed discussion required of funding options, repayment processes, and long-term benefits to transform financial concerns into confident investment decisions"
+      },
+      {
+        "headline": "Work-Life Balance Support",
+        "explanation": "Stronger emphasis needed on providing specific strategies and success examples for balancing study with work and family commitments"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617471381",
+              "segment_id": "62",
+              "timestamp": "04:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Oh, no, I can't do that. That's why I just want one unit because I'm not only able to' (call_596617471381, seg_62), revealing significant concerns about managing study workload.",
+          "consultant_response": "Consultant offered tailored solution: 'Yes, absolutely. You can do just one unit as well now in March, and then you see how you go' (call_596617471381, seg_66), effectively showing program adaptability.",
+          "context_impact": "Critical moment requiring clear demonstration of program flexibility to maintain enrollment momentum while ensuring student confidence.",
+          "recommended_approach": "Include specific examples of successful part-time study patterns and comprehensive support services available throughout the study journey."
+        },
+        {
+          "id": 2,
+          "title": "Financial Aid Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689190804",
+              "segment_id": "171",
+              "timestamp": "20:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I really would prefer not to have a HECS debt to be honest a lot of my staff have got one' (call_596689190804, seg_171), revealing significant financial concerns about educational investment.",
+          "consultant_response": "Consultant acknowledged but didn't fully explore financial options or address specific concerns about HECS debt management and long-term benefits.",
+          "context_impact": "Financial hesitation presented a critical enrollment barrier requiring comprehensive addressing of HECS-HELP benefits and manageable repayment structure.",
+          "recommended_approach": "Provide comprehensive information about HECS-HELP thresholds, repayment calculations, and career investment benefits with specific examples."
+        },
+        {
+          "id": 3,
+          "title": "Effective Law Program Pathway",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343545676",
+              "segment_id": "18",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Just regarding how my application, just more advice on what I could do moving forward to actually get into like the law degree' (call_596343545676, seg_18), revealing uncertainty about admission requirements.",
+          "consultant_response": "Consultant effectively explained: 'We have a course called the Undergraduate Certificate of Criminal justice and criminology...when you pass those units with the average mark of 60%, you can then enroll into the law course' (call_596343545676, seg_22).",
+          "context_impact": "Critical moment requiring clear pathway guidance to maintain enrollment momentum.",
+          "recommended_approach": "Include more proactive exploration of student's academic background before presenting pathway options."
+        },
+        {
+          "id": 4,
+          "title": "Work-Life-Study Balance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343271046",
+              "segment_id": "36",
+              "timestamp": "02:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm currently working full-time I've got a couple of kids and I'm just trying to work out where I guess how this could be incorporated within my life' (call_596343271046, seg_36).",
+          "consultant_response": "Consultant focused on entry requirements rather than addressing work-life balance concerns.",
+          "context_impact": "Critical opportunity to demonstrate how program accommodates working parents.",
+          "recommended_approach": "Provide specific examples and strategies for managing study alongside work and family commitments."
+        },
+        {
+          "id": 5,
+          "title": "Study Flexibility Response",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549159320",
+              "segment_id": "29",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Well just because obviously being a full-time worker as well, like with classes and all online classes, do I need to be in every single time or do you work at your own pace?' (call_596549159320, seg_29).",
+          "consultant_response": "Consultant provided clear solution: 'Well you work at your own time because the classes are pre-recorded and uploaded. You can watch those at any time of day, any day of the week' (call_596549159320, seg_30).",
+          "context_impact": "Immediate need to demonstrate program flexibility to maintain enrollment momentum.",
+          "recommended_approach": "Include specific examples of how current working students successfully manage their study schedules."
+        },
+        {
+          "id": 6,
+          "title": "Urgent Enrollment Resolution",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465208842",
+              "segment_id": "15",
+              "timestamp": "1:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I emailed today saying I was stressed because obviously uni starts in two and a half weeks' (call_596465208842, seg_15), revealing urgent enrollment concerns.",
+          "consultant_response": "Consultant committed to swift action: 'I'll get him to give you a call tomorrow morning, first thing' (call_596465208842, seg_44).",
+          "context_impact": "Immediate intervention needed to prevent potential withdrawal due to enrollment uncertainty.",
+          "recommended_approach": "Provide immediate status update while arranging follow-up call."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617471381",
+              "segment_id": "62",
+              "timestamp": "04:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596617471381 (segment 62), the student expressed significant concerns about managing their study load, stating 'Oh, no, I can't do that. That's why I just want one unit because I'm not only able to.' This clear articulation of workload concerns represented a crucial moment where the student's willingness to enroll hinged on understanding how the program could accommodate their capacity constraints while maintaining academic progress.",
+          "consultant_response": "The consultant responded effectively by saying 'Yes, absolutely. You can do just one unit as well now in March, and then you see how you go, and then in July, if you want to do more than one unit, you can do that as well' (segment 66). This response validated the student's concern while presenting a flexible solution that addressed their immediate needs. The approach transformed a potential barrier into a pathway forward by demonstrating how the program could adapt to the student's circumstances while maintaining progress toward their educational goals.",
+          "priority": "high",
+          "recommended_approach": "When addressing workload concerns, begin by acknowledging the legitimacy of the student's capacity considerations while highlighting flexible study options. Start with validation: 'I understand your concern about managing the workload - it's important to start at a level that works for you.' Then provide specific options: 'Many of our successful students begin with one unit to establish their study routine, then adjust their load as they become more comfortable.' Share relevant examples: 'For instance, one of our current students started with a single unit while working full-time, and once they developed their study rhythm, they felt confident taking on additional units.' When discussing flexibility, emphasize ongoing support: 'Our student success team can help you adjust your study load each trimester based on your circumstances, ensuring you maintain progress while balancing other commitments.' Pay particular attention to students expressing workload anxiety, using success stories to build confidence: 'We recently had a student in a similar situation who completed their program by starting small and gradually increasing their load as they became more comfortable.' The goal is to transform workload concerns into a manageable study plan while demonstrating comprehensive support throughout their journey. Always conclude by confirming their comfort with the proposed approach and emphasizing the availability of ongoing support resources."
+        },
+        {
+          "id": 2,
+          "title": "Financial Aid Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689190804",
+              "segment_id": "171",
+              "timestamp": "20:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596689190804 (segment 171), the student expressed significant financial concerns by stating 'I really would prefer not to have a HECS debt to be honest a lot of my staff have got one.' This revealed both awareness of HECS implications and potential negative associations with educational debt, making this a crucial moment for comprehensive financial guidance and clear demonstration of the investment value.",
+          "consultant_response": "The consultant's response was limited to acknowledging the concern without fully exploring financial options or addressing specific concerns about HECS debt. This incomplete handling of the financial objection left the student without clear understanding of their options or how to proceed while managing their financial concerns, potentially impacting their enrollment confidence.",
+          "priority": "high",
+          "recommended_approach": "When addressing HECS debt concerns, begin by validating the financial consideration while reframing it as an investment decision. Start with acknowledgment: 'I understand your careful consideration of HECS debt - it's an important part of planning your educational investment.' Then provide comprehensive information: 'Let me explain how the HECS-HELP system is specifically designed to be manageable. For instance, repayments only start once you're earning above $47,014 per year, and they're calculated as a percentage of your income.' Share specific examples: 'Many of our students find the repayment structure manageable - for example, on a $60,000 salary, repayments would be approximately $54 per week.' Address common misconceptions: 'Unlike other types of debt, HECS-HELP has no interest charges - only annual indexation to match inflation.' Pay particular attention to long-term benefits: 'Our graduates typically see significant salary increases within two years of completion, often making the HECS investment very worthwhile in terms of career advancement.' When discussing financial planning, provide concrete support: 'Our financial advisory team can help you understand exactly how HECS-HELP would work in your situation, including detailed repayment projections.' The goal is to transform financial concerns into informed investment decisions while ensuring students understand the manageable nature of HECS-HELP repayments and the long-term career benefits of their educational investment."
+        },
+        {
+          "id": 3,
+          "title": "Effective Law Program Pathway",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343545676",
+              "segment_id": "18",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about their path to law school: 'Just regarding how my application, just more advice on what I could do moving forward to actually get into like the law degree' (call_596343545676, seg_18). This moment represented a critical juncture where admission requirements could become a barrier to enrollment.",
+          "consultant_response": "The consultant demonstrated effective objection handling by acknowledging the challenge while presenting a clear solution: 'Yeah so look to get into law it's not the easiest course to get into from an academic perspective but we do have a pathway for you okay. We have a course called the Undergraduate Certificate of Criminal justice and criminology... when you pass those units with the average mark of 60%, you can then enroll into the law course' (call_596343545676, seg_22).",
+          "priority": "high",
+          "recommended_approach": "When addressing admission concerns for competitive programs like law, begin by acknowledging both the challenge and the student's ambition. Start with validation: 'I appreciate you asking about this - it shows you're thinking seriously about your legal career.' Before presenting alternative pathways, explore the student's background and motivations: 'What attracted you to law?' and 'Have you had any previous study experience?' This context allows for more personalized guidance. When explaining pathway options, use clear milestones: 'The Certificate acts as your stepping stone, with each unit building your academic skills while counting toward your law degree.' Always emphasize how the pathway program actively contributes to their law career journey, rather than presenting it as just a hurdle to overcome. Explain how the criminology units provide valuable context for future law studies. Check understanding at each step and reinforce how this structured approach has helped previous students successfully transition into law studies."
+        },
+        {
+          "id": 4,
+          "title": "Work-Life-Study Balance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343271046",
+              "segment_id": "36",
+              "timestamp": "02:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student expressed significant concerns about managing multiple commitments: 'I'm currently working full-time I've got a couple of kids and I'm just trying to work out where I guess how this could be incorporated within my life' (call_596343271046, seg_36). This statement revealed deep consideration of practical feasibility and needed clear demonstration of how the program could accommodate their complex life circumstances.",
+          "consultant_response": "While the consultant acknowledged the concern, the response focused primarily on entry requirements rather than addressing the core work-life balance concerns. The opportunity to demonstrate specific support mechanisms and success strategies for working parents was missed, potentially leaving the student uncertain about their ability to manage the program alongside existing commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-life-study balance concerns, begin by validating the student's thoughtful consideration of their commitments. Start with empathetic acknowledgment: 'Managing full-time work and family while studying is a common concern, and it's great that you're thinking this through carefully.' Provide specific examples of how current students successfully manage similar situations: 'Many of our parent students find our flexible study options particularly helpful - for instance, you can download materials to study offline during lunch breaks or after the kids are asleep.' Share specific strategies that have worked for others: 'Some working parents choose to start with two units to establish their routine, then adjust their study load based on their comfort level.' Address practical aspects like assignment flexibility, mobile access to materials, and support services. Include examples of how specific program features align with working parents' needs: 'Our weekly modules are designed to fit around work schedules, with flexible deadlines that accommodate family commitments.' End by confirming understanding and offering to explore specific scenarios relevant to their situation."
+        },
+        {
+          "id": 5,
+          "title": "Study Flexibility Response",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549159320",
+              "segment_id": "29",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student voiced significant concern about managing their studies alongside full-time work: 'Well just because obviously being a full-time worker as well, like with classes and all online classes, do I need to be in every single time or do you work at your own pace?' (call_596549159320, seg_29). This revealed a critical barrier to enrollment - the fear that rigid class schedules might conflict with work commitments.",
+          "consultant_response": "The consultant demonstrated excellent objection handling by providing a clear, comprehensive response: 'Well you work at your own time because the classes are pre-recorded and uploaded. You can watch those at any time of day, any day of the week as long as you're meeting the deadlines for your studies it doesn't matter if you study at night or in the morning or on the weekend doesn't matter' (call_596549159320, seg_30).",
+          "priority": "high",
+          "recommended_approach": "When addressing flexibility concerns from working professionals, acknowledge their specific situation and validate their need for adaptable study options. Begin with a clear overview of the flexible learning model: 'Our program is specifically designed for working professionals like yourself.' Provide concrete examples of how current students manage their studies: 'Many of our students access lectures during their lunch breaks or evenings, while others prefer weekend study sessions.' Emphasize the autonomy students have in managing their learning schedule while being clear about assignment deadlines and expectations. For instance: 'While you have complete flexibility in when you watch lectures and complete readings, you'll have clear deadlines for assignments to help you stay on track.' Address potential concerns about support by highlighting available resources: 'Our online learning platform is available 24/7, and our support team understands the unique needs of working students.' Pay particular attention to emphasizing how the flexible model allows students to maintain their professional commitments while advancing their education."
+        },
+        {
+          "id": 6,
+          "title": "Urgent Enrollment Resolution",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596465208842",
+              "segment_id": "15",
+              "timestamp": "1:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about their enrollment status: 'I emailed today saying I was stressed because obviously uni starts in two and a half weeks' (call_596465208842, seg_15). This moment revealed both immediate stress about the upcoming term start and uncertainty about their enrollment status.",
+          "consultant_response": "The consultant demonstrated effective objection handling by immediately addressing the urgency of the situation, responding with: 'I'll get him to give you a call tomorrow morning, first thing' (call_596465208842, seg_44). This response showed recognition of the time-sensitive nature of the concern and provided a concrete next step.",
+          "priority": "high",
+          "recommended_approach": "When handling time-sensitive enrollment concerns, begin by validating the student's stress about their enrollment status: 'I understand your concern about the approaching start date - let me help clarify your status right now.' Then, provide immediate available information while arranging any necessary follow-up. For instance: 'While I can confirm your application is being processed, let me arrange a priority follow-up to ensure you have complete enrollment clarity.' Be specific about timing - rather than vague promises, commit to exact follow-up times: 'You'll receive a call tomorrow between 8:30-9:00 AM.' For especially anxious students, provide your contact information as backup and explain exactly what will happen next. If system access is needed to provide complete information, explain this clearly while still offering immediate partial reassurance. The goal is transforming anxiety into confidence through clear communication and concrete action steps."
+        }
+      ]
+    }
+  }
+}

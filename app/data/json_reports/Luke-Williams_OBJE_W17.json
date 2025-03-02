@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "consultant_name": "Luke Williams",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 200,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 38,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 19.0,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 162,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 81.0,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.50654159372423,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 162,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 108.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.68,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 107.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 69.01,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.21,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.39,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 108.56,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 214.86,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.22,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 98.37,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 85.51,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 190.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.25,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Objection Resolution",
+        "explanation": "Consultants effectively transform enrollment barriers into manageable steps through targeted information and clear policy explanations that build student confidence"
+      },
+      {
+        "headline": "Empathetic Technical Support",
+        "explanation": "Consultants maintain enrollment momentum during technical difficulties through patient, supportive responses that transform potential barriers into trust-building opportunities"
+      },
+      {
+        "headline": "Clear Financial Guidance",
+        "explanation": "Swift identification and resolution of financial misunderstandings while providing comprehensive payment options and support mechanisms that ensure informed decision-making"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "Greater emphasis needed on building confidence for students returning to education by highlighting transferable professional skills and specific support mechanisms"
+      },
+      {
+        "headline": "Financial Support Communication",
+        "explanation": "Enhanced exploration needed of payment options and financial assistance programs to ensure comprehensive understanding of available support"
+      },
+      {
+        "headline": "Process Navigation Clarity",
+        "explanation": "Clearer guidance required for complex enrollment scenarios with specific alternative pathways and documentation requirements"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Technical Frustration Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617169258",
+              "segment_id": "174",
+              "timestamp": "14:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Sorry, this is really bad. I just can't help it' (call_596617169258, seg_174), showing acute frustration with technical difficulties during enrollment.",
+          "consultant_response": "Consultant replied with empathy: 'That's okay. No problems. You take your time.' (call_596617169258, seg_171), effectively diffusing tension through patient support.",
+          "context_impact": "This moment required immediate de-escalation to prevent enrollment abandonment due to technical frustration.",
+          "recommended_approach": "Include proactive technical guidance while maintaining calm approach: 'Let me guide you through this step-by-step, and we can pause whenever needed.'"
+        },
+        {
+          "id": 2,
+          "title": "Accreditation Assurance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617235286",
+              "segment_id": "54",
+              "timestamp": "05:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'And then just for like a second bit of kind of confirmation, is it's not necessarily an honors degree. However, after the 1.4-inch completion, once you do these first two classes, sorry, and then continue with the rest of them, that is the same as an APAC Level 4 accreditation. Correct?' (call_596617235286, seg_54)",
+          "consultant_response": "Consultant confirmed: 'It sure is, that's right. Yeah, it's the equivalency of doing an honours by doing this course, but it does still give you that APAC accreditation where you can get provisional registration, and then you can move on up into the Masters thereafter.' (call_596617235286, seg_57)",
+          "context_impact": "Clear communication about professional recognition was crucial for maintaining enrollment momentum.",
+          "recommended_approach": "Include specific examples of how graduates have leveraged this accreditation in their careers."
+        },
+        {
+          "id": 3,
+          "title": "Study Gap Concerns",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554754603",
+              "segment_id": "60",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596554754603, seg_60), revealing deep concerns about academic readiness.",
+          "consultant_response": "Minimal acknowledgment without exploring valuable transferable skills from professional experience.",
+          "context_impact": "Critical concern that could prevent enrollment if not addressed effectively with confidence-building support.",
+          "recommended_approach": "Highlight how professional experience enhances academic success: 'Many of our most successful students find their industry experience gives them a unique advantage in applying theoretical concepts.'"
+        },
+        {
+          "id": 4,
+          "title": "Financial Support Clarification",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413295046",
+              "segment_id": "82",
+              "timestamp": "13:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Your work's going to be fully paying for your course' (call_596413295046, seg_82), revealing critical misunderstanding about financial support.",
+          "consultant_response": "Consultant quickly clarified: 'No, not the work, sorry. I'll be doing it' (call_596413295046, seg_84), preventing potential future complications.",
+          "context_impact": "This misunderstanding could lead to significant enrollment barriers if not properly addressed.",
+          "recommended_approach": "Provide comprehensive overview: 'Let me walk you through all our payment options, including FEE-HELP and flexible payment plans, to find the best fit for your situation.'"
+        },
+        {
+          "id": 5,
+          "title": "Credit Transfer Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413547238",
+              "segment_id": "11",
+              "timestamp": "01:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'What options there are at Monash just to complete an MBA and see if I can get an RPL or recognition of the units I've done at another university but I mean is that possible?' (call_596413547238, seg_11)",
+          "consultant_response": "Consultant provided specific guidance: 'You can get a maximum of six credits so there's 12 units in total you can get only a maximum of 50% of the course credited' (call_596413547238, seg_14)",
+          "context_impact": "Clear credit transfer information directly influences enrollment decisions.",
+          "recommended_approach": "Include specific examples: 'Many students successfully transfer core business units, completing their remaining studies within 18 months part-time.'"
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554884919",
+              "segment_id": "218",
+              "timestamp": "18:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I did study for about a year, two years ago, so I sort of can manage my time to study and work full-time' (call_596554884919, seg_218)",
+          "consultant_response": "Consultant validated: 'That's great to hear you've managed to study alongside work before. At Monash Online, we've got fantastic resources and support in place to help you balance your study and work commitments effectively.' (call_596554884919, seg_221)",
+          "context_impact": "Opportunity to validate past success while introducing enhanced support resources.",
+          "recommended_approach": "Share specific examples: 'Many students use our flexible assessment windows to manage peak work periods, completing readings during breaks and participating in discussions evenings.'"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Technical Frustration Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617169258",
+              "segment_id": "174",
+              "timestamp": "14:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical enrollment step, the student expressed significant frustration with technical difficulties, stating 'Sorry, this is really bad. I just can't help it' (segment 174). This moment of vulnerability presented both a risk and an opportunity - the student's frustration could either lead to enrollment abandonment or, if handled well, strengthen their connection with the institution through demonstrated support.",
+          "consultant_response": "The consultant demonstrated exemplary objection handling by responding with 'That's okay. No problems. You take your time.' This calm, empathetic approach validated the student's feelings while maintaining a supportive environment. The response effectively diffused tension and showed institutional understanding of technical challenges, helping transform a potentially negative experience into a positive demonstration of support.",
+          "priority": "high",
+          "recommended_approach": "When addressing technical frustrations during enrollment, start by acknowledging the student's emotions while maintaining a calm, reassuring presence: 'I completely understand how frustrating this can be, and we'll work through it together.' Begin with validating statements followed by immediate reassurance: 'Many students encounter similar challenges, and we're here to help every step of the way.' For example, when a student struggles with form completion, respond with 'Let's break this down into smaller steps. I'll guide you through each section, and we can pause whenever you need.' If technical issues persist, offer specific solutions while maintaining patience: 'Sometimes clearing your browser cache helps - I can guide you through that process if you'd like.' The key is combining emotional support with practical assistance while demonstrating consistent patience. Throughout the interaction, maintain a tone that transforms technical barriers into opportunities to showcase institutional support, using phrases like 'Take your time, I'm here to help' and 'We'll make sure you're comfortable with each step before moving forward.'"
+        },
+        {
+          "id": 2,
+          "title": "Accreditation Assurance",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617235286",
+              "segment_id": "54",
+              "timestamp": "05:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial moment in call 596617235286 (segment 54), the student sought clarity about program credentials: 'And then just for like a second bit of kind of confirmation, is it's not necessarily an honors degree. However, after the 1.4-inch completion, once you do these first two classes, sorry, and then continue with the rest of them, that is the same as an APAC Level 4 accreditation. Correct?' This question revealed underlying concerns about professional recognition and qualification equivalency.",
+          "consultant_response": "The consultant demonstrated strong objection handling by providing a clear and comprehensive response: 'It sure is, that's right. Yeah, it's the equivalency of doing an honours by doing this course, but it does still give you that APAC accreditation where you can get provisional registration, and then you can move on up into the Masters thereafter.' This response effectively addressed the core concern while also highlighting the professional pathway opportunities.",
+          "priority": "high",
+          "recommended_approach": "When addressing accreditation concerns, begin by validating the importance of professional recognition in the student's career journey: 'Your focus on accreditation shows great career awareness. Let me clarify exactly how our program meets these professional standards.' Start with clear confirmation: 'Yes, this program provides APAC Level 4 accreditation, which is the industry standard for professional recognition.' Follow with practical implications: 'This means you'll be eligible for provisional registration upon completion, opening pathways to professional practice.' Share specific examples of how graduates have leveraged their accreditation: 'For instance, many of our graduates have successfully registered with the Psychology Board and progressed to specialized roles in clinical practice. One recent graduate used their accreditation to secure a position in a leading healthcare facility.' Address any equivalency concerns by highlighting program strengths: 'While structured differently from a traditional honours program, this course delivers equivalent professional recognition plus additional practical benefits like flexible study options.' Always conclude by checking understanding: 'Would you like me to explain more about how this accreditation supports specific career paths you're interested in?'"
+        },
+        {
+          "id": 3,
+          "title": "Study Gap Concerns",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554754603",
+              "segment_id": "60",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (segment 60). This disclosure revealed a common but crucial concern that could significantly impact their confidence and willingness to proceed with enrollment.",
+          "consultant_response": "The consultant missed an important opportunity to address these concerns directly. Instead of providing reassurance or exploring the student's professional experiences that could translate to academic success, the conversation moved on without acknowledging this significant worry. This oversight left the student's anxiety unaddressed, potentially affecting their confidence in proceeding with enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study after a long break, transform perceived disadvantages into recognition of professional growth and maturity. Begin by validating their concern while reframing it positively: 'Many of our most successful students return to study after building valuable professional experience. Your work history brings unique advantages to your studies.' Explore their professional background with purpose: 'Tell me about your work experience - you've likely developed skills that directly enhance academic success. For instance, many returning students find their project management skills make assignment planning more effective.' Share specific success stories: 'Just last semester, we had a student who returned after 20 years in industry. She found her professional experience helped her understand theoretical concepts more deeply and contribute valuable real-world insights to discussions. She's now excelling in her studies.' Address specific concerns with concrete solutions: 'Our study support services can help you refresh academic writing skills, and we offer workshops specifically designed for returning students. Plus, your industry experience often helps with understanding complex concepts through practical application.' The goal is to help them see their work experience as an asset rather than a liability, while ensuring they know about available support services: 'Would you like to learn more about how our returning student support program can help you leverage your professional experience?'"
+        },
+        {
+          "id": 4,
+          "title": "Financial Support Clarification",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413295046",
+              "segment_id": "82",
+              "timestamp": "13:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial financial planning discussion, the student stated: 'Your work's going to be fully paying for your course' (call_596413295046, seg_82). This misunderstanding about funding sources represented a critical moment where clarity was essential to prevent future complications.",
+          "consultant_response": "The consultant provided swift clarification by stating: 'No, not the work, sorry. I'll be doing it' (call_596413295046, seg_84). While this direct response effectively corrected the immediate misunderstanding, it represented only a partial fulfillment of the objection handling opportunity.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial misunderstandings, start with clear, gentle correction while acknowledging any potential impact: 'I notice there might be some confusion about the funding source. Let me clarify that this would be self-funded rather than employer-sponsored.' Then, use this as an opening to explore the student's comfort with financial commitment: 'How do you feel about managing the course costs? I'd be happy to explain our available payment options.' Share specific examples of how other students manage their payments: 'Many of our students utilize FEE-HELP or set up payment plans to make their education more manageable. For instance, one recent student combined partial upfront payments with FEE-HELP to reduce their overall loan amount.' Always confirm understanding and comfort level: 'Would you like me to explain any of these options in more detail?' For students showing any hesitation, offer to connect them with financial advisors or provide additional resources: 'We have a financial advisory team who can help you explore all available options and create a plan that works for your situation.' The goal is to ensure students feel confident in their ability to manage their educational investment while maintaining momentum toward enrollment."
+        },
+        {
+          "id": 5,
+          "title": "Credit Transfer Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413547238",
+              "segment_id": "11",
+              "timestamp": "01:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student expressed uncertainty about credit transfer options, asking: 'What options there are at Monash just to complete an MBA and see if I can get an RPL or recognition of the units I've done at another university but I mean is that possible?' This question revealed both the student's interest in pursuing further education and their concern about potentially repeating previously completed coursework.",
+          "consultant_response": "The consultant demonstrated effective objection handling by providing clear, specific information about credit transfer limits: 'You can get a maximum of six credits so there's 12 units in total you can get only a maximum of 50% of the course credited.' This response was particularly effective because it immediately addressed the feasibility of credit transfer while setting clear expectations about the scope of possible recognition.",
+          "priority": "high",
+          "recommended_approach": "When addressing credit transfer inquiries, begin by acknowledging the value of prior learning while setting clear expectations about the recognition process: 'I appreciate you bringing up your previous studies. Let's explore how we can maximize their value in your new program.' Then provide specific details about credit limits and requirements: 'For instance, if you've completed core business units in your previous degree, these might be eligible for up to 50% credit transfer.' Share real examples: 'Many students successfully transfer credits for fundamental units like Marketing Management or Financial Accounting. Just last intake, a student transferred six units and completed their remaining requirements within 18 months.' Address timeline implications: 'With six credits transferred, you could potentially complete your remaining units within 18 months part-time, depending on your study load.' Guide through the process: 'The first step is to submit your academic transcripts for assessment. Our team will evaluate each unit against our current curriculum to maximize your eligible credits.' Always verify understanding: 'Would you like me to explain how specific units from your previous study might transfer?' The goal is to ensure clarity while maintaining enthusiasm for the program."
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554884919",
+              "segment_id": "218",
+              "timestamp": "18:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596554884919 (segment 218), the student shared: 'I did study for about a year, two years ago, so I sort of can manage my time to study and work full-time.' This statement revealed both confidence from past experience and an underlying need for reassurance about managing current commitments.",
+          "consultant_response": "The consultant effectively validated past experience while introducing institutional support: 'That's great to hear you've managed to study alongside work before. At Monash Online, we've got fantastic resources and support in place to help you balance your study and work commitments effectively.' This response built on the student's existing confidence while ensuring awareness of available resources.",
+          "priority": "high",
+          "recommended_approach": "When discussing work-study balance, start by acknowledging past successes: 'Your previous experience balancing work and study is valuable - let's build on those strategies with our additional support resources.' Share specific examples: 'Many working professionals use our flexible assessment windows to manage peak work periods. For instance, one student completes readings during lunch breaks and participates in online discussions in the evenings. Another downloads lectures to their tablet for viewing during their commute.' Present concrete support mechanisms: 'Our success coaches can help develop a personalized study schedule that works around your specific work patterns. We also offer 24/7 technical support and recorded lectures for flexible access.' Address common challenges proactively: 'If you travel for work or face busy periods, our asynchronous learning model lets you adjust your study schedule accordingly. For example, many students complete assignments ahead of known busy periods at work.' Always check comfort level: 'How do these flexibility options align with your work patterns?' and offer additional support: 'Would you like to speak with a success coach about creating a customized study plan?' The goal is to build confidence while ensuring awareness of comprehensive support resources."
+        }
+      ]
+    }
+  }
+}

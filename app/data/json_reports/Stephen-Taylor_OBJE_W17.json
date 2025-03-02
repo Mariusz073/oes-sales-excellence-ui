@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 267,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 80,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.962546816479403,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 187,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.0374531835206,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.78203409873349,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 187,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 124.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.05,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 119.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.77,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 214.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.23,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 162.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.86,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 108.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.2,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 92.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.65,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Financial Navigation Excellence",
+        "explanation": "Consultants effectively transform financial concerns into opportunities through clear HECS-HELP guidance and compelling demonstration of program value"
+      },
+      {
+        "headline": "Geographic Flexibility Demonstration",
+        "explanation": "Strong presentation of program adaptability through clear interstate registration policies and practical transfer examples"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Effective provision of comprehensive academic support resources and foundation pathways that build student confidence"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Emotional Validation Enhancement",
+        "explanation": "Stronger acknowledgment needed of students' emotional experiences and self-doubt before transitioning to practical solutions"
+      },
+      {
+        "headline": "Root Cause Investigation",
+        "explanation": "More comprehensive exploration required of underlying concerns when students express intent to withdraw or hesitation"
+      },
+      {
+        "headline": "Resource Guidance Clarity",
+        "explanation": "Enhanced explanation needed of specific study requirements and available support systems with concrete examples"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "HECS-HELP Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617085208",
+              "segment_id": "69",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596688963730",
+                "segment_id": "166",
+                "timestamp": "20:43"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I want to apply for HECS, but I'm hoping I won't need to rely on it and can pay each course as I go' (call_596688963730, seg_166), revealing desire for payment flexibility.",
+          "consultant_response": "Consultant effectively replied: 'What I'd recommend you do though is still put it through HECS, and then that's kind of like a safety net in case you ever forget' (call_596688963730, seg_168).",
+          "context_impact": "Clear explanation of HECS-HELP benefits and flexibility crucial for maintaining enrollment momentum while addressing financial concerns.",
+          "recommended_approach": "Include specific payment thresholds and timeline examples to enhance financial planning confidence."
+        },
+        {
+          "id": 2,
+          "title": "Geographic Registration Clarity",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462487964",
+              "segment_id": "25",
+              "timestamp": "01:21"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I just read in the email quickly that, yes, I can work anywhere, right? I can work in New South Wales?' (call_596462487964, seg_25), seeking verification of geographical flexibility.",
+          "consultant_response": "Consultant explained: 'Victoria has an agreement with all the other states, so that if you are registered in Victoria, you'll then be able to register in your home state as well' (call_596462487964, seg_27).",
+          "context_impact": "Addressing inter-state registration was crucial for building confidence in program applicability.",
+          "recommended_approach": "Include specific examples of successful interstate transfers and registration timelines to reinforce flexibility."
+        },
+        {
+          "id": 3,
+          "title": "Scholarship Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689382244",
+              "segment_id": "210",
+              "timestamp": "12:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'It might be a long shot, but do you guys offer scholarships?' (call_596689382244, seg_210), revealing financial support as potential barrier.",
+          "consultant_response": "Consultant provided alternatives: 'They're usually run by a government organization or a charity... have a look at university scholarships that you might qualify for' (call_596689382244, seg_213).",
+          "context_impact": "Clear financial support guidance needed to prevent cost concerns from derailing enrollment.",
+          "recommended_approach": "Develop comprehensive guide to scholarship opportunities with clear application pathways."
+        },
+        {
+          "id": 4,
+          "title": "Withdrawal Prevention",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689079398",
+              "segment_id": "2",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just calling to cancel my enrolment' (call_596689079398, seg_2), indicating immediate intent to disengage with enrollment process.",
+          "consultant_response": "Consultant replied: 'Okay, let me have a look. Looks like, yeah, so you've enrolled in the course' (call_596689079398, seg_4), missing opportunity to explore reasons.",
+          "context_impact": "Critical moment requiring intervention to prevent enrollment loss and understand underlying concerns.",
+          "recommended_approach": "Implement structured approach to explore withdrawal reasons before discussing process."
+        },
+        {
+          "id": 5,
+          "title": "Resource Guidance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689382244",
+              "segment_id": "82",
+              "timestamp": "08:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'This might seem like a bit of a weird question, but like what resources do I need?' (call_596689382244, seg_82), showing uncertainty about study requirements.",
+          "consultant_response": "Consultant provided basic delivery information without exploring specific needs or concerns.",
+          "context_impact": "Clear resource information crucial for building study confidence and preparation.",
+          "recommended_approach": "Create comprehensive resource guide with specific examples and support access information."
+        },
+        {
+          "id": 6,
+          "title": "Emotional Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555348567",
+              "segment_id": "25",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed frustration: 'Why do I do this to myself?' (call_596555348567, seg_25), revealing significant self-doubt about educational decisions.",
+          "consultant_response": "Consultant replied: 'Okay, right. Well, thank you so much. I'll have a think about it today' (call_596555348567, seg_28), missing opportunity for emotional engagement.",
+          "context_impact": "Immediate emotional validation crucial for maintaining student confidence and enrollment momentum.",
+          "recommended_approach": "Implement structured approach to validate emotions before providing practical solutions."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "HECS-HELP Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617085208",
+              "segment_id": "69",
+              "timestamp": "05:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596688963730",
+                "segment_id": "166",
+                "timestamp": "20:43"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed concerns about payment flexibility, with one stating: 'I want to apply for HECS, but I'm hoping I won't need to rely on it and can pay each course as I go' (call_596688963730, seg_166). This revealed both desire for payment control and need for financial security, presenting crucial opportunities to demonstrate program payment flexibility.",
+          "consultant_response": "Consultants effectively addressed these concerns by positioning HECS as a safety net while validating payment preferences: 'What I'd recommend you do though is still put it through HECS, and then that's kind of like a safety net in case you ever forget' (call_596688963730, seg_168). This approach successfully transformed potential financial barriers into manageable options while maintaining enrollment momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing HECS-HELP inquiries, begin by acknowledging the student's desire for financial control while ensuring they understand all available options. Start with validation: 'I appreciate you wanting to manage your payments directly. Let me show you how HECS-HELP can work as a safety net while still giving you that control.' Then provide specific payment scenarios: 'Many students choose to pay as they go while maintaining HECS-HELP as backup. For example, if you're earning above the threshold of $48,000, you might prefer making voluntary payments to reduce future obligations.' Share success stories: 'We have students who successfully manage their payments through a combination of upfront payments and HECS-HELP, adapting their approach as their circumstances change.' Always ensure clear understanding of thresholds and timelines: 'The current HECS-HELP repayment threshold is $48,000, and repayments start at 1% of your income. This means if you earn $60,000, your repayment would be approximately $600 annually through the tax system.' Conclude by confirming their comfort with the options and offering ongoing support for financial planning."
+        },
+        {
+          "id": 2,
+          "title": "Geographic Registration Clarity",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462487964",
+              "segment_id": "25",
+              "timestamp": "01:21"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial moment in the enrollment process, the student sought confirmation about geographical flexibility: 'I just read in the email quickly that, yes, I can work anywhere, right? I can work in New South Wales?' (call_596462487964, seg_25). This question revealed underlying concerns about program credentials and registration transferability across different states.",
+          "consultant_response": "The consultant provided a comprehensive response that effectively addressed the concern: 'Victoria has an agreement with all the other states, so that if you are registered in Victoria, you'll then be able to register in your home state as well' (call_596462487964, seg_27). This clear explanation transformed potential uncertainty about geographical limitations into confidence about the program's nationwide applicability.",
+          "priority": "high",
+          "recommended_approach": "When addressing geographical flexibility concerns, begin by acknowledging the importance of state registration requirements: 'That's an excellent question about state registration. Let me explain how our program ensures you can work across different states.' Provide specific details about interstate agreements: 'Once registered in Victoria, you have a clear pathway to registration in other states. For example, many of our graduates successfully transfer their registration to New South Wales within weeks of completing the program.' Share real examples: 'One of our recent graduates moved from Melbourne to Sydney and had their registration transferred within two weeks.' Address common concerns proactively: 'The interstate agreement means you won't need to complete additional qualifications or major paperwork - just a straightforward transfer process.' Always confirm understanding: 'Would you like me to explain any specific aspects of the interstate registration process?' This approach transforms geographical concerns into confidence-building opportunities."
+        },
+        {
+          "id": 3,
+          "title": "Scholarship Support",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689382244",
+              "segment_id": "210",
+              "timestamp": "12:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student initiated a critical discussion about financial support by asking 'It might be a long shot, but do you guys offer scholarships?' (call_596689382244, seg_210). The tentative phrasing suggested both hope for financial assistance and uncertainty about available options, making this a crucial moment where financial concerns could become a significant barrier to enrollment.",
+          "consultant_response": "The consultant provided a balanced response that acknowledged limitations while offering alternatives: 'They're usually run by a government organization or a charity... have a look at university scholarships that you might qualify for' (call_596689382244, seg_213). This approach effectively demonstrated understanding of the need to provide alternative pathways rather than simply stating what wasn't available.",
+          "priority": "high",
+          "recommended_approach": "When addressing scholarship inquiries, begin by acknowledging the importance of financial planning in education: 'That's a great question about scholarships - let's explore what options might be available to you.' While being honest about institutional limitations, immediately pivot to actionable alternatives: 'While we don't offer direct scholarships, I can guide you through external opportunities that many of our students have successfully accessed.' Share specific examples: 'One recent student secured funding through their industry association, while another qualified for government assistance based on their field of study.' Provide concrete next steps: 'Let's start with studyassist.gov.au where you can explore government support options. I can also email you a list of industry-specific scholarships relevant to your field.' Always follow up scholarship discussions with confidence-building statements about the investment value of education: 'Many students find that combining different funding sources makes their education investment more manageable.'"
+        },
+        {
+          "id": 4,
+          "title": "Withdrawal Prevention",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689079398",
+              "segment_id": "2",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The conversation began with an immediate declaration of intent to withdraw: 'I'm just calling to cancel my enrolment' (call_596689079398, seg_2). This direct statement suggested a decision had already been made, presenting a critical moment where underlying concerns needed to be identified and addressed to prevent enrollment loss.",
+          "consultant_response": "The consultant's response was primarily procedural: 'Okay, let me have a look. Looks like, yeah, so you've enrolled in the course' (call_596689079398, seg_4). This approach missed the opportunity to explore reasons behind the cancellation request or demonstrate empathy, potentially reinforcing the student's decision to withdraw rather than opening a dialogue about their concerns.",
+          "priority": "high",
+          "recommended_approach": "When a student expresses intent to cancel enrollment, begin by acknowledging their decision while creating space for discussion: 'I understand you're considering cancellation, and I want to ensure we fully understand your situation. May I ask what specific concerns have led to this decision?' This shows respect while opening dialogue about underlying issues. Follow with exploratory questions: 'Have there been particular aspects of the course or circumstances that have made continuing difficult?' Use active listening to identify specific concerns that can be addressed through available support services or alternative arrangements. Share relevant examples: 'We recently worked with a student who had similar concerns about [specific issue], and we were able to find a solution through [specific support or adjustment].' The key is transforming a cancellation request into a constructive dialogue about solutions, while maintaining respect for the student's ultimate decision."
+        },
+        {
+          "id": 5,
+          "title": "Resource Guidance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689382244",
+              "segment_id": "82",
+              "timestamp": "08:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student raised an important question about study preparation: 'This might seem like a bit of a weird question, but like what resources do I need?' (call_596689382244, seg_82). This question revealed underlying uncertainty about their ability to meet course requirements and succeed in their studies.",
+          "consultant_response": "The consultant's response focused primarily on basic online delivery information without fully exploring the scope of the student's resource concerns or providing comprehensive guidance about available support options. This surface-level response missed an opportunity to build confidence through detailed explanation of resource access and support systems.",
+          "priority": "medium",
+          "recommended_approach": "When addressing resource requirements, start by normalizing the question: 'That's actually a very common and important question - let's make sure you have everything you need to succeed.' Begin with essential requirements: 'You'll need reliable internet access and a computer with updated browsers to access our learning platform. We recommend a laptop with at least 8GB of RAM and a webcam for online discussions.' Then expand to support options: 'Our IT help desk provides 24/7 support if you encounter any technical issues, and our library offers free access to all required software.' Share practical examples of how current students manage their resources: 'Many of our students use their workplace computers for some activities and their personal devices for others. We can discuss how to make that work for your situation.' Address potential concerns proactively: 'If you're worried about specific software costs, we have student licenses available for major programs.' Always conclude with support confirmation: 'Remember, our technical support team is available 24/7 to help you get set up and resolve any issues you might encounter.'"
+        },
+        {
+          "id": 6,
+          "title": "Emotional Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555348567",
+              "segment_id": "25",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed deep frustration and self-doubt: 'Why do I do this to myself?' (call_596555348567, seg_25). This emotional moment revealed underlying anxiety about their educational journey and decision-making process, requiring immediate emotional support and reassurance to maintain enrollment confidence.",
+          "consultant_response": "The consultant's response was procedural rather than empathetic: 'Okay, right. Well, thank you so much. I'll have a think about it today' (call_596555348567, seg_28). This missed the opportunity to address the student's emotional state and provide needed support, potentially leaving them feeling disconnected during a vulnerable moment.",
+          "priority": "high",
+          "recommended_approach": "When students express frustration or self-doubt, begin with immediate emotional validation: 'I hear the frustration in your voice, and it's completely natural to feel overwhelmed when making important educational decisions.' Follow with exploratory questions: 'Can you tell me more about what's making you feel this way?' This opens space for the student to share their concerns. Then provide specific support and reassurance: 'Many students face similar feelings, and we're here to help you navigate this process.' Share success stories: 'I recently worked with a student who had similar doubts, but after breaking down their concerns and addressing each one, they found their confidence growing week by week.' Offer concrete next steps: 'Let's identify what's causing these feelings and create a plan to address each concern.' Always end with clear support commitments: 'Remember, you're not alone in this journey, and we're here to support you every step of the way.'"
+        }
+      ]
+    }
+  }
+}

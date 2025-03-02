@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 234,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 70,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.914529914529915,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 164,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.08547008547008,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 58.08484132598095,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 164,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.77,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.51,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 154.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.25,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 130.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.62,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 175.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 97.56,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.05,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 120.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.48,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Solution Navigation",
+        "explanation": "Consultants effectively transform potential barriers into opportunities through clear alternatives and structured pathways while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Financial Support Integration",
+        "explanation": "Strong demonstration of converting financial concerns into confidence through comprehensive explanation of support options, specific amounts, and clear application processes"
+      },
+      {
+        "headline": "Study Flexibility Assurance",
+        "explanation": "Excellence in addressing scheduling concerns through practical flexibility demonstrations, specific success strategies, and real-world examples from current students"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Comprehensive Investigation",
+        "explanation": "Enhanced exploration needed of underlying concerns and circumstances before offering solutions to ensure complete understanding and targeted response"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "More compelling presentation needed of support resources with clearer connection to student success outcomes and specific examples of service benefits"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "More thorough exploration required of alternative programs and progression routes when primary choices are unavailable to maintain engagement"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Study Time Management Success",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689308945",
+              "segment_id": "75",
+              "timestamp": "04:59"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462109256",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'So it's not like I have to do five hours every day or something.' (call_596689308945, seg_75), revealing critical concerns about fitting study around existing commitments.",
+          "consultant_response": "Consultant provided specific guidance: 'We recommend about 12 hours of study time per week...you can make it work as you will...if you can only log on on a Wednesday afternoon and every Saturday and Sunday, that's perfectly fine' (call_596689308945, seg_76).",
+          "context_impact": "Time management concerns frequently deter enrollment if not effectively addressed with practical, flexible solutions that demonstrate program adaptability.",
+          "recommended_approach": "Include more diverse examples of how current students successfully manage their study schedules across different work patterns and life commitments."
+        },
+        {
+          "id": 2,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689391613",
+              "segment_id": "185",
+              "timestamp": "09:03"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549494736",
+                "segment_id": "45",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'And are there any subsidies for that at all?' (call_596689391613, seg_185), revealing immediate concerns about financial feasibility and need for comprehensive support information.",
+          "consultant_response": "Consultant provided comprehensive support details: 'I can send you guys through the list of scholarships that Swinburne has available. This is already with Commonwealth support added' (call_596689391613, seg_188).",
+          "context_impact": "Clear communication of financial support directly impacts enrollment likelihood by demonstrating program accessibility and affordability through specific options.",
+          "recommended_approach": "Include specific scholarship amounts, eligibility criteria, and application deadlines in initial discussion to provide immediate clarity on available support."
+        },
+        {
+          "id": 3,
+          "title": "Previous Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697558905",
+              "segment_id": "26",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'I have sort of tried uni before. I guess it just never really was the right time...' (call_596697558905, seg_26), indicating past challenges requiring careful exploration and support.",
+          "consultant_response": "Consultant provided minimal acknowledgment without exploring specific challenges: 'That's okay yeah I can definitely help you' (call_596697558905, seg_27), missing opportunity to demonstrate enhanced support.",
+          "context_impact": "Past academic experiences can create significant hesitation about current enrollment if not thoroughly addressed with enhanced support solutions.",
+          "recommended_approach": "Explore specific past challenges to showcase how current program support systems and resources directly address previous barriers to success."
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689047339",
+              "segment_id": "210",
+              "timestamp": "26:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'd really like to start in March but I'm concerned if I can manage working full-time alongside studies' (call_596689047339, seg_210), revealing significant anxiety about workload management.",
+          "consultant_response": "Consultant defaulted to administrative inquiry: 'Just to confirm, how many units were you wanting to start with your first teaching period?' (call_596689047339, seg_211), missing opportunity to validate concerns first.",
+          "context_impact": "Crucial moment to address work-life balance concerns that could prevent enrollment commitment through practical solutions and proven strategies.",
+          "recommended_approach": "Share specific examples of how current working students successfully manage their studies before discussing unit load specifics."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Direction",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412699856",
+              "segment_id": "5",
+              "timestamp": "0:28"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549090633",
+                "segment_id": "11",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'To because I haven't had four years of full-time work since I left high school I'm not eligible to do a pathway to Bachelor of Education' (call_596412699856, seg_5), revealing frustration with eligibility barriers.",
+          "consultant_response": "Consultant provided structured alternatives: 'Yeah, so there's two sides of the Bachelor of Education... if spots were to open up in July' (call_596412699856, seg_14).",
+          "context_impact": "Clear alternative pathways crucial for maintaining student engagement despite initial eligibility challenges through structured progression options.",
+          "recommended_approach": "Include specific timeline, requirements, and success stories for each alternative pathway option to demonstrate viable progression routes."
+        },
+        {
+          "id": 6,
+          "title": "Online Platform Confidence",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462109256",
+              "segment_id": "54",
+              "timestamp": "07:32"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462109256",
+                "segment_id": "62",
+                "timestamp": "08:15"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'And in terms of the facilities online, because I've never done a course online with uni, how is it?' (call_596462109256, seg_54), revealing anxiety about first-time online learning experience.",
+          "consultant_response": "Consultant emphasized experience: 'We have been an online university for well over a decade now so we really have fine-tuned the way that we deliver our studies' (call_596462109256, seg_62).",
+          "context_impact": "First impression of online learning capabilities significantly influences enrollment decision for new online learners through platform confidence.",
+          "recommended_approach": "Include specific platform features and support resources that address common first-time online learner concerns with practical examples."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Study Time Management Success",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689308945",
+              "segment_id": "75",
+              "timestamp": "04:59"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462109256",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant concern about study time commitments, asking 'So it's not like I have to do five hours every day or something?' (call_596689308945, segment 75). This question revealed underlying anxiety about integrating study commitments with existing responsibilities, indicating a critical need for clear guidance about program flexibility and time management approaches.",
+          "consultant_response": "The consultant provided comprehensive guidance that effectively addressed the time management concern: 'We recommend about 12 hours of study time per week...you can make it work as you will...if you can only log on on a Wednesday afternoon and every Saturday and Sunday, that's perfectly fine' (segment 76). This response successfully combined specific weekly time expectations with clear examples of flexible study patterns. The consultant's approach transformed potential time management barriers into manageable planning opportunities by emphasizing student control over study scheduling while maintaining clear academic expectations.",
+          "priority": "high",
+          "recommended_approach": "When addressing time management concerns, begin by acknowledging the legitimacy of scheduling anxieties while positioning flexibility as a core program feature. Start with clear weekly time expectations: 'Most students find 12 hours per week manageable, but what's most important is how you distribute that time.' Share concrete examples of how current students structure their study around work and life commitments: 'Some students prefer intensive weekend study sessions, while others break their learning into daily 2-hour blocks. For instance, one of our current students downloads materials on Sunday evening and studies during their lunch breaks and evenings.' When discussing irregular schedules, emphasize adaptability: 'Many of our healthcare students download content before their rotation starts, studying during quiet periods or between shifts.' For those with unpredictable schedules, highlight asynchronous learning benefits: 'You can download all materials to your tablet before your shift, complete the readings during quiet periods, then sync your progress when you're back online.' The goal is to transform time management concerns from potential barriers into opportunities to demonstrate program value through practical, achievable study patterns aligned with their specific circumstances."
+        },
+        {
+          "id": 2,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689391613",
+              "segment_id": "185",
+              "timestamp": "09:03"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549494736",
+                "segment_id": "45",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "During a critical discussion of program costs, the student asked 'And are there any subsidies for that at all?' (call_596689391613, segment 185). This direct query about financial support options revealed immediate concerns about program affordability and indicated a need for clear information about available assistance options to enable confident decision-making.",
+          "consultant_response": "The consultant demonstrated effective objection handling by immediately addressing the financial concern with specific information: 'I can send you guys through the list of scholarships that Swinburne has available. This is already with Commonwealth support added. I'm fairly confident, fairly sure that the price for the course without Commonwealth support is around $4,000' (segment 188). This response effectively transformed a potential financial barrier into an opportunity to showcase available support options by providing concrete pricing details and clear pathways for financial assistance.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, begin by acknowledging their legitimacy while immediately highlighting comprehensive support options. Start with 'I understand that managing program costs is an important consideration - let me walk you through all the financial support available to you.' Provide specific details about scholarships, grants, and payment plans, using concrete examples: 'With Commonwealth support, your course fees reduce significantly from $4,000, and we have multiple scholarship options ranging from $2,000 to full tuition coverage.' Always quantify the impact of available support to make benefits tangible. For instance, explain how 'Many of our students combine Commonwealth support with our flexible payment plans to manage their studies without upfront costs.' Share success stories: 'One of our current students received a $5,000 scholarship by highlighting their community involvement in their application.' Pay particular attention to questions about specific support types, being ready to explain eligibility criteria and application processes in detail. For instance, 'Our income-based scholarships consider your current financial situation, while our merit-based awards look at academic or community achievements.' The goal is to transform financial concerns from barriers into manageable aspects of the enrollment journey, always grounding explanations in specific numbers and real examples from successful students."
+        },
+        {
+          "id": 3,
+          "title": "Previous Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697558905",
+              "segment_id": "26",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed past academic challenges, stating 'I have sort of tried uni before. I guess it just never really was the right time...' (call_596697558905, segment 26). This disclosure indicated potential hesitation about re-engaging with higher education and suggested underlying concerns about potential barriers to success that needed careful attention and support.",
+          "consultant_response": "The consultant provided minimal acknowledgment without exploring the specific challenges that led to their previous withdrawal, stating only 'That's okay yeah I can definitely help you' (segment 27). This missed a crucial opportunity to demonstrate how the current program could provide a more successful academic journey through enhanced support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "When students mention previous university experience, transform this into an opportunity to demonstrate enhanced support features. Begin with empathetic acknowledgment: 'Thank you for sharing that - many of our most successful students have previous university experience that helped them identify exactly what support they need.' Explore past challenges sensitively: 'Would you be comfortable sharing what aspects of your previous university experience didn't work for you? This helps us ensure you have the right support from day one.' Use their response to highlight relevant program features: 'Unlike traditional universities, we provide dedicated success coaches who check in regularly and help you stay on track. For example, one student who previously struggled with time management now maintains a distinction average through regular coaching sessions.' Share specific success stories: 'We recently had a student with similar concerns after a break from study. She found our structured support made the difference - particularly our academic skills workshops and one-on-one tutoring.' Detail the orientation process: 'Our comprehensive orientation program helps you start strong, with clear expectations and strategies for success.' Always conclude by demonstrating how specific program features address their past challenges: 'Let's look at how our flexible study options and comprehensive support would help you overcome the timing challenges you mentioned.'"
+        },
+        {
+          "id": 4,
+          "title": "Work-Study Balance Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689047339",
+              "segment_id": "210",
+              "timestamp": "26:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about managing multiple commitments: 'I'd really like to start in March but I'm concerned if I can manage working full-time alongside studies' (call_596689047339, segment 210). This revealed both strong interest in proceeding and anxiety about successfully balancing work and study responsibilities, requiring careful handling to maintain enrollment momentum.",
+          "consultant_response": "The consultant focused primarily on administrative details rather than addressing core concerns, asking 'Just to confirm, how many units were you wanting to start with for your first teaching period?' (segment 211). While relevant to workload planning, this response missed the opportunity to validate concerns and provide practical examples of successful work-study integration, potentially leaving the underlying anxiety unaddressed.",
+          "priority": "high",
+          "recommended_approach": "When handling work-study balance concerns, begin by validating their consideration of commitments: 'I appreciate you thinking carefully about managing your professional and academic responsibilities - it shows you're committed to succeeding in both.' Share specific examples from successful working students: 'Many of our full-time professionals find success by starting with two units and utilizing our flexible study options. For instance, one of our current students downloads materials for offline study during commute times and dedicates Sunday mornings to assignments.' Demonstrate how program design supports working students: 'Our online platform allows 24/7 access to materials, and assignment deadlines are structured with working professionals in mind. For example, major assignments typically have three-week submission windows to accommodate busy periods at work.' Provide practical strategies: 'Some students dedicate specific weeknight evenings to coursework, while others prefer weekend study blocks. We can help you find a pattern that fits your schedule.' Always emphasize available support: 'Our student advisors can help develop a personalized study plan that fits around your work commitments, and they're available for ongoing support as you adjust to the balance.' The goal is to transform work-study balance concerns from barriers into manageable planning opportunities by demonstrating how other working professionals successfully manage both responsibilities."
+        },
+        {
+          "id": 5,
+          "title": "Alternative Pathway Direction",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412699856",
+              "segment_id": "5",
+              "timestamp": "0:28"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549090633",
+                "segment_id": "11",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "During call 596412699856, the student expressed significant concern about program eligibility: 'To because I haven't had four years of full-time work since I left high school I'm not eligible to do a pathway to Bachelor of Education' (segment 5). This statement revealed both frustration and anxiety about their educational aspirations being blocked by eligibility requirements, representing a pivotal moment where effective objection handling could either maintain or lose student engagement.",
+          "consultant_response": "The consultant demonstrated strong objection handling by providing a comprehensive response: 'Yeah, so there's two sides of the Bachelor of Education. At the moment, we don't have any available spots regardless for our upcoming intake in March... it wouldn't be something we'd be able to pursue even if spots were to open up in July' (segment 14). This response effectively acknowledged the immediate concern while providing clear context about both current availability and eligibility requirements. The consultant's approach transformed potential disappointment into an opportunity for exploring alternative pathways.",
+          "priority": "high",
+          "recommended_approach": "When addressing eligibility concerns, transform potential barriers into opportunities for deeper engagement and alternative pathway exploration. Begin by acknowledging the student's frustration: 'I understand how disappointing it can be to face eligibility barriers, but let's explore the options available to help you reach your goals.' Follow this acknowledgment with a clear explanation of requirements and immediately pivot to discussing viable alternatives: 'While the Bachelor of Education requires four years of work experience, there are several pathways we can explore that could help you progress toward your teaching goals.' Share specific success stories: 'One of our current education students began with our diploma program while gaining relevant experience through teacher aide work, and she's now successfully transitioning into the bachelor program.' When suggesting alternative qualifications, frame them as strategic stepping stones: 'Many successful education students start with a diploma qualification, which not only builds relevant skills but can provide credit toward future studies. For example, our Diploma of Teaching includes units that directly transfer to the bachelor program.' Pay particular attention to maintaining engagement when discussing timeline implications, ensuring students see a clear path forward: 'While working toward the experience requirement, you'll be gaining valuable qualifications and practical skills that strengthen your teaching career preparation.' The goal is to convert potential roadblocks into structured pathways while maintaining momentum toward their educational goals through specific, achievable milestones."
+        },
+        {
+          "id": 6,
+          "title": "Online Platform Confidence",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462109256",
+              "segment_id": "54",
+              "timestamp": "07:32"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462109256",
+                "segment_id": "62",
+                "timestamp": "08:15"
+              }
+            ]
+          },
+          "student_trigger": "The student revealed apprehension about online learning: 'And in terms of the facilities online, because I've never done a course online with uni, how is it?' (call_596462109256, segment 54). This question highlighted underlying anxiety about transitioning to online study, making it a crucial moment for building confidence in the institution's online capabilities and support systems.",
+          "consultant_response": "The consultant demonstrated strong objection handling by immediately addressing the concern with evidence-based reassurance: 'We have been an online university for well over a decade now so we really have fine-tuned the way that we deliver our studies... It's intentionally designed to be delivered in an online forum and platform' (segment 62). This response effectively highlighted the institution's experience and intentional design approach, transforming potential anxiety into confidence through concrete examples and proven track record.",
+          "priority": "high",
+          "recommended_approach": "When addressing first-time online learners' concerns, begin by acknowledging their specific anxieties about the transition: 'I understand this is your first experience with online university study, and it's natural to wonder about how it all works.' Follow with evidence of platform maturity: 'We've been delivering online education for over a decade, constantly refining our platform based on student feedback and technological advances.' Share specific examples of support features: 'From your first login, you'll have access to our comprehensive orientation program, 24/7 technical support, and step-by-step tutorials for every platform feature.' Highlight practical benefits: 'Our system is designed so everything you need - lectures, readings, assignments - is clearly organized in one place. You'll have a simple weekly checklist of what to complete, and our mobile app lets you study on the go.' Address common concerns proactively: 'Students often ask about staying connected - our discussion forums, group projects, and regular check-ins ensure you're part of an active learning community.' Share success stories: 'Many students who were initially nervous about online study tell us they particularly appreciate how our platform lets them pace their learning and access materials whenever it suits them.' Always conclude by checking understanding and offering immediate support: 'Would you like me to show you some examples of how our platform works? I can walk you through exactly what you'll see when you first log in.'"
+        }
+      ]
+    }
+  }
+}

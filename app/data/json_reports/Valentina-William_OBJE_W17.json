@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 172,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 55,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.976744186046513,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 117,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.02325581395348,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.36854179753643,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 117,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 141.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.26,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 115.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.83,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 151.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.35,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 148.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.16,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 154.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.18,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Alternative Navigation",
+        "explanation": "Consultants effectively transform potential enrollment barriers into opportunities by providing personalized pathways and clear alternatives while maintaining momentum"
+      },
+      {
+        "headline": "Financial Clarity Communication",
+        "explanation": "Strong demonstration of resolving financial concerns through comprehensive cost breakdowns, support options, and clear payment pathways that build enrollment confidence"
+      },
+      {
+        "headline": "Work-Study Integration Support",
+        "explanation": "Effective presentation of program flexibility and targeted support services that transform scheduling concerns into practical study strategies with clear success paths"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Emotional Validation Enhancement",
+        "explanation": "Greater emphasis needed on acknowledging student feelings and anxieties before transitioning to practical solutions to build stronger rapport and enrollment confidence"
+      },
+      {
+        "headline": "Documentation Process Navigation",
+        "explanation": "Clearer guidance required for complex documentation scenarios including specific timelines, interim solutions, and alternative submission pathways with proactive support"
+      },
+      {
+        "headline": "Academic Support Integration",
+        "explanation": "More comprehensive presentation needed of specific success strategies and support resources, especially for students returning to study after extended breaks"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Alternative Pathway Solution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616759603",
+              "segment_id": "99",
+              "timestamp": "9:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412909072",
+                "segment_id": "56",
+                "timestamp": "04:10"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Obviously with enrollments closing soon I don't think you will get it in time for law' (call_596616759603, seg_99), revealing anxiety about missing enrollment deadlines and qualification barriers.",
+          "consultant_response": "Consultant offered strategic solution: 'We can enroll you into our pathway course...you'll complete four law units that will count towards your law degree' (call_596616759603, seg_113), effectively transforming a barrier into an opportunity.",
+          "context_impact": "Critical moment where enrollment momentum could be lost without clear alternative pathways and immediate solutions.",
+          "recommended_approach": "Include more specific timeline details and outline available support resources during the transition period."
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Resolution",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616930980",
+              "segment_id": "160",
+              "timestamp": "13:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'How much is the course fee?' (call_596616930980, seg_160), revealing critical need for financial clarity to proceed with enrollment.",
+          "consultant_response": "Consultant provided comprehensive information: 'So as an Australian citizen, you have access to what is known as a Commonwealth Supported Place... you'd be looking at paying around $2,040 per unit... all of that money can be deferred on to HECS' (call_596616930980, seg_162).",
+          "context_impact": "Clear fee information and payment options essential for student to assess program feasibility and make informed decision.",
+          "recommended_approach": "Include specific scholarship information and financial support service contact details."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Balance Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554945327",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412651722",
+                "segment_id": "105",
+                "timestamp": "12:36"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I want to advance my career but I'm worried about balancing study with my current role' (call_596554945327, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant empathetically addressed: 'I understand your concern about managing study alongside work. We offer flexible study options and support services specifically designed to help with balancing these commitments' (call_596554945327, seg_24).",
+          "context_impact": "Work-study balance concerns could prevent enrollment commitment if not effectively addressed with practical solutions.",
+          "recommended_approach": "Share specific schedule examples from current working students and available time management resources."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412818241",
+              "segment_id": "10",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462487952",
+                "segment_id": "17",
+                "timestamp": "1:11"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'Is there any way, like, I can just reserve a spot until I get the certificate?' (call_596412818241, seg_10), showing anxiety about documentation timing impacting enrollment.",
+          "consultant_response": "Consultant stated: 'No, unfortunately...we won't be able to process an enrollment without having all the necessary documents' (call_596412818241, seg_11), missing opportunity for proactive guidance.",
+          "context_impact": "Documentation delays create significant anxiety and could prevent timely enrollment if not properly addressed.",
+          "recommended_approach": "Provide comprehensive guidance on documentation timelines, submission options, and interim steps."
+        },
+        {
+          "id": 5,
+          "title": "Academic Return Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554945327",
+              "segment_id": "130",
+              "timestamp": "15:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596554945327, seg_130), revealing deep anxiety about academic readiness.",
+          "consultant_response": "Consultant provided basic acknowledgment without detailing available support resources or success strategies.",
+          "context_impact": "Concerns about returning to study can significantly impact enrollment confidence without proper support demonstration.",
+          "recommended_approach": "Share specific academic support service details, success rates of returning students, and examples of study skill workshops."
+        },
+        {
+          "id": 6,
+          "title": "Professional Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617517802",
+              "segment_id": "36",
+              "timestamp": "04:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689058322",
+                "segment_id": "60",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student emphasized: 'I've been in the industry for 10 years... I really feel that I've got a good case' (596617517802, seg_36), seeking recognition of extensive experience.",
+          "consultant_response": "Consultant validated experience: 'We do actually consider life and work experience for entry into our course' (596689058322, seg_60), providing initial validation of experience value.",
+          "context_impact": "Critical opportunity to acknowledge professional achievements while managing credit expectations.",
+          "recommended_approach": "Expand discussion of how professional experience enriches the learning journey beyond formal credits."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Alternative Pathway Solution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616759603",
+              "segment_id": "99",
+              "timestamp": "9:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412909072",
+                "segment_id": "56",
+                "timestamp": "04:10"
+              }
+            ]
+          },
+          "student_trigger": "During critical enrollment discussions, students expressed significant concerns about timing and eligibility. In the primary call (596616759603, seg_99), the student stated: 'Obviously with enrollments closing soon I don't think you will get it in time for law.' This was echoed in supporting calls, with another student asking about ATAR requirements (596412909072, seg_56). These moments revealed both strong desire to begin studies and anxiety about potential barriers to entry.",
+          "consultant_response": "The consultants demonstrated excellent objection handling by offering comprehensive alternative solutions. In the primary call, the consultant responded: 'Now, if you aren't eligible for law directly, we can enroll you into our pathway course...you'll complete four law units that will count towards your law degree' (596616759603, seg_113). This approach effectively transformed timing constraints into a strategic advantage.",
+          "priority": "high",
+          "recommended_approach": "When addressing enrollment timing and eligibility concerns, begin by validating the student's urgency while immediately presenting viable alternatives. Start with acknowledgment: 'I understand your concern about timing, and I want to ensure you can begin your studies as planned.' Then present pathway options as strategic advantages: 'Our pathway program gives you a head start on your degree while we process your documentation.' Include specific benefits: 'You'll be completing actual law units that count toward your degree, meaning no time is wasted.' Share success stories: 'Many students find the pathway program provides valuable foundation knowledge while securing their place in their chosen degree.' Always provide clear timelines: 'The pathway takes X weeks, aligning perfectly with the next degree intake.' The key is transforming perceived barriers into strategic stepping stones toward their educational goals while maintaining transparency about processes and outcomes. For example: 'While completing your pathway units, we'll work on processing your law program application, ensuring a smooth transition when you're ready.'"
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Resolution",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616930980",
+              "segment_id": "160",
+              "timestamp": "13:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in the consultation, the student directly inquired about program costs, asking 'How much is the course fee?' (call_596616930980, seg_160). This question represented a pivotal point where clear financial information could significantly impact the enrollment decision. The directness of the query indicated readiness for detailed cost and payment information.",
+          "consultant_response": "The consultant provided comprehensive information with clarity and confidence: 'So as an Australian citizen, you have access to what is known as a Commonwealth Supported Place. So the Commonwealth Supported Place just reduces your fees. So you'd be looking at paying around $2,040 per unit. So all of that money as well can be deferred on to HECS, so you don't actually need to pay anything upfront.' This response effectively addressed multiple aspects of the financial concern by explaining available support, specific costs, and payment flexibility.",
+          "priority": "high",
+          "recommended_approach": "When handling financial inquiries, start by acknowledging the importance of understanding all costs and support options available. Begin with validation: 'Thank you for asking about fees - it's crucial to have a clear picture of both the investment and support available to you.' First, outline the most beneficial support options for their situation: 'As an Australian citizen, you're eligible for a Commonwealth Supported Place, which significantly reduces your fees.' Present specific costs with complete transparency: 'The fee per unit is $2,040, and a standard full-time semester consists of four units.' Always pair cost information with available support mechanisms: 'Through HECS-HELP, you can defer 100% of these fees, meaning no upfront payments are required to begin studying.' Include specific scholarship information: 'We also have merit-based scholarships ranging from $2,500 to $5,000 per semester, and our financial advisory team can help you explore your eligibility.' Follow up with clear next steps: 'Would you like me to connect you with our financial advisory team to explore all your support options?' The goal is transforming financial concerns into a clear, manageable plan while ensuring students feel fully supported in their decision-making process."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Balance Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554945327",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412651722",
+                "segment_id": "105",
+                "timestamp": "12:36"
+              }
+            ]
+          },
+          "student_trigger": "A critical moment emerged when the student expressed: 'I want to advance my career but I'm worried about balancing study with my current role' (call_596554945327, seg_23). This statement revealed both career aspiration and practical concern about managing commitments, presenting a key opportunity to address a common barrier to enrollment.",
+          "consultant_response": "The consultant effectively addressed this concern with an empathetic and solution-focused response: 'I understand your concern about managing study alongside work. We offer flexible study options and support services that are specifically designed to help with balancing these commitments. Could we explore your work schedule and see how our program might complement it?' This approach demonstrated strong objection handling by validating the concern while offering concrete solutions.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by validating the student's proactive thinking about managing commitments: 'It's excellent that you're thinking about work-study balance - this planning is key to success.' Explore their specific situation: 'Could you tell me about your typical work schedule? This helps me show you exactly how our flexibility features can support you.' Share concrete examples from successful students: 'Many of our working students download materials for offline study during commutes or breaks. Some study two hours each evening, while others prefer intensive weekend sessions.' Explain specific support systems: 'Our success coaches are available until 8pm weekdays specifically to support working students. They can help you develop a personalized study schedule that fits your work pattern.' Provide practical strategies: 'Our learning platform allows you to access all materials 24/7, download for offline study, and submit assessments at any time. You can even join live sessions later through recordings.' Always conclude with confidence-building: 'We've helped thousands of working professionals successfully complete their studies. With our flexible systems and support, you can too.' The goal is transforming work-study balance concerns into a clear, achievable plan for success."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412818241",
+              "segment_id": "10",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462487952",
+                "segment_id": "17",
+                "timestamp": "1:11"
+              }
+            ]
+          },
+          "student_trigger": "Students across multiple calls expressed significant anxiety about documentation requirements and timing. In the primary call (596412818241, seg_10), the student asked: 'Is there any way, like, I can just reserve a spot until I get the certificate?' Supporting calls showed similar concerns about document submission processes. These questions revealed underlying anxiety about potentially missing enrollment opportunities due to documentation delays.",
+          "consultant_response": "While consultants provided basic information about requirements, responses often lacked comprehensive guidance. In the primary call, the consultant stated: 'No, unfortunately...we won't be able to process an enrollment without having all the necessary documents' (596412818241, seg_11). This missed opportunities for providing proactive solutions and maintaining enrollment momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation concerns, start by acknowledging the student's proactive thinking while providing clear, actionable guidance. Begin with: 'I appreciate you thinking ahead about securing your spot. While we can't reserve places without documentation, let me help you understand exactly what you need and how to get it quickly.' Create a structured approach: 'Let's go through each required document and create a timeline for gathering them. For your certificate, processing typically takes X days, so we'll work backward from our enrollment deadline.' Provide multiple submission options: 'You can submit documents via email, our online portal, or direct upload - I can guide you through whichever method works best for you.' Include specific processing timeframes: 'Once received, documents are usually processed within X business days. I'll personally monitor your submission and follow up if we need anything else.' Always emphasize support availability: 'Our enrollment team is here to help if you encounter any challenges gathering or submitting documents.' The goal is transforming documentation requirements from potential barriers into a clear, manageable process with specific steps and timeframes."
+        },
+        {
+          "id": 5,
+          "title": "Academic Return Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554945327",
+              "segment_id": "130",
+              "timestamp": "15:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596554945327, seg_130). This concern about academic readiness represented a critical moment requiring both emotional support and practical guidance to build confidence.",
+          "consultant_response": "The consultant provided basic acknowledgment without addressing the specific concerns about study skills and academic readiness. This missed opportunity to explore the student's professional experience and transferable skills left their underlying anxiety about academic capability unaddressed.",
+          "priority": "high",
+          "recommended_approach": "When addressing study readiness concerns, start by validating the student's feelings while highlighting their advantages: 'Many of our most successful students return to study after significant work experience - they bring valuable real-world perspectives and professional skills.' Transform their perceived gap in education into an asset: 'Your 15 years of professional experience have equipped you with crucial skills like time management, problem-solving, and practical knowledge that will benefit your studies.' Outline specific support services: 'We have dedicated academic skills advisors who can help refresh your study techniques, and our online learning platform includes study skills modules you can access before classes begin.' Share success stories: 'One of our recent graduates returned to study after 20 years and found that her work experience actually gave her an advantage in applying concepts to real-world scenarios.' Provide practical strategies: 'We can start by developing a personalized study plan that builds on your strengths and helps you regain academic confidence.' Always emphasize the partnership aspect: 'We're here to support your success not just at enrollment, but throughout your entire journey.' The goal is transforming academic anxiety into confidence through demonstrated support and clear success pathways."
+        },
+        {
+          "id": 6,
+          "title": "Professional Experience Recognition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617517802",
+              "segment_id": "36",
+              "timestamp": "04:56"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689058322",
+                "segment_id": "60",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students emphasized their professional experience and sought recognition. In the primary example (596617517802, segment 36), the student advocated: 'I've been in the industry for 10 years... I really feel that I've got a good case.' These moments represented critical opportunities to acknowledge professional achievements while managing expectations about formal recognition processes.",
+          "consultant_response": "Consultants demonstrated varying levels of effectiveness in acknowledging experience value. The strongest responses validated experience while maintaining clear policy boundaries: 'We do actually consider life and work experience for entry into our course' (596689058322, seg_60). However, many missed opportunities to explore how professional experience enriches the learning journey beyond formal credits.",
+          "priority": "high",
+          "recommended_approach": "When addressing professional experience recognition, adopt a comprehensive approach that values both formal and informal benefits. Begin by explicitly acknowledging the depth of experience: 'Your decade of industry experience brings valuable perspectives to our learning environment.' Then outline multiple ways this experience adds value: 'Beyond potential credits, your practical knowledge will enhance class discussions, provide real-world context for assignments, and help build professional networks with peers.' Explain how experience enriches learning: 'Students with significant industry experience often find they can immediately apply theoretical concepts to real situations, deepening their understanding.' For credit discussions, maintain transparency while highlighting broader benefits: 'While formal credit recognition has specific requirements, your experience will be invaluable in connecting theory to practice throughout your studies.' Follow up with specific examples: 'For instance, one of our current students uses her industry experience to provide real-world examples in group discussions, enriching the learning experience for everyone.' The goal is transforming experience recognition from a purely administrative process into a broader acknowledgment of the value mature students bring to the learning community."
+        }
+      ]
+    }
+  }
+}

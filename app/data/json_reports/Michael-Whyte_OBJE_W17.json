@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 135,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 42,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.11111111111111,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 93,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.88888888888889,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.7485695094193,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 93,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 98.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.01,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Solution-Focused Objection Resolution",
+        "explanation": "Consultants effectively transform objections into opportunities by providing clear, actionable solutions with specific examples and success stories"
+      },
+      {
+        "headline": "Timeline and Pathway Navigation",
+        "explanation": "Strong demonstration of breaking down complex program durations into manageable stages while maintaining student confidence and motivation"
+      },
+      {
+        "headline": "Financial Barrier Management",
+        "explanation": "Effective transformation of financial concerns into structured solutions through comprehensive support options and clear payment pathways"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Enhanced presentation needed of specific support mechanisms with concrete examples and success stories for diverse student needs"
+      },
+      {
+        "headline": "Career Progression Clarity",
+        "explanation": "Stronger alignment required between immediate program outcomes and long-term career pathways with specific milestone examples"
+      },
+      {
+        "headline": "Institutional Value Articulation",
+        "explanation": "More consistent demonstration needed of unique institutional strengths and competitive advantages with evidence-based examples"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Financial Support Solution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555477663",
+              "segment_id": "11",
+              "timestamp": "00:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just trying to get some information and also the payments, how can I do the payments, I'm just trying to do the financial thing' (call_596555477663, seg_11), revealing immediate financial concerns.",
+          "consultant_response": "Consultant provided clear solution: 'So yeah, so we would help you access FEE-HELP for that as well. So any of the payments can be deferred on to the government' (call_596555477663, seg_36).",
+          "context_impact": "Financial feasibility represented critical enrollment barrier requiring immediate solution-focused response.",
+          "recommended_approach": "Include specific examples of how current students successfully combine FEE-HELP with other financial support options."
+        },
+        {
+          "id": 2,
+          "title": "Program Eligibility Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548815004",
+              "segment_id": "26",
+              "timestamp": "01:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So what will be my options? Can I go, I have to go another psychology bachelors or?' (call_596548815004, seg_26), revealing critical pathway uncertainty.",
+          "consultant_response": "Consultant effectively addressed concern: 'No, so this course actually would be suitable for you. So the graduate diploma in psychology is for students who have completed a bachelor degree already' (call_596548815004, seg_28).",
+          "context_impact": "Clear eligibility guidance was crucial for maintaining enrollment momentum and student confidence.",
+          "recommended_approach": "Provide more specific examples of how similar students have successfully transitioned into psychology studies."
+        },
+        {
+          "id": 3,
+          "title": "Learning Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549078131",
+              "segment_id": "79",
+              "timestamp": "06:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'But at least a few years ago, back in or five years ago, I was diagnosed with ADHD...' (call_596549078131, seg_79), revealing need for specific support understanding.",
+          "consultant_response": "Consultant replied: 'No, fantastic...' (call_596549078131, seg_85), missing opportunity to detail comprehensive support options.",
+          "context_impact": "Critical moment requiring detailed explanation of available learning support services.",
+          "recommended_approach": "Outline specific ADHD support services with examples of successful accommodation strategies."
+        },
+        {
+          "id": 4,
+          "title": "Career Pathway Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462082360",
+              "segment_id": "31",
+              "timestamp": "02:51"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Oh okay, so it said in the description that I could go into counselling with this diploma which is why I had applied' (call_596462082360, seg_31), revealing career expectation misalignment.",
+          "consultant_response": "Consultant clarified: 'You wouldn't be able to go in and register directly as a counsellor. It would kind of get you kind of probably a bit of a step closer' (call_596462082360, seg_33).",
+          "context_impact": "Crucial moment requiring clear career progression pathway explanation while maintaining engagement.",
+          "recommended_approach": "Provide detailed counseling career pathway options with specific qualification milestones."
+        },
+        {
+          "id": 5,
+          "title": "Institutional Value Demonstration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555546594",
+              "segment_id": "30",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student revealed: 'I was actually in the process with another university, but they're having all kinds of system issues so I kind of fell back on Monash' (call_596555546594, seg_30), indicating secondary choice perception.",
+          "consultant_response": "Consultant replied: 'Yeah, do you mind if I get back to you maybe sometime next week?' (call_596555546594, seg_31), missing chance to highlight institutional strengths.",
+          "context_impact": "Critical opportunity to demonstrate institutional value and system reliability.",
+          "recommended_approach": "Highlight specific Monash advantages and system reliability statistics with student success examples."
+        },
+        {
+          "id": 6,
+          "title": "Program Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554737158",
+              "segment_id": "18",
+              "timestamp": "1:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I was just wondering then how long would it take then to follow through the psychology degree?' (call_596554737158, seg_18), seeking timeline clarity.",
+          "consultant_response": "Consultant provided detailed breakdown: 'It'll be a five-year process all together. You'll have to do your graduate diploma which will be 1.7 years...' (call_596554737158, seg_28).",
+          "context_impact": "Clear program duration understanding crucial for commitment and planning.",
+          "recommended_approach": "Include specific value gains and career progression milestones at each program stage."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Financial Support Solution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555477663",
+              "segment_id": "11",
+              "timestamp": "00:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial enrollment conversation, the student expressed immediate financial concerns: 'I'm just trying to get some information and also the payments, how can I do the payments, I'm just trying to do the financial thing' (call_596555477663, seg_11). This direct inquiry about payment options revealed financial considerations as a potential barrier to enrollment, requiring immediate attention to maintain student engagement and confidence in proceeding.",
+          "consultant_response": "The consultant demonstrated effective objection handling by providing a clear, solution-focused response: 'So yeah, so we would help you access FEE-HELP for that as well. So any of the payments can be deferred on to the government' (call_596555477663, seg_36). This response directly addressed the financial concern by introducing FEE-HELP as a viable payment solution, emphasizing the availability of government support and deferral options. The consultant's approach transformed a potential barrier into a manageable aspect of enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, begin by validating the student's payment focus while presenting clear, actionable solutions. Start with acknowledgment: 'I appreciate you bringing up payments - it's an important aspect to understand clearly.' Then introduce FEE-HELP as a solution while explaining its benefits: 'Many of our students utilize FEE-HELP, which allows you to focus on your studies without upfront payment concerns.' Share specific examples of how current students manage their payments: 'For instance, our students often combine FEE-HELP with flexible payment arrangements to suit their circumstances.' Verify understanding and satisfaction with the financial information provided: 'Does this help clarify how the payment process would work for you?' Remember to adapt the depth of financial information based on the student's familiarity with higher education funding options, always maintaining a supportive and solution-focused approach that builds confidence in their ability to manage the financial aspects of their education."
+        },
+        {
+          "id": 2,
+          "title": "Program Eligibility Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548815004",
+              "segment_id": "26",
+              "timestamp": "01:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about program requirements: 'So what will be my options? Can I go, I have to go another psychology bachelors or?' (call_596548815004, seg_26). This question revealed both interest in pursuing psychology studies and apprehension about qualifications, making it a critical moment for maintaining enrollment momentum.",
+          "consultant_response": "The consultant demonstrated strong objection handling by immediately addressing the concern with clarity and reassurance: 'No, so this course actually would be suitable for you. So the graduate diploma in psychology is for students who have completed a bachelor degree already.' This response effectively accomplished multiple goals: it directly addressed the concern about needing another bachelor's degree, affirmed the program's suitability for the student's situation, and maintained positive momentum toward enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing program eligibility concerns, begin by recognizing that students often seek both information and validation of their academic journey. Start with a clear affirmation of their potential fit: 'That's a great question, and I'm glad you asked about this. Your background actually aligns well with our program design.' Follow this by explaining how the program specifically accommodates students transitioning from different fields: 'The graduate diploma is specifically designed for students like you who have completed a bachelor's degree and are looking to transition into psychology.' Show proactive support by offering immediate next steps: 'I'd be happy to assess your specific qualifications right now to confirm your eligibility and discuss how your unique background could enhance your psychology studies.' Pay particular attention to students with international qualifications or diverse academic backgrounds, ensuring they understand how their experiences are valued. The key is transforming what begins as uncertainty into a confident understanding of their academic pathway."
+        },
+        {
+          "id": 3,
+          "title": "Learning Support Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549078131",
+              "segment_id": "79",
+              "timestamp": "06:38"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared important information about their learning needs: 'But at least a few years ago, back in or five years ago, I was diagnosed with ADHD...' (call_596549078131, seg_79). This disclosure represented a crucial moment for demonstrating institutional support and understanding of diverse learning needs.",
+          "consultant_response": "The consultant's response was notably brief and missed the opportunity to address support services: 'No, fantastic...' (call_596549078131, seg_85). This response failed to acknowledge the significance of the disclosure or provide information about available support services, potentially leaving the student uncertain about the level of support they could expect.",
+          "priority": "high",
+          "recommended_approach": "When students disclose learning diagnoses like ADHD, respond with empathy and specific support information. Begin with acknowledgment: 'Thank you for sharing that with me. Many successful students manage ADHD while excelling in their studies here.' Guide the conversation toward available support: 'We have several specific support services designed to help students with ADHD succeed. For instance, our academic skills advisors can help develop personalized study strategies, and we offer flexible assessment arrangements when needed.' Share success stories: 'Many of our students with ADHD find our online learning platform particularly helpful because it allows them to pace their learning and revisit materials as needed.' Discuss specific accommodations: 'You'll have access to extended time for assessments when needed, and our learning materials are designed to be accessible in multiple formats.' Always end by confirming the student feels supported: 'How does this align with the kind of support you're looking for?'"
+        },
+        {
+          "id": 4,
+          "title": "Career Pathway Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462082360",
+              "segment_id": "31",
+              "timestamp": "02:51"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A critical moment arose when the student revealed their career expectations: 'Oh okay, so it said in the description that I could go into counselling with this diploma which is why I had applied' (call_596462082360, seg_31). This statement exposed a fundamental misunderstanding about the program's career outcomes and highlighted the need for immediate clarification to maintain enrollment interest while ensuring realistic expectations.",
+          "consultant_response": "The consultant addressed this misconception directly while attempting to maintain engagement: 'You wouldn't be able to go in and register directly as a counsellor. It would kind of get you kind of probably a bit of a step closer' (call_596462082360, seg_33). While this response provided honest information about limitations, it lacked clarity about alternative pathways and specific career progression options.",
+          "priority": "high",
+          "recommended_approach": "When addressing career outcome misconceptions, begin by acknowledging the student's career aspirations before clarifying program outcomes. Start with validation: 'I appreciate your interest in counseling, and it's important we ensure you understand exactly how this program fits into that journey.' Then provide clear, factual information about program outcomes while maintaining enthusiasm about potential career trajectories: 'While this diploma doesn't lead directly to counselor registration, it provides valuable foundational knowledge that many successful graduates use as a stepping stone.' Share specific examples: 'For instance, many of our graduates combine this diploma with additional qualifications to achieve their counseling career goals. Let me show you some common pathways our students take.' Always include timeline estimates and support resources: 'The journey to becoming a registered counselor typically takes [specific timeframe], and our career advisors can help you plan each stage of your professional development.'"
+        },
+        {
+          "id": 5,
+          "title": "Institutional Value Demonstration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555546594",
+              "segment_id": "30",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed their consideration of Monash as a secondary option: 'I was actually in the process with another university, but they're having all kinds of system issues so I kind of fell back on Monash' (call_596555546594, seg_30). This statement exposed a critical need to address the perception of Monash as a fallback choice and highlighted an opportunity to reinforce the institution's value proposition.",
+          "consultant_response": "The consultant's response missed the opportunity to address this crucial perception: 'Yeah, do you mind if I get back to you maybe sometime next week?' (call_596555546594, seg_31). This reply failed to counter the 'fallback' perception and did not highlight Monash's strengths or address the underlying concerns about system reliability.",
+          "priority": "high",
+          "recommended_approach": "When students indicate they're considering Monash as a backup option, immediately pivot to reinforce Monash's position as a leading institution. Begin with empathy: 'I understand you've had challenges with another institution's systems, and that can be frustrating. Let me share why many students ultimately choose Monash as their preferred option.' Then highlight specific strengths: 'Our robust online learning platform maintains 99.9% uptime, supporting over 10,000 online students successfully.' Share specific examples of student success stories and unique program features: 'One of our current students initially had similar concerns but found our 24/7 technical support and reliable systems made a significant difference to their study experience.' This approach transforms the conversation from viewing Monash as a fallback to recognizing it as a premier choice while addressing any underlying concerns about system reliability or institutional support."
+        },
+        {
+          "id": 6,
+          "title": "Program Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554737158",
+              "segment_id": "18",
+              "timestamp": "1:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about program duration: 'I was just wondering then how long would it take then to follow through the psychology degree?' (call_596554737158, seg_18). This question revealed a critical need for clarity about the time commitment required, representing a potential obstacle to enrollment if not addressed effectively.",
+          "consultant_response": "The consultant provided a comprehensive breakdown of the program timeline: 'It'll be a five-year process all together. You'll have to do your graduate diploma which will be 1.7 years. Followed by that, you will do your fourth year equivalent, which would be your Graduate Diploma of Psychology Advanced. Which would be 1.4 years. And then after that, you would complete a two-year master's to get fully registered.' This detailed response effectively mapped out the complete educational journey, breaking down the timeline into manageable segments while maintaining transparency about the full commitment required.",
+          "priority": "high",
+          "recommended_approach": "When addressing program duration queries, start with acknowledging the importance of understanding the time commitment: 'That's an excellent question about the timeline - let me break it down clearly for you.' Present the program structure in digestible segments, connecting each stage to career progression: 'The journey to becoming a registered psychologist has distinct stages, each building your expertise.' Emphasize the value gained at each stage: 'During your first 1.7 years, you'll develop foundational skills that prepare you for advanced study while already gaining valuable knowledge you can apply professionally.' Use specific examples of how current students manage the timeline: 'Many of our students appreciate knowing exactly how the program progresses, allowing them to plan their career development alongside their studies.' Always check understanding and address any timeline concerns: 'How does this structure align with your career plans?' This approach transforms a lengthy commitment into a clear, purposeful journey toward professional goals."
+        }
+      ]
+    }
+  }
+}

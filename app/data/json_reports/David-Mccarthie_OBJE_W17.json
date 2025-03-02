@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 230,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.217391304347824,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 172,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.78260869565217,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.948048533179794,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 172,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 235.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 121.42,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 168.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.55,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 198.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.19,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 152.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 134.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.18,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 193.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 147.35,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 182.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.52,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Empathetic Validation",
+        "explanation": "Consultants effectively acknowledge and validate student concerns while providing clear, empathetic reassurance that transforms anxieties into manageable solutions"
+      },
+      {
+        "headline": "Flexible Program Navigation",
+        "explanation": "Strong demonstration of program adaptability through specific examples and practical solutions that directly address diverse student circumstances and constraints"
+      },
+      {
+        "headline": "Strategic Objection Resolution",
+        "explanation": "Consultants effectively transform potential obstacles into opportunities by providing immediate, practical solutions while maintaining enrollment momentum"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "Enhanced support needed for students expressing anxiety about academic readiness after extended breaks, with stronger emphasis on transferable skills and success stories"
+      },
+      {
+        "headline": "Financial Planning Depth",
+        "explanation": "More comprehensive exploration required of financial options including employer support, payment plans and funding alternatives with systematic presentation"
+      },
+      {
+        "headline": "Solution Satisfaction Verification",
+        "explanation": "Stronger follow-up needed to ensure students fully understand and feel satisfied with provided solutions through systematic confirmation and additional support"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Online Format Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343311132",
+              "segment_id": "108",
+              "timestamp": "11:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I do find it very questionable no offense that like it's a clinical psych bachelor but all of it's online when it's such a people kind of role?' (call_596343311132, seg_108), revealing fundamental concerns about online delivery format.",
+          "consultant_response": "Consultant explained: 'The psychology side of things is quite theoretical... We've got ways of making it more hands-on for you through group assignments and testing' (call_596343311132, seg_111), effectively demonstrating practical components.",
+          "context_impact": "Format concerns threatened to undermine program credibility and required immediate validation of online learning effectiveness.",
+          "recommended_approach": "Include more specific examples of interactive elements and real-world applications in online format."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412817107",
+              "segment_id": "180",
+              "timestamp": "16:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412727041",
+                "segment_id": "181",
+                "timestamp": "16:22"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm thinking four units for the first' (call_596412817107, seg_180), revealing enthusiasm but potential risk of overcommitment that could impact success.",
+          "consultant_response": "Consultant provided clear guidance: 'Okay, so the max we can do for the first teaching period is three units... the other two are completely up to you' (call_596412727041, seg_181), effectively setting boundaries while preserving student agency.",
+          "context_impact": "Critical moment requiring balance between maintaining enthusiasm and ensuring sustainable study load for long-term success.",
+          "recommended_approach": "Include deeper exploration of student's time availability and specific study goals before confirming unit load."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Schedule Accommodation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548833050",
+              "segment_id": "44",
+              "timestamp": "02:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Yes, I have a full-time job and it's shift work, so it's pretty much impossible for me to study on campus at the moment' (call_596548833050, seg_44), highlighting critical scheduling barriers.",
+          "consultant_response": "Consultant detailed program flexibility: 'Just so you know, we run three teaching periods per year...you do get to choose how many units you want to study each teaching period' (call_596548833050, seg_48), demonstrating adaptable program structure.",
+          "context_impact": "Addressing flexible study options effectively could transform perceived scheduling barriers into manageable solutions.",
+          "recommended_approach": "Include specific examples of how current students effectively manage shift work with study commitments."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689225243",
+              "segment_id": "79",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549349582",
+                "segment_id": "15",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596689225243, seg_79), revealing significant anxiety about academic readiness.",
+          "consultant_response": "Consultant missed opportunity by not addressing the concern, failing to provide needed reassurance and support strategies.",
+          "context_impact": "This moment demanded addressing return-to-study concerns to build enrollment confidence.",
+          "recommended_approach": "Share specific success stories of similar students and outline available transition support services."
+        },
+        {
+          "id": 5,
+          "title": "Financial Aid Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616600008",
+              "segment_id": "177",
+              "timestamp": "19:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm not sure about the financial options available' (call_596616600008, seg_177), indicating need for clear guidance on financial support pathways.",
+          "consultant_response": "Consultant outlined HECS options: 'As an Australian citizen, you're eligible for HECS... you don't pay anything upfront' (call_596616600008, seg_177).",
+          "context_impact": "Clear explanation of financial options was crucial for maintaining enrollment momentum.",
+          "recommended_approach": "Provide more comprehensive overview of all available financial support options and application processes."
+        },
+        {
+          "id": 6,
+          "title": "Personal Circumstance Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549316782",
+              "segment_id": "14",
+              "timestamp": "1:07"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548910998",
+                "segment_id": "91",
+                "timestamp": "35:17"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'And since things have sort of changed quite dramatically with my circumstances...I'll have to care for elderly parents who aren't so well' (call_596549316782, seg_14), revealing significant life changes affecting enrollment timing.",
+          "consultant_response": "Consultant empathetically replied: 'I totally understand that. I've been in the same kind of position...no pressure at all, you know, take your time with it. We're here when it is the right time for you' (call_596549316782, seg_19).",
+          "context_impact": "This moment required demonstrating institutional flexibility and support to maintain future enrollment potential despite current barriers.",
+          "recommended_approach": "Include more specific examples of how other students have successfully managed similar circumstances using our flexible study options."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Online Format Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343311132",
+              "segment_id": "108",
+              "timestamp": "11:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student expressed significant skepticism about the online format: 'I do find it very questionable no offense that like it's a clinical psych bachelor but all of it's online when it's such a people kind of role?' (call_596343311132, seg_108). This revealed a critical concern about the effectiveness of online learning for a people-oriented profession, representing a common objection that needed careful handling to maintain enrollment momentum.",
+          "consultant_response": "The consultant demonstrated strong objection handling by providing a structured explanation: 'The psychology side of things is quite theoretical... We've got ways of making it more hands-on for you. So, each, there will be group assignments where you'll be doing certain things and testing... gives you the opportunity to practice the knowledge and put the skills that you're developing into use.' This response effectively addressed the format concerns while highlighting practical applications within the online environment.",
+          "priority": "high",
+          "recommended_approach": "When addressing online format concerns for practical disciplines, begin by validating the student's perspective about the importance of hands-on experience. Transform their concern into an opportunity to showcase how the online format enhances rather than limits learning. Start with acknowledgment: 'Your attention to the practical aspects shows great insight. Let me explain how our online format actually expands your learning opportunities.' Then provide specific examples: 'You'll engage in virtual case discussions with peers from diverse backgrounds, participate in recorded role-play exercises that you can review and refine, and complete practical assignments that directly connect theory to practice.' Share success stories: 'Many of our graduates tell us the online format helped them develop stronger communication skills through structured virtual interactions.' Always conclude by checking understanding: 'What aspects of the practical components would you like me to explain further?' The goal is to demonstrate how online learning enhances rather than limits professional development."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Study Load Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412817107",
+              "segment_id": "180",
+              "timestamp": "16:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596412727041",
+                "segment_id": "181",
+                "timestamp": "16:22"
+              }
+            ]
+          },
+          "student_trigger": "During the enrollment discussion, the student expressed ambition regarding their study load, stating 'I'm thinking four units for the first' (call_596412817107, seg_180). This revealed both enthusiasm for study and a potential risk of overcommitment that could impact their success in the program.",
+          "consultant_response": "The consultant demonstrated effective objection handling by responding with clear guidance while preserving student agency: 'Okay, so the max we can do for the first teaching period is three units, so I'll pop you on three units and now there is a foundation unit that all students have to do. The other two are completely up to you' (call_596412727041, seg_181). This response successfully balanced institutional requirements with student choice.",
+          "priority": "high",
+          "recommended_approach": "When addressing study load concerns, begin by acknowledging the student's enthusiasm and proactive approach while guiding them toward a sustainable plan. Start with validation: 'It's great that you're thinking ahead about your study load and showing such commitment to your education.' Then guide them through the reasoning: 'Our experience shows that starting with three units helps students establish strong foundations while adjusting to online study. Many of our most successful students begin this way.' Share specific examples: 'For instance, one recent graduate started with three units, mastered the online learning environment, and then increased their load once they developed effective study routines.' When students express concern about slower progression, emphasize long-term benefits: 'Starting strong with three units often leads to better grades and faster overall progression than trying to manage too much initially.' Always check their comfort level: 'How does this approach align with your study goals and other commitments?' The goal is to transform their eagerness into realistic planning while maintaining their confidence and momentum."
+        },
+        {
+          "id": 3,
+          "title": "Work-Study Schedule Accommodation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548833050",
+              "segment_id": "44",
+              "timestamp": "02:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about balancing work and study commitments: 'Yes, I have a full-time job and it's shift work, so it's pretty much impossible for me to study on campus at the moment' (call_596548833050, seg_44). This statement revealed both their desire to pursue education and their practical constraints.",
+          "consultant_response": "The consultant provided a comprehensive overview of the program's flexibility: 'Just so you know, we run three teaching periods per year, so March, July and November. Each runs for 13 weeks at a time and then you get about a two to three week gap between the teaching periods and you do get to choose how many units you want to study each teaching period' (call_596548833050, seg_48). This response effectively demonstrated how the program structure could accommodate various work schedules.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-schedule concerns, begin by validating the challenge of balancing shift work with study while highlighting how program flexibility specifically accommodates these circumstances. Start with empathetic acknowledgment: 'I understand how challenging shift work can be, and our program is specifically designed to support students with variable schedules.' Then explore their specific work pattern: 'Could you tell me more about your typical roster? This helps me show you exactly how our flexibility can work for you.' Present specific features that address their needs: 'Many of our shift-working students download materials before their shifts, study during quieter periods, and participate in discussions during their off days.' Use concrete examples: 'One of our nursing students downloads weekly materials before night shifts, studies during quiet periods, and completes assignments on their recovery days.' Always check their comfort level: 'How does this flexibility align with your work patterns?' The key is making program flexibility tangible through relevant, practical examples that directly relate to their situation."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689225243",
+              "segment_id": "79",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549349582",
+                "segment_id": "15",
+                "timestamp": "01:30"
+              }
+            ]
+          },
+          "student_trigger": "The student revealed deep-seated concerns about academic readiness, stating 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596689225243, seg_79). This candid expression of anxiety about returning to study after a significant gap highlighted a critical need for reassurance and concrete support strategies.",
+          "consultant_response": "The consultant missed this crucial opportunity by not providing a direct response to the student's expressed concerns about returning to study. This gap in addressing the student's anxiety left them without the reassurance and practical strategies needed to build confidence in their ability to succeed.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study after an extended break, begin by normalizing these feelings while highlighting how professional experience enhances academic success. Start with validation: 'Many of our most successful students share similar concerns about returning to study - it's completely natural to feel this way.' Then, highlight transferable skills: 'Your 15 years of professional experience have equipped you with valuable skills like time management, critical thinking, and real-world problem-solving - these are crucial for academic success.' Share specific examples: 'One of our recent graduates returned after 20 years and found her industry experience gave her a unique advantage in applying theoretical concepts to practical scenarios.' Introduce support services strategically: 'Our academic advisors specialize in helping returning students leverage their professional experience in their studies. They'll work with you to develop study strategies that build on your existing strengths.' Describe specific support mechanisms: 'We provide structured orientation programs, study skills workshops, and one-on-one academic coaching to ensure a smooth transition back to study.' Always ensure the student feels supported: 'We'll be with you every step of the way, providing the tools and support needed for success.'"
+        },
+        {
+          "id": 5,
+          "title": "Financial Aid Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616600008",
+              "segment_id": "177",
+              "timestamp": "19:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about financing options, stating 'I'm not sure about the financial options available' (call_596616600008, seg_177). This indicated a need for clear guidance on available financial support pathways.",
+          "consultant_response": "The consultant provided basic information about HECS support: 'As an Australian citizen, you're eligible for HECS... you don't pay anything upfront' (call_596616600008, seg_177). While addressing immediate concerns, this response missed opportunities to explore additional financial support options.",
+          "priority": "high",
+          "recommended_approach": "When discussing financial options, begin with a comprehensive overview that acknowledges the importance of making an informed decision while ensuring all support pathways are clearly presented. Start with eligibility confirmation: 'Let's first confirm your eligibility for various support options to ensure we explore all available opportunities.' Then systematically present each option: 'As an Australian citizen, you have several pathways available. First, let's discuss HECS-HELP, which allows you to defer tuition costs. Then we'll explore scholarships, payment plans, and employer assistance programs.' Use specific examples: 'Many students combine HECS-HELP with our flexible payment arrangements. For instance, some spread additional costs across the term while others utilize employer education benefits.' Address both immediate and long-term considerations: 'While HECS covers your tuition, let's also discuss managing other study-related expenses and potential financial support options.' Provide clear next steps: 'I can guide you through the HECS application process and connect you with our financial advisory team for detailed planning.' Always check understanding: 'What aspects of the financial options would you like me to clarify?' The goal is transforming financial uncertainty into a clear, manageable plan."
+        },
+        {
+          "id": 6,
+          "title": "Personal Circumstance Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549316782",
+              "segment_id": "14",
+              "timestamp": "1:07"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548910998",
+                "segment_id": "91",
+                "timestamp": "35:17"
+              }
+            ]
+          },
+          "student_trigger": "During a crucial moment in call 596549316782 (segment 14), the student revealed significant life changes affecting their enrollment timeline: 'And since things have sort of changed quite dramatically with my circumstances...I'll have to care for elderly parents who aren't so well.' This disclosure presented a critical opportunity to demonstrate institutional understanding and flexibility.",
+          "consultant_response": "The consultant demonstrated exemplary objection handling by responding with empathy and understanding: 'I totally understand that. I've been in the same kind of position...no pressure at all, you know, take your time with it. We're here when it is the right time for you' (call_596549316782, seg_19). This approach effectively validated the student's situation while keeping the door open for future enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing significant life changes affecting enrollment timing, begin by acknowledging the emotional weight of the situation before discussing institutional flexibility. Start with genuine empathy: 'I hear how much is on your plate right now with caring for your parents. Family responsibilities are important, and it's admirable that you're considering both your education and your family's needs.' Share relevant examples: 'Many of our students successfully balance caregiving roles with study. For instance, one recent graduate completed her degree while caring for her elderly mother, utilizing our flexible study options to adjust her workload during intensive care periods.' Then outline specific ways the institution can support their unique circumstances: 'Our program allows you to adjust your study load based on your caregiving demands, pause your studies if needed, and access support services when you're ready to begin or resume.' Focus on maintaining engagement while respecting their current limitations: 'While you focus on your family commitments, I'll note your preferences and stay in touch with relevant updates that might help your future planning.' Always close with clear next steps that put control in their hands: 'Would you like me to check in with you periodically about your situation, or would you prefer to reach out when your circumstances change?' The goal is to demonstrate understanding while keeping the enrollment door open for when timing is right."
+        }
+      ]
+    }
+  }
+}

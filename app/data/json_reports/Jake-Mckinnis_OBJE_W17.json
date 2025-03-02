@@ -1,0 +1,408 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 289,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 60,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 20.761245674740483,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 229,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 79.23875432525952,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.42865082257108,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 229,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.71,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 140.67,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.53,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 148.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.26,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 171.09,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.89,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.01,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 60.63,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Barrier Resolution",
+        "explanation": "Consultants effectively transform enrollment obstacles into actionable steps through immediate solutions and practical guidance that maintain momentum"
+      },
+      {
+        "headline": "Clear Process Communication",
+        "explanation": "Strong demonstration of breaking down complex requirements into manageable steps while maintaining transparency and building student confidence through detailed explanations"
+      },
+      {
+        "headline": "Flexible Support Adaptation",
+        "explanation": "Effective demonstration of how program structure and delivery accommodates diverse student circumstances through personalized solutions and targeted success strategies"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Emotional Acknowledgment Enhancement",
+        "explanation": "Greater emphasis needed on acknowledging student feelings and concerns before moving to solutions to build stronger rapport and demonstrate comprehensive understanding"
+      },
+      {
+        "headline": "Alternative Pathway Exploration",
+        "explanation": "More comprehensive exploration required of alternative solutions when standard processes present enrollment barriers, including detailed examples and success stories"
+      },
+      {
+        "headline": "Comprehensive Support Integration",
+        "explanation": "Enhanced approach needed for demonstrating specific support resources and options when addressing complex student circumstances to ensure clear understanding of available assistance"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Return to Study Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549273264",
+              "segment_id": "120",
+              "timestamp": "26:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548987989",
+                "segment_id": "23",
+                "timestamp": "1:28"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'Yeah, I'm quite nervous that I'm not going to remember like the data analysis stuff just because it has been so long' (call_596549273264, seg_120), revealing significant anxiety about academic readiness after extended break.",
+          "consultant_response": "Consultant offered practical solution: 'You can start with electives... essentially start with that so you obviously can kind of get used to it' (call_596549273264, seg_122), effectively showing manageable path forward with gradual progression.",
+          "context_impact": "Critical moment requiring clear demonstration of support systems to build academic confidence and maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of support resources, success stories from similar returning students, and detailed study skill development strategies."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596698023409",
+              "segment_id": "98",
+              "timestamp": "4:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596697700767",
+                "segment_id": "26",
+                "timestamp": "01:10"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Yeah, I work full-time, so yeah, probably two at the start, I'd say' (call_596698023409, seg_98), revealing careful consideration of work-study balance needs.",
+          "consultant_response": "Consultant provided practical solution: '100%. So, essentially, there's two units that I can recommend for you now...It's a really nice introduction into the course' (call_596698023409, seg_102), effectively validating approach while offering specific guidance.",
+          "context_impact": "Critical demonstration needed of program flexibility to maintain enrollment momentum while validating student's thoughtful approach.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current working students and detailed time management strategies."
+        },
+        {
+          "id": 3,
+          "title": "Credit Transfer Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548781598",
+              "segment_id": "18",
+              "timestamp": "01:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548781598",
+                "segment_id": "21",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'd like to switch over some of my...like, get credit for things that wouldn't necessarily' (call_596548781598, seg_18), revealing anxiety about credit recognition and transfer potential.",
+          "consultant_response": "Consultant provided assurance: 'The application and assessment process is actually really easy...we will be able to use that towards your elective space' (call_596548781598, seg_21), effectively demystifying process while maximizing credit potential.",
+          "context_impact": "Clear credit transfer guidance crucial for maintaining enrollment momentum and demonstrating value of prior learning.",
+          "recommended_approach": "Include more detailed explanation of credit assessment process, timeline expectations, and specific examples of successful transfers."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689259710",
+              "segment_id": "31",
+              "timestamp": "2:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462473325",
+                "segment_id": "16",
+                "timestamp": "01:20"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I am really keen to enrol, but I'm not able to provide what he's asking at this point' (call_596689259710, seg_31), showing enthusiasm despite documentation barriers.",
+          "consultant_response": "Consultant replied: 'If they can provide you those documents obviously before the cut-off date for this enrolment we'd obviously be able to get you in' (call_596689259710, seg_34), missing opportunity for immediate solutions or alternatives.",
+          "context_impact": "Essential enrollment momentum at risk due to documentation challenges requiring immediate alternative solutions.",
+          "recommended_approach": "Develop comprehensive exploration of interim documentation options, alternative pathways, and specific support resources for document preparation."
+        },
+        {
+          "id": 5,
+          "title": "Life Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462069931",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just finishing my maternity leave and I'm like due to go back to work in my corporate role, but I wanna do something different' (call_596462069931, seg_23), revealing multiple life transitions.",
+          "consultant_response": "Consultant focused on process: 'So if that's the case that's completely fine obviously our next intake is July' (call_596462069931, seg_30), missing opportunity for deeper transition support.",
+          "context_impact": "Required comprehensive support demonstration for managing major life transitions while maintaining educational momentum.",
+          "recommended_approach": "Explore specific ways program flexibility and support services can assist with work-life-study balance during major transitions, including tailored study plans."
+        },
+        {
+          "id": 6,
+          "title": "Past Performance Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462473325",
+              "segment_id": "16",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548987989",
+                "segment_id": "23",
+                "timestamp": "1:28"
+              }
+            ]
+          },
+          "student_trigger": "Student revealed: 'I applied for it last year and I was just kind of hoping to get like just a little bit more information if I'm even eligible because I had a bit of a rough year last year' (call_596462473325, seg_16), showing vulnerability about past challenges.",
+          "consultant_response": "Consultant offered verification: 'So I can actually find out that for you, Patricia, that's no problem' (call_596462473325, seg_20), missing opportunity for emotional support.",
+          "context_impact": "Critical moment requiring emotional acknowledgment and clear guidance to prevent withdrawal while building confidence.",
+          "recommended_approach": "Provide stronger emotional acknowledgment, explore growth since previous attempt, and demonstrate comprehensive support systems for success."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Return to Study Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549273264",
+              "segment_id": "120",
+              "timestamp": "26:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548987989",
+                "segment_id": "23",
+                "timestamp": "1:28"
+              }
+            ]
+          },
+          "student_trigger": "During the conversation, the student revealed significant anxiety about returning to academic study: 'Yeah, I'm quite nervous that I'm not going to remember like the data analysis stuff just because it has been so long' (call_596549273264, seg_120). This disclosure represented a critical moment where the student's concerns about academic readiness could potentially derail their enrollment journey. The specific mention of data analysis highlighted both their awareness of program requirements and their anxiety about meeting academic standards after time away.",
+          "consultant_response": "The consultant demonstrated effective objection handling by offering a strategic, step-by-step approach: 'You can start with electives... essentially start with that so you obviously can kind of get used to it' (call_596549273264, seg_122). This response acknowledged the student's concerns while providing a practical solution that would allow them to build confidence gradually. The approach effectively transformed their anxiety about immediate academic challenges into a manageable pathway forward.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study, especially regarding specific subjects, begin by validating their feelings: 'It's completely natural to feel nervous about returning to study, particularly with technical subjects like data analysis.' Then, outline a structured approach to building academic confidence: 'Let's look at how we can help you transition back gradually.' Share specific strategies such as starting with foundation subjects, accessing study support services, and connecting with peer study groups. For example: 'Many students find starting with Learning Skills Online helps them refresh key concepts and build study confidence.' Highlight success stories of similar students: 'Many of our current high-performing students returned after extended breaks and found their life experience actually enhanced their learning.' The key is transforming their anxiety into a concrete action plan while demonstrating the comprehensive support available throughout their journey. Pay particular attention to specific subject concerns, showing how our support systems address these directly: 'Our data analysis units include pre-course refresher materials and dedicated tutoring support.' Always ensure students understand all available support options: 'Would you like me to send you information about our study skills workshops and online tutorials?'"
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596698023409",
+              "segment_id": "98",
+              "timestamp": "4:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596697700767",
+                "segment_id": "26",
+                "timestamp": "01:10"
+              }
+            ]
+          },
+          "student_trigger": "During a crucial moment in the conversation, the student expressed concern about managing their workload, stating: 'Yeah, I work full-time, so yeah, probably two at the start, I'd say' (call_596698023409, seg_98). This revealed both their commitment to pursuing education and their awareness of potential challenges in balancing work and study commitments.",
+          "consultant_response": "The consultant demonstrated strong objection handling skills by immediately validating the student's approach and offering specific solutions: '100%. So, essentially, there's two units that I can recommend for you now...It's a really nice introduction into the course' (segment 102). This response effectively transformed potential workload concerns into a practical, manageable plan by providing immediate, concrete unit recommendations.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging the student's thoughtful consideration of their capacity: 'That's a very practical approach to starting your studies.' Then explore their specific work patterns: 'Could you tell me more about your typical work schedule?' This allows for tailored recommendations. Share concrete examples of how current working students manage their studies: 'Many of our students working full-time find success by downloading materials for offline study during breaks' or 'Some students prefer morning study sessions before their work day begins.' For shift workers, address specific scenarios: 'If you're working rotating shifts, our platform lets you download all materials for offline study during quiet periods.' Emphasize the program's flexibility in allowing students to modify their study load each teaching period. When discussing specific unit recommendations, explain why they're suitable for working students: 'This introductory unit has a well-structured weekly format that many working students find manageable.' Always offer ongoing support: 'Our Student Success team can help you develop a personalized study schedule that works around your job commitments.'"
+        },
+        {
+          "id": 3,
+          "title": "Credit Transfer Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596548781598",
+              "segment_id": "18",
+              "timestamp": "01:18"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548781598",
+                "segment_id": "21",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed concern about credit transfer, stating 'I'd like to switch over some of my...like, get credit for things that wouldn't necessarily' (call_596548781598, seg_18). This revealed anxiety about recognition of prior learning and its impact on program feasibility. The hesitation in the student's voice and incomplete phrasing suggested uncertainty about how their previous studies would be valued.",
+          "consultant_response": "The consultant provided a comprehensive and reassuring response: 'The application and assessment process is actually really easy...we will be able to use that towards your elective space. So we'll definitely try and get you maximum exemptions' (call_596548781598, seg_21). This response effectively addressed multiple aspects of the student's concern by demystifying the process, ensuring recognition of prior learning, and committing to maximizing credit transfer opportunities.",
+          "priority": "high",
+          "recommended_approach": "When addressing credit transfer concerns, begin by acknowledging the significance of the student's prior learning and their desire for recognition. Use phrases like 'I understand the importance of having your previous studies recognized' to establish empathy. Then, explain the credit assessment process with specific examples: 'For instance, if you've completed units in research methods, we can often apply these directly to similar core units, or utilize them as electives.' Guide students through the documentation process, emphasizing how the institution actively seeks ways to maximize credit recognition: 'We review each transcript carefully to identify all potential credit opportunities, whether for direct unit matches or elective credits.' Share success stories where appropriate: 'Many students in similar situations have received significant credits, allowing them to complete their program more efficiently.' Always conclude by outlining clear next steps and maintaining an encouraging tone about the possibilities for credit recognition."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689259710",
+              "segment_id": "31",
+              "timestamp": "2:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462473325",
+                "segment_id": "16",
+                "timestamp": "01:20"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed clear enthusiasm tempered by documentation challenges: 'I am really keen to enrol, but I'm not able to provide what he's asking at this point' (call_596689259710, seg_31). This moment represented a critical juncture where the student's momentum toward enrollment was at risk due to administrative barriers, despite their clear desire to proceed.",
+          "consultant_response": "The consultant's response focused primarily on standard protocols: 'If they can provide you those documents obviously before the cut-off date for this enrolment we'd obviously be able to get you in' (call_596689259710, seg_34). While this provided timeline information, it missed opportunities to explore immediate alternatives or interim solutions that could help maintain the student's enthusiasm.",
+          "priority": "high",
+          "recommended_approach": "When handling documentation barriers with enthusiastic prospects, begin by affirming their commitment: 'I appreciate your eagerness to join our program, and I want to help find a way forward.' First, explore specific details about their documentation challenges: 'Could you tell me more about which documents you're having difficulty with?' This allows for targeted solution-finding. For instance, if a student mentions difficulty obtaining transcripts, respond with: 'While we work on getting your official transcripts, we could start with an academic record statement from your previous institution.' Share examples of how other students have navigated similar challenges: 'Many students initially faced similar challenges. Let me show you how they successfully managed this.' Always ensure students leave the conversation with clear next steps: 'Let's create a documentation plan with specific deadlines and alternatives.' Consider interim solutions: 'We might be able to begin your application with provisional documentation while we secure the final paperwork.' The goal is to maintain enrollment momentum while demonstrating our commitment to finding workable solutions. Remember to document all attempts to resolve the situation and set clear follow-up timelines."
+        },
+        {
+          "id": 5,
+          "title": "Life Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462069931",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed a significant life transition: 'I'm just finishing my maternity leave and I'm like due to go back to work in my corporate role, but I wanna do something different' (call_596462069931, seg_23). This statement indicated both desire for change and potential concerns about managing multiple transitions.",
+          "consultant_response": "The consultant focused primarily on administrative timing: 'So if that's the case that's completely fine obviously our next intake is July' (call_596462069931, seg_30). This response missed the opportunity to explore how the program could specifically support their transition period.",
+          "priority": "high",
+          "recommended_approach": "When addressing students undergoing major life transitions, begin by acknowledging the significance of their situation: 'Returning from maternity leave while considering career changes is a significant step, and I'm here to help you navigate this transition.' Explore specific challenges: 'Let's discuss how our program can support your journey during this important time.' Share relevant success stories: 'One of our recent graduates completed her transition from corporate role to a new field while managing family responsibilities. She found our flexible study options particularly helpful during her return to work.' Provide concrete examples of program support: 'Our online platform allows you to access materials 24/7, so you can study when it best suits your family schedule. For instance, many parent students study during nap times or after bedtime.' Focus on building confidence through practical support: 'We can create a study plan that adapts to your changing schedule as you return to work. For example, starting with one unit allows you to establish a manageable routine.' Always emphasize available support services: 'Our student success team includes advisors experienced in helping parents balance study with work and family commitments.'"
+        },
+        {
+          "id": 6,
+          "title": "Past Performance Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462473325",
+              "segment_id": "16",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596548987989",
+                "segment_id": "23",
+                "timestamp": "1:28"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed uncertainty about their eligibility based on previous academic performance: 'I applied for it last year and I was just kind of hoping to get like just a little bit more information if I'm even eligible because I had a bit of a rough year last year' (call_596462473325, seg_16). This disclosure revealed both vulnerability and a desire to understand their current options.",
+          "consultant_response": "The consultant's response focused on practical verification without addressing emotional aspects: 'So I can actually find out that for you, Patricia, that's no problem' (call_596462473325, seg_20). While offering immediate assistance, this missed an opportunity to provide emotional support and explore growth since previous attempts.",
+          "priority": "high",
+          "recommended_approach": "When students disclose past academic challenges, begin with emotional acknowledgment: 'Thank you for sharing that with me - it takes courage to try again after a difficult year.' Create space for them to share their journey: 'Could you tell me what's different about your situation now?' For example, when a student mentions past struggles, respond with: 'Many successful students faced similar challenges before finding the right time and support to succeed.' Focus on growth and current readiness: 'Let's look at how your experiences since last year might actually strengthen your application.' Share relevant success stories: 'We have many students who initially faced academic challenges but are now thriving with our support systems.' Always maintain a balance between empathy and practical guidance: 'While we verify your eligibility, let's explore the support services that could help ensure your success this time.' The goal is to transform past challenges into insights that inform current success strategies. Remember to check in emotionally throughout the conversation: 'How are you feeling about this information?' and provide specific next steps that maintain momentum while acknowledging their feelings."
+        }
+      ]
+    }
+  }
+}

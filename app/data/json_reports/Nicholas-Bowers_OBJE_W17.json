@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 258,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 84,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 32.55813953488372,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 174,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 67.44186046511628,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.795445213275855,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 174,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 171.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.94,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.25,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 212.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.4,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 110.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.42,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 110.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.94,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 156.8,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 118.97,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 189.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.92,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 142.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Solution Provision",
+        "explanation": "Consultants effectively transform potential barriers into opportunities by providing immediate, practical solutions with specific examples and clear next steps that maintain enrollment momentum"
+      },
+      {
+        "headline": "Financial Support Navigation",
+        "explanation": "Strong demonstration of comprehensive financial aid options through clear FEE-HELP explanation, payment flexibility discussions, and specific calculations that directly address affordability concerns"
+      },
+      {
+        "headline": "Program Flexibility Communication",
+        "explanation": "Effective presentation of program adaptability through specific examples showing how different study patterns accommodate varied student circumstances while maintaining academic quality"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deep Concern Investigation",
+        "explanation": "Enhanced exploration needed of underlying student concerns and motivations when addressing program fit and commitment objections to provide more targeted solutions"
+      },
+      {
+        "headline": "Work-Life Balance Guidance",
+        "explanation": "More comprehensive support required in demonstrating practical strategies for balancing study with work and family commitments through specific success stories and time management examples"
+      },
+      {
+        "headline": "Follow-Through Consistency",
+        "explanation": "Stronger emphasis needed on securing specific next steps and maintaining engagement when conversations require continuation, including clear follow-up scheduling and milestone tracking"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Trial Period Positioning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549528088",
+              "segment_id": "12",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I guess I'm a little bit, what's the word, hesitant in terms of committing, only for the fact that I don't particularly want to do three years' (call_596549528088, seg_12), revealing significant program commitment concerns.",
+          "consultant_response": "Consultant offered specific solution: 'With the March intake, you can really just try one or two units, see how it fits into your life... and you have until the 4th of April to make any changes without penalties' (call_596549528088, seg_27), effectively reducing perceived commitment barriers.",
+          "context_impact": "Addressing long-term commitment hesitation critical for maintaining enrollment momentum while demonstrating program flexibility.",
+          "recommended_approach": "Include more specific examples of students who successfully started with trial periods and progressed to full program completion, with clear success milestones."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697906085",
+              "segment_id": "154",
+              "timestamp": "25:48"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462148033",
+                "segment_id": "250",
+                "timestamp": "07:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm still doing the 2-SERV 4s and I'm working full-time or casually but full-time hours' (call_596697906085, seg_154), revealing critical work-study balance concerns.",
+          "consultant_response": "Consultant provided clear guidance: 'You're probably looking at about 18 hours of study a week for your first two units... if you find that there's a bit too much to balance then you can drop down to one unit' (call_596697906085, seg_155), showing program adaptability.",
+          "context_impact": "Clear demonstration of program flexibility essential for converting working professionals while maintaining academic confidence.",
+          "recommended_approach": "Share more specific examples of successful time management strategies from current working students, including practical study schedules and workload management techniques."
+        },
+        {
+          "id": 3,
+          "title": "Financial Aid Navigation",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596554799819",
+              "segment_id": "9",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'However, I got the result that it's not CSP supported, isn't it?' (call_596554799819, seg_9), seeking clarity on financial support options available.",
+          "consultant_response": "Consultant provided limited response: 'Yeah, that's right. So at a postgraduate level, courses aren't really CSP supported' (call_596554799819, seg_10), missing opportunity to explore alternatives.",
+          "context_impact": "Understanding available financial support options directly influences enrollment decisions and requires comprehensive explanation of alternatives.",
+          "recommended_approach": "Present comprehensive overview of FEE-HELP, payment plans, and scholarship opportunities with specific examples and calculations, including real repayment scenarios."
+        },
+        {
+          "id": 4,
+          "title": "Study Load Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689047250",
+              "segment_id": "24",
+              "timestamp": "02:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Maybe I'll do one to two for now' (call_595732493616, seg_150), indicating uncertainty about managing initial study load effectively.",
+          "consultant_response": "Consultant explained flexibility: 'You have until the 4th of April to decide on those units... if you find it's too much of a load, or want to add units' (call_596689047250, seg_24), providing clear adjustment options.",
+          "context_impact": "Clear understanding of load flexibility options crucial for student confidence and successful study planning.",
+          "recommended_approach": "Include more specific examples of successful study patterns and workload management strategies from current students at different study intensities."
+        },
+        {
+          "id": 5,
+          "title": "Credit Recognition",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555449766",
+              "segment_id": "47",
+              "timestamp": "6:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So would I get no credits at all for any of the units?' (call_596555449766, seg_47), seeking clarity about recognition of previous academic work.",
+          "consultant_response": "Consultant provided clear policy explanation: 'Unless you've done studies in the last 10 years... it does seem like you'd have to look at the full program' (call_596555449766, seg_48), effectively explaining requirements.",
+          "context_impact": "Clear credit transfer policies directly influence enrollment decisions, particularly for students with prior academic experience.",
+          "recommended_approach": "Include proactive exploration of alternative pathways and support options available for full program completion, highlighting value of previous experience."
+        },
+        {
+          "id": 6,
+          "title": "Deadline Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596464759012",
+              "segment_id": "74",
+              "timestamp": "03:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'll probably check in with you in a few days as well just because we're closing enrollments next Friday' (call_596464759012, seg_74), showing deadline awareness.",
+          "consultant_response": "Consultant offered proactive support: 'So what I can do is after this phone call, I'll send you an email with a guide on the course itself and how you can apply' (call_596464759012, seg_68), providing immediate action steps.",
+          "context_impact": "Time-sensitive enrollment decisions require immediate guidance and support to maintain momentum while ensuring thorough understanding.",
+          "recommended_approach": "Include specific timeline breakdown and detailed next-step checklist in follow-up communication, with clear milestones and support touchpoints."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Trial Period Positioning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549528088",
+              "segment_id": "12",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in the enrollment journey, the student expressed significant hesitation about committing to a lengthy program, stating: 'I guess I'm a little bit, what's the word, hesitant in terms of committing, only for the fact that I don't particularly want to do three years' (call_596549528088, seg_12). This revealed both their aspiration for higher education and anxiety about long-term commitment.",
+          "consultant_response": "The consultant skillfully transformed this objection into an opportunity by offering a low-risk trial option: 'With the March intake, you can really just try one or two units, see how it fits into your life... and you have until the 4th of April to make any changes without penalties' (call_596549528088, seg_27). This response effectively reduced the perceived barrier while maintaining momentum toward enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing commitment hesitations, begin by acknowledging the validity of the student's concerns while transforming the conversation toward manageable steps. Start with empathy: 'I understand that three years feels like a big commitment. Let's focus on getting started with one or two units to see how they fit into your life.' Then highlight the census date flexibility: 'You'll have until April 4th to experience the program and make any adjustments without financial penalty.' For students comparing different qualification levels, emphasize how the trial period helps build confidence: 'Many students find that starting with a lighter load helps them develop effective study habits before increasing their commitment.' Share specific success stories: 'For example, one of our current students started with two units while working full-time, found their rhythm in the first term, and is now confidently managing a full study load.' Always connect the immediate step to their longer-term goals: 'This approach lets you experience the program quality while keeping your options open.' The key is transforming the perception from a daunting three-year commitment into an achievable step-by-step journey with clear support at each stage."
+        }
+      ]
+    }
+  }
+}

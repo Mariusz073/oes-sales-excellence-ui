@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 265,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 42,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 15.849056603773585,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 223,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 84.15094339622642,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.4547239165766,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 223,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 118.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.65,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 117.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.25,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 132.35,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.1,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 155.52,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.07,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 141.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.59,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Proactive Solution Development",
+        "explanation": "Consultants effectively transform potential obstacles into actionable solutions through immediate acknowledgment and clear resolution pathways that maintain enrollment momentum"
+      },
+      {
+        "headline": "Financial Barrier Navigation",
+        "explanation": "Strong demonstration of converting financial concerns into manageable solutions through comprehensive explanation of funding options and personalized payment pathways"
+      },
+      {
+        "headline": "Program Value Articulation",
+        "explanation": "Clear and effective communication of program credibility, flexibility and career relevance when addressing student concerns about online delivery and academic fit"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Comprehensive Concern Investigation",
+        "explanation": "Enhanced exploration needed of underlying concerns and hesitations to provide more targeted and effective solutions before they become enrollment barriers"
+      },
+      {
+        "headline": "Support Services Integration",
+        "explanation": "More thorough discussion required of available support services and accommodations when addressing student concerns about managing studies with health considerations"
+      },
+      {
+        "headline": "Solution Validation",
+        "explanation": "Greater emphasis needed on confirming provided solutions fully address student concerns through specific follow-up questions and emotional support"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Online Program Credibility Defense",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555484091",
+              "segment_id": "299",
+              "timestamp": "24:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I was just talking to someone who's working in that program or software engineering, and he was saying his gut feeling is like the online degrees might be considered a little bit less desirable' (call_596555484091, seg_299), revealing significant credibility concerns.",
+          "consultant_response": "Consultant provided clear validation: 'We specifically have just our courses as the exact same accreditation as our on-campus courses, so when you graduate they are not specified online whatsoever' (call_596555484091, seg_308).",
+          "context_impact": "This concern about online degree perception could significantly impact enrollment decision if not effectively addressed with concrete evidence.",
+          "recommended_approach": "Include specific examples of successful online graduates and their career achievements to reinforce program credibility."
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Aid Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616844036",
+              "segment_id": "52",
+              "timestamp": "09:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm not a citizen until July. So I don't know how that affects my application if I were to reapply...' (call_596616844036, seg_52), revealing critical uncertainty about financial aid eligibility.",
+          "consultant_response": "Consultant provided clear solution: 'You're able to pay for the first unit as a non-citizen. And then as soon as you are a citizen after your celebration, you are able to then defer the rest of the units towards fee help' (call_596616844036, seg_58)",
+          "context_impact": "This concern required immediate resolution to maintain enrollment momentum while addressing both short-term and long-term financial planning.",
+          "recommended_approach": "Include specific timeline examples and transition planning guidance to build confidence in the financial pathway."
+        },
+        {
+          "id": 3,
+          "title": "Health Support Services Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462034765",
+              "segment_id": "73",
+              "timestamp": "15:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'So I actually have schizophrenia' (call_596462034765, seg_73), requiring comprehensive support service information and empathetic response.",
+          "consultant_response": "Consultant provided minimal guidance: 'You for letting me know that. I've taken that one down and what we'll do is if it does impact your studies or you feel that you'll need support, please feel free to get in touch with us' (call_596462034765, seg_76).",
+          "context_impact": "This vulnerable disclosure required immediate demonstration of robust support systems to build confidence in successful study management.",
+          "recommended_approach": "Proactively outline specific accommodation options, support services, and direct connection to disability support team."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Alternative Provision",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549386975",
+              "segment_id": "141",
+              "timestamp": "8:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've only got an older passport, I haven't renewed it for quite some time' (call_596549386975, seg_141), revealing anxiety about meeting documentation requirements.",
+          "consultant_response": "Consultant offered immediate solution: 'Do you have a birth certificate by any chance? That's all I need. We don't need both, just one or' (call_596549386975, seg_144), effectively resolving the concern.",
+          "context_impact": "Swift resolution needed to prevent documentation concerns from becoming enrollment barriers.",
+          "recommended_approach": "Provide comprehensive list of acceptable documentation options early in conversation with clear submission guidance."
+        },
+        {
+          "id": 5,
+          "title": "Professional Development Connection",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549439520",
+              "segment_id": "18",
+              "timestamp": "01:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'Look, you know, I've always probably, as part of my current role, I do a little bit of that anyway' (call_596549439520, seg_18), indicating relevant professional experience.",
+          "consultant_response": "Consultant explored psychology interest, establishing initial connection between current role and academic aspirations.",
+          "context_impact": "Key opportunity to strengthen program value proposition by connecting current experience with academic advancement.",
+          "recommended_approach": "Develop stronger connections between specific work experiences and program learning outcomes."
+        },
+        {
+          "id": 6,
+          "title": "Academic Qualification Concern",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412696266",
+              "segment_id": "32",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I just want to know if I do qualify to be in the course because I know my transcripts are quite poor' (call_596412696266, seg_32), revealing deep anxiety about academic eligibility.",
+          "consultant_response": "Consultant provided factual response: 'Well, yeah, I can see here that you qualified for the Bachelor of Arts Media...' (call_596412696266, seg_34), lacking emotional support.",
+          "context_impact": "Critical moment requiring both emotional support and practical guidance to build academic confidence.",
+          "recommended_approach": "Provide empathetic acknowledgment while highlighting transferable skills and available academic support services."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Online Program Credibility Defense",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596555484091",
+              "segment_id": "299",
+              "timestamp": "24:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student voiced a significant concern about program credibility: 'I was just talking to someone who's working in that program or software engineering, and he was saying his gut feeling is like the online degrees might be considered a little bit less desirable' (call_596555484091, seg_299). This statement revealed deep-seated concerns about the market value and recognition of online education, particularly influenced by external perspectives.",
+          "consultant_response": "The consultant provided a robust defense of the program's credibility: 'So we, I'm not too sure if they were specifically talking about Monash because that would be very interesting because we specifically have just our courses as the exact same accreditation as our on-campus courses, so when you graduate they are not specified online whatsoever, so it would be indistinguishable to other academic institutions and employers' (call_596555484091, seg_308). This response effectively addressed the core concern by emphasizing the program's equivalency to on-campus offerings and its recognition in the professional world.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about online program credibility, begin by acknowledging the legitimacy of the question while positioning the response to highlight institutional strength. Start with validation: 'I appreciate you bringing up this concern - it's an important consideration for many students.' Then, provide specific evidence of program legitimacy: 'Our online degrees carry exactly the same accreditation as our campus programs, and graduates receive identical credentials with no distinction between delivery modes.' Share specific success stories: 'For example, one of our recent online graduates secured a senior position at [Company Name] specifically because of their advanced skills in [specific area].' Pay particular attention to addressing any industry-specific concerns, using examples relevant to the student's field: 'In your software engineering field, many of our graduates have secured roles at leading tech companies, who value the practical skills developed through our online learning approach.' Always conclude by connecting program value to their career aspirations: 'How does this align with your professional goals and what employers in your industry value?'"
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Aid Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616844036",
+              "segment_id": "52",
+              "timestamp": "09:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in the enrollment process, the student expressed significant concern about their citizenship status affecting their application: 'I'm not a citizen until July. So I don't know how that affects my application if I were to reapply...' (call_596616844036, seg_52). This statement revealed both immediate anxiety about financial aid eligibility and deeper uncertainty about enrollment feasibility. The timing of their citizenship ceremony created a potential barrier that needed careful handling to maintain the student's confidence in proceeding.",
+          "consultant_response": "The consultant demonstrated skilled objection handling by providing a clear, actionable solution: 'You're able to pay for the first unit as a non-citizen. And then as soon as you are a citizen after your celebration, you are able to then defer the rest of the units towards fee help' (call_596616844036, seg_58). This response effectively broke down what could have been a significant barrier into manageable steps, transforming uncertainty into a clear path forward.",
+          "priority": "high",
+          "recommended_approach": "When addressing citizenship-related financial aid concerns, begin by acknowledging the specific timeline challenges while immediately highlighting available solutions. Start with validation: 'I understand the timing of your citizenship ceremony creates some uncertainty about financial options.' Then outline the specific steps available: 'Let me show you exactly how we can work with your timeline.' Use concrete examples: 'For instance, if you start in July, you'll only need to pay for one unit upfront, which is approximately [specific amount]. Then, once your citizenship is confirmed, we can immediately transition you to FEE-HELP for the remaining units.' Pay particular attention to creating a clear timeline: 'Let's map out the key dates - your citizenship ceremony in July, your first unit payment due on [date], and the FEE-HELP transition period.' Always conclude by confirming the student's understanding and comfort with the plan: 'Does this financial pathway align with your planning? Would you like me to walk through any specific aspects again?'"
+        },
+        {
+          "id": 3,
+          "title": "Health Support Services Discussion",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462034765",
+              "segment_id": "73",
+              "timestamp": "15:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student made a significant personal disclosure: 'So I actually have schizophrenia' (call_596462034765, seg_73). This vulnerable moment required a comprehensive and empathetic response detailing available support services and accommodation options to build confidence in the institution's ability to support their success.",
+          "consultant_response": "The consultant provided only minimal acknowledgment and generic guidance: 'You for letting me know that. I've taken that one down and what we'll do is if it does impact your studies or you feel that you'll need support, please feel free to get in touch with us' (call_596462034765, seg_76). This response missed the opportunity to demonstrate comprehensive support systems and proactive accommodation options.",
+          "priority": "high",
+          "recommended_approach": "When students disclose health conditions, respond with both empathy and comprehensive knowledge of support services. Begin with validation: 'Thank you for sharing this with me. Your wellbeing is important to us, and we have extensive support services designed to ensure your academic success.' Then outline specific support options: 'Our Disability Support Services can arrange flexible assessment deadlines, additional study resources, and personalized learning plans. For example, many students find our flexible study load options particularly helpful during challenging periods.' Detail the access process: 'I can connect you directly with our disability support team who will work with you confidentially to create a personalized support plan before your studies begin.' Share specific examples of accommodations: 'Some common adjustments include extended assessment deadlines, alternative assessment formats, and access to recorded materials.' Always conclude by establishing clear next steps: 'Would you like me to arrange a confidential meeting with our disability support team to discuss your specific needs?'"
+        },
+        {
+          "id": 4,
+          "title": "Documentation Alternative Provision",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549386975",
+              "segment_id": "141",
+              "timestamp": "8:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about documentation requirements: 'I've only got an older passport, I haven't renewed it for quite some time' (call_596549386975, seg_141). This revealed anxiety about meeting enrollment requirements and highlighted the need for clear alternatives.",
+          "consultant_response": "The consultant demonstrated effective objection handling by immediately offering a viable alternative: 'Do you have a birth certificate by any chance? That's all I need. We don't need both, just one or' (call_596549386975, seg_144). This swift response accomplished multiple objectives: it acknowledged the concern, provided a concrete solution, and reassured the student about documentation flexibility.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation concerns, begin by acknowledging the situation while immediately presenting multiple options: 'There are several documents we accept for verification - let me walk you through all the alternatives.' Start with the easiest options: 'While a current passport is one option, many students find it easier to use their birth certificate or driver's license.' Provide specific guidance: 'For birth certificates, we accept both short and long-form versions, and they can be certified copies rather than originals.' Pay particular attention to timing concerns: 'Let's identify which document would be quickest and easiest for you to provide.' Always conclude with clear next steps: 'Once you've chosen your preferred document, I'll explain exactly how to submit it through our secure online portal. Would you like me to walk you through that process now?'"
+        },
+        {
+          "id": 5,
+          "title": "Professional Development Connection",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596549439520",
+              "segment_id": "18",
+              "timestamp": "01:06"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596549439520 (segment 18), the student revealed relevant professional experience: 'Look, you know, I've always probably, as part of my current role, I do a little bit of that anyway.' This disclosure presented an opportunity to connect current work experience with academic aspirations.",
+          "consultant_response": "The consultant engaged with the student's psychology interest, establishing initial connections between their current role and academic goals. While this approach acknowledged the relevance, there was room for deeper exploration of how their professional experience could enhance their academic journey.",
+          "priority": "high",
+          "recommended_approach": "When students reveal relevant work experience, leverage this information to create compelling connections to their educational goals. Begin with validation: 'Your current experience with these principles gives you a valuable foundation for academic studies.' Then explore specific applications: 'Could you tell me more about how you use these skills in your current role? This will help us identify ways the program can enhance your professional practice.' Share success stories: 'One of our current students in a similar role found that the theoretical frameworks from our program helped them implement more effective strategies at work.' Pay particular attention to immediate application opportunities: 'Many of our assignments allow you to use real workplace scenarios, meaning you can immediately apply what you're learning.' The goal is to transform work experience from a basic qualification into a compelling reason for enrollment: 'How do you see this program building on your current expertise to advance your career goals?'"
+        },
+        {
+          "id": 6,
+          "title": "Academic Qualification Concern",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596412696266",
+              "segment_id": "32",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596412696266 (segment 32), the student revealed significant anxiety about their academic qualifications: 'I just want to know if I do qualify to be in the course because I know my transcripts are quite poor.' This disclosure showed both interest in pursuing education and deep concern about potential academic barriers.",
+          "consultant_response": "The consultant's response focused primarily on factual verification: 'Well, yeah, I can see here that you qualified for the Bachelor of Arts Media...' (segment 34). While providing basic confirmation, this approach missed the opportunity to address the emotional aspects of the student's concern and build confidence in their academic potential.",
+          "priority": "high",
+          "recommended_approach": "When addressing qualification concerns, start with empathetic acknowledgment: 'Thank you for being open about your academic concerns. Many successful students initially share similar worries.' Then highlight specific strengths: 'I can see from your background that you've completed previous studies, which demonstrates important academic capabilities.' Share relevant success stories: 'We recently had a student with similar concerns who excelled in our program by utilizing our academic support services.' Outline specific support options: 'Our student success team provides one-on-one academic coaching, study skills workshops, and regular check-ins to ensure you're progressing confidently.' Pay particular attention to building academic confidence: 'Let's look at how your current skills and experience align with program requirements.' Always conclude by confirming their comfort level: 'How do you feel about these support options? Would you like to learn more about any specific academic services?'"
+        }
+      ]
+    }
+  }
+}

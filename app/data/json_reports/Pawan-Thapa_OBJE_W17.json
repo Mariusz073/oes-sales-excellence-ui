@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 242,
+  "team_average_total_number_of_calls_per_sales_consultant": 222.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 50.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.206611570247933,
+    "team_average_percentage": 25.577946405699496
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 181,
+    "team_average_absolute_number": 172.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.79338842975206,
+    "team_average_percentage": 74.42205359430051
+  },
+  "average_talking_percentage": {
+    "individual_average": 58.4575985023054,
+    "team_average": 52.737881140105245
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 181,
+    "team_total_excluded_transcripts": 1896
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 128.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.78,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 142.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.73,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 127.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.27,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 101.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.16,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 137.07,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 77.68,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 140.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 74.8,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 101.93,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 79.56,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Flexibility Communication",
+        "explanation": "Consultants effectively transform scheduling concerns into enrollment advantages by demonstrating comprehensive program accessibility options while maintaining momentum through specific examples"
+      },
+      {
+        "headline": "Clear Financial Navigation",
+        "explanation": "Strong demonstration of converting cost concerns into manageable solutions through transparent fee structures, support options, and tailored payment planning"
+      },
+      {
+        "headline": "Proactive Alternative Pathway Navigation",
+        "explanation": "Effective transformation of eligibility concerns into opportunities through clear explanation of accredited pathways and systematic progression planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements specifically support individual career trajectories and enable concrete professional advancement"
+      },
+      {
+        "headline": "Work-Life Balance Support",
+        "explanation": "More comprehensive demonstration needed of how program structure accommodates various work commitments through specific scheduling strategies"
+      },
+      {
+        "headline": "Solution Verification Enhancement",
+        "explanation": "Stronger confirmation needed of student satisfaction with provided solutions through systematic understanding checks and follow-up validation"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Schedule Flexibility Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617263559",
+              "segment_id": "33",
+              "timestamp": "01:29"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549250634",
+                "segment_id": "44",
+                "timestamp": "02:20"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I know it's online, but I also work full-time so...I'm just wondering like what?' (call_596617263559, seg_33), followed by another student sharing: 'I work full-time and have a young kid' (call_596549250634, seg_44), revealing critical need for scheduling clarity.",
+          "consultant_response": "Consultant provided specific solution: 'I understand where you're coming from. So first of all, it's basically created for students who are working full-time... lectures are held after 6pm... all recorded for you to view the next day' (call_596617263559, seg_37).",
+          "context_impact": "Critical moment requiring demonstration of program flexibility to maintain enrollment momentum while addressing diverse scheduling needs.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current working students and parents managing multiple commitments."
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Clarity",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697775132",
+              "segment_id": "58",
+              "timestamp": "4:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462104278",
+                "segment_id": "38",
+                "timestamp": "02:35"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'So is it more expensive or does it mean that I just need to pay for it up front but it's the same cost?' (call_596697775132, seg_58), revealing uncertainty about financial implications and payment structure.",
+          "consultant_response": "Consultant clearly stated: 'No, no, it's the same cost. Just the two units that you will need to pay for it up front.' (call_596697775132, seg_59), effectively alleviating cost concerns while outlining payment requirements.",
+          "context_impact": "Financial clarity directly impacts enrollment decisions and requires immediate addressing to maintain momentum while building confidence.",
+          "recommended_approach": "Include comprehensive explanation of payment options, financial aid opportunities, and specific payment timeline examples."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Entry Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617297312",
+              "segment_id": "49",
+              "timestamp": "02:38"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617297312",
+                "segment_id": "58",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'Okay, I understand now because I was very confused' (call_596617297312, seg_49), revealing uncertainty about qualification requirements and pathway options.",
+          "consultant_response": "Consultant provided solution: 'I had another student in exactly the same scenario... I've actually advised her to look into something like, or either go to Swinburne directly... or look into something like Open University' (call_596617297312, seg_58).",
+          "context_impact": "This moment required clear guidance to prevent enrollment abandonment while maintaining confidence in alternative pathways.",
+          "recommended_approach": "Include more specific examples of successful alternative pathway transitions and detailed progression timelines."
+        },
+        {
+          "id": 4,
+          "title": "Career Progression Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596688977830",
+              "segment_id": "14",
+              "timestamp": "1:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596688927069",
+                "segment_id": "74",
+                "timestamp": "10:11"
+              }
+            ]
+          },
+          "student_trigger": "Student shared: 'I'm an engineer and had experience about 15 years but I couldn't manage any good position' (call_596688977830, seg_14), revealing significant career advancement concerns.",
+          "consultant_response": "Consultant provided generic response: 'And you do understand the fundamentals of project management as well' (call_596688977830, seg_30), missing opportunity to address career growth specifically.",
+          "context_impact": "Critical moment requiring clear connection between program benefits and specific career advancement opportunities to maintain enrollment momentum.",
+          "recommended_approach": "Provide detailed examples of career advancement pathways and map program elements directly to professional growth opportunities."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462467249",
+              "segment_id": "38",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689302678",
+                "segment_id": "139",
+                "timestamp": "2:29"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm still adjusting to full-time so I just want to settle down a bit first before I start studies' (call_596462467249, seg_38), indicating significant work-study balance concerns.",
+          "consultant_response": "Consultant shifted to administrative details without addressing work-study balance concerns or providing specific management strategies.",
+          "context_impact": "Missing this opportunity could lead to unnecessary enrollment delays and decreased student confidence in program manageability.",
+          "recommended_approach": "Provide specific examples of how current students successfully manage full-time work transitions while studying, including practical scheduling strategies."
+        },
+        {
+          "id": 6,
+          "title": "Solution Verification Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343547181",
+              "segment_id": "16",
+              "timestamp": "01:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462065507",
+                "segment_id": "32",
+                "timestamp": "06:32"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'Can it be completed quicker or is that time frame set in stone?' (call_596343547181, seg_16), seeking specific program structure clarity.",
+          "consultant_response": "Consultant explained structure but didn't verify understanding or satisfaction with provided solutions (call_596343547181, seg_17).",
+          "context_impact": "Ensuring complete understanding of solutions crucial for student confidence and commitment to enrollment process.",
+          "recommended_approach": "Implement systematic understanding checks and follow-up validation after providing solutions to objections."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Schedule Flexibility Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617263559",
+              "segment_id": "33",
+              "timestamp": "01:29"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596549250634",
+                "segment_id": "44",
+                "timestamp": "02:20"
+              }
+            ]
+          },
+          "student_trigger": "During two separate calls, students expressed significant concerns about managing study with work commitments. In the primary call (596617263559, segment 33), the student stated: 'I know it's online, but I also work full-time so...I'm just wondering like what?' This revealed both interest in the program and anxiety about managing work-study balance. A similar concern emerged in another call (596549250634, segment 44) where the student mentioned: 'I work full-time as well. Second, I have a young kid. So, I want to make sure that if I enroll in it, I actually do, like, you know, I don't, I can't do it with a set time commitment.' These moments represented critical opportunities to demonstrate program flexibility while maintaining enrollment momentum.",
+          "consultant_response": "The consultant demonstrated effective objection handling by immediately acknowledging and addressing these concerns with specific solutions: 'I understand where you're coming from. So first of all, it's basically created for students who are working full-time... lectures are held after 6pm... all recorded for you to view the next day' (call_596617263559, segment 37). This response effectively highlighted the program's flexibility while providing specific examples of how working students can manage their studies. The approach successfully transformed potential barriers into manageable solutions by emphasizing recorded lectures and flexible access options.",
+          "priority": "high",
+          "recommended_approach": "When addressing scheduling concerns, begin by validating the student's awareness of their commitments while demonstrating how our program specifically accommodates working professionals. Start with empathetic acknowledgment: 'Thank you for thinking carefully about managing your commitments - that's exactly why our program is designed with flexibility in mind.' Then explore their specific situation: 'Could you tell me more about your typical work schedule?' This allows for tailored examples of how our program features align with their needs. Share specific success strategies: 'Many of our working students download lecture materials before their workday and review them during lunch breaks or after hours. Others prefer to dedicate weekend mornings to coursework.' When discussing lecture times, emphasize both scheduled options and recording availability: 'While lectures are held after 6pm, they're all recorded for next-day viewing, giving you complete flexibility in when you engage with the material.' Include examples of how current students manage various schedules: 'One of our current students, also working full-time, breaks their study into 30-minute segments during quiet periods at work, while another dedicates two evenings per week to focused study.' Always conclude by confirming their comfort with the flexibility options: 'How do these study patterns align with your work schedule?'"
+        },
+        {
+          "id": 2,
+          "title": "Effective Financial Clarity",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596697775132",
+              "segment_id": "58",
+              "timestamp": "4:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462104278",
+                "segment_id": "38",
+                "timestamp": "02:35"
+              }
+            ]
+          },
+          "student_trigger": "During a critical moment in the enrollment conversation (call_596697775132, segment 58), the student expressed financial uncertainty by asking: 'So is it more expensive or does it mean that I just need to pay for it up front but it's the same cost?' This question revealed both engagement with the program and concern about managing the financial commitment, presenting a crucial opportunity to maintain enrollment momentum through clear financial guidance.",
+          "consultant_response": "The consultant demonstrated effective objection handling by providing immediate clarity: 'No, no, it's the same cost. Just the two units that you will need to pay for it up front.' (call_596697775132, segment 59). This direct response addressed both aspects of the student's concern - total cost and payment structure - while maintaining a confident, reassuring tone that helped transform financial concerns into manageable planning steps.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, begin by acknowledging the importance of making informed financial decisions while maintaining focus on value rather than just cost. Start with validation: 'Understanding the financial commitment is crucial - let me provide complete clarity about costs and payment options.' Then provide a structured explanation: 'The total program cost is [amount], typically spread across [number] units. For each teaching period, you'll need to pay for the units you're enrolling in upfront.' Share specific payment options: 'Many students utilize FEE-HELP, which means no upfront payments until you're earning above the threshold. Others prefer our flexible payment plans that align with teaching periods.' Include success strategies from current students: 'One approach many students find helpful is planning payments around teaching periods, with some choosing to complete one unit per term to manage costs effectively.' Always verify understanding: 'Would you like me to explain how the payment structure would work for your preferred study pattern?' The goal is transforming financial discussions from potential barriers into practical planning opportunities that support the enrollment decision."
+        },
+        {
+          "id": 3,
+          "title": "Alternative Entry Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596617297312",
+              "segment_id": "49",
+              "timestamp": "02:38"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596617297312",
+                "segment_id": "58",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "The conversation reached a critical point when the student expressed: 'Okay, I understand now because I was very confused' (call_596617297312, segment 49). This statement revealed both initial confusion about qualification requirements and openness to guidance, presenting an opportunity to demonstrate alternative pathways while maintaining enrollment momentum.",
+          "consultant_response": "The consultant demonstrated exemplary objection handling by sharing specific alternatives: 'I had another student in exactly the same scenario... I've actually advised her to look into something like, or either go to Swinburne directly... or look into something like Open University' (call_596617297312, segment 58). This response effectively normalized the student's situation through relevant examples while providing concrete solutions.",
+          "priority": "high",
+          "recommended_approach": "When handling qualification-related concerns, begin by normalizing the student's situation and demonstrating that their challenges are both common and solvable. Start with acknowledgment: 'I understand your concern about meeting the requirements - many successful students have been in similar situations.' Then outline specific pathways: 'Let me show you the various routes available to meet our entry requirements.' Share relevant success stories: 'Recently, a student in a similar situation completed their missing requirement through Open University while preparing for enrollment with us. They're now excelling in our program.' Present options clearly: 'You could either complete the prerequisite through Swinburne directly, which typically takes [timeframe], or through Open University, which offers more flexible scheduling.' Always map out next steps: 'Based on your situation, let's explore which pathway best fits your timeline and circumstances.' The key is transforming what might initially seem like a setback into a strategic opportunity for preparation and success."
+        },
+        {
+          "id": 4,
+          "title": "Career Progression Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596688977830",
+              "segment_id": "14",
+              "timestamp": "1:20"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596688927069",
+                "segment_id": "74",
+                "timestamp": "10:11"
+              }
+            ]
+          },
+          "student_trigger": "The student revealed significant career frustration: 'I'm an engineer and had experience about 15 years but I couldn't manage any good position' (call_596688977830, segment 14). This statement reflected both career stagnation and a desire for advancement, presenting a crucial opportunity to demonstrate how the program could directly address their career development needs.",
+          "consultant_response": "The consultant provided only a surface-level acknowledgment: 'And you do understand the fundamentals of project management as well' (call_596688977830, segment 30). This response missed the opportunity to deeply engage with the student's career concerns and demonstrate how the program could serve as a catalyst for professional advancement.",
+          "priority": "high",
+          "recommended_approach": "When addressing career stagnation concerns, begin by validating their experience while positioning the program as a strategic career development tool. Start with acknowledgment: 'With 15 years of engineering experience, you bring valuable expertise. Let's explore how this program can help you leverage that experience into senior roles.' Share specific examples: 'Many of our engineering graduates have transitioned into senior project management roles within 12 months of completing the program.' Map program elements to career goals: 'Our advanced project management units specifically address the skills gap between technical expertise and senior leadership roles. For instance, our strategic management unit focuses on translating engineering expertise into organizational leadership.' Include success stories: 'One recent graduate, also from an engineering background, used our program to transition from technical team lead to engineering director, applying the strategic planning skills from our program to lead major initiatives.' Always conclude by connecting program outcomes to their specific career aspirations: 'How do these career advancement opportunities align with your professional goals?'"
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596462467249",
+              "segment_id": "38",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689302678",
+                "segment_id": "139",
+                "timestamp": "2:29"
+              }
+            ]
+          },
+          "student_trigger": "During call 596462467249 (segment 38), the student expressed significant concern about work-study balance: 'I'm still adjusting to full-time so I just want to settle down a bit first before I start studies.' This revealed apprehension about managing professional transitions alongside academic commitments.",
+          "consultant_response": "The consultant missed this key opportunity by moving to administrative details without exploring the student's concerns about balancing work and study commitments. This oversight left the student's anxieties unaddressed and potentially reinforced their hesitation about immediate enrollment.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about balancing work and study, start by validating their thoughtful consideration of commitments: 'I understand you're being careful about managing your transition to full-time work, and that's very prudent.' Then explore their specific situation: 'Could you tell me more about your current role and typical schedule?' Use this understanding to provide targeted solutions: 'Our program is specifically designed to accommodate professionals transitioning into new roles. Let me show you how our flexible structure supports this.' Share specific strategies: 'Many students in similar situations start with one unit to establish a manageable routine. For instance, some dedicate Tuesday and Thursday evenings to study, while others prefer weekend mornings.' Include success stories: 'We recently had a student who started our program three months into a new role. They found that beginning with one unit helped them establish a sustainable study pattern while mastering their work responsibilities.' Always maintain focus on practical solutions while acknowledging the legitimacy of their concerns: 'How would this gradual approach align with your current work transition?'"
+        },
+        {
+          "id": 6,
+          "title": "Solution Verification Enhancement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596343547181",
+              "segment_id": "16",
+              "timestamp": "01:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596462065507",
+                "segment_id": "32",
+                "timestamp": "06:32"
+              }
+            ]
+          },
+          "student_trigger": "The student sought clarity about program flexibility: 'Can it be completed quicker or is that time frame set in stone?' (call_596343547181, segment 16). This question revealed the need for clear understanding of program structure and options, presenting an opportunity to build confidence through comprehensive explanation.",
+          "consultant_response": "While the consultant provided information about program structure (segment 17), they did not verify the student's understanding or satisfaction with the explanation. This omission left potential uncertainty about how the program's flexibility could accommodate their specific circumstances.",
+          "priority": "high",
+          "recommended_approach": "When providing solutions to student concerns, implement a structured verification process that ensures complete understanding and satisfaction. Begin with clear explanation: 'Let me walk you through our flexible program structure and then confirm it meets your needs.' After each major point, check comprehension: 'How does this aspect of the program align with what you were hoping to achieve?' Use specific examples: 'Some students complete two units per term while working full-time, while others take on three units when their schedule permits. Which approach interests you more?' Actively look for verbal and non-verbal cues suggesting confusion or hesitation: 'I notice you might have questions about the assessment schedule - would you like me to elaborate on that?' Address any emerging concerns immediately: 'What specific aspects of the program structure would you like me to clarify further?' End each solution discussion with explicit verification: 'Now that we've discussed the flexible options, how well do they match your needs?' The goal is ensuring students feel fully confident in their understanding of program options and how they align with their circumstances."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 17,
+    "date_range": "02-17_02-21",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 217,
+  "team_average_total_number_of_calls_per_sales_consultant": 239.125,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 46,
+    "team_average_absolute_number": 68.875
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.19815668202765,
+    "team_average_percentage": 29.051225325524136
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 171,
+    "team_average_absolute_number": 170.25
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.80184331797236,
+    "team_average_percentage": 70.94877467447586
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.1470967025612,
+    "team_average": 53.02123725908919
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 171,
+    "team_total_excluded_transcripts": 2724
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 177.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 173.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.86,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 188.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 172.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.63,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 109.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 131.58,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Objection Resolution",
+        "explanation": "Consultants effectively transform potential barriers into opportunities through immediate solution presentation and clear alternative pathways supported by specific examples"
+      },
+      {
+        "headline": "Flexible Program Adaptation",
+        "explanation": "Strong demonstration of program structure accommodating diverse student circumstances through personalized study options and clear workload management strategies"
+      },
+      {
+        "headline": "Proactive Pathway Navigation",
+        "explanation": "Effective transformation of academic requirements into achievable steps through clear alternative pathways and immediate practical solutions"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deeper Concern Investigation",
+        "explanation": "Enhanced exploration needed to uncover underlying objections and hesitations before providing solutions, particularly during critical decision points"
+      },
+      {
+        "headline": "Study Return Confidence",
+        "explanation": "More comprehensive confidence building required for students returning to education, including detailed success strategies and proactive support mechanisms"
+      },
+      {
+        "headline": "Support System Integration",
+        "explanation": "Stronger demonstration needed of comprehensive support services with specific success stories and practical examples of student utilization"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Presentation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689081161",
+              "segment_id": "46",
+              "timestamp": "3:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I don't think so.' (call_596689081161, seg_46) when asked about CASPer test completion, revealing anxiety about meeting program requirements.",
+          "consultant_response": "Consultant effectively explained: 'So, essentially, what we can do is we can put you into a pathway course... it's just essentially you do eight units and then after you pass them on an average of 60% you transfer over to your course' (call_596689081161, seg_54)",
+          "context_impact": "This pivotal moment required clear alternative solutions to prevent a key requirement from becoming an enrollment barrier.",
+          "recommended_approach": "Include specific success stories and transition statistics from pathway program graduates to reinforce confidence."
+        },
+        {
+          "id": 2,
+          "title": "Strong Eligibility Resolution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616559554",
+              "segment_id": "6",
+              "timestamp": "00:46"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want to do a Bachelor of Business, I just want to know what I'll need to do to be able to get that because I didn't finish Year 12' (call_596616559554, seg_6), revealing critical eligibility concerns.",
+          "consultant_response": "Consultant effectively responded: 'Of course, yeah, so essentially there's several ways you can get in. So first of all, you having year 11 done is good because that ticks off your English requirements' (call_596616559554, seg_54)",
+          "context_impact": "This moment required clear demonstration of alternative pathways to maintain student confidence and enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful alternative entry pathways and student success stories."
+        },
+        {
+          "id": 3,
+          "title": "Workload Management Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689413034",
+              "segment_id": "27",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689043204",
+                "segment_id": "154",
+                "timestamp": "11:12"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'And how much time frame do you need to complete that in?' (call_596689413034, seg_27), seeking clarity on program duration and flexibility.",
+          "consultant_response": "Consultant provided clear structure: 'You can do anywhere between one and three units for your first teaching period and then every teaching period after that you can do between one and four. So one unit equates to about eight hours of study per week' (call_596689413034, seg_29)",
+          "context_impact": "Critical opportunity to demonstrate program adaptability and address time management concerns.",
+          "recommended_approach": "Include more specific examples of successful time management strategies from current students."
+        },
+        {
+          "id": 4,
+          "title": "Study Return Confidence Building",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689025074",
+              "segment_id": "43",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'It's been a while since I've studied, not sure if I can get back into it' (call_596689025074, seg_43), revealing significant anxiety about returning to academic study.",
+          "consultant_response": "Consultant provided basic acknowledgment without exploring specific support mechanisms or sharing success stories.",
+          "context_impact": "Key opportunity to build confidence and demonstrate comprehensive support systems for returning students.",
+          "recommended_approach": "Develop comprehensive discussion of success strategies and available support services with specific examples."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Acknowledgment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413412250",
+              "segment_id": "51",
+              "timestamp": "02:19"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I think first year in a new job, I think I probably need to put a bit of focus there first and then start' (call_596413412250, seg_51), revealing concern about balancing new job commitments with study.",
+          "consultant_response": "Consultant acknowledged: 'Yeah, no that's completely understandable. So essentially the way that Swinburne Online works is we do... whenever you feel like you're ready to go forward just say get in contact with us' (call_596413412250, seg_53)",
+          "context_impact": "This moment required validating career priorities while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific exploration of work schedule integration possibilities and support systems available."
+        },
+        {
+          "id": 6,
+          "title": "Support Services Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689025074",
+              "segment_id": "46",
+              "timestamp": "03:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Not sure about the support available' (call_596689025074, seg_46), indicating uncertainty about student assistance resources.",
+          "consultant_response": "Consultant provided basic overview of support services without detailed examples or success stories.",
+          "context_impact": "Critical opportunity to showcase comprehensive support systems and their practical application.",
+          "recommended_approach": "Provide specific examples and success stories of how support services help students overcome challenges."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Alternative Pathway Presentation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689081161",
+              "segment_id": "46",
+              "timestamp": "3:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "When faced with the CASPer test requirement, the student responded with uncertainty: 'I don't think so.' (call_596689081161, seg_46). This brief response revealed significant implications for enrollment, as the CASPer test requirement could potentially become a barrier to the student's educational journey. The moment called for immediate clarification and alternative solutions to prevent this requirement from derailing the enrollment process.",
+          "consultant_response": "The consultant demonstrated exemplary objection handling by immediately offering a viable alternative: 'So, essentially, what we can do is we can put you into a pathway course. The pathway course doesn't take any extra time or anything like this. It's just essentially you do eight units and then after you pass them on an average of 60% you transfer over to your course and those eight units that you completed go with you.' This response effectively transformed a potential barrier into a manageable pathway, providing clear steps and emphasizing the efficiency of the alternative solution.",
+          "priority": "high",
+          "recommended_approach": "When addressing requirement-based objections, begin by acknowledging the concern while immediately pivoting to available solutions. The key insight is that students often feel overwhelmed by unexpected requirements, so transforming these into manageable steps is crucial. Start with validation: 'I understand the CASPer test wasn't part of your initial planning' then transition to solutions: 'Many successful students have used our pathway program as a stepping stone to their degree.' When presenting alternative pathways, be specific about both process and benefits, sharing real examples: 'Just last term, we had several students complete the pathway with distinction and transfer seamlessly into their chosen program.' Address common concerns proactively: 'The pathway credits count directly toward your degree, meaning no extra time or cost - in fact, many students find this route gives them a stronger foundation for success.' Remember to emphasize how this alternative often becomes a preferred choice: 'Students frequently report that the pathway program helped them develop stronger study skills and academic confidence, leading to better performance in their degree.' This approach transforms potential barriers into stepping stones while building confidence through concrete examples and clear benefits."
+        },
+        {
+          "id": 2,
+          "title": "Strong Eligibility Resolution",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596616559554",
+              "segment_id": "6",
+              "timestamp": "00:46"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the initial consultation, the student expressed significant concern about their eligibility: 'I want to do a Bachelor of Business, I just want to know what I'll need to do to be able to get that because I didn't finish Year 12' (call_596616559554, seg_6). This statement revealed both the student's academic aspirations and their anxiety about potential barriers due to incomplete secondary education. The context made this a critical moment for addressing eligibility concerns effectively to maintain the student's confidence and motivation.",
+          "consultant_response": "The consultant demonstrated strong objection handling by immediately addressing the concern with clarity and confidence: 'Of course, yeah, so essentially there's several ways you can get in. So first of all, you having year 11 done is good because that ticks off your English requirements' (call_596616559554, seg_54). This response effectively transformed what the student perceived as a potential barrier into a manageable pathway forward. The consultant's approach not only acknowledged the concern but also provided immediate reassurance through specific details about eligibility requirements, helping to maintain the student's engagement and confidence in pursuing enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing eligibility concerns, particularly regarding incomplete secondary education, begin by acknowledging the student's academic goals and validating their concern about qualifications. Structure the response to transform perceived barriers into actionable pathways, saying something like: 'I understand your concern about Year 12 completion. Let me explain the various ways you can qualify for the program.' Then, systematically outline alternative entry paths, using specific examples such as: 'Your Year 11 completion provides a foundation, and your work experience can actually strengthen your application.' The key is to maintain a balance between acknowledging concerns and presenting solutions, always keeping the focus on the student's ultimate goal of pursuing higher education. When discussing work experience or other qualifications, draw clear connections to program requirements, helping students understand how their existing achievements contribute to their eligibility. This approach not only addresses immediate concerns but also builds confidence in the institution's commitment to supporting diverse educational backgrounds."
+        },
+        {
+          "id": 3,
+          "title": "Workload Management Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689413034",
+              "segment_id": "27",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596689043204",
+                "segment_id": "154",
+                "timestamp": "11:12"
+              }
+            ]
+          },
+          "student_trigger": "Across multiple calls, students expressed concerns about program flexibility and time management. The primary example occurred at 02:15 when a student asked, 'And how much time frame do you need to complete that in?' (call_596689413034, seg_27). This was reinforced by another student's query: 'Could I start off on one unit and then work my way through?' (call_596689043204, seg_154). These moments revealed underlying anxieties about balancing study with existing commitments.",
+          "consultant_response": "Consultants demonstrated effective objection handling by providing clear, specific information about program flexibility. In the primary example, the consultant responded: 'You can do anywhere between one and three units for your first teaching period and then every teaching period after that you can do between one and four. So one unit equates to about eight hours of study per week' (call_596689413034, seg_29). This response effectively addressed concerns by emphasizing student control over their study pace while providing concrete time commitments per unit.",
+          "priority": "high",
+          "recommended_approach": "When addressing flexibility concerns, begin by acknowledging the importance of finding the right balance for each student's unique circumstances. Start with validation: 'That's an excellent question about managing your study load.' Then, provide specific, practical examples: 'Let me show you exactly how our flexible structure works. One unit typically requires about eight hours per week, so if you're working full-time, you might start with one or two units to ensure a manageable balance.' Share success stories of students with similar circumstances who have effectively managed their study loads: 'Many of our current students working in healthcare successfully manage one unit while working full-time by utilizing our flexible study options.' Always emphasize the ability to adjust unit loads between teaching periods, showing how the program adapts to changing life circumstances. Pay particular attention to students expressing time management concerns, using these as opportunities to demonstrate program flexibility and support options."
+        },
+        {
+          "id": 4,
+          "title": "Study Return Confidence Building",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689025074",
+              "segment_id": "43",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596689025074 (segment 43), the student expressed deep-seated concerns about returning to study: 'It's been a while since I've studied, not sure if I can get back into it.' This revealed significant anxiety about academic capabilities after time away from formal education, presenting a critical moment to address confidence barriers and demonstrate comprehensive support systems.",
+          "consultant_response": "The consultant provided basic acknowledgment without exploring the underlying concerns or presenting specific solutions to build confidence. This missed opportunity to showcase the institution's experience in supporting returning students and failed to address the core anxiety about academic readiness.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about returning to study after a break, begin with validating their experience while highlighting how common and manageable this transition is. Start with empathetic acknowledgment: 'Many of our most successful students had similar concerns about returning to study. What I've seen is that life experience actually becomes a significant advantage.' Share specific success stories: 'Recently, we had a student who hadn't studied for 15 years complete their degree with distinction, using our support services to rebuild their academic confidence.' Detail available support: 'Our Student Success team provides one-on-one academic skills coaching, and our peer mentoring program connects you with experienced students who've overcome similar challenges.' Guide them through available resources: 'We provide study skills workshops, writing support services, and one-on-one coaching to ensure you feel confident in your academic abilities.' The key is transforming their concern from a barrier into an opportunity for growth, always emphasizing the robust support system available to facilitate their success."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance Acknowledgment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596413412250",
+              "segment_id": "51",
+              "timestamp": "02:19"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596413412250 (segment 51), the student expressed significant concern about managing their educational aspirations alongside new professional responsibilities: 'I think first year in a new job, I think I probably need to put a bit of focus there first and then start.' This moment revealed both the student's commitment to their career development and their hesitation about potentially compromising their work performance through simultaneous study.",
+          "consultant_response": "The consultant demonstrated strong objection handling by immediately validating the student's priorities while maintaining engagement: 'Yeah, no that's completely understandable. So essentially the way that Swinburne Online works is we do... whenever you feel like you're ready to go forward just say get in contact with us and we'll then yeah we'll look after you' (segment 53). This response effectively validated the student's career focus while keeping the door open for future enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about balancing new job commitments with study, begin by validating the student's career priorities while simultaneously exploring how education can enhance their professional development. Start with clear acknowledgment: 'I appreciate you're prioritizing settling into your new role - that's completely understandable.' Then, use this as an opportunity to explore specific work patterns: 'Could you tell me more about your typical work schedule? This helps us look at how our flexible study options might fit around your commitments.' Share concrete examples of how similar students manage their studies: 'Many of our students in management roles find that downloading materials for offline study during quiet periods works well.' Discuss specific support services available: 'Our learning coaches can help you develop a study schedule that complements your work responsibilities.' The key is to transform their concern from a barrier into a planning opportunity, always maintaining focus on how the program can adapt to their professional life rather than the other way around."
+        },
+        {
+          "id": 6,
+          "title": "Support Services Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596689025074",
+              "segment_id": "46",
+              "timestamp": "03:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596689025074 (segment 46), the student expressed uncertainty about available support: 'Not sure about the support available.' This revealed a critical need to demonstrate the comprehensive nature of student support services and their practical application.",
+          "consultant_response": "The consultant provided a basic overview of support services without delving into specific examples or success stories, missing an opportunity to showcase the full range and effectiveness of available support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "When discussing support services, begin with a comprehensive overview that connects specific services to student needs. Start with personalization: 'Let me explain how our support services can specifically help you succeed.' Then detail each service with practical examples: 'Our learning coaches provide one-on-one support, helping you develop study strategies that fit your schedule. For instance, they can help you create a study plan that works around your work commitments.' Share success stories: 'Recently, a student struggling with time management worked with our success coach to develop a study routine that helped them achieve distinction-level grades while maintaining full-time work.' Emphasize accessibility: 'All support services are available online, with flexible scheduling to accommodate your commitments.' Provide specific examples of support utilization: 'Many students schedule regular check-ins with their learning advisor during lunch breaks or after hours, ensuring they stay on track while managing other commitments.' The key is demonstrating how our support system creates a comprehensive safety net for student success, always relating services back to the student's specific concerns and needs."
+        }
+      ]
+    }
+  }
+}
