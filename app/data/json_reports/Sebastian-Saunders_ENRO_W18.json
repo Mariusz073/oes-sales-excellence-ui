@@ -1,0 +1,383 @@
+{
+    "metadata": {
+        "consultant_name": "Sebastian Saunders",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 52,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 25,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 50,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 0,
+            "red": 90
+        },
+        {
+            "label": "Clear action plan",
+            "green": 23,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 27,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 3,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 0,
+            "red": 90
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Process Leadership",
+                "explanation": "Consultants effectively establish control and maintain enrollment momentum through confident guidance, clear action steps, and proactive accountability measures"
+            },
+            {
+                "headline": "Professional Background Integration",
+                "explanation": "Strong validation of work experience and career aspirations while connecting transferable skills to program success and immediate value realization"
+            },
+            {
+                "headline": "Direct Requirements Communication",
+                "explanation": "Effective articulation of program requirements and next steps through precise, authoritative guidance that maintains clear enrollment pathways"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Value-Based Closing",
+                "explanation": "Enhanced focus needed on connecting program benefits to specific career outcomes and ROI when addressing cost concerns to drive enrollment decisions"
+            },
+            {
+                "headline": "Commitment Securing Excellence",
+                "explanation": "Stronger emphasis required on obtaining explicit enrollment agreements and establishing clear timelines during key decision moments"
+            },
+            {
+                "headline": "Alternative Pathway Guidance",
+                "explanation": "More comprehensive presentation needed of program flexibility and alternative solutions while maintaining enrollment momentum through specific benefits"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Work Experience Recognition",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597069700630",
+                            "segment_id": "23",
+                            "timestamp": "05:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069700630",
+                                "segment_id": "32",
+                                "timestamp": "06:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I would be attending as a mature age student... I have been working full-time in the aviation industry for the last 10 years' (call_597069700630, seg_23), revealing concerns about eligibility.",
+                    "context_impact": "Critical moment requiring validation of professional experience while maintaining enrollment momentum.",
+                    "consultant_response": "Consultant affirmed: 'Yeah great, well we could use that work experience to meet the entry requirements... that sort of experience would certainly have the transferable skills we'd need' (call_597069700630, seg_32), effectively removing perceived barriers.",
+                    "improvement": "Include more specific examples of how transferable skills align with program requirements and secure immediate commitment to next steps."
+                },
+                {
+                    "number": "2",
+                    "title": "Career Goal Alignment",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761246306",
+                            "segment_id": "100",
+                            "timestamp": "19:23"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908382426",
+                                "segment_id": "41",
+                                "timestamp": "02:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'Ultimately I'd like to be on the executive leadership team at South Gippsland Water and I think to be in that position you potentially would... have to have some kind of MBA' (call_596761246306, seg_100), revealing clear career aspirations.",
+                    "context_impact": "Critical moment to validate career strategy while securing immediate MBA program commitment.",
+                    "consultant_response": "Consultant affirmed: 'I would agree with that. I'd say that they'd be looking at some postgraduate study like an MBA for that sort of role' (call_596761246306, seg_105), effectively validating the career strategy.",
+                    "improvement": "Include specific alumni success stories in executive roles and establish clear enrollment timeline with immediate next steps."
+                },
+                {
+                    "number": "3",
+                    "title": "Clear Requirements Communication",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597069654028",
+                            "segment_id": "47",
+                            "timestamp": "04:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069654028",
+                                "segment_id": "48",
+                                "timestamp": "04:30"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student asked: 'How much you said, 7.7 and 7.5, 7.5, right?' (call_597069654028, seg_47), seeking clarification on entry requirements.",
+                    "context_impact": "Moment requiring clear confirmation of requirements to maintain enrollment momentum.",
+                    "consultant_response": "Consultant stated precisely: 'Yes, overall 7, no band below 7 and a 7.5 in speaking and listening' (call_597069654028, seg_48).",
+                    "improvement": "Follow up with written confirmation and specific next steps for meeting requirements while maintaining momentum."
+                },
+                {
+                    "number": "4",
+                    "title": "Missed Cost-Value Discussion",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983001725",
+                            "segment_id": "22",
+                            "timestamp": "03:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983001725",
+                                "segment_id": "36",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student expressed: 'I'm struggling to justify returning back to the MBA given the expense and quality so far' (call_596983001725, seg_22), revealing significant cost-value concerns.",
+                    "context_impact": "Critical moment requiring direct address of financial concerns while emphasizing program value and ROI.",
+                    "consultant_response": "Consultant diverted: 'Yeah, sure thing. So was that recognizing from prior studies or things from other things like work experience that you were looking for' (call_596983001725, seg_36).",
+                    "improvement": "Address cost-value concerns directly while highlighting ROI, career outcomes, and specific examples of graduate success."
+                },
+                {
+                    "number": "5",
+                    "title": "Online Learning Benefits Communication",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915503551",
+                            "segment_id": "76",
+                            "timestamp": "15:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596915503551",
+                                "segment_id": "78",
+                                "timestamp": "15:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I would prefer to do an in-person one. Is it possible for it to get assessed and then have me enroll in the regular in-person?' (call_596915503551, seg_76).",
+                    "context_impact": "Critical moment to demonstrate online learning value while maintaining enrollment momentum.",
+                    "consultant_response": "Consultant replied: 'Certainly is. It's not something I can help with because I work for Swinburne Online' (call_596915503551, seg_78).",
+                    "improvement": "Highlight specific benefits of online learning and demonstrate program value before discussing alternatives."
+                },
+                {
+                    "number": "6",
+                    "title": "Follow-up Communication Confirmation",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914959960",
+                            "segment_id": "192",
+                            "timestamp": "09:51"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914959960",
+                                "segment_id": "196",
+                                "timestamp": "10:00"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student acknowledged: 'Cool, all right. Thank you. I'll look forward to getting that email' (call_596914959960, seg_192), indicating readiness for next steps.",
+                    "context_impact": "Critical moment to secure clear next steps and maintain strong enrollment momentum.",
+                    "consultant_response": "Consultant replied: 'No worries, Corey. I'd appreciate your time and, yeah, hope you have a lovely rest of your day' (call_596914959960, seg_196).",
+                    "improvement": "Include specific timeline for follow-up and secure commitment to immediate action steps."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Work Experience Recognition",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597069700630",
+                            "segment_id": "23",
+                            "timestamp": "05:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069700630",
+                                "segment_id": "32",
+                                "timestamp": "06:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During the call, the student demonstrated both initiative and concern about their eligibility by stating: 'I would be attending as a, I don't love this term, but mature age student. I'm 30. I didn't sit my year 12 exams. I did year 12 for a pass. But I have been working full-time in the aviation industry for the last 10 years. So I'm hoping that that's a relevant kind of work experience.' This comprehensive statement revealed both their self-awareness and desire for validation of their professional experience as a pathway to enrollment.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by confidently affirming the relevance of the student's experience: 'Yeah great, well we could use that work experience to meet the entry requirements. So, we need at least four years of work experience and that sort of experience would certainly have the transferable skills that we'd need to meet the requirements.' This response effectively validated the student's background while maintaining clear process control through specific next steps.",
+                    "recommended_approach": "When addressing mature age students with significant work experience, begin by validating their professional background and immediately connecting it to program eligibility. Start with confident affirmation: 'Your industry experience is actually a strong foundation for this program. Let's document your aviation background to confirm your eligibility right now.' Guide the conversation by highlighting how their experience adds value: 'Many of our most successful students bring valuable industry experience like yours - it enriches class discussions and provides real-world context to the theoretical concepts.' When discussing documentation requirements, maintain momentum by offering immediate assistance: 'I'll help you outline your professional experience right now, focusing on the key aspects that meet our entry requirements. Then we can move directly to securing your place in the program.' The goal is to transform their perceived barrier of lacking traditional academic qualifications into a strength that positions them for success in the program while maintaining clear momentum toward enrollment commitment."
+                },
+                {
+                    "number": "2",
+                    "title": "Career Goal Alignment",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761246306",
+                            "segment_id": "100",
+                            "timestamp": "19:23"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908382426",
+                                "segment_id": "41",
+                                "timestamp": "02:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student articulated clear career aspirations: 'Ultimately I'd like to be on the executive leadership team at South Gippsland Water and I think to be in that position you potentially would... have to have some kind of MBA' (call_596761246306, seg_100). This statement revealed both career ambition and understanding of educational requirements, creating an ideal opportunity to validate their career strategy while securing program commitment.",
+                    "consultant_response": "The consultant demonstrated effective enrollment closing behavior by immediately validating the student's career strategy: 'I would agree with that. I'd say that they'd be looking at some postgraduate study like an MBA for that sort of role' (call_596761246306, seg_105). This direct affirmation strengthened the connection between career aspirations and the MBA program while building confidence in their educational path choice.",
+                    "recommended_approach": "When students articulate clear career goals aligned with our programs, immediately validate their thinking while transitioning to specific enrollment steps. Begin with strong affirmation: 'That's exactly the kind of career progression our MBA program is designed to support. We have several graduates now in executive roles at regional utilities - let me share a specific example. One of our alumni completed the program while working at Melbourne Water and secured an executive position within six months of graduation.' Then transition to concrete next steps: 'Given your clear career direction, let's secure your spot in our next intake. This timeline would align perfectly with your executive advancement goals - shall we complete your enrollment now?' For students expressing specific career goals, always connect program completion timelines to their career progression timeline: 'By starting in our March intake, you'll complete your MBA by [specific date], positioning you ideally for executive opportunities. Let's get your application submitted today to ensure you don't miss this optimal timing.' The key is maintaining momentum from career validation to enrollment action through specific examples and immediate commitments."
+                },
+                {
+                    "number": "3",
+                    "title": "Clear Requirements Communication",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597069654028",
+                            "segment_id": "47",
+                            "timestamp": "04:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069654028",
+                                "segment_id": "48",
+                                "timestamp": "04:30"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student sought clarity on entry requirements by asking: 'How much you said, 7.7 and 7.5, 7.5, right?' (call_597069654028, seg_47). This question represented an important opportunity to provide clear guidance while maintaining enrollment momentum through precise information delivery and next steps.",
+                    "consultant_response": "The consultant provided clear, confident information: 'Yes, overall 7, no band below 7 and a 7.5 in speaking and listening' (call_597069654028, seg_48). This direct communication effectively addressed the student's query while demonstrating authoritative knowledge of program requirements.",
+                    "recommended_approach": "When clarifying program requirements, maintain control through precise, confident communication while immediately connecting requirements to next steps. Start with clear confirmation: 'Let me confirm the exact requirements and show you how to meet them. You need an overall IELTS score of 7, with no band below 7, and 7.5 in speaking and listening.' Then move to action: 'I can help you plan your IELTS preparation timeline right now and identify the best test dates to meet our upcoming intake deadline. Would you like me to show you the preparation resources available?' When discussing scores, maintain momentum by outlining the path forward: 'Based on your current English proficiency, these scores are achievable with focused preparation. Let's schedule a follow-up call next week to review your study plan and ensure you're on track for the July intake.' Always connect requirements to enrollment progression: 'Once we confirm your IELTS date, we can proceed with the rest of your enrollment to secure your place while you prepare for the test. Shall we start that process now?'"
+                },
+                {
+                    "number": "4",
+                    "title": "Missed Cost-Value Discussion",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983001725",
+                            "segment_id": "22",
+                            "timestamp": "03:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983001725",
+                                "segment_id": "36",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student expressed significant concerns about program value, stating: 'I'm struggling to justify returning back to the MBA given the expense and quality so far' (call_596983001725, seg_22). This crucial statement revealed underlying doubts about the investment and program quality that needed immediate, direct addressing to maintain enrollment momentum.",
+                    "consultant_response": "The consultant's response missed the opportunity for value reinforcement, instead deflecting to procedural matters: 'Yeah, sure thing. So was that recognizing from prior studies or things from other things like work experience that you were looking for' (call_596983001725, seg_36). This approach failed to address the core concerns about cost and value, potentially allowing these doubts to persist and hinder the enrollment decision.",
+                    "recommended_approach": "When students express concerns about program cost and value, immediately acknowledge their perspective while pivoting to concrete benefits and return on investment. Begin with validating their concern: 'I understand you're looking carefully at the investment value - that's exactly what successful professionals should do.' Then transition to specific value propositions: 'Let me share how our MBA program directly impacts career progression. Our recent graduates have seen an average salary increase of 40% within two years of completion.' Use specific examples: 'One of our recent graduates used their final project to solve a real challenge in their organization, leading to a promotion before they even completed the program.' Address the quality concern directly: 'Our program is designed for working professionals, with industry-active faculty and real-world projects that immediately impact your career. The investment typically pays for itself through career advancement within the first few years after graduation.' Always maintain momentum toward enrollment while demonstrating value: 'Based on your current role, I can show you exactly how this program will accelerate your career trajectory. Shall we look at securing your place in the upcoming intake to ensure you don't delay your career advancement?'"
+                },
+                {
+                    "number": "5",
+                    "title": "Online Learning Benefits Communication",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915503551",
+                            "segment_id": "76",
+                            "timestamp": "15:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596915503551",
+                                "segment_id": "78",
+                                "timestamp": "15:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student expressed preference for in-person learning: 'I would prefer to do an in-person one. Is it possible for it to get assessed and then have me enroll in the regular in-person?' (call_596915503551, seg_76). This crucial moment required strong advocacy for online learning benefits while maintaining enrollment momentum.",
+                    "consultant_response": "The consultant provided a minimal and deflective response: 'Certainly is. It's not something I can help with because I work for Swinburne Online' (call_596915503551, seg_78). This missed the opportunity to highlight online learning advantages and explore the student's underlying concerns about the learning format.",
+                    "recommended_approach": "When students express preference for in-person learning, acknowledge their perspective while highlighting the unique benefits of online study. Begin with understanding: 'I appreciate your interest in in-person learning - many of our most successful students initially had similar preferences. Let me show you how our online format often provides advantages that in-person study can't match.' Share specific benefits: 'Our online platform allows you to access lectures and materials 24/7, meaning you can study when you're most focused and productive. Many students find this flexibility actually enhances their learning compared to fixed classroom schedules.' Address common concerns proactively: 'You'll have regular interaction with peers through discussion forums and group projects, plus dedicated support from our online learning coaches. Our students often report feeling more connected than they expected.' Always maintain momentum: 'Would you like to see a demonstration of our online platform? I can show you exactly how it supports your learning style and helps you achieve your study goals more efficiently.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Follow-up Communication Confirmation",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914959960",
+                            "segment_id": "192",
+                            "timestamp": "09:51"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914959960",
+                                "segment_id": "196",
+                                "timestamp": "10:00"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student indicated readiness for next steps by saying: 'Cool, all right. Thank you. I'll look forward to getting that email' (call_596914959960, seg_192). This response showed engagement with the process and anticipation of further communication, presenting a crucial opportunity to secure commitment and maintain enrollment momentum.",
+                    "consultant_response": "The consultant concluded with a polite but general response: 'No worries, Corey. I'd appreciate your time and, yeah, hope you have a lovely rest of your day' (call_596914959960, seg_196). This missed the opportunity to reinforce specific next steps and secure a stronger commitment to action.",
+                    "recommended_approach": "When concluding enrollment conversations, immediately transform general interest into specific, time-bound commitments. Begin with clear next steps: 'I'll send that email within the next hour, Corey. The email will contain three key documents we discussed - could you confirm you'll be able to review them today?' Set specific follow-up plans: 'I'll call you tomorrow at 2 PM to ensure you've received everything and help you complete the next steps. Does that time work for you?' Create urgency through deadlines: 'To secure your place in the July intake, we should aim to submit your application by next Friday. Shall we schedule a time to complete that together?' Always maintain control of the follow-up process: 'Let's confirm our next steps: you'll review the documents tonight, and I'll call you tomorrow at 2 PM to proceed with your application. How does that plan sound?' The goal is to end every conversation with clear, agreed-upon actions and specific timeframes, ensuring the enrollment process maintains strong forward momentum."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "metadata": {
+        "consultant_name": "Stephen Taylor",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 62,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 31,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 31,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 0,
+            "red": 85
+        },
+        {
+            "label": "Clear action plan",
+            "green": 41,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 15,
+            "red": 4
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 22,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 0,
+            "red": 85
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Process Control",
+                "explanation": "Consultants effectively maintain enrollment momentum through clear guidance, timeline management, and confident leadership of next steps while providing proactive support"
+            },
+            {
+                "headline": "Direct Solution Implementation",
+                "explanation": "Strong demonstration of converting potential barriers into immediate action steps through practical solutions, extended support options, and specific commitment pathways"
+            },
+            {
+                "headline": "Value Recognition Integration",
+                "explanation": "Effective communication of program benefits and credit recognition opportunities while maintaining momentum through tangible examples and immediate enrollment steps"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Commitment Securing",
+                "explanation": "Enhanced techniques needed for obtaining explicit verbal agreements and specific enrollment timelines when students express interest or face intake transitions"
+            },
+            {
+                "headline": "Documentation Process Management",
+                "explanation": "Stronger guidance required for managing document submission timelines with specific check-in points, progress tracking, and proactive support mechanisms"
+            },
+            {
+                "headline": "Personal Connection Development",
+                "explanation": "More comprehensive approach needed in relating program benefits to students' specific circumstances and career goals while maintaining clear enrollment pathways"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Work-Life Balance Support",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761370069",
+                            "segment_id": "75",
+                            "timestamp": "6:20"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914828498",
+                                "segment_id": "132",
+                                "timestamp": "18:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'Not real sure to be honest so I work full-time and have four kids and obviously even just undertaking that undergrad certificate was pretty full-on at times' (call_596761370069, seg_75), revealing critical need for work-life balance guidance.",
+                    "context_impact": "This moment required demonstrating how the program could practically accommodate a busy working parent's schedule to maintain enrollment momentum.",
+                    "consultant_response": "Consultant responded: 'Sure well just remember the minimum study load if you just want to start on the minimum it's about 10 hours per week. And the course is designed so you can really schedule it around what you already have going on' (call_596761370069, seg_82).",
+                    "improvement": "Include specific examples of how current working parents successfully manage study schedules and secure immediate commitment for next intake."
+                },
+                {
+                    "number": "2",
+                    "title": "Strategic Documentation Management",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915037773",
+                            "segment_id": "32",
+                            "timestamp": "3:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914976196",
+                                "segment_id": "27",
+                                "timestamp": "1:28"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'Okay, I'll do it now' (call_596915037773, seg_32), showing readiness to submit documentation.",
+                    "context_impact": "Critical opportunity to maintain enrollment momentum through efficient document processing and clear next steps.",
+                    "consultant_response": "Consultant provided clear next steps: 'Right perfect so send that through to me I'll just get the okay and then we'll book in your enrollment call' (call_596915037773, seg_34).",
+                    "improvement": "Establish specific document review timeline and immediately schedule enrollment call with date and time."
+                },
+                {
+                    "number": "3",
+                    "title": "Effective Credit Recognition",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147865926",
+                            "segment_id": "12",
+                            "timestamp": "00:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914641237",
+                                "segment_id": "87",
+                                "timestamp": "04:34"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I have a diploma of community services and I have about 10 years of experience in this field... wondering if Swinburne can offer any credit' (call_597147865926, seg_9), seeking validation of experience value.",
+                    "context_impact": "Critical moment to demonstrate program value through credit recognition while maintaining enrollment momentum.",
+                    "consultant_response": "Consultant provided clear confirmation: 'Yeah, so you should get 8 elective units exempted from the Bachelor of Social Science' (call_597147865926, seg_12).",
+                    "improvement": "Follow credit confirmation with immediate enrollment steps and secure specific intake commitment."
+                },
+                {
+                    "number": "4",
+                    "title": "Alternative Intake Management",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761245087",
+                            "segment_id": "20",
+                            "timestamp": "01:45"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student expressed: 'I'm hoping I can make it for this intake. My last day of school is tomorrow, but I'm not sure if my teacher is going to have my certificate ready' (call_596761245087, seg_20).",
+                    "context_impact": "Critical moment to convert uncertainty about current intake into firm commitment for next intake.",
+                    "consultant_response": "Consultant stated: 'I'm sorry to tell you but the places are actually full and we don't have any spots available for March' (call_596761245087, seg_28).",
+                    "improvement": "Take immediate control by securing commitment for next intake and establishing clear enrollment timeline."
+                },
+                {
+                    "number": "5",
+                    "title": "Personal Connection Development",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982741197",
+                            "segment_id": "29",
+                            "timestamp": "03:05"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147963695",
+                                "segment_id": "132",
+                                "timestamp": "18:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student shared: 'Honestly, I'm just looking for a bit of a career change and I suppose I'm just looking at yeah how I would go get like my best options' (call_596982741197, seg_29).",
+                    "context_impact": "Perfect opportunity to connect career aspirations with immediate enrollment actions.",
+                    "consultant_response": "Consultant replied with process focus: 'Sure well if you want to find out you've just got to send me your documents' (call_596982741197, seg_41).",
+                    "improvement": "Link career goals directly to program outcomes and guide toward immediate enrollment steps with specific timeline."
+                },
+                {
+                    "number": "6",
+                    "title": "Documentation Process Control",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761245087",
+                            "segment_id": "22",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student shared: 'I need to get my certificate ready but unsure about the timing' (call_596761245087, seg_22), indicating documentation uncertainty.",
+                    "context_impact": "Crucial moment to demonstrate process control through clear documentation guidance.",
+                    "consultant_response": "Consultant provided basic information without establishing clear timeline or next steps.",
+                    "improvement": "Take control by creating specific document submission plan with regular check-in points and progress tracking."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Work-Life Balance Support",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761370069",
+                            "segment_id": "75",
+                            "timestamp": "6:20"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914828498",
+                                "segment_id": "132",
+                                "timestamp": "18:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During key conversations, multiple students expressed significant work-life balance concerns. The primary example came when a student stated: 'Not real sure to be honest so I work full-time and have four kids and obviously even just undertaking that undergrad certificate was pretty full-on at times' (call_596761370069, seg_75). Similarly, another student shared: 'I am a mum of two, so online would be amazing' (call_596914828498, seg_132). These revelations presented crucial opportunities to demonstrate program flexibility while maintaining enrollment momentum.",
+                    "consultant_response": "The consultants demonstrated varying levels of effectiveness in addressing these concerns. In the primary example, the consultant provided clear, practical guidance: 'Sure well just remember the minimum study load if you just want to start on the minimum it's about 10 hours per week. And the course is designed so you can really schedule it around what you already have going on' (call_596761370069, seg_82). This response effectively showed how the program could accommodate busy schedules while maintaining forward momentum in the enrollment process.",
+                    "recommended_approach": "When addressing work-life balance concerns, begin by validating the student's situation while positioning education as an achievable addition to their life. Start with acknowledgment: 'Managing multiple commitments takes skill, and I can help you see exactly how our program fits into your busy schedule.' Then explore their specific situation: 'Let's look at your typical week and identify potential study windows. Many of our working parents find success studying early mornings or evenings.' Provide concrete examples: 'For instance, one of our current students, also a parent of four, completes readings during her lunch break and participates in online discussions after the kids' bedtime.' Always maintain momentum toward enrollment: 'Given your schedule, would you like to secure your place in our next intake? We can start with the minimum study load of 10 hours per week and adjust as you become more comfortable.' The key is transforming perceived barriers into manageable planning opportunities while guiding toward commitment with specific next steps and enrollment timeline."
+                },
+                {
+                    "number": "2",
+                    "title": "Strategic Documentation Management",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915037773",
+                            "segment_id": "32",
+                            "timestamp": "3:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914976196",
+                                "segment_id": "27",
+                                "timestamp": "1:28"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Multiple interactions revealed critical moments in document management. In the primary example, the student showed immediate readiness to act: 'Okay, I'll do it now' (call_596915037773, seg_32). This demonstrated crucial momentum requiring clear guidance to maintain progress. Supporting calls showed similar documentation concerns requiring strategic handling.",
+                    "consultant_response": "The consultant effectively maintained momentum while providing clear direction: 'Right perfect so send that through to me I'll just get the okay and then we'll book in your enrollment call' (call_596915037773, seg_34). This response demonstrated strong enrollment closing behavior by maintaining control of the process while establishing clear next steps.",
+                    "recommended_approach": "When managing documentation requirements, immediately establish clear timelines and take control: 'Let's create a clear timeline for your document submission that ensures you meet all deadlines. I'll be your direct point of contact throughout this process.' Set concrete check-points: 'I'll call you next Wednesday at 2 PM to check your transcript progress, and I'll send you a detailed checklist right after this call.' Break down the process into manageable steps: 'First, let's submit your transcript request this week. Then next Wednesday, we'll review it together to ensure it meets all requirements. Finally, we'll submit your completed application by Friday, December 15th.' Provide specific support: 'Many students find it helpful to have a document review call before final submission. I can schedule that with you now for December 12th at 10 AM.' Always maintain proactive communication: 'I'll send you reminder emails 48 hours before each deadline, and you can reach me directly if you have any questions.' Conclude with immediate action: 'Let's submit that transcript request right now - it typically takes just 10 minutes. Shall we do that?'"
+                },
+                {
+                    "number": "3",
+                    "title": "Effective Credit Recognition",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147865926",
+                            "segment_id": "12",
+                            "timestamp": "00:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914641237",
+                                "segment_id": "87",
+                                "timestamp": "04:34"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During call 597147865926 at segment 12, the student expressed significant interest in leveraging their extensive experience: 'I have a diploma of community services and I have about 10 years of experience in this field and I have been case managers, I have been interpreters, I have been coordinators... wondering if Swinburne can offer any credit.' This represented a crucial opportunity to validate their experience while maintaining enrollment momentum.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by providing an immediate, clear response: 'Yeah, so you should get 8 elective units exempted from the Bachelor of Social Science' (call_597147865926, seg_12). This direct communication effectively validated the student's experience while offering tangible benefits through credit recognition. The approach successfully transformed what could have been a barrier into a compelling reason to proceed with enrollment.",
+                    "recommended_approach": "When addressing credit recognition inquiries, begin by immediately validating the student's experience while providing specific, quantifiable benefits. Start with clear confirmation: 'Your extensive industry experience is valuable, and I can confirm you'll receive 8 units of credit.' Follow up by connecting this benefit to enrollment timing: 'With these 8 units of credit, you could complete your degree faster. Let's secure your spot in the next intake to take advantage of this.' Use specific examples of successful students: 'Many graduates with similar community service backgrounds completed their degree in just two years using their credit recognition.' Address any hesitation proactively: 'Let's lock in your credits now by starting your application. I can guide you through the process while we're on the call.' Always maintain momentum through clear next steps: 'Would you prefer the July or September intake? I'll help you complete the enrollment form now to secure your place and ensure your credits are applied.'"
+                },
+                {
+                    "number": "4",
+                    "title": "Alternative Intake Management",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761245087",
+                            "segment_id": "20",
+                            "timestamp": "01:45"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "At a crucial moment in call 596761245087 (segment 20), the student expressed both intention and uncertainty about the current intake: 'I'm hoping I can make it for this intake. My last day of school is tomorrow, but I'm not sure if my teacher is going to have my certificate ready.' This presented a critical opportunity to maintain enrollment momentum while transitioning to an alternative intake.",
+                    "consultant_response": "The consultant's response focused on delivering negative information without maintaining momentum: 'I'm sorry to tell you but the places are actually full and we don't have any spots available for March. So yeah so you can still apply for the July intake' (segment 28). This approach missed the opportunity to immediately secure commitment for the July intake.",
+                    "recommended_approach": "When managing full intake transitions, immediately pivot from delivering the news about the current intake to securing commitment for the next available date. Begin with empathy while maintaining control: 'I understand your eagerness to start, and I want to ensure you secure your place in the July intake. The good news is this gives us plenty of time to prepare your documentation properly.' Then take immediate action: 'Let's get your application started right now while we're on the call. This guarantees your spot for July and allows us to create a manageable timeline for your documents.' Use success stories: 'Many students find the additional preparation time valuable - one recent graduate used this time to organize their study schedule and hit the ground running.' Always secure specific commitments: 'I'll help you complete the initial application now, which takes about 10 minutes. Then we'll schedule a call tomorrow at 2 PM to review your document timeline. Does that work for you?' The key is transforming timing constraints into strategic advantages while securing immediate commitment to action."
+                },
+                {
+                    "number": "5",
+                    "title": "Personal Connection Development",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982741197",
+                            "segment_id": "29",
+                            "timestamp": "03:05"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147963695",
+                                "segment_id": "132",
+                                "timestamp": "18:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Multiple students revealed personal motivations requiring deeper connection. The primary example came when a student shared: 'Honestly, I'm just looking for a bit of a career change and I suppose I'm just looking at yeah how I would go get like my best options' (call_596982741197, seg_29). Similarly, another student revealed: 'I am a mum of two, so online would be amazing' (call_597147963695, seg_132).",
+                    "consultant_response": "Consultants often missed these opportunities for personal connection, focusing instead on procedural aspects. In the primary example, the consultant replied with process-focused guidance: 'Sure well if you want to find out you've just got to send me your documents' (call_596982741197, seg_41), failing to acknowledge or build upon the student's career change motivation.",
+                    "recommended_approach": "When students share personal motivations or circumstances, immediately acknowledge and build upon this information to create stronger connection to the program. Begin with validation: 'Making a career change is an exciting step, and I want to show you exactly how our program can support your transition.' Then explore their specific situation: 'Could you tell me more about what's driving your interest in teaching? This will help me show you how our program aligns with your goals.' Use this information to provide targeted guidance: 'Based on your career goals, let me show you specific aspects of our program that will help you make this transition successfully.' Always maintain momentum toward enrollment: 'Since you're ready to make this career change, would you like to secure your place in our next intake? We can begin your journey today.' The key is transforming personal sharing into meaningful connection while guiding toward clear enrollment actions with specific timelines and commitments."
+                },
+                {
+                    "number": "6",
+                    "title": "Documentation Process Control",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761245087",
+                            "segment_id": "22",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "During call 596761245087 at segment 22, the student expressed uncertainty about documentation timing: 'I need to get my certificate ready but unsure about the timing.' This revealed a critical need for structured guidance and timeline management to maintain enrollment momentum.",
+                    "consultant_response": "The consultant provided basic information about document requirements without establishing clear control of the process or concrete next steps. This passive approach risked leaving the student without clear direction and potentially delaying the enrollment process.",
+                    "recommended_approach": "When addressing documentation requirements, immediately take control by establishing a clear timeline and accountability structure. Begin with confidence: 'I'll help you create a structured plan for your document submission right now.' Provide specific deadlines: 'Let's aim to have your certificate by next Tuesday. I'll call you Monday at 2 PM to check progress and help address any challenges.' Use examples of successful approaches: 'Many students find it helpful to break this into manageable steps. For instance, we can request your certificate today, then focus on preparing your other documents while we wait.' Add specific support: 'If you encounter any delays, call me directly at this number. I'm here to help you maintain progress.' Always maintain control through regular check-ins: 'I'll guide you through each step, with brief progress calls every two days to ensure everything stays on track.' The key is transforming documentation requirements from potential barriers into manageable steps while maintaining clear progression toward enrollment."
+                }
+            ]
+        }
+    }
+}

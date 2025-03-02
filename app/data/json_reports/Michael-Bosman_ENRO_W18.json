@@ -1,0 +1,335 @@
+{
+    "metadata": {
+        "consultant_name": "Michael Bosman",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 70,
+        "team": 67
+    },
+    "percentage_of_attempted_close": {
+        "individual": 21,
+        "team": 20
+    },
+    "percentage_of_positive_response": {
+        "individual": 40,
+        "team": 47
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 5,
+            "red": 91
+        },
+        {
+            "label": "Clear action plan",
+            "green": 27,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 19,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 36,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 5,
+            "red": 91
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Process Control Leadership",
+                "explanation": "Consultants effectively demonstrate ownership of enrollment steps through clear guidance, proactive direction, and consistent leadership in managing application progression"
+            },
+            {
+                "headline": "Direct Communication Style",
+                "explanation": "Strong examples of clear, confident language that transforms student uncertainty into concrete action steps while maintaining authoritative conversation control"
+            },
+            {
+                "headline": "Strategic Pathway Planning",
+                "explanation": "Consultants successfully create personalized educational pathways while maintaining enrollment momentum through confident, solution-focused guidance"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Commitment Securing",
+                "explanation": "Enhanced focus needed on obtaining explicit verbal agreements and converting interest into immediate enrollment actions with specific timelines"
+            },
+            {
+                "headline": "Financial Guidance",
+                "explanation": "Stronger emphasis required on proactively addressing financial concerns with comprehensive support options while maintaining enrollment momentum"
+            },
+            {
+                "headline": "Work-Study Integration",
+                "explanation": "More confident articulation needed of how professional experience enhances study success while securing immediate enrollment commitment"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Future Intake Redirection",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982714176",
+                            "segment_id": "123",
+                            "timestamp": "12:23"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student expressed: 'Oh, I've missed out on this starting one' (call_596982714176, seg_123), showing disappointment about missing current intake opportunity.",
+                    "context_impact": "Critical moment to maintain enrollment momentum by redirecting focus to next available intake.",
+                    "consultant_response": "Consultant immediately offered solution: 'May 5th is our next one... Let's get you enrolled for the May 5th intake - should we go ahead and lock that in?' (call_596982714176, seg_124).",
+                    "improvement": "Include specific preparation activities student can begin before next intake starts to maintain engagement."
+                },
+                {
+                    "number": "2",
+                    "title": "Clear Program Pathway Confirmation",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148469613",
+                            "segment_id": "60",
+                            "timestamp": "03:42"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596761209022",
+                                "segment_id": "40",
+                                "timestamp": "2:22"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student asked: 'Can go straight to the graduate diploma of psychology, is that correct?' (call_597148469613, seg_60), seeking pathway validation.",
+                    "context_impact": "Essential moment to confirm pathway understanding while maintaining enrollment momentum.",
+                    "consultant_response": "Consultant provided clear direction: 'Yes, so the graduate diploma in psychology is the first step that you would do to get in' (call_597148469613, seg_62).",
+                    "improvement": "Include specific enrollment dates and immediate next steps after confirming pathway understanding."
+                },
+                {
+                    "number": "3",
+                    "title": "Financial Support Navigation",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147748656",
+                            "segment_id": "50",
+                            "timestamp": "03:00"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student stated: 'I found it a little expensive for me at this stage, to be very frank with you, since I'm just settling down with the family' (call_597147748656, seg_50).",
+                    "context_impact": "Critical moment to address financial concerns while maintaining enrollment momentum.",
+                    "consultant_response": "Consultant missed opportunity to comprehensively present FEE-HELP options and payment flexibility solutions.",
+                    "improvement": "Immediately present FEE-HELP benefits and payment options with clear eligibility criteria and application guidance."
+                },
+                {
+                    "number": "4",
+                    "title": "Work-Study Balance",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148469613",
+                            "segment_id": "22",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student expressed: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours' (call_597148469613, seg_22).",
+                    "context_impact": "Essential moment to demonstrate how professional experience enhances study success.",
+                    "consultant_response": "Consultant missed opportunity to leverage student's management experience as an asset for successful study completion.",
+                    "improvement": "Present specific examples of how management skills transfer to successful study strategies."
+                },
+                {
+                    "number": "5",
+                    "title": "Multi-Course Planning",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915001073",
+                            "segment_id": "32",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596846219077",
+                                "segment_id": "133",
+                                "timestamp": "42:33"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I actually want to complete two, two of the courses, hopefully within the year, year and a half' (call_596915001073, seg_32).",
+                    "context_impact": "Critical opportunity to secure long-term enrollment commitment through comprehensive planning.",
+                    "consultant_response": "Consultants effectively outlined course pathways and progression options while maintaining enrollment focus.",
+                    "improvement": "Secure immediate commitment for first course while creating specific timeline for second course enrollment."
+                },
+                {
+                    "number": "6",
+                    "title": "International Student Pathway",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982834877",
+                            "segment_id": "86",
+                            "timestamp": "6:12"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student expressed uncertainty: 'So, let me just think about it' (call_596982834877, seg_78), regarding international enrollment options.",
+                    "context_impact": "Essential moment to provide clear international enrollment guidance while maintaining momentum.",
+                    "consultant_response": "Consultant provided clear solution: 'We should be able to get you enrolled as an international student now, even though you aren't currently in Mauritius' (call_596982834877, seg_86).",
+                    "improvement": "Secure immediate commitment by proposing specific enrollment timeline and documentation steps."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Future Intake Redirection",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982714176",
+                            "segment_id": "123",
+                            "timestamp": "12:23"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "The student expressed disappointment about missing the current intake: 'Oh, I've missed out on this starting one' (call_596982714176, seg_123). This moment of potential disengagement presented a critical opportunity to maintain momentum by redirecting focus to the next available intake. The student's emotional response indicated genuine interest that needed immediate redirection to prevent loss of momentum.",
+                    "consultant_response": "The consultant demonstrated excellent enrollment closing behavior by immediately offering a solution: 'May 5th is our next one... Let's get you enrolled for the May 5th intake - should we go ahead and lock that in?' (call_596982714176, seg_124). This response effectively transformed potential disappointment into positive action by providing a clear alternative with immediate enrollment opportunity. The consultant maintained control of the process while keeping the focus on securing commitment.",
+                    "recommended_approach": "When handling missed intake situations, immediately redirect focus to the next available opportunity while maintaining enrollment momentum. Start with acknowledgment while pivoting to solution: 'While the current intake is closing, the May 5th intake actually offers some great advantages for preparation.' Present specific benefits: 'This timing allows you to complete all documentation without rushing and potentially secure early-bird benefits.' Take control of the process: 'Let's secure your place for May now, and I'll outline some preparation steps you can start right away.' For students showing hesitation, address concerns proactively: 'Many students find this gap valuable for organizing their study schedule and familiarizing themselves with our online platform.' Maintain momentum by setting immediate action steps: 'Should we process your May enrollment now while I explain the preparation timeline?' The key is transforming missed opportunities into immediate action while providing clear direction toward enrollment completion."
+                },
+                {
+                    "number": "2",
+                    "title": "Clear Program Pathway Confirmation",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148469613",
+                            "segment_id": "60",
+                            "timestamp": "03:42"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596761209022",
+                                "segment_id": "40",
+                                "timestamp": "2:22"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student sought explicit confirmation of their program pathway: 'Can go straight to the graduate diploma of psychology, is that correct?' (call_597148469613, seg_60). This question revealed both engagement and a need for clarity about program pathways. Supporting calls showed similar patterns of students seeking pathway validation, indicating a consistent need for clear guidance during the enrollment process.",
+                    "consultant_response": "The consultant provided clear direction: 'Yes, so the graduate diploma in psychology is the first step that you would do to get in' (call_597148469613, seg_62). This response demonstrated strong enrollment closing behavior by confirming the pathway while maintaining control of the conversation. The consultant effectively validated the student's understanding while keeping focus on the enrollment process.",
+                    "recommended_approach": "When confirming program pathways, immediately validate understanding while transitioning to concrete enrollment steps. Begin with clear confirmation: 'Yes, you can enter directly into the graduate diploma - let me show you exactly how this aligns with your goals.' Then take control of the process: 'Since you meet all the requirements, shall we secure your place in the next intake starting [specific date]?' For students seeking detailed understanding, provide clear progression paths: 'The graduate diploma is your foundation, leading naturally to advanced specialization if you choose to continue.' Address any hesitation proactively: 'Many successful students have followed this exact pathway - let me share how they've maximized their experience.' Always maintain momentum toward enrollment: 'While we confirm your pathway, I can help you begin the enrollment process right now.' The key is combining clear confirmation with immediate action steps, never leaving the conversation without a concrete plan forward."
+                },
+                {
+                    "number": "3",
+                    "title": "Financial Support Navigation",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147748656",
+                            "segment_id": "50",
+                            "timestamp": "03:00"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "The student directly expressed financial concerns: 'I found it a little expensive for me at this stage, to be very frank with you, since I'm just settling down with the family' (call_597147748656, seg_50). This candid disclosure about financial constraints while settling with family presented a critical moment to address affordability and demonstrate available support options.",
+                    "consultant_response": "The consultant failed to adequately address these financial concerns or present comprehensive information about available financial assistance options. The lack of specific guidance about FEE-HELP or other payment flexibility options left the student's financial concerns unresolved, potentially creating a significant barrier to enrollment.",
+                    "recommended_approach": "When students express financial concerns, immediately acknowledge their situation while transitioning to solution-focused discussion. Begin with empathy: 'I appreciate your transparency about the financial considerations, especially while settling with your family.' Then promptly introduce available support: 'Let me show you how FEE-HELP could make this manageable for you right now.' Present specific details: 'FEE-HELP allows you to defer payment until you're earning above the threshold, currently at $47,014.' Share concrete examples: 'Many of our students with family commitments successfully use FEE-HELP to begin their studies immediately.' Always maintain momentum by connecting financial solutions to enrollment: 'Since you're eligible for FEE-HELP, we could process your enrollment today while I guide you through the assistance application.' For students requiring additional flexibility, outline payment plans: 'We also offer per-unit payment options that can be combined with FEE-HELP to create a manageable financial strategy.' The key is transforming financial concerns from barriers into manageable aspects of the enrollment process."
+                },
+                {
+                    "number": "4",
+                    "title": "Work-Study Balance",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148469613",
+                            "segment_id": "22",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "The student expressed concern about managing professional commitments: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours' (call_597148469613, seg_22). This statement revealed both strong interest in the program and apprehension about balancing work responsibilities with academic commitments.",
+                    "consultant_response": "The consultant missed a significant opportunity to leverage the student's management experience as an asset in their academic journey. Instead of providing concrete examples of how working professionals successfully manage the program or highlighting how management skills transfer to study success, the response left the student's concerns inadequately addressed.",
+                    "recommended_approach": "When addressing work-study balance concerns from management professionals, immediately reframe their experience as an advantage for academic success. Start with validation: 'Your management experience actually provides an excellent foundation for success in our program - you already have the core skills of prioritization and time management.' Share specific examples: 'Many of our current MBA students are senior executives who apply their work experience directly to their studies. For instance, one manager uses their lunch breaks for reading and team meetings for case study analysis.' Demonstrate practical flexibility: 'Our program is specifically designed for working professionals, with asynchronous learning options that fit around your schedule.' Use direct examples: 'Recent graduates have shared how they used project management skills to create study schedules that worked around their executive commitments.' Always maintain enrollment momentum: 'Given your management background, you're already equipped with the skills needed to excel - shall we secure your place in our next intake?' The key is transforming perceived barriers into advantages while guiding toward immediate enrollment action."
+                },
+                {
+                    "number": "5",
+                    "title": "Multi-Course Planning",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915001073",
+                            "segment_id": "32",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596846219077",
+                                "segment_id": "133",
+                                "timestamp": "42:33"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student expressed interest in comprehensive course planning: 'I actually want to complete two, two of the courses, hopefully within the year, year and a half' (call_596915001073, seg_32). This statement demonstrated clear intent for extended study commitment and required detailed guidance on course progression and timing to maintain enrollment momentum.",
+                    "consultant_response": "The consultants effectively outlined course pathways and progression options, helping students understand how different courses could fit together into a comprehensive study plan. They successfully explained course relationships and timing considerations, though sometimes missed opportunities to secure immediate commitments for specific start dates.",
+                    "recommended_approach": "When students express interest in multiple courses, immediately validate their ambition while providing structured planning guidance. Begin with appreciation: 'Your commitment to comprehensive education is excellent - let me help you plan this journey effectively.' Present specific pathways: 'We can start with the graduate certificate in March, then transition seamlessly to the master's in October.' Use timing-focused language: 'To achieve your goal of completing both within 18 months, we should secure your place in the March intake today.' Share success stories: 'Many of our students follow this exact pathway - one recent graduate completed both qualifications while working full-time by following our recommended schedule.' Address potential concerns proactively: 'Our program structure allows for smooth progression between courses, and I'll help you plan the optimal timing for each transition.' Always maintain momentum by securing immediate commitment: 'Let's lock in your March start date now while we plan the details of your progression.' The key is transforming long-term educational goals into immediate enrollment actions."
+                },
+                {
+                    "number": "6",
+                    "title": "International Student Pathway",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982834877",
+                            "segment_id": "86",
+                            "timestamp": "6:12"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "The student stated: 'So, let me just think about it' (segment 78) after discussing international enrollment options. This moment of hesitation, combined with their earlier questions about studying from abroad, represented a critical juncture where clear guidance and reassurance were essential for maintaining enrollment momentum.",
+                    "consultant_response": "The consultant effectively addressed the situation by stating: 'We should be able to get you enrolled as an international student now, even though you aren't currently in Mauritius. If you are planning on moving back, we can put you through as an international student if you've got your Mauritius passport' (segment 86). This response demonstrated strong enrollment closing behavior by providing clear, actionable information and maintaining control of the process.",
+                    "recommended_approach": "When addressing international student concerns, immediately transform perceived barriers into clear pathways forward. Begin by acknowledging their situation while presenting immediate solutions: 'I understand you're currently overseas, but let me show you how we can get your enrollment started right now.' Then, take control of the process: 'Since you have your Mauritius passport, we can proceed with your international student enrollment today. Let me guide you through the exact steps.' Share specific examples: 'Many of our international students begin their studies while transitioning between countries - let me show you how our online platform supports this flexibility.' Address documentation proactively: 'We'll start by processing your enrollment with your passport details, then I'll help you prepare any additional documentation needed for your student status.' Always maintain momentum toward enrollment: 'Shall we begin your application now while I explain how our support services assist international students?' The key is demonstrating clear pathways while providing specific, actionable steps toward enrollment completion."
+                }
+            ]
+        }
+    }
+}

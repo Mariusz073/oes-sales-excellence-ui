@@ -1,0 +1,359 @@
+{
+    "metadata": {
+        "consultant_name": "Yusuf Aly",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 51,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 50,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 36,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 12,
+            "red": 84
+        },
+        {
+            "label": "Clear action plan",
+            "green": 28,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 56,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 56,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 12,
+            "red": 84
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Timeline Management",
+                "explanation": "Consultants effectively leverage enrollment deadlines and intake dates to create urgency while maintaining supportive guidance through specific timeframes and clear next steps"
+            },
+            {
+                "headline": "Process Navigation Leadership",
+                "explanation": "Strong demonstration of confident guidance through enrollment steps with clear action items and consistent process control"
+            },
+            {
+                "headline": "Documentation Management Excellence",
+                "explanation": "Effective coordination of document requirements through proactive assistance, specific deadlines, and clear submission pathways that maintain enrollment momentum"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Commitment Securing Techniques",
+                "explanation": "Enhanced focus needed on obtaining explicit verbal agreements and specific follow-up commitments during key decision points to ensure clear progression"
+            },
+            {
+                "headline": "Return to Study Confidence",
+                "explanation": "More comprehensive support needed when addressing concerns about academic readiness after extended breaks from education"
+            },
+            {
+                "headline": "Timeline Specificity",
+                "explanation": "Greater precision needed in establishing exact dates and times for next steps to ensure consistent progression towards enrollment completion"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "March Intake Urgency Creation",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845695312",
+                            "segment_id": "39",
+                            "timestamp": "1:33"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student heard: 'We are in the final stages at the moment of accepting applications for the March start date' (call_596845695312, seg_39), creating immediate urgency around enrollment.",
+                    "context_impact": "Critical moment to leverage deadline pressure for securing March intake commitment while maintaining supportive guidance.",
+                    "consultant_response": "Consultant stated: 'So if you are interested in beginning your studies in March, we'd probably need to sort of be in contact fairly shortly' (call_596845695312, seg_41).",
+                    "improvement": "Remove tentative language ('sort of', 'probably') and provide specific next-step timeline with immediate action items."
+                },
+                {
+                    "number": "2",
+                    "title": "Document Submission Control",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915107535",
+                            "segment_id": "68",
+                            "timestamp": "07:12"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597158704968",
+                                "segment_id": "13",
+                                "timestamp": "00:30"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'So I'm going to send you an email requesting that, and if you'd be able to send it to me, that'd be great' (call_596915107535, seg_68), revealing passive approach to documentation.",
+                    "context_impact": "Prime opportunity to secure specific commitment for document submission timeline.",
+                    "consultant_response": "Consultant replied: 'If you do send me your documents, I'll get that assessed ASAP' (call_596915107535, seg_71), using conditional language.",
+                    "improvement": "Secure explicit agreement on submission date and offer immediate assistance with document preparation."
+                },
+                {
+                    "number": "3",
+                    "title": "Return to Study Support",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761407892",
+                            "segment_id": "76",
+                            "timestamp": "13:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908198719",
+                                "segment_id": "34",
+                                "timestamp": "03:25"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_596761407892, seg_76), revealing significant anxiety about academic readiness.",
+                    "context_impact": "Critical opportunity to build confidence and secure commitment while addressing study concerns.",
+                    "consultant_response": "Consultant replied: 'Yeah, fair enough. Oh, they're big questions and they take time to work through' (call_596761407892, seg_68), missing opportunity to provide specific support.",
+                    "improvement": "Address concerns by highlighting transferable skills and specific academic support services available."
+                },
+                {
+                    "number": "4",
+                    "title": "Timeline Management Excellence",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908055499",
+                            "segment_id": "96",
+                            "timestamp": "06:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983157262",
+                                "segment_id": "75",
+                                "timestamp": "1:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student expressed: 'I could start in March but July might work better with my work schedule' (call_596908055499, seg_96), showing flexibility between intake options.",
+                    "context_impact": "Opportunity to maintain enrollment momentum while exploring multiple intake options.",
+                    "consultant_response": "Consultant effectively kept both options open while emphasizing benefits of earlier start, stating: 'The March intake would give you a head start, but let's ensure we choose what works best for your schedule.'",
+                    "improvement": "Add specific action steps for each intake option with clear decision points and timelines."
+                },
+                {
+                    "number": "5",
+                    "title": "Professional Trust Building",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845938436",
+                            "segment_id": "6",
+                            "timestamp": "0:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983157262",
+                                "segment_id": "3",
+                                "timestamp": "0:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Initial greeting with: 'Thank you so much for coming in' (call_596845938436, seg_3), opening opportunity for rapport building.",
+                    "context_impact": "Early trust establishment critical for effective enrollment guidance and maintaining professional momentum.",
+                    "consultant_response": "Consultant stated: 'I will mention the call is recorded for quality assurance and training purposes' (call_596845938436, seg_6), demonstrating transparency.",
+                    "improvement": "Build on initial rapport with more personalized engagement throughout call while maintaining professional boundaries."
+                },
+                {
+                    "number": "6",
+                    "title": "Career Pivot Support",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158778989",
+                            "segment_id": "18",
+                            "timestamp": "02:11"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "Student stated: 'A career pivot' (call_597158778989, seg_18), expressing clear intent to change career direction.",
+                    "context_impact": "Critical opportunity to validate career transition decision and position program as key enabler.",
+                    "consultant_response": "Consultant affirmed: 'Definitely getting some study under your belt in order to make that career pivot is a great idea' (call_597158778989, seg_19).",
+                    "improvement": "Could have explored specific career goals to strengthen program alignment and commitment."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "March Intake Urgency Creation",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845695312",
+                            "segment_id": "39",
+                            "timestamp": "1:33"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "The conversation reached a critical juncture when the consultant stated, 'We are in the final stages at the moment of accepting applications for the March start date' (call_596845695312, seg_39). This statement created immediate urgency around the enrollment opportunity, presenting a prime moment to leverage deadline pressure for securing commitment to the March intake. The timing of this statement was particularly significant as it established a clear timeline constraint that could motivate decisive action.",
+                    "consultant_response": "The consultant followed up with, 'So if you are interested in beginning your studies in March, we'd probably need to sort of be in contact fairly shortly' (call_596845695312, seg_41). This response effectively maintained conversation momentum while highlighting the urgency of the situation. The consultant demonstrated process control by immediately connecting the deadline to required action, though the impact was somewhat diluted by tentative language ('sort of', 'probably'). Despite this minor weakness, the overall approach successfully emphasized the time-sensitive nature of the opportunity while maintaining a supportive tone.",
+                    "recommended_approach": "When communicating enrollment deadlines, begin by establishing clear urgency while maintaining supportive guidance. Start with a direct statement of the timeline: 'The March intake closes in X days, and I want to ensure you don't miss this opportunity.' Follow this immediately with specific next steps: 'Let's secure your spot right now - I can guide you through completing the enrollment form and submitting your documents by the end of this week.' This approach transforms deadline pressure into positive momentum. When students express interest but hesitation, acknowledge their concerns while maintaining urgency: 'I understand you need to consider your options carefully. Given the closing deadline, let's review what you need to make this decision today.' Always pair deadline information with immediate action steps, for instance: 'Since we're in the final stages of accepting March applications, I'll help you submit your initial documentation right now, which takes just 15 minutes.' This ensures students feel supported rather than pressured while maintaining clear focus on timely enrollment completion."
+                },
+                {
+                    "number": "2",
+                    "title": "Document Submission Control",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915107535",
+                            "segment_id": "68",
+                            "timestamp": "07:12"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597158704968",
+                                "segment_id": "13",
+                                "timestamp": "00:30"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student indicated readiness to proceed with document submission, stating 'So I'm going to send you an email requesting that, and if you'd be able to send it to me, that'd be great' (call_596915107535, seg_68). This moment presented a critical opportunity to secure a specific commitment for document submission and maintain control of the enrollment process. The student's proactive mention of documentation showed positive intent that needed to be converted into immediate action.",
+                    "consultant_response": "The consultant responded with 'If you do send me your documents, I'll get that assessed ASAP' (call_596915107535, seg_71). While this promised quick processing, it failed to secure a firm commitment to a specific submission timeline. The use of conditional language ('if you do') rather than assuming the action would occur missed an opportunity to maintain momentum and control of the process. This approach left the timing undefined and placed the responsibility primarily on the student.",
+                    "recommended_approach": "When students show readiness to submit documentation, immediately take control of the process while making it as easy as possible for them to comply. Start by confirming their commitment: 'Excellent, let's get your documents submitted today so we can move forward with your enrollment.' Then provide specific guidance: 'I'll send you an email right now with the exact requirements and a secure upload link. Could you aim to have these back to me by tomorrow afternoon?' For students who might need additional support, offer direct assistance: 'If you'd like, we can review the documents together right now to ensure everything is in order before submission.' When dealing with complex documentation requirements, break them down into manageable steps: 'Let's start with your transcript today, and then I'll help you with the remaining documents tomorrow.' The goal is to maintain momentum by securing specific commitments while providing clear support throughout the process."
+                },
+                {
+                    "number": "3",
+                    "title": "Return to Study Support",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761407892",
+                            "segment_id": "76",
+                            "timestamp": "13:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908198719",
+                                "segment_id": "34",
+                                "timestamp": "03:25"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During call 596761407892 (segment 76), the student revealed significant anxiety about returning to study: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This disclosure represented a critical moment where the student's fears about academic capability could potentially derail their enrollment decision. Similar concerns about managing study commitments emerged in call 596908198719, highlighting a pattern of anxiety about academic readiness.",
+                    "consultant_response": "The consultant's response was notably insufficient, stating only: 'Yeah, fair enough. Oh, they're big questions and they take time to work through' (call_596761407892, seg_68). While showing empathy, this response failed to address the core concern or provide specific strategies for success. The lack of concrete guidance and confidence-building support left the student's fears unaddressed, potentially impacting their willingness to commit to enrollment.",
+                    "recommended_approach": "When students express concerns about returning to study after a long break, immediately validate their feelings while pivoting to emphasize their existing capabilities and available support systems. Begin with empathetic acknowledgment: 'I understand returning to study after 15 years feels daunting, but your work experience is actually a valuable asset.' Then, explore their professional background: 'Tell me more about your current role - many students find their workplace skills translate effectively to academic success.' Share specific examples: 'We recently had a student return after 20 years who found their project management experience gave them an advantage in organizing their studies.' Emphasize comprehensive support: 'Our learning coaches specialize in helping students transition back to study, providing strategies that make the coursework manageable. They can help you develop a personalized study plan that works with your schedule.' The goal is to transform their perceived disadvantage into recognition of their valuable life experience while ensuring they understand the support systems in place for their success."
+                },
+                {
+                    "number": "4",
+                    "title": "Timeline Management Excellence",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908055499",
+                            "segment_id": "96",
+                            "timestamp": "06:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983157262",
+                                "segment_id": "75",
+                                "timestamp": "1:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During discussions about potential start dates, the student expressed flexibility between March and July intakes, stating 'I could start in March but July might work better with my work schedule' (call_596908055499, seg_96). This presented an opportunity to explore and secure commitment to the most suitable option while maintaining enrollment momentum.",
+                    "consultant_response": "The consultant effectively managed both timeline options, keeping March viable while securing July as a backup plan. This balanced approach maintained enrollment momentum while accommodating the student's circumstances and decision-making process, demonstrating strong control of the enrollment journey.",
+                    "recommended_approach": "When managing multiple intake options, maintain momentum while guiding towards the optimal choice. Start by acknowledging flexibility: 'It's great that you're considering both March and July - let's explore which works best for your situation.' Then create clear decision points: 'If we aim for March, we'll need to complete these specific steps by next week. For July, we have more time, but let's still maintain progress to secure your spot.' Always provide concrete next steps for either path: 'Let's schedule our next meeting for Tuesday to either finalize March enrollment or begin July preparation.' The key is keeping both options viable while maintaining consistent progress toward enrollment."
+                },
+                {
+                    "number": "5",
+                    "title": "Professional Trust Building",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845938436",
+                            "segment_id": "6",
+                            "timestamp": "0:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983157262",
+                                "segment_id": "3",
+                                "timestamp": "0:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The initial exchange began with 'Thank you so much for coming in' (call_596845938436, seg_3), creating an opportunity to establish professional rapport. This opening moment set the tone for the entire enrollment conversation, providing a foundation for trust-building and professional guidance.",
+                    "consultant_response": "The consultant demonstrated professionalism by immediately establishing transparency: 'I will mention the call is recorded for quality assurance and training purposes' (call_596845938436, seg_6). This approach effectively set expectations while maintaining a professional tone, creating an environment of trust and openness that would support subsequent enrollment discussions.",
+                    "recommended_approach": "Begin every enrollment conversation by establishing a foundation of professional trust through transparent communication. Open with warm acknowledgment: 'Thank you for taking the time to discuss your educational journey with us today.' Follow immediately with transparent professionalism: 'I'd like to mention that we record our calls for quality assurance, as we take our commitment to supporting students seriously.' This combination of warmth and professionalism sets the tone for productive enrollment discussions. When students respond positively to this opening, build on it by maintaining consistent professional language while showing genuine interest in their goals. The key is balancing formal process requirements with personal engagement, creating an environment where students feel both supported and confident in the institutional relationship."
+                },
+                {
+                    "number": "6",
+                    "title": "Career Pivot Support",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158778989",
+                            "segment_id": "18",
+                            "timestamp": "02:11"
+                        },
+                        "supporting_calls": []
+                    },
+                    "student_trigger": "The student directly stated 'A career pivot' (call_597158778989, seg_18), expressing clear intent to transition careers through education. The brevity and directness of their statement indicated both commitment to change and openness to guidance about achieving this transition effectively.",
+                    "consultant_response": "The consultant affirmed their decision stating 'Definitely getting some study under your belt in order to make that career pivot is a great idea' (call_597158778989, seg_19). This validation provided initial support but could have been strengthened with more specific guidance about how the program enables career transitions.",
+                    "recommended_approach": "When students express career pivot intentions, immediately validate their decision and position the program as the essential bridge to their new career. Begin with strong affirmation: 'A career pivot is an exciting step, and you're making a smart choice to begin with education.' Then connect program elements directly to career transition: 'Our curriculum is specifically designed to help professionals like you transition into new roles, with practical skills you'll apply immediately.' Address common pivot concerns proactively: 'Many of our students successfully change careers through this program, and we provide comprehensive support throughout the transition.' Maintain momentum by guiding the conversation toward concrete enrollment steps: 'Let's ensure you're set up for success in your career transition by securing your spot in our next intake.' Remember that career pivoters need both emotional support and practical guidance - provide both while maintaining focus on enrollment action."
+                }
+            ]
+        }
+    }
+}

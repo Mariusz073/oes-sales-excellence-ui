@@ -1,0 +1,355 @@
+{
+    "metadata": {
+        "consultant_name": "Rochelle Khaddage",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 40,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 60,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 43,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 20,
+            "red": 80
+        },
+        {
+            "label": "Clear action plan",
+            "green": 27,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 47,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 53,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 20,
+            "red": 80
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Process Control",
+                "explanation": "Consultants effectively maintain enrollment momentum through immediate action steps, clear directives, and confident guidance throughout critical decision points"
+            },
+            {
+                "headline": "Documentation Solution Leadership",
+                "explanation": "Strong demonstrations of proactive alternative pathways and immediate solutions when documentation barriers arise, preventing enrollment delays"
+            },
+            {
+                "headline": "Urgent Timeline Management",
+                "explanation": "Effective use of deadlines and timing to create productive urgency while providing structured, supportive guidance toward enrollment completion"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Direct Commitment Securing",
+                "explanation": "Enhanced focus needed on obtaining explicit verbal agreements and confirming specific enrollment dates during initial contact"
+            },
+            {
+                "headline": "Decisive Pathway Guidance",
+                "explanation": "Stronger direction required when students express uncertainty between program options to maintain clear enrollment momentum"
+            },
+            {
+                "headline": "Follow-up Specificity",
+                "explanation": "More structured approach needed for establishing concrete follow-up commitments rather than accepting open-ended timing"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Documentation Process Control",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597070126727",
+                            "segment_id": "58",
+                            "timestamp": "3:34"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069705210",
+                                "segment_id": "106",
+                                "timestamp": "5:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I can't find any of my papers at all' (call_597070126727, seg_21), followed by 'I only got till tomorrow, eh?' (call_597070126727, seg_57), revealing critical documentation barriers.",
+                    "context_impact": "Documentation challenges threatened to derail enrollment progress and required immediate resolution to maintain momentum.",
+                    "consultant_response": "Consultant provided immediate solution: 'Look, all you have to do, I can send a resume template. All I need to see is four years of work experience...' (call_597070126727, seg_58).",
+                    "improvement": "Include specific timeline for document processing and establish explicit next-day follow-up commitments."
+                },
+                {
+                    "number": "2",
+                    "title": "Urgent Deadline Management",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062548657",
+                            "segment_id": "133",
+                            "timestamp": "11:55"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596845756732",
+                                "segment_id": "80",
+                                "timestamp": "10:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student heard: 'So we do close applications for March tomorrow. We definitely would need your resume as soon as possible' (call_597062548657, seg_133), creating immediate urgency.",
+                    "context_impact": "Critical moment requiring immediate action to secure enrollment before deadline while maintaining confident guidance.",
+                    "consultant_response": "Consultant took control: 'I can book a call in for you with Bridget now... get that resume to her by today or tomorrow morning' (call_597062548657, seg_135).",
+                    "improvement": "Include specific resume requirements and immediate document upload instructions with clearer timeframes."
+                },
+                {
+                    "number": "3",
+                    "title": "Re-enrollment Momentum",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846298590",
+                            "segment_id": "27",
+                            "timestamp": "1:25"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069705210",
+                                "segment_id": "90",
+                                "timestamp": "5:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student expressed: 'Yeah, now that I've sort of settled back in, my son's a bit older. Yeah, I definitely want to get back into it and finish off that bachelor's that I started' (call_596846298590, seg_27).",
+                    "context_impact": "Prime opportunity to secure immediate commitment from returning student showing strong motivation.",
+                    "consultant_response": "Consultant replied: 'What I can do for you, if you'd like, is book a time in for you with Sheikh, maybe tomorrow' (call_596846298590, seg_45).",
+                    "improvement": "Secure verbal commitment and specific intake date during initial contact rather than deferring to follow-up meeting."
+                },
+                {
+                    "number": "4",
+                    "title": "Pathway Clarity Enhancement",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914888690",
+                            "segment_id": "55",
+                            "timestamp": "09:15"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'I was also looking at doing a Diploma of Business and then going into a Bachelor of Business' (call_596914888690, seg_55), indicating uncertainty about optimal pathway.",
+                    "context_impact": "This uncertainty risked prolonging decision-making process and potentially losing enrollment momentum.",
+                    "consultant_response": "Consultant replied: 'Look, you could do that but it's either way you still, you still in a technical sense you meet entry except you just meet it in the Bachelor of psychology' (call_596914888690, seg_56).",
+                    "improvement": "Provide clear, confident direction toward optimal pathway while emphasizing immediate enrollment benefits."
+                },
+                {
+                    "number": "5",
+                    "title": "Follow-up Commitment",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845653818",
+                            "segment_id": "105",
+                            "timestamp": "07:45"
+                        }
+                    },
+                    "student_trigger": "Student asked: 'Anyway, I can call you back if I have any questions?' (call_596845653818, seg_105)",
+                    "context_impact": "Risk of losing momentum without specific follow-up plan.",
+                    "consultant_response": "Consultant responded passively: 'Well, yeah, you can...' (call_596845653818, seg_106).",
+                    "improvement": "Establish concrete follow-up time and maintain process control through specific commitments."
+                },
+                {
+                    "number": "6",
+                    "title": "Work Experience Pathway",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983121423",
+                            "segment_id": "85",
+                            "timestamp": "14:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597062548657",
+                                "segment_id": "97",
+                                "timestamp": "15:20"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student shared: 'My most recent one was McDonald's, just coming out of COVID. Beforehand, I've done a range of stuff. I was an asset security officer' (call_596983121423, seg_85).",
+                    "context_impact": "Opportunity to leverage work experience for enrollment qualification while maintaining momentum.",
+                    "consultant_response": "Consultant proactively stated: 'I'll let my admissions team know that you'll be entering maybe through work experience, see what exemptions you can get' (call_597062548657, seg_97).",
+                    "improvement": "Provide clear structure for documenting work experience with specific next steps and timeline commitments."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Documentation Process Control",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597070126727",
+                            "segment_id": "58",
+                            "timestamp": "3:34"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069705210",
+                                "segment_id": "106",
+                                "timestamp": "5:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "When faced with the urgent query 'I only got till tomorrow, eh?' (call_597070126727, seg_57), the student revealed both awareness of timing constraints and anxiety about documentation requirements. This critical moment was amplified by earlier concerns about missing documentation: 'I can't find any of my papers at all' (call_597070126727, seg_21). These statements highlighted the immediate need for clear guidance and alternative solutions to prevent documentation barriers from derailing the enrollment process.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by immediately taking control with the response: 'Look, all you have to do, I can send a resume template. All I need to see is four years of work experience, so of those being full-time...' (call_597070126727, seg_58). This decisive approach was reinforced in another case where the consultant stated: 'What I'm going to do... I'm going to just have it do a back-end check on just on your documents' (call_597069705210, seg_106). Both responses showed proactive leadership in the enrollment process by providing immediate solutions and maintaining momentum despite documentation challenges.",
+                    "recommended_approach": "When addressing documentation concerns, especially under time pressure, begin by acknowledging the urgency while immediately presenting a clear solution pathway. Start with a confident statement like: 'I understand your time constraint - let me show you exactly how we can resolve this today.' Follow with specific, actionable steps: 'First, I'll send you our resume template right now, which you can complete with your work experience. While you're working on that, I'll initiate the background check on your previous documents.' The key is maintaining control of the process while simplifying it for the student. When students express anxiety about missing documentation, immediately pivot to alternative options: 'There are multiple ways to demonstrate your eligibility - let me guide you through the quickest option for your situation.' Throughout the conversation, use decisive language that keeps the focus on moving forward rather than dwelling on obstacles. For instance, rather than asking if they want to proceed, state: 'I'll send the template now, and we'll review it together at 2pm today - does that time work for you?' This approach transforms potential barriers into manageable steps while maintaining the urgency needed to secure enrollment commitment."
+                },
+                {
+                    "number": "2",
+                    "title": "Urgent Deadline Management",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062548657",
+                            "segment_id": "133",
+                            "timestamp": "11:55"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596845756732",
+                                "segment_id": "80",
+                                "timestamp": "10:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The critical nature of timing became apparent when the consultant emphasized 'So we do close applications for March tomorrow. We definitely would need your resume as soon as possible' (call_597062548657, seg_133). This created immediate urgency and highlighted the need for swift action to secure enrollment before the deadline. Similar time sensitivity emerged across multiple calls, particularly when documentation requirements intersected with closing dates.",
+                    "consultant_response": "The consultant demonstrated strong leadership by taking immediate control of the situation: 'I can book a call in for you with Bridget now... get that resume to her by today or tomorrow morning' (call_597062548657, seg_135). This proactive response showed excellent enrollment closing behavior by providing clear direction and specific timelines while maintaining supportive guidance. The approach effectively balanced urgency with practical assistance, keeping the focus on forward momentum.",
+                    "recommended_approach": "When managing enrollment deadlines, immediately establish clear urgency while providing structured support. Begin with a definitive statement about timing: 'With applications closing tomorrow, let's secure your place right now. I'll guide you through each step to ensure you meet the deadline.' Create immediate action steps: 'First, I'll send you the resume template while we're on the call. You'll complete it within the next hour, and I'll review it with you at 2pm today.' The key is maintaining momentum through specific commitments and time-bound actions. When students express concern about tight deadlines, respond with confident solutions: 'Many students complete this process within a day - I'll help you prioritize exactly what's needed.' Throughout the conversation, use timing to drive action: 'Since we need your resume by tomorrow morning, let's schedule our follow-up call for 4pm today to ensure everything is finalized.' This approach transforms deadline pressure into productive urgency while providing clear structure and support."
+                },
+                {
+                    "number": "3",
+                    "title": "Re-enrollment Momentum",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846298590",
+                            "segment_id": "27",
+                            "timestamp": "1:25"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597069705210",
+                                "segment_id": "90",
+                                "timestamp": "5:55"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Two significant expressions of student readiness emerged in the calls. First, the direct statement: 'Yeah, now that I've sort of settled back in, you know, my son's a bit older. Yeah, I definitely want to get back into it and finish off that bachelor's that I started' (call_596846298590, seg_27). This was reinforced by another student's declaration of commitment: 'I can do better' (call_597069705210, seg_90). Both moments revealed prime opportunities for immediate enrollment commitment.",
+                    "consultant_response": "While showing some proactivity, the consultants' responses often fell short of maximizing these opportunities. In the primary example, the consultant replied: 'What I can do for you, if you'd like, is book a time in for you with Sheikh, maybe tomorrow' (call_596846298590, seg_45). Similarly, in the supporting case, the focus shifted to document assessment rather than immediate enrollment commitment. These responses, while procedurally correct, missed the opportunity to capitalize on the students' expressed motivation by securing immediate commitment to specific enrollment dates.",
+                    "recommended_approach": "When students express clear readiness to re-enroll, immediately transition their motivation into concrete commitment. Begin by affirming their decision: 'It's fantastic that you're ready to complete your degree - let's secure your spot right now in the upcoming intake.' Follow this with direct action steps: 'Since you're ready to achieve your goals, I can help you complete the enrollment process today.' When students share positive life changes that support their return to study, immediately connect this to action: 'Now that your circumstances have improved, let's ensure you don't miss out on the March intake. We can confirm your place right now.' If documentation reviews are needed, frame them as part of the enrollment process rather than a barrier: 'While we process your previous credits, let's secure your spot in the program. I can help you with that now.' Always end these conversations with specific commitments: 'I've noted your enrollment for March intake. I'll call you tomorrow at 2pm to finalize your documentation. Does that time work for you?'"
+                },
+                {
+                    "number": "4",
+                    "title": "Pathway Clarity Enhancement",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914888690",
+                            "segment_id": "55",
+                            "timestamp": "09:15"
+                        }
+                    },
+                    "student_trigger": "In call 596914888690 (segment 55), the student revealed significant pathway uncertainty by stating, 'I was also looking at doing a Diploma of Business and then going into a Bachelor of Business.' This comment exposed underlying concerns about program fit and revealed the student was actively considering alternative pathways. The moment presented a crucial opportunity to provide clear direction and build confidence in the direct enrollment option.",
+                    "consultant_response": "The consultant's response was informative but lacked decisive guidance: 'Look, you could do that but it's either way you still, you still in a technical sense you meet entry except you just meet it in the Bachelor of psychology' (segment 56). While this addressed the technical eligibility, it missed the opportunity to confidently direct the student toward the optimal pathway. The response didn't effectively eliminate the alternative path from consideration or emphasize the benefits of immediate bachelor's degree enrollment.",
+                    "recommended_approach": "When encountering pathway uncertainty, immediately establish yourself as a confident guide toward the optimal enrollment route. Begin by acknowledging the student's diligence in exploring options, then pivot to a strong recommendation for the direct pathway: 'I appreciate you're thinking carefully about your educational journey. The Bachelor's pathway we've discussed offers you the most direct route to your goals - let's focus on getting you started there.' Essential implementation moments include immediately addressing any mentioned alternative pathways, using phrases like 'While that's one approach, let me show you why starting directly with the Bachelor's degree is your best option.' Always frame the direct pathway in terms of specific benefits - time saved, immediate immersion in bachelor-level studies, and faster progress toward career goals. When students express concern about program fit or preparedness, respond with concrete examples of similar students who have succeeded through the direct pathway. The key is maintaining unwavering confidence in your recommendation while showing clear understanding of their concerns."
+                },
+                {
+                    "number": "5",
+                    "title": "Follow-up Commitment",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845653818",
+                            "segment_id": "105",
+                            "timestamp": "07:45"
+                        }
+                    },
+                    "student_trigger": "The potential for lost momentum became evident when the student suggested an open-ended follow-up by asking 'Anyway, I can call you back if I have any questions?' (call_596845653818, seg_105). This moment represented a critical juncture where maintaining enrollment momentum required immediate establishment of specific follow-up commitments.",
+                    "consultant_response": "The consultant's passive response of 'Well, yeah, you can...' (call_596845653818, seg_106) demonstrated a missed opportunity to maintain process control and ensure continued enrollment progression. This approach effectively surrendered leadership of the enrollment journey to the student, risking loss of momentum and potential non-completion.",
+                    "recommended_approach": "When students suggest open-ended follow-up, immediately take control by establishing specific commitments. Begin with appreciation while directing the process: 'I want to ensure you have all the support you need - let's schedule our next conversation right now.' Rather than accepting vague timing, create immediate structure: 'I'll call you tomorrow at 2pm to review your completed documents and move forward with enrollment. Does that time work for you?' When students express uncertainty about next steps, respond with clear guidance: 'Here's what we'll cover in our next call - reviewing your documents, confirming your study plan, and finalizing your enrollment. I'll block out 30 minutes for us to complete everything.' Always end these interactions with specific commitments: 'I'm sending you a calendar invitation right now for our call tomorrow at 2pm. Please confirm when you receive it, and have your documents ready for review.' This approach maintains momentum while demonstrating ongoing support and guidance."
+                },
+                {
+                    "number": "6",
+                    "title": "Work Experience Pathway",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983121423",
+                            "segment_id": "85",
+                            "timestamp": "14:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597062548657",
+                                "segment_id": "97",
+                                "timestamp": "15:20"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student revealed diverse work history by stating: 'My most recent one was McDonald's, just coming out of COVID. Beforehand, I've done a range of stuff. I was an asset security officer' (call_596983121423, seg_85). This disclosure presented an opportunity to leverage work experience for enrollment qualification while maintaining process momentum.",
+                    "consultant_response": "The consultant demonstrated proactive leadership by stating: 'I'll let my admissions team know that you'll be entering maybe through work experience, see what exemptions you can get' (call_597062548657, seg_97). This response showed initiative in creating an alternative pathway, though could have been more specific about immediate next steps and documentation requirements.",
+                    "recommended_approach": "When students present varied work experience, immediately position it as a valuable pathway to enrollment. Begin with confident acknowledgment: 'Your diverse work background provides an excellent foundation for admission - let me show you exactly how we'll use this experience to secure your place.' Create immediate action steps: 'I'll send you our work experience template now, which we'll use to document your roles in security and operations. While we're on the call, let's identify the most relevant experiences to highlight.' When dealing with non-traditional work history, focus on transferable skills: 'Your experience in security demonstrates leadership and decision-making abilities - exactly what we look for in successful students.' Always maintain forward momentum by setting specific timelines: 'Let's complete the work experience documentation today, so we can secure your enrollment for the March intake. I'll call you at 2pm to review everything together.' This approach transforms work experience from a potential barrier into a clear pathway to enrollment."
+                }
+            ]
+        }
+    }
+}
