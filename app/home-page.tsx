@@ -37,6 +37,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   const [selectedPersonAnalysis, setSelectedPersonAnalysis] = useState<string>('');
   const [selectedPersonWeek, setSelectedPersonWeek] = useState<string>('');
   const [availablePersonWeeks, setAvailablePersonWeeks] = useState<number[]>([]);
+  const [availableAnalysisTypes, setAvailableAnalysisTypes] = useState<string[]>([]);
   const [selectedTeam, setSelectedTeam] = useState<string>('');
   const [selectedAnalysis, setSelectedAnalysis] = useState<string>('');
   const [selectedWeek, setSelectedWeek] = useState<string>('');
@@ -72,20 +73,33 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
     { value: 'compliance', label: 'Compliance - Call recording disclosure' }
   ];
 
-  // Update available weeks for individual reports when person or analysis changes
+  // Update available options for individual reports
   useEffect(() => {
-    if (selectedPerson && selectedPersonAnalysis) {
-      const personFiles = jsonFiles.filter(file => 
-        file.filename.startsWith(selectedPerson) && 
-        file.filename.includes(selectedPersonAnalysis)
-      );
-      const weeks = personFiles.map(file => file.weekNumber)
-        .sort((a, b) => a - b);
-      setAvailablePersonWeeks(weeks);
-      setSelectedPersonWeek(''); // Reset selected week when person or analysis changes
+    if (selectedPerson) {
+      // Get all available analysis types for the selected person
+      const personFiles = jsonFiles.filter(file => file.filename.startsWith(selectedPerson));
+      const analysisTypes = new Set(personFiles.map(file => {
+        const match = file.filename.match(/_([A-Z]+)_/);
+        return match ? match[1] : null;
+      }).filter(Boolean));
+      setAvailableAnalysisTypes(Array.from(analysisTypes));
+
+      // Update available weeks if analysis is selected
+      if (selectedPersonAnalysis) {
+        const weeksForAnalysis = personFiles
+          .filter(file => file.filename.includes(selectedPersonAnalysis))
+          .map(file => file.weekNumber)
+          .sort((a, b) => a - b);
+        setAvailablePersonWeeks(weeksForAnalysis);
+
+        // If current week is not available, clear it
+        if (selectedPersonWeek && !weeksForAnalysis.includes(parseInt(selectedPersonWeek))) {
+          setSelectedPersonWeek('');
+        }
+      }
     } else {
+      setAvailableAnalysisTypes([]);
       setAvailablePersonWeeks([]);
-      setSelectedPersonWeek('');
     }
   }, [selectedPerson, selectedPersonAnalysis, jsonFiles]);
 
@@ -116,7 +130,9 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
         .sort((a, b) => parseInt(a) - parseInt(b));
 
       setAvailableWeeks(weeks);
-      setSelectedWeek(''); // Reset selected week when team or analysis changes
+      if (selectedWeek && !weeks.includes(selectedWeek)) {
+        setSelectedWeek('');
+      }
     } else {
       setAvailableWeeks([]);
       setSelectedWeek('');
@@ -147,8 +163,18 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
     }
   };
 
+  const isReportAvailable = () => {
+    if (!selectedPerson || !selectedPersonAnalysis || !selectedPersonWeek) return false;
+    
+    return jsonFiles.some(file => 
+      file.filename.startsWith(selectedPerson) && 
+      file.filename.includes(selectedPersonAnalysis) && 
+      file.weekNumber === parseInt(selectedPersonWeek)
+    );
+  };
+
   const handleViewReport = () => {
-    if (selectedPerson && selectedPersonAnalysis && selectedPersonWeek) {
+    if (selectedPerson && selectedPersonAnalysis && selectedPersonWeek && isReportAvailable()) {
       const selectedFile = jsonFiles.find(
         file => file.filename.startsWith(selectedPerson) && 
                file.filename.includes(selectedPersonAnalysis) && 
@@ -228,7 +254,6 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               aria-label="Select a report"
               onChange={(e) => {
                 setSelectedPerson(e.target.value);
-                setSelectedPersonAnalysis(''); // Reset analysis when person changes
               }}
               disabled={!isAdmin && !privileges.individualReports && (!privileges.allowedReports || privileges.allowedReports.length === 0)}
               style={dropdownArrowStyle}
@@ -261,17 +286,24 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
               aria-label="Select kind of analysis"
               onChange={(e) => {
                 setSelectedPersonAnalysis(e.target.value);
-                setSelectedPersonWeek(''); // Reset week when analysis changes
               }}
               disabled={!selectedPerson}
               style={dropdownArrowStyle}
             >
               <option value="">Kind of analysis</option>
-              {analysisOptions.map((option) => (
-                <option key={option.code} value={option.code}>
-                  {option.label}
-                </option>
-              ))}
+              {analysisOptions.map((option) => {
+                const isAvailable = availableAnalysisTypes.includes(option.code);
+                return (
+                  <option 
+                    key={option.code} 
+                    value={option.code}
+                    disabled={!isAvailable}
+                    className={!isAvailable ? 'opacity-50' : ''}
+                  >
+                    {option.label}
+                  </option>
+                );
+              })}
             </select>
 
             <select
@@ -298,9 +330,9 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             </select>
 
             <button
-              className={`button ${!selectedPerson || !selectedPersonAnalysis || !selectedPersonWeek ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`button ${!isReportAvailable() ? 'opacity-50 cursor-not-allowed' : ''}`}
               onClick={handleViewReport}
-              disabled={!selectedPerson || !selectedPersonAnalysis || !selectedPersonWeek}
+              disabled={!isReportAvailable()}
             >
               View report
             </button>
