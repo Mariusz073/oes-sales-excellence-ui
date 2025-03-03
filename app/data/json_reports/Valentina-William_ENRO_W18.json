@@ -1,0 +1,299 @@
+{
+    "metadata": {
+        "consultant_name": "Valentina William",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 61,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 43,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 18,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 29,
+            "red": 71
+        },
+        {
+            "label": "Clear action plan",
+            "green": 36,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 43,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 64,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 29,
+            "red": 71
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Process Control",
+                "explanation": "Consultants effectively guide enrollment conversations through structured steps and clear timelines while demonstrating confident leadership in maintaining student momentum"
+            },
+            {
+                "headline": "Direct Financial Communication",
+                "explanation": "Strong demonstration of fee structures and payment options that enable confident decision-making through clear cost presentation and HECS-HELP guidance"
+            },
+            {
+                "headline": "Proactive Pathway Planning",
+                "explanation": "Effective organization of next steps and requirements builds student confidence while creating clear routes to enrollment through personalized support and guidance"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Decisive Commitment Securing",
+                "explanation": "Enhanced techniques needed to transform expressed interest into immediate action through more assertive guidance and explicit enrollment agreements"
+            },
+            {
+                "headline": "Timeline Control Management",
+                "explanation": "Stronger emphasis needed on setting and confirming specific deadlines for documentation submission and enrollment completion to maintain momentum"
+            },
+            {
+                "headline": "Alternative Pathway Navigation",
+                "explanation": "More comprehensive exploration required when addressing eligibility or credit limitations to maintain enrollment progression while preserving institutional engagement"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Same-Day Enrollment Opportunity",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908356376",
+                            "segment_id": "122",
+                            "timestamp": "12:45"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'I'd like to do it this afternoon if possible, please' (call_596908356376, seg_122), showing clear readiness to enroll immediately.",
+                    "context_impact": "Immediate enrollment opportunity requiring swift action to secure commitment and maintain momentum.",
+                    "consultant_response": "Consultant replied: 'Okay, beautiful, I'll book a call for 3 p.m., and then we'll go from there' (call_596908356376, seg_123), effectively securing same-day follow-up.",
+                    "improvement": "Include specific documentation requirements and enrollment steps to complete during the afternoon call."
+                },
+                {
+                    "number": "2",
+                    "title": "Clear Financial Communication",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062531590",
+                            "segment_id": "70",
+                            "timestamp": "4:15"
+                        }
+                    },
+                    "student_trigger": "Student asked: 'And how much do I have to pay if I am eligible with CSB?' (call_597062531590, seg_70), seeking clarity on financial commitments.",
+                    "context_impact": "Financial understanding directly impacts enrollment decision-making confidence.",
+                    "consultant_response": "Consultant stated: 'Yeah, so as an Australian citizen, you only need to pay around $2,040 per unit. And then you can defer all that fees onto HECS' (call_597062531590, seg_71), providing clear cost and payment options.",
+                    "improvement": "Should have immediately connected to action: 'Since you're eligible for HECS-HELP, let's complete your enrollment and HECS-HELP application together right now - it takes about 20 minutes total.'"
+                },
+                {
+                    "number": "3",
+                    "title": "Urgent Timeline Communication",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597069766238",
+                            "segment_id": "36",
+                            "timestamp": "2:15"
+                        }
+                    },
+                    "student_trigger": "Consultant stated: 'Now, enrolments due close tomorrow' (call_597069766238, seg_38), establishing clear urgency.",
+                    "context_impact": "Created immediate momentum by highlighting the enrollment deadline.",
+                    "consultant_response": "Consultant emphasized benefits: 'The quicker we finalise the application, the quicker you will get your logins' (seg_36), effectively motivating prompt action.",
+                    "improvement": "Should have secured immediate commitment: 'Let's complete your enrollment now so you don't miss out - I can help you finish it in just 15 minutes.'"
+                },
+                {
+                    "number": "4",
+                    "title": "Alternative Pathways Discussion",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597061649552",
+                            "segment_id": "83",
+                            "timestamp": "2:53"
+                        }
+                    },
+                    "student_trigger": "Student asked: 'Okay, and if it's not, if it doesn't align, do you just do a postgrad or what?' (call_597061649552, seg_83), seeking alternative options.",
+                    "context_impact": "Critical moment to maintain enrollment momentum through alternative pathway exploration.",
+                    "consultant_response": "Consultant stated: 'If it doesn't align, we wouldn't be able to proceed with your application' (call_597061649552, seg_84), missing opportunity to explore alternatives.",
+                    "improvement": "Should have explored viable alternatives: 'Let's look at several pathway options that could align with your goals. I can schedule a call tomorrow at 2 PM to discuss specific programs after consulting with our advisors.'"
+                },
+                {
+                    "number": "5",
+                    "title": "Documentation Process Control",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062484261",
+                            "segment_id": "60",
+                            "timestamp": "02:45"
+                        }
+                    },
+                    "student_trigger": "Student mentioned: 'I might have to ask for them to give me the credits' (call_597062484261, seg_60), indicating documentation needs for credit assessment.",
+                    "context_impact": "Critical moment to ensure timely document submission for enrollment deadline.",
+                    "consultant_response": "Consultant suggested: 'I would recommend giving them a call as soon as possible' without securing specific commitment.",
+                    "improvement": "Should have taken control: 'Let's call them together now, and I'll follow up tomorrow at 10 AM to confirm you've received the documents. What's the best number to reach you?'"
+                },
+                {
+                    "number": "6",
+                    "title": "Missed July Intake Commitment",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761393083",
+                            "segment_id": "39",
+                            "timestamp": "4:59"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'Well, I'm probably looking at a July intake' (call_596761393083, seg_39), indicating readiness to discuss specific enrollment timing.",
+                    "context_impact": "Prime opportunity to secure commitment for July intake.",
+                    "consultant_response": "Consultant merely acknowledged with: 'Yeah, beautiful. At the moment, again, we are just finalising enrolments for March' (call_596761393083, seg_39), failing to drive July commitment.",
+                    "improvement": "Should have secured commitment: 'Let's lock in your July place now while we're talking - I can help you complete the enrollment in just 15 minutes. This ensures you won't miss out on your preferred intake.'"
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Same-Day Enrollment Opportunity",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908356376",
+                            "segment_id": "122",
+                            "timestamp": "12:45"
+                        }
+                    },
+                    "student_trigger": "During a pivotal moment in call 596908356376 (segment 122), the student directly expressed their readiness to proceed with enrollment, stating: 'I'd like to do it this afternoon if possible, please.' This clear indication of immediacy presented an optimal opportunity to secure enrollment commitment, as the student demonstrated both decisiveness and urgency in their desire to move forward.",
+                    "consultant_response": "The consultant effectively captured this momentum by responding: 'Okay, beautiful, I'll book a call for 3 p.m., and then we'll go from there' (segment 123). This response demonstrated strong enrollment closing behavior by immediately securing a specific follow-up time. The consultant's quick action to lock in a same-day appointment maintained the student's enthusiasm while establishing clear next steps in the enrollment process.",
+                    "recommended_approach": "When a student expresses immediate readiness to enroll, it's crucial to capitalize on their momentum while providing clear direction. Begin by acknowledging their decisiveness with confident affirmation: 'That's excellent! I'll help you complete your enrollment this afternoon.' Then, secure specific commitments by stating: 'Let's confirm your 3 p.m. call, where we'll complete your application and submit your documentation. I'll guide you through each step to ensure you're enrolled today.' This approach maintains control of the process while supporting the student's motivation to act. For students showing this level of readiness, outline the specific enrollment steps they'll complete during the follow-up call, such as: 'During our call, we'll verify your program selection, submit your documentation, and confirm your start date.' If the student expresses any hesitation about same-day completion, address concerns immediately while maintaining momentum: 'I understand you want to ensure everything is done correctly. I'll walk you through each step this afternoon, ensuring you're comfortable with the process.'"
+                },
+                {
+                    "number": "2",
+                    "title": "Clear Financial Communication",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062531590",
+                            "segment_id": "70",
+                            "timestamp": "4:15"
+                        }
+                    },
+                    "student_trigger": "When the student asked 'And how much do I have to pay if I am eligible with CSB?' (call_597062531590, seg_70), they opened a critical dialogue about financial commitments. This question represented a key moment where clear information could directly influence their enrollment decision. The specific nature of the query, referencing CSB eligibility, showed the student was already considering detailed aspects of their enrollment journey.",
+                    "consultant_response": "The consultant provided a clear, direct response: 'Yeah, so as an Australian citizen, you only need to pay around $2,040 per unit. And then you can defer all that fees onto HECS' (call_597062531590, seg_71). This response exemplified strong enrollment closing behavior by immediately addressing the financial concern with specific figures while also highlighting the HECS-HELP payment option. The consultant's approach successfully combined clarity about costs with reassurance about payment flexibility, effectively supporting the student's decision-making process.",
+                    "recommended_approach": "When addressing financial queries, immediately provide clarity while maintaining enrollment momentum. Start with specific costs: 'As an Australian citizen, your fee is $2,040 per unit' to establish clear expectations. Then, quickly pivot to payment solutions: 'With HECS-HELP, you can defer these fees and only start repaying once you're earning above the threshold.' Always connect financial information to enrollment action: 'Since you're eligible for HECS-HELP, we can process your enrollment and HECS-HELP application together right now - it takes about 20 minutes total.' For students expressing financial concerns, emphasize the support available: 'Our student success team can guide you through the HECS-HELP application, and I'll personally ensure you have all the information needed.' The goal is to transform financial discussions from potential barriers into enablers of enrollment commitment. When students show interest after understanding costs, secure immediate commitment: 'Would you like to complete your enrollment now while I'm here to guide you through both the application and HECS-HELP forms?'"
+                },
+                {
+                    "number": "3",
+                    "title": "Urgent Timeline Communication",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597069766238",
+                            "segment_id": "36",
+                            "timestamp": "2:15"
+                        }
+                    },
+                    "student_trigger": "At 2:15 into the call, the consultant proactively established urgency by stating 'Now, enrolments due close tomorrow' (call_597069766238, seg_38). This created a clear timeline for action and set up an opportunity to drive immediate commitment. The timing of this statement was strategic, coming after initial interest had been established but before detailed process discussions could potentially dilute urgency.",
+                    "consultant_response": "The consultant effectively built on this urgency by explaining: 'The quicker we finalise the application, the quicker you will get your logins, so you'll be able to get started a lot quicker as soon as we finalise everything' (seg_36). This response successfully connected immediate action to tangible benefits, creating motivation for prompt enrollment. The consultant demonstrated strong enrollment closing behavior by maintaining control of the timeline while emphasizing positive outcomes of quick action.",
+                    "recommended_approach": "When communicating enrollment deadlines, immediately establish urgency while maintaining supportive guidance. Start with a clear statement of timeline: 'Our March intake closes tomorrow at 5 PM, and I want to ensure you don't miss out since you've shown such strong interest.' Follow this with immediate action steps: 'I have time right now to help you complete the enrollment - it only takes about 15 minutes. Would you like to secure your spot while we're on the call?' Always connect urgency to positive outcomes: 'By enrolling today, you'll have immediate access to your learning platform and can start preparing for your studies.' If you sense hesitation, acknowledge it while maintaining momentum: 'I understand this is a significant decision, but with the deadline tomorrow, I want to ensure you have all the support you need to make an informed choice today.' The key is to create urgency that motivates rather than pressures, always emphasizing the benefits of immediate action while providing clear, achievable next steps."
+                },
+                {
+                    "number": "4",
+                    "title": "Alternative Pathways Discussion",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597061649552",
+                            "segment_id": "83",
+                            "timestamp": "2:53"
+                        }
+                    },
+                    "student_trigger": "At 2:53 into the call, the student expressed concern about program alignment, asking 'Okay, and if it's not, if it doesn't align, do you just do a postgrad or what?' (call_597061649552, seg_83). This question revealed both uncertainty about their eligibility and interest in understanding alternative pathways, presenting a crucial opportunity to maintain engagement with the institution.",
+                    "consultant_response": "The consultant's response was limited in scope: 'If it doesn't align, we wouldn't be able to proceed with your application. So we only offer the Masters of Teaching secondary. If your Bachelor doesn't align, unfortunately, we wouldn't be able to offer you a position' (call_597061649552, seg_84). While honest, this response missed the opportunity to explore alternative pathways or maintain the student's engagement with the institution.",
+                    "recommended_approach": "When addressing potential program alignment challenges, maintain enrollment momentum by immediately pivoting to explore alternative pathways. Start with acknowledgment while keeping options open: 'Let's explore this together - while the Masters of Teaching has specific requirements, there are several pathways we can consider.' Engage in deeper exploration: 'Could you tell me more about your career goals in education? This will help us identify the most suitable pathway.' Guide toward concrete next steps: 'While we verify your eligibility for the Masters program, let's also look at alternative programs that align with your goals. I can schedule a follow-up call tomorrow to discuss all your options once I've consulted with our program advisors.' Always maintain institutional engagement: 'There are multiple paths to achieving your teaching goals - let's find the one that best fits your situation.'"
+                },
+                {
+                    "number": "5",
+                    "title": "Documentation Process Control",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062484261",
+                            "segment_id": "60",
+                            "timestamp": "02:45"
+                        }
+                    },
+                    "student_trigger": "The student mentioned needing documentation for potential credits: 'I might have to ask for them to give me the credits' (call_597062484261, seg_60). This moment presented a critical opportunity to ensure timely document submission while maintaining enrollment momentum.",
+                    "consultant_response": "The consultant provided passive guidance: 'I would recommend giving them a call as soon as possible' without taking control of the process or securing specific commitments. This approach failed to maintain momentum and left the next steps entirely in the student's hands.",
+                    "recommended_approach": "When handling document requirements, take immediate ownership of the process while maintaining enrollment momentum. Begin with clear action steps: 'Let's call your previous institution right now while we're on the call - I can help you draft the request.' Schedule specific follow-up: 'I'll call you tomorrow at 10 AM to confirm you've received the documents. What's the best number to reach you?' Create accountability: 'Let's set a deadline of Friday for document submission to ensure you don't miss the enrollment cutoff. I'll check in with you daily until we have everything needed.' Always maintain control of the process: 'If we hit any roadblocks with document collection, let me know immediately - I can help explore alternative documentation options.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Missed July Intake Commitment",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761393083",
+                            "segment_id": "39",
+                            "timestamp": "4:59"
+                        }
+                    },
+                    "student_trigger": "During the conversation at 4:59, the student indicated clear interest in a specific intake, stating 'Well, I'm probably looking at a July intake' (call_596761393083, seg_39). This was a critical moment that presented a clear opportunity to secure a firm commitment for enrollment, as the student's expression of timeline preference signaled readiness to discuss concrete enrollment steps.",
+                    "consultant_response": "The consultant's response fell short of maximizing this opportunity, replying with 'Yeah, beautiful. At the moment, again, we are just finalising enrolments for March' (call_596761393083, seg_39). While acknowledging the student's interest, this response failed to capitalize on the momentum by not immediately moving to secure the July enrollment. The conversation drifted away from what could have been a key commitment point.",
+                    "recommended_approach": "When a student expresses interest in a specific intake date, immediately pivot to securing that commitment while maintaining control of the enrollment process. Start with validating their choice: 'July is an excellent intake period - I can help you secure your spot right now.' Then move directly into action steps: 'Let's get your enrollment started for July while we're talking. First, I'll help you submit the initial application, which takes about 10 minutes, then we'll schedule a follow-up call tomorrow to complete your documentation.' Address any hesitation directly: 'What specific questions can I answer about the July intake to help you feel confident in moving forward?' The goal is to leave the conversation with either a confirmed enrollment or, at minimum, a scheduled follow-up with clear action items."
+                }
+            ]
+        }
+    }
+}

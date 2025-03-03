@@ -42,47 +42,51 @@ export interface EnrolmentReportData {
   }[];
   themes: {
     positive: {
+      headline: string;
       explanation: string;
-      explanation1?: string;
-      explanation2?: string;
     }[];
     improvement: {
+      headline: string;
       explanation: string;
-      explanation1?: string;
-      explanation2?: string;
     }[];
   };
   conversation_analysis: {
     condensed: {
-      conversations: {
-        id: number;
+      insights: {
+        number: string | number;
         title: string;
+        type: string;
+        is_aggregated: boolean;
         related_calls: {
           primary_call: {
             call_id: string;
             segment_id: string;
             timestamp: string;
           };
-          supporting_calls: {
-            call_id: string;
-            segment_id: string;
-            timestamp: string;
-          }[];
         };
-        consultant_close_attempt: string;
-        student_response: string;
-        consultant_adaptation: string;
-        recommended_improvement: string;
+        student_trigger: string;
+        context_impact: string;
+        consultant_response: string;
+        improvement: string;
       }[];
     };
     effective_collaborating_planning: {
-      goal_setting: {
-        id: number;
+      insights: {
+        number: string | number;
         title: string;
-        consultant_close_attempt: string;
-        student_response: string;
-        consultant_adaptation: string;
-        recommended_improvement: string;
+        type: string;
+        priority: string;
+        is_aggregated: boolean;
+        related_calls: {
+          primary_call: {
+            call_id: string;
+            segment_id: string;
+            timestamp: string;
+          };
+        };
+        student_trigger: string;
+        consultant_response: string;
+        recommended_approach: string;
       }[];
     };
   };

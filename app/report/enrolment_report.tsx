@@ -292,13 +292,8 @@ export default function EnrolmentReportPage({
                 {reportData.themes.positive.map(
                   (theme: any, index: number) => (
                     <li key={index} className="mb-4">
-                      <div className="text-lg font-normal mt-1">{theme.explanation}</div>
-                      {theme.explanation1 && (
-                        <div className="text-lg font-normal mt-4">{theme.explanation1}</div>
-                      )}
-                      {theme.explanation2 && (
-                        <div className="text-lg font-normal mt-4">{theme.explanation2}</div>
-                      )}
+                      <div className="text-xl font-medium mb-2">{theme.headline}</div>
+                      <div className="text-lg font-normal">{theme.explanation}</div>
                     </li>
                   )
                 )}
@@ -314,13 +309,8 @@ export default function EnrolmentReportPage({
                 {reportData.themes.improvement.map(
                   (theme: any, index: number) => (
                     <li key={index} className="mb-4">
-                      <div className="text-lg font-normal mt-1">{theme.explanation}</div>
-                      {theme.explanation1 && (
-                        <div className="text-lg font-normal mt-4">{theme.explanation1}</div>
-                      )}
-                      {theme.explanation2 && (
-                        <div className="text-lg font-normal mt-4">{theme.explanation2}</div>
-                      )}
+                      <div className="text-xl font-medium mb-2">{theme.headline}</div>
+                      <div className="text-lg font-normal">{theme.explanation}</div>
                     </li>
                   )
                 )}
@@ -333,39 +323,39 @@ export default function EnrolmentReportPage({
         <div className="mt-12">
           <h2 className="text-2xl mb-6 font-medium">Conversation Analysis</h2>
           <div className="space-y-4">
-            {reportData.conversation_analysis.condensed.conversations.map(
-              (conv: any) => (
-                <div key={conv.id} className="bg-[#2A2A2A] p-6 rounded">
+            {reportData.conversation_analysis.condensed.insights.map(
+              (insight: any) => (
+                <div key={insight.number} className="bg-[#2A2A2A] p-6 rounded">
                   <h3 className="text-xl font-medium mb-2">
-                    {conv.id}. {conv.title} 
+                    {insight.number}. {insight.title} 
                     <span className="text-sm text-[#a6a6a6] ml-2">
-                      (Call ID: {conv.related_calls.primary_call.call_id})
+                      (Call ID: {insight.related_calls.primary_call.call_id})
                     </span>
                   </h3>
-                  <div className="space-y-2 text-base font-normal">
+                  <div className="space-y-2 text-lg font-normal">
                     <p>
                       <span className="font-semibold">
-                        Consultant Close Attempt:
+                        Student Trigger:
                       </span>
-                      <br /> {conv.consultant_close_attempt}
+                      <br /> {insight.student_trigger}
                     </p>
                     <p>
                       <span className="font-semibold">
-                        Student Response:
+                        Context Impact:
                       </span>
-                      <br /> {conv.student_response}
+                      <br /> {insight.context_impact}
                     </p>
                     <p>
                       <span className="font-semibold">
-                        Consultant Adaptation:
+                        Consultant Response:
                       </span>
-                      <br /> {conv.consultant_adaptation}
+                      <br /> {insight.consultant_response}
                     </p>
                     <p>
                       <span className="font-semibold">
-                        Recommended Improvement:
+                        Improvement:
                       </span>
-                      <br /> {conv.recommended_improvement}
+                      <br /> {insight.improvement}
                     </p>
                   </div>
                 </div>
@@ -376,42 +366,30 @@ export default function EnrolmentReportPage({
 
         {/* Effective Collaborating Planning */}
         <div className="mt-16 space-y-12">
-          {reportData.conversation_analysis.effective_collaborating_planning.goal_setting.map((conv: any) => (
-            <div key={conv.id} className="space-y-6">
+          {reportData.conversation_analysis.effective_collaborating_planning.insights.map((insight: any) => (
+            <div key={insight.number} className="space-y-6">
               <h2 className="text-2xl mb-6 font-medium">
-                {conv.id}. {conv.title}
+                {insight.number}. {insight.title}
               </h2>
 
-              {/* Consultant Close Attempt */}
+              {/* Student Trigger */}
               <div className="space-y-2">
                 <h3 className="text-xl font-normal italic">
-                  Consultant Close Attempt:
+                  Student Trigger:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
-                  <p className="text-lg font-normal">{conv.consultant_close_attempt}</p>
+                  <p className="text-lg font-normal">{insight.student_trigger}</p>
                 </div>
               </div>
 
-              {/* Student Response */}
+              {/* Consultant Response */}
               <div className="space-y-2">
                 <h3 className="text-xl font-normal italic">
-                  Student Response:
+                  Consultant Response:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
                   <p className="text-lg font-normal">
-                    {conv.student_response}
-                  </p>
-                </div>
-              </div>
-
-              {/* Consultant Adaptation */}
-              <div className="space-y-2">
-                <h3 className="text-xl font-normal italic">
-                  Consultant Adaptation:
-                </h3>
-                <div className="border border-[#78c38e] rounded-lg p-6">
-                  <p className="text-lg font-normal">
-                    {conv.consultant_adaptation}
+                    {insight.consultant_response}
                   </p>
                 </div>
               </div>
@@ -419,11 +397,11 @@ export default function EnrolmentReportPage({
               {/* Recommended Improvement */}
               <div className="space-y-2">
                 <h3 className="text-xl font-normal italic">
-                  Recommended Improvement:
+                  Recommended Approach:
                 </h3>
                 <div className="border border-[#FF6B8A] rounded-lg p-6">
                   <p className="text-lg font-normal">
-                    {conv.recommended_improvement}
+                    {insight.recommended_approach}
                   </p>
                 </div>
               </div>

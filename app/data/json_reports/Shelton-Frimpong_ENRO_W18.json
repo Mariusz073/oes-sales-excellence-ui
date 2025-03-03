@@ -1,0 +1,341 @@
+{
+    "metadata": {
+        "consultant_name": "Shelton Frimpong",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 60,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 38,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 45,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 0,
+            "red": 95
+        },
+        {
+            "label": "Clear action plan",
+            "green": 36,
+            "red": 5
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 27,
+            "red": 5
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 18,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 0,
+            "red": 95
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Process Leadership",
+                "explanation": "Consultants effectively guide enrollment journey through direct control, confident facilitation, and ownership of next steps with clear timelines"
+            },
+            {
+                "headline": "Program Flexibility Communication",
+                "explanation": "Strong demonstration of how program features accommodate diverse student circumstances through specific examples and tangible solutions that maintain momentum"
+            },
+            {
+                "headline": "Documentation Support Control",
+                "explanation": "Clear ownership of document submission process with immediate alternatives, specific timelines, and proactive follow-up commitments"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Commitment Securing",
+                "explanation": "Enhanced techniques needed for converting expressed interest into firm enrollment commitments with specific timelines and accountability measures"
+            },
+            {
+                "headline": "Timeline Leadership",
+                "explanation": "Stronger emphasis required on establishing specific deadlines and scheduled follow-ups to maintain enrollment momentum through key decision points"
+            },
+            {
+                "headline": "Career Progression Urgency",
+                "explanation": "More compelling connection needed between immediate enrollment action and accelerated achievement of career goals through specific timeline benefits"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Alternative Documentation Solutions",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845943962",
+                            "segment_id": "46",
+                            "timestamp": "04:25"
+                        }
+                    },
+                    "student_trigger": "Student expressed: 'No, I applied for it on the online thing, but it said it was gonna take like five days, and I needed to get it to you faster' (call_596845943962, seg_46), revealing urgency in document certification.",
+                    "context_impact": "Quick resolution of documentation barriers essential for maintaining enrollment momentum.",
+                    "consultant_response": "Consultant provided clear alternative: 'If you go to like your Justice of Peace, so you can go to a pharmacist or police station or even a post office, they normally can get it physically certified for you' (call_596845943962, seg_48).",
+                    "improvement": "Include specific follow-up timing after providing alternative solutions and schedule immediate check-in."
+                },
+                {
+                    "number": "2",
+                    "title": "Schedule Flexibility Communication",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914988261",
+                            "segment_id": "52",
+                            "timestamp": "03:05"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914988261",
+                                "segment_id": "53",
+                                "timestamp": "03:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student asked: 'Yeah, okay. Awesome, so with when, so is it like, obviously when a normal uni, you know, choose your timetable and stuff and whatever and then you go to classes, etc, is it like you still have, like you said, the classes are live, so is there like a schedule of when they would be during the week?' (call_596914988261, seg_52).",
+                    "context_impact": "Clear demonstration of program adaptability crucial for converting interest to enrollment.",
+                    "consultant_response": "Consultant provided practical solution: 'Yeah, so they're normally in the evening...if for example you can't make them because of work reasons, that's perfectly fine...get to in your own time as well' (call_596914988261, seg_53).",
+                    "improvement": "Include specific examples of successful study patterns from current working professionals."
+                },
+                {
+                    "number": "3",
+                    "title": "Missed Commitment Opportunity",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147795827",
+                            "segment_id": "35",
+                            "timestamp": "03:30"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'Honestly, I don't really have too many other questions, I'm keen to just get into it, really' (call_597147795827, seg_35), showing readiness to proceed.",
+                    "context_impact": "Critical moment to convert enthusiasm into immediate enrollment action.",
+                    "consultant_response": "Response failed to secure commitment or establish specific next steps, missing opportunity to maintain momentum.",
+                    "improvement": "Immediately propose concrete enrollment steps with specific completion timeline."
+                },
+                {
+                    "number": "4",
+                    "title": "Career Goal Alignment",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148082347",
+                            "segment_id": "58",
+                            "timestamp": "5:57"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'I'm looking into doing security work and also potentially eventually like bail enforcement' (call_597148082347, seg_58), revealing specific career aspirations.",
+                    "context_impact": "Prime opportunity to demonstrate immediate career benefits of enrollment and establish urgency.",
+                    "consultant_response": "Consultant confirmed: 'This course 100% does help with that...you have seven electives, eight core units and nine major units' (call_597148082347, seg_67).",
+                    "improvement": "Link specific course components to immediate career advancement opportunities and create enrollment urgency."
+                },
+                {
+                    "number": "5",
+                    "title": "Enrollment Timeline Management",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597061576646",
+                            "segment_id": "100",
+                            "timestamp": "05:10"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597061576646",
+                                "segment_id": "101",
+                                "timestamp": "05:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student responded: 'All right, no worries, send me that information as well, we'll see' (call_597061576646, seg_100), indicating potential hesitation.",
+                    "context_impact": "Critical moment to secure firm commitment rather than allowing open-ended consideration.",
+                    "consultant_response": "Consultant stated: 'I'll send you that information, have a look through that, okay, and if you're looking obviously enroll in...' (call_597061576646, seg_101).",
+                    "improvement": "Use direct language to secure specific enrollment commitment and next steps with clear timeline."
+                },
+                {
+                    "number": "6",
+                    "title": "Document Submission Control",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983099817",
+                            "segment_id": "88",
+                            "timestamp": "14:03"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597148063834",
+                                "segment_id": "92",
+                                "timestamp": "15:20"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student confirmed readiness: 'No worries, I can send that to you now' (call_596983099817, seg_88), showing proactive engagement.",
+                    "context_impact": "Immediate document processing guidance crucial for maintaining enrollment momentum.",
+                    "consultant_response": "Consultant maintained process control: 'Fantastic, send that across to myself and I'll send it across to admin team, get assessed, and I can get back to you' (call_596983099817, seg_88).",
+                    "improvement": "Include specific timeline for assessment completion and outline subsequent enrollment steps."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Alternative Documentation Solutions",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845943962",
+                            "segment_id": "46",
+                            "timestamp": "04:25"
+                        }
+                    },
+                    "student_trigger": "At a critical point in the enrollment process, the student expressed concern about documentation timing: 'No, I applied for it on the online thing, but it said it was gonna take like five days, and I needed to get it to you faster' (call_596845943962, seg_46). This revealed both urgency and potential barrier to enrollment completion, requiring immediate resolution to maintain momentum.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior through clear, solution-focused guidance: 'If you go to like your Justice of Peace, so you can go to a pharmacist or police station or even a post office, they normally can get it physically certified for you' (call_596845943962, seg_48). This response effectively transformed a potential enrollment barrier into a manageable task by providing multiple specific solutions. The consultant maintained control of the process while ensuring the student had clear, actionable alternatives.",
+                    "recommended_approach": "When students encounter documentation barriers, immediately pivot to providing multiple viable alternatives while maintaining control of the process. Begin by acknowledging their urgency: 'I understand you need this processed quickly, and I can help with that.' Then present specific, actionable solutions: 'While the online system takes five days, we have several faster options available right now. You can visit any local Justice of Peace, pharmacy, or post office today for immediate certification.' Always follow solution provision with a clear timeline and next step: 'Once you get it certified, I'll be available to process your enrollment immediately. Shall we set up a time tomorrow morning to finalize everything?' This approach transforms potential barriers into opportunities to demonstrate institutional support while maintaining enrollment momentum. For students expressing particular urgency, emphasize same-day options and offer to coordinate immediate follow-up. When students seem hesitant about the alternative process, provide specific examples of how other students have successfully used these options to maintain their confidence and momentum."
+                },
+                {
+                    "number": "2",
+                    "title": "Schedule Flexibility Communication",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914988261",
+                            "segment_id": "52",
+                            "timestamp": "03:05"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914988261",
+                                "segment_id": "53",
+                                "timestamp": "03:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During key enrollment discussions, the student sought clarity on program scheduling: 'Yeah, okay. Awesome, so with when, so is it like, obviously when a normal uni, you know, choose your timetable and stuff and whatever and then you go to classes, etc, is it like you still have, like you said, the classes are live, so is there like a schedule of when they would be during the week?' This query revealed both interest and potential scheduling concerns that needed addressing to maintain enrollment momentum.",
+                    "consultant_response": "The consultant effectively demonstrated program flexibility while maintaining momentum: 'Yeah, so they're normally in the evening...if for example you can't make them because of work reasons, that's perfectly fine...get to in your own time as well.' This response showed strong understanding of student needs while providing practical solutions that addressed scheduling concerns.",
+                    "recommended_approach": "When addressing schedule flexibility queries, start by validating the student's need for clear structure while emphasizing our program's adaptability. Begin with confident assurance: 'Our program is specifically designed to work around your commitments. Let me show you exactly how.' Then provide specific examples: 'Most live sessions are scheduled in the evenings, typically from 6-8pm, but here's the key - every session is recorded and available within 24 hours. Many of our students watch recordings during their lunch breaks or quiet periods at work.' Create immediate next steps: 'Let's look at your typical weekly schedule and plan how you'll engage with the program. Would you prefer to join live evening sessions or access recordings at specific times?' Always connect flexibility to enrollment urgency: 'Since our July intake is approaching, securing your spot now means you can start planning your ideal study schedule. Shall we complete your enrollment today so you can begin mapping out your study times?'"
+                },
+                {
+                    "number": "3",
+                    "title": "Missed Commitment Opportunity",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147795827",
+                            "segment_id": "35",
+                            "timestamp": "03:30"
+                        }
+                    },
+                    "student_trigger": "The student expressed clear readiness to proceed, stating: 'Honestly, I don't really have too many other questions, I'm keen to just get into it, really' (call_597147795827, seg_35). This direct expression of enthusiasm presented a prime opportunity to secure immediate commitment and begin the enrollment process.",
+                    "consultant_response": "The consultant failed to capitalize on this moment of enthusiasm by not providing immediate next steps or securing a firm commitment. Instead of guiding the student towards concrete enrollment actions, the response left the next steps undefined and failed to maintain the momentum of the student's expressed eagerness.",
+                    "recommended_approach": "When students express readiness to proceed, immediately channel that enthusiasm into concrete enrollment actions. Start with strong affirmation: 'That's fantastic! I can tell you're ready to begin your journey with us. Let's secure your spot right now.' Then transition directly to action: 'We can complete your enrollment in the next 30 minutes - shall we start with the application form?' For students showing particular eagerness, emphasize immediate benefits: 'Getting enrolled today means you'll have immediate access to orientation materials and can begin planning your study schedule.' Always secure specific commitments: 'Let's schedule your orientation for next week - would Tuesday at 2 PM or Wednesday at 10 AM work better for you?' Follow up with clear next steps: 'While I process your enrollment, I'll send you an email confirming your orientation time and the three things you need to prepare before then.'"
+                },
+                {
+                    "number": "4",
+                    "title": "Career Goal Alignment",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148082347",
+                            "segment_id": "58",
+                            "timestamp": "5:57"
+                        }
+                    },
+                    "student_trigger": "The student explicitly shared their career aspirations: 'I'm looking into doing security work and also potentially eventually like bail enforcement' (call_597148082347, seg_58), presenting a clear opportunity to demonstrate immediate program value and create enrollment urgency through career alignment.",
+                    "consultant_response": "While the consultant confirmed program relevance and outlined structure ('This course 100% does help with that...you have seven electives, eight core units and nine major units'), they missed the opportunity to create compelling urgency around starting immediately to achieve career goals.",
+                    "recommended_approach": "When students express specific career goals, immediately connect program completion to career achievement timelines. Begin with strong validation: 'Your interest in security work and bail enforcement aligns perfectly with our program structure. Starting in July means you'll complete key security-focused units before peak hiring seasons.' Then detail specific benefits: 'Our criminal justice units provide immediate applicable skills in security protocols, while psychology units enhance your understanding of human behavior - crucial for bail enforcement roles.' Create urgency through industry timing: 'The security sector typically increases hiring in Q1. Starting now means you'll have completed essential certifications right when opportunities expand.' Always secure immediate commitment: 'Let's get your application submitted today so you can begin building your security credentials. Would you prefer to do that now or schedule a time this afternoon?'"
+                },
+                {
+                    "number": "5",
+                    "title": "Enrollment Timeline Management",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597061576646",
+                            "segment_id": "100",
+                            "timestamp": "05:10"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597061576646",
+                                "segment_id": "101",
+                                "timestamp": "05:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student's response indicated potential hesitation: 'All right, no worries, send me that information as well, we'll see' (call_597061576646, seg_100). This moment required strong leadership to convert browsing behavior into specific enrollment commitments.",
+                    "consultant_response": "The consultant's passive response ('I'll send you that information, have a look through that, okay, and if you're looking obviously enroll in...') failed to establish clear timelines or maintain control of the enrollment process.",
+                    "recommended_approach": "When encountering timeline uncertainty, immediately establish specific action steps while maintaining supportive guidance. Start with understanding: 'I appreciate you want to review the information carefully. Let's do that together now so I can answer any questions immediately.' Then create urgency through specific benefits: 'Since our July intake closes next week, enrolling today ensures you get your preferred study schedule and orientation time.' Always secure next steps: 'I'll guide you through the enrollment form now - it takes about 15 minutes. Then we'll schedule your orientation for next week. Does 2 PM or 4 PM typically work better for you?' For students showing hesitation, emphasize immediate advantages: 'Starting in July means you'll complete your first units before peak industry hiring seasons. Let's secure your spot now so you don't miss this timing advantage.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Document Submission Control",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983099817",
+                            "segment_id": "88",
+                            "timestamp": "14:03"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597148063834",
+                                "segment_id": "92",
+                                "timestamp": "15:20"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Multiple students showed readiness for document submission, with one stating: 'No worries, I can send that to you now' (call_596983099817, seg_88), presenting crucial opportunities to maintain enrollment momentum through efficient document processing.",
+                    "consultant_response": "The consultant maintained basic process control: 'Fantastic, send that across to myself and I'll send it across to admin team, get assessed, and I can get back to you' (call_596983099817, seg_88), but could have established more specific timelines and next steps.",
+                    "recommended_approach": "When students show readiness to submit documents, immediately establish specific timelines and accountability measures. Begin with enthusiasm: 'Excellent! Let's get these documents processed today so we can keep your enrollment moving forward.' Then set concrete deadlines: 'Once you send the documents, I'll confirm receipt within 15 minutes and have them assessed within 24 hours. I'll call you tomorrow at 2 PM with the results.' For students with multiple documents, provide clear prioritization: 'Let's start with your transcript, which is most crucial for enrollment. While that's being assessed, we can gather any remaining documents.' Always maintain momentum: 'Getting these documents submitted today means we can finalize your enrollment this week. Shall we complete the submission now while I'm here to help?'"
+                }
+            ]
+        }
+    }
+}

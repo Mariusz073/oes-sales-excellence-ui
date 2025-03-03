@@ -1,0 +1,299 @@
+{
+    "metadata": {
+        "consultant_name": "Sarah Charlwood",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 47,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 48,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 40,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 8,
+            "red": 92
+        },
+        {
+            "label": "Clear action plan",
+            "green": 33,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 8,
+            "red": 8
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 33,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 8,
+            "red": 92
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Process Control",
+                "explanation": "Consultants effectively maintain enrollment momentum through clear deadlines, actionable next steps, and confident guidance throughout the decision journey"
+            },
+            {
+                "headline": "Barrier Resolution Leadership",
+                "explanation": "Strong demonstration of confident problem-solving that transforms potential enrollment barriers into manageable steps through immediate, practical solutions"
+            },
+            {
+                "headline": "Alternative Pathway Expertise",
+                "explanation": "Effective identification and redirection toward suitable program options while maintaining engagement through concrete next steps and clear timelines"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Commitment Securing",
+                "explanation": "Enhanced focus needed on obtaining explicit verbal agreements and scheduled follow-up appointments rather than leaving next steps open-ended"
+            },
+            {
+                "headline": "Process Leadership",
+                "explanation": "Stronger ownership required in guiding enrollment conversations through decisive direction and consistent maintenance of conversation control"
+            },
+            {
+                "headline": "Follow-up Planning",
+                "explanation": "More proactive approach needed in establishing specific follow-up schedules and clear action steps rather than leaving timing ambiguous"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Process Control with Deadlines",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761392388",
+                            "segment_id": "282",
+                            "timestamp": "22:38"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'But that was one of the main reasons I wanted to speak to was that pathway.' (call_596761392388, seg_273), revealing key decision point around enrollment pathway.",
+                    "context_impact": "Clear process control and deadline emphasis needed to convert pathway interest into enrollment action.",
+                    "consultant_response": "Consultant demonstrated strong control: 'Just so you know, our enrollments are closing at the end of the week for our March teaching period... I can give you a priority assessment just to let you know about your eligibility' (call_596761392388, seg_282).",
+                    "improvement": "Include specific follow-up scheduling to maintain momentum."
+                },
+                {
+                    "number": "2",
+                    "title": "Effective Alternative Pathways Guidance",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983004717",
+                            "segment_id": "33",
+                            "timestamp": "32:33"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'So I wasn't actually able to complete that' (call_596983004717, seg_33), revealing previous educational barriers.",
+                    "context_impact": "Clear demonstration of pathway options was critical to maintain student engagement after disclosure of past challenges.",
+                    "consultant_response": "Consultant offered concrete solutions: 'Then there's a couple of other options that are available to us to support you entering the course. The two options are that you could do what is called a stat test... Otherwise, another pathway for you would be completing something like a certificate for or a diploma' (call_596983004717, seg_51)",
+                    "improvement": "Include specific success stories of students who completed alternative pathways."
+                },
+                {
+                    "number": "3",
+                    "title": "Documentation Access Resolution",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158810342",
+                            "segment_id": "23",
+                            "timestamp": "1:22"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'I'll be honest with you, I can't access that information because I still owe Sydney University money and so they've locked me out' (call_597158810342, seg_23)",
+                    "context_impact": "Financial barrier presented critical obstacle requiring immediate solution to maintain enrollment progress.",
+                    "consultant_response": "Consultant provided immediate solution: 'There is a way to request academic transcripts... MyEquals is a platform that works with the universities around Australia' (call_597158810342, seg_27)",
+                    "improvement": "Add specific guidance on financial barrier resolution while maintaining enrollment focus."
+                },
+                {
+                    "number": "4",
+                    "title": "Missed Commitment Opportunity",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914863714",
+                            "segment_id": "45",
+                            "timestamp": "45:15"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'I'll just have a look at it anyway, but if I do decide to do anything, I'll just give you a call back' (call_596914863714, seg_45)",
+                    "context_impact": "Critical moment to secure commitment was missed, risking loss of enrollment momentum.",
+                    "consultant_response": "Consultant replied passively: 'Yeah, no worries. I'll send you an email with some information, so if you need to have a little look at anything, it'll all just be there for you' (call_596914863714, seg_48)",
+                    "improvement": "Take control by scheduling specific follow-up time and outlining clear next steps."
+                },
+                {
+                    "number": "5",
+                    "title": "Dual Interest Follow-up",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845955708",
+                            "segment_id": "7",
+                            "timestamp": "00:39"
+                        }
+                    },
+                    "student_trigger": "Student noted: 'No, just considering it and so is my daughter' (call_596845955708, seg_7), revealing potential for multiple enrollments.",
+                    "context_impact": "Opportunity to secure multiple enrollments required strategic handling and clear next steps.",
+                    "consultant_response": "Consultant focused on fees: 'In terms of HexHelp, how it works is that there are unit fees for every subject' (call_596845955708, seg_9)",
+                    "improvement": "Need stronger focus on securing commitments from both parties with specific timelines."
+                },
+                {
+                    "number": "6",
+                    "title": "Alternative Program Direction",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846348819",
+                            "segment_id": "77",
+                            "timestamp": "2:15"
+                        }
+                    },
+                    "student_trigger": "Student revealed: 'No, my wife, she has completed diploma in early childhood. I have not studied early' (call_596846348819, seg_77)",
+                    "context_impact": "Eligibility limitation required immediate redirection to maintain enrollment potential.",
+                    "consultant_response": "Consultant stated: 'Okay, so for yourself, you wouldn't be eligible for this course, unfortunately' (call_596846348819, seg_78)",
+                    "improvement": "Provide clear alternative pathways with specific program recommendations and start dates."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Process Control with Deadlines",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761392388",
+                            "segment_id": "282",
+                            "timestamp": "22:38"
+                        }
+                    },
+                    "student_trigger": "When discussing enrollment pathways, the student expressed specific interest: 'But that was one of the main reasons I wanted to speak to was that pathway' (call_596761392388, seg_273). This direct expression of interest presented a critical opportunity to demonstrate enrollment closing behavior by securing commitment and clarifying next steps while maintaining momentum.",
+                    "consultant_response": "The consultant effectively maintained control of the process by immediately introducing urgency and clear next steps: 'Just so you know, our enrollments are closing at the end of the week for our March teaching period... I can give you a priority assessment just to let you know about your eligibility and to secure a spot for you' (call_596761392388, seg_282). This response successfully combined deadline pressure with actionable steps, demonstrating strong enrollment closing behavior.",
+                    "recommended_approach": "When students express specific interest in enrollment pathways, immediately establish control of the process while maintaining momentum toward commitment. Begin by acknowledging their interest and introducing urgency through relevant deadlines: 'I'm glad you asked about the pathway. With our March intake closing this Friday, let's make sure you have everything you need to secure your spot.' Follow this with crystal clear next steps, always taking ownership of the process: 'Here's exactly what we'll do - I'll send you the pathway details right now, then I'll call you tomorrow at 2pm to walk through your application together.' The key is maintaining a balance between urgency and support, never leaving the next steps ambiguous or solely in the student's hands. Use confident language that assumes progress while providing specific guidance: 'Let's get your application started while we have you on the line, then I can explain each step as we go through it together.'"
+                },
+                {
+                    "number": "2",
+                    "title": "Effective Alternative Pathways Guidance",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983004717",
+                            "segment_id": "33",
+                            "timestamp": "32:33"
+                        }
+                    },
+                    "student_trigger": "During a critical moment in the conversation, the student revealed significant barriers to enrollment by stating: 'So I wasn't actually able to complete that' (call_596983004717, seg_33). This admission about past challenges created an opportunity for the consultant to demonstrate how alternative pathways could address previous obstacles while maintaining momentum toward enrollment.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by immediately offering clear alternatives: 'Then there's a couple of other options that are available to us to support you entering the course. The two options are that you could do what is called a stat test... Otherwise, another pathway for you would be completing something like a certificate for or a diploma' (call_596983004717, seg_51). This response effectively balanced acknowledging the past challenge while focusing on future possibilities.",
+                    "recommended_approach": "When students disclose past educational challenges, transform these moments into opportunities to showcase pathway flexibility while maintaining enrollment momentum. Begin by acknowledging their experience with empathy, then immediately pivot to solution-focused discussion using confident, direct language: 'I understand that previous challenge, and I'm glad you shared that with us. Let me show you how we can move forward.' Present alternative pathways as equally valid routes to their goals, using specific examples of how each option works. When discussing STAT tests or diploma pathways, provide concrete details about timeframes, support available, and next steps. The key is maintaining momentum by focusing on future possibilities rather than dwelling on past challenges. Guide the conversation with confident phrases like 'Here's how we'll get you started' rather than tentative language like 'You might want to consider.'"
+                },
+                {
+                    "number": "3",
+                    "title": "Documentation Access Resolution",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158810342",
+                            "segment_id": "23",
+                            "timestamp": "1:22"
+                        }
+                    },
+                    "student_trigger": "At a critical point in the enrollment process, the student revealed a significant barrier: 'I'll be honest with you, I can't access that information because I still owe Sydney University money and so they've locked me out' (call_597158810342, seg_23). This admission highlighted both a practical obstacle to enrollment progression and an emotional concern that could potentially derail the application process.",
+                    "consultant_response": "The consultant demonstrated strong process control by immediately offering a solution: 'There is a way to request academic transcripts... MyEquals is a platform that works with the universities around Australia' (call_597158810342, seg_27). This response showed leadership by providing a specific, actionable solution while maintaining positive momentum.",
+                    "recommended_approach": "When addressing documentation access barriers, particularly those related to financial constraints, maintain a balance between empathy and forward momentum. Begin by acknowledging the challenge while immediately presenting a solution: 'I understand accessing your records is challenging, and I'm here to help navigate this.' Follow quickly with specific, actionable steps: 'Let me show you how we can use MyEquals to request your transcripts safely and effectively.' The key is maintaining enrollment momentum while providing clear support. Rather than getting caught up in resolving the underlying financial issue, focus on the immediate path forward: 'While we work on accessing your transcripts, let's continue preparing other aspects of your application to ensure you don't miss the next intake.' Always maintain control of the process with specific follow-up commitments: 'I'll call you tomorrow at 2pm to confirm you've received the MyEquals access and help you submit the request.'"
+                },
+                {
+                    "number": "4",
+                    "title": "Missed Commitment Opportunity",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914863714",
+                            "segment_id": "45",
+                            "timestamp": "45:15"
+                        }
+                    },
+                    "student_trigger": "The student indicated potential hesitation while showing interest: 'I'll just have a look at it anyway, but if I do decide to do anything, I'll just give you a call back' (call_596914863714, seg_45). This moment represented a critical opportunity to secure commitment and maintain enrollment momentum rather than allowing the student to disengage without clear next steps.",
+                    "consultant_response": "The consultant's response demonstrated a missed opportunity for enrollment closing behavior: 'Yeah, no worries. I'll send you an email with some information, so if you need to have a little look at anything, it'll all just be there for you' (call_596914863714, seg_48). This passive approach surrendered control of the process to the student and failed to establish concrete next steps.",
+                    "recommended_approach": "When students show interest but hesitate to commit, take proactive control of the next steps while maintaining supportive guidance. Instead of leaving follow-up open-ended, use direct language to schedule specific actions: 'I'll send you that information right now, and I'll call you tomorrow at 2pm to discuss any questions - does that time work for you?' This approach maintains momentum while showing respect for their need to review materials. Frame the follow-up call as a valuable opportunity: 'When we speak tomorrow, I can explain how these features specifically benefit your situation and guide you through the next steps.' The key is transforming their 'I'll call you' into a concrete plan that you control, using confident language like: 'Let's secure your spot in the program once we've addressed any questions during our call tomorrow.'"
+                },
+                {
+                    "number": "5",
+                    "title": "Dual Interest Follow-up",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845955708",
+                            "segment_id": "7",
+                            "timestamp": "00:39"
+                        }
+                    },
+                    "student_trigger": "The student revealed multiple potential enrollments: 'No, just considering it and so is my daughter' (call_596845955708, seg_7). This disclosure presented a valuable opportunity to engage both potential students and leverage family support for stronger enrollment commitment.",
+                    "consultant_response": "The consultant focused solely on financial information: 'In terms of HexHelp, how it works is that there are unit fees for every subject' (call_596845955708, seg_9). This approach missed the opportunity to secure commitment from both parties and establish clear next steps for dual enrollment.",
+                    "recommended_approach": "When encountering dual interest from family members, leverage this shared commitment to education while maintaining clear progression toward enrollment for both parties. Begin by acknowledging the family dynamic: 'It's wonderful that you're both considering furthering your education together. Let's explore how we can support both your journeys.' Then take immediate control of the process: 'I'd like to schedule a time to speak with both of you tomorrow to discuss your specific program interests and help you both get started. Would 2pm work?' The key is maintaining momentum while addressing both individual and shared needs. Use specific language that assumes progress: 'Let's secure your spots in the upcoming intake and ensure you both have everything needed to start together.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Alternative Program Direction",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846348819",
+                            "segment_id": "77",
+                            "timestamp": "2:15"
+                        }
+                    },
+                    "student_trigger": "The student revealed an eligibility gap while discussing program options: 'No, my wife, she has completed diploma in early childhood. I have not studied early' (call_596846348819, seg_77). This moment required immediate redirection to maintain enrollment potential.",
+                    "consultant_response": "The consultant's response focused solely on ineligibility: 'Okay, so for yourself, you wouldn't be eligible for this course, unfortunately' (call_596846348819, seg_78). This approach failed to maintain enrollment momentum by not exploring alternative pathways or leveraging the student's interest.",
+                    "recommended_approach": "When addressing eligibility limitations, maintain enrollment momentum by immediately pivoting to viable alternatives. Begin with positive acknowledgment of their interest while introducing alternative pathways: 'While this specific program requires early childhood experience, I can show you several excellent pathways that would lead to your goal. Let's explore our certificate program that would give you the foundation you need.' Always maintain forward momentum by suggesting specific next steps: 'The next intake for our certificate program starts in March. Shall we look at securing your spot now?' The key is transforming an eligibility barrier into a guided pathway opportunity, using confident language like: 'I'll help you map out the quickest route to achieve your career goals in early childhood education.'"
+                }
+            ]
+        }
+    }
+}

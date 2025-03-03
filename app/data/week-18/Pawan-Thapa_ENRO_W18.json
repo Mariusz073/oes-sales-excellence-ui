@@ -1,0 +1,327 @@
+{
+    "metadata": {
+        "consultant_name": "Pawan Thapa",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 50,
+        "team": 67
+    },
+    "percentage_of_attempted_close": {
+        "individual": 19,
+        "team": 20
+    },
+    "percentage_of_positive_response": {
+        "individual": 25,
+        "team": 47
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 0,
+            "red": 93
+        },
+        {
+            "label": "Clear action plan",
+            "green": 14,
+            "red": 7
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 21,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 21,
+            "red": 7
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 0,
+            "red": 93
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Direct Process Leadership",
+                "explanation": "Consultants effectively maintain control of enrollment discussions through clear next steps and proactive guidance, consistently demonstrating strong direction in moving students toward commitment"
+            },
+            {
+                "headline": "Timeline Communication",
+                "explanation": "Strong demonstration of creating urgency through specific dates and deadlines while highlighting immediate enrollment benefits and early access advantages"
+            },
+            {
+                "headline": "Career Value Integration",
+                "explanation": "Clear connection of program benefits to specific career outcomes and advancement opportunities, using success stories to drive immediate enrollment decisions"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Immediate Commitment Securing",
+                "explanation": "Enhanced focus needed on obtaining explicit verbal agreements and establishing concrete next steps with specific timelines for enrollment completion"
+            },
+            {
+                "headline": "Early Access Leverage",
+                "explanation": "Stronger emphasis required on converting early access benefits awareness into immediate enrollment action through clear value demonstration"
+            },
+            {
+                "headline": "Documentation Support",
+                "explanation": "More comprehensive guidance needed for complex documentation scenarios with clear alternative pathways and specific submission timelines"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Direct Timeline Communication",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147760323",
+                            "segment_id": "260",
+                            "timestamp": "14:32"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147760323",
+                                "segment_id": "261",
+                                "timestamp": "14:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student asked: 'So, when do I need to enroll and when does the course start?' (call_597147760323, seg_260), seeking clear guidance on enrollment timing and course commencement.",
+                    "context_impact": "Critical moment to transform timing questions into immediate enrollment action through clear deadlines and early access benefits.",
+                    "consultant_response": "Consultant provided specific dates: 'The enrollment is closing on the 17th of April. The course starts on the 5th of May, but students who enroll early will have access to the unit on the 22nd of April' (call_597147760323, seg_261).",
+                    "improvement": "Connect timeline information directly to immediate enrollment action by securing verbal commitment to enroll today"
+                },
+                {
+                    "number": "2",
+                    "title": "Early Access Benefit Leverage",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846016216",
+                            "segment_id": "14",
+                            "timestamp": "2:36"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'So the course is actually starting on the 5th of May and you actually have, if you enroll early, you'll have access to the unit on the 22nd of April' (call_596846016216, seg_14), presenting a clear opportunity to secure early enrollment.",
+                    "context_impact": "Early access benefit provided perfect leverage for immediate enrollment commitment.",
+                    "consultant_response": "Consultant replied: 'Once that gets approved from our admin team, then we can enrol you for the main intake' (seg_34), missing the opportunity to secure immediate commitment.",
+                    "improvement": "Directly link early access benefit to immediate enrollment action with clear next steps: 'Let's secure your early access now by completing your enrollment.'"
+                },
+                {
+                    "number": "3",
+                    "title": "Professional Schedule Integration",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147728402",
+                            "segment_id": "185",
+                            "timestamp": "13:40"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'I'm thinking of doing a part-time while working full-time' (call_597147728402, seg_185), revealing key concern about program compatibility.",
+                    "context_impact": "Critical moment to demonstrate program flexibility while securing commitment from engaged prospect.",
+                    "consultant_response": "Consultant effectively confirmed program structure matches working professional needs while maintaining momentum.",
+                    "improvement": "Add immediate commitment securing: 'Given how well our schedule aligns with your work, shall we secure your spot in the May intake now?'"
+                },
+                {
+                    "number": "4",
+                    "title": "Documentation Process Leadership",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908504125",
+                            "segment_id": "46",
+                            "timestamp": "03:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596761309965",
+                                "segment_id": "256",
+                                "timestamp": "25:40"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student expressed: 'Do you guys require a reference from the Honours Supervisor because he died' (call_596908504125, seg_46), revealing both documentation concerns and personal circumstances requiring sensitive handling.",
+                    "context_impact": "Critical moment requiring balance of empathetic support with clear guidance toward application completion while maintaining enrollment momentum.",
+                    "consultant_response": "Consultant provided basic acknowledgment: 'No, no, no. Sorry to hear about that, but we would not require that' (call_596908504125, seg_48), missing opportunity for comprehensive support.",
+                    "improvement": "Provide clear alternative documentation pathways with specific submission timeline and immediate verification steps"
+                },
+                {
+                    "number": "5",
+                    "title": "Career Value Integration",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982717264",
+                            "segment_id": "16",
+                            "timestamp": "01:45"
+                        }
+                    },
+                    "student_trigger": "Student expressed: 'I'm looking to improve my skills. I've done my bachelors in hospitality management and I'm trying to see how I can switch career' (call_596982717264, seg_16).",
+                    "context_impact": "Perfect opportunity to align program benefits with career transition goals while securing commitment.",
+                    "consultant_response": "Consultant highlighted: '60% of our students are looking to change careers' (seg_26), effectively positioning program as ideal solution.",
+                    "improvement": "Add immediate commitment focus: 'Let's secure your place now to begin your career transition journey.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Support Services Alignment",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147728402",
+                            "segment_id": "192",
+                            "timestamp": "13:50"
+                        }
+                    },
+                    "student_trigger": "Student inquired: 'What support is available?' (call_597147728402, seg_192), seeking reassurance about success resources.",
+                    "context_impact": "Opportunity to build confidence while moving toward enrollment commitment.",
+                    "consultant_response": "Consultant detailed comprehensive support systems while maintaining enrollment focus.",
+                    "improvement": "Link support access to immediate enrollment: 'Let's get you enrolled now so you can start accessing these services.'"
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Direct Timeline Communication",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147760323",
+                            "segment_id": "260",
+                            "timestamp": "14:32"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147760323",
+                                "segment_id": "261",
+                                "timestamp": "14:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "At timestamp 14:32 (segment 260), the student directly inquired about enrollment timing: 'So, when do I need to enroll and when does the course start?' This question represented a critical moment where the student was actively seeking to understand and align their schedule with the program timeline. The directness of the question indicated readiness to move from consideration to concrete planning, making it essential to provide clear, actionable information that could facilitate immediate decision-making.",
+                    "consultant_response": "The consultant demonstrated exemplary enrollment closing behavior by providing precise dates and creating urgency: 'The enrollment is closing on the 17th of April. The course starts on the 5th of May, but students who enroll early will have access to the unit on the 22nd of April.' This response effectively employed direct communication by outlining specific dates and highlighting the benefits of early enrollment. The language used was confident and clear, helping guide the student toward making a timely enrollment decision while emphasizing the advantages of immediate action.",
+                    "recommended_approach": "When addressing timeline inquiries, start by acknowledging the student's readiness to plan and immediately provide specific dates that create a sense of urgency. Begin with validation: 'I appreciate you asking about timing - let's secure your spot in the upcoming intake.' Then outline key dates while emphasizing early enrollment benefits: 'While enrollment closes April 17th, enrolling today gives you early access to materials on April 22nd, before the May 5th start.' Always follow timeline discussions with immediate action steps: 'Since you're interested in the May intake, let's complete your enrollment form now to ensure you get early access.' Connect deadlines to specific advantages: 'By enrolling today, you'll have two extra weeks with the materials, giving you a head start on your studies.' This approach transforms timeline information into enrollment action, maintaining momentum throughout the conversation. Pay particular attention to creating urgency while making the enrollment process feel achievable, always linking timing discussions to concrete next steps that lead to immediate enrollment commitment."
+                },
+                {
+                    "number": "2",
+                    "title": "Early Access Benefit Leverage",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846016216",
+                            "segment_id": "14",
+                            "timestamp": "2:36"
+                        }
+                    },
+                    "student_trigger": "During the call, the student revealed awareness of early access benefits, stating: 'So the course is actually starting on the 5th of May and you actually have, if you enroll early, you'll have access to the unit on the 22nd of April' (call_596846016216, seg_14). This moment presented a perfect opportunity to leverage the early access benefit as a motivator for immediate enrollment commitment.",
+                    "consultant_response": "The consultant's response focused primarily on process: 'Once that gets approved from our admin team, then we can enrol you for the main intake' (seg_34). While this maintained process control, it missed the opportunity to use the early access benefit as leverage for immediate commitment.",
+                    "recommended_approach": "When students demonstrate awareness of early access benefits, immediately transition this into enrollment action. Begin with emphasizing value: 'The early access from April 22nd gives you a significant head start. Many successful students use this time to get ahead on their coursework and build early momentum. Let's secure your place right now to guarantee your early access benefit.' Then move directly to enrollment: 'I can help you complete the enrollment process now, which will ensure you don't miss out on this valuable preparation time.' If the student shows any hesitation, address it by highlighting specific early access advantages: 'Having this additional preparation time has helped many students start strong and maintain better work-life balance throughout their studies.' Maintain momentum by guiding them through each enrollment step, using the early access benefit as continued motivation for immediate action."
+                },
+                {
+                    "number": "3",
+                    "title": "Professional Schedule Integration",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147728402",
+                            "segment_id": "185",
+                            "timestamp": "13:40"
+                        }
+                    },
+                    "student_trigger": "The student expressed clear concern about balancing professional and academic commitments: 'I'm thinking of doing a part-time while working full-time' (call_597147728402, seg_185). This revealed both interest in enrollment and specific need for schedule flexibility assurance.",
+                    "consultant_response": "The consultant effectively demonstrated program alignment with working professional needs, maintaining strong process control while building confidence in program flexibility. This response showed good alignment with enrollment closing behavior by addressing the specific concern while keeping focus on enrollment progress.",
+                    "recommended_approach": "When addressing working professionals' scheduling concerns, immediately validate their proactive approach while moving toward enrollment commitment. Start by confirming program flexibility: 'Our program is specifically designed for working professionals like yourself. Let me show you exactly how our current students balance their studies with full-time work.' Then transition directly to securing commitment: 'Given your work schedule, the May intake would be perfect timing. Shall we secure your spot now while ensuring your preferred study schedule?' Address any hesitations by sharing specific success examples: 'Many of our students find that downloading materials for offline study during quiet work periods helps them maintain steady progress.' Throughout the conversation, maintain focus on how program flexibility enables successful study-work integration while guiding toward immediate enrollment action."
+                },
+                {
+                    "number": "4",
+                    "title": "Documentation Process Leadership",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908504125",
+                            "segment_id": "46",
+                            "timestamp": "03:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596761309965",
+                                "segment_id": "256",
+                                "timestamp": "25:40"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During a sensitive moment at 03:45 (segment 46), the student revealed documentation concerns: 'Do you guys require a reference from the Honours Supervisor because he died.' This disclosure required careful handling to address both emotional and practical implications while maintaining enrollment momentum. Similar documentation queries appeared across calls, highlighting the need for comprehensive support in this area while ensuring continuous progress toward enrollment completion.",
+                    "consultant_response": "The consultant provided a basic response: 'No, no, no. Sorry to hear about that, but we would not require that' (call_596908504125, seg_48). While this addressed the immediate concern, it missed the opportunity to provide comprehensive documentation guidance and maintain enrollment momentum through clear alternative pathways. The response lacked the necessary depth of support and failed to establish specific next steps toward application completion.",
+                    "recommended_approach": "When handling documentation concerns, especially sensitive cases, begin with genuine empathy while maintaining clear direction toward enrollment completion. Start with acknowledgment: 'I'm very sorry to hear about your supervisor. Let me help ensure this doesn't create any obstacles for your application.' Then provide specific alternative pathways: 'We can accept your academic transcript and CV to demonstrate your qualifications. I'll guide you through submitting these documents today.' Create immediate momentum: 'Let's start by submitting your transcript now - I can help you with that process immediately.' Set specific timelines: 'We'll submit your initial documentation today, and I'll call you tomorrow at 2 PM to verify everything is proceeding correctly.' Always maintain control of the process: 'I'll personally ensure your application moves forward smoothly. Shall we begin the submission process now?' This approach balances emotional support with practical guidance, ensuring the student feels both understood and supported while maintaining clear progress toward enrollment completion."
+                },
+                {
+                    "number": "5",
+                    "title": "Career Value Integration",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596982717264",
+                            "segment_id": "16",
+                            "timestamp": "01:45"
+                        }
+                    },
+                    "student_trigger": "The student clearly articulated their career transition goals: 'I'm looking to improve my skills. I've done my bachelors in hospitality management and I'm trying to see how I can switch career' (call_596982717264, seg_16). This presented a perfect opportunity to align program benefits with career aspirations while securing commitment.",
+                    "consultant_response": "The consultant effectively positioned the program as an ideal solution for career changers, noting that '60% of our students are looking to change careers' (seg_26). This response built confidence in the program's ability to facilitate career transitions while maintaining enrollment momentum.",
+                    "recommended_approach": "When students express career transition goals, immediately validate their decision while positioning the program as the bridge to their desired outcome. Begin with acknowledgment: 'Your goal to transition from hospitality shows great strategic thinking about your career progression.' Then provide specific examples: 'Many of our successful graduates have made similar transitions - for instance, we had a former hospitality manager who now leads business development for a major corporation.' Move directly to securing commitment: 'Given your clear career goals, let's secure your place in our next intake to keep your transition timeline on track.' Use success stories to address any hesitations while maintaining focus on immediate enrollment action. The key is demonstrating how enrollment directly accelerates their career transition journey."
+                },
+                {
+                    "number": "6",
+                    "title": "Support Services Alignment",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597147728402",
+                            "segment_id": "192",
+                            "timestamp": "13:50"
+                        }
+                    },
+                    "student_trigger": "The student's inquiry about available support (call_597147728402, seg_192) revealed a need for reassurance about success resources while showing readiness for enrollment discussion.",
+                    "consultant_response": "The consultant detailed comprehensive support systems while maintaining focus on enrollment progression, effectively building confidence in program success mechanisms.",
+                    "recommended_approach": "When discussing support services, immediately connect these benefits to enrollment action. Begin with comprehensive support overview: 'Our support system ensures your success from day one with 24/7 online tutoring, regular check-ins with academic advisors, and a dedicated success coach. The best part is, you can start accessing these resources as soon as you're enrolled. Let's get your enrollment completed now so you can begin exploring these support services. I'll help you schedule your first success coaching session as we process your enrollment.' This approach uses support services as a natural bridge to enrollment while maintaining focus on student success and immediate action."
+                }
+            ]
+        }
+    }
+}

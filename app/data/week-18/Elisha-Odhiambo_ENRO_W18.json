@@ -1,0 +1,327 @@
+{
+    "metadata": {
+        "consultant_name": "Elisha Odhiambo",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 72,
+        "team": 67
+    },
+    "percentage_of_attempted_close": {
+        "individual": 14,
+        "team": 20
+    },
+    "percentage_of_positive_response": {
+        "individual": 40,
+        "team": 47
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 15,
+            "red": 81
+        },
+        {
+            "label": "Clear action plan",
+            "green": 33,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 26,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 48,
+            "red": 0
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 15,
+            "red": 81
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Strategic Process Control",
+                "explanation": "Consultants effectively maintain enrollment momentum through proactive guidance, immediate ownership of documentation processes, and clear next-step commitments"
+            },
+            {
+                "headline": "Direct Communication Excellence",
+                "explanation": "Strong demonstration of confident, solution-focused language that transforms student concerns into actionable enrollment steps while maintaining momentum"
+            },
+            {
+                "headline": "Program Flexibility Integration",
+                "explanation": "Effective demonstration of how program structure accommodates diverse student circumstances through specific examples and practical solutions"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Decisive Commitment Securing",
+                "explanation": "Enhanced techniques needed for converting positive signals into firm enrollment commitments with immediate intake dates and clear action steps"
+            },
+            {
+                "headline": "Career Progression Articulation",
+                "explanation": "Stronger demonstration required of specific career advancement pathways with concrete salary examples and timeline commitments"
+            },
+            {
+                "headline": "Alternative Pathway Confidence",
+                "explanation": "More assertive presentation needed of alternative study options as strategic pathways while maintaining strong enrollment momentum"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Direct Timeline Communication",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761327584",
+                            "segment_id": "71",
+                            "timestamp": "05:53"
+                        }
+                    },
+                    "student_trigger": "Student asked: 'Yeah, essentially, so when would the next round starts?' (call_596761327584, seg_71), seeking specific enrollment timeline details.",
+                    "context_impact": "Critical moment requiring precise timeline information while maintaining enrollment momentum.",
+                    "consultant_response": "Consultant replied decisively: 'Yes, that one starts May the 5th. We're currently enrolling for that one at the moment' (call_596761327584, seg_73).",
+                    "improvement": "Should have immediately moved to secure commitment: 'Since we're currently enrolling, shall we secure your spot now for the May 5th intake?'"
+                },
+                {
+                    "number": "2",
+                    "title": "Work-Study Integration",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "595732493616",
+                            "segment_id": "23",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "595732548084",
+                                "segment_id": "163",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need for flexibility demonstration.",
+                    "context_impact": "Required clear demonstration of program's ability to accommodate healthcare professionals' unique scheduling demands.",
+                    "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24).",
+                    "improvement": "Should have secured immediate commitment: 'Since our program aligns perfectly with your shift work, shall we secure your spot in the upcoming intake?'"
+                },
+                {
+                    "number": "3",
+                    "title": "Career Progression Clarity",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846363230",
+                            "segment_id": "56",
+                            "timestamp": "09:36"
+                        }
+                    },
+                    "student_trigger": "Student asked: 'So if I study this course, is there a higher chance of getting a job as a psychologist somewhere or it's unlikely and I need to study further?' (call_596846363230, seg_56).",
+                    "context_impact": "Critical opportunity to strengthen enrollment decision through clear career progression pathways.",
+                    "consultant_response": "Consultant provided basic role overview without addressing long-term career progression potential or specific salary outcomes.",
+                    "improvement": "Should have shared specific success stories: 'Our graduates typically advance to senior roles within 2 years, with average salary increases of 40%.'"
+                },
+                {
+                    "number": "4",
+                    "title": "Alternative Study Pathway",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158825367",
+                            "segment_id": "29",
+                            "timestamp": "03:12"
+                        }
+                    },
+                    "student_trigger": "Student expressed: 'Yeah, unfortunately, I think I missed out on that' (call_597158825367, seg_29), showing disappointment about direct entry requirements.",
+                    "context_impact": "Critical moment to maintain enrollment momentum through alternative pathway presentation.",
+                    "consultant_response": "Consultant suggested passively: 'So we've still got the pathway, which is a professional certificate' (call_597158825367, seg_50).",
+                    "improvement": "Should have confidently presented alternative: 'The professional certificate is an excellent pathway many successful students take - shall we secure your spot for March?'"
+                },
+                {
+                    "number": "5",
+                    "title": "Process Control Maintenance",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158646208",
+                            "segment_id": "180",
+                            "timestamp": "13:59"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597158646208",
+                                "segment_id": "183",
+                                "timestamp": "14:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student stated: 'I'll send over that email to your' (call_597158646208, seg_180), indicating readiness for document submission but uncertainty about process.",
+                    "context_impact": "Required clear demonstration of process ownership to maintain enrollment momentum.",
+                    "consultant_response": "Consultant took control: 'Leave that with me. I'll chase your academic transcript from my end and I'll touch base regarding the next steps' (call_597158646208, seg_183).",
+                    "improvement": "Should have scheduled immediate follow-up: 'I'll call you tomorrow at 2 PM to review your documents together and begin your enrollment.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Immediate Enrollment Opportunity",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062535190",
+                            "segment_id": "154",
+                            "timestamp": "08:34"
+                        }
+                    },
+                    "student_trigger": "Student mentioned: 'I'm on long service leave at the moment, so it could be a time if I can get it all sorted' (call_597062535190, seg_154), revealing immediate availability.",
+                    "context_impact": "Prime opportunity to secure enrollment commitment during student's period of availability.",
+                    "consultant_response": "Consultant replied passively: 'I'll leave the ball in your court' (call_597062535190, seg_158).",
+                    "improvement": "Should have taken immediate action: 'This is perfect timing - let's secure your spot now while you have this dedicated time. I can help you complete the enrollment today.'"
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Direct Timeline Communication",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761327584",
+                            "segment_id": "71",
+                            "timestamp": "05:53"
+                        }
+                    },
+                    "student_trigger": "At 5:53 into the call, the student asked 'Yeah, essentially, so when would the next round starts?' This question demonstrated clear interest in enrolling and seeking specific details about the program timeline. The directness of the query provided an excellent opportunity to maintain momentum in the enrollment process by providing clear, actionable information.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by immediately responding with 'Yes, that one starts May the 5th. We're currently enrolling for that one at the moment.' This clear, confident response effectively maintained control of the conversation while delivering specific information about both the start date and current enrollment availability. The precision and timeliness of this response increased the student's confidence and clarity regarding their potential enrollment.",
+                    "recommended_approach": "When students inquire about enrollment timing, provide immediate, specific information while maintaining control of the enrollment process. Start by confirming exact dates: 'That starts May the 5th,' then immediately leverage this interest into action steps: 'Since we're currently enrolling, I can help you secure your spot right now. Would you like to begin the process?' For students showing immediate interest, move directly to enrollment: 'Let's complete your application now to ensure you don't miss out on the May intake.' When addressing future intake queries, create urgency through limited availability: 'We're currently accepting applications for May, but spots are filling quickly. Shall we secure your place today?' Pay particular attention to students asking about specific intakes, using their timeline preference to drive commitment: 'The May 5th start date aligns perfectly with your goals. Let's begin your enrollment now.' The key is maintaining momentum by transforming timeline inquiries into immediate enrollment actions."
+                },
+                {
+                    "number": "2",
+                    "title": "Work-Study Integration",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "595732493616",
+                            "segment_id": "23",
+                            "timestamp": "02:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "595732548084",
+                                "segment_id": "163",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "The student expressed concerns about managing study with their work schedule: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23). This revealed a critical need to demonstrate how our program accommodates healthcare professionals' unique scheduling demands while maintaining enrollment momentum. Similar concerns emerged in supporting calls, highlighting this as a common barrier to enrollment commitment.",
+                    "consultant_response": "The consultant provided practical solutions grounded in real examples: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This response effectively demonstrated understanding of healthcare workflows and provided tangible solutions that resonated with the student's situation.",
+                    "recommended_approach": "When addressing work-study balance concerns, especially from healthcare professionals, begin by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Start with validation: 'Your rotating shifts require flexibility, and our program is specifically designed for healthcare professionals like you.' Share concrete examples: 'Many of our nursing students download materials before night shifts for offline study during quiet periods. For instance, one current student completes her readings during overnight shifts and participates in discussions during her days off.' Then transition to securing commitment: 'Since you can see how the program flexibly fits around your shifts, shall we secure your spot in the upcoming intake?' For rotating rosters, emphasize specific adaptation strategies: 'You can adjust your study schedule as your shifts change, with full access to materials whether you're working days or nights. Let's look at the May intake, which gives you time to plan your study routine around your roster.' The goal is transforming perceived scheduling barriers into manageable planning opportunities while maintaining strong momentum toward enrollment."
+                },
+                {
+                    "number": "3",
+                    "title": "Career Progression Clarity",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596846363230",
+                            "segment_id": "56",
+                            "timestamp": "09:36"
+                        }
+                    },
+                    "student_trigger": "During call 596846363230 (segment 56), the student expressed concern about career outcomes: 'So if I study this course, is there a higher chance of getting a job as a psychologist somewhere or it's unlikely and I need to study further?' This question revealed the student's need for clear understanding of career progression paths and their impact on enrollment decision.",
+                    "consultant_response": "The consultant provided a basic overview of immediate roles without fully addressing the long-term career progression potential or creating a compelling vision of the student's professional future. This approach missed the opportunity to build confidence in the career pathway and secure stronger enrollment commitment.",
+                    "recommended_approach": "When addressing career progression concerns, start by acknowledging the student's career aspirations while creating a clear vision of their professional journey. Begin with confidence: 'Our program provides a strong foundation for your psychology career, and I'll show you exactly how it leads to professional success.' Share specific progression examples: 'Many graduates start in mental health support roles at $75,000, advancing to specialized positions within two years at $95,000. One recent graduate began as a mental health worker and within 18 months became a senior case manager, increasing their salary by 40%.' Use concrete success stories: 'Several of our graduates now lead mental health programs in major hospitals, having completed our program while working.' Always connect career progression back to enrollment: 'Starting in our March intake positions you to begin this career progression by next year. Let's secure your spot now.' For students with specific career goals, provide targeted examples: 'One graduate transitioned from clinical support to running their own practice within three years, generating over $150,000 annually.' The key is creating a compelling vision of their professional future while maintaining strong momentum toward enrollment commitment."
+                },
+                {
+                    "number": "4",
+                    "title": "Alternative Study Pathway",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158825367",
+                            "segment_id": "29",
+                            "timestamp": "03:12"
+                        }
+                    },
+                    "student_trigger": "In call 597158825367 (segment 29), the student expressed disappointment about not meeting direct entry requirements: 'Yeah, unfortunately, I think I missed out on that.' This moment represented a critical juncture where maintaining enrollment momentum through an alternative pathway was essential.",
+                    "consultant_response": "The consultant suggested an alternative but didn't take full control of the process: 'So we've still got the pathway, which is a professional certificate, but still consider your options as well.' This response lacked the assertiveness needed to maintain enrollment momentum and confidence in the alternative pathway.",
+                    "recommended_approach": "When presenting alternative pathways, immediately reframe the situation as a strategic opportunity rather than a setback. Begin confidently: 'The professional certificate pathway is an excellent option that many successful students have used to achieve their goals. Let me show you exactly how this works.' Then outline specific benefits: 'This pathway not only builds your foundation but also provides guaranteed entry into the advanced program upon completion. In fact, students often perform better in the advanced program after completing the certificate.' Share success stories: 'Last semester, five students completed this pathway and are now excelling in the advanced program, with an average GPA of 6.2.' Maintain momentum by securing immediate commitment: 'Let's get you started on this pathway with our March intake - I can help you complete the enrollment right now.' For hesitant students, provide additional reassurance: 'We'll provide dedicated support throughout your certificate, including one-on-one academic coaching to ensure your success.' The key is transforming a perceived setback into a positive step forward while maintaining strong control of the enrollment process."
+                },
+                {
+                    "number": "5",
+                    "title": "Process Control Maintenance",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158646208",
+                            "segment_id": "180",
+                            "timestamp": "13:59"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597158646208",
+                                "segment_id": "183",
+                                "timestamp": "14:15"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During the conversation, the student expressed readiness but uncertainty about document submission, stating 'I'll send over that email to your' (call_597158646208, seg_180). This hesitation in process understanding presented an opportunity to demonstrate institutional support and maintain enrollment momentum through clear guidance.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by taking immediate control, responding 'Leave that with me. I'll chase your academic transcript from my end and I'll touch base regarding the next steps' (call_597158646208, seg_183). This proactive approach relieved the student's administrative burden while maintaining clear ownership of the process and next steps.",
+                    "recommended_approach": "When students express readiness to submit documentation, immediately take control while maintaining clear communication about next steps. Begin with acknowledgment: 'I appreciate your readiness to move forward with your documents.' Then take explicit ownership: 'Let me guide you through this process - I'll personally ensure your transcript is processed efficiently.' Always specify concrete next steps with timeframes: 'I'll review your transcript within 24 hours and call you tomorrow at 2 PM to confirm everything is in order.' For students showing uncertainty, provide additional reassurance through examples of how you've helped others through similar processes. The key is combining strong process ownership with clear communication and specific commitments to maintain enrollment momentum. Pay particular attention to setting clear expectations about document processing times and next steps in the enrollment journey."
+                },
+                {
+                    "number": "6",
+                    "title": "Immediate Enrollment Opportunity",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062535190",
+                            "segment_id": "154",
+                            "timestamp": "08:34"
+                        }
+                    },
+                    "student_trigger": "During call 597062535190 (segment 154), the student revealed a prime enrollment opportunity: 'I'm on long service leave at the moment, so it could be a time if I can get it all sorted.' This statement indicated immediate availability and openness to starting studies, presenting a critical moment for securing enrollment commitment.",
+                    "consultant_response": "The consultant responded passively: 'I'll leave the ball in your court' (call_597062535190, seg_158). This approach failed to capitalize on the student's current availability and missed the opportunity to secure immediate enrollment commitment.",
+                    "recommended_approach": "When a student indicates immediate availability, seize the opportunity by demonstrating how this timing aligns perfectly with their goals. Start with enthusiasm: 'This is actually perfect timing - your long service leave provides an ideal opportunity to begin your studies. Let's make sure you can take advantage of this period.' Move directly to securing commitment: 'The March intake starts in just a few weeks, which aligns perfectly with your current availability. I can help you complete the enrollment process today.' Guide the conversation with specific next steps: 'Let's begin your application now while you have this dedicated time. I'll walk you through each step to ensure everything is ready for March.' For students showing any hesitation, address concerns immediately: 'Many successful students start during similar breaks from work, finding it ideal for establishing their study routine.' Always maintain momentum by scheduling specific follow-up: 'Let's book a call for tomorrow at 2 PM to finalize your documentation and secure your place.' The key is converting their current availability into immediate action while maintaining strong control of the enrollment process."
+                }
+            ]
+        }
+    }
+}

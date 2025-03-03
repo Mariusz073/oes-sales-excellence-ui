@@ -1,0 +1,229 @@
+{
+    "metadata": {
+        "consultant_name": "David Mccarthie",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 48,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 50,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 75,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 20,
+            "red": 70
+        },
+        {
+            "label": "Clear action plan",
+            "green": 50,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 60,
+            "red": 0
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 50,
+            "red": 10
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 20,
+            "red": 70
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Process Control Leadership",
+                "explanation": "Consultants effectively maintain momentum through clear next steps, specific timelines, and proactive ownership of the enrollment journey"
+            },
+            {
+                "headline": "Career Pathway Alignment",
+                "explanation": "Strong demonstration of program-career alignment through specific examples and graduate outcomes while maintaining direct enrollment momentum"
+            },
+            {
+                "headline": "Timeline Management",
+                "explanation": "Effective balance of urgency and support when managing enrollment deadlines, providing clear actionable steps while ensuring student confidence"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Support Service Integration",
+                "explanation": "Enhanced connection needed to support services including disability, financial, and academic assistance with immediate concrete action steps"
+            },
+            {
+                "headline": "Documentation Guidance",
+                "explanation": "Stronger process control required for managing documentation requirements including specific alternatives and clear submission deadlines"
+            },
+            {
+                "headline": "Commitment Securing",
+                "explanation": "More explicit focus needed on obtaining verbal enrollment agreements and confirming specific next actions with firm deadlines"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Timeline Management",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148545299",
+                            "segment_id": "180",
+                            "timestamp": "09:38"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597148545299",
+                                "segment_id": "183",
+                                "timestamp": "09:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student expressed concern when consultant stated: 'So our close of enrolments is today, but we're going to be working over the weekend and we will be able to get you a spot' (call_597148545299, seg_180), revealing immediate need for enrollment guidance.",
+                    "context_impact": "Critical moment requiring immediate action to secure enrollment within deadline while maintaining student confidence and momentum.",
+                    "consultant_response": "Consultant took clear control: 'We'll get that resume sent to you now. And then if you want to return it to us even by later today so that when you come in tomorrow, we'll be able to do your enrollment' (call_597148545299, seg_183)",
+                    "improvement": "Add specific confirmation request: 'Can I confirm you'll complete the resume today so we can secure your spot for tomorrow's enrollment?'"
+                },
+                {
+                    "number": "2",
+                    "title": "Documentation Process Management",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062398098",
+                            "segment_id": "26",
+                            "timestamp": "1:25"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'I think last time we spoke you mentioned you were going to try and get your transcripts from Bond. Have you had any luck with that?' (call_597062398098, seg_26), revealing documentation concerns.",
+                    "context_impact": "Documentation challenges threatening enrollment completion required immediate resolution path.",
+                    "consultant_response": "Consultant provided minimal guidance: 'Yeah, yeah, absolutely we can' without addressing core documentation concerns or providing alternatives.",
+                    "improvement": "Outline specific options: 'While we await the Bond transcripts, let's submit your resume and informal records today to confirm your eligibility. I'll help you complete this within the next hour.'"
+                },
+                {
+                    "number": "3",
+                    "title": "Career Goal Alignment",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914718910",
+                            "segment_id": "25",
+                            "timestamp": "02:15"
+                        }
+                    },
+                    "student_trigger": "Student expressed: 'I thought like a financial planner, advisor, is sort of what I had in mind potentially, but I wasn't quite a hundred percent sure which course is the best' (call_596914718910, seg_25)",
+                    "context_impact": "Critical opportunity to build enrollment confidence through clear career pathway validation.",
+                    "consultant_response": "Consultant affirmed: 'Yeah, awesome goal. This is definitely the course that'll help you with this one. So the outcomes for this is financial planner...' (call_596914718910, seg_32)",
+                    "improvement": "Add specific success example: 'Three of our recent graduates secured financial planning roles at major institutions within three months of completion.'"
+                },
+                {
+                    "number": "4",
+                    "title": "Empathetic Support Response",
+                    "type": "improvement",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148545299",
+                            "segment_id": "103",
+                            "timestamp": "06:15"
+                        }
+                    },
+                    "student_trigger": "Student disclosed: 'Right, I've also got a disability too, I've got Crohn's disease as well' (call_597148545299, seg_103), requiring immediate support validation.",
+                    "context_impact": "Critical moment to demonstrate understanding and provide specific support mechanisms.",
+                    "consultant_response": "Consultant replied minimally: 'Okay, cool' (call_597148545299, seg_104), missing vital support opportunity.",
+                    "improvement": "Provide immediate support details: 'We have extensive experience supporting students with Crohn's, including flexible assessment deadlines and online access during hospital stays. Let me connect you with our disability support team today.'"
+                },
+                {
+                    "number": "5",
+                    "title": "Process Control Management",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062398098",
+                            "segment_id": "35",
+                            "timestamp": "02:30"
+                        }
+                    },
+                    "student_trigger": "Technical email issues prevented document submission: 'I'm not receiving any emails' (call_597062398098, seg_35), requiring immediate resolution.",
+                    "context_impact": "Technical barriers threatening enrollment completion needed swift resolution path.",
+                    "consultant_response": "Consultant took control: 'I'll send it through to that email. If you could send your resume back to me once you've done that, I can then confirm your eligibility, typically on the same business day' (call_597062398098, seg_35)",
+                    "improvement": "Add specific timeline: 'I'll send the document now and call you in 10 minutes to confirm receipt. Once you return it today by 5 PM, I'll confirm your eligibility within one hour.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Urgent Enrollment Close",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158725945",
+                            "segment_id": "115",
+                            "timestamp": "07:02"
+                        }
+                    },
+                    "student_trigger": "Student asked: 'When's that?' (call_597158725945, seg_115) regarding next teaching period, showing readiness for specific timing.",
+                    "context_impact": "Time-sensitive opportunity to secure immediate enrollment commitment.",
+                    "consultant_response": "Consultant provided timing: 'That starts March the 10th... we'll do a phone call. It'll take about five to 10 minutes to do your enrollment' (call_597158725945, seg_116)",
+                    "improvement": "Add direct commitment request: 'The March 10th intake is perfect for your situation. Would you like to secure your spot right now? We can complete your enrollment in the next 10 minutes.'"
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Timeline Management",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148545299",
+                            "segment_id": "180",
+                            "timestamp": "09:38"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597148545299",
+                                "segment_id": "183",
+                                "timestamp": "09:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During a critical enrollment conversation, the consultant initiated urgency while maintaining support by stating: 'So our close of enrolments is today, but we're going to be working over the weekend and we will be able to get you a spot, I reckon, Louise' (call_597148545299, seg_180). This proactive communication effectively balanced the pressure of the deadline with reassurance of support, creating an environment conducive to immediate action while keeping the student engaged.",
+                    "consultant_response": "The consultant demonstrated strong process control by following up with clear next steps: 'Just we'll get that resume sent to you now. And then if you want to return it to us even by later today so that when you come in tomorrow, we'll be able to do your enrollment then for you' (call_597148545299, seg_183). This response successfully maintained momentum while providing specific actionable steps, effectively guiding the student toward enrollment completion within the required timeframe.",
+                    "recommended_approach": "When managing enrollment deadlines, begin by acknowledging the urgency while immediately offering a clear path forward. Start with a confident statement of timing: 'The enrollment period closes today, but I'll personally ensure we get your application completed.' This establishes both urgency and support. Follow immediately with specific, actionable steps: 'Let's begin your enrollment right now - I'll send you the resume template within the next five minutes, and once you return it, we'll confirm your eligibility today.' When dealing with weekend deadlines, create concrete windows for action: 'I'll be working tomorrow between 10 AM and 3 PM specifically to help finalize enrollments like yours.' Throughout the process, maintain a balance between urgency and reassurance, always providing specific times and actions: 'Once you send your documents, I'll review them within an hour and call you back at [specific time] to complete your enrollment.' The goal is to transform potential enrollment barriers into immediate action steps, ensuring students feel supported while maintaining momentum. Always secure verbal commitment: 'Can I confirm you'll complete the resume today so we can secure your spot in tomorrow's enrollment session at 2 PM?'",
+                    "LENGTH": ""
+                }
+            ]
+        }
+    }
+}

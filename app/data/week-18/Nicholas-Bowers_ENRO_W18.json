@@ -1,0 +1,355 @@
+{
+    "metadata": {
+        "consultant_name": "Nicholas Bowers",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
+    },
+    "percentage_of_consultation": {
+        "individual": 56,
+        "team": 51
+    },
+    "percentage_of_attempted_close": {
+        "individual": 40,
+        "team": 41
+    },
+    "percentage_of_positive_response": {
+        "individual": 62,
+        "team": 43
+    },
+    "bargraph_sub_requirements": [
+        {
+            "label": "Next steps & follow-up",
+            "green": 3,
+            "red": 90
+        },
+        {
+            "label": "Clear action plan",
+            "green": 27,
+            "red": 0
+        },
+        {
+            "label": "Mutual commitment establishment",
+            "green": 30,
+            "red": 7
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 21,
+            "red": 3
+        }
+    ],
+    "bargraph_historical": [
+        {
+            "label": "week-18_02-24_02-28",
+            "green": 3,
+            "red": 90
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Direct Process Leadership",
+                "explanation": "Consultants effectively maintain enrollment momentum through confident language and clear action steps that drive immediate commitment"
+            },
+            {
+                "headline": "Support Structure Communication",
+                "explanation": "Strong demonstration of comprehensive support systems through specific examples and clear access pathways that build enrollment confidence"
+            },
+            {
+                "headline": "Achievement Integration",
+                "explanation": "Effective capitalization on student milestones and accomplishments to create immediate enrollment momentum and secure commitment"
+            }
+        ],
+        "improvement": [
+            {
+                "headline": "Commitment Securing",
+                "explanation": "Enhanced focus needed on obtaining explicit verbal agreements and specific timeline commitments during critical enrollment opportunities"
+            },
+            {
+                "headline": "Process Control Maintenance",
+                "explanation": "Stronger leadership required in maintaining momentum and establishing clear ownership of follow-up actions"
+            },
+            {
+                "headline": "Decision Framework Implementation",
+                "explanation": "More structured guidance needed to help uncertain students move from consideration to concrete enrollment action"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Achievement-Based Enrollment",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062213025",
+                            "segment_id": "21",
+                            "timestamp": "05:45"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'Yeah, this is perfect timing because I just got my results for my final unit' (call_597062213025, seg_21), revealing immediate readiness to proceed.",
+                    "context_impact": "Critical moment to capitalize on student achievement and convert enthusiasm into enrollment action.",
+                    "consultant_response": "Consultant replied: 'Yep amazing no worries at all. So yeah all we'd have to do to get your application started for the mid-year July intake is just for us to receive a copy of that updated transcript' (call_597062213025, seg_36)",
+                    "improvement": "Include specific timeline for document submission and schedule immediate follow-up: 'Let's get your updated transcript submitted today - I can help you with that right now, then we'll complete your enrollment tomorrow at 2 PM.'"
+                },
+                {
+                    "number": "2",
+                    "title": "Support Structure Communication",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983147629",
+                            "segment_id": "40",
+                            "timestamp": "03:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983147629",
+                                "segment_id": "42",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student asked: 'How can I get help, all of the information please?' (call_596983147629, seg_40), seeking clarity on available support systems.",
+                    "context_impact": "Critical moment to demonstrate comprehensive support structure and build enrollment confidence through tangible examples.",
+                    "consultant_response": "Consultant provided detailed overview: 'So essentially the course is 100% online and your studies are still looked after by who we call the online learning advisor, who will be there for you to assist you during your studies itself alongside our student advisors...' (call_596983147629, seg_42).",
+                    "improvement": "Include specific examples and immediate connection: 'Our nursing students regularly access 24/7 support during night shifts. Let's get you connected with your advisor today while we complete your enrollment.'"
+                },
+                {
+                    "number": "3",
+                    "title": "Financial Barrier Removal",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908230304",
+                            "segment_id": "155",
+                            "timestamp": "7:55"
+                        }
+                    },
+                    "student_trigger": "Student stated: 'Yeah, because I pay for the tax loan. That's good' (call_596908230304, seg_155)",
+                    "context_impact": "Financial understanding created opportunity for immediate enrollment action.",
+                    "consultant_response": "Consultant explained: 'So, essentially, it means there's a relatively non-intrusive way to study your bachelor level and not have to worry about shelling out heaps of money out of pocket' (call_596908230304, seg_158)",
+                    "improvement": "Convert financial comfort into immediate action: 'Since HECS makes this achievable for you, let's complete your enrollment now while I guide you through the application.'"
+                },
+                {
+                    "number": "4",
+                    "title": "Timeline Control Enhancement",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915116095",
+                            "segment_id": "248",
+                            "timestamp": "14:10"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908230304",
+                                "segment_id": "122",
+                                "timestamp": "4:02"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student asked: 'when is the next one?' (call_596915116095, seg_248)",
+                    "context_impact": "Key opportunity to secure commitment for specific intake date missed.",
+                    "consultant_response": "Consultant replied passively: 'July, yeah I think that would work better for me' (call_596915116095, seg_250)",
+                    "improvement": "Take control with specific timeline: 'The July intake would be perfect for you - let's secure your spot now while it's available, and I'll help you complete the enrollment today.'"
+                },
+                {
+                    "number": "5",
+                    "title": "Process Duration Management",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845698943",
+                            "segment_id": "78",
+                            "timestamp": "5:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908344941",
+                                "segment_id": "49",
+                                "timestamp": "09:48"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student expressed: 'I'm still kind of I'm thinking about whether I want to start because it is a long process I guess' (call_596845698943, seg_78), revealing hesitation about program duration.",
+                    "context_impact": "Concern about program length threatened to delay enrollment decision.",
+                    "consultant_response": "Consultant acknowledged length without effectively breaking down process into manageable steps or maintaining momentum.",
+                    "improvement": "Break down timeline immediately: 'Let's start with your first trimester today - I'll help you plan manageable study loads that fit your schedule while we complete your enrollment.'"
+                },
+                {
+                    "number": "6",
+                    "title": "Decision Framework Implementation",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158800405",
+                            "segment_id": "84",
+                            "timestamp": "5:33"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908230304",
+                                "segment_id": "122",
+                                "timestamp": "4:02"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Student expressed: 'I have no idea yet' (call_597158800405, seg_84), showing significant uncertainty about proceeding.",
+                    "context_impact": "Critical moment requiring structured guidance to prevent disengagement.",
+                    "consultant_response": "Consultant asked passively: 'Did you want me to extend that applications for a little bit next week if you were considering it?' (call_597158800405, seg_90)",
+                    "improvement": "Provide immediate structure: 'Let's identify exactly what you need to make this decision. I'll walk you through each consideration now, then we'll reconnect tomorrow at 2 PM to complete your enrollment.'"
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Achievement-Based Enrollment",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597062213025",
+                            "segment_id": "21",
+                            "timestamp": "05:45"
+                        }
+                    },
+                    "student_trigger": "At 5:45 into call 597062213025, the student enthusiastically shared 'Yeah, this is perfect timing because I just got my results for my final unit' (segment 21). This statement represented a critical moment of achievement and readiness, creating an ideal opportunity to convert enthusiasm into enrollment action. The timing and tone indicated high receptivity to taking next steps.",
+                    "consultant_response": "The consultant immediately capitalized on this momentum, responding with 'Yep amazing no worries at all. So yeah all we'd have to do to get your application started for the mid-year July intake is just for us to receive a copy of that updated transcript' (segment 36). This response effectively maintained momentum by providing clear, actionable next steps while taking ownership of the process. The consultant successfully leveraged the student's achievement moment to drive enrollment progress.",
+                    "recommended_approach": "When students share recent achievements, immediately validate their success and transition into concrete enrollment steps. Begin with enthusiastic acknowledgment: 'That's fantastic news about your results! This is the perfect time to secure your spot in the program.' Take immediate control: 'Let's submit your updated transcript right now while we're on the call - I'll guide you through each step.' Create specific accountability: 'Once we submit your transcript today, I'll have it reviewed within 24 hours and call you tomorrow at 2 PM to complete your enrollment. Does that time work for you?' For students needing reassurance, add immediate support connection: 'While we process your application, I'll introduce you to your student success advisor who can help you prepare for your first term.' Always maintain momentum with clear next steps: 'Shall we begin your application now? It only takes 15 minutes to secure your spot.' The key is converting achievement enthusiasm into immediate enrollment action while maintaining strict control of the timeline."
+                },
+                {
+                    "number": "2",
+                    "title": "Support Structure Communication",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983147629",
+                            "segment_id": "40",
+                            "timestamp": "03:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983147629",
+                                "segment_id": "42",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During call 596983147629, the student directly requested comprehensive information about available support: 'How can I get help, all of the information please?' (segment 40). This inquiry represented a crucial opportunity to build confidence in the support structure while maintaining enrollment momentum. The student's explicit request indicated the importance of clear support systems in their decision-making process.",
+                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by providing a comprehensive, confidence-building response: 'So essentially the course is 100% online and your studies are still looked after by who we call the online learning advisor, who will be there for you to assist you during your studies itself alongside our student advisors who offer seven-day-a-week support...' This detailed explanation effectively showcased the multiple layers of support available while maintaining control of the enrollment conversation.",
+                    "recommended_approach": "When addressing support structure inquiries, immediately demonstrate leadership in explaining comprehensive assistance while driving toward enrollment completion. Begin with validation and immediate action: 'That's an excellent question about our support systems - let me show you exactly how we ensure your success while we complete your enrollment together.' Provide specific examples with enrollment connection: 'Your dedicated learning advisor becomes available as soon as you enroll - they help with everything from study planning to assignment strategies. Many students connect with their advisor during evening hours for immediate guidance.' Create urgency through support access: 'Let's secure your place in the program now so you can start accessing these resources immediately. Our nursing students particularly value our 24/7 support during night shifts.' Use current student examples to build confidence: 'Just last week, one of our healthcare students accessed tutorial support at 3 AM during their hospital shift - that's the level of flexibility you'll have.' Always maintain enrollment momentum: 'Shall we complete your enrollment now so you can meet your support team today? I'll guide you through each step.' The key is transforming support interest into immediate enrollment action while demonstrating comprehensive assistance."
+                },
+                {
+                    "number": "3",
+                    "title": "Financial Barrier Removal",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596908230304",
+                            "segment_id": "155",
+                            "timestamp": "7:55"
+                        }
+                    },
+                    "student_trigger": "During a critical discussion about program financing (call_596908230304), the student expressed: 'Yeah, because I pay for the tax loan. That's good' (segment 155). This statement revealed growing comfort with the HECS-HELP system and reduced financial barriers to enrollment, presenting an ideal opportunity to build momentum toward commitment.",
+                    "consultant_response": "The consultant effectively reinforced this understanding by explaining: 'So, essentially, it means there's a relatively non-intrusive way to study your bachelor level and not have to worry about shelling out heaps of money out of pocket' (segment 158). This response successfully translated technical financial information into practical terms, making the HECS system more tangible and less intimidating while maintaining enrollment momentum.",
+                    "recommended_approach": "When students demonstrate comfort with financial aspects, immediately bridge this understanding into enrollment action while maintaining momentum. Begin with validation and immediate transition: 'I'm glad you understand how HECS-HELP makes your study achievable - let's secure your spot in the program right now while I guide you through the application.' Create urgency through financial benefit: 'By enrolling today, we can ensure your HECS-HELP arrangement is in place well before your first unit starts.' Take control of the process: 'I'll help you complete both your enrollment and HECS-HELP application right now - it only takes about 30 minutes total. Shall we begin?' For students showing financial confidence, use this as a catalyst: 'Since the financial aspect is clear, let's get your enrollment finalized today. I'll walk you through each step.' Always maintain momentum with specific timelines: 'Once we submit your enrollment, I'll confirm your HECS-HELP setup within 24 hours and call you tomorrow at 2 PM with everything finalized. Does that time work for you?' The key is transforming financial understanding into immediate enrollment action while providing clear, supportive guidance."
+                },
+                {
+                    "number": "4",
+                    "title": "Timeline Control Enhancement",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596915116095",
+                            "segment_id": "248",
+                            "timestamp": "14:10"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908230304",
+                                "segment_id": "122",
+                                "timestamp": "4:02"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Across multiple calls, students showed interest in future enrollment options without receiving strong guidance. In the primary example, the student asked: 'when is the next one?' (call_596915116095, segment 248), while another stated: 'Possibly. I just need to sort of, I guess, you know, talk to my parents about it' (call_596908230304, segment 122). These moments represented critical opportunities to secure commitment while addressing any hesitations.",
+                    "consultant_response": "In both cases, consultants surrendered control of the timeline. The first consultant responded passively with: 'July, yeah I think that would work better for me' (call_596915116095, segment 250), while the second failed to establish a concrete follow-up plan. These responses missed opportunities to maintain process control and guide students toward firm commitments.",
+                    "recommended_approach": "When discussing enrollment timelines, immediately take control while creating clear accountability. Begin with decisive direction: 'The July intake would be perfect for your situation - let's secure your spot now while places are still available.' For students needing family input, create structured engagement: 'I understand you want to discuss this with your family. Let's schedule our follow-up call for tomorrow at 2 PM after your family conversation. I'll send you our family information pack right now, which answers the most common questions about program benefits and financial details.' Always maintain momentum through specific actions: 'While we ensure your family has all the information they need, let's begin your application today so you don't risk missing out on a spot.' Create clear timelines: 'I'll call you tomorrow at 2 PM to address any family questions and complete your enrollment together. In the meantime, I'll have your preliminary application ready for final submission.' For immediate enrollments, take control: 'Since July works perfectly for you, let's complete your enrollment right now - I'll guide you through each step.' The key is never leaving timelines open-ended while providing clear, supportive direction toward enrollment completion."
+                },
+                {
+                    "number": "5",
+                    "title": "Process Duration Management",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596845698943",
+                            "segment_id": "78",
+                            "timestamp": "5:45"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908344941",
+                                "segment_id": "49",
+                                "timestamp": "09:48"
+                            }
+                        ]
+                    },
+                    "student_trigger": "Across multiple calls, students expressed concerns about program duration, exemplified by statements like: 'I'm still kind of I'm thinking about whether I want to start because it is a long process I guess' (call_596845698943, segment 78). These concerns consistently emerged as potential barriers to enrollment commitment, requiring careful management to maintain momentum.",
+                    "consultant_response": "Consultants often acknowledged program length without effectively addressing the underlying concerns or providing concrete strategies for managing the duration. This approach risked allowing duration concerns to become enrollment barriers rather than transforming them into manageable milestones.",
+                    "recommended_approach": "When students express concerns about program duration, immediately restructure their perspective while maintaining enrollment momentum. Begin with acknowledgment and reframing: 'While completing your degree is a significant achievement, we'll break it down into manageable steps starting today. Let's secure your place in the program now, and I'll show you exactly how to navigate each stage successfully.' Create immediate action steps: 'First, let's enroll you in your initial units - I can help you with that right now. Then we'll create your personalized study plan together.' Use specific examples to build confidence: 'Many of our successful students begin with two units to establish their routine. For instance, Sarah, a working parent, completed her degree by focusing on one unit at a time - let's start your journey today with a similar approach.' Address time management proactively: 'As soon as you're enrolled, your student success advisor will help you create a flexible study schedule that fits your life. Shall we complete your enrollment now so you can begin that planning?' Always maintain momentum through concrete actions: 'Let's get your application submitted today - it only takes 15 minutes, then I'll help you map out your first trimester. The sooner we begin, the sooner you'll complete your degree.' The key is transforming a daunting timeline into immediate, achievable steps while maintaining clear direction toward enrollment."
+                },
+                {
+                    "number": "6",
+                    "title": "Decision Framework Implementation",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597158800405",
+                            "segment_id": "84",
+                            "timestamp": "5:33"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596908230304",
+                                "segment_id": "122",
+                                "timestamp": "4:02"
+                            }
+                        ]
+                    },
+                    "student_trigger": "During call 597158800405, the student expressed significant uncertainty: 'I have no idea yet' (segment 84). This candid admission of indecision required immediate intervention to prevent potential disengagement from the enrollment process and represented a crucial opportunity for structured guidance.",
+                    "consultant_response": "The consultant's approach was notably passive, asking: 'Did you want me to extend that applications for a little bit next week if you were considering it?' (segment 90). This response effectively surrendered control of the process to the student rather than providing the decisive guidance needed at this moment, risking prolonged uncertainty and lost enrollment momentum.",
+                    "recommended_approach": "When encountering indecision, immediately establish a structured decision-making framework while maintaining strong enrollment momentum. Begin with acknowledgment and immediate action: 'I understand you're considering your options - let's break this down into clear steps right now so you can make a confident decision.' Create immediate structure: 'First, tell me your top three concerns about starting the program. I'll address each one specifically while we review the enrollment process together.' Establish clear timelines: 'Let's schedule our follow-up call for tomorrow at 2 PM. Before then, I'll send you our comprehensive program guide and connect you with a current student who had similar concerns.' For overwhelmed students, provide immediate focus: 'Instead of looking at everything at once, let's focus on your first trimester. I can show you exactly how that would look while we begin your application.' Always maintain momentum through specific actions: 'While we address your concerns, let's start your preliminary application - this keeps your options open and ensures you don't miss out on a spot.' The key is transforming uncertainty into structured progress while maintaining clear direction toward enrollment completion. Create accountability: 'I'll call you tomorrow at 2 PM to finalize your enrollment - in the meantime, review the materials I'm sending and note any questions for our discussion.'"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 228,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.49122807017544,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 179,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.50877192982456,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.52989833806303,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 179,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 141.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.26,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 115.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.83,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 151.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.35,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 148.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.16,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 154.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.18,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 125.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.19,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations through targeted collaboration and practical examples"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through specific examples and clear adaptation strategies that ensure successful transitions"
+      },
+      {
+        "headline": "Proactive Support Planning",
+        "explanation": "Excellence in establishing structured support mechanisms that maintain student engagement while providing clear pathways for ongoing assistance and practical implementation"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate guidance boundaries and practical relevance"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks through exploration of transferable skills and structured confidence-building approaches"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and comprehensive contingency options that maintain enrollment momentum"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Healthcare Schedule Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical program flexibility for healthcare workers.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility through specific examples.",
+          "context_impact": "This moment required clear demonstration of how our program specifically accommodates healthcare shift workers to maintain enrollment momentum through tangible examples.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and integrate comprehensive support mechanisms for shift workers."
+        },
+        {
+          "id": 2,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158748634",
+              "segment_id": "492",
+              "timestamp": "15:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596846175186",
+                "segment_id": "200",
+                "timestamp": "15:30"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597158748634, seg_492), revealing significant anxiety about academic readiness and need for confidence building.",
+          "consultant_response": "Consultant focused on procedural aspects rather than addressing core concerns about academic capability and available support resources, missing opportunity for confidence building.",
+          "context_impact": "Critical opportunity to transform professional experience into academic confidence while maintaining momentum through structured support planning.",
+          "recommended_approach": "Develop comprehensive approach for exploring transferable skills and connecting to available support services through specific examples and structured planning."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Financial Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062484261",
+              "segment_id": "21",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'My biggest problem is finance. So I will be talking to them hopefully today regarding if they can cover it for me' (call_597062484261, seg_21), revealing significant financial concerns requiring clear guidance.",
+          "consultant_response": "Consultant provided comprehensive guidance: 'So essentially any Australian citizen or permanent resident is eligible [...] And then the HECS when you pay back just based off of your earnings' (call_597062484261, seg_68), effectively explaining payment options.",
+          "context_impact": "Critical moment requiring clear financial pathway options to transform potential barrier into manageable solution through specific examples.",
+          "recommended_approach": "Include more specific examples of how current students successfully manage payments while studying and integrate comprehensive support mechanisms."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845746905",
+              "segment_id": "28",
+              "timestamp": "2:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Multiple students expressed: 'I need to check with my manager first' (call_596845746905, seg_28), revealing documentation requirements as significant enrollment barrier.",
+          "consultant_response": "Consultants demonstrated varying levels of effectiveness in providing documentation guidance and alternative pathways, often missing opportunities for comprehensive support.",
+          "context_impact": "Documentation challenges emerged as a common barrier requiring clear guidance and flexible solutions to maintain momentum.",
+          "recommended_approach": "Develop comprehensive approach to documentation support that combines flexibility with clear guidance and specific alternative pathways."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061649552",
+              "segment_id": "27",
+              "timestamp": "0:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Hi, I was just calling to find out what is required to retrain as a high school teacher if you are already a primary school teacher' (call_597061649552, seg_27), seeking clear transition guidance.",
+          "consultant_response": "Consultant offered clear guidance: 'So in order for us to meet entry for our Masters of Teaching Secondary, it is upon assessment. So step one, you need a completed Bachelor...' (call_597061649552, seg_30), effectively outlining requirements.",
+          "context_impact": "Critical opportunity to demonstrate understanding of career transition needs while maintaining appropriate guidance boundaries through specific examples.",
+          "recommended_approach": "Explore specific aspects of teaching background to create more personalized transition planning while maintaining appropriate boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Study Load Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846175186",
+              "segment_id": "131",
+              "timestamp": "12:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'With 13 units you can get them done within a year and maybe one semester?' (call_596846175186, seg_131), seeking guidance on accelerated completion.",
+          "consultant_response": "Consultant provided basic timeline confirmation without exploring student's capacity or circumstances, missing opportunity for comprehensive planning.",
+          "context_impact": "Critical opportunity to ensure realistic study planning while maintaining enrollment momentum through practical examples.",
+          "recommended_approach": "Develop detailed approach for exploring study load management strategies and support mechanisms through specific examples and structured planning."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": []
+    }
+  }
+}

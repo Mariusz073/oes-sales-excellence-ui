@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 217,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 81,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 37.327188940092164,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 136,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 62.67281105990783,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.464359312594176,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 136,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.71,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 140.67,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.53,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 148.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.26,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 171.09,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.89,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.01,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 60.63,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 135.41,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.04,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate enrollment decisions with long-term academic and career aspirations while maintaining momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical examples and personalized solutions"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Excellence in connecting students with appropriate resources while creating confidence in success pathways through concrete examples and clear next steps"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals through detailed pathway planning"
+      },
+      {
+        "headline": "Work-Study Balance Support",
+        "explanation": "More comprehensive engagement required in mapping realistic study patterns that accommodate professional and personal commitments"
+      },
+      {
+        "headline": "Initial Engagement Depth",
+        "explanation": "Enhanced exploration needed of student goals and concerns during opening interactions to establish stronger collaborative foundations"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "Critical moment for aligning study plan with student capacity to ensure successful program engagement.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students, with detailed scenarios of managing different shift patterns."
+        },
+        {
+          "id": 2,
+          "title": "Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845604540",
+              "segment_id": "89",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596845604540",
+                "segment_id": "91",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I think I might just start with one.' (call_596845604540, seg_89), revealing cautious approach to managing study load.",
+          "consultant_response": "Consultant provided practical clarity: 'Okay, perfect. So that's about eight to ten hours of study per week.' (call_596845604540, seg_91), effectively translating academic load into concrete time requirements.",
+          "context_impact": "Critical moment for aligning study plan with student capacity to ensure successful program engagement.",
+          "recommended_approach": "Include more exploration of student's specific schedule constraints and competing commitments to ensure optimal study planning."
+        },
+        {
+          "id": 3,
+          "title": "Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983192925",
+              "segment_id": "79",
+              "timestamp": "18:31"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596983192925",
+                "segment_id": "77",
+                "timestamp": "18:25"
+              }
+            ]
+          },
+          "student_trigger": "Student emphasized: 'I guess, to put it bluntly, the quicker you get them in, the better you are.' (call_596983192925, seg_79), expressing urgency about enrollment deadlines.",
+          "consultant_response": "Consultant outlined clear pathway: 'So if everything goes according to plan, we can potentially be able to get you in to April. But obviously we've got to allow time for the assessment as well.' (call_596983192925, seg_77)",
+          "context_impact": "Clear timeline guidance essential for maintaining student confidence and enrollment momentum.",
+          "recommended_approach": "Include specific milestone dates and documentation requirements for each step in the enrollment process."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147896664",
+              "segment_id": "18",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597147896664",
+                "segment_id": "22",
+                "timestamp": "1:35"
+              }
+            ]
+          },
+          "student_trigger": "Student shared: 'Yeah, well I mean for me I was hoping to go into the line of possibly being like a university lecturer or something like that' (call_597147896664, seg_18), revealing specific career aspirations.",
+          "consultant_response": "Consultant replied: 'We do not offer that one, that pathway online, I'm afraid' (call_597147896664, seg_22), missing opportunity to explore alternative pathways.",
+          "context_impact": "Pivotal opportunity to align educational pathways with specific career aspirations while maintaining realistic expectations.",
+          "recommended_approach": "Explore alternative pathways and demonstrate how available programs could support long-term career goals while maintaining appropriate expectations."
+        },
+        {
+          "id": 5,
+          "title": "Initial Engagement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761403130",
+              "segment_id": "12",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Consultant opened with: 'So, do you have any questions before we begin, James?' (call_596761403130, seg_12), providing critical opportunity for deeper exploration.",
+          "consultant_response": "Moved directly to enrollment procedures without exploring student's interests or concerns, missing opportunity to personalize interaction.",
+          "context_impact": "Key moment to establish collaborative planning approach and understand student's specific needs and goals.",
+          "recommended_approach": "Use open-ended questions to explore specific goals and concerns, setting collaborative tone from conversation start."
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Balance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761354522",
+              "segment_id": "99",
+              "timestamp": "NA"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours' (call_596761354522, seg_99), revealing significant work-study balance concerns.",
+          "consultant_response": "Consultant replied: 'We have multiple study options available, but it's quite intense and requires full commitment' (call_596761354522, seg_100), missing opportunity to explore flexible solutions.",
+          "context_impact": "Critical opportunity to demonstrate program flexibility while maintaining momentum.",
+          "recommended_approach": "Explore specific workload management strategies and share success stories from similar professionals to build confidence."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules: 'Many nursing students download their weekly materials before night rotations, using those quiet 2-3am periods for focused reading.' Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges: 'You can download all materials to your tablet before your shift, complete the readings during quiet periods, then sync your progress when you're back online.' The goal is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845604540",
+              "segment_id": "89",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596845604540",
+                "segment_id": "91",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed a measured approach to study commitment, stating 'I think I might just start with one.' (call_596845604540, seg_89). This revealed thoughtful consideration of their study capacity and demonstrated a need for clear guidance on managing academic workload effectively.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by immediately translating the academic load into practical terms: 'Okay, perfect. So that's about eight to ten hours of study per week.' (call_596845604540, seg_91). This concrete time requirement helped the student understand exactly what commitment would be required, effectively supporting informed decision-making about their study load.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load with students, begin by acknowledging their thoughtful approach to academic planning. Immediately translate abstract unit numbers into concrete weekly time commitments that students can easily visualize within their current schedules. For example: 'Let's look at what one unit typically involves - that's about eight to ten hours of study per week. How would those hours fit with your current commitments?' Focus on helping students understand not just the time requirement, but also how that time can be structured flexibly around their existing obligations. Share specific examples of how current students successfully manage similar loads: 'Many students break these hours into smaller blocks throughout the week, like two hours each evening, or longer sessions on weekends.' Remember to validate cautious approaches while providing clear parameters that help students make confident decisions about their study capacity. The key is making the time commitment tangible while demonstrating how our flexible delivery supports successful study management."
+        },
+        {
+          "id": 3,
+          "title": "Timeline Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983192925",
+              "segment_id": "79",
+              "timestamp": "18:31"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596983192925",
+                "segment_id": "77",
+                "timestamp": "18:25"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed urgency regarding enrollment timing: 'I guess, to put it bluntly, the quicker you get them in, the better you are.' (call_596983192925, seg_79). This statement revealed both awareness of time constraints and a desire to understand how to meet critical deadlines effectively.",
+          "consultant_response": "The consultant provided clear direction while managing expectations: 'So if everything goes according to plan, we can potentially be able to get you in to April. But obviously we've got to allow time for the assessment as well.' (call_596983192925, seg_77). This response effectively balanced maintaining momentum while setting realistic expectations about processing times.",
+          "priority": "high",
+          "recommended_approach": "When managing enrollment timelines, begin by acknowledging the student's sense of urgency while providing clear structure: 'I understand you want to move quickly, and I'll help you navigate each step efficiently.' Create a specific action plan: 'For April entry, we need your documents by [specific date] to allow for assessment. Let's map out what needs to happen between now and then.' Break down requirements into manageable steps: 'First, we'll need [specific documents] by [date]. Once those are in, processing typically takes [timeframe].' For students concerned about timing, offer reassurance while maintaining realism: 'While earlier submission is better, many students successfully complete this process within similar timeframes.' The goal is creating confidence through clarity while ensuring students understand both opportunities and constraints in the enrollment timeline."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147896664",
+              "segment_id": "18",
+              "timestamp": "1:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597147896664",
+                "segment_id": "22",
+                "timestamp": "1:35"
+              }
+            ]
+          },
+          "student_trigger": "The student revealed specific career aspirations: 'Yeah, well I mean for me I was hoping to go into the line of possibly being like a university lecturer or something like that' (call_597147896664, seg_18). This disclosure presented an opportunity to demonstrate how our programs could support their academic career goals while maintaining realistic expectations.",
+          "consultant_response": "The consultant's response was notably limited: 'We do not offer that one, that pathway online, I'm afraid' (call_597147896664, seg_22). This reply focused solely on what wasn't possible rather than exploring alternative pathways or discussing how available programs could support the student's academic career aspirations.",
+          "priority": "high",
+          "recommended_approach": "When students express specific career aspirations, begin by acknowledging their goals while focusing on available pathways that could support those ambitions. Start with validation: 'A career in academia is an exciting goal. While we don't offer a direct pathway to university lecturing, let me show you how our programs could help build toward that aspiration.' Then explore transferable benefits: 'Many of our programs develop the advanced research and analytical skills valued in academic careers. For example, our master's programs often include research components that can help prepare for future doctoral studies.' Share specific examples: 'Some of our graduates have gone on to academic careers by using our programs as stepping stones, building strong foundations in their fields before pursuing additional qualifications.' Always maintain realistic expectations while demonstrating value: 'While becoming a lecturer requires additional steps beyond our programs, we can help you build a strong foundation in your field while maintaining your current role.' The key is transforming a seemingly negative response into a constructive discussion of alternative pathways and opportunities."
+        },
+        {
+          "id": 5,
+          "title": "Initial Engagement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761403130",
+              "segment_id": "12",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the conversation, the consultant asked: 'So, do you have any questions before we begin, James?' (call_596761403130, seg_12). This opening presented a valuable opportunity to establish a collaborative planning approach and explore James's thoughts, concerns, and aspirations.",
+          "consultant_response": "Instead of leveraging this opportunity for meaningful exploration, the consultant moved directly into procedural enrollment requirements. This transactional approach missed the chance to establish a collaborative planning environment and gather valuable insights about James's aspirations.",
+          "priority": "high",
+          "recommended_approach": "When opening conversations, treat initial questions as opportunities to establish strong collaborative foundations. Begin with statements that emphasize partnership: 'Before we dive into details, James, I'd love to understand what matters most to you about this program.' Follow with targeted questions that demonstrate genuine interest: 'What aspects of your future career are you most excited about?' Use their responses to shape the discussion: 'Based on your interest in [specific area], let me show you how our program supports that goal.' When transitioning to specific topics, maintain the collaborative tone: 'How does this align with what you're hoping to achieve?' The key is creating an environment where students feel like active participants in their educational planning rather than passive recipients of information."
+        },
+        {
+          "id": 6,
+          "title": "Work-Study Balance",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761354522",
+              "segment_id": "99",
+              "timestamp": "NA"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concerns about managing their professional commitments: 'I'm really interested in the MBA, but with my current role in management, I'm not sure I can commit to the study hours' (call_596761354522, seg_99). This revealed both strong interest in advancing their education and practical concerns about balancing studies with work responsibilities.",
+          "consultant_response": "The consultant's response was notably limited: 'We have multiple study options available, but it's quite intense and requires full commitment' (call_596761354522, seg_100). This reply missed the opportunity to explore flexible solutions and potentially heightened rather than alleviated the student's concerns about managing both commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by validating the student's thoughtful consideration of their commitments while demonstrating how our program specifically accommodates working professionals. Share concrete examples: 'Many of our MBA students in management roles find success by dedicating specific time blocks to study, such as early mornings before work or designated evening sessions.' Explore their specific schedule: 'Could you tell me more about your typical work week? This helps us identify study patterns that could work best for you.' Discuss flexible features: 'Our online platform lets you download materials for offline study during business trips, and you can complete assignments when it suits your schedule.' The key is transforming workload concerns from barriers into manageable planning opportunities, always grounding explanations in real examples from similar professionals who successfully balance their studies with demanding careers."
+        }
+      ]
+    }
+  }
+}
