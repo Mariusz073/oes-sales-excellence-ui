@@ -42,6 +42,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   const [selectedAnalysis, setSelectedAnalysis] = useState<string>('');
   const [selectedWeek, setSelectedWeek] = useState<string>('');
   const [availableWeeks, setAvailableWeeks] = useState<string[]>([]);
+  const [availableTeamAnalysisTypes, setAvailableTeamAnalysisTypes] = useState<string[]>([]);
 
   // Options for individual report analysis
   const analysisOptions = [
@@ -103,39 +104,51 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
     }
   }, [selectedPerson, selectedPersonAnalysis, jsonFiles]);
 
-  // Update available weeks for team reports when team or analysis changes
+  // Update available options for team reports
   useEffect(() => {
-    if (selectedTeam && selectedAnalysis) {
+    if (selectedTeam) {
       const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
-      const selectedOption = teamAnalysisOptions.find(option => option.value === selectedAnalysis);
       
-      // Get all files that match the pattern
-      const matchingFiles = teamReportFiles.filter(file => {
-        const filename = file.filename;
-        if (selectedAnalysis === 'compliance') {
-          return filename.includes(prefix) && filename.includes('Compliance');
-        } else {
-          // For behavioral reports, match the specific code
-          return filename.includes(prefix) && 
-                 filename.includes('Behavioural') && 
-                 filename.includes(selectedOption?.code || '');
+      // Get all available analysis types for the selected team
+      const teamFiles = teamReportFiles.filter(file => file.filename.includes(prefix));
+      const analysisTypes = new Set(teamFiles.map(file => {
+        if (file.filename.includes('Compliance')) {
+          return 'compliance';
         }
-      });
+        // For behavioral reports, extract the code
+        const match = file.filename.match(/Behavioural.*?([A-Z]{4})/);
+        return match ? `behavioural-${match[1].toLowerCase()}` : null;
+      }).filter(Boolean));
+      setAvailableTeamAnalysisTypes(Array.from(analysisTypes));
 
-      // Extract week numbers
-      const weeks = matchingFiles.map(file => {
-        const match = file.filename.match(/W(\d+)/);
-        return match ? match[1] : null;
-      }).filter((week): week is string => week !== null)
-        .sort((a, b) => parseInt(a) - parseInt(b));
+      // Update available weeks if analysis is selected
+      if (selectedAnalysis) {
+        const selectedOption = teamAnalysisOptions.find(option => option.value === selectedAnalysis);
+        
+        const matchingFiles = teamFiles.filter(file => {
+          const filename = file.filename;
+          if (selectedAnalysis === 'compliance') {
+            return filename.includes('Compliance');
+          } else {
+            return filename.includes('Behavioural') && 
+                   filename.includes(selectedOption?.code || '');
+          }
+        });
 
-      setAvailableWeeks(weeks);
-      if (selectedWeek && !weeks.includes(selectedWeek)) {
-        setSelectedWeek('');
+        const weeks = matchingFiles.map(file => {
+          const match = file.filename.match(/W(\d+)/);
+          return match ? match[1] : null;
+        }).filter((week): week is string => week !== null)
+          .sort((a, b) => parseInt(a) - parseInt(b));
+
+        setAvailableWeeks(weeks);
+        if (selectedWeek && !weeks.includes(selectedWeek)) {
+          setSelectedWeek('');
+        }
       }
     } else {
+      setAvailableTeamAnalysisTypes([]);
       setAvailableWeeks([]);
-      setSelectedWeek('');
     }
   }, [selectedTeam, selectedAnalysis, teamReportFiles]);
 
@@ -173,6 +186,27 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
     );
   };
 
+  const isTeamReportAvailable = () => {
+    if (!selectedTeam || !selectedAnalysis || !selectedWeek) return false;
+
+    const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
+    const selectedOption = teamAnalysisOptions.find(option => option.value === selectedAnalysis);
+    
+    return teamReportFiles.some(file => {
+      const filename = file.filename;
+      if (selectedAnalysis === 'compliance') {
+        return filename.includes(prefix) && 
+               filename.includes('Compliance') && 
+               filename.includes(`W${selectedWeek}`);
+      } else {
+        return filename.includes(prefix) && 
+               filename.includes('Behavioural') && 
+               filename.includes(selectedOption?.code || '') && 
+               filename.includes(`W${selectedWeek}`);
+      }
+    });
+  };
+
   const handleViewReport = () => {
     if (selectedPerson && selectedPersonAnalysis && selectedPersonWeek && isReportAvailable()) {
       const selectedFile = jsonFiles.find(
@@ -189,7 +223,7 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
   };
 
   const handleViewTeamReport = () => {
-    if (selectedTeam && selectedAnalysis && selectedWeek) {
+    if (selectedTeam && selectedAnalysis && selectedWeek && isTeamReportAvailable()) {
       const prefix = selectedTeam === 'monash' ? 'MONU' : 'SOL';
       const selectedOption = teamAnalysisOptions.find(option => option.value === selectedAnalysis);
       
@@ -356,22 +390,29 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             </select>
 
             <select
-              className={`${baseSelectStyles} ${analysisWidth} ${!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative ? 'opacity-50 cursor-not-allowed' : ''}`}
-              disabled={!isAdmin && !privileges.teamBehavioural && !privileges.teamCollaborative}
+              className={`${baseSelectStyles} ${analysisWidth} ${!selectedTeam ? 'opacity-50 cursor-not-allowed' : ''}`}
+              disabled={!selectedTeam}
               value={selectedAnalysis}
               aria-label="Select analysis type"
               onChange={(e) => setSelectedAnalysis(e.target.value)}
               style={dropdownArrowStyle}
             >
               <option value="">Kind of analysis</option>
-              {teamAnalysisOptions.map(option => (
-                ((option.value.startsWith('behavioural') && (isAdmin || privileges.teamBehavioural)) ||
-                 (option.value === 'compliance' && (isAdmin || privileges.teamCollaborative))) && (
-                  <option key={option.value} value={option.value}>
+              {teamAnalysisOptions.map(option => {
+                const isAvailable = availableTeamAnalysisTypes.includes(option.value);
+                const isAllowed = (option.value.startsWith('behavioural') && (isAdmin || privileges.teamBehavioural)) ||
+                                (option.value === 'compliance' && (isAdmin || privileges.teamCollaborative));
+                return isAllowed && (
+                  <option 
+                    key={option.value} 
+                    value={option.value}
+                    disabled={!isAvailable}
+                    className={!isAvailable ? 'opacity-50' : ''}
+                  >
                     {option.label}
                   </option>
-                )
-              ))}
+                );
+              })}
             </select>
 
             <select
@@ -409,9 +450,9 @@ export default function HomePage({ isAdmin, privileges }: HomePageProps) {
             </select>
 
             <button
-              className={`button ${!selectedTeam || !selectedAnalysis || !selectedWeek ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`button ${!isTeamReportAvailable() ? 'opacity-50 cursor-not-allowed' : ''}`}
               onClick={handleViewTeamReport}
-              disabled={!selectedTeam || !selectedAnalysis || !selectedWeek}
+              disabled={!isTeamReportAvailable()}
             >
               View report
             </button>
