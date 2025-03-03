@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 379,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 16.094986807387862,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 318,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 83.90501319261213,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.9000255451277,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 318,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 269.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 182.46,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 178.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.64,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.48,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 190.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.56,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.07,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 189.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 137.5,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 121.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.72,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 199.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 131.89,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 178.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.75,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 207.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.0,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 142.26,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.94,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Clarity on Course Structure and Financials",
+        "explanation": "Consultants are excelling at providing structured responses that clarify both course logistics and financial implications, significantly aiding student understanding and easing their path to enrollment."
+      },
+      {
+        "headline": "Engagement through Emotional Validation",
+        "explanation": "High instances of consultants successfully engaging students by acknowledging emotions and validating their concerns, reinforcing trust and rapport throughout the enrollment process."
+      },
+      {
+        "headline": "Proactive Financial Discussions",
+        "explanation": "Demonstrated ability to address financial questions with relevant information, fostering an environment of transparency and responsiveness, which enhances trust in the institution."
+      },
+      {
+        "headline": "Effective Handling of Course Progression Inquiry",
+        "explanation": "Responses to inquiries about course pathways were constructive, providing clarity and positively supporting students' educational goals, enhancing their enrollment likelihood."
+      },
+      {
+        "headline": "Empathetic Engagement with Queries",
+        "explanation": "Proactive response to student inquiries facilitated clearer understanding and helped establish a nurturing environment that encourages enrollment."
+      },
+      {
+        "headline": "Thorough Handling of Financial Inquiries",
+        "explanation": "Consultants exhibited strong skills in addressing financial concerns by providing tailored information on funding options, enhancing student trust and willingness to enroll."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deeper Exploration of Student Concerns",
+        "explanation": "Opportunities are being missed to delve deeper into students' individual circumstances and motivations, which could enhance enrollment likelihood and tailor the responses more effectively."
+      },
+      {
+        "headline": "Full Financial Literacy Engagement",
+        "explanation": "Responses often lack depth in explaining complex financial terms, leading to student confusion, which could impede commitment to the program."
+      },
+      {
+        "headline": "Strengthening Emotional Support Strategies",
+        "explanation": "Further emphasis is needed on guiding students through emotional responses to educational hurdles, ensuring they feel understood and supported during their decision-making process."
+      },
+      {
+        "headline": "Missed Opportunities in Addressing Prioritization",
+        "explanation": "Failure to engage deeply with students about their current priorities can lead to missed opportunities for future enrollment."
+      },
+      {
+        "headline": "Need for Comprehensive Follow-Up in Process Clarification",
+        "explanation": "Insufficient follow-up on procedural clarity can leave students feeling unsupported, affecting their enrollment readiness."
+      },
+      {
+        "headline": "Missed Opportunity to Probe for Underlying Concerns",
+        "explanation": "Consultants must initiate further conversation whenever a student raises potential issues. Continuous discussions around student apprehensions can solidify trust and enhance the likelihood of enrollment."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Clarity on Course Structure and Financials",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846005482",
+              "segment_id": "39",
+              "timestamp": "02:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I just would love to know more about the course and how it runs, if you're working online and remotely' (call_596846005482, seg_36), indicating a need for clarity about academic logistics.",
+          "consultant_response": "Consultant stated: 'With Monash Online, it is a little bit different to Monash on campus... you\u2019ve got the flexibility to get your coursework done at any point in time' (call_596846005482, seg_39), effectively addressing logistics and easing concerns.",
+          "context_impact": "Providing clear answers to questions about course structure reduces uncertainty about program fit.",
+          "recommended_approach": "Consultants should ensure to check back with students for understanding and any additional questions."
+        },
+        {
+          "id": 2,
+          "title": "Engagement through Emotional Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158825367",
+              "segment_id": "50",
+              "timestamp": "02:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah, no, if it's just the Level 2 and Level 3 units, then yeah, I think I'm sitting at like 69.25' (call_597158825367, seg_28), revealing a feeling of disappointment regarding eligibility.",
+          "consultant_response": "Consultant noted: 'We\u2019ve still got the pathway, which is a professional certificate, but still consider your options' (call_597158825367, seg_50), successfully reframing the situation.",
+          "context_impact": "Acknowledging disappointment helps maintain engagement and shows the student is heard.",
+          "recommended_approach": "Engage with students to discuss how alternative pathways could align with their goals."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Financial Discussions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148469771",
+              "segment_id": "155",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Does fee help give you interest?' (call_597148469771, seg_153), highlighting financial concerns as part of enrollment discussions.",
+          "consultant_response": "Consultant stated: 'Yeah, so each year there will be an indexation the same way as your HECS' (call_597148469771, seg_155), effectively providing important financial clarity.",
+          "context_impact": "Addressing financial queries at this juncture is critical for reducing anxiety about costs.",
+          "recommended_approach": "Ensure terms like 'indexation' are fully explained for clarity."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunity for Empathy",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062535190",
+              "segment_id": "72",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated, 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' (call_597062535190, seg_72), indicating significant anxiety about academic readiness.",
+          "consultant_response": "Consultant stated, 'So with this psych sequence...' but failed to address the emotional concern directly.",
+          "context_impact": "This lack of addressing anxiety can discourage continued engagement in the enrollment process.",
+          "recommended_approach": "Integrate empathetic language and validate the student's feelings to ensure they feel supported."
+        },
+        {
+          "id": 5,
+          "title": "Unaddressed Online Enrollment Inquiry",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147792876",
+              "segment_id": "37",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student questioned: 'Well, that was one of my questions, whether there is the ability to enroll online.' (call_597147792876, seg_15), exposing an opportunity for tailored response.",
+          "consultant_response": "Consultant stated: 'Ah, perfect. So that one is actually an on-campus course...' (call_597147792876, seg_37), indicating a lack of direct engagement with the student's actual question.",
+          "context_impact": "Clarifying online availability could substantially affect their decision to enroll or consider alternatives.",
+          "recommended_approach": "Consultants should inquire about the reasons behind the student's preference for online study to provide tailored information."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Clarity on Course Structure and Financials",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846005482",
+              "segment_id": "39",
+              "timestamp": "02:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596846005482 (segment 36), the student stated: 'I just would love to know more about the course and how it runs, if you're working online and remotely.' This inquiry highlighted their need for clarity about logistical and financial aspects of the course, a crucial moment for increasing their confidence in enrollment.",
+          "consultant_response": "The consultant effectively addressed these concerns by detailing: 'With Monash Online, it is a little bit different to Monash on campus in a sense that we operate in teaching periods as opposed to semesters\u2026 You\u2019ve got flexibility to get your coursework done at any point in time' (call_596846005482, seg_39). This response not only mitigated confusion surrounding course structure but also reinforced the aspirational emotions tied to online learning opportunities, therefore enhancing the student\u2019s understanding and comfort.",
+          "priority": "high",
+          "recommended_approach": "When confronted with questions about course logistics and financial details, it's essential for consultants to articulate responses that validate the student\u2019s concerns while providing comprehensive clarity. Including follow-up questions would ensure the student feels heard and understood, such as 'Does that help clarify your questions about how the program operates?' Addressing these queries upfront sets a solid foundation for effective enrollment discussions and reduces hurdles."
+        },
+        {
+          "id": 2,
+          "title": "Engagement through Emotional Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158825367",
+              "segment_id": "50",
+              "timestamp": "02:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a significant concern, stating: 'Yeah, no, if it's just the Level 2 and Level 3 units, then yeah, I think I'm sitting at like 69.25.' This moment not only reflects their disappointment over failing to meet requirements but also serves as a critical juncture for building empathy.",
+          "consultant_response": "The consultant replied: 'We\u2019ve still got the pathway, which is a professional certificate, but still consider your options' (call_597158825367, seg_50). This approach successfully reframed their setback into a viable pathway, ensuring continued engagement and demonstrating that each barrier can be treated as an opportunity for alternative exploration.",
+          "priority": "high",
+          "recommended_approach": "When students express disappointment about qualification setbacks, responding with empathy and exploring alternative paths is crucial. Phrasing like, 'I understand how close you are to qualifying; let\u2019s look at the options that are still available to you' can maintain motivation. It's important to delve deeper into their career aspirations, helping them visualize how they can still progress meaningfully toward their goals."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Financial Discussions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148469771",
+              "segment_id": "155",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student asked: 'Does fee help give you interest?' This query signifies an important turning point in the engagement process as students often assess financial obligations at this stage of enrollment.",
+          "consultant_response": "The consultant explained, 'Yeah, so each year there will be an indexation the same way as your HECS' (call_597148469771, seg_155). By relating the concept of indexation to a known financial term, the consultant alleviated the student\u2019s concerns about hidden costs within their financial obligations, enhancing understanding and reducing anxiety.",
+          "priority": "high",
+          "recommended_approach": "In handling finance-related questions, consultants should first acknowledge the worry expressed by students, saying things like: 'It\u2019s great that you're asking about financial implications; understanding these is vital for your planning.' Then they should provide a clear explanation, breaking down complex terms into relatable language while checking for understanding. Engaging creatively, such as asking, 'Would you like me to provide examples to clarify what indexation entails?' can significantly enrich the response and support the student\u2019s journey toward enrollment."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunity for Empathy",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062535190",
+              "segment_id": "72",
+              "timestamp": "N/A"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student stated, 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This indicates significant anxiety about academic readiness.",
+          "consultant_response": "The consultant offered procedural insights but failed to engage deeply with the student's recognition of fear over their academic absence, which should have been addressed with empathy.",
+          "priority": "high",
+          "recommended_approach": "In these situations, it is essential to explore the student's personal journey while asserting their ability to approach studies with confidence built from their life experiences."
+        },
+        {
+          "id": 5,
+          "title": "Unaddressed Online Enrollment Inquiry",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147792876",
+              "segment_id": "37",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Just before this interaction, the student stated: 'Well, that was one of my questions, whether there is the ability to enroll online.' This statement creates a pivotal engagement moment, underscoring the student's desire for clarity and relevance.",
+          "consultant_response": "The consultant's response indicated a lapse in addressing the student's inquiry: 'Ah, perfect. So that one is actually an on-campus course. You've called the online space at this stage...' This could have left the student feeling frustrated and unsupported.",
+          "priority": "high",
+          "recommended_approach": "Consultants should aim to meet the student where they are by first exploring their specific circumstances and preferences. A more effective approach could be to say, 'Thank you for your question regarding online options. What specifically about online learning fits your needs or preferences?' This opens up a dialogue that acknowledges their concerns while tailoring the conversation toward potential solutions."
+        }
+      ]
+    }
+  }
+}

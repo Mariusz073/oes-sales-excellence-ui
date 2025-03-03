@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 240,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 42,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 17.5,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 198,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 82.5,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.70050437570585,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 198,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 128.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.78,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 142.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.73,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 127.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.27,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 101.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.16,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 137.07,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 77.68,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 140.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 74.8,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 101.93,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 79.56,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 124.89,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.84,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Empathetic Career Transition Support",
+        "explanation": "Consultants excel at acknowledging students' career transitions and offering reassurance by sharing relatable success stories, helping students feel supported during significant changes."
+      },
+      {
+        "headline": "Proactive Problem-Solving for Financial Barriers",
+        "explanation": "Demonstrating an empathetic approach to navigate complex financial situations while providing viable solutions empowers students to overcome significant obstacles and explore educational pathways."
+      },
+      {
+        "headline": "Clarity and Reassurance on Accreditation",
+        "explanation": "Effectively addressing course accreditation concerns helps students understand the program's alignment with their career goals, enhancing their confidence and willingness to enroll."
+      },
+      {
+        "headline": "Effective Clarification of Course Delivery Options",
+        "explanation": "Consultants efficiently clarify course delivery methods, alleviating student anxieties regarding online learning structures and enabling informed enrollment decisions."
+      },
+      {
+        "headline": "Personalized Engagement with Student Aspirations",
+        "explanation": "Consultants skillfully align program offerings with students' individual career goals, enhancing the perceived value and relevance of the education provided."
+      },
+      {
+        "headline": "Strong Follow-Up for Continuous Student Support",
+        "explanation": "Consistent follow-up strategies are evident, reinforcing trust and addressing any lingering student concerns, ultimately increasing enrollment likelihood."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deepening Engagement for Career Aspirations",
+        "explanation": "Consultants occasionally missed opportunities to fully explore students' concerns about course fit, which can impact their confidence in decision-making and enrollment choices."
+      },
+      {
+        "headline": "Addressing Emotional and Financial Concerns",
+        "explanation": "There is a need for greater empathy and understanding towards students facing personal challenges to foster trust and provide meaningful support in their educational journey."
+      },
+      {
+        "headline": "Clarifying Enrollment Expectations",
+        "explanation": "Opportunities exist to improve clarity during initial discussions about enrollment processes, ensuring students are adequately prepared and reducing their uncertainty."
+      },
+      {
+        "headline": "Missed Opportunities for Enhanced Empathetic Responses",
+        "explanation": "Consultants should place greater emphasis on validating sensitive disclosures from students to strengthen the enrollment process."
+      },
+      {
+        "headline": "Failure to Explore Student Concerns Deeply",
+        "explanation": "There were instances where deeper inquiries into student concerns were not made, preventing full engagement with potential objections that might hinder students' commitment to enrollment."
+      },
+      {
+        "headline": "Lack of Clarity in Next Steps Post-Information Transfer",
+        "explanation": "Post-transfer guidance often lacks clarity, potentially leading to confusion and disengagement from the enrollment process."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Empathetic Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908107089",
+              "segment_id": "23",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm currently working as a solicitor but I'm interested in the role of counsellors...' (call_596908107089, seg_20), indicating pressure regarding her career transition to psychology.",
+          "consultant_response": "Consultant stated, 'Now we do have a lot of students who are changing careers as well...' (call_596908107089, seg_23), normalizing her feelings and reassuring her about the path ahead.",
+          "context_impact": "Acknowledging this concern is essential for reinforcing her confidence in transitioning to the Graduate Diploma of Psychology.",
+          "recommended_approach": "Explore more tailored solutions that align directly with the student's aspirations."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Problem-Solving for Financial Barriers",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914719971",
+              "segment_id": "71",
+              "timestamp": "12:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I didn't finish up the school fees...my parents passed away' (call_596914719971, seg_61), highlighting significant emotional and financial barriers.",
+          "consultant_response": "Consultant indicated, 'You will need a bachelor's degree...but we can use your CV...' (call_596914719971, seg_71), guiding the student toward actionable next steps.",
+          "context_impact": "Addressing these issues effectively is essential for student retention and support through difficult transitions.",
+          "recommended_approach": "Incorporate a more empathetic initial response that acknowledges her situation."
+        },
+        {
+          "id": 3,
+          "title": "Clarity and Reassurance on Accreditation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761309965",
+              "segment_id": "15",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern about accreditation, stating, 'Monash's course is not accredited by the board...' (call_596761309965, seg_11), signaling confusion about program fit.",
+          "consultant_response": "The consultant clarified, 'So it is an approved APAC accredited course...' (call_596761309965, seg_15), addressing the concern directly.",
+          "context_impact": "Clarifying this misunderstanding is vital to keep students engaged and exploring further enrollment.",
+          "recommended_approach": "Ensure responses are collaborative rather than dismissive to build trust with the student."
+        },
+        {
+          "id": 4,
+          "title": "Effective Clarification of Course Delivery Options",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069600911",
+              "segment_id": "46",
+              "timestamp": "07:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I was just trying to understand like overall how the online pattern works and how the instructions are conducted...' (call_597069600911, seg_46).",
+          "consultant_response": "Consultant responded: 'The course is delivered each academic year within Monash Online is structured into fixed teaching periods...' (call_597069600911, seg_76), which effectively reassured the student.",
+          "context_impact": "Clarifying course delivery methods can alleviate student anxieties and strengthen potential enrollment commitment.",
+          "recommended_approach": "Include more on networking options available to online students."
+        },
+        {
+          "id": 5,
+          "title": "Deepening Engagement for Career Aspirations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846361763",
+              "segment_id": "16",
+              "timestamp": "01:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want to get better experience in project management.' (call_596846361763, seg_16), showing a desire for career alignment.",
+          "consultant_response": "Consultant acknowledged: 'What we do require for the entry for this course is first express is a bachelor's degree...' (call_596846361763, seg_25), reinforcing the value of skills enhancement.",
+          "context_impact": "Aligning the student's motivations with program strengths is pivotal for encouraging commitment to enrollment.",
+          "recommended_approach": "Explore specific projects or course modules that would cater directly to the student's expressed ambition."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Empathetic Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908107089",
+              "segment_id": "23",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student stated, 'I'm currently working as a solicitor but I'm interested in the role of counsellors...' (call_596908107089, seg_20). This indicated her consideration of a significant shift from law to psychology, reflecting both personal aspirations and inherent uncertainties about feasibility. Addressing this concern is crucial for affirming her suitability for the Graduate Diploma of Psychology program.",
+          "consultant_response": "The consultant effectively acknowledged her concern with, 'Now we do have a lot of students who are changing careers as well...' (call_596908107089, seg_23). This response normalized her feelings, providing reassurance through relatable experiences of other students who successfully transitioned to new fields, thus enhancing her confidence.",
+          "priority": "high",
+          "recommended_approach": "To better support students undergoing career changes, consultants should begin by recognizing their aspirations: 'I understand that you're navigating a significant career change; many students do the same.' This should be followed by deeper questioning that explores the student's motivations: 'What specifically draws you to the role of a counsellor?' This tailored engagement strategy ensures course benefits are aligned with their individual goals, reinforcing trust and increasing their likelihood of enrollment."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Problem-Solving for Financial Barriers",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914719971",
+              "segment_id": "71",
+              "timestamp": "12:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596914719971, the student reported, 'I didn't finish up the school fees...my parents passed away...' (seg_61). This statement revealed significant emotional strains tied to their educational journey. The acknowledgment of such barriers is essential for validating their experience and encouraging continued discussion.",
+          "consultant_response": "The consultant's response was, 'You will need a bachelor's degree...but what I can try for you is yes, if you can send me your CV...' (call_596914719971, seg_71). By redirecting the conversation towards her work experience as a potential alternative entry route, they effectively opened pathways for further exploration, aiming to alleviate the immediate financial barrier.",
+          "priority": "high",
+          "recommended_approach": "Consultants should start by expressing empathy towards the student's situation, stating something like, 'Thank you for sharing that, it sounds like you've faced significant challenges.' Engaging the student further with questions that explore potential qualifications from work experience while guiding them on actionable steps like updating their CV can create a sense of hope and direction, solidifying their engagement with the education pathway."
+        },
+        {
+          "id": 3,
+          "title": "Clarity and Reassurance on Accreditation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761309965",
+              "segment_id": "15",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At a critical juncture, the student expressed doubt about enrollment, stating, 'Monash's course is not accredited by the board...' (call_596761309965, seg_11). This critical trigger indicated a potential misunderstanding regarding program accreditation that could adversely impact her enrollment decision.",
+          "consultant_response": "The consultant corrected the misconception with: 'So it is an approved APAC accredited course...' (call_596761309965, seg_15). This direct clarification was pivotal for reassuring the student about the program's academic validity, which is crucial in maintaining her interest and confidence.",
+          "priority": "high",
+          "recommended_approach": "Navigating accreditation discussions should be approached sensitively; begin by recognizing the student's concern with, 'I completely understand why you might think that; let\u2019s explore that together.' Use probing questions to uncover what the student has heard, enabling a clearer and collaborative conversation about the program\u2019s standing. Offering additional resources or points of contact can further reassure the student, positioning the institution as a reliable source of information and support."
+        },
+        {
+          "id": 4,
+          "title": "Effective Clarification of Course Delivery Options",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069600911",
+              "segment_id": "46",
+              "timestamp": "07:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 46, Ashwin expressed, 'I was just trying to understand like overall how the online pattern works and how the instructions are conducted?' This inquiry indicated significant concerns about the online learning format.",
+          "consultant_response": "The consultant responded: 'Sure, the way this course is delivered is structured into fixed teaching periods...' This comprehensive explanation not only clarified logistics but effectively alleviated Ashwin's concerns and enabled him to better envision his academic journey.",
+          "priority": "high",
+          "recommended_approach": "Consultants should provide engaging descriptions of networking options available to students within online formats, alongside logistical details, to significantly reduce student anxiety."
+        },
+        {
+          "id": 5,
+          "title": "Deepening Engagement for Career Aspirations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846361763",
+              "segment_id": "16",
+              "timestamp": "01:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want to get better experience in project management.' (call_596846361763, seg_16), showing a desire for career alignment.",
+          "consultant_response": "Consultant acknowledged: 'What we do require for the entry for this course is first express is a bachelor's degree...' (call_596846361763, seg_25), reinforcing the value of skills enhancement.",
+          "priority": "high",
+          "recommended_approach": ""
+        }
+      ]
+    }
+  }
+}

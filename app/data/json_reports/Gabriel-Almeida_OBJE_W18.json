@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "consultant_name": "Gabriel Almeida",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 259,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 55,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.235521235521233,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 204,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.76447876447877,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.44540490326518,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 204,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 107.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 145.91,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 142.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 152.31,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 183.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.28,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 126.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.5,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 204.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 120.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.41,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 165.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.99,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 165.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 162.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.06,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 160.49,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 134.3,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 43.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.48,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Emotional Acknowledgment",
+        "explanation": "Consultants successfully validate emotional concerns by normalizing feelings, helping to reinforce student confidence."
+      },
+      {
+        "headline": "Proactive Support Reinforcement",
+        "explanation": "Strong examples of consultants detailing available support systems, which enhance student confidence in managing challenges."
+      },
+      {
+        "headline": "Clear Communication Regarding Enrollment Process",
+        "explanation": "Effective clarification of student inquiries about credit recognition and course delivery modes enhances understanding and reduces hesitations."
+      },
+      {
+        "headline": "Empathy in Managing Personal Circumstances",
+        "explanation": "Consultants excelled at acknowledging students' personal challenges, aligning responses with their unique situations to support enrollment decisions."
+      },
+      {
+        "headline": "Proactive Addressing of Timing Concerns",
+        "explanation": "Highlighting flexible start dates and program characteristics reassured students about their enrollment timing."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Engagement on Personal Challenges",
+        "explanation": "Consultants often missed opportunities to explore students' emotional states, leading to feelings of neglect."
+      },
+      {
+        "headline": "Inadequate Clarity on Course Modality",
+        "explanation": "Responses often failed to directly address confusion over course delivery, risking student disengagement."
+      },
+      {
+        "headline": "Failure to Explore Alternative Solutions for Administrative Issues",
+        "explanation": "Consultants frequently neglected to provide assistance for administrative challenges encountered by students, which may lead to feelings of disconnection."
+      },
+      {
+        "headline": "Lack of Personalization in Responses",
+        "explanation": "Responses were frequently too procedural, lacking tailored engagement that addresses individual student circumstances."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Emotional Acknowledgment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845580003",
+              "segment_id": "276",
+              "timestamp": "11:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'It's exciting but I feel nervous about starting a new degree.' (call_596845580003, seg_276) indicating emotional duality.",
+          "consultant_response": "Consultant stated: 'That's kind of a good thing because it tends to be quite nervous and exciting starting a new degree.' (call_596845580003, seg_277), effectively normalizing emotions.",
+          "context_impact": "Addressing both excitement and nervousness can enhance student confidence moving forward.",
+          "recommended_approach": "In future similar situations, consultants should explicitly validate feelings of nervousness and highlight support mechanisms."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Support Reinforcement",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914887830",
+              "segment_id": "191",
+              "timestamp": "11:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried about potential challenges: 'Do you think you will face any challenges in this course?' (call_596914887830, seg_191) indicating a readiness to discuss support.",
+          "consultant_response": "Consultant reassured: 'If you do face any challenges at all, just know that we have student services available to help you...' (call_596914887830, seg_195), outlining specific resources.",
+          "context_impact": "Consultants' acknowledgment of available support services can significantly reduce student anxiety.",
+          "recommended_approach": "Continue emphasizing available services that cater to specific student needs for balance."
+        },
+        {
+          "id": 3,
+          "title": "Missed Engagement on Personal Challenges",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914887830",
+              "segment_id": "43",
+              "timestamp": "10:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I have a brain injury and I sometimes forget things.' (call_596914887830, seg_43) highlighting significant personal challenges.",
+          "consultant_response": "Consultant responded: 'That sounds like a lot to manage, we can help with resources.' (call_596914887830, seg_44), which lacked depth.",
+          "context_impact": "Assessing and addressing individual circumstances can enhance student comfort and connection.",
+          "recommended_approach": "Consultants should employ deeper inquiries to fully understand the student's concerns and context."
+        },
+        {
+          "id": 4,
+          "title": "Inadequate Clarity on Course Modality",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846036216",
+              "segment_id": "12",
+              "timestamp": "0:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student was confused about course modality, stating: 'Are classes in person or online?' (call_596846036216, seg_12). This uncertainty could deter enrollment.",
+          "consultant_response": "The consultant vaguely responded: 'Most courses are online, but there are sessions.' (call_596846036216, seg_13), lacking a clear explanation.",
+          "context_impact": "Proper clarification regarding delivery methods is crucial for student engagement.",
+          "recommended_approach": "Responses should clearly outline course modalities, ensuring students understand class structures and delivery methods."
+        },
+        {
+          "id": 5,
+          "title": "Clarifying Enrollment Next Steps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908152663",
+              "segment_id": "17",
+              "timestamp": "12:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'What's next for the enrollment process?' (call_596908152663, seg_17) indicating readiness to proceed.",
+          "consultant_response": "Consultant answered: 'No worries, we can do that.' (call_596908152663, seg_18) lacking specific detail.",
+          "context_impact": "Detailed responses about next steps can enhance student confidence and clarity.",
+          "recommended_approach": "Consultants should outline the enrollment steps clearly, addressing any last-minute concerns."
+        },
+        {
+          "id": 6,
+          "title": "Ineffective Handling of Explicit Timing Hesitations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845999711",
+              "segment_id": "114",
+              "timestamp": "1:54"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated hesitance on timing: 'I don\u2019t think I can start this semester.' (call_596845999711, seg_114), showing a risk for disengagement.",
+          "consultant_response": "The consultant replied: 'Well, we can always defer your start.' (call_596845999711, seg_115), which did not encourage deeper exploration of the student's concerns.",
+          "context_impact": "Addressing timing objections empathetically is key to retaining student interest.",
+          "recommended_approach": "Consultants should explore the reasons behind timing hesitations further, probing for commitment issues or other factors."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Emotional Acknowledgment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845580003",
+              "segment_id": "276",
+              "timestamp": "11:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596845580003 (segment 276), the student mentioned: 'It's exciting but I feel nervous about starting a new degree.' This expression of mixed emotions indicates an important moment in their evaluation process and demonstrates their enthusiasm for the academic journey ahead while also revealing concerns about transitioning into a new setting.",
+          "consultant_response": "The consultant effectively responded with: 'But I think that's kind of a good thing because, you know, it tends to be quite nervous and exciting starting a new degree. So sometimes it's better to just have that confidence in yourself and get started you know.' This approach balanced acknowledgment of the student's anxiety with positive reinforcement by normalizing their mixed feelings. This likely provided the student with reassurance and validation that they were understood.",
+          "priority": "high",
+          "recommended_approach": "Consultants should focus on recognizing key emotional cues when students express anxieties or excitement. When students express apprehension, the response can start with empathy: 'I recognize the mix of excitement and nerves that comes with this transition.' By actively inviting students to share their thoughts about what excites them about pursuing a degree, consultants can encourage deeper engagement while reinforcing a supportive environment."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Support Reinforcement",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914887830",
+              "segment_id": "191",
+              "timestamp": "11:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the examination of potential challenges, the student asked: 'Do you think you will face any challenges in this course, for example, managing time with work and family, academic writing, or passing assignments and exams?' This inquiry reflects a real concern for balance many returning students face related to academic engagements and life commitments.",
+          "consultant_response": "In response, the consultant assured: 'If you do face any challenges at all, just know that we have student services available to help you seven days a week... The coach can help you with time management...' This clear communication of support likely alleviated some of the student's anxiety and directly addressed their potential concerns.",
+          "priority": "high",
+          "recommended_approach": "When discussing enrollment pathways, consultants should consistently reference the detailed support mechanisms that are available to enrolled students. By ensuring students know that they have resources like academic coaches or dedicated tutoring services at their disposal, the overall atmosphere transforms into one of reassurance. This approach can significantly boost the student's confidence regarding their ability to handle transitioning back to schooling."
+        },
+        {
+          "id": 3,
+          "title": "Clarity on Course Compatibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845580003",
+              "segment_id": "62",
+              "timestamp": "3:46"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 3:46 in call 596845580003 (segment 62), the student expressed concern: 'Some of the units are covered in the double degree.' This signifies a proactive approach to their educational planning while also highlighting apprehensions regarding potential redundancy in academic commitments.",
+          "consultant_response": "The consultant responded: 'Oh, I see, okay, no problems at all. I will get your transcript and then finish your enrollment and I will call you as soon as I finish.' This indicative response worked to soothe the student\u2019s worries about course compatibility helping to sustain their interest in proceeding.",
+          "priority": "high",
+          "recommended_approach": "When recognizing course compatibility concerns, consultants need to emphasize a deep understanding of students' prior learning experiences by responding with, 'I understand your concern about overlapping units. Let's ensure you get the most out of your studies without redundancy,' to promote constructive engagement."
+        },
+        {
+          "id": 4,
+          "title": "Missed Engagement on Personal Challenges",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914887830",
+              "segment_id": "43",
+              "timestamp": "10:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed: 'I have a brain injury and I sometimes forget things.' This highlights significant personal challenges.",
+          "consultant_response": "Consultant responded: 'That sounds like a lot to manage, we can help with resources.' This response lacked depth.",
+          "priority": "high",
+          "recommended_approach": "Consultants should engage in deeper inquiries to fully understand the student\u2019s concerns and context, transforming the interaction into a more supportive and engaging dialogue."
+        },
+        {
+          "id": 5,
+          "title": "Clarifying Enrollment Next Steps",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908152663",
+              "segment_id": "17",
+              "timestamp": "12:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'What's next for the enrollment process?' (call_596908152663, seg_17) indicating readiness to proceed.",
+          "consultant_response": "Consultant answered: 'No worries, we can do that.' lacking specific detail.",
+          "priority": "high",
+          "recommended_approach": "Consultants should outline the enrollment steps clearly, addressing any last-minute concerns, thus bolstering the student\u2019s readiness and comfort with the process."
+        },
+        {
+          "id": 6,
+          "title": "Ineffective Handling of Explicit Timing Hesitations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845999711",
+              "segment_id": "114",
+              "timestamp": "1:54"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated hesitance on timing: 'I don\u2019t think I can start this semester.' This shows a risk for disengagement.",
+          "consultant_response": "The consultant replied: 'Well, we can always defer your start.' which did not encourage deeper exploration of the student\u2019s concerns.",
+          "priority": "high",
+          "recommended_approach": "Consultants should explore reasons behind timing hesitations further, probing for commitment issues or other factors that may affect enrollment."
+        }
+      ]
+    }
+  }
+}

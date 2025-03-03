@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 210,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 67,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.9047619047619,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 143,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.0952380952381,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.705944045572224,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 143,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.77,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.51,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 154.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.25,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 130.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.62,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 175.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 97.56,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.05,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 120.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.48,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 151.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.62,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Engagement on Financial Concerns",
+        "explanation": "Consultants adeptly respond to financial inquiries, reinforcing student confidence in financial management, which is critical for enrollment."
+      },
+      {
+        "headline": "Clarifying Enrollment Steps",
+        "explanation": "Strong demonstration of how clear procedural guidance mitigates student uncertainty and fosters progress in the enrollment process."
+      },
+      {
+        "headline": "Supportive Approach to Learning Challenges",
+        "explanation": "Effective handling of disclosures regarding learning disabilities fosters an inclusive environment, encouraging student persistence and trust."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhancing Personalization in Responses",
+        "explanation": "Responses often lacked personalization, missing opportunities to relate program features directly to student needs and circumstances."
+      },
+      {
+        "headline": "Failure to Explore Underlying Concerns",
+        "explanation": "Responses frequently did not delve deep enough into emotional triggers, risking abandonment of enrollment."
+      },
+      {
+        "headline": "Clarity on Document Requirements",
+        "explanation": "Improved clarity on application documentation is essential to prevent student frustration and enhance confidence in the enrollment process."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Financial Response",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147978188",
+              "segment_id": "146",
+              "timestamp": "03:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Just HECS.' (call_597147978188, seg_147), showcasing their preference for this funding method.",
+          "consultant_response": "Consultant replied: 'Just HECS.' (call_597147978188, seg_149), which solidified financial clarity.",
+          "context_impact": "Confirming their choice helps clarify financial pathways, reducing stress and promoting a smoother enrollment journey.",
+          "recommended_approach": "Encourage further discussions on other potential financial support options, like scholarships."
+        },
+        {
+          "id": 2,
+          "title": "Clarifying Enrollment Steps",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158804650",
+              "segment_id": "8",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Not really I kind of just want to know where to go from here.' (call_597158804650, seg_8) indicating their need for guidance.",
+          "consultant_response": "Response was: 'Yeah of course so essentially all we have to do...' (call_597158804650, seg_10) effectively guided the student through the necessary steps.",
+          "context_impact": "Providing clarity at this moment reduces uncertainty, pushing towards a higher likelihood of enrollment.",
+          "recommended_approach": "Integrate more detailed follow-up questions to ensure the student understands all next steps."
+        },
+        {
+          "id": 3,
+          "title": "Supportive Approach to Learning Challenges",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908102121",
+              "segment_id": "141",
+              "timestamp": "04:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted: 'I'm diagnosed with ADHD and dyslexia. I'm worried about handling the coursework.' (call_596908102121, seg_141) indicating need for support.",
+          "consultant_response": "Consultant provided information about the AccessAbility program but missed deeper engagement: 'We have support for students with various conditions.' (call_596908102121, seg_141)",
+          "context_impact": "This acknowledgment lays the groundwork for addressing their concerns, fostering a supportive dialogue.",
+          "recommended_approach": "Enhance engagement by discussing tailored support strategies for their unique situations."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunity to Explore Study Commitment Worries",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845807538",
+              "segment_id": "47",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm worried I won't be able to keep up with the study schedule.' (call_596845807538, seg_47) highlighting a need for support.",
+          "consultant_response": "Consultant stated: 'Let's talk about how our flexible study schedule can help you manage your commitments.' (call_596845807538, seg_48), but lacking specific examples resulted in minimal reassurance.",
+          "context_impact": "Addressing such scheduling concerns is vital for instilling confidence and securing enrollment.",
+          "recommended_approach": "Provide concrete examples of support structures available to help manage study workloads."
+        },
+        {
+          "id": 5,
+          "title": "Insufficient Probing for Initial Questions",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147750820",
+              "segment_id": "10",
+              "timestamp": "00:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Did you have any questions for me just to begin with?' (call_597147750820, seg_10), leaving room for exploration.",
+          "consultant_response": "Consultant followed with: 'No, I will,' without further questioning, which did not facilitate dialogue.",
+          "context_impact": "Failing to probe deeper risks leaving core apprehensions unaddressed.",
+          "recommended_approach": "Follow up on initial student statements about questions to uncover potential barriers at the start."
+        },
+        {
+          "id": 6,
+          "title": "Lack of Clarity in Enrollment Transition Process",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845993209",
+              "segment_id": "2",
+              "timestamp": "00:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student asked: 'Is this going to be done automatically or do I have to do that manually?' (call_596845993209, seg_15) indicating procedural confusion.",
+          "consultant_response": "Consultant responded: 'Transfer you through to the student advisors team...' (call_596845993209, seg_7), clarifying the redirection but not the entire process.",
+          "context_impact": "Addressing procedural queries effectively is crucial for maintaining student confidence.",
+          "recommended_approach": "Enhance explanations of the full transition process and ensure students feel assured during administrative changes."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Financial Response",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147978188",
+              "segment_id": "146",
+              "timestamp": "03:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 146 of call 597147978188, the student stated: 'Just HECS.' This clarification shows the student\u2019s understanding of their funding path, illustrating comfort with this common approach.",
+          "consultant_response": "The consultant affirmed succinctly: 'Just HECS.' This response re-established the student's confidence regarding their financial pathway.",
+          "priority": "high",
+          "recommended_approach": "Acknowledging the chosen financial pathway is essential. A consultant could respond affirmatively by stating, 'Using HECS is wise since you start repayment post-study based on earnings.' Additionally, exploring alternative funding such as scholarships or employer support might foster further confidence."
+        },
+        {
+          "id": 2,
+          "title": "Clarifying Enrollment Steps",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158804650",
+              "segment_id": "8",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597158804650, the student expressed uncertainty: 'Not really I kind of just want to know where to go from here.' This indicated the need for clear direction amidst their decision-making.",
+          "consultant_response": "In response, the consultant articulated the next steps: 'Yeah of course so essentially all we have to do...' establishing clear procedures.",
+          "priority": "high",
+          "recommended_approach": "When a student signals uncertainty, affirm their need for guidance with an acknowledgment. Explore further by asking, 'Are there specific areas of the process you\u2019d like clarity on?' This not only provides immediate answers but also reassures them of ongoing support throughout their journey."
+        },
+        {
+          "id": 3,
+          "title": "Supportive Approach to Learning Challenges",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908102121",
+              "segment_id": "141",
+              "timestamp": "04:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In segment 141, the student admitted: 'I'm diagnosed with ADHD and dyslexia. I'm worried about handling the coursework.' This disclosure reveals profound vulnerability and the need for targeted support.",
+          "consultant_response": "The consultant responded with the AccessAbility program's information: 'We have support for students with various conditions.' While informative, it lacked personalized detail and exploration of the student\u2019s specific circumstances.",
+          "priority": "high",
+          "recommended_approach": "When addressing learning challenges, it\u2019s essential to validate the student's experiences while inviting them to share more about their past support strategies. This approach not only strengthens trust but encourages a comprehensive discussion on how the available resources can meet their unique academic needs."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunity to Explore Study Commitment Worries",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845807538",
+              "segment_id": "47",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed: 'I'm worried I won't be able to keep up with the study schedule.' This signals significant hesitation about managing their commitments.",
+          "consultant_response": "The consultant responded, 'Let's talk about how our flexible study schedule can help you manage your commitments,' yet this lacked specific examples that might have fully alleviated the student's worries.",
+          "priority": "high",
+          "recommended_approach": "To effectively tackle concerns around academic schedules, begin by empathizing with the student's time management anxieties: 'I completely understand your concern about keeping up with studies\u2014many students share this feeling.' Follow up with questions to explore their specific worries, allowing for tailored reassurance."
+        },
+        {
+          "id": 5,
+          "title": "Lack of Clarity in Enrollment Transition Process",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845993209",
+              "segment_id": "2",
+              "timestamp": "00:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student asked: 'Is this going to be done automatically or do I have to do that manually?' indicating a procedural concern about transitioning.",
+          "consultant_response": "The consultant remarked, 'Transfer you through to the student advisors team...' This clarified the redirection but did not articulate the comprehensive steps involved in the transition process.",
+          "priority": "high",
+          "recommended_approach": "Clarifying processes during enrollment transitions is essential for developing student trust. When discussing transitions, affirm the student\u2019s concern. Offer a thorough explanation of the process, and make connections explicit: 'I can assist to ensure everything moves smoothly; let's go through the steps so you feel equipped.'"
+        }
+      ]
+    }
+  }
+}

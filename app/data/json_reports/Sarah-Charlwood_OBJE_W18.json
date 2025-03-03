@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 157,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.210191082802545,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 108,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.78980891719745,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.360787073950846,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 108,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 217.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 148.06,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 199.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.04,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 149.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.75,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.43,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.92,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 145.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 176.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.65,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 155.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.36,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 206.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 204.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.65,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 111.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.21,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 164.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.67,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Empathetic Acknowledgment of Concerns",
+        "explanation": "Consultants effectively validated student feelings, transforming emotional barriers into constructive dialogue that fosters confidence."
+      },
+      {
+        "headline": "Clear Communication of Program Flexibility",
+        "explanation": "Strong demonstration of how the program's structure accommodates diverse student lifestyles, enhancing perceived compatibility and attraction."
+      },
+      {
+        "headline": "Proactive Responses to Academic Readiness Concerns",
+        "explanation": "Demonstrating empathy by acknowledging students' past experiences and current capabilities increases confidence in their potential success."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Failure to Address Specific Concerns",
+        "explanation": "Missed opportunities to answer critical student inquiries directly may leave students feeling unsupported and reluctant to enroll."
+      },
+      {
+        "headline": "Need for Follow-up on Critical Concerns",
+        "explanation": "Responses often lacked adequate follow-up questions to ensure students' concerns were thoroughly addressed, risking disengagement from the enrollment process."
+      },
+      {
+        "headline": "Inadequate Exploration of Underlying Hesitations",
+        "explanation": "Insufficient exploration of students' deeper hesitations can result in unresolved anxieties, impacting their confidence and enrollment."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Acknowledgment of Past Failures",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062517833",
+              "segment_id": "43",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I failed pretty much the last three subjects.' (call 597062517833, seg 43), indicating significant emotional barriers to re-enrollment.",
+          "consultant_response": "Consultant remarked: 'I can certainly help you with this process... That's a real testament to you that you're looking to return...' (call 597062517833, seg 51), effectively validating the student's feelings.",
+          "context_impact": "Addressing this concern is crucial for enhancing confidence in returning to study, thereby impacting enrollment decisions.",
+          "recommended_approach": "Enhance responses by providing concrete pathways for support available to students facing similar challenges."
+        },
+        {
+          "id": 2,
+          "title": "Clear Structure of Online Learning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148251294",
+              "segment_id": "136",
+              "timestamp": "08:56"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'How does online work? Is it pre-recorded?' (call 597148251294, seg 136), showing uncertainty about online education structure.",
+          "consultant_response": "Consultant explained: 'You have learning modules that are broken up into each week...' (call 597148251294, seg 140), effectively alleviating the student's concerns about scheduling.",
+          "context_impact": "Clarifying the format is vital for the student to assess the program's compatibility with their lifestyle.",
+          "recommended_approach": "Include examples of how existing students manage their studies within this structure to assure potential enrollees."
+        },
+        {
+          "id": 3,
+          "title": "Flexibility Reassurance in Study Load Decisions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158826563",
+              "segment_id": "83",
+              "timestamp": "10:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed doubts: 'Do I want to put the time transfer?' (call_597158826563, seg 77), showing indecision about study load.",
+          "consultant_response": "Consultant reassured: 'If you decide to change your mind, you certainly can...' (call_597158826563, seg 83), effectively addressing the student's concerns.",
+          "context_impact": "Providing options for flexible study loads can mitigate student anxieties, leading to better enrollment outcomes.",
+          "recommended_approach": "Encourage exploration of specific student commitments related to their decision."
+        },
+        {
+          "id": 4,
+          "title": "Missed Engagement with Student Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761493054",
+              "segment_id": "81",
+              "timestamp": "14:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I just want to understand...' (call 596761493054, seg 81), indicating a need for clarity on program relevance.",
+          "consultant_response": "Consultant replied: 'You deserve to be supported...' (call 596761493054, seg 91), lacking specifics on program alignment with student goals.",
+          "context_impact": "Failing to address specific qualifications can leave students hesitant about enrollment.",
+          "recommended_approach": "Include more tailored questions to uncover deeper reservations regarding enrollment."
+        },
+        {
+          "id": 5,
+          "title": "Final Questions Check Insufficiency",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761493054",
+              "segment_id": "164",
+              "timestamp": "14:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Sorry, I just have a few questions.' (call 596761493054, seg 164), indicating openings for final clarifications.",
+          "consultant_response": "Consultant acknowledged without follow-up: 'That's fine.' (call 596761493054, seg 150), missing opportunity for check-in.",
+          "context_impact": "Ensuring these questions are addressed effectively can solidify decisions to enroll.",
+          "recommended_approach": "Implement stronger closure strategies to summarize and ensure all student doubts are resolved."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Exploration of Underlying Hesitations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062517833",
+              "segment_id": "100",
+              "timestamp": "03:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I'm not sure about commitment level.' (call 597062517833, seg 100), revealing hesitations about their future study paths.",
+          "consultant_response": "Response did not delve deeper: 'I understand that, but don't stress.' (call 597062517833, seg 120).",
+          "context_impact": "Understanding underlying emotions can significantly influence enrollment intent.",
+          "recommended_approach": "Use probing questions to uncover and address deeper uncertainties impacting decisions."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Acknowledgment of Past Failures",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062517833",
+              "segment_id": "43",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 5:20 into the call (segment 43), the student shared: 'I failed pretty much the last three subjects.' This pivotal statement revealed her significant struggles and emotional barriers to re-enrollment. It indicated a sensitive area where acknowledgment could foster trust and reassurance, essential for her confidence moving forward.",
+          "consultant_response": "The consultant responded with empathy: 'Well, I can certainly help you with this process ... I think that's a real testament to you that you're looking to return after what you've been through ...' (call 597062517833, seg 51). This effectively validated the student's feelings and indicated the consultant's understanding of the emotional weight of her experience, fostering a constructive dialogue.",
+          "priority": "high",
+          "recommended_approach": "In instances like this, it is critical to acknowledge the emotional impact of past academic experiences. A suitable response would involve recognizing her courage in considering a return and sharing that many students face similar challenges and find success after struggles, as well as explicitly outlining the array of support services available. By offering structured pathways and highlighting past success stories, consultants can transform doubts into positive action, enhancing student confidence and likelihood to enroll."
+        },
+        {
+          "id": 2,
+          "title": "Clear Structure of Online Learning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148251294",
+              "segment_id": "136",
+              "timestamp": "08:56"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 8:56 into the call (segment 136), the student sought clarity: 'How does online work? Is it pre-recorded?' This question revealed a deep-seated curiosity about the online course structure, underscoring uncertainties around engagement with the program.",
+          "consultant_response": "Responding effectively, the consultant clarified: 'You have learning modules that are broken up into each week ... you don't have to be online at a certain time.' (call 597148251294, seg 140). This response alleviated scheduling concerns and increased comfort with the program's flexibility.",
+          "priority": "high",
+          "recommended_approach": "When addressing inquiries regarding online coursework, it's essential to provide a clear and comprehensive overview of the program's structure, emphasizing flexibility and support. For instance, framing the answer positively by emphasizing that learning is modular and can fit individual schedules while clarifying that support will be readily available empowers students. Additionally, inquire if they have preferences or concerns to address any lingering doubts about compatibility with their lifestyles."
+        },
+        {
+          "id": 3,
+          "title": "Flexibility Reassurance in Study Load Decisions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158826563",
+              "segment_id": "83",
+              "timestamp": "10:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597158826563 (segment 77), the student revealed uncertainty, stating, 'I probably could do full-time study, especially because...' This moment marked a key point of indecision regarding their study load, manifesting underlying fears about balancing commitments with study.",
+          "consultant_response": "The consultant effectively reassured, 'If you decide to change your mind, you certainly can...' (call 597158826563, seg 83). By providing detailed options and affirming that adjustments could be made if needed, the consultant significantly lightened the student\u2019s load of anxiety.",
+          "priority": "high",
+          "recommended_approach": "When students voice uncertainty about their study loads, it\u2019s crucial to articulate both flexibility and supportive institutional structures clearly. Begin by acknowledging their thoughtfulness in considering working among study commitments, followed by specific avenues for support if needed. This could include resources centralized around the census date\u2014detailing how advisory contacts can facilitate any necessary changes\u2014fostering confidence in students managing their educational pathways."
+        },
+        {
+          "id": 4,
+          "title": "Missed Engagement with Student Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761493054",
+              "segment_id": "81",
+              "timestamp": "14:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In the conversation, the student queried: 'I just want to understand ...' (call 596761493054, seg 81), reflecting a strong desire for clarification about their course relevance and compatibility with their aspirations.",
+          "consultant_response": "Unfortunately, the consultant's response was: 'You deserve to be supported ...' (call 596761493054, seg 91), failing to address the specifics of the student's inquiry or offer tangible reassurance regarding course details.",
+          "priority": "high",
+          "recommended_approach": "Engaging with students' specific concerns requires addressing inquiries directly and thoughtfully. When a student expresses such queries, it's critical to respond with detailed insights regarding how the program aligns with past experiences and the student's career objectives. This response should include a genuine exploration of any reservations they might hold and ensuring all questions are satisfactorily addressed before concluding the conversation."
+        },
+        {
+          "id": 5,
+          "title": "Final Questions Check Insufficiency",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761493054",
+              "segment_id": "164",
+              "timestamp": "14:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Sorry, I just have a few questions.' (call 596761493054, seg 164), indicating openings for final clarifications.",
+          "consultant_response": "Consultant acknowledged without follow-up: 'That's fine.' (call 596761493054, seg 150), missing opportunity for check-in.",
+          "priority": "high",
+          "recommended_approach": "Implement stronger closure strategies to summarize and ensure all student doubts are resolved."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Exploration of Underlying Hesitations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062517833",
+              "segment_id": "100",
+              "timestamp": "03:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I'm not sure about commitment level.' (call 597062517833, seg 100), revealing hesitations about their future study paths.",
+          "consultant_response": "Response did not delve deeper: 'I understand that, but don't stress.' (call 597062517833, seg 120).",
+          "priority": "high",
+          "recommended_approach": "Use probing questions to uncover and address deeper uncertainties impacting decisions."
+        }
+      ]
+    }
+  }
+}

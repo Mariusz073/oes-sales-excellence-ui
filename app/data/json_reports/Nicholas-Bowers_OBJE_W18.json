@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "consultant_name": "Nicholas Bowers",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 260,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 72,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.692307692307693,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 188,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.3076923076923,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.91215646184053,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 188,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 171.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 129.94,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.25,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 212.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.4,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 110.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.42,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 110.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.94,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 156.8,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 118.97,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 189.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.92,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 142.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 148.88,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.25,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Communication of 24-7 Support Services",
+        "explanation": "Consultants successfully addressed student concerns by highlighting the availability of around-the-clock support resources, fostering confidence and security."
+      },
+      {
+        "headline": "Proactive Guidance in Course Navigation",
+        "explanation": "Positive engagement through directed support led students to relevant advising resources, fostering confidence in their decisions and enhancing the overall enrollment experience."
+      },
+      {
+        "headline": "Effective Reassurance on Credit Transfer Process",
+        "explanation": "Consultants effectively addressed students' concerns about credit transfers, reinforcing trust and alleviating anxiety."
+      },
+      {
+        "headline": "Successful Flexibility Demonstration",
+        "explanation": "Clear showcasing of flexible study structures helped ease student concerns about balancing study with work commitments."
+      },
+      {
+        "headline": "Engagement through Empathetic Acknowledgment",
+        "explanation": "Responses that acknowledge emotional concerns transformed potential objections into constructive engagements, enhancing rapport."
+      },
+      {
+        "headline": "Tailored Solutions to Study Load Concerns",
+        "explanation": "Consultants demonstrated capability in addressing individual queries about study flexibility, instilling confidence and reassurance."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Opportunity on Financial Clarity",
+        "explanation": "Consultants often missed opportunities to engage students in dialogue surrounding financial concerns, which can significantly impact their confidence in enrolling."
+      },
+      {
+        "headline": "Need for Deeper Emotional Engagement",
+        "explanation": "Responses to students' concerns often lack empathetic acknowledgment, which is crucial for building trust and rapport."
+      },
+      {
+        "headline": "Deepening Career Pathway Engagement",
+        "explanation": "Consultants need to better engage students in discussing their career aspirations and how educational offerings align with these goals."
+      },
+      {
+        "headline": "Exploring Students' Broader Educational Goals",
+        "explanation": "Missed opportunities to delve into individual aspirations can lead to frustration. Proactive exploration of goals could strengthen the path to enrollment."
+      },
+      {
+        "headline": "Improving the Depth of Objection Handling",
+        "explanation": "Responses often lacked comprehensive follow-up questions to gauge student understanding, undermining potential relationship-building."
+      },
+      {
+        "headline": "Enhancing Communication on Alternative Assessments",
+        "explanation": "Addressing specific student concerns regarding exam formats and accommodations can significantly improve anxiety around academic evaluations."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of 24-7 Support Services",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915026643",
+              "segment_id": "80",
+              "timestamp": "04:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student engaged with the mention of support services, stating: '24-7 student advisor help team.' (call_596915026643, seg_80), revealing a critical need for reassurance about support availability.",
+          "consultant_response": "Consultant responded: 'Otherwise, when you are an enrolled student, you get access to our 24-7 student advisor help team.' (call_596915026643, seg_80), effectively highlighting comprehensive support.",
+          "context_impact": "Understanding support availability can enhance student confidence and satisfaction with their enrollment decision.",
+          "recommended_approach": "Ensure to ask if the student has any concerns about support, enhancing engagement."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Guidance in Course Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070247470",
+              "segment_id": "8",
+              "timestamp": "00:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'your inquiry, you wanted a bit of help with course planning.' (call_597070247470, seg_8), needing course planning support.",
+          "consultant_response": "Response: 'I will transfer you through to the student advisor team.' (call_597070247470, seg_11) effectively facilitated access to support.",
+          "context_impact": "Clarifying course options can enhance student commitment to enrollment.",
+          "recommended_approach": "Consultants should engage more directly with student concerns before transferring to ensure readiness."
+        },
+        {
+          "id": 3,
+          "title": "Effective Reassurance on Credit Transfer Process",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845625778",
+              "segment_id": "105",
+              "timestamp": "04:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I guess I'm just worried that if I pull out of this and then go with Swinburne and then I don't get my units across, that I'll have to start from scratch, if that makes sense.' (call_596845625778, seg_105)",
+          "consultant_response": "Consultant responded: 'You can explore credit options without immediate withdrawal.' (call_596845625778, seg_108)",
+          "context_impact": "Addressing this concern about credit transfer is critical to reassure students in their decision-making process.",
+          "recommended_approach": "Consultants should reinforce this assurance by actively confirming students\u2019 specific concerns and providing examples of similar cases."
+        },
+        {
+          "id": 4,
+          "title": "Successful Flexibility Demonstration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070263987",
+              "segment_id": "106",
+              "timestamp": "10:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'But I just can't physically go. To class either now.' (call_597070263987, seg_106).",
+          "consultant_response": "Consultant stated: 'Well luckily you know our main demographic are like full-time workers and family people...' (call_597070263987, seg_112).",
+          "context_impact": "This statement highlighted concerns about attendance requirements that could deter enrollment.",
+          "recommended_approach": "Follow up with insights on how the program's online aspects facilitate attendance challenges."
+        },
+        {
+          "id": 5,
+          "title": "Missed Opportunity on Financial Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915026643",
+              "segment_id": "70",
+              "timestamp": "05:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty: 'I'm not sure what one of those options, I won't commit to any just yet.' (call_596915026643, seg_69), indicating financial hesitance.",
+          "consultant_response": "Consultant: 'Yep...So you'll receive your Welcome to Swinburne online email...' (call_596915026643, seg_70), missing a chance to explore financial concerns.",
+          "context_impact": "Clarifying financial options can significantly influence the student's likelihood to enroll.",
+          "recommended_approach": "Engage deeper with financial option discussions, ensuring clarity around each choice."
+        },
+        {
+          "id": 6,
+          "title": "Need for Deeper Emotional Engagement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908038127",
+              "segment_id": "45",
+              "timestamp": "03:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty: 'I just haven't heard anything from the 20th of January.' (call_596908038127, seg_45), highlighting confusion over their application status.",
+          "consultant_response": "The consultant addressed procedural questions but lacked sufficient emotional engagement.",
+          "context_impact": "Failure to address application status uncertainty risks losing student engagement.",
+          "recommended_approach": "Implement ongoing follow-up inquiries to connect emotionally and alleviate stress."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of 24-7 Support Services",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915026643",
+              "segment_id": "80",
+              "timestamp": "04:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596915026643 (segment 80), the student engaged with the consultant's mention of the support services, stating, '24-7 student advisor help team.' This moment was pivotal as it touched upon the student's probable anxiety about managing studies alongside work. Recognizing robust support signifies institutional commitment, which is vital for student confidence in their ability to succeed while juggling commitments.",
+          "consultant_response": "The consultant promptly responded with, 'Otherwise, when you are an enrolled student, you get access to our 24-7 student advisor help team.' (call_596915026643, seg_80). This response was effective as it explicitly highlighted the comprehensive nature of support available. By proactively addressing potential concerns about academic challenges, the consultant fostered a sense of security that enhances the student's confidence in enrolling.",
+          "priority": "high",
+          "recommended_approach": "When discussing support services, begin by reaffirming their availability to alleviate anxieties. A strong opening might be, 'Just to reassure you, our 24-7 support team is always available to assist students.' When addressing students' specific support needs regarding scheduling or study, incorporate a tailored question: 'What type of support would be most beneficial for you?' This increases engagement and allows you to provide more personalized assistance, ensuring students feel directly involved in finding solutions."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Guidance in Course Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070247470",
+              "segment_id": "8",
+              "timestamp": "00:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation in call 597070247470 (segment 8), the student expressed the need for assistance with course planning, which indicates a critical moment where effective guidance is crucial to keep the enrollment process on track.",
+          "consultant_response": "The consultant directed, 'I will transfer you through to the student advisor team. They're your internal help team who help you course plan.' (call_597070247470, seg_11). This proactive approach ensured that the student received the necessary support to navigate their course options effectively.",
+          "priority": "high",
+          "recommended_approach": "While the response was effective, enhancing the interaction could involve initial reassurance before transferring, such as, 'I understand your ambiguity about course options; let me connect you with tailored support.' Taking the time to explore details of the student's needs can also offer critical insight. Asking questions like, 'What specific challenges or objectives do you have in mind?' could lead to a more personalized and engaged transfer experience."
+        },
+        {
+          "id": 3,
+          "title": "Effective Reassurance on Credit Transfer Process",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845625778",
+              "segment_id": "105",
+              "timestamp": "04:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 4:25 into the call, the student expressed: 'I guess I'm just worried that if I pull out of this and then go with Swinburne and then I don't get my units across, that I'll have to start from scratch, if that makes sense.' This moment was crucial as it highlighted the student's concerns regarding potential academic credits and the fear of starting over.",
+          "consultant_response": "The consultant responded: 'You can explore credit options without immediate withdrawal.' (call_596845625778, seg_108). This response effectively aligned with objection handling, as it reassured the student that they could proceed with credit inquiries without halting their studies, reducing their perceived risk.",
+          "priority": "high",
+          "recommended_approach": "Consultants should confirm the student's concerns while actively presenting real-world examples of how previous students navigated similar issues, enhancing trust in the institution's support. Start by acknowledging the emotional state of the student, followed by clarity on the institution\u2019s credit assessment process and potential pathways for transition."
+        },
+        {
+          "id": 4,
+          "title": "Successful Flexibility Demonstration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070263987",
+              "segment_id": "106",
+              "timestamp": "10:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597070263987 (segment 106), the student expressed their concern: 'But I just can't physically go. To class either now.' This statement highlighted significant concerns about attendance requirements that could deter enrollment.",
+          "consultant_response": "The consultant effectively reassured them by saying, 'Well luckily, you know our main demographic is like full-time workers and family people... and there's flexibility in how you can study.' This response addressed their concern directly and transformed a potential objection into an engagement opportunity.",
+          "priority": "high",
+          "recommended_approach": "Consultants should reinforce the value of the program's flexibility by offering specific examples of how others in similar situations have successfully managed their studies alongside existing commitments to alleviate any remaining doubts."
+        },
+        {
+          "id": 5,
+          "title": "Missed Opportunity on Financial Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915026643",
+              "segment_id": "70",
+              "timestamp": "05:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596915026643 (segment 69), the student revealed uncertainty about financial options: 'I'm not sure what one of those options, I won't commit to any just yet.' This statement highlighted their hesitance regarding financial topics, showcasing a need for clarity.",
+          "consultant_response": "To effectively address financial apprehensions, the consultant focused on procedural aspects without addressing the student\u2019s financial concerns directly, which could lead to increased anxiety.",
+          "priority": "high",
+          "recommended_approach": "To effectively address financial apprehensions, begin with an empathetic inquiry like, 'It seems you're contemplating various payment options; what specific information can I clarify for you regarding fees?' Engaging with open-ended questions allows for deeper discussions of financial choices, bridging the gap between information and student comfort in commitment."
+        },
+        {
+          "id": 6,
+          "title": "Need for Deeper Emotional Engagement",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908038127",
+              "segment_id": "45",
+              "timestamp": "03:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed: 'I just haven't heard anything from the 20th of January.' This uncertainty represents a significant barrier to engagement and reflects a common concern about application status.",
+          "consultant_response": "While the response addressed procedural matters, it lacked sufficient emotional engagement, leaving the student feeling further apprehensive.",
+          "priority": "high",
+          "recommended_approach": "Consultants should acknowledge students' emotional states by saying something like: 'I understand how waiting for updates can be concerning.' Offering to check status directly reinforces a sense of support and urgency in the response."
+        }
+      ]
+    }
+  }
+}

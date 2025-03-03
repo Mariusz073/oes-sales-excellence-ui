@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 228,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.49122807017544,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 179,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.50877192982456,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.52989833806303,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 179,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 141.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.26,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 115.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.83,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 151.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.35,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 148.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.16,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 154.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.18,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 125.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.19,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Financial Objection Handling",
+        "explanation": "Consultants effectively addressed significant financial concerns, reinforcing trust and potentially increasing student retention."
+      },
+      {
+        "headline": "Clear Communication of Admission Requirements",
+        "explanation": "Strong clarity provided regarding entry requirements alleviates student anxiety, enhancing confidence in the enrollment process."
+      },
+      {
+        "headline": "Effective Follow-Up Support",
+        "explanation": "Consultants successfully reassure students of ongoing support by committing to follow up with additional resources, reinforcing a positive relationship."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deepening Engagement on Personal Constraints",
+        "explanation": "There is a need for more personalized responses to students expressing constraints, particularly in acknowledging their unique situations."
+      },
+      {
+        "headline": "Missed Financial Discussion Opportunities",
+        "explanation": "Responses often lacked a thorough exploration of financial options, limiting students' understanding and awareness of available support."
+      },
+      {
+        "headline": "Verifying Understanding and Satisfaction",
+        "explanation": "Consultant responses often lack follow-up checks for understanding, which can leave students uncertain about next steps."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Acknowledgment of Financial Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070295695",
+              "segment_id": "87",
+              "timestamp": "12:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Well he can't afford to study full-time without a scholarship.' (call_597070295695, seg_87), highlighting a critical financial barrier.",
+          "consultant_response": "Consultant noted: 'Okay. Because at the moment they are completing welcome calls for students that have been enrolled.' (call_597070295695, seg_133), indicating a need for more direct support.",
+          "context_impact": "Effectively addressing financial concerns is essential to prevent potential dropout due to affordability issues.",
+          "recommended_approach": "Consultants can improve by discussing financial solutions, including scholarship opportunities and flexible study options."
+        },
+        {
+          "id": 2,
+          "title": "Clear Communication on Admission Requirements",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846210349",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Oh, okay, all right.' (call_596846210349, seg_23), demonstrating a need for clarity about requirements.",
+          "consultant_response": "Consultant replied: 'You have to send your resume as part of the application.' (call_596846210349, seg_25), enhancing understanding.",
+          "context_impact": "Clear communication helps alleviate confusion and ensures students are informed about next steps.",
+          "recommended_approach": "Encourage consultants to ask if the student needs further clarification after explaining requirements."
+        },
+        {
+          "id": 3,
+          "title": "Deepening Engagement on Personal Constraints",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908356376",
+              "segment_id": "31",
+              "timestamp": "02:43"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm a single mother.' (call_596908356376, seg_31), revealing a personal constraint impacting eligibility.",
+          "consultant_response": "Consultant affirmed: 'I do understand, but two years need to be full-time.' (call_596908356376, seg_32), which conveyed empathy but lacked depth.",
+          "context_impact": "Acknowledging the challenge fosters trust and may influence decision-making positively.",
+          "recommended_approach": "Encourage consultants to propose flexible support options tailored to the student's situation."
+        },
+        {
+          "id": 4,
+          "title": "Verifying Understanding Post-Response",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147940579",
+              "segment_id": "91",
+              "timestamp": "06:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students require confirmation after process explanations to clarify their understanding.",
+          "consultant_response": "Consultant only responded with information but skipped over checking for student understanding.",
+          "context_impact": "Ensuring comprehension post-response can alleviate confusion and promote smoother transitions for students.",
+          "recommended_approach": "Incorporate follow-up questions to gauge if more clarification is needed."
+        },
+        {
+          "id": 5,
+          "title": "Clarifying Course Duration Expectations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158852460",
+              "segment_id": "68",
+              "timestamp": "06:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student inquired: 'So, that will help me get years down to two years.' (call_597158852460, seg_68), indicating an eagerness to clarify.",
+          "consultant_response": "Consultant remarked: 'No, that won\u2019t shorten your requirements.' (call_597158852460, seg_71), lacking depth of exploration.",
+          "context_impact": "Clarifying expectations and possible accelerations supports student engagement and retention.",
+          "recommended_approach": "Consultants should focus on how prior experiences may contribute to course duration and reassure students about the potential for flexibility."
+        },
+        {
+          "id": 6,
+          "title": "Effective Follow-Up Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061649552",
+              "segment_id": "99",
+              "timestamp": "06:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah, okay, let me suss it out then. Thank you.' (call_597061649552, seg_99), indicating they are contemplating further engagement.",
+          "consultant_response": "Consultant said: 'No, that's no worries. I'll send you an email anyway. But yeah, no worries at all.' (call_597061649552, seg_101), effectively establishing a commitment to follow-up support.",
+          "context_impact": "This moment highlights an opportunity to reinforce support and maintain the student's commitment to exploring enrollment.",
+          "recommended_approach": "While effective, the consultant could enhance this by assuring with tangible resources: 'I'll send you links to help explore your options further.'"
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Acknowledgment of Financial Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070295695",
+              "segment_id": "87",
+              "timestamp": "12:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student conveyed an important financial barrier when they stated: 'Well he can't afford to study full-time without a scholarship.' This concern is pivotal as it highlights a significant obstacle that, if not adequately addressed, could derail their chances of enrollment.",
+          "consultant_response": "The consultant remarked: 'Okay. Because at the moment they are completing welcome calls for students that have been enrolled.' This general response hinted at a lack of actionable support or resources for the student, thereby leaving the main concern relatively unaddressed.",
+          "priority": "high",
+          "recommended_approach": "Moving forward, consultants should thoroughly explore potential financial support options when barriers arise. For instance, they might say, 'I understand how financial challenges can limit your options. Let's discuss scholarships or payment plans available for your program that could help.' This ensures the student feels heard and valued while presenting constructive pathways moving forward."
+        },
+        {
+          "id": 2,
+          "title": "Clear Communication on Admission Requirements",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846210349",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596846210349, at segment 23, the student expressed understanding with: 'Oh, okay, all right.' This indicates the student's desire for clarification regarding the key requirements essential for their application process.",
+          "consultant_response": "The consultant reaffirmed by stating, 'You have to send your resume as part of the application.' (call_596846210349, seg_25). This clear and explicit communication provided critical information that likely alleviated the student's anxiety about applying.",
+          "priority": "high",
+          "recommended_approach": "Consultants should continue fostering dialogue by not only stating requirements but also asking, 'Does that help clarify everything? Would you like to go over any other documents you need to submit?' This ensures clarity and builds a deeper understanding of each student's needs."
+        },
+        {
+          "id": 3,
+          "title": "Verifying Understanding Post-Response",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147940579",
+              "segment_id": "91",
+              "timestamp": "06:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In a recent discussion, students pointed out a gap in communication when they stated that they need confirmation after receiving information to ensure they fully grasp the admissions process.",
+          "consultant_response": "Unfortunately, the consultant only delivered information without checking the student's level of understanding.",
+          "priority": "high",
+          "recommended_approach": ""
+        },
+        {
+          "id": 4,
+          "title": "Deepening Engagement on Personal Constraints",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908356376",
+              "segment_id": "31",
+              "timestamp": "02:43"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596908356376, segment 31, the student disclosed: 'I'm a single mother.' This statement surfaced crucial insights into personal challenges directly influencing engagement and perceived eligibility.",
+          "consultant_response": "The consultant responded: 'I do understand, but two years need to be full-time.' (call_596908356376, seg_32), exhibiting some degree of empathy yet lacking depth or exploration of tailored support options.",
+          "priority": "high",
+          "recommended_approach": ""
+        },
+        {
+          "id": 5,
+          "title": "Clarifying Course Duration Expectations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158852460",
+              "segment_id": "68",
+              "timestamp": "06:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about study duration, asking: 'So, that will help me get years down to two years.' (call_597158852460, seg_68) This inquiry indicates a need for clarity regarding their educational pathway and potential accelerations.",
+          "consultant_response": "The consultant's response was, 'No, that won\u2019t shorten your requirements.' (call_597158852460, seg_71), which, while informative, fell short of exploring the implications of prior learning on course duration.",
+          "priority": "high",
+          "recommended_approach": ""
+        },
+        {
+          "id": 6,
+          "title": "Effective Follow-Up Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061649552",
+              "segment_id": "99",
+              "timestamp": "06:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597061649552, segment 99, the student stated: 'Yeah, okay, let me suss it out then. Thank you.' This indicates the student is contemplating their next steps and shows an opening for continued engagement.",
+          "consultant_response": "The consultant followed up affirmatively with: 'No, that's no worries. I'll send you an email anyway.' (call_597061649552, seg_101). This open invitation for subsequent communication effectively addresses any lingering uncertainties regarding the enrollment process.",
+          "priority": "high",
+          "recommended_approach": "Consultants should enhance their closing statements by proposing, 'I\u2019ll follow up with resources that could assist you with your considerations; feel free to reach out if you need further help!' This serves to reinforce a supportive learning environment and reassures the student of ongoing institutional backing."
+        }
+      ]
+    }
+  }
+}

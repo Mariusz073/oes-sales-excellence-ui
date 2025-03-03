@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 196,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 50,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.510204081632654,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 146,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.48979591836735,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.27531491462942,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 146,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 235.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 121.42,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 168.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.55,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 198.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.19,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 152.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 134.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.18,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 193.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 147.35,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 182.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.52,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 184.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.62,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Engagement with Student Readiness",
+        "explanation": "Consultants demonstrate strong appropriateness in recognizing and reinforcing students' readiness to enroll, enhancing commitment."
+      },
+      {
+        "headline": "Proactive Reassurance on Enrollment Processes",
+        "explanation": "Well-timed reassurances help dispel concerns and bolster student confidence regarding procedural clarity."
+      },
+      {
+        "headline": "Effective Clarification of Online Logistics",
+        "explanation": "Consultants successfully addressed students' concerns about online course structures, enhancing their understanding and comfort with program logistics."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Need for Deeper Probing of Hidden Concerns",
+        "explanation": "Missed opportunities to explore deeper student uncertainties can lead to unaddressed concerns that jeopardize enrollment."
+      },
+      {
+        "headline": "Addressing Student Concerns about Program Fit",
+        "explanation": "Greater emphasis is needed on understanding student comparisons to competing programs and addressing their specific concerns about duration."
+      },
+      {
+        "headline": "Missed Opportunities in Emotional Reassurance",
+        "explanation": "There were instances where consultants could have offered stronger emotional support, acknowledging students' past struggles or anxieties more effectively to encourage engagement."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Positive Engagement During Enrollment Intent",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148196859",
+              "segment_id": "5",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just ringing to enrol.' (call_597148196859, seg_5), demonstrating eagerness and clear intent to proceed.",
+          "consultant_response": "Consultant responded: 'So, yeah, all we need to do is your enrolment form. But did you have any questions about the course or the enrolment process that you wanted to ask before we go through that?' (call_597148196859, seg_37), effectively inviting further dialogue.",
+          "context_impact": "Acknowledging such readiness enhances the student's confidence and reduces anxiety about the enrollment process.",
+          "recommended_approach": "Enhance probing for any latent concerns to ensure comprehensive support."
+        },
+        {
+          "id": 2,
+          "title": "Effective Clarification of Online Logistics",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148292893",
+              "segment_id": "38",
+              "timestamp": "04:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596914556386",
+                "segment_id": "53",
+                "timestamp": "02:23"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I just want to know when is the next intake because I'm looking for online since I can't go like physically to the university.' (call_597148292893, seg_38) highlighting a concern about study feasibility amid personal circumstances.",
+          "consultant_response": "The consultant responded: 'Yeah, the next one would be in July. So you're moving, where are you moving to?' (call_597148292893, seg_43), successfully addressing the student's logistical concern.",
+          "context_impact": "This inquiry presented a crucial opportunity to provide reassurance regarding the online structure and upcoming intake dates, influencing the student's enrollment decision.",
+          "recommended_approach": "Enhance future sessions by also addressing logistical support options available to new students."
+        },
+        {
+          "id": 3,
+          "title": "Empathy in Response to Study Anxiety",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061718203",
+              "segment_id": "32",
+              "timestamp": "03:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student voiced concern: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' (call_597061718203, seg_32), revealing vulnerability.",
+          "consultant_response": "Response lacked specifics beyond: 'We will definitely support you through this transition.' (call_597061718203, seg_36) missing deeper engagement.",
+          "context_impact": "Acknowledging this fear could alleviate concerns, boosting enrollment likelihood.",
+          "recommended_approach": "Responses should incorporate examples of support mechanisms available to returning students."
+        },
+        {
+          "id": 4,
+          "title": "Addressing Administrative Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069605904",
+              "segment_id": "39",
+              "timestamp": "03:14"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'A bit strange... it's sort of out of my hands.' (call_597069605904, seg_39) revealing frustration with the administrative process.",
+          "consultant_response": "Consultant's reassurance: 'It's going to be absolutely fine...' (call_597069605904, seg_47) provided a sense of peace and clarity.",
+          "context_impact": "Immediate attention to these frustrations can uphold the student's trust in the system.",
+          "recommended_approach": "Enhance approach to not only address logistical issues but also connect emotionally with the student's concerns."
+        },
+        {
+          "id": 5,
+          "title": "Missed Opportunity to Explore Course Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148196859",
+              "segment_id": "5",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At call entry, the student stated: 'I'm just ringing to enrol.' (call_597148196859, seg_5) indicating excitement but possibly harboring hidden concerns.",
+          "consultant_response": "Consultant failed to probe deeper into possible concerns during the initial readiness declaration.",
+          "context_impact": "Failures to uncover these can lead to unresolved issues, jeopardizing the enrollment experience.",
+          "recommended_approach": "Encourage all consultants to adopt a more explorative approach during initial engagement."
+        },
+        {
+          "id": 6,
+          "title": "Clarifying Pathways to Goals",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761394105",
+              "segment_id": "27",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student inquired: 'Was it a better way to go study-wise to get to that pathway?' (call_596761394105, seg_27), indicating uncertainty.",
+          "consultant_response": "The consultant's response did not outline necessary steps for the student's academic journey.",
+          "context_impact": "Without clear guidance, students may falter in their choices, jeopardizing enrollment.",
+          "recommended_approach": "Consultant must proactively outline step-by-step pathways towards career aspirations."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Positive Engagement During Enrollment Intent",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148196859",
+              "segment_id": "5",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At a pivotal moment in the conversation, the student stated: 'I'm just ringing to enrol.' (call_597148196859, seg_5). This declaration is significant because it underscores the student's eagerness to move forward with their education journey. Recognizing this readiness is critical for the consultant, as it provides a clear opportunity to explore any unexpressed concerns that could hinder engagement.",
+          "consultant_response": "The consultant responded effectively, saying: 'So, yeah, all we need to do from here to secure your place is your enrolment form. But did you have any questions about the course or the enrolment process that you wanted to ask before we go through that?' (call_597148196859, seg_37). This approach not only acknowledges the student's readiness but also opens a dialogue for any lingering inquiries.",
+          "priority": "high",
+          "recommended_approach": "When a student expresses readiness to enroll, it\u2019s essential for consultants to engage them further by encouraging open discussion about any questions or concerns. This support reinforces their confidence and decisiveness in moving forward. Implementing strategies such as 'I\u2019m glad to hear you're prepared to enroll; do you have any specific concerns you\u2019d like to discuss before we dive into the process?' fosters an atmosphere conducive to addressing hidden doubts."
+        },
+        {
+          "id": 2,
+          "title": "Effective Clarification of Online Logistics",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148292893",
+              "segment_id": "38",
+              "timestamp": "04:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596914556386",
+                "segment_id": "53",
+                "timestamp": "02:23"
+              }
+            ]
+          },
+          "student_trigger": "In a pivotal moment during the call, the student inquired: 'I just want to know when is the next intake, is it because I'm looking for online, I can't go like physically to the university and do my studies.' (call_597148292893, seg_38). This statement illuminated the student's concern regarding their ability to manage the educational commitments amidst a personal moving situation, showcasing a pressing need for clarity around learning logistics.",
+          "consultant_response": "The consultant promptly addressed this concern by stating: 'Yeah, the next one would be in July. So you're moving, where are you moving to?' (call_597148292893, seg_43). This response demonstrates an effective application of the objection handling technique, whereby the consultant provided specific information about the intake schedule that reassured the student about the online course's alignment with their personal circumstances.",
+          "priority": "high",
+          "recommended_approach": "In situations where a student expresses logistical concerns, it\u2019s crucial to validate their circumstances and openly discuss how the program can accommodate those needs. A consultant might initiate the conversation by acknowledging the moving situation, saying: 'I understand that moving can be hectic; our online program is designed to support students facing such commitments.' Following an empathetic approach allows for a deeper discussion exploring how flexible study arrangements can facilitate their learning experience."
+        },
+        {
+          "id": 3,
+          "title": "Empathy in Response to Study Anxiety",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061718203",
+              "segment_id": "32",
+              "timestamp": "03:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student stated: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' (call_597061718203, seg_32). This reveals deep-seated fear about returning to education after a long hiatus.",
+          "consultant_response": "The consultant\u2019s reply of: 'We will definitely support you through this transition.' (call_597061718203, seg_36) lacked depth, as they missed the opportunity to explore specific offers of support.",
+          "priority": "high",
+          "recommended_approach": "When students express fears about their capacities to adapt to study after an extended break, validate their concerns through empathetic language. Invite the student to share their specific apprehensions to personalize the response, focusing on supportive institutional resources that can facilitate their success. Sharing stories of how other students transitioned back into academia successfully will bolster their confidence."
+        },
+        {
+          "id": 4,
+          "title": "Addressing Administrative Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069605904",
+              "segment_id": "39",
+              "timestamp": "03:14"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'A bit strange... it's sort of out of my hands.' (call_597069605904, seg_39) revealing frustration with the administrative process.",
+          "consultant_response": "Consultant's reassurance: 'It's going to be absolutely fine...' (call_597069605904, seg_47) provided a sense of peace and clarity.",
+          "priority": "medium",
+          "recommended_approach": "Consultants should ensure they validate the frustrations expressed as real concerns and provide concrete ways to navigate these issues, perhaps by reinforcing the support available to students during such processes."
+        },
+        {
+          "id": 5,
+          "title": "Missed Opportunity to Explore Course Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148196859",
+              "segment_id": "5",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student\u2019s mention: 'I'm just ringing to enrol.' (call_597148196859, seg_5) clearly indicated their eagerness but may also conceal unexpressed hesitations about the enrollment itself.",
+          "consultant_response": "While the consultant briefly touched on next steps, vital opportunities to probe underlying concerns more thoroughly were overlooked during the initial readiness declaration.",
+          "priority": "high",
+          "recommended_approach": "Consultants should actively seek to uncover any potential fears during initial engagement by asking targeted questions that invite deeper discussion."
+        },
+        {
+          "id": 6,
+          "title": "Clarifying Pathways to Goals",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761394105",
+              "segment_id": "27",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596761394105, the student inquired: 'Was it a better way to go study-wise to get to that pathway?' (seg_27), indicating uncertainty.",
+          "consultant_response": "The consultant's response did not outline necessary steps for the student's academic journey.",
+          "priority": "high",
+          "recommended_approach": "Consultant must proactively outline step-by-step pathways towards career aspirations to reduce student uncertainty."
+        }
+      ]
+    }
+  }
+}

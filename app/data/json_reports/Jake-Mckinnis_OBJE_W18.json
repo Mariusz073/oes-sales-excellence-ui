@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 217,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 81,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 37.327188940092164,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 136,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 62.67281105990783,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.464359312594176,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 136,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.71,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 140.67,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.53,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 148.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.26,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 171.09,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.89,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.01,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 60.63,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 135.41,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.04,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Clarification of Communication Protocol",
+        "explanation": "Consultants demonstrated strong objection handling by providing clear guidance and reassurance about procedural communication, enhancing student confidence."
+      },
+      {
+        "headline": "Proactive Engagement on Curriculum Questions",
+        "explanation": "Consultants adeptly address students' curriculum alignment inquiries, reinforcing trust in the institution's educational offerings."
+      },
+      {
+        "headline": "Support for Academic Readiness",
+        "explanation": "Consultants demonstrate understanding of students' academic readiness concerns, offering targeted support that encourages enrollment."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Deepening Engagement on Past Challenges",
+        "explanation": "A need exists for consultants to delve deeper into students' past academic experiences to better understand their concerns and reassure them about succeeding in their studies."
+      },
+      {
+        "headline": "Follow-Up for Clarity Confirmation",
+        "explanation": "Following up on students' understanding of responses can mitigate doubts about course alignments and institutional support."
+      },
+      {
+        "headline": "Enhanced Dialogue for Scheduling Concerns",
+        "explanation": "Missed opportunities to explore student-specific scheduling needs hinder consultants' ability to fully reassure students about their flexibility."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Clarification of Communication Protocol",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846193354",
+              "segment_id": "12",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm not sure if you receive that I send it by text message.' (call_596846193354, seg_10), indicating a need for clarification on communication procedures.",
+          "consultant_response": "The consultant stated: 'Yeah so when okay a few moving parts yeah so super easy all you need to do then was send the stat test through to me via email not by text message.' (call_596846193354, seg_12), effectively clarifying procedural steps.",
+          "context_impact": "Addressing this confusion early prevents future barriers in the application process, thereby enhancing enrollment prospects.",
+          "recommended_approach": "Consultants should consistently acknowledge students' concerns before providing procedural information to enhance reassurance."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Engagement on Curriculum Questions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914939587",
+              "segment_id": "26",
+              "timestamp": "01:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I need to know whether it's the Australian curriculum or the NSW curriculum for that unit.' (call_596914939587, seg_26), highlighting a key decision-making factor.",
+          "consultant_response": "The consultant confirmed: 'It would be the Victorian curriculum...' (call_596914939587, seg_28), transforming the inquiry into a supportive exchange.",
+          "context_impact": "Clarifying curriculum alignment is essential to instilling confidence in program suitability.",
+          "recommended_approach": "Follow up to verify the student's understanding and satisfaction with the information provided."
+        },
+        {
+          "id": 3,
+          "title": "Support for Academic Readiness",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070137261",
+              "segment_id": "160",
+              "timestamp": "14:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied in a long time so that would be something I might consider.' (call_597070137261, seg_160), indicating concern about re-engaging with academia.",
+          "consultant_response": "Consultant responded: 'We do see a lot of success from the students who participate in the Academic Skills for Success unit.' (call_597070137261, seg_162), reassuring the student about the support available.",
+          "context_impact": "Offering support for academic readiness can alleviate concerns and promote enrollment.",
+          "recommended_approach": "Include specific examples of how past students successfully navigated similar concerns."
+        },
+        {
+          "id": 4,
+          "title": "Deepening Engagement on Past Challenges",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147896664",
+              "segment_id": "19",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597147896664 (segment 19), the student stated: 'I was hoping to do like drama as a...' This reflection presented a rare opportunity for the consultant to delve deeper into the student's long-term goals and assist them in exploring relevant pathways.",
+          "consultant_response": "The response, 'We don't offer that one...' (call_597147896664, seg_22), unfortunately, missed the opportunity to engage further with the student's interests.",
+          "context_impact": "This critical engagement was overlooked.",
+          "recommended_approach": "To encourage deeper engagement, consultants should adopt a probing approach when students express aspirations."
+        },
+        {
+          "id": 5,
+          "title": "Follow-Up for Clarity Confirmation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147896664",
+              "segment_id": "19",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student looked for confirmation about their understanding: 'So do I just download the transcripts, right?' (call_597147896664, seg_22), showcasing the need for reassurance about document requirements.",
+          "consultant_response": "The consultant affirmed: 'Yes, that's correct; you can download them directly from the site.' (call_597147896664, seg_23), but further inquiry into the student's comfort would be beneficial.",
+          "context_impact": "Ensuring clarity in communications mitigates confusion, which is crucial in the enrollment process.",
+          "recommended_approach": "Consultants should actively foster communication by inviting students to explain what they've understood after providing key information."
+        },
+        {
+          "id": 6,
+          "title": "Proactive Inquiry for Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761403130",
+              "segment_id": "14",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's silence after the initial statement suggested potential hidden questions.",
+          "consultant_response": "The consultant's lack of follow-up left the potential unutilized: 'What aspects of this program do you feel unsure about?'",
+          "context_impact": "Active listening and inquiry about potential concerns would ensure student engagement is maximized.",
+          "recommended_approach": "Adopting an active listening approach, combined with asking specific exploratory questions, can reveal hidden concerns and enhance trust."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Clarification of Communication Protocol",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846193354",
+              "segment_id": "12",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student expressed uncertainty, stating: 'I'm not sure if you receive that I send it by text message.' (call_596846193354, seg_10). This raised procedure-related doubts that needed immediate attention.",
+          "consultant_response": "The consultant effectively addressed the student's procedural confusion by responding with: 'Yeah so when okay a few moving parts yeah so super easy all you need to do then was send the stat test through to me via email not by text message.' (call_596846193354, seg_12). This clarification was essential, providing immediate resolution to the student\u2019s concerns.",
+          "priority": "high",
+          "recommended_approach": "Whenever students express uncertainty about communication protocols, begin by acknowledging their concerns with empathy. For instance, say: 'I understand that communication is crucial in this process; let me clarify how we can ensure everything runs smoothly.' Then promptly provide clear directions tailored to the situation, reinforcing their understanding and confidence in the application process. Incorporating follow-ups such as 'Can I help clarify anything else about the documentation process?' illustrates a commitment to support, further establishing trust."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Engagement on Curriculum Questions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914939587",
+              "segment_id": "26",
+              "timestamp": "01:36"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596914939587 (segment 26), the student inquired: 'I need to know whether it's the Australian curriculum or the NSW curriculum for that unit.' This specific question reflected the student\u2019s urgent need for clarity in guidance about which curriculum framework their course would follow, directly influencing their enrollment decision.",
+          "consultant_response": "The consultant effectively replied: 'It would be the Victorian curriculum...you would still apply through VIT registration.' (call_596914939587, seg_28). This response not only eased concerns but also effectively directed the student towards necessary registration steps, reinforcing the connection between the curriculum and their professional obligations.",
+          "priority": "high",
+          "recommended_approach": "In such scenarios, consultants should ensure to confirm the student's understanding after providing clarity while suggesting further resources to explore. For instance, following a detailed response, they might add: 'Does that clarify your question on the curriculum alignment? Feel free to ask about any related topics.' This approach not only enhances student confidence but reflects the institution's supportive ethos."
+        },
+        {
+          "id": 3,
+          "title": "Support for Academic Readiness",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070137261",
+              "segment_id": "160",
+              "timestamp": "14:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597070137261 (segment 160), the student conveyed their concern by stating: 'I haven't studied in a long time so that would be something I might consider.' This communicated hesitation is crucial for understanding their academic readiness and potential barriers to continuing education.",
+          "consultant_response": "The consultant responded with reassurance: 'We do see a lot of success from the students who participate in the Academic Skills for Success unit.' (call_597070137261, seg_162), illustrating knowledge of available resources and success stories that encourage the student's re-engagement in learning.",
+          "priority": "high",
+          "recommended_approach": "Addressing academic readiness involves highlighting both institutional support and success narratives from peers who share similar backgrounds. Consultants should frame conversations around the positive outcomes from previous participants, thus embedding a sense of encouragement that eases the student's worries about re-entering an academic environment."
+        },
+        {
+          "id": 4,
+          "title": "Deepening Engagement on Past Challenges",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147896664",
+              "segment_id": "19",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597147896664 (segment 19), the student stated: 'I was hoping to do like drama as a...' This reflection presented a rare opportunity for the consultant to delve deeper into the student's long-term goals and assist them in exploring relevant pathways. However, this critical engagement was overlooked.",
+          "consultant_response": "The response, 'We don't offer that one...' (call_597147896664, seg_22), unfortunately, missed the opportunity to engage further with the student's interests.",
+          "priority": "high",
+          "recommended_approach": "To encourage deeper engagement, consultants should adopt a probing approach when students express aspirations. A more effective response might start with acknowledging the student's ambitions: 'That's an exciting goal! Could you share more about what subjects or levels you're most passionate about teaching?' This invites the student to expand on their interests while allowing the consultant to offer tailored insights into fulfilling academic paths available through the institution."
+        },
+        {
+          "id": 5,
+          "title": "Follow-Up for Clarity Confirmation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147896664",
+              "segment_id": "19",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student looked for confirmation about their understanding: 'So do I just download the transcripts, right?' (call_597147896664, seg_22), showcasing the need for reassurance about document requirements.",
+          "consultant_response": "The consultant affirmed: 'Yes, that's correct; you can download them directly from the site.' (call_597147896664, seg_23), but further inquiry into the student's comfort would be beneficial.",
+          "priority": "high",
+          "recommended_approach": "Consultants should actively foster communication by inviting students to explain what they've understood after providing key information. An effective way to achieve this could be by asking, 'What steps do you plan to take next? Does that make sense?' This enhances engagement and reinforces a supportive dialogue that leaves the student feeling assured."
+        },
+        {
+          "id": 6,
+          "title": "Proactive Inquiry for Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761403130",
+              "segment_id": "14",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's silence after the initial statement suggested potential hidden questions.",
+          "consultant_response": "The consultant's lack of follow-up left the potential unutilized: 'What aspects of this program do you feel unsure about?'",
+          "priority": "high",
+          "recommended_approach": "Adopting an active listening approach, combined with asking specific exploratory questions, can reveal hidden concerns and enhance trust."
+        }
+      ]
+    }
+  }
+}

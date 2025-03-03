@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 177,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 53,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.943502824858758,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 124,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.05649717514125,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.15618887276222,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 124,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 98.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.01,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 137.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.21,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Encouragement of Engagement",
+        "explanation": "Consultants successfully transform student apprehension into active engagement opportunities, resulting in deeper discussions."
+      },
+      {
+        "headline": "Clarity in Course Differentiation",
+        "explanation": "Strong application of objection handling ensures that students receive clear insights into program differences, facilitating informed decision-making."
+      },
+      {
+        "headline": "Proactive Communication of Support Resources",
+        "explanation": "Consultants provide relevant support and information, addressing student uncertainties and fostering trust in the institution."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Opportunities in Career Alignment",
+        "explanation": "Consultants fail to sufficiently explore students' career aspirations, limiting potential for greater connection and relevance of course offerings."
+      },
+      {
+        "headline": "Lack of Personalized Responses to Concerns",
+        "explanation": "Generic responses weaken the engagement experience; consultants need to address specific student objections in more detail."
+      },
+      {
+        "headline": "Deepening Inquiry into Student Urgency",
+        "explanation": "Opportunities exist for consultants to delve more into student motivations and feelings about their academic concerns, enhancing emotional connection."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Engagement Through Encouragement",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845673469",
+              "segment_id": "220",
+              "timestamp": "19:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just new to all of this. It's 40 years since I did my degree in England, so it's all a bit new.' (call_596845673469, seg_220) highlighting significant apprehension.",
+          "consultant_response": "The consultant responded: 'No, that's fair. Ask the questions.' (call_596845673469, seg_223), helping put the student at ease.",
+          "context_impact": "This moment presented an opportunity for reassurance and guidance.",
+          "recommended_approach": "Encourage asking questions while providing specific reassurances about support tailored for returning students."
+        },
+        {
+          "id": 2,
+          "title": "Clarity in Course Differentiation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069930799",
+              "segment_id": "10",
+              "timestamp": "01:33"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm trying to decipher between all the different kinds of analytics...' (call_597069930799, seg_10), indicating confusion about course options.",
+          "consultant_response": "The consultant clarified: 'It depends on what kind of you're looking to get out of the courses...' (call_597069930799, seg_13), effectively addressing the student's concerns.",
+          "context_impact": "Addressing this confusion was critical to informed decision-making.",
+          "recommended_approach": "Provide structured comparisons rather than vague descriptions to enhance clarity."
+        },
+        {
+          "id": 3,
+          "title": "Missed Opportunity in Career Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908009685",
+              "segment_id": "12",
+              "timestamp": "03:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I've been working in the RP space for about 10 years now...' (call_596908009685, seg_12) emphasizing their career relevance.",
+          "consultant_response": "The consultant inquired: 'Have you previously done any university education?' (call_596908009685, seg_15), missing engagement with the student's aspirations.",
+          "context_impact": "This revealed a motivation to ensure career relevance amidst education.",
+          "recommended_approach": "Ask about their career goals and illustrate how the program connects with those ambitions."
+        },
+        {
+          "id": 4,
+          "title": "Lack of Personalized Responses to Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761123949",
+              "segment_id": "10",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked about course offerings: 'So you don't offer it,' (call_596761123949, seg_10), indicating a gap in understanding program availability.",
+          "consultant_response": "Consultant responded: 'I'm sorry, we don't offer any Cert IVs with Monash Online' (call_596761123949, seg_8), failing to redirect effectively.",
+          "context_impact": "This concern illuminated a gap in understanding program availability.",
+          "recommended_approach": "Provide a detailed response on available courses while addressing the student's specific needs."
+        },
+        {
+          "id": 5,
+          "title": "Deepening Inquiry into Urgency",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069590632",
+              "segment_id": "55",
+              "timestamp": "05:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just really wanting to like start... could I start the non-advanced one...' (call_597069590632, seg_55) expressing urgency.",
+          "consultant_response": "The consultant addressed procedural concerns but did not explore the emotional weight of the student's timeline.",
+          "context_impact": "Missing the chance to explore deeper motivations could lead to the student's hesitance toward enrollment.",
+          "recommended_approach": "Encourage consultants to ask probing questions to uncover the significance of urgent enrollment for students."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Engagement Through Encouragement",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845673469",
+              "segment_id": "220",
+              "timestamp": "19:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596845673469 (segment 220), the student stated: 'I'm just new to all of this. It's 40 years since I did my degree in England, so it's all a bit new.' This expression of confusion represents a significant opportunity for the consultant to provide reassurance and support.",
+          "consultant_response": "The consultant's reply, 'No, that's fair. Ask the questions.' (call_596845673469, seg_223), acknowledged the student's feelings effectively. By inviting the student to ask their questions, the consultant demonstrated a welcoming approach that promoted further dialogue.",
+          "priority": "high",
+          "recommended_approach": "When students express feelings of being unprepared or out of touch with current educational norms, it is crucial to validate those emotions. Respond with encouragement about asking questions while emphasizing that support is available. Acknowledging their background, like saying, 'Many students are returning after significant gaps, and your curiosity is a great first step', can instill confidence and showcase available resources to facilitate their transition."
+        },
+        {
+          "id": 2,
+          "title": "Clarity in Course Differentiation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069930799",
+              "segment_id": "10",
+              "timestamp": "01:33"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed: 'I'm trying to decipher between all the different kinds of analytics...' (call_597069930799, seg_10) indicating confusion about course options.",
+          "consultant_response": "In response, the consultant clarified: 'It depends on what kind of you're looking to get out of the courses...' (call_597069930799, seg_13). This response effectively addressed the student's concerns and facilitated clearer understanding.",
+          "priority": "high",
+          "recommended_approach": "When students express confusion regarding course options, start by acknowledging their struggle. Provide structured comparisons that highlight precise distinctions between programs, ensuring the student understands how each fits their goals. Using clear language to convey technical and managerial perspectives can further assure understanding and bolster confidence in making informed choices."
+        },
+        {
+          "id": 3,
+          "title": "Missed Opportunity in Career Alignment",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908009685",
+              "segment_id": "12",
+              "timestamp": "03:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 12 of call 596908009685, the student stated: 'I've been working in the RP space for about 10 years now, and I was just looking to make a change and try and stay more relevant.' This highlighted the student's motivations and aspirations.",
+          "consultant_response": "However, the consultant quickly shifted to: 'Yeah, cool. Look, we can definitely look into it for you. Have you previously done any university education?' (call_596908009685, seg_15). This did not engage with the student's career ambitions or connect the course benefits to those aspirations, potentially leaving the student feeling unaccompanied in their journey.",
+          "priority": "high",
+          "recommended_approach": "Recognizing the student's underlying motivations is critical. Begin with something akin to: 'Staying relevant is crucial in today's tech landscape. Can you elaborate on how you envision new skills enhancing your career - what excites you most about data science?' Leveraging this encouragement invites the student to delve into a deeper dialogue about aligning the course offerings with their personal goals, thereby building trust and enhancing engagement throughout the conversation."
+        },
+        {
+          "id": 4,
+          "title": "Lack of Personalized Responses to Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761123949",
+              "segment_id": "10",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In this instance, the student expressed: 'So you don't offer it,' (call_596761123949, seg_10) indicating confusion about program availability.",
+          "consultant_response": "Consultant responded: 'I'm sorry, we don't offer any Cert IVs with Monash Online' (call_596761123949, seg_8), failing to redirect effectively.",
+          "priority": "high",
+          "recommended_approach": "Recognizing opportunities for personalized dialogue enables greater engagement. Follow up after a direct question with tailored responses: 'I understand you're seeking this specific course, but may I share details on our other postgraduate options that align with your interests? Exploring these can improve your career trajectory as well.' This would redirect confused dialogue towards constructive support, helping the student see other viable pathways."
+        },
+        {
+          "id": 5,
+          "title": "Deepening Inquiry into Urgency",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597069590632",
+              "segment_id": "55",
+              "timestamp": "05:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597069590632 (segment 55), the student expressed: 'I'm just really wanting to like start... could I start the non-advanced one...' showcasing urgency in their intentions.",
+          "consultant_response": "While procedural information was shared, the consultant could have done much more to explore the emotional impetus behind the student's urgency.",
+          "priority": "high",
+          "recommended_approach": "To effectively address students\u2019 urgent desires, it is paramount for consultants to engage deeply with the emotional and practical aspects behind enrollment concerns. During these conversations, it would be beneficial to ask the student for reasons underlying their urgency, enabling them to express their feelings. Questions like 'What makes starting now crucial for you?' can create a stronger connection and allow for tailored reassurance strategies, ultimately building trust and promoting a firm commitment to enrollment."
+        }
+      ]
+    }
+  }
+}

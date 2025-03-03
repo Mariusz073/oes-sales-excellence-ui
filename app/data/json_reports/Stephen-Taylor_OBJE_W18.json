@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 256,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 72,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.125,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 184,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.875,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.61386447173493,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 184,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 124.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.05,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 119.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.77,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 214.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.23,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 162.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.86,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 108.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.2,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 92.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.65,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 163.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.28,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Proactive Documentation Clarification",
+        "explanation": "Consultants effectively resolved student confusion about documentation requirements, facilitating smoother enrollment journeys through concrete guidance, demonstrating commitment to student support."
+      },
+      {
+        "headline": "Empathetic Handling of Personal Constraints",
+        "explanation": "Strong examples of consultants addressing personal circumstances reflect understanding and provide flexible solutions that bolster student confidence and encourage their journey towards enrollment."
+      },
+      {
+        "headline": "Effective Clarity on Eligibility Process",
+        "explanation": "Consultants successfully mitigated uncertainties regarding eligibility by providing clear, actionable guidance based on specific documentation needs, reinforcing students' belief in their ability to enroll."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Gap in Addressing Student Anxiety",
+        "explanation": "Missed opportunities for consultants to engage deeply with student concerns might have fostered feelings of uncertainty or frustration, highlighting the need for more proactive emotional support."
+      },
+      {
+        "headline": "Lack of Clarity in Documentation Processes",
+        "explanation": "Some responses did not provide sufficient detail regarding documentation requirements, risking student disengagement and necessitating a comprehensive approach to communication."
+      },
+      {
+        "headline": "Missed Opportunities to Explore Student Uncertainty",
+        "explanation": "Consultants often failed to fully engage with students' expressions of uncertainty, missing chances to provide reassurance and actionable information which could enhance the student experience."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Proactive Documentation Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062260843",
+              "segment_id": "3",
+              "timestamp": "00:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I keep getting a call, I keep getting a message to say, update, I need to send your documents through.' (call_597062260843, seg_3)",
+          "consultant_response": "Consultant responded: 'Yeah, that's what the messages have been about. That's why. I'll send that to you now, okay? Sure thing.' (call_597062260843, seg_22)",
+          "context_impact": "Addressing this confusion is critical to maintaining the student's momentum toward enrollment.",
+          "recommended_approach": "Ensure responses include structured guides for the documentation process to prevent confusion."
+        },
+        {
+          "id": 2,
+          "title": "Empathetic Handling of Personal Constraints",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914828498",
+              "segment_id": "40",
+              "timestamp": "01:41"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm actually like long story but I'm in court at the moment with my ex...' (call_596914828498, seg_40)",
+          "consultant_response": "Consultant said: 'Yeah yeah absolutely you can ... and if you want to just do the minimum study load until you feel more confident...' (call_596914828498, seg_44)",
+          "context_impact": "Responding to personal circumstances effectively can boost student confidence in the institution's support.",
+          "recommended_approach": "Explore deeper connections by discussing how personal challenges might affect study and adjusting study loads accordingly."
+        },
+        {
+          "id": 3,
+          "title": "Effective Clarity on Eligibility Process",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761370069",
+              "segment_id": "24",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I guess the biggest thing for me was just wondering a bit more about the entry criteria.' (call_596761370069, seg_12)",
+          "consultant_response": "Consultant responded: 'Basically, if your undergraduate certificate is an undergraduate level unit... that should be enough for entry...' (call_596761370069, seg_24)",
+          "context_impact": "Clarifying entry criteria encourages the student to proceed with the application process by alleviating uncertainties.",
+          "recommended_approach": "Ensure all responses include specific info on how qualifications connect to entry criteria to prevent confusion."
+        },
+        {
+          "id": 4,
+          "title": "Gap in Addressing Student Anxiety",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914828498",
+              "segment_id": "17",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentioned: 'I haven't had a job for many years.' (call_596914828498, seg_17)",
+          "consultant_response": "Consultant's approach did not explore the underlying feelings, leaving the student's anxiety unaddressed.",
+          "context_impact": "Consultant's response was insufficient as it did not effectively alleviate the student's concerns.",
+          "recommended_approach": "Incorporate probing questions to delve deeper into student sentiments, actively showing concern."
+        },
+        {
+          "id": 5,
+          "title": "Lack of Clarity in Documentation Processes",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062260843",
+              "segment_id": "3",
+              "timestamp": "00:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed confusion: 'I keep getting calls and messages about my documents.' (call_597062260843, seg_3)",
+          "consultant_response": "Consultant acknowledged the confusion but did not offer detailed clarification.",
+          "context_impact": "Responses were lacking in detail, potentially leading to misunderstandings.",
+          "recommended_approach": "Adopt a more detailed approach to explaining processes, ensuring comprehensibility."
+        },
+        {
+          "id": 6,
+          "title": "Missed Opportunities to Explore Student Uncertainty",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062344598",
+              "segment_id": "12",
+              "timestamp": "01:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597062344598 (segment 12), the student stated: 'To be honest, I'm really just unsure about the whole thing.'",
+          "consultant_response": "Consultant asked: 'What specifically are you unsure about?' but did not follow up with meaningful support.",
+          "context_impact": "Failure to clarify students' uncertainties can increase their disengagement from the enrollment process.",
+          "recommended_approach": "Follow inquiries of uncertainty with immediate support measures to prevent lingering doubts."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Proactive Documentation Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062260843",
+              "segment_id": "3",
+              "timestamp": "00:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In the call, the student expressed: 'I keep getting a call, I keep getting a message to say, update, I need to send your documents through.' (call_597062260843, seg_3) This statement indicated significant confusion and frustration over the documentation process, posing a critical barrier to the student\u2019s application progress.",
+          "consultant_response": "The consultant responded effectively by clarifying the situation: 'Yeah, that's what the messages have been about. That's why. I'll send that to you now, okay? Sure thing.' This response directly addressed the student's confusion concerning the outstanding documents, diminishing the anxiety about their application status.",
+          "priority": "high",
+          "recommended_approach": "To enhance navigation through documentation concerns, it is vital to acknowledge the confusion promptly, saying something like, 'I understand receiving multiple messages can be confusing; let's clarify what\u2019s needed from you.' Following this, guide the student through the specific documentation requirements step by step, motivating them to ask any additional questions they might have."
+        },
+        {
+          "id": 2,
+          "title": "Empathetic Handling of Personal Constraints",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914828498",
+              "segment_id": "40",
+              "timestamp": "01:41"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the interaction, the student admitted: 'I'm actually like long story but I'm in court at the moment with my ex...' (call_596914828498, seg_40) This highlights a critical personal challenge that could affect her academic pursuits and necessitating reassurance around support and flexibility in studies.",
+          "consultant_response": "The consultant addressed this vulnerability with a supportive statement: 'Yeah yeah absolutely you can ... and if you want to just do the minimum study load until you feel more confident...' This effectively demonstrated empathy and offered a practical solution.",
+          "priority": "high",
+          "recommended_approach": "When handling concerns related to personal issues affecting study, begin by acknowledging the student\u2019s emotional state and express understanding of their situation. Then, explore implications these challenges may have on their studies, and provide flexible study options that accommodate their circumstances."
+        },
+        {
+          "id": 3,
+          "title": "Effective Clarity on Eligibility Process",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761370069",
+              "segment_id": "24",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596761370069 (segment 12), the student expressed concern regarding their eligibility status by stating: 'I guess the biggest thing for me was just wondering a bit more about the entry criteria.' This moment underscored the student\u2019s uncertainty about their eligibility requirements amid an initial inquiry.",
+          "consultant_response": "The consultant replied with: 'Basically, if your undergraduate certificate is an undergraduate level unit, so bachelor level... that should be enough for entry...' This response aligned well with the behavior of objection handling by providing direct, precise information regarding eligibility.",
+          "priority": "high",
+          "recommended_approach": "This scenario highlights the need for consultants to ensure clear communication when addressing student inquiries related to entry criteria. The recommended method begins with acknowledging the student\u2019s inquiry warmly, potentially phrasing it as, 'I understand your concern about entry requirements, let me clarify that for you.'"
+        },
+        {
+          "id": 4,
+          "title": "Gap in Addressing Student Anxiety",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914828498",
+              "segment_id": "17",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentioned: 'I haven't had a job for many years.' (call_596914828498, seg_17) reflecting uncertainty towards enrollment.",
+          "consultant_response": "Consultant's approach did not explore the underlying feelings, leaving the student's anxiety unaddressed.",
+          "priority": "high",
+          "recommended_approach": "Incorporate probing questions to delve deeper into student sentiments, actively showing concern."
+        },
+        {
+          "id": 5,
+          "title": "Lack of Clarity in Documentation Processes",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062260843",
+              "segment_id": "3",
+              "timestamp": "00:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed confusion: 'I keep getting calls and messages about my documents.' (call_597062260843, seg_3) indicating gaps in understanding the submission process.",
+          "consultant_response": "Consultant acknowledged the confusion but did not offer detailed clarification.",
+          "priority": "high",
+          "recommended_approach": "Consultants should enhance the clarity of their explanations by providing structured guidelines that explicitly outline what documentation is needed and the reasons behind each requirement."
+        },
+        {
+          "id": 6,
+          "title": "Missed Opportunities to Explore Student Uncertainty",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062344598",
+              "segment_id": "12",
+              "timestamp": "01:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597062344598 (segment 12), the student stated: 'To be honest, I'm really just unsure about the whole thing.' This statement revealed a critical moment where the student is seeking clarity about their enrollment.",
+          "consultant_response": "Though the consultant asked: 'What specifically are you unsure about?' they did not follow up with supportive resources or solutions.",
+          "priority": "high",
+          "recommended_approach": "When faced with expressions of uncertainty, it is imperative for consultants to listen actively and connect with the student's feelings by validating their concerns, allowing them to feel supported."
+        }
+      ]
+    }
+  }
+}

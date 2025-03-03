@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 192,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 51,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 26.5625,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 141,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 73.4375,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 60.8803810500835,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 141,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 177.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 173.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.86,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 188.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 172.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.63,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 109.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 131.58,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 139.04,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.29,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Engagement on Career Pathways",
+        "explanation": "Consultants excel at providing clear pathways for student aspirations, transforming concerns into actionable insights."
+      },
+      {
+        "headline": "Empathetic Acknowledgment of Concerns",
+        "explanation": "Engagement with students\u2019 emotional triggers, especially related to family backgrounds, builds trust and reinforces confidence in their educational journeys."
+      },
+      {
+        "headline": "Proactive Student Engagement",
+        "explanation": "Positive instances where consultants offered to follow up and provide support during enrollment transitions significantly boosted student confidence."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Opportunities for Deeper Personalization",
+        "explanation": "Consultants often miss chances to delve deeper into unique student circumstances and explore tailored educational pathways."
+      },
+      {
+        "headline": "Failure to Address Financial Concerns",
+        "explanation": "Missed opportunities to explore and engage with students on financial aid options potentially impacted their confidence in enrollment."
+      },
+      {
+        "headline": "Missed Emotional Reassurance",
+        "explanation": "Consultants sometimes failed to provide sufficient emotional reassurance in response to concerns, potentially leaving students feeling unsupported."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Engagement on Career Pathways",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062115074",
+              "segment_id": "19",
+              "timestamp": "0:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Yeah, what do I have to do because she knows that she wants to be a criminal lawyer.' (call_597062115074, seg_19) indicating strong ambition and a need for guidance.",
+          "consultant_response": "Consultant suggested: 'Yeah so what I'm going to do is I'm just going to send you over a text message...link on the steps to become a lawyer.' (call_597062115074, seg_47) effectively offering structured guidance.",
+          "context_impact": "This revealed an important need for clear information on educational pathways that aligns with their aspirations.",
+          "recommended_approach": "Further detail on practical steps beyond the link would enhance support."
+        },
+        {
+          "id": 2,
+          "title": "Empathetic Acknowledgment of Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908318461",
+              "segment_id": "60",
+              "timestamp": "02:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I know she went to university for accounting...' (call_596908318461, seg_60) highlighting emotional sensitivity around family education.",
+          "consultant_response": "Consultant replied: 'Yeah, difficult to finish off your degree then...' (call_596908318461, seg_63), effectively reassuring the student.",
+          "context_impact": "Acknowledging these feelings builds trust and enhances support for their educational journey.",
+          "recommended_approach": "Always follow up with additional support tailored to personal concerns."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Student Engagement",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062386922",
+              "segment_id": "28",
+              "timestamp": "1:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'And can you let Michael know to contact me when the July intake is available...' (call_597062386922, seg_41) indicating strong intent.",
+          "consultant_response": "Consultant noted: 'Yeah and what was it...' (call_597062386922, seg_44) but missed deeper exploration.",
+          "context_impact": "Proactively addressing this can deepen engagement and facilitate enrollment.",
+          "recommended_approach": "Create an actionable communication support plan to reinforce student engagement."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunities for Deeper Personalization",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596982557864",
+              "segment_id": "14",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I really wanted to call and ask like how I would get into it, because I'm 21 and I didn't do an ATAR in high school.' (call_596982557864, seg_14) showcasing concerns about eligibility.",
+          "consultant_response": "The consultant acknowledged these concerns, stating: 'there is kind of several ways you can get in... just need a bit more work experience.' (call_596982557864, seg_22) providing reassurance.",
+          "context_impact": "This represented a crucial point where addressing concerns could significantly impact ongoing interest in the program.",
+          "recommended_approach": "Detailed exploration of alternative entry pathways could be more personalized."
+        },
+        {
+          "id": 5,
+          "title": "Failure to Address Financial Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908273002",
+              "segment_id": "138",
+              "timestamp": "09:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student questioned: 'Is there financial aid available for this program?' (call_596908273002, seg_138) showing uncertainty regarding funding options.",
+          "consultant_response": "The response was vague: 'I would say you probably would be better off asking about that.' (call_596908273002, seg_139) lacking assurance.",
+          "context_impact": "Addressing financial aid options is essential to ensure students feel secure in their enrollment decisions.",
+          "recommended_approach": "Provide detailed descriptions of financial aid options available."
+        },
+        {
+          "id": 6,
+          "title": "Missed Emotional Reassurance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908318461",
+              "segment_id": "63",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "After discussing educational paths, the student showed concern: 'I just don't know if I\u2019m good enough to fit in here.' (call_596908318461, seg_62) raising emotional stakes.",
+          "consultant_response": "Consultant replied: 'You\u2019ll be fine.' (call_596908318461, seg_63); however, the reassurance lacked depth.",
+          "context_impact": "This concern can significantly affect students' confidence and willingness to enroll.",
+          "recommended_approach": "Follow with a discussion of where support structures exist to promote belief in the student's abilities."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Engagement on Career Pathways",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062115074",
+              "segment_id": "19",
+              "timestamp": "0:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In the call at segment 19, the student expressed significant interest with the statement: 'Yeah, what do I have to do because she knows that she wants to be a criminal lawyer.' This highlighted not only the student's awareness of their child's aspirations but also a need for guidance on educational pathways. This moment was critical as it opened the door for dialogue about necessary steps to achieve those goals, allowing the consultant to provide reassurance vital for maintaining engagement.",
+          "consultant_response": "The consultant effectively responded by stating: 'Yeah so what I'm going to do is I'm just going to send you over a text message, which will include a link on the steps to become a lawyer.' (call_597062115074, seg_47). This demonstrated alignment with objection handling patterns by offering a solution that addressed the student's need for structured information.",
+          "priority": "high",
+          "recommended_approach": "To enhance handling of similar inquiries, consultants should not only provide links but also follow up verbally with tailored guidance that resonates with specific student aspirations. This includes articulating the journey involved in the chosen career path and offering specific examples from current students who have navigated similar routes."
+        },
+        {
+          "id": 2,
+          "title": "Empathetic Acknowledgment of Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908318461",
+              "segment_id": "60",
+              "timestamp": "02:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In this interaction, Peter shared: 'I know she went to university for accounting, I just don't know if she completed it or not. She had a kid when she was 18' (call_596908318461, seg_60). This statement painted a picture not only of uncertainty but also emotional sensitivity about educational backgrounds within his family. Addressing this concern is essential as it fosters trust, positively impacting Peter's perception of his own educational journey and the support provided by the institution.",
+          "consultant_response": "The consultant replied: 'Yeah, difficult to finish off your degree then, definitely. But I know you're all good, you're all good' (call_596908318461, seg_63). This response demonstrated effective objection handling as the consultant acknowledged Peter's concern empathically, transforming a sensitive conversation into a supportive dialogue which reassured Peter about his capabilities and the institution's supportive approach.",
+          "priority": "high",
+          "recommended_approach": "Consultants should aim to embrace the emotional dimensions of student concerns by actively listening and responding with empathy. For example, providing reassurance that the student's path is valued regardless of family history sets a positive tone. Following an empathetic acknowledgment, consultants should ask, 'How do you feel about balancing your goals with your family's educational legacy?' This paves the way for deeper exploration of student aspirations and cultivates an ongoing supportive relationship."
+        },
+        {
+          "id": 3,
+          "title": "Proactive Student Engagement",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062386922",
+              "segment_id": "28",
+              "timestamp": "1:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student indicated strong intent by saying, 'And can you let Michael know to contact me when the July intake is available...' (call_597062386922, seg_41). This strong interest in ensuring a proactive approach to enrollment highlighted the student's eagerness but also a potential need for tailored communication regarding their intent and readiness to enroll.",
+          "consultant_response": "Unfortunately, the consultant's response was brief with: 'Yeah and what was it that your transcripts were?' (call_597062386922, seg_44). This lack of depth not only missed the opportunity to engage with the student's expressed urgency but also failed to explore further motivations that could positively influence their enrollment sentiment.",
+          "priority": "high",
+          "recommended_approach": "When students exhibit eagerness for specific follow-up actions, such as notifications regarding intake openings, it's crucial to seize that moment to outline next steps collaboratively. A constructive response could start with, 'I appreciate your proactive approach regarding the July intake. Let\u2019s ensure we keep you informed. Would you like me to set a reminder or ensure you\u2019re on our notification list?' This helps reinforce the student's commitment while fostering a collaborative relationship between students and the institutional framework."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunities for Deeper Personalization",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596982557864",
+              "segment_id": "14",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student expressed concern about eligibility with the statement: 'I really wanted to call and ask like how I would get into it, because I'm 21 and I didn't do an ATAR in high school.' (call_596982557864, seg_14). This concern significantly impacts their willingness to pursue their educational goals.",
+          "consultant_response": "The consultant addressed this effectively by stating, 'So there are several ways you can get in... you may just need to get a little bit more work experience.' (call_596982557864, seg_22). This response acknowledges the student's unique situation and reassures them, maintaining their engagement.",
+          "priority": "high",
+          "recommended_approach": "Consultants should proactively offer tailored entry pathways and explore the student's qualifications and experiences in detail. Engaging in a conversation about the student's work history or related experiences can uncover valuable insights connecting their background to prospective academic journeys."
+        },
+        {
+          "id": 5,
+          "title": "Failure to Address Financial Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908273002",
+              "segment_id": "138",
+              "timestamp": "09:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student questioned: 'Is there financial aid available for this program?' (call_596908273002, seg_138) showing uncertainty regarding funding options.",
+          "consultant_response": "The response was vague: 'I would say you probably would be better off asking about that.' (call_596908273002, seg_139) lacking assurance.",
+          "priority": "medium",
+          "recommended_approach": "Engaging in a detailed explanation of financial options available is crucial. Consultants should not only confirm the availability of financial aid but also provide examples of how to apply and what to expect, reinforcing the idea that there are clear pathways to afford their education."
+        },
+        {
+          "id": 6,
+          "title": "Missed Emotional Reassurance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908318461",
+              "segment_id": "63",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "After discussing educational paths, the student showed concern: 'I just don't know if I\u2019m good enough to fit in here.' (call_596908318461, seg_62) raising emotional stakes.",
+          "consultant_response": "Consultant replied: 'You\u2019ll be fine.' (call_596908318461, seg_63); however, the reassurance lacked depth.",
+          "priority": "medium",
+          "recommended_approach": "To enhance emotional support, it's essential for consultants to follow up with a discussion of available support structures, promoting a sense of belonging and belief in their capabilities."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 268,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 82,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 30.597014925373134,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 186,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 69.40298507462687,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 50.9145070523255,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 186,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 114.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.9,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.88,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 138.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.77,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 132.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.67,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 129.12,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 122.36,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 91.15,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Engagement on Application Process",
+        "explanation": "Consultants demonstrate clarity and actionable steps that instill confidence in students about their enrollment journey."
+      },
+      {
+        "headline": "Reassuring Technical Support Responses",
+        "explanation": "Students report increased confidence after consultants effectively manage technical issues and reassure them about document verification."
+      },
+      {
+        "headline": "Effective Handling of Timeline Concerns",
+        "explanation": "Consultants successfully address student timeline constraints by providing tailored information, reinforcing the institution's flexibility."
+      },
+      {
+        "headline": "Empathetic Support for Personal Circumstances",
+        "explanation": "Consultants actively listen and tailor responses, making students feel valued when discussing personal challenges that impact their education."
+      },
+      {
+        "headline": "Robust Financial Guidance",
+        "explanation": "Consultants effectively clarify financial obligations and explore available support options, enhancing students' decision-making confidence."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Emotional Reassurance Opportunities",
+        "explanation": "Lack of empathetic engagement during critical student narratives hinders relationship building and could discourage potential enrollments."
+      },
+      {
+        "headline": "Inadequate Financial Discussions",
+        "explanation": "Omitting comprehensive support regarding financial concerns prevents prospects from feeling secure in their decision-making process."
+      },
+      {
+        "headline": "Need for Deeper Exploration of Concerns",
+        "explanation": "Opportunities were missed to explore underlying concerns more thoroughly, leading to potential disengagement from students who felt their worries were not fully acknowledged."
+      },
+      {
+        "headline": "Failure to Confirm Understanding",
+        "explanation": "Neglecting to confirm student understanding of processes and requirements can lead to confusion and disengagement in the enrollment journey."
+      },
+      {
+        "headline": "Clarification on Institutional Identity",
+        "explanation": "Unclear distinctions between institutions can create confusion, impacting students' confidence in their enrollment decisions."
+      },
+      {
+        "headline": "Emotional Depth in Responses",
+        "explanation": "Need for more emotionally resonant responses to sensitive disclosures, enhancing student reassurance regarding their unique challenges."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Engagement on Application Process",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061628679",
+              "segment_id": "85",
+              "timestamp": "06:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'As soon as I finish that, I'll just send it over and I can apply.' (call_597061628679, seg_85) indicating readiness to apply.",
+          "consultant_response": "Consultant replied: 'Don't go onto our website, just reply to the email that I've sent you.' (call_597061628679, seg_86) effectively guiding the student.",
+          "context_impact": "This readiness necessitated reassurance about the application process to avoid any frustration.",
+          "recommended_approach": "Ensure clarity on the next steps when a student indicates readiness to apply."
+        },
+        {
+          "id": 2,
+          "title": "Reassuring Technical Support Responses",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147753835",
+              "segment_id": "43",
+              "timestamp": "02:58"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I couldn't log into my old student account to apply.' (call_597147753835, seg_43) noted significant frustration.",
+          "consultant_response": "Consultant reassured: 'Don't stress; I've got a copy of your diploma documents.' (call_597147753835, seg_45) addressing technical concern.",
+          "context_impact": "Effective response is crucial in maintaining student confidence in their application process.",
+          "recommended_approach": "Follow up with specific actions the student can take to resolve their technical issue."
+        },
+        {
+          "id": 3,
+          "title": "Empathetic Responses to Personal Circumstances",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983459204",
+              "segment_id": "54",
+              "timestamp": "08:43"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've had like changes in personal reasons that make coming on campus hard for me so I was just wondering about online options.' (call_596983459204, seg_54)",
+          "consultant_response": "Consultant confirmed the availability of online study options (call_596983459204, seg_57).",
+          "context_impact": "Addressing these concerns proactively can retain interest and encourage enrollment.",
+          "recommended_approach": "Engage further to discover specific needs that may hinder the student's attendance."
+        },
+        {
+          "id": 4,
+          "title": "Financial Aid Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148012446",
+              "segment_id": "147",
+              "timestamp": "09:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm not 100% sure what exactly the Vic Government needs...' (call_597148012446, seg_147), revealing significant uncertainty.",
+          "consultant_response": "Consultant acknowledged the uncertainty but did not provide actionable guidance to alleviate concerns (call_597148012446, seg_147).",
+          "context_impact": "Addressing this financial concern is critical as it impacts the student's confidence in their ability to enroll.",
+          "recommended_approach": "Provide detailed guidance on financial aid options to mitigate student worries."
+        },
+        {
+          "id": 5,
+          "title": "Missed Emotional Reassurance Opportunities",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148184085",
+              "segment_id": "52",
+              "timestamp": "03:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student revealed: 'I started a social work degree in 2012, then I fell pregnant...' (call_597148184085, seg_52) illustrating significant life changes.",
+          "consultant_response": "Consultant replied: 'Okay all right look have a read through the email...' (call_597148184085, seg_55) failing to engage deeply.",
+          "context_impact": "A lack of empathetic engagement can leave students feeling unsupported and lead to disengagement.",
+          "recommended_approach": "Engage deeper with student narratives to foster trust and provide reassurance about their educational paths."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Financial Discussions",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761178292",
+              "segment_id": "30",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I can't remember how much the total of the cost was for the whole course.' (call_596761178292, seg_29) indicating financial anxiety.",
+          "consultant_response": "Consultant provided the cost but failed to address financial support options. (call_596761178292, seg_30)",
+          "context_impact": "Addressing financial concerns promptly can alleviate anxiety and facilitate smoother enrollment.",
+          "recommended_approach": "Engage in discussions about available financing options like FEE-HELP."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Engagement on Application Process",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061628679",
+              "segment_id": "85",
+              "timestamp": "06:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call segment 85, the student expressed eagerness by stating, 'As soon as I finish that, I'll just send it over and I can apply.' This remark revealed the student's readiness to proceed, highlighting an opportunity for effective objection handling around the application process.",
+          "consultant_response": "The consultant provided actionable guidance, responding: 'Don't go onto our website, just reply to the email that I've sent you.' This clarity effectively addressed the student's readiness to apply and ensured they understood the next steps.",
+          "priority": "high",
+          "recommended_approach": "Consultants should always follow expressions of readiness with structured steps that guide the student through the application process. For instance, reinforcing with a response like, 'Once you finish that, simply reply to my email, and we\u2019ll secure your place,' assures the student of their progress while alleviating potential overwhelm. A verification question such as 'Does that help clarify things for you?' notably enhances the supportive atmosphere."
+        },
+        {
+          "id": 2,
+          "title": "Reassuring Technical Support Responses",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147753835",
+              "segment_id": "43",
+              "timestamp": "02:58"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597147753835 (segment 43), the student expressed concern over technical issues by stating, 'I couldn't log into my old student account to apply.' This highlighted significant technical issues that could stifle their enrollment progress, necessitating immediate attention.",
+          "consultant_response": "The consultant effectively responded: 'Don't stress; I've got a copy of your diploma documents,' confirming essential document transitions. This exemplified strong objection handling by addressing the documented concerns directly.",
+          "priority": "high",
+          "recommended_approach": "When faced with technical concerns, acknowledging the student\u2019s feelings and validating their frustrations transforms challenges into connective moments. This approach not only resolves technical barriers but also strengthens the student-consultant relationship."
+        },
+        {
+          "id": 3,
+          "title": "Empathetic Support for Personal Circumstances",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983459204",
+              "segment_id": "54",
+              "timestamp": "08:43"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596983459204 (segment 54), the student mentioned, 'I've had like changes in personal reasons that make coming on campus hard for me so I was just wondering about online options.' This statement clearly indicates their need for alternative study solutions due to personal circumstances.",
+          "consultant_response": "The consultant positively confirmed that online study could be a pathway post-diploma completion (call_596983459204, seg_57).",
+          "priority": "high",
+          "recommended_approach": "An effective approach begins with acknowledging the challenges that come from personal commitments empathetically and exploring student-specific needs for online learning options."
+        },
+        {
+          "id": 4,
+          "title": "Financial Aid Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148012446",
+              "segment_id": "147",
+              "timestamp": "09:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597148012446 (segment 147), the student expressed: 'I'm not 100% sure what exactly the Vic Government needs...' revealing significant uncertainty regarding financial aid processes, which can be a deciding factor for enrollment.",
+          "consultant_response": "The consultant acknowledged the student\u2019s concern but did not provide specific actionable steps or guidance, expressing: 'I'm not 100% sure what exactly the Vic Government needs.' This response, while recognizing the uncertainty, did not offer the reassurance or support needed to help the student navigate this important aspect of their enrollment process.",
+          "priority": "high",
+          "recommended_approach": "In situations where students express uncertainty about financial support, consultants should proactively provide clarification and resources. For example, a good response might start with, 'That's a valid concern! Let\u2019s clarify what the Vic Government typically requires for scholarships. I'll also ensure you have their contact information for additional questions.' This approach not only clarifies the inquiry but also reaffirms the consultant's willingness to support the student throughout their enrollment journey."
+        },
+        {
+          "id": 5,
+          "title": "Missed Emotional Reassurance Opportunities",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148184085",
+              "segment_id": "52",
+              "timestamp": "03:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In this conversation, the student shared: 'I started a social work degree in 2012, then I fell pregnant...' illustrating significant life changes that impacted their educational journey. This context required a more engaged and empathetic response.",
+          "consultant_response": "The consultant replied: 'Okay all right look have a read through the email...' This response lacked engagement with the student\u2019s narrative and missed an opportunity to build rapport.",
+          "priority": "high",
+          "recommended_approach": "When personal challenges are shared, utilize this narrative as a foundation for building empathy. A response like, 'I hear how difficult that must have been; let\u2019s explore how we can support your return to studies,' would reinforce trust and show the student's concerns are valid."
+        },
+        {
+          "id": 6,
+          "title": "Inadequate Financial Discussions",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761178292",
+              "segment_id": "30",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In segment 30, the student asked: 'I can't remember how much the total of the cost was for the whole course.' This raised a significant trigger regarding the financial implications of enrollment.",
+          "consultant_response": "Consultant provided the cost but failed to address financial support options. This lack of elaboration can leave students uncertain.",
+          "priority": "high",
+          "recommended_approach": "Addressing financial concerns during enrollment discussions is crucial for reducing stress and building confidence. Responses should not only clarify costs but also explore available options like FEE-HELP or scholarships to provide a comprehensive financial overview."
+        }
+      ]
+    }
+  }
+}

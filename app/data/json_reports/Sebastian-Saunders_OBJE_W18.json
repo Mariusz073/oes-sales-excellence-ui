@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "consultant_name": "Sebastian Saunders",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 232,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 85,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 36.637931034482754,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 147,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 63.36206896551724,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.63257352606181,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 147,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 124.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.68,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 131.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 166.1,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.95,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 139.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.31,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 215.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.92,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 138.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.05,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 137.35,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.47,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Qualification Reassurance",
+        "explanation": "Consultants successfully validate concerns regarding eligibility by providing clear alternative pathways using work experience."
+      },
+      {
+        "headline": "Proactive Resolution of Concerns",
+        "explanation": "Effective handling of student concerns leads to increased trust, as consultants provide timely and relevant information to reassure students."
+      },
+      {
+        "headline": "Effective Financial Clarification",
+        "explanation": "Consultants successfully address student financial concerns, ensuring clarity around costs associated with enrollment while reinforcing the program's value."
+      },
+      {
+        "headline": "Reassurance Around Enrollment Flexibility",
+        "explanation": "Strong demonstrations of how enrollment flexibility were highlighted effectively, reducing student anxiety and fostering commitment."
+      },
+      {
+        "headline": "Effective Addressing of Qualification Concerns",
+        "explanation": "Consultants provided clear guidance on the recognition of international qualifications, directly addressing student anxieties and enhancing trust."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Opportunities for Personalization",
+        "explanation": "Consultants often fail to explore deeper into students' individual backgrounds, resulting in missed chances to provide tailored guidance."
+      },
+      {
+        "headline": "Deepening Engagement with Past Experiences",
+        "explanation": "Consultants need to explore and address students' previous academic challenges more fully to build trust and improve student confidence."
+      },
+      {
+        "headline": "Engaging with Emotional Concerns",
+        "explanation": "Greater emphasis is needed on acknowledging and addressing students' emotional triggers, enhancing the connection and trust in communication."
+      },
+      {
+        "headline": "Closing Down Pathways",
+        "explanation": "Responses that fail to acknowledge or explore alternative options can lead to student disengagement and uncertainty."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Qualification Reassurance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "65",
+              "timestamp": "08:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah, and so, I guess the first point is, I'm assuming because the ATAR no longer applies... so it's just work experience.' (call_123456789012, seg_65) highlighting a concern regarding eligibility based on past qualifications.",
+          "consultant_response": "The consultant noted: 'Yeah, so if your ATAR is from more than seven years ago, we can't use that anymore. So if that was the case, yeah, we can use something else. Like if you've done any other studies or if you've got four years of work experience, then we can use that.' (call_123456789012, seg_67) ensuring clarity on eligibility pathways.",
+          "context_impact": "This recognition of qualifications is essential for reducing uncertainty and bolstering confidence in the enrollment process.",
+          "recommended_approach": "Engage further by exploring the specifics of the student\u2019s work experience to provide tailored reassurance."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Resolution of Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070229666",
+              "segment_id": "85",
+              "timestamp": "04:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried, 'And how do I send my documents to see if I'm eligible?' (call_597070229666, seg_84) highlighting a readiness to proceed with applications.",
+          "consultant_response": "Consultant stated: 'Email me through a copy of your transcript' (call_597070229666, seg_85) streamlining submission processes.",
+          "context_impact": "Providing clear instructions enhances comfort for students in navigating the application process.",
+          "recommended_approach": "Incorporate checks for understanding and confirm students feel clear on the next steps following procedural descriptions."
+        },
+        {
+          "id": 3,
+          "title": "Effective Financial Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596786543216",
+              "segment_id": "66",
+              "timestamp": "13:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I don't need to buy books or anything like that, do I? Like when I enroll I'll have access to everything online, is that right?' (call_596786543216, seg_66) showcasing financial concerns.",
+          "consultant_response": "Consultant reassured: 'Yes, that is correct; all the reading material and textbooks are online, so you don't need to pay extra' (call_596786543216, seg_70) directly addressing the student's concerns.",
+          "context_impact": "Clarifying costs helped build trust and confidence in the student regarding financial planning for their studies.",
+          "recommended_approach": "Consultants should expand on these financial clarifications to include comparisons that highlight program value."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunity for Personalization",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158568364",
+              "segment_id": "39",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentioned: 'I'm a small business owner, so project managing is something that I do as part of my job...' (call_597158568364, seg_39) indicating uncertainty around completing qualification documentation.",
+          "consultant_response": "The consultant stated: 'All we need is a copy of your resume to assess that.' (call_597158568364, seg_41) but this fails to delve deeper into their experience.",
+          "context_impact": "Lack of personalized guidance may leave students feeling unsupported in navigating qualification pathways.",
+          "recommended_approach": "Encourage discussion on specific experiences to enhance their confidence and application readiness."
+        },
+        {
+          "id": 5,
+          "title": "Deepening Engagement with Past Experiences",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062498396",
+              "segment_id": "14",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student revealed: 'I had no idea about anything, and then I just ended up dropping' (call_597062498396, seg_14) indicating past academic struggles.",
+          "consultant_response": "Consultant focused on current support systems without deeply exploring the student's apprehensions (call_597062498396, seg_17). This was seen as inadequate.",
+          "context_impact": "Addressing previous experiences is vital to help current students feel supported and understood.",
+          "recommended_approach": "Consultants should actively ask about past experiences to clarify ongoing support needs."
+        },
+        {
+          "id": 6,
+          "title": "Engaging with Emotional Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147994456",
+              "segment_id": "9",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student said: 'I still have to get through things' (call_597147994456, seg_9) indicating workload stress.",
+          "consultant_response": "Consultant replied: 'Yeah, good thank you' (call_597147994456, seg_9) missing an opportunity to delve deeper into the student's feelings.",
+          "context_impact": "Identifying this concern is vital to maintain student engagement.",
+          "recommended_approach": "Engage in a discussion about balancing initial workload with academic commitments to provide reassurance."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Qualification Reassurance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "65",
+              "timestamp": "08:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student acknowledged: 'Yeah, and so, I guess the first point is, I'm assuming because the ATAR no longer applies... so it's just work experience.' This interaction spotlighted critical concerns regarding eligibility based on past qualifications.",
+          "consultant_response": "The consultant effectively replied: 'Yeah, so if your ATAR is from more than seven years ago, we can't use that anymore. So if that was the case, yeah, we can use something else. Like if you've done any other studies or if you've got four years of work experience, then we can use that.' This comprehensive response affirms the student's qualifications through alternative pathways, reducing anxiety around eligibility.",
+          "priority": "high",
+          "recommended_approach": "When dealing with inquiries regarding qualifications, acknowledging and validating prior studies is paramount. Open a conversation by asking about their past academic experiences while also sensitively highlighting how their life experiences are integral to their educational journey. This not only reassures students about their eligibility but encourages a nuanced exploration of how their past prepares them for current opportunities, fostering a positive dialogue that encourages commitment to their educational aspirations."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Resolution of Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070229666",
+              "segment_id": "85",
+              "timestamp": "04:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "When the student asked, 'And how do I send my documents to see if I'm eligible?' they indicated readiness to advance in the application process, showcasing a pivotal point for procedural clarity.",
+          "consultant_response": "The consultant promptly replied: 'Email me through a copy of your transcript.' This clear guidance aided the student in navigating the eligibility determination process smoothly.",
+          "priority": "high",
+          "recommended_approach": "To improve the handling of application processes, consultants should proactively follow up by stating: 'I'll email you detailed steps on how to submit your documents, ensuring we stay connected throughout this stage.' Following up on procedural descriptions with checks for understanding is essential in ensuring students feel confident taking the next steps."
+        },
+        {
+          "id": 3,
+          "title": "Effective Financial Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596786543216",
+              "segment_id": "66",
+              "timestamp": "13:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In this call, the student expressed financial concerns stating: 'I don't need to buy books or anything like that, do I? Like when I enroll I'll have access to everything online, is that right?' This revealed critical apprehensions about costs that could deter enrollment.",
+          "consultant_response": "In response, the consultant confirmed: 'Yes, that is correct; all the reading material and textbooks are online so you don't need to pay extra to access those.' This directly alleviated the student's concerns regarding potential hidden costs.",
+          "priority": "high",
+          "recommended_approach": "Building on this clarification process is vital; consultants should frame the absence of extra costs within a broader narrative of financial value. Addressing empathically their financial situation and proactively inquiring whether there are any financial questions can enhance students' confidence in moving forward with enrollment."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunity for Personalization",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158568364",
+              "segment_id": "39",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student noted: 'I'm a small business owner, so project managing is something that I do as part of my job...' expressing uncertainty regarding how to navigate qualification documentation.",
+          "consultant_response": "The consultant simply stated: 'All we need is a copy of your resume to assess that.' This response inadequately addressed the student's particular situation.",
+          "priority": "high",
+          "recommended_approach": "Consultants should promote deeper discussions rooted in the specifics of the student\u2019s experiences, allowing them to articulate their skills relevant to the program. This can enhance their confidence and readiness during the application phase."
+        },
+        {
+          "id": 5,
+          "title": "Deepening Engagement with Past Experiences",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062498396",
+              "segment_id": "14",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student articulated: 'I had no idea about anything, and then I just ended up dropping.' This highlights previous challenges that could influence their current willingness to enroll.",
+          "consultant_response": "The consultant concentrated solely on current support systems without addressing the student\u2019s past difficulties, which felt inadequate.",
+          "priority": "high",
+          "recommended_approach": "When students discuss previous negative experiences, it is crucial for consultants to invite dialogue: 'How can we ensure that your experience is different this time?' This fosters open communication and indicates a commitment to their future success."
+        },
+        {
+          "id": 6,
+          "title": "Engaging with Emotional Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147994456",
+              "segment_id": "9",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared feelings of being overwhelmed: 'I still have to get through things,' indicating stress with workload.",
+          "consultant_response": "The consultant merely acknowledged the statement without probing further, indicating a missed opportunity to engage meaningfully.",
+          "priority": "high",
+          "recommended_approach": "To effectively address workload concerns, consultants should convey empathy and ask: 'It sounds like you're managing quite a bit. How do you typically balance your responsibilities?' This opens doors for actionable support and understanding."
+        }
+      ]
+    }
+  }
+}

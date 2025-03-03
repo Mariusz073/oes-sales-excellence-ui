@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "consultant_name": "Robert Cecere",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 206,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 76,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 36.89320388349515,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 130,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 63.10679611650486,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.85717922906238,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 130,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 187.01,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.99,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 173.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.27,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 241.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 142.91,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 150.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 123.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 205.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 162.37,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 222.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 140.24,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 193.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.92,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 145.07,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.75,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 166.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.22,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 217.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Reassurance on Eligibility Concerns",
+        "explanation": "Consultants excelled in addressing student worries about eligibility, directly leading to increased confidence and likelihood to enroll, particularly for students voicing concerns about their suitability for the course."
+      },
+      {
+        "headline": "Proactive Documentation Support",
+        "explanation": "Demonstrated capability in guiding students through documentation concerns while maintaining enrollment momentum and ensuring clarity on application requirements and what constitutes adequate documentation."
+      },
+      {
+        "headline": "Positive Engagement with Financial Queries",
+        "explanation": "Effectively addressing financial inquiries reduced student anxiety about managing costs associated with study, thereby supporting enrollment objectives."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhancing Personalization in Responses",
+        "explanation": "There is a need to better personalize responses to students\u2019 specific inquiries, particularly relating to concerns about commitment, eligibility, and documentation, ensuring each student feels heard and valued."
+      },
+      {
+        "headline": "Clarifying Withdrawal Policies",
+        "explanation": "Consultants should provide more detailed insights into withdrawal procedures and implications to alleviate financial concerns for potential students, tailoring responses to student circumstances."
+      },
+      {
+        "headline": "Addressing Financial Anxiety Proactively",
+        "explanation": "Providing immediate reassurance regarding financial processes is essential to alleviate student anxiety and help ensure enrollment."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Reassurance on Eligibility Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915179061",
+              "segment_id": "94",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I just don't want to waste my time looking at it thinking, oh yeah, great, I'll get in and that will be fine, but yeah, it entails more than...' (call_596915179061, seg_94), expressing significant concerns about eligibility.",
+          "consultant_response": "The consultant addressed with: 'No, so yeah, it's mainly an assessment of your leadership skills...' (call_596915179061, seg_97), successfully reducing the student\u2019s apprehension about time investment.",
+          "context_impact": "Addressing eligibility concerns crucially influences the student\u2019s confidence and likelihood to pursue an application.",
+          "recommended_approach": "N/A"
+        },
+        {
+          "id": 2,
+          "title": "Proactive Documentation Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761394769",
+              "segment_id": "126",
+              "timestamp": "09:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Actually, I've got a character reference from my boss.' (call_596761394769, seg_126) which underlined a concern about documentation adequacy.",
+          "consultant_response": "The consultant responded: 'I'll email you now just with some extra info...' (call_596761394769, seg_153), effectively reassuring the student.",
+          "context_impact": "These inquiries directly impact the integrity of the application process and retention of the student\u2019s interest.",
+          "recommended_approach": "N/A"
+        },
+        {
+          "id": 3,
+          "title": "Positive Engagement with Financial Queries",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147758868",
+              "segment_id": "177",
+              "timestamp": "09:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Do I need to do something online for the loan?' (call_597147758868, seg_177), revealing a critical need for clarity on financial processes.",
+          "consultant_response": "The consultant explained: 'So all you do is... there's an interactive checklist...' (call_597147758868, seg_179), effectively addressing the student's query.",
+          "context_impact": "This clarity can significantly influence the student's enrollment decision.",
+          "recommended_approach": "N/A"
+        },
+        {
+          "id": 4,
+          "title": "Clarifying Withdrawal Policies",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070022560",
+              "segment_id": "105",
+              "timestamp": "03:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried: 'If I did withdraw before April, would I still have to pay the fee?' (call_597070022560, seg_105), signaling concern over financial implications.",
+          "consultant_response": "Responding: 'Good question, no.' (call_597070022560, seg_106) failed to fully address underlying anxieties about financial obligations.",
+          "context_impact": "Clear communication about withdrawal can significantly reduce perceived financial risks for prospective students.",
+          "recommended_approach": "Include comprehensive explanations of withdrawal processes and assure students about timelines and financial safety."
+        },
+        {
+          "id": 5,
+          "title": "Addressing Financial Anxiety Proactively",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147758868",
+              "segment_id": "177",
+              "timestamp": "09:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student raised: 'Do I need to do something online for the loan?' (call_597147758868, seg_177) stating financial concerns.",
+          "consultant_response": "The consultant mentioned: 'I\u2019ll get him to call you back.' (call_597147758868, seg_179) indicating insufficient reassurance.",
+          "context_impact": "Unresolved financial concerns can lead to anxiety and potential withdrawal from the program.",
+          "recommended_approach": "Provide immediate clarity and reassurance regarding loan processes while confirming understanding."
+        },
+        {
+          "id": 6,
+          "title": "Engaging with Scheduling Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845714378",
+              "segment_id": "13",
+              "timestamp": "01:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentioned: 'I've still got school-age children.' (call_596845714378, seg_13), indicating concerns about personal commitments.",
+          "consultant_response": "Consultant shifted discussion to credits without reassurance. (call_596845714378, seg_21) signaling a missed opportunity.",
+          "context_impact": "Not addressing family responsibilities may cause the student to deprioritize inquiries.",
+          "recommended_approach": "Engage with how the program can accommodate their personal commitments, reinforcing student accessibility."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Reassurance on Eligibility Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915179061",
+              "segment_id": "94",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the interaction, the student voiced significant concern about eligibility, stating: 'I just don't want to waste my time looking at it thinking, oh yeah, great, I'll get in and that will be fine, but yeah, it entails more than...' (call_596915179061, seg_94). This expressed anxiety was pivotal, as the student was clearly weighing the potential of wasted effort against their desire to enroll.",
+          "consultant_response": "The consultant thoughtfully responded, 'No, so yeah, it's mainly an assessment of your leadership skills...' (call_596915179061, seg_97). This acknowledgment of the student's valid concern successfully mitigated fears regarding eligibility and time investment, enhancing the student\u2019s confidence in pursuing the application process.",
+          "priority": "high",
+          "recommended_approach": "Acknowledge the student\u2019s concern with empathy, reassuring them that their professional experiences will be valued in the eligibility assessment. This could involve directly asking about their leadership experiences, fostering a collaborative tone and building trust."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Documentation Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761394769",
+              "segment_id": "126",
+              "timestamp": "09:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In a discussion regarding application needs, the student expressed, 'Actually, I've got a character reference from my boss.' (call_596761394769, seg_126), which brought to light their concern about whether this documentation would suffice for eligibility.",
+          "consultant_response": "The consultant answered promptly, assuring the student: 'I'll email you now just with some extra info...' (call_596761394769, seg_153). This response was effective as it provided a clear action plan while addressing the student\u2019s documentation readiness, reinforcing their sense of support and alleviating stress related to potential application gaps.",
+          "priority": "high",
+          "recommended_approach": "When students raise concerns regarding their documentation, it\u2019s critical to affirm that they are not alone. Engage with statements such as, 'It's common to have questions about documentation. Let's clarify what we can do to ensure your application is strong.' This cultivates a supportive environment where students feel comfortable discussing their application preparations without fear of judgment."
+        },
+        {
+          "id": 3,
+          "title": "Positive Engagement with Financial Queries",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147758868",
+              "segment_id": "177",
+              "timestamp": "09:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student asked: 'Do I need to do something online for the loan?' (call_597147758868, seg_177) This highlighted a critical need for clarity on financial processes which, if addressed, could significantly influence the student's enrollment decision.",
+          "consultant_response": "Consultant explained: 'So all you do is... there's an interactive checklist...' (call_597147758868, seg_179) This response provided the necessary clarity that the student needed, ultimately supporting their decision-making.",
+          "priority": "high",
+          "recommended_approach": "Ensure follow-up questions are posed to confirm understanding of the financial processes involved, as this would enhance student satisfaction and confidence, especially by reiterating stories of how other students successfully navigated similar challenges."
+        },
+        {
+          "id": 4,
+          "title": "Clarifying Withdrawal Policies",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070022560",
+              "segment_id": "105",
+              "timestamp": "03:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student asked: 'If I did withdraw before April, would I still have to pay the fee?' (call_597070022560, seg_105) expressing concern regarding the financial implications of withdrawing.",
+          "consultant_response": "Initially, the consultant responded with 'Good question, no.' (call_597070022560, seg_106). However, this response lacked an expansive discussion, potentially leaving the student with lingering uncertainties about withdrawal policies.",
+          "priority": "high",
+          "recommended_approach": "Consultants should elaborate on withdrawal policies and reassure students regarding the timelines involved, saying something like, 'It's great you asked about withdrawal fees. If you decide before the census date, you won\u2019t face any financial obligations. This way, you can make a more informed decision.'"
+        },
+        {
+          "id": 5,
+          "title": "Addressing Financial Anxiety Proactively",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147758868",
+              "segment_id": "177",
+              "timestamp": "09:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student raised: 'Do I need to do something online for the loan?' (call_597147758868, seg_177) Unresolved financial concerns can lead to anxiety and potential withdrawal from the program.",
+          "consultant_response": "The consultant mentioned, 'I\u2019ll get him to call you back.' (call_597147758868, seg_179), which failed to provide direct reassurance regarding the financial process.",
+          "priority": "high",
+          "recommended_approach": "Offering immediate clarity on loan processes coupled with confirming comprehension will minimize uncertainty and anxiety for students. Ensuring financial processes are thoroughly explained at every step can significantly assist in enhancing student trust."
+        },
+        {
+          "id": 6,
+          "title": "Engaging with Scheduling Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845714378",
+              "segment_id": "13",
+              "timestamp": "01:08"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentioned: 'I've still got school-age children.' (call_596845714378, seg_13) indicating broader personal complexities regarding enrollment.",
+          "consultant_response": "The consultant shifted discussion to credits without addressing the family dynamic, signaling a missed opportunity for support.",
+          "priority": "high",
+          "recommended_approach": "Engage with the student on how the institution\u2019s program can best fit their family commitments, actively seeking to understand their unique needs as this can build trust and better support enrollment."
+        }
+      ]
+    }
+  }
+}

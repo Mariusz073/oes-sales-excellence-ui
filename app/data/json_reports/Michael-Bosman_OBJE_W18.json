@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Objection Handling"
+  },
+  "total_number_of_calls": 215,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 40,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 18.6046511627907,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 175,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 81.3953488372093,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.61891134470578,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 175,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 118.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.65,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 117.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.25,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 132.35,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.1,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 155.52,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.07,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 141.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.59,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 160.04,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.65,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Handling of Eligibility Concerns",
+        "explanation": "Consultants provide clear information about entry requirements, reducing uncertainty and reinforcing student commitment."
+      },
+      {
+        "headline": "Empathetic Response to Career Transitions",
+        "explanation": "Demonstrating understanding of students facing significant career changes fosters trust and potential enrollment."
+      },
+      {
+        "headline": "Positive Engagement through Financial Pathway Clarification",
+        "explanation": "Consultants confidently clarify financial aid structures, assuring students and reinforcing enrollment decisions."
+      },
+      {
+        "headline": "Adept Resolution of Contact Confusion",
+        "explanation": "Consultants effectively resolve students' frustrations regarding miscommunication about contact details, swiftly restoring trust."
+      },
+      {
+        "headline": "Reassuring Age Inclusivity",
+        "explanation": "Handling age-related concerns with empathy fosters trust and encourages mature students to consider enrollment confidently."
+      },
+      {
+        "headline": "Proactive Exploration of Student Goals",
+        "explanation": "Engaging students in discussions about their aspirations solidifies their commitment and enhances their satisfaction."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Personalization Opportunities",
+        "explanation": "Failure to explore students' individual experiences can hinder building a tailored support approach."
+      },
+      {
+        "headline": "Need for Emotional Acknowledgment",
+        "explanation": "Better acknowledgment of student emotions and concerns can enhance trust and support."
+      },
+      {
+        "headline": "Clarifying Part-Time Workload",
+        "explanation": "Providing specific workload details about part-time options is crucial to support financial feasibility perceptions and commitment to enrollment."
+      },
+      {
+        "headline": "Fostering Online Learning Confidence",
+        "explanation": "Directly addressing anxieties surrounding online study habitats is essential for preventing potential dropout."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Handling of Eligibility Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158779300",
+              "segment_id": "16",
+              "timestamp": "01:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I have a few questions because I'll look at the requirements and one of the requirements was I have to like do like a bachelor degree in a relevant discipline.' (call_597158779300, seg_16)",
+          "consultant_response": "The consultant said: 'So we see social sciences as something that is cognate... But in the very least, you would be able to go through the graduate certificate first.' (call_597158779300, seg_21)",
+          "context_impact": "Addressing this eligibility concern can greatly influence a student's decision to proceed.",
+          "recommended_approach": "Encourage consultants to further validate the student's awareness and provide avenues for support in case of non-eligibility."
+        },
+        {
+          "id": 2,
+          "title": "Empathy in Career Transition Discussions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761138709",
+              "segment_id": "19",
+              "timestamp": "01:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student explained: 'I'm going through a workers compensation matter. I was medically retired from my previous employment as a child protection case worker...' (call_596761138709, seg_19)",
+          "consultant_response": "The consultant acknowledged: 'It sounds like, yeah, obviously you've been through a lot. Sorry to hear about that...' (call_596761138709, seg_41)",
+          "context_impact": "Demonstrating empathy can solidify the student's interest and trust in the institution.",
+          "recommended_approach": "Encourage the consultants to offer not just empathy but also practical ways the institution can assist in the student's transition."
+        },
+        {
+          "id": 3,
+          "title": "Positive Engagement through Financial Pathway Clarification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908193655",
+              "segment_id": "9",
+              "timestamp": "01:14"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I can't afford to be paying HEX fees and stuff like that at the moment.' (call_596908193655, seg_9)",
+          "consultant_response": "Consultant provided clarity: 'So hex fees obviously means you pay nothing up front...' (call_596908193655, seg_10)",
+          "context_impact": "This concern posed a significant barrier to enrollment, showcasing the need for clarity in financial planning.",
+          "recommended_approach": "Include specific financial advice and check in with the student to discuss their concerns directly."
+        },
+        {
+          "id": 4,
+          "title": "Adept Resolution of Contact Confusion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147991420",
+              "segment_id": "6",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted: 'When she's applied online, and I'm a little bit annoyed with it because it was on a date' (call_597147991420, seg_6), indicating frustration with incorrect contact information.",
+          "consultant_response": "Consultant stated: 'Yes, I've just removed that number now. So, it's absolutely not associated with her account anymore' (call_597147991420, seg_13), effectively demonstrating responsiveness.",
+          "context_impact": "Addressing this concern was pivotal to preventing potential negative perceptions of the institution and maintaining engagement.",
+          "recommended_approach": "Additionally, ask if the resolution fully alleviates the student's annoyance."
+        },
+        {
+          "id": 5,
+          "title": "Missed Personalization Opportunities",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158779300",
+              "segment_id": "16",
+              "timestamp": "01:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I have a few questions because I'll look at the requirements...' (call_597158779300, seg_16)",
+          "consultant_response": "The consultant stated: 'So we see social sciences as something that is cognate...' but could have asked more about the student's individual situation.",
+          "context_impact": "Not exploring the student's specific academic background can hinder building a tailored support approach.",
+          "recommended_approach": "Encourage consultants to delve deeper into previous qualifications to provide personalized pathways."
+        },
+        {
+          "id": 6,
+          "title": "Fostering Online Learning Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845740626",
+              "segment_id": "7",
+              "timestamp": "00:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm just having a little trouble with the online part of it essentially.'",
+          "consultant_response": "Consultant simply redirected: 'I can put you through to our student advisors who will be able to better assist you.'",
+          "context_impact": "Addressing concerns about online study capabilities can prevent potential dropout.",
+          "recommended_approach": "Directly address online concerns by acknowledging feelings and providing specific reassurance regarding support mechanisms."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Handling of Eligibility Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158779300",
+              "segment_id": "16",
+              "timestamp": "01:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At the beginning of the interaction, the student expressed direct concern about academic eligibility: 'I have a few questions because I'll look at the requirements and one of the requirements was I have to like do like a bachelor degree in a relevant discipline.' This moment is significant because it indicated the student's apprehensions regarding their qualifications for the Master's program.",
+          "consultant_response": "In response, the consultant replied: 'So we see social sciences as something that is cognate, so I would be surprised if we wouldn't be able to bring that through. But in the very least, you would be able to go through the graduate certificate first.' This effectively demonstrates the behavioral pattern of 'Objection Handling' by acknowledging the student's concern and offering a clear pathway through the graduate certificate program.",
+          "priority": "high",
+          "recommended_approach": "When a student expresses concerns over eligibility, it\u2019s essential to recognize these worries reflect an eagerness to ensure they meet program requirements. Acknowledge their concern with statements like, 'I see you're being proactive about your eligibility \u2013 that's a great mindset for success,' followed by expanding on their qualifications and asking about their academic background. This engages the student while keeping the conversation focused on solutions."
+        },
+        {
+          "id": 2,
+          "title": "Empathy in Career Transition Discussions",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761138709",
+              "segment_id": "19",
+              "timestamp": "01:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student explained: 'I'm going through a workers compensation matter. I was medically retired from my previous employment as a child protection case worker...' This statement likely helped alleviate some anxiety.",
+          "consultant_response": "The consultant acknowledged this challenge, saying: 'It sounds like, yeah, obviously you've been through a lot. Sorry to hear about that...' This effectively validates the student's challenges while pivoting the conversation towards solutions.",
+          "priority": "high",
+          "recommended_approach": "Encouraging consultants to provide not just empathy but also practical ways the institution can assist in the student's transition would reinforce their supportive role. For example, asking 'What are your main goals as you explore these options?' can offer insight into how to customize assistance."
+        },
+        {
+          "id": 3,
+          "title": "Adept Resolution of Contact Confusion",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147991420",
+              "segment_id": "6",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student noted: 'When she's applied online, and I'm a little bit annoyed with it because it was on a date' (call_597147991420, seg_6). This statement highlights the student's frustration stemming from an erroneous use of their contact information, indicating a critical need to resolve this issue to prevent negative impressions.",
+          "consultant_response": "In response, the consultant stated: 'Yes, I've just removed that number now. So, it's absolutely not associated with her account anymore. I've sent her an email, and now that's up to her to get back' (call_597147991420, seg_13). This action effectively demonstrates a strong objection handling approach by resolving the issue and reassuring the student that their concerns were taken seriously.",
+          "priority": "high",
+          "recommended_approach": "Going forward, when addressing contact mix-ups, consultants should begin by empathizing with the student's frustration and acknowledging the impact of contact errors. They should ensure to follow up by asking whether the resolution addressed the student's concerns fully. Questions like, 'How do you feel now?' can reinforce the sense of connection that underpins effective support."
+        },
+        {
+          "id": 4,
+          "title": "Fostering Online Learning Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845740626",
+              "segment_id": "7",
+              "timestamp": "00:28"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In the call, the student expressed discomfort with online study, stating: 'I'm just having a little trouble with the online part of it essentially.' This reflects common anxiety among students returning to education after a gap.",
+          "consultant_response": "After mentioning difficulties, the consultant simply suggested a redirection: 'I can put you through to our student advisors who will be able to better assist you.' This indicates a failure to acknowledge the student\u2019s immediate concern sufficiently.",
+          "priority": "high",
+          "recommended_approach": "Validate students' concerns immediately by expressing understanding and provide encouragement. An effective response could be: 'It's perfectly normal to have those feelings; many students experience similar challenges. Let's discuss what's troubling you specifically, and I can guide you on support resources.'"
+        },
+        {
+          "id": 5,
+          "title": "Need for Comprehensive Application Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061631187",
+              "segment_id": "13",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's uncertainty was highlighted when they remarked: 'I'm not actually sure if it was an application that I completed...' (call_597061631187, seg_13). Contextual understanding is crucial at this juncture.",
+          "consultant_response": "Unfortunately, the consultant failed to confirm the details of the application, which left the student's concerns unaddressed.",
+          "priority": "high",
+          "recommended_approach": "After addressing financial eligibility, it is important for consultants to ask targeted follow-up questions such as, 'Could you provide me any details you have regarding your application? This will help us ensure everything is complete.' Such inquiries alleviate confusion and demonstrate a commitment to thorough support in the student's journey."
+        }
+      ]
+    }
+  }
+}
