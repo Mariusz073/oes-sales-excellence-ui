@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 228,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 49,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 21.49122807017544,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 179,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 78.50877192982456,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.52989833806303,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 179,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 141.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.26,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 115.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.83,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 151.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.35,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 148.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.16,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 154.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.18,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 125.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.19,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Communication of Scheduling Flexibility",
+        "explanation": "Consultants showcased clarity in explaining course timing, effectively alleviating student anxieties around balancing work and studies with structured examples of flexibility."
+      },
+      {
+        "headline": "Structured Eligibility Confirmation",
+        "explanation": "Clear communication about eligibility requirements based on prior education helped streamline the enrollment process, promoting student confidence and clarity."
+      },
+      {
+        "headline": "Engagement on Financial Clarity",
+        "explanation": "Providing clear explanations of financial options, such as HECS, reassured students, contributing to a clearer pathway for enrollment and removing financial uncertainties."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Enhancing Clarity on Required Documentation",
+        "explanation": "More structured guidance regarding documentation preparation is necessary to reduce confusion and streamline the application process, employing a checklist approach."
+      },
+      {
+        "headline": "Proactive Support for Returning Students",
+        "explanation": "Consultants missed opportunities to address the specific needs and fears of students returning to study after an extended period, necessitating empathetic engagement."
+      },
+      {
+        "headline": "Depth in Financial Discussions",
+        "explanation": "Financial conversations require deeper clarity and active checks for understanding to eliminate confusion about payment processes and support available."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of Scheduling Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908386986",
+              "segment_id": "87",
+              "timestamp": "23:43"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Okay, so the 10th of March, but I don't need to attend any of the classes.' (call_596908386986, seg_87), emphasizing the need for clarity on flexible scheduling.",
+          "consultant_response": "Consultant responded: 'Yeah, correct. So you can watch them the next morning, if they ran the night before, and just take notes.' (call_596908386986, seg_92), effectively conveying accessibility of recorded lectures.",
+          "context_impact": "This moment required communication to ease the student's concerns about balancing studies with existing work commitments.",
+          "recommended_approach": "Future interactions should include structured examples of how current students manage similar schedules."
+        },
+        {
+          "id": 2,
+          "title": "Structured Eligibility Confirmation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147845647",
+              "segment_id": "2",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I just want to say that previously I completed a Diploma of Teacher Education Preparation at RMITU.' (call_597147845647, seg_2), indicating a need for clarification on eligibility.",
+          "consultant_response": "Consultant responded: 'We will send that off for assessment and then the assessment team will confirm whether or not you're eligible.' (call_597147845647, seg_5), demonstrating clarity in the eligibility verification process.",
+          "context_impact": "This crucial moment highlighted the importance of providing structured guidance about enrollment processes.",
+          "recommended_approach": "Encourage consultants to offer examples of similar past student experiences to enhance relatability."
+        },
+        {
+          "id": 3,
+          "title": "Engagement on Financial Clarity",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147845647",
+              "segment_id": "32",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'And just one last question. About the fees for the course, is there a full fee that I have to pay?' (call_597147845647, seg_32), signifying a concern about financial understanding.",
+          "consultant_response": "Consultant indicated: 'So if you are an Australian citizen... you will have the option for HECS...' (call_597147845647, seg_33), providing essential financial information.",
+          "context_impact": "Clarifying financial commitments directly impacts the student's comfort level with enrollment.",
+          "recommended_approach": "Deepen discussions by clarifying the nuances of HECS and checking for understanding."
+        },
+        {
+          "id": 4,
+          "title": "Enhancing Clarity on Required Documentation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908386986",
+              "segment_id": "22",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I just needed to finish, like, do the resume...' (call_596908386986, seg_22), indicating uncertainty about the documentation process.",
+          "consultant_response": "Consultant stated: 'You actually didn't need the resume at all...' (call_596908386986, seg_32), missing an opportunity for structured guidance.",
+          "context_impact": "Clarity on required documentation is vital for avoiding delays.",
+          "recommended_approach": "Provide a checklist approach when discussing application documentation to eliminate confusion."
+        },
+        {
+          "id": 5,
+          "title": "Proactive Support for Returning Students",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158748634",
+              "segment_id": "32",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' (call_597158748634, seg_32), reflecting anxiety about returning to education.",
+          "consultant_response": "Consultant missed discussing available support resources for returning students, failing to reassure the student.",
+          "context_impact": "Addressing this concern is crucial for boosting the likelihood of enrollment.",
+          "recommended_approach": "A supportive approach should include mentioning study support services and addressing common concerns among returning students."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of Scheduling Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908386986",
+              "segment_id": "87",
+              "timestamp": "23:43"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 23:43 during the call, the student stated: 'Okay, so the 10th of March, but I don't need to attend any of the classes.' This expression revealed their concerns surrounding class attendance and the flexibility of the course schedule, highlighting the need for clear communication to ease anxieties.",
+          "consultant_response": "In response, the consultant articulated, 'Yeah, correct. So you can watch them the next morning, if they ran the night before, and just take notes.' (call_596908386986, seg_92). This response effectively broke down the information about course attendance and emphasized the available flexibility of recorded lectures, addressing the student's query head-on.",
+          "priority": "high",
+          "recommended_approach": "Future interactions should focus on validating students' concerns, sharing structured examples of how past students have succeeded with similar schedules. This creates practical pathways for them, reassuring them that study can indeed fit into busy work lives."
+        },
+        {
+          "id": 2,
+          "title": "Structured Eligibility Confirmation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147845647",
+              "segment_id": "2",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed, 'I just want to say that previously I completed a Diploma of Teacher Education Preparation at RMITU.' (call_597147845647, seg_2), seeking confirmation on eligibility for the Bachelor's program. This moment was vital for guiding student decisions.",
+          "consultant_response": "The consultant stated, 'So essentially what we would need to require from you is just an official copy of your studies from RMIT.' This response clearly delineated the eligibility process, providing the student with a logical course of action.",
+          "priority": "high",
+          "recommended_approach": "Enhance this interaction by incorporating validation of students' previous educational achievements and explaining how those experiences could fast-track their enrollment. Always clarify the exact steps using tangible examples."
+        },
+        {
+          "id": 3,
+          "title": "Engagement on Financial Clarity",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147845647",
+              "segment_id": "32",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student asked, 'And just one last question. About the fees for the course, is there a full fee that I have to pay?' This inquiry highlighted their concerns regarding financial obligations.",
+          "consultant_response": "The consultant mentioned, 'So if you are an Australian citizen... you will have the option for HECS...' (call_597147845647, seg_33), which reassured the student about their financial pathways.",
+          "priority": "high",
+          "recommended_approach": "Deepen this financial conversation by clarifying the nuances of HECS-HELP and offering to connect the student with a financial advisor who can provide additional insights."
+        },
+        {
+          "id": 4,
+          "title": "Enhancing Clarity on Required Documentation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908386986",
+              "segment_id": "22",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed, 'I just needed to finish, like, do the resume...' (call_596908386986, seg_22), indicating uncertainty about the documentation required for the application.",
+          "consultant_response": "Consultant stated, 'Now, Kearly, again, you actually didn't need the resume at all...' (call_596908386986, seg_32), which highlighted a lack of structured guidance that could lead to continued confusion.",
+          "priority": "high",
+          "recommended_approach": "Adopt a checklist approach when discussing application documentation, so students leave with a tactile understanding of what they need."
+        },
+        {
+          "id": 5,
+          "title": "Proactive Support for Returning Students",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158748634",
+              "segment_id": "32",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed, 'I haven't studied for 15 years - I'm worried I won't be able to keep up.' This expressed concern echoes a familiar anxiety many feel returning to academics.",
+          "consultant_response": "However, the consultant missed an opportunity here by not addressing available support services for returning students that could alleviate those concerns.",
+          "priority": "high",
+          "recommended_approach": "An ideal response would include an acknowledgment of these fears, followed by discussing available resources, such as study guides, tutoring options, and workshops tailored for those returning to education."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "consultant_name": "David Mccarthie",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 196,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 50,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 25.510204081632654,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 146,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 74.48979591836735,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.27531491462942,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 146,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 207.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 178.34,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 235.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 121.42,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 168.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.55,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 198.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 146.19,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 152.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 134.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.18,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 193.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 147.35,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 182.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.52,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 184.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.62,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Communication of Enrollment Steps",
+        "explanation": "Consultants provided clear, structured approaches that facilitated student understanding during critical enrollment conversations, enhancing engagement and reducing anxieties."
+      },
+      {
+        "headline": "Leveraging Student Motivation",
+        "explanation": "When students expressed ambitions for professional advancement, consultants effectively connected program benefits to these goals, reinforcing engagement and increasing likelihood of enrollment."
+      },
+      {
+        "headline": "Empathetic Engagement with Student Concerns",
+        "explanation": "Successful instances of consultants acknowledging students' anxiety about returning to study helped to strengthen their confidence and commitment."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Opportunity for Re-engagement After Distraction",
+        "explanation": "Consultants can improve by re-engaging students after interruptions to ensure understanding is maintained and addressing any lingering uncertainties about the next steps."
+      },
+      {
+        "headline": "Clarifying Study Load Expectations",
+        "explanation": "Failure to detail expectations around study commitments can lead to student overwhelm; more thorough guidance and structured explanations are needed."
+      },
+      {
+        "headline": "Detailed Financial Guidance",
+        "explanation": "Some consultants did not adequately clarify financial concerns related to study, leaving students feeling unsure about their options."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of Enrollment Steps",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915014102",
+              "segment_id": "21",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Okay so how do I do that.' (call_596915014102, seg_21) indicating a need for clarity regarding the enrollment process.",
+          "consultant_response": "Consultant responded: 'Yep that's all like I can literally do it all for you right now.' (call_596915014102, seg_24) effectively clarifying the process.",
+          "context_impact": "Ensuring a clear explanation at this moment can facilitate a smooth enrollment process, preventing confusion.",
+          "recommended_approach": "Consultants should break down enrollment steps into manageable parts and check for student understanding."
+        },
+        {
+          "id": 2,
+          "title": "Missed Opportunity for Re-engagement After Distraction",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915014102",
+              "segment_id": "28",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Can you just hold on for a sec I'll have to go outside.' (call_596915014102, seg_28) highlighting need for awareness during call interruptions.",
+          "consultant_response": "Consultant said: 'That's okay.' (call_596915014102, seg_37) but failed to summarize key points.",
+          "context_impact": "Failing to reorient post-distraction may lead to misunderstandings about next steps.",
+          "recommended_approach": "Consultants must recap earlier discussions and check understanding when a student returns from a distraction to ensure clarity."
+        },
+        {
+          "id": 3,
+          "title": "Leveraging Student Motivation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148292893",
+              "segment_id": "12",
+              "timestamp": "00:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student declared: 'I wanted to progress myself to get more qualifications in it.' (call_597148292893, seg_12), showcasing ambition for self-improvement.",
+          "consultant_response": "Consultant confirmed: 'Yeah absolutely and it does help having that bachelor's degree.' (call_597148292893, seg_99), emphasizing the qualification's relevance.",
+          "context_impact": "Aligning the program's value with the student\u2019s career aspirations increased engagement likelihood.",
+          "recommended_approach": "Consultants should tailor responses to students' specific career goals, providing concrete examples of potential outcomes."
+        },
+        {
+          "id": 4,
+          "title": "Clarifying Study Load Expectations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148196859",
+              "segment_id": "104",
+              "timestamp": "02:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Do you know how many units you'd like to commence with?' revealing uncertainty about commitment level (call_597148196859, seg_104).",
+          "consultant_response": "Consultant asked: 'Whatever recommended is, I guess, yeah.' (call_597148196859, seg_105) but did not elaborate.",
+          "context_impact": "Without clarity on study loads, students may feel overwhelmed by expectations.",
+          "recommended_approach": "Consultants should provide clear explanations about expected study loads to manage expectations and encourage student confidence."
+        },
+        {
+          "id": 5,
+          "title": "Clear Financial Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147943337",
+              "segment_id": "114",
+              "timestamp": "30:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student worried: 'I was more worried about having to pay like a lot of money up front.' (call_597147943337, seg_114), indicating concern about financial burdens.",
+          "consultant_response": "The consultant noted, '...if you're earning over that already, you'd probably be paying it straight back,' clarifying the financial process.",
+          "context_impact": "Addressing financial anxiety can significantly influence the decision to enroll.",
+          "recommended_approach": "Offer personalized financial counseling sessions that outline repayment plans."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of Enrollment Steps",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915014102",
+              "segment_id": "21",
+              "timestamp": "02:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596915014102 (segment 21), the student expressed a crucial need for clarification with: 'Okay so how do I do that.' This pivotal moment illuminated the student's demand for guidance on the enrollment process. With the student actively seeking understanding, it became essential for the consultant to provide clear and structured instructions, thereby reducing the risk of confusion and reinforcing the student's confidence in proceeding.",
+          "consultant_response": "The primary consultant responded: 'Yep that's all like I can literally do it all for you right now. It takes about 10 minutes and we can get you ready for the course for March the 10th.' This clear and assertive approach effectively demystified the enrollment process, making it feel approachable despite the complexities involved.",
+          "priority": "high",
+          "recommended_approach": "The essence of effective communication lies in simplifying processes. Recognizing the student's need for clarity must be paramount, with the consultant transforming the interaction by saying, 'Let me walk you through the steps together.' During crucial moments, checking for understanding by asking, 'Does that make sense, or would you like me to break it down further?' can significantly enhance the clarity of communication."
+        },
+        {
+          "id": 2,
+          "title": "Missed Opportunity for Re-engagement After Distraction",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915014102",
+              "segment_id": "28",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596915014102 (segment 28), the student expressed: 'Can you just hold on for a sec I'll have to go outside because my reception is not as good in here.' This moment marked a break in communication, creating a need for the consultant to reaffirm and maintain the student's engagement and focus going forward.",
+          "consultant_response": "The consultant merely acknowledged with: 'That's okay.' but failed to take the opportunity to recap crucial information, which risked leaving the student unclear about what was discussed prior.",
+          "priority": "high",
+          "recommended_approach": "When a student indicates a need for brief interruption, it\u2019s essential to re-establish the conversation and re-confirm previous points upon their return. Welcoming them back warmly and succinctly summarizing prior discussions is critical."
+        },
+        {
+          "id": 3,
+          "title": "Leveraging Student Motivation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148292893",
+              "segment_id": "12",
+              "timestamp": "00:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597148292893 (segment 12), the student stated: 'I wanted to progress myself to get more qualifications in it.' This expression of ambition revealed her desire for personal and professional development. It represented a critical moment in the interaction, as the consultant had the opportunity to connect the course\u2019s benefits directly with the student's academic and career goals.",
+          "consultant_response": "The consultant responded affirmatively, stating: 'Yeah absolutely and it does help having that bachelor's degree. So I'll definitely get you a spot.' This response demonstrated effective communication, as it linked the student's goal of gaining qualifications to the career benefits of the bachelor\u2019s degree.",
+          "priority": "high",
+          "recommended_approach": "When students express their desire for educational qualifications, it is crucial to build on their intrinsic motivation. A powerful insight here is that students who articulate their goals are signaling readiness for discussion about how your offerings align with their ambitions."
+        },
+        {
+          "id": 4,
+          "title": "Clarifying Study Load Expectations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148196859",
+              "segment_id": "104",
+              "timestamp": "02:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In the aforementioned call (segment 104), the student asked: 'Do you know how many units you'd like to commence with?' revealing a lack of confidence regarding their anticipated study load. This moment presents a clear opportunity to elucidate student expectations and properly set the groundwork for their academic journey.",
+          "consultant_response": "The response from the student, 'Whatever recommended is, I guess, yeah,' showed uncertainty where a clearer guidance on expected study loads was necessary to help the student understand the commitment involved.",
+          "priority": "high",
+          "recommended_approach": "Consultants should provide a detailed structure regarding expected study commitments, actively engaging students in discussion."
+        },
+        {
+          "id": 5,
+          "title": "Clear Financial Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147943337",
+              "segment_id": "114",
+              "timestamp": "30:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student mentioned their financial concern, stating: 'I was more worried about having to pay like a lot of money up front.' This highlights their apprehension about financial strain.",
+          "consultant_response": "The consultant effectively tackled this moment by stating, 'Yes, so you'd be able to use your HECS. So if you're earning over that already, you'd probably be paying it straight back,' providing clarity on the financial options.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial struggles students face, reassure them by clearly laying out available financial aid options, explicitly explaining how the processes work."
+        }
+      ]
+    }
+  }
+}

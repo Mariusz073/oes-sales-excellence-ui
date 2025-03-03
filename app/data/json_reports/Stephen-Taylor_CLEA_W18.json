@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 256,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 72,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 28.125,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 184,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 71.875,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.61386447173493,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 184,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 124.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.05,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 119.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.77,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 214.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.23,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 162.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.86,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 108.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.2,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 92.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.65,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 163.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.28,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Concise Communication for Course Clarity",
+        "explanation": "Consultants effectively articulated course structures and options, enhancing student understanding and easing decision-making."
+      },
+      {
+        "headline": "Effective Clarification of Course Requirements",
+        "explanation": "Consultants successfully provide students with clear information regarding course requirements, reducing confusion and encouraging enrollment."
+      },
+      {
+        "headline": "Structured Communication During Complex Decisions",
+        "explanation": "Consultants adeptly break down intricate application processes into manageable steps, ensuring students feel guided and supported."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Need for Follow-Up and Clarification",
+        "explanation": "Some consultants miss opportunities to engage students in dialogue to check for understanding after delivering information."
+      },
+      {
+        "headline": "Missed Opportunities in Addressing Information Discrepancies",
+        "explanation": "Consultants occasionally overlook discrepancies in information presented to students, failing to clarify and maintain trust."
+      },
+      {
+        "headline": "Increased Checks for Understanding",
+        "explanation": "Emphasis on ensuring students comprehend information shared was lacking, leading to potential misunderstandings."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Concise Communication of Electives",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914828498",
+              "segment_id": "10",
+              "timestamp": "00:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I was just wondering, with the Bachelor of Laws, how many electives you get?' (call_596914828498, seg_6), indicating a need for clarity about academic choices.",
+          "consultant_response": "Consultant clarified: 'For the Bachelor of Laws, there are seven elective units and for the graduate entry, there are none.' (call_596914828498, seg_10), effectively addressing the student's inquiry.",
+          "context_impact": "Understanding the elective structure directly impacts her academic choices and perceived program flexibility.",
+          "recommended_approach": "Continue to prompt discussions that allow students to ask similar clarifying questions!"
+        },
+        {
+          "id": 2,
+          "title": "Effective Clarification of Course Requirements",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914586489",
+              "segment_id": "5",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I was interested in applying for Diploma of Nursing online and I wanted to know when your next intake is.' (call_596914586489, seg_5)",
+          "consultant_response": "Consultant responded: 'Yeah, sorry, we don't offer that course online any more. It's only available at the campus.' (call_596914586489, seg_6)",
+          "context_impact": "This inquiry indicated a direct need for clarification, which the consultant successfully addressed, ensuring continued engagement.",
+          "recommended_approach": "Enhance responses by exploring related options the student might consider."
+        },
+        {
+          "id": 3,
+          "title": "Increased Checks for Understanding",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062260843",
+              "segment_id": "15",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried: 'I don't know how to submit my documents, do I have to email them through?' (call_597062260843, seg_15), indicating confusion in the administrative process.",
+          "consultant_response": "Consultant replied: 'Yeah, that's what the messages have been about.' (call_597062260843, seg_22) but could have asked if the student had any additional questions.",
+          "context_impact": "Clarifying this could ensure smoother transition through application steps.",
+          "recommended_approach": "Make checking for understanding a routine part of all calls."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunities in Addressing Information Discrepancies",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914586489",
+              "segment_id": "6",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student said: 'Oh, since when?' finding the course still listed online (call_596914586489, seg_6).",
+          "consultant_response": "Consultant merely responded: 'It's nearly a year now.' (call_596914586489, seg_6)",
+          "context_impact": "The need for clarification here was not effectively addressed, which could undermine trust.",
+          "recommended_approach": "Emphasize the importance of validating the student's confusion while offering clarity and alternatives."
+        },
+        {
+          "id": 5,
+          "title": "Clarity in Communication on Financial Obligations",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761407661",
+              "segment_id": "256",
+              "timestamp": "13:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'So what does that mean for my tax bill?' (call_596761407661, seg_256), showing their need for financial clarity.",
+          "consultant_response": "Consultant articulated: 'Every time I enroll in a unit, that cost of the unit is sent to the tax office...' (call_596761407661, seg_257), effectively demystifying the process.",
+          "context_impact": "Clear financial communication reduces uncertainty, facilitating student enrollment.",
+          "recommended_approach": "Include summaries and checks for understanding during detailed financial explanations."
+        },
+        {
+          "id": 6,
+          "title": "Missed Opportunity to Address Parenting and Study Balance Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070064611",
+              "segment_id": "22",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm a mum.' (call_597070064611, seg_18), revealing her significant role and its potential impact on study.",
+          "consultant_response": "Consultant responded flatly: 'Well there is technically no time limit...' (call_597070064611, seg_22), failing to address her specific concerns.",
+          "context_impact": "Addressing this effectively could have strengthened her perception of the program's suitability.",
+          "recommended_approach": "Engage in dialogue that identifies personal challenges and presents tailored solutions."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Concise Communication of Electives",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914828498",
+              "segment_id": "10",
+              "timestamp": "00:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student asked, 'I was just wondering, with the Bachelor of Laws, how many electives you get?' (call_596914828498, seg_6). This inquiry represented an opportunity to understand critical aspects of her prospective course, which directly influenced her enrollment decision.",
+          "consultant_response": "The consultant clarified: 'For the Bachelor of Laws, there are seven elective units and for the graduate entry, there are none.' (call_596914828498, seg_10). This clear response provided the student with a thorough understanding of the program structure and enhanced clarity over her options.",
+          "priority": "high",
+          "recommended_approach": "When asked about program options such as electives, always directly clarify and break down this information into logical segments. For courses like Bachelor of Laws, consider discussing not just quantity, but how these electives can align with their future career aspirations too."
+        },
+        {
+          "id": 2,
+          "title": "Effective Clarification of Course Requirements",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914586489",
+              "segment_id": "5",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the consultation, the student expressed interest by stating, 'I was interested in applying for Diploma of Nursing online and I wanted to know when your next intake is.' This moment was crucial as it highlighted the student's desire for clarity about course offerings.",
+          "consultant_response": "The consultant effectively responded: 'Yeah, sorry, we don't offer that course online any more. It's only available at the campus.' This response exemplified clear communication, clearing up potential confusion about course availability, which allowed the conversation to shift towards exploring alternative programs.",
+          "priority": "high",
+          "recommended_approach": "When presented with questions about specific courses, consultants should affirm the student's interest, clarify any misinformation, and gently steer the conversation toward alternatives by saying, 'I understand you're looking for the Diploma of Nursing online; let\u2019s discuss some options that might fit your needs.' This approach maintains engagement and trust."
+        },
+        {
+          "id": 3,
+          "title": "Increased Checks for Understanding",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597062260843",
+              "segment_id": "15",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried: 'I don't know how to submit my documents, do I have to email them through?' (call_597062260843, seg_15), indicating confusion in the administrative process.",
+          "consultant_response": "Consultant replied: 'Yeah, that's what the messages have been about.' (call_597062260843, seg_22) but could have asked if the student had any additional questions.",
+          "priority": "high",
+          "recommended_approach": "Make checking for understanding a routine part of all calls to ensure students are clear on next steps and alleviate potential confusion."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunities in Addressing Information Discrepancies",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914586489",
+              "segment_id": "6",
+              "timestamp": "00:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Upon hearing the course was unavailable, the student asked, 'Oh, since when?' This demonstrated confusion over inconsistent information.",
+          "consultant_response": "The consultant replied, 'It's nearly a year now,' but did not elaborate or connect this to the student's concerns, which missed an engagement opportunity.",
+          "priority": "high",
+          "recommended_approach": "Addressing student confusion should always be a priority. A suitable response could be, 'It's confusing if the website still shows outdated info. Let's go through your options together.' This not only validates their feelings but also maintains a focus on providing clarity."
+        },
+        {
+          "id": 5,
+          "title": "Clarity in Communication on Financial Obligations",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761407661",
+              "segment_id": "256",
+              "timestamp": "13:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student asked, 'So what does that mean for my tax bill?' (call_596761407661, seg_256), marking a critical moment in needing financial clarity that could influence their willingness to move forward with the enrollment process.",
+          "consultant_response": "Responding thoughtfully, the consultant conveyed, 'Every time I enroll in a unit, that cost of the unit is sent to the tax office...' (call_596761407661, seg_257). This explanation effectively simplified the complex financial obligation process while remaining accessible and clear.",
+          "priority": "high",
+          "recommended_approach": "When covering financial topics, consultants should start by affirming the student's concerns about payments, then break down the financial implications thoroughly: 'Let me clearly explain how this impacts your tax.'"
+        },
+        {
+          "id": 6,
+          "title": "Missed Opportunity to Address Parenting and Study Balance Concerns",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597070064611",
+              "segment_id": "22",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed: 'I'm a mum.' (call_597070064611, seg_18). Acknowledging her role was vital in providing tailored support.",
+          "consultant_response": "'Well there is technically no time limit so as long as you can put a resume together...' (call_597070064611, seg_22). However, this response lacked the depth needed to provide reassurance.",
+          "priority": "high",
+          "recommended_approach": "When a student mentions their parenting roles, acknowledge their situation and discuss how flexible study options are available, fostering a supportive dialogue."
+        }
+      ]
+    }
+  }
+}

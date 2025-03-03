@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "consultant_name": "Elisha Odhiambo",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 379,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 16.094986807387862,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 318,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 83.90501319261213,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.9000255451277,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 318,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 269.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 182.46,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 178.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.64,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.48,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 190.51,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 141.56,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.07,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 189.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 137.5,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 121.7,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.72,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 199.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 131.89,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 178.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.75,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 207.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.0,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 142.26,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.94,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Career Advancement Communication",
+        "explanation": "Consultants effectively articulate how program offerings align with students' defined career goals, enhancing student clarity and enrollment likelihood."
+      },
+      {
+        "headline": "Clear Financial Explanation",
+        "explanation": "Consultants provide structured financial information, enhancing understanding of costs and available options, which supports informed enrollment decisions."
+      },
+      {
+        "headline": "Timeline Clarity",
+        "explanation": "Effective communication of course timelines reassures students about their ability to manage schedules and commit to enrollment."
+      },
+      {
+        "headline": "Structured Communication of Academic Pathways",
+        "explanation": "Consultants effectively break down complex educational pathways into clear, manageable steps that resonate with students' goals, enhancing their understanding."
+      },
+      {
+        "headline": "Empowering Students Through Clarity",
+        "explanation": "Effective consultants provide consistent reassurance and clarity in communications, which empowers students and bolsters their confidence in pursuing queries."
+      },
+      {
+        "headline": "Proactive Engagement with Student Concerns",
+        "explanation": "Using opportunities to check for understanding and respond empathetically to student concerns demonstrates a commitment to student success and enrollment prospects."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Addressing Course Relevance",
+        "explanation": "Opportunities exist to better demonstrate how courses build upon students' existing skills, ensuring they recognize the value of continued education."
+      },
+      {
+        "headline": "Confirmation of Understanding",
+        "explanation": "Consultants can enhance clarity by regularly checking for student understanding and reiterating key points to mitigate confusion and disengagement."
+      },
+      {
+        "headline": "Detailed Financial Discussions",
+        "explanation": "More thorough explanations of financial commitments and benefits of enrollment could prevent misunderstandings and foster deeper engagement."
+      },
+      {
+        "headline": "Missed Engagement on Current Priorities",
+        "explanation": "Consultants often fail to delve into students' expressed concerns about balancing their professional commitments with academic goals, potentially missing crucial re-engagement opportunities."
+      },
+      {
+        "headline": "Clarification of Course Differences",
+        "explanation": "Insufficient differentiation between course options and requirements leads to confusion, impacting students' ability to make informed enrollment decisions."
+      },
+      {
+        "headline": "Enhanced Logical Flow in Responses",
+        "explanation": "Responses often lack proper logical structuring, which can overwhelm students with unnecessary complexity without clear supporting context."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Advancement Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915500176",
+              "segment_id": "14",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'So I've been working in IT in governance and compliance technology for 17-18 years...' (call_596915500176, seg_14), seeking clarity on how to meet prerequisites for research.",
+          "consultant_response": "Consultant stated: 'Yeah, so basically you're essentially looking to upskill but then also with your future studies you have to meet up your requisites as a master's degree.' (call_596915500176, seg_24), which reinforced the relevance of the program.",
+          "context_impact": "The student's intention to further their education signals high potential for enrollment if the program aligns with their aspirations.",
+          "recommended_approach": "Encourage detailing how specific modules align with the student's goals."
+        },
+        {
+          "id": 2,
+          "title": "Clear Financial Explanation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148448318",
+              "segment_id": "2",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'So I'm just wondering with this one here, it says it's like three grand per unit...' (call_597148448318, seg_2), highlighting a need for clarity on financial aspects.",
+          "consultant_response": "Consultant clearly explained: 'Yeah, so you're referring to CSP...' (call_597148448318, seg_7), effectively addressing the inquiry.",
+          "context_impact": "Understanding the financial implications can significantly influence the student's decision to pursue enrollment.",
+          "recommended_approach": "Engage in further dialogue about specific financial concerns to deepen engagement."
+        },
+        {
+          "id": 3,
+          "title": "Timeline Clarity",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148512037",
+              "segment_id": "30",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I just want you to know that what exactly they start and what you will finish at the first unit.' (call_597148512037, seg_30) indicating her need for course timeline clarity.",
+          "consultant_response": "Consultant responded: 'Ah perfect. So the first unit, that one will begin on the 5th of May...' (call_597148512037, seg_32), effectively detailing key dates.",
+          "context_impact": "Providing clear timeline information closes gaps that could lead to confusion or hesitation regarding enrollment.",
+          "recommended_approach": "Follow-up by asking if the student has any concerns regarding balancing their existing commitments."
+        },
+        {
+          "id": 4,
+          "title": "Effective Communication of Academic Pathway to Registration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158646208",
+              "segment_id": "47",
+              "timestamp": "10:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student noted: 'So if you're looking for full registration, it just means that you'd have to begin your studies with the graduate diploma in psychology.' (call_597158646208, seg_47) introducing important inquiries into their educational trajectory.",
+          "consultant_response": "The consultant stated: 'You'll then progress into the graduate diploma of psychology advanced and then a two years master sequence.' This structured approach clarified the pathway logically.",
+          "context_impact": "Providing clear communication about academic pathways demystifies processes, encouraging student engagement with enrollment.",
+          "recommended_approach": "Continue building on clarity by confirming understanding with students after explaining complex pathways."
+        },
+        {
+          "id": 5,
+          "title": "Missed Engagement on Current Priorities",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845562855",
+              "segment_id": "23",
+              "timestamp": "1:13"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Due to some other priorities, I decided not to proceed at this point.' This reflects hesitation about balancing study with other commitments.",
+          "consultant_response": "The consultant replied with options but failed to explore the student's personal constraints further.",
+          "context_impact": "The consultant missed an opportunity to re-engage the student by addressing specific concerns that could facilitate reconsideration.",
+          "recommended_approach": "Ask targeted questions immediately to identify individual student barriers and tailor solutions."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Career Advancement Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596915500176",
+              "segment_id": "14",
+              "timestamp": "01:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596915500176, the student expressed significant ambition: 'So I've been working in IT in governance and compliance technology for 17-18 years, but I haven't done my master's and I do want to do my master's and then get into research.' This statement poignantly highlighted the student's clear intention to elevate their education, presenting a pivotal opportunity for the consultant to effectively articulate how the program's offerings align with the student's defined career path and educational objectives.",
+          "consultant_response": "In response, the consultant addressed their goals by stating: 'Yeah, so basically you're essentially looking to upskill but then also with your future studies you have to meet up your requisites as a master's degree.' This effectively acknowledged and reinforced the student's aspirations, enhancing confidence in the program's relevance.",
+          "priority": "high",
+          "recommended_approach": "In cases where students articulate specific career objectives, it provides an avenue for consultants to elaborate on how the program directly meets those needs. Reaffirming the student\u2019s stated goals and continuing the discussion about aligning those aspirations with particular program features should be a priority. Using questions to draw connections, such as, 'You have a strong technical background in IT, and pursuing a master's will enhance your expertise in compliance and governance. Have you explored how our curriculum covers these areas?' is effective. Offering additional tailored support and demonstrating multiple career bridges enhances engagement."
+        },
+        {
+          "id": 2,
+          "title": "Clear Financial Explanation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148448318",
+              "segment_id": "2",
+              "timestamp": "00:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early on in the engagement, the student showcased their curiosity and concern by stating, 'So I'm just wondering with this one here, it says it's like three grand per unit.' This indicated a clear need for straightforward financial explanations, a crucial aspect of their decision-making as they aim to understand the implications of enrolling in costly courses.",
+          "consultant_response": "The consultant responded effectively: 'Yeah, so you're referring to CSP, which is Commonwealth Supported Places. Now unfortunately with Monash online we don't have any CSB available for postgraduate courses but we do have fee help available to Australian citizens...' This response provided structured clarity in navigating financial aspects, addressing student concerns effectively.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial queries, start by validating the student's line of questioning. Establish a connection with the student's financial context, saying something like, 'I completely understand that cost is an important consideration.' It\u2019s ideal to provide a comprehensive understanding of options like FEE-HELP and terms associated with them immediately while also checking if the student has any specific financial concerns to discuss."
+        },
+        {
+          "id": 3,
+          "title": "Timeline Clarity",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148512037",
+              "segment_id": "30",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At segment 30, the student clarified: 'I just want you to know that what exactly they start and what you will finish at the first unit.' This expressing of need for course timeline detail illustrates the proactive approach the student is adopting toward their considerations of commitment, revealing that confusion about the scheduling could hinder their decision to enroll.",
+          "consultant_response": "The consultant effectively addressed this concern when they stated: 'Ah perfect. So the first unit, that one will begin on the 5th of May. So once we begin on the 5th of May...' This clear communication of essential timeline details was crucial in assuring the student and facilitating informed decision-making.",
+          "priority": "high",
+          "recommended_approach": "When discussing course timelines, it\u2019s essential to dissect essential dates without overwhelming the student. Engaging clarifying questions like, 'Can you share any other commitments that we should consider?' transforms the interaction into a supportive dialogue that reinforces clarity."
+        },
+        {
+          "id": 4,
+          "title": "Missed Engagement on Current Priorities",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845562855",
+              "segment_id": "23",
+              "timestamp": "1:13"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Due to some other priorities, I decided not to proceed at this point.' This reflects hesitation about balancing study with other commitments.",
+          "consultant_response": "The consultant replied with options but failed to explore the student's personal constraints further.",
+          "priority": "high",
+          "recommended_approach": ""
+        },
+        {
+          "id": 5,
+          "title": "Clarifying Course Differences",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158646208",
+              "segment_id": "121",
+              "timestamp": "11:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student queried: 'What would be the difference between the diploma and the advanced diploma?' indicating a desire for clarity between critical academic choices which could significantly influence their decision on enrollment.",
+          "consultant_response": "Consultant responded: 'The graduate diploma in psychology, that is a course that takes a year and seven months to complete...' While some information was conveyed, the presentation of course details lacked organization and clarity, leaving potential gaps in the student's understanding of how the courses align with their aspirations.",
+          "priority": "high",
+          "recommended_approach": "When faced with queries regarding course distinctions, begin by validating the student's need for clarity: 'It's essential to differentiate these programs as it directly affects your academic planning.' Engaging the student by asking about their goals can customize the response effectively."
+        }
+      ]
+    }
+  }
+}

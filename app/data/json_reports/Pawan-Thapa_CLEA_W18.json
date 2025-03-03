@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 240,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 42,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 17.5,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 198,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 82.5,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.70050437570585,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 198,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 128.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.78,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 142.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.73,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 127.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.27,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 101.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.16,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 137.07,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 77.68,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 140.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 74.8,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 101.93,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 79.56,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 124.89,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.84,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Structured Pathway Communication",
+        "explanation": "Consultants provided clear, logical explanations of academic pathways that aligned with students' career goals, enhancing understanding and engagement."
+      },
+      {
+        "headline": "Effective Clarity in Program Details",
+        "explanation": "Consultants demonstrated clear communication when explaining program options, leading to enhanced student understanding and engagement."
+      },
+      {
+        "headline": "Engagement through Active Listening",
+        "explanation": "Consultants effectively engaged with student concerns and aspirations through tailored responses, building trust and guiding them toward informed decisions about their educational paths."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Opportunities in Tailored Communication",
+        "explanation": "There were instances where consultants failed to directly address student-specific concerns, limiting the impact of their communication."
+      },
+      {
+        "headline": "Need for Increased Clarity on Course Offerings",
+        "explanation": "More detailed explanations of how different programs align with student goals could enhance clarity and facilitate better enrollment decisions."
+      },
+      {
+        "headline": "Lack of Clarity on Financial Aid Options",
+        "explanation": "Need for clearer explanations of financial aid options, which can alleviate financial concerns inhibiting enrollment decisions."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strong Engagement through Clear Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908107089",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596914719971",
+                "segment_id": "177",
+                "timestamp": "29:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm just probably looking to change courses as direction I suppose.' (call_596908107089, seg_18), indicating interest in alignment with career goals.",
+          "consultant_response": "Consultant elaborated: 'Now we do have a lot of students who are changing careers as well...' (call_596908107089, seg_23), effectively connecting course structure to student context.",
+          "context_impact": "Understanding her interest in transitioning was critical for tailoring the explanation of course benefits.",
+          "recommended_approach": "Ensure to dive deeper into specific course benefits related to the student's background."
+        },
+        {
+          "id": 2,
+          "title": "Clarifying Accreditation Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761309965",
+              "segment_id": "11",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596761309965",
+                "segment_id": "11",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "Student suggested: 'It turns out to me that Monash's course is not accredited by the board.' (call_596761309965, seg_11), showcasing confusion over accreditation.",
+          "consultant_response": "Consultant expressed: 'That's absolutely wrong in that one...' (call_596761309965, seg_11), meant to clarify, but lacked detail.",
+          "context_impact": "Misinformation correction was crucial to maintaining student interest and trust.",
+          "recommended_approach": "Enhance responses with detailed facts about accreditation processes to reassure students."
+        },
+        {
+          "id": 3,
+          "title": "Effective Clarity in Program Details",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148012215",
+              "segment_id": "56",
+              "timestamp": "11:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'The start date, May the 5th, your census date is May the 16th.' (call_597148012215, seg_56), expressing confusion needing clear date information.",
+          "consultant_response": "Consultant explained: 'No, that's your census date. May 5 for start, May 16 is your census date so you can change your mind.' (call_597148012215, seg_68), effectively clarifying key dates.",
+          "context_impact": "This inquiry was critical to prevent misunderstanding and ensure enrollment timelines were clear.",
+          "recommended_approach": "Continue to clarify the implications of these dates to ensure total comprehension."
+        },
+        {
+          "id": 4,
+          "title": "Balancing Work and Study",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845810849",
+              "segment_id": "76",
+              "timestamp": "11:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed concern: 'I'm worried about balancing study with my current role.' (call_596845810849, seg_73), revealing anxiety over time management.",
+          "consultant_response": "Consultant provided reassurance: 'You can secure your position until May, allowing you to manage your commitments' (call_596845810849, seg_76).",
+          "context_impact": "Addressing this concern effectively could reassure the student and promote enrollment.",
+          "recommended_approach": "Offer tailored examples of how others managed similar situations."
+        },
+        {
+          "id": 5,
+          "title": "Missed Engagement on Student Experience",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148263021",
+              "segment_id": "15",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a crucial part of the call, the student shared, 'I've been involved with project management the last seven to eight years...' (call_597148263021, seg_15), which showcased substantial experience that could be tied to potential educational pathways.",
+          "consultant_response": "Regrettably, the consultant did not ask any follow-up questions to delve deeper into the student\u2019s background.",
+          "context_impact": "This lack of engagement diminishes the opportunity to connect existing skills to the value proposition offered by the course.",
+          "recommended_approach": "Future interactions should involve inquiries that encourage students to elaborate on their experiences."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strong Engagement through Clear Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908107089",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596914719971",
+                "segment_id": "177",
+                "timestamp": "29:45"
+              }
+            ]
+          },
+          "student_trigger": "During the call, the student stated: 'I'm just probably looking to change courses as direction I suppose.' (call_596908107089, seg_18). This expressed a pivotal moment where the student highlighted her motivation for exploring a new academic path aimed at a potential career change.",
+          "consultant_response": "In response, the consultant articulated: 'Now we do have a lot of students who are changing careers as well... Now regarding the course itself, GDP, I would just explain to you how this works, is Graduate for Psychology is an APAC accredited course.' (call_596908107089, seg_23). The consultant's ability to logically introduce course structure, accreditation, and how these elements relate to the student's career ambitions showcased excellent communication skills.",
+          "priority": "high",
+          "recommended_approach": "To enhance engagement, consultants should start by recognizing the specific concerns expressed by students. Acknowledge the context of their worry or curiosity, which aligns with the need for strategic information sharing. For students like Sarah, who desire a career change, the approach should entail explaining the specific course benefits that accommodate this transition."
+        },
+        {
+          "id": 2,
+          "title": "Clarifying Accreditation Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761309965",
+              "segment_id": "11",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "596761309965",
+                "segment_id": "11",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "After expressing concern, the student said: 'It turns out to me that Monash's course is not accredited by the board.' (call_596761309965, seg_11). This concern is critical; it highlights her need for clarity surrounding the program's accreditation.",
+          "consultant_response": "The consultant addressed this by stating: 'That\u2019s absolutely wrong in that one Zoe.' (call_596761309965, seg_11). Although this was a direct attempt to negate the misunderstanding, the response lacked detailed and responsive engagement.",
+          "priority": "high",
+          "recommended_approach": "When addressing accreditation concerns, adopting a reassuring and educational tone is vital. Consider starting with an empathetic acknowledgment such as: 'I understand this can be confusing; let's clarify why it appears that way.' Encouraging the student to share their understanding allows them to feel heard and fosters a more open dialogue."
+        },
+        {
+          "id": 3,
+          "title": "Effective Clarity in Program Details",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148012215",
+              "segment_id": "56",
+              "timestamp": "11:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597148012215 (segment 56), the student stated: 'The start date, May the 5th, your census date is May the 16th,' signaling a critical need to grasp key enrollment deadlines.",
+          "consultant_response": "In response, the consultant effectively clarified the situation, saying: 'No, that's your census date. May 5 for start, May 16 is your census date so you can change your mind.' (call_597148012215, seg_68). This clarification is a prime example of effective communication.",
+          "priority": "high",
+          "recommended_approach": "When similar inquiries arise, consultants should continue using clear language emphasizing the importance of these dates. By employing an approach such as, 'Let\u2019s clarify this to ensure you have all the correct information,' consultants can reinforce understanding while mitigating any anxiety related to deadlines."
+        },
+        {
+          "id": 4,
+          "title": "Balancing Work and Study",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845810849",
+              "segment_id": "76",
+              "timestamp": "11:40"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern: 'I'm worried about balancing study with my current role.' (call_596845810849, seg_73). Addressing this concern effectively could reassure the student and promote enrollment.",
+          "consultant_response": "Consultant provided reassurance: 'You can secure your position until May, allowing you to manage your commitments' (call_596845810849, seg_76).",
+          "priority": "high",
+          "recommended_approach": "Consultants can reassure students by providing tailored examples of how others manage similar situations, directly addressing their specific worries about balancing multiple responsibilities."
+        },
+        {
+          "id": 5,
+          "title": "Missed Engagement on Student Experience",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597148263021",
+              "segment_id": "15",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared, 'I've been involved with project management the last seven to eight years...' (call_597148263021, seg_15), showcasing substantial experience that could be tied to potential educational pathways.",
+          "consultant_response": "Regrettably, the consultant did not ask any follow-up questions.",
+          "priority": "high",
+          "recommended_approach": "Future interactions should involve inquiries that encourage students to elaborate on their experiences and how they connect to prospective studies."
+        }
+      ]
+    }
+  }
+}

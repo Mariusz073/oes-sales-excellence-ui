@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 210,
+  "team_average_total_number_of_calls_per_sales_consultant": 219.625,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 67,
+    "team_average_absolute_number": 66.0
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.9047619047619,
+    "team_average_percentage": 30.513109725212754
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 143,
+    "team_average_absolute_number": 153.625
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.0952380952381,
+    "team_average_percentage": 69.48689027478724
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.705944045572224,
+    "team_average": 53.33855674000464
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 143,
+    "team_total_excluded_transcripts": 2458
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.77,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.51,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 154.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.25,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 130.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.62,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 175.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 97.56,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.05,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 120.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.48,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 151.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.62,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Communication on Credit Transfers",
+        "explanation": "Consultants provided clear and precise explanations regarding credit transfer processes, reinforcing students' understanding and confidence in their enrollment."
+      },
+      {
+        "headline": "Supportive Financial Guidance",
+        "explanation": "Offering comprehensive advice on financial options, including employer sponsorship, helps alleviate financial concerns and encourages enrollment."
+      },
+      {
+        "headline": "High-Impact Clarity on Support Resources",
+        "explanation": "Consultants effectively communicate the structure and benefits of support resources, promoting student engagement and confidence through detailed explanations and the provision of examples."
+      },
+      {
+        "headline": "Detailed Course Logistics Explanation",
+        "explanation": "Consultants effectively clarify course details and financial implications, ensuring students understand logistics that influence their enrollment decision."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Need for Enhanced Clarity in Financial Discussions",
+        "explanation": "Opportunities missed to fully articulate financial aid structures led to increased student confusion regarding potential costs."
+      },
+      {
+        "headline": "Missed Opportunities in Documentation Clarification",
+        "explanation": "Opportunities were lost to provide detailed information about documentation and its importance, leading to potential confusion and hesitation from students."
+      },
+      {
+        "headline": "Lack of Clarity on Program Acceleration Options",
+        "explanation": "More targeted discussions are required to address specific timeline concerns, providing clear pathways for accelerated course options that align with students' goals."
+      },
+      {
+        "headline": "Improving Communication on Program Flexibility",
+        "explanation": "Consultants need to enhance clarity regarding how the program accommodates varying student schedules and commitments."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication on Credit Transfers",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147978188",
+              "segment_id": "28",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried: 'Okay, perfect, so they'll transfer over?' (call_597147978188, seg_28) indicating a pivotal moment for clarifying credit transfer details.",
+          "consultant_response": "Consultant confirmed: 'Yeah, correct. So they'll be counted as one matched unit and then three secondary electives.' (call_597147978188, seg_29) thus directly addressing the inquiry.",
+          "context_impact": "This needed confirmation of credit transfer to assure the student about their academic pathway and commitment to enrollment.",
+          "recommended_approach": "Encourage follow-up questions to ensure total comprehension of credit transfer implications."
+        },
+        {
+          "id": 2,
+          "title": "Supportive Financial Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914877115",
+              "segment_id": "124",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student indicated: 'Just HECS I believe although I probably should ask my workplace if they want to pay for some.' (call_596914877115, seg_124) showing openness to explore funding.",
+          "consultant_response": "Consultant encouraged: 'It's great that you're considering seeking employer support; let's discuss how you can present this.' (call_596914877115, seg_125) prompting exploration of options.",
+          "context_impact": "Discussing employer sponsorship could alleviate financial barriers to enrollment.",
+          "recommended_approach": "Consultants should provide strategies for discussing education funding with employers."
+        },
+        {
+          "id": 3,
+          "title": "High-Impact Clarity on Support Resources",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147696730",
+              "segment_id": "133",
+              "timestamp": "18:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'The welcome call is totally optional but I usually recommend it as it's a good way for you to get to know them as they support you.' (call_597147696730, seg_133) highlighting a moment for reinforcing the supportive infrastructure.",
+          "consultant_response": "Consultant stated: 'They'll take you through the whole orientation process over the phone...' (call_597147696730, seg_133) effectively conveying strong support nuances.",
+          "context_impact": "This moment reassured the student, fostering confidence in accessing available support systems, crucial for retention.",
+          "recommended_approach": "Provide additional details on what the welcome call entails and check for understanding on its benefits."
+        },
+        {
+          "id": 4,
+          "title": "Detailed Course Logistics Explanation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846065863",
+              "segment_id": "59",
+              "timestamp": "03:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So what is the length of the course? How does it work? What timing? How much money?' (call_596846065863, seg_59), showing a need for structured course information.",
+          "consultant_response": "Consultant replied: 'Yeah, so it's a four-year full-time qualification done completely online...' (call_596846065863, seg_64), effectively addressing the student's queries in a logical sequence.",
+          "context_impact": "Understanding the course details is crucial for the student's decision-making process.",
+          "recommended_approach": "Enhance delivery by breaking information down into digestible parts and confirming understanding afterwards."
+        },
+        {
+          "id": 5,
+          "title": "Need for Enhanced Clarity in Financial Discussions",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845807538",
+              "segment_id": "72",
+              "timestamp": "x"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentioned: 'No, I was just going to do HECS...' (call_596845807538, seg_72) indicating a need for clarity on financial aspects.",
+          "consultant_response": "The consultant failed to clarify: 'Let's discuss what that means for you...' and missed an opportunity to provide detailed explanations.",
+          "context_impact": "Confusion about financial responsibilities may deter student commitment to enroll.",
+          "recommended_approach": "Engage students in discussion about financial options to enhance understanding."
+        },
+        {
+          "id": 6,
+          "title": "Missed Opportunities in Documentation Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158804650",
+              "segment_id": "15",
+              "timestamp": "01:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'It's just asking for proof of those prerequisites...' (call_597158804650, seg_15) revealing a need for specific guidance.",
+          "consultant_response": "Consultant responded: 'Okay, I'll pop you back through to the student advisor team...' (call_597158804650, seg_18) which did not sufficiently address the need for clarity.",
+          "context_impact": "Providing clarity on document requirements could enhance the application process, thereby influencing the student\u2019s decision.",
+          "recommended_approach": "Explicitly explain the documentation process and engage the student to clarify any uncertainty."
+        },
+        {
+          "id": 7,
+          "title": "Improving Communication on Program Flexibility",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846065863",
+              "segment_id": "48",
+              "timestamp": "03:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student raised a concern about managing study amidst personal commitments, stating: 'How do I juggle this with my job?' (call_596846065863, seg_48), indicating a need for flexibility assurance.",
+          "consultant_response": "The consultant confirmed: 'We offer flexible options if you have a job that takes up your time.' However, more concrete examples of how current students balance study with work were needed (call_596846065863, seg_49).",
+          "context_impact": "The ability to manage courses alongside work commitments is crucial for student retention.",
+          "recommended_approach": "Incorporate real-life examples of students who successfully manage work and study commitments to alleviate concerns."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication on Credit Transfers",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147978188",
+              "segment_id": "28",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During this conversation, the student expressed a key need for reassurance about credit transfers when they said: 'Okay, perfect, so they'll transfer over?' (call_597147978188, seg_28). This moment marked a crucial point where clarity about the acceptance of previously earned credits became essential for solidifying the student\u2019s path towards enrollment.",
+          "consultant_response": "In response, the consultant affirmed, 'Yeah, correct. So they'll be counted as one matched unit and then three secondary electives.' (call_597147978188, seg_29). This straightforward answer directly addressed the student\u2019s concerns, instilling confidence and reducing anxiety around academic integration.",
+          "priority": "high",
+          "recommended_approach": "When engaging inquiries about credit transfers, always prioritize clear confirmation of how existing qualifications apply to future studies. An effective follow-up could include: 'Absolutely, your previous credits will seamlessly transfer, solidifying your path towards completion. I'll also explain how these credits categorize into match units and electives, ensuring you know exactly what to expect.'"
+        },
+        {
+          "id": 2,
+          "title": "Supportive Financial Guidance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914877115",
+              "segment_id": "124",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation, the student articulated their interest in financial support by stating: 'Just HECS I believe although I probably should ask my workplace if they want to pay for some.' (call_596914877115, seg_124). This sentiment highlighted the student\u2019s willingness to explore funding options and underscored the need for clarity in financial guidance.",
+          "consultant_response": "The consultant responded positively, stating, 'It's great that you're considering seeking employer support; let's discuss how you can present this.' (call_596914877115, seg_125). This approach validated the student\u2019s concerns and opened an avenue for exploring different financial assistance strategies.",
+          "priority": "high",
+          "recommended_approach": "Initiating discussions about financial options begins with validating student inquiries and concerns. A response could start with: 'Exploring employer support is a wise choice; let's strategize how to broach this topic.' Providing insights into how to frame the conversation and managing expectations can ease financial concerns, ensuring the student feels supported."
+        },
+        {
+          "id": 3,
+          "title": "High-Impact Clarity on Support Resources",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597147696730",
+              "segment_id": "133",
+              "timestamp": "18:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student noted, 'The welcome call is totally optional but I usually recommend it as it's a good way for you to get to know them as they support you.' (call_597147696730, seg_133), illustrating a critical moment for reinforcing the supportive infrastructure available to them.",
+          "consultant_response": "In response, the consultant explained: 'They'll take you through the whole orientation process over the phone...' (call_597147696730, seg_133). This response effectively communicated the benefits and structured support offered through the welcome call.",
+          "priority": "high",
+          "recommended_approach": "To enhance engagement regarding available support resources, consultants should articulate the purpose and benefits clearly. A helpful response could be: 'I encourage you to take advantage of our welcome call; it highlights vital resources available to you.' Following this, checking for any prior thoughts or concerns allows for a more tailored conversation."
+        },
+        {
+          "id": 4,
+          "title": "Detailed Course Logistics Explanation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846065863",
+              "segment_id": "59",
+              "timestamp": "03:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In segment 59, the student asked, 'So what is the length of the course? How does it work? What timing? How much money?' This inquiry originated from a place of curiosity and hunger for specific logistical details essential for informed decision-making.",
+          "consultant_response": "The consultant effectively responded: 'Yeah, so it's a four-year full-time qualification done completely online. You'll have some placements to do with it as well...' (call_596846065863, seg_64). By systematically addressing each component of the inquiry in a clear and logical sequence, the consultant not only soothed the student's curiosity but also provided valuable information that significantly empowered the student's ability to manage their own expectations during the enrollment process.",
+          "priority": "high",
+          "recommended_approach": "During similar interactions where the student seeks clarity around course logistics, begin by acknowledging the importance of those details and respond with a structured breakdown. For example: 'It\u2019s important you understand how this fits into your life; let's go through each part together.' This validation encourages further engagement. After providing the information, ask follow-up questions, such as 'Does that clarify how it would work for you?' to ensure they leave with a solid understanding and reduced uncertainty."
+        },
+        {
+          "id": 5,
+          "title": "Need for Enhanced Clarity in Financial Discussions",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596845807538",
+              "segment_id": "72",
+              "timestamp": "x"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student mentioned: 'No, I was just going to do HECS...' (call_596845807538, seg_72) indicating a lack of clarity surrounding their financial commitments and implications.",
+          "consultant_response": "Unfortunately, the consultant did not provide the needed clarity, stating instead, 'Let's discuss what that means for you...' thus missing the opportunity to supply in-depth explanations.",
+          "priority": "high",
+          "recommended_approach": "Engaging students in meaningful discussions about their financial options begins with direct exploration of existing concerns. Ask specific questions to understand their familiarity with processes like HECS-HELP to guide them in comprehending their responsibilities."
+        },
+        {
+          "id": 6,
+          "title": "Missed Opportunities in Documentation Clarification",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158804650",
+              "segment_id": "15",
+              "timestamp": "01:16"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During this segment, the student expressed, 'It's just asking for proof of those prerequisites...' (call_597158804650, seg_15), signifying their need for specific guidance regarding documentation requirements.",
+          "consultant_response": "The consultant's reply, 'Okay, I'll pop you back through to the student advisor team...' (call_597158804650, seg_18), failed to clarify or address the specific questions surrounding documentation.",
+          "priority": "high",
+          "recommended_approach": "Consultants should ensure that they address sensitive queries regarding documentation comprehensively. By saying: 'I understand you\u2019re navigating the documentation; let me clarify what you need,' they can provide specificity and guide students through the essential steps."
+        },
+        {
+          "id": 7,
+          "title": "Improving Communication on Program Flexibility",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596846065863",
+              "segment_id": "48",
+              "timestamp": "03:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student raised a concern about managing study amidst personal commitments, stating: 'How do I juggle this with my job?' (call_596846065863, seg_48), indicating a need for flexibility assurance.",
+          "consultant_response": "The consultant confirmed: 'We offer flexible options if you have a job that takes up your time.' However, more concrete examples of how current students balance study with work were needed (call_596846065863, seg_49).",
+          "priority": "high",
+          "recommended_approach": "Incorporate real-life examples of students who successfully manage work and study commitments to alleviate concerns."
+        }
+      ]
+    }
+  }
+}

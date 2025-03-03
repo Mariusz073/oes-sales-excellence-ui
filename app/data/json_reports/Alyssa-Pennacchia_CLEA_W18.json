@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "consultant_name": "Alyssa Pennacchia",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 239,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 50,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 20.920502092050206,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 189,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 79.07949790794979,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.63096084930622,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 189,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 134.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.26,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.05,
+      "team_average_final_ranking_score_eligible_transcripts": 152.6,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.17
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 120.78,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 80.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 157.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.28,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 155.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.72,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 95.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.77,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 131.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.01,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 173.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.9,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 135.01,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.82,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 112.68,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.33,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 141.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.03,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Communication of Enrollment Timeline",
+        "explanation": "Consultants provided clear and logically organized information regarding enrollment dates, which directly influenced student confidence and decision-making."
+      },
+      {
+        "headline": "Clarity in Documentation Requirements",
+        "explanation": "Successful breakdown of complex documentation requirements provided students confidence and understanding, crucial for application preparedness."
+      },
+      {
+        "headline": "Proactive Support for Course Selection Confusion",
+        "explanation": "Consultants often provide critical guidance to clarify course options, enhancing student engagement and confidence."
+      },
+      {
+        "headline": "Engagement through Professional Relevance",
+        "explanation": "Strong connections are made between course content and student's professional goals, reinforcing the program's value."
+      },
+      {
+        "headline": "Clear Guidance on Next Steps",
+        "explanation": "Consultants efficiently guide students through procedural inquiries, minimizing confusion and fostering trust in support systems."
+      },
+      {
+        "headline": "Effective Summarization Techniques",
+        "explanation": "Regularly summarizing key points reinforces student understanding and retention of important information."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Addressing Financial Support Clarity",
+        "explanation": "Greater focus needed on providing clear financial support options, especially when students express concerns regarding existing debt."
+      },
+      {
+        "headline": "Enhancing Clarity on Course Benefits",
+        "explanation": "More detailed explanations of specific credit eligibility and practical implications of the course structure are needed."
+      },
+      {
+        "headline": "Deepening Insight into Student Hesitation",
+        "explanation": "Consultants missed opportunities to explore the underlying reasons for student hesitation, which could have helped address concerns and deepen engagement."
+      },
+      {
+        "headline": "Improving Communication on Course Progression",
+        "explanation": "Detailed explanations about how programs fit into students' long-term academic pathways could significantly influence their commitment to the course."
+      },
+      {
+        "headline": "Insufficient Check for Understanding During Discussions",
+        "explanation": "Missed opportunities to check for students' comprehension hindered effective communication and clarity."
+      },
+      {
+        "headline": "Need for Clearer Communication of Next Steps",
+        "explanation": "Failure to outline structured pathways left some students confused and disengaged, underscoring the importance of clarity in enrollment processes."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of Enrollment Timeline",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983221598",
+              "segment_id": "43",
+              "timestamp": "02:41"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'So when is the next enrollment? I mean, I understand that there is...' (call_596983221598, seg_43), highlighting the need for clear enrollment details.",
+          "consultant_response": "Consultant provided the enrollment date: 'May the 5th is the next start date.' (call_596983221598, seg_24), enhancing understanding.",
+          "context_impact": "Clear information about enrollment dates facilitates student organization and commitment.",
+          "recommended_approach": "Follow-up with potential next steps for enrollment to reinforce clarity."
+        },
+        {
+          "id": 2,
+          "title": "Clarity in Documentation Requirements",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914721168",
+              "segment_id": "54",
+              "timestamp": "03:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'What sort of documentation you know?' (call_596914721168, seg_54), revealing need for specific guidance.",
+          "consultant_response": "The consultant responded: 'We need your official transcript, your CV, and your passport...' (call_596914721168, seg_55), which effectively organized necessary information.",
+          "context_impact": "This moment was essential to ensure all documentation requirements were clear, preventing confusion during application.",
+          "recommended_approach": "Include further clarification on how students can prepare these documents to enhance readiness."
+        },
+        {
+          "id": 3,
+          "title": "Engagement through Professional Relevance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983142458",
+              "segment_id": "15",
+              "timestamp": "00:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I was just interested in my work that I do with learning design...' (call_596983142458, seg_15), indicating strong alignment with professional goals.",
+          "consultant_response": "Consultant said: 'We do have a lot of people like yourself in this course...' (call_596983142458, seg_30), solidifying the course's applicability.",
+          "context_impact": "This connection boosts perceived course relevance and enhances motivation for enrollment.",
+          "recommended_approach": "Incorporate specific examples of how the course directly benefits roles in learning design for greater impact."
+        },
+        {
+          "id": 4,
+          "title": "Addressing Financial Support Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061572516",
+              "segment_id": "31",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried: 'And is there someone that I can actually talk to, like a contact through the uni that I actually talk to about my actual fee help debt?' (call_597061572516, seg_31), highlighting financial concerns.",
+          "consultant_response": "The consultant inadequately directed the student to external resources, stating: 'That wouldn't be a conversation for the uni, that'd be a conversation on your end.' (call_597061572516, seg_34), which could leave the student feeling unsupported.",
+          "context_impact": "This inquiry reveals the need for clear understanding and support regarding existing financial obligations affecting enrollment decisions.",
+          "recommended_approach": "Ensure consultants provide specific university support options and the process through which students can clarify financial concerns."
+        },
+        {
+          "id": 5,
+          "title": "Clear Guidance on Next Steps",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983053700",
+              "segment_id": "10",
+              "timestamp": "00:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Was there anything in particular that I can help you with?' (call_596983053700, seg_10), revealing a need for specific assistance.",
+          "consultant_response": "The consultant stated: 'You might need to speak to the student advisor...' (call_596983053700, seg_13), providing a smooth transition.",
+          "context_impact": "Timely and clear guidance can significantly affect the student's confidence and next steps in the enrollment process.",
+          "recommended_approach": "Enhance clarity by outlining specific procedural details in addition to referral suggestions."
+        },
+        {
+          "id": 6,
+          "title": "Deepening Insight into Student Hesitation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908128114",
+              "segment_id": "6",
+              "timestamp": "00:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed uncertainty: 'I realised I think I may have chosen the wrong course anyway.' (call_596908128114, seg_6), indicating significant hesitation.",
+          "consultant_response": "The consultant's response lacked depth, failing to explore the student\u2019s sentiment and provide comprehensive options.",
+          "context_impact": "Recognizing the emotional context can shift the conversation towards supportive guidance for the student\u2019s future.",
+          "recommended_approach": "Consultants should actively listen and validate student feelings while encouraging a discussion about their interests and goals."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Communication of Enrollment Timeline",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983221598",
+              "segment_id": "43",
+              "timestamp": "02:41"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596983221598, the student expressed significant concern regarding their scheduling commitments: 'I've just been super busy this first part of the year and I didn't think I'd be this busy actually, so it might be more like June.' This highlighted a pressing need for clarity on how they could feasibly align study with their personal obligations.",
+          "consultant_response": "The consultant effectively clarified the academic timeline, stating, 'Yeah, you do a unit per six weeks. It's one unit for six weeks, then a two-week break, then another unit for six weeks.' This well-structured breakdown not only informed the student about the rhythm of their courses but also provided the assurance needed for them to envision incorporating study into their busy schedule.",
+          "priority": "high",
+          "recommended_approach": "When students voice concerns about balancing existing commitments with study plans, start by acknowledging their busy schedules: 'I completely understand how challenging that can be. We have flexible start dates and options.' Clearly outline how units can be sequenced to accommodate their schedules, stating, 'Our program has courses starting every two months, rendering it possible for you to plan accordingly.' Further, be proactive: check for understanding, inviting questions like 'Does this clarity help with your planning?' Making students feel empowered can greatly enhance their enrollment prospects."
+        },
+        {
+          "id": 2,
+          "title": "Clarity in Documentation Requirements",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914721168",
+              "segment_id": "54",
+              "timestamp": "03:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 596914721168, the student inquired with urgency: 'What sort of documentation you know?' indicating substantial need for clarity regarding application prerequisites.",
+          "consultant_response": "The consultant accommodated this need effectively by responding with a structured outline of documentation needs: 'We need your official transcript, your CV, and your passport.' This organizational approach helped alleviate confusion and directly contributed to the student's understanding.",
+          "priority": "high",
+          "recommended_approach": "When addressed with documentation queries, begin with clarity: 'Excellent question! It's crucial to have everything in order for your application.' Communicate the necessary documents step-by-step, ensuring you pause between each item to confirm understanding: 'Does that make sense so far?' This will foster an interactive flow that ensures comprehension while empowering students to feel ready and informed."
+        },
+        {
+          "id": 3,
+          "title": "Engagement through Professional Relevance",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983142458",
+              "segment_id": "15",
+              "timestamp": "00:55"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596983142458, the student expressed: 'I was just interested in my work that I do with learning design...' indicating strong alignment with professional goals.",
+          "consultant_response": "Consultant said: 'We do have a lot of people like yourself in this course...' This solidified the course's applicability, enhancing motivation.",
+          "priority": "high",
+          "recommended_approach": "Incorporate specific examples of how the course directly benefits roles in learning design for greater impact. When students share their professional backgrounds, consultants should build on this connection to frame the program's relevance through relatable contexts."
+        },
+        {
+          "id": 4,
+          "title": "Clear Guidance on Next Steps",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596983053700",
+              "segment_id": "10",
+              "timestamp": "00:26"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student asked: 'Was there anything in particular that I can help you with?' (call_596983053700, seg_10), showing need for specific assistance.",
+          "consultant_response": "The consultant stated: 'You might need to speak to the student advisor...' effectively facilitating a smooth transition.",
+          "priority": "high",
+          "recommended_approach": "Strengthening communication about procedural steps while affirming student inquiries enhances clarity and reinforces the relationship with the consultant."
+        },
+        {
+          "id": 5,
+          "title": "Addressing Financial Support Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597061572516",
+              "segment_id": "31",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student queried about potential contacts for financial aid: 'And is there someone that I can actually talk to...?' (call_597061572516, seg_31), highlighting financial concerns.",
+          "consultant_response": "The consultant inadequately directed the student to external resources, which could leave the student feeling unsupported.",
+          "priority": "high",
+          "recommended_approach": "Ensure consultants provide specific internal resources to clarify student financial obligations and suggest proactive pathways for engagement with financial advisors or university support teams."
+        },
+        {
+          "id": 6,
+          "title": "Deepening Insight into Student Hesitation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596908128114",
+              "segment_id": "6",
+              "timestamp": "00:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Asking for reassurance about their program fit, the student noted: 'I realised I think I may have chosen the wrong course anyway.' (call_596908128114, seg_6).",
+          "consultant_response": "Although the response attempted to redirect the student, it lacked depth in addressing their emotions.",
+          "priority": "high",
+          "recommended_approach": "Consultants should actively engage by validating the student\u2019s expressions of concern, encouraging a deeper discussion that clarifies enrollment options tailored to their uncertainties."
+        }
+      ]
+    }
+  }
+}

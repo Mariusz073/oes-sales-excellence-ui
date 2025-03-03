@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 18,
+    "date_range": "02-24_02-28",
+    "report_type": "Clear and Effective Communication"
+  },
+  "total_number_of_calls": 177,
+  "team_average_total_number_of_calls_per_sales_consultant": 158.1818181818182,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 53,
+    "team_average_absolute_number": 29.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.943502824858758,
+    "team_average_percentage": 12.06543043438548
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 124,
+    "team_average_absolute_number": 129.0909090909091
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.05649717514125,
+    "team_average_percentage": 51.57093320197816
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.15618887276222,
+    "team_average": 52.8184611261591
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 124,
+    "team_total_excluded_transcripts": 1420
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 98.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.01,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 137.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.21,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Effective Clarity on Enrollment Details",
+        "explanation": "Consultants demonstrated strong communication by ensuring students had a comprehensive understanding of eligibility requirements and next steps, enhancing enrollment transparency."
+      },
+      {
+        "headline": "Proactive Addressing of Course Relevance Concerns",
+        "explanation": "Successful illustration of course adaptability to evolving fields reassured skeptical students about program value, directly addressing their concerns."
+      },
+      {
+        "headline": "Effective Clarity on Financial Options",
+        "explanation": "Consultants successfully communicated available financial aid options, breaking down complex information into understandable terms for the student."
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Missed Opportunities for Detailed Explanations",
+        "explanation": "In several instances, consultants failed to provide comprehensive explanations of program structures, leaving students feeling uncertain."
+      },
+      {
+        "headline": "Connection to Career Goals",
+        "explanation": "Opportunities exist to better relate course details to individual students' career aspirations, enhancing engagement and relevance."
+      },
+      {
+        "headline": "Deepen Financial Aid Communication",
+        "explanation": "Consultants need to enhance their explanations of financial aid processes, ensuring clarity around terms like 'Fee-HELP' without leaving ambiguity."
+      },
+      {
+        "headline": "Encouraging Open Discussions",
+        "explanation": "Creating a space for students to discuss their unique backgrounds and needs further can boost clarity in educational pathways."
+      },
+      {
+        "headline": "Insufficient Verification of Student Understanding",
+        "explanation": "A lack of follow-up questions to confirm student comprehension and address lingering concerns was noted."
+      },
+      {
+        "headline": "Building Rapport from the Start",
+        "explanation": "Initial interactions should focus on building rapport to enhance student engagement and make them feel valued from the outset."
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Clarity on Enrollment Details",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761443371",
+              "segment_id": "45",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'You do need to have a degree to be eligible.' (call_596761443371, seg_45), highlighting potential barriers.",
+          "consultant_response": "Consultant clarified: 'So with this course, as a postgraduate degree, you do need to have a degree to be eligible...' (call_596761443371, seg_43), promoting a positive connection.",
+          "context_impact": "Addressing this immediately clarified eligibility, maintaining engagement.",
+          "recommended_approach": "Include alternate pathways in discussions to enhance engagement."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Addressing of Course Relevance Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914695597",
+              "segment_id": "23",
+              "timestamp": "01:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm skeptical about is that the course will become redundant in two years.' (call_596914695597, seg_23), seeking reassurance.",
+          "consultant_response": "Consultant responded: 'This course... gives you the tools to continue advancing within artificial intelligence...' (call_596914695597, seg_63), alleviating skepticism.",
+          "context_impact": "Addressing this concern reassured the student of the course's value.",
+          "recommended_approach": "Share specific examples detailing how courses remain relevant."
+        },
+        {
+          "id": 3,
+          "title": "Effective Clarity on Financial Options",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596907861997",
+              "segment_id": "26",
+              "timestamp": "01:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Is that fully funded by fee help if CP, Commonwealth doesn't do its fee.' (call_596907861997, seg_25), showing a strong need for clarity on financial obligations.",
+          "consultant_response": "Consultant replied: 'Yeah, so there wouldn't be any Commonwealth supported places for this course, but you will be able to use your fee help to cover all the fees.' (call_596907861997, seg_26), clarifying options effectively.",
+          "context_impact": "Providing clear details about Fee-HELP reduces confusion and increases trust in the institution's transparency.",
+          "recommended_approach": "Clarify what 'fee help' covers and the application process in simpler terms."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunities for Detailed Explanations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158688048",
+              "segment_id": "78",
+              "timestamp": "06:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'So the online option is the only option, and like a unit at a time, so, yeah, anyway.' (call_597158688048, seg_78), reflecting confusion.",
+          "consultant_response": "Consultant responded with reassurance but missed key structural explanations: 'I'm sure you'll be absolutely fine...' (call_597158688048, seg_79).",
+          "context_impact": "Lack of detailed flexibility information can deter a confident enrollment decision.",
+          "recommended_approach": "Include elaborations on how unit structuring can help balance responsibilities."
+        },
+        {
+          "id": 5,
+          "title": "Connection to Career Goals",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596982834712",
+              "segment_id": "44",
+              "timestamp": "01:37"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596982834712, the student inquired: 'How does this relate to my career goals?' indicating the need for relevance.",
+          "consultant_response": "Responses need to be tailored to align the program with the student's career goals.",
+          "context_impact": "Improving alignment between courses and student aspirations could foster further engagement.",
+          "recommended_approach": "Engage in conversations that draw direct connections between course content and the student's career goals."
+        },
+        {
+          "id": 6,
+          "title": "Deepen Financial Aid Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596907861997",
+              "segment_id": "26",
+              "timestamp": "01:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Students expressed confusion about financial terms during inquiry, indicating the importance of clear definitions related to funding.",
+          "consultant_response": "Consultants must detail what 'Fee-HELP' involves to improve understanding.",
+          "context_impact": "Clarifying financial terms is key to ensuring students are adequately informed.",
+          "recommended_approach": "Implement a comprehensive explanation that covers eligibility, application processes, and potential costs that might be incurred."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Clarity on Enrollment Details",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596761443371",
+              "segment_id": "45",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596761443371 (segment 45), the student asked: 'You do need to have a degree to be eligible.' This highlighted potential barriers to enrollment as the student lacked this qualification. Addressing this question correctly was vital for demonstrating that the institution values clear communication.",
+          "consultant_response": "The consultant effectively responded: 'So with this course, as a postgraduate degree, you do need to have a degree to be eligible.... If you come back in a few years, you'll then be able to apply.' This response aligned with the behavior pattern of Clear and Effective Communication, providing a concise explanation of eligibility requirements while highlighting future opportunities for engagement.",
+          "priority": "high",
+          "recommended_approach": "While the response demonstrated clarity, there is an opportunity to explore additional offerings which could further engage the student. When a student inquires about other programs, it can be beneficial to share alternate pathways. An effective response might begin with: 'I'd love to explore what other pathways might suit your current situation or how you can build towards your goals.' This foundational openness paves the way for a collaborative discussion, allowing for tailoring options that may better suit their aspirations."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Addressing of Course Relevance Concerns",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596914695597",
+              "segment_id": "23",
+              "timestamp": "01:32"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed skepticism regarding the course's relevance: 'I'm skeptical about is that the course will become redundant in two years.' This reflects an awareness of rapid changes in the AI landscape, creating a pivotal moment for reassurance about program relevance.",
+          "consultant_response": "The consultant responded: 'I suppose this course... gives you the tools to continue advancing within artificial intelligence. So as the technology advances... our students will have to be given the skills to grow with this.' This thoughtful explanation likely alleviated the student's skepticism, showcasing effective communication that addressed their expressed need for clarity on program relevance.",
+          "priority": "high",
+          "recommended_approach": "Acknowledging concerns about the course's future relevance can shape a productive conversation. Start with: 'I understand your concerns about the course becoming obsolete in a fast-moving industry.' Then delineate how the program evolves with current trends and emerging practices by stating: 'Our curriculum includes regular updates that reflect ongoing advancements in AI and equip you with essential skills for future developments.'"
+        },
+        {
+          "id": 3,
+          "title": "Effective Clarity on Financial Options",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596907861997",
+              "segment_id": "26",
+              "timestamp": "01:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596907861997 (segment 26), the student actively asked for clarity regarding their financial obligations: 'Is that fully funded by fee help if CP, Commonwealth doesn't do its fee.' This inquiry reflects a diplomatic approach to understanding financial aid options essential for informed enrollment.",
+          "consultant_response": "The consultant responded with: 'Yeah, so there wouldn't be any Commonwealth supported places for this course, but you will be able to use your fee help to cover all the fees.' This response effectively minimized potential confusion regarding the student\u2019s financial commitments.",
+          "priority": "high",
+          "recommended_approach": "Ensure that while addressing financial queries, consultants break down the explanation of Fee-HELP with specific references to eligibility, application process, and any repayment conditions. Responding with a straightforward acknowledgment of the financial aid options can enhance clarity: 'I see you\u2019re considering Fee-HELP; let me clarify how it works, including your eligibility and application steps.' This ensures your understanding of all financial obligations."
+        },
+        {
+          "id": 4,
+          "title": "Missed Opportunities for Detailed Explanations",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597158688048",
+              "segment_id": "78",
+              "timestamp": "06:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597158688048 (segment 78), the student mentioned: 'So the online option is the only option, and like a unit at a time, so, yeah, anyway.' This statement revealed apprehension about balancing study commitments.",
+          "consultant_response": "Unfortunately, the consultant's response, 'I'm sure you'll be absolutely fine...' fell short in depth, as it lacked elaborative details regarding program structures and potential accommodations to aid the student\u2019s workload management.",
+          "priority": "high",
+          "recommended_approach": "In situations where students express concern about managing multiple obligations, provide robust elaborations that clarify program flexibility and facilitate their commitments."
+        },
+        {
+          "id": 5,
+          "title": "Connection to Career Goals",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596982834712",
+              "segment_id": "44",
+              "timestamp": "01:37"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596982834712 (segment 44), the student inquired: 'How does this relate to my career goals?' This indicates the importance of addressing individual student ambitions.",
+          "consultant_response": "Responses need to be tailored to align the program with the student's career goals, providing personalized relevance.",
+          "priority": "high",
+          "recommended_approach": "Engage in conversations that draw direct connections between course content and the student's career aspirations, using specific examples to illustrate applications in their desired fields."
+        },
+        {
+          "id": 6,
+          "title": "Deepen Financial Aid Communication",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "596907861997",
+              "segment_id": "26",
+              "timestamp": "01:04"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 596907861997 (segment 26), students expressed confusion about financial terms during inquiry, indicating the importance of clear definitions related to funding.",
+          "consultant_response": "Consultants must detail what 'Fee-HELP' involves to improve understanding.",
+          "priority": "high",
+          "recommended_approach": "Implement a comprehensive explanation that covers eligibility, application processes, and potential costs that might be incurred. Students should leave conversations confident about their financial options."
+        }
+      ]
+    }
+  }
+}
