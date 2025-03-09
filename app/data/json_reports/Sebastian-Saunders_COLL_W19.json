@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "consultant_name": "Sebastian Saunders",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 157,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 68,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 43.31210191082803,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 89,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 56.68789808917197,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 57.04164594562302,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 89,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 124.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.68,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 131.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 166.1,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.95,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 139.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.31,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.41,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 215.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.92,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 138.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.05,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 137.35,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.47,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 204.43,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.3,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and specific solutions"
+      },
+      {
+        "headline": "Documentation Process Management",
+        "explanation": "Effective guidance through documentation requirements while providing clear alternatives and maintaining engagement through complex processes"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements specifically align with professional goals and workplace advancement opportunities"
+      },
+      {
+        "headline": "Prior Learning Recognition",
+        "explanation": "Deeper exploration needed of how previous qualifications and experience can be leveraged for specific credit recognition pathways"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "More comprehensive introduction needed of available support services with specific examples tailored to individual student circumstances"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Program Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437722814",
+              "segment_id": "15",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want to be a primary school teacher and so I need to do a Bachelor of Education like the primary one and I was just wondering if you guys offer that at all, like fully online?' (call_597437722814, seg_15), showing clear career direction requiring program confirmation.",
+          "consultant_response": "Consultant confirmed: 'Yes we do, we do offer our Bachelor of Education fully online, yeah... we've got three options. We've got either primary, early childhood or an early childhood anti-course.' (call_597437722814, seg_18), effectively validating program fit while introducing relevant pathways.",
+          "context_impact": "Immediate validation of program alignment with career goals was crucial for maintaining enrollment momentum.",
+          "recommended_approach": "Explore specific program features that align with teaching career aspirations and demonstrate real-world classroom preparation through online study."
+        },
+        {
+          "id": 2,
+          "title": "Documentation Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358302554",
+              "segment_id": "24",
+              "timestamp": "02:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I want to transfer so I'm just waiting for my transcript for me to take further, unless I am able to try to apply without having the transcript.' (call_597358302554, seg_24), revealing urgency to proceed despite documentation constraints.",
+          "consultant_response": "Consultant provided clear direction: 'We will need your transcript so did you say you'd done some units somewhere else.' (call_597358302554, seg_28), establishing requirements while exploring previous study.",
+          "context_impact": "Clear guidance on documentation requirements while maintaining enrollment progress was essential.",
+          "recommended_approach": "Outline specific timeline options and provide interim steps to maintain momentum while awaiting documentation."
+        },
+        {
+          "id": 3,
+          "title": "Prior Learning Recognition",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437722814",
+              "segment_id": "35",
+              "timestamp": "03:49"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'I've just done a Diploma of Community Services. Is there any way I can look online to see if any of them credits align at all?' (call_597437722814, seg_35), demonstrating proactive interest in credit pathways.",
+          "consultant_response": "Consultant stated: 'If you then just email me a copy of your diploma I can confirm your eligibility first of all and let you know if there's any recognition of prior learning.' (call_597437722814, seg_39)",
+          "context_impact": "Opportunity to validate prior learning value and create clear pathway for credit recognition.",
+          "recommended_approach": "Explore specific subject alignments and demonstrate typical credit pathways while maintaining realistic expectations."
+        },
+        {
+          "id": 4,
+          "title": "Enrollment Timeline Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525366101",
+              "segment_id": "9",
+              "timestamp": "01:11"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'You wanted to discuss enrolling into our July intake is that right?' (call_597525366101, seg_9), demonstrating readiness to plan enrollment timing.",
+          "consultant_response": "Consultant effectively recapped: 'All right, wonderful. So, obviously, just recapping from what we've gone through previously, we need your resume showing your work experience to meet those requirements.' (call_597525366101, seg_12)",
+          "context_impact": "Clear timeline confirmation was crucial for maintaining enrollment momentum and planning next steps.",
+          "recommended_approach": "Create comprehensive timeline with specific milestones and preparation steps for July intake while maintaining flexibility."
+        },
+        {
+          "id": 5,
+          "title": "Course Readiness Verification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524787324",
+              "segment_id": "13",
+              "timestamp": "01:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I just want to follow up on it because you know I start Monday and all that is so just yeah haven't missed something?' (call_597524787324, seg_13), showing pre-course anxiety.",
+          "consultant_response": "Consultant reassured: 'All right, so it looks like everything's fine on your end. It's just waiting on an admin.' (call_597524787324, seg_15), providing clear status update.",
+          "context_impact": "Addressing readiness concerns was essential for maintaining student confidence before course start.",
+          "recommended_approach": "Provide comprehensive readiness checklist with specific support resources and timeline for system access."
+        },
+        {
+          "id": 6,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525366101",
+              "segment_id": "31",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Consultant asked: 'All right good Emma, was there anything else that you wanted to go through while we had each other on the phone?' (call_597525366101, seg_31), creating opportunity for deeper career discussion.",
+          "consultant_response": "Limited to: 'Yeah, just following on that.' (call_597525366101, seg_32), missing chance for meaningful career exploration.",
+          "context_impact": "Opportunity to explore career goals and align program features with professional aspirations.",
+          "recommended_approach": "Expand discussion to explore specific career goals and demonstrate how program elements support professional development milestones."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Program Validation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437722814",
+              "segment_id": "15",
+              "timestamp": "01:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 1:10 into call 597437722814, the student articulated their career goal: 'I want to be a primary school teacher and so I need to do a Bachelor of Education like the primary one and I was just wondering if you guys offer that at all, like fully online?' This moment combined career aspiration with specific program requirements, creating a crucial opportunity to validate program alignment while addressing online delivery needs. The student's direct inquiry showed readiness for detailed program exploration.",
+          "consultant_response": "The consultant responded effectively: 'Yes we do, we do offer our Bachelor of Education fully online, yeah... we've got three options. We've got either primary, early childhood or an early childhood anti-course.' This response successfully validated program availability while introducing relevant pathway options. The consultant maintained strong alignment with the student's needs by confirming both the specific program and its online delivery mode, building confidence in the institution's ability to support their teaching aspirations.",
+          "priority": "high",
+          "recommended_approach": "When students express specific career goals combined with program requirements, consultants should validate their aspirations while creating clear educational pathways. Start with enthusiastic confirmation: 'That's excellent that you're pursuing primary teaching! Yes, our Bachelor of Education is fully online and specifically designed for future teachers.' Then deepen engagement by exploring their teaching passion: 'What aspects of primary education particularly interest you? This helps us highlight relevant program features.' Show how program elements support career goals: 'Our online platform includes virtual classroom simulations and teaching practicums that prepare you for real classroom environments.' Always connect program flexibility to their needs: 'Many of our teaching students balance study with work or family commitments. Our online delivery lets you access materials anytime, with interactive sessions scheduled to accommodate different schedules.' This approach validates both their career choice and practical needs while demonstrating how the program supports their journey to becoming a teacher."
+        },
+        {
+          "id": 2,
+          "title": "Documentation Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358302554",
+              "segment_id": "24",
+              "timestamp": "02:12"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597358302554 at 2:12, the student expressed documentation concerns: 'I want to transfer so I'm just waiting for my transcript for me to take further, unless I am able to try to apply without having the transcript or providing the transcript later.' This revealed both eagerness to proceed and uncertainty about documentation flexibility, creating an opportunity to provide clear guidance while maintaining momentum.",
+          "consultant_response": "The consultant provided clear requirements: 'We will need your transcript so did you say you'd done some units somewhere else.' This maintained process integrity by confirming the transcript requirement, though could have better explored interim steps and submission timing options to keep enrollment momentum while awaiting documentation.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation requirements, consultants must balance process integrity with practical flexibility. Begin with validation: 'I understand you're eager to move forward, and we'll ensure the transcript requirement doesn't delay your progress unnecessarily.' Then outline specific options: 'While we do need your transcript for final credit assessment, we can begin your application process now. Let's work on elements we can complete while waiting for the document.' Create a clear timeline: 'When do you expect to receive your transcript? We can plan other application steps around this timeline.' Show proactive support: 'I can guide you through starting your online application today, and we'll have a clear plan for submitting your transcript when it arrives.' Always maintain momentum: 'Many transfer students face similar documentation timing challenges, and we have established processes to help you progress efficiently.' This approach keeps the enrollment process moving while ensuring all requirements are properly met."
+        },
+        {
+          "id": 3,
+          "title": "Prior Learning Recognition",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437722814",
+              "segment_id": "35",
+              "timestamp": "03:49"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 3:49 in call 597437722814, the student inquired about credit recognition: 'I've just done a Diploma of Community Services. Is there any way I can look online to see if any of them credits align at all, like any of the units are the same?' This showed proactive interest in leveraging prior learning and understanding potential pathways forward.",
+          "consultant_response": "The consultant provided basic process guidance: 'If you then just email me a copy of your diploma I can confirm your eligibility first of all and let you know if there's any recognition of prior learning.' While this outlined next steps, it missed the opportunity to explore potential credit alignments and validate the value of their prior learning.",
+          "priority": "high",
+          "recommended_approach": "When discussing credit transfer possibilities, consultants should validate prior learning while creating clear pathways forward. Start with strong acknowledgment: 'Your Diploma in Community Services is valuable, and we often see strong credit alignment with similar qualifications.' Then explore specific subjects: 'Could you share some key units you've completed? This helps us identify potential credit opportunities while waiting for formal assessment.' Provide general guidance: 'Students with Community Services backgrounds typically receive credit for communication and professional practice units, potentially reducing your study load.' Create clear next steps: 'Let's submit your transcript for formal assessment while exploring how your experience enriches your study pathway. Many students find their prior learning enhances their academic journey.' Always maintain realistic expectations: 'While exact credit amounts need formal assessment, understanding your background helps us plan your optimal study path.' This approach validates their experience while building confidence in the credit recognition process."
+        },
+        {
+          "id": 4,
+          "title": "Enrollment Timeline Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525366101",
+              "segment_id": "9",
+              "timestamp": "01:11"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 1:11 in call 597525366101, the student initiated timeline discussion: 'You wanted to discuss enrolling into our July intake is that right?' This showed readiness to engage in specific enrollment planning and timeline confirmation, creating an opportunity for detailed preparation guidance.",
+          "consultant_response": "The consultant effectively built momentum: 'All right, wonderful. So, obviously, just recapping from what we've gone through previously, we need your resume showing your work experience to meet those requirements.' This response maintained continuity while providing clear next steps, though could have outlined a more comprehensive timeline.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in specific intake dates, consultants should create comprehensive yet achievable enrollment timelines. Begin with enthusiasm: 'Yes, the July intake is perfect timing, and I'm here to ensure you're fully prepared.' Then create a structured plan: 'For July entry, let's map out key milestones. We'll aim to complete your application by [specific date] to allow proper processing time.' Break down requirements: 'We'll need your resume showing relevant experience - when do you think you could have this ready? This helps us plan other steps around your schedule.' Address potential concerns: 'Many students balance application preparation with other commitments, so we can adjust this timeline to work for you.' Always maintain momentum: 'Each step we complete brings you closer to your July start. Shall we begin working on [next specific task] now?' This approach creates clear direction while remaining flexible to student needs."
+        },
+        {
+          "id": 5,
+          "title": "Course Readiness Verification",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524787324",
+              "segment_id": "13",
+              "timestamp": "01:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 1:35 in call 597524787324, the student expressed pre-course anxiety: 'I just want to follow up on it because you know I start Monday and all that is so just yeah haven't missed something?' This revealed both excitement and apprehension about course commencement, creating an opportunity for comprehensive readiness support.",
+          "consultant_response": "The consultant provided verification: 'All right, so it looks like everything's fine on your end. It's just waiting on an admin and that you had a couple potential duplicate IDs, so they were just consolidating those student ID numbers to set up your account.' This effectively addressed immediate concerns while explaining administrative processes.",
+          "priority": "high",
+          "recommended_approach": "When addressing pre-course concerns, consultants should combine immediate reassurance with comprehensive preparation guidance. Start with validation: 'It's great that you're checking in before Monday - this shows excellent preparation.' Then conduct thorough verification: 'Let's go through your readiness checklist together. I can confirm your enrollment is processed and systems access is being finalized.' Provide specific timing: 'You'll receive your login details by [specific time], giving you plenty of time to access materials before Monday.' Outline support resources: 'Our orientation materials will be available immediately upon login, and our support team is ready to help with any questions. They're available [specific hours] through [specific channels].' Create confidence: 'Many students feel similar pre-start butterflies, but you're clearly well-prepared and will have full support as you begin.' This approach ensures students feel fully equipped for their academic journey."
+        },
+        {
+          "id": 6,
+          "title": "Career Goal Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525366101",
+              "segment_id": "31",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At 3:15 in call 597525366101, an opportunity arose when the consultant asked: 'All right good Emma, was there anything else that you wanted to go through while we had each other on the phone?' This presented a perfect moment to explore career goals and ensure program alignment with professional aspirations.",
+          "consultant_response": "The interaction concluded with a simple: 'Yeah, just following on that,' missing the opportunity to engage in meaningful discussion about career objectives and how the program supports professional development. This limited response failed to explore the broader context of the student's career journey.",
+          "priority": "high",
+          "recommended_approach": "When opportunities arise to discuss career goals, consultants should engage while maintaining appropriate boundaries. Start with open exploration: 'Before we finish, I'd love to understand more about your career aspirations and how this program fits into your professional development.' Guide the discussion productively: 'What aspects of your future career most excite you? Understanding this helps ensure you're aware of relevant program features.' Connect goals to program elements: 'Your interest in [specific area] aligns well with our [relevant course component]. Many graduates have found this particularly valuable for [career outcome].' Provide relevant examples: 'Students in similar roles often benefit from our [specific feature] when pursuing [career goal]. Would you like to hear more about how this works?' Remember to maintain focus: 'While detailed career planning comes later with our career services team, understanding your goals helps us ensure you're on the right path.' This approach builds confidence in program choice while staying within appropriate consultation boundaries."
+        }
+      ]
+    }
+  }
+}

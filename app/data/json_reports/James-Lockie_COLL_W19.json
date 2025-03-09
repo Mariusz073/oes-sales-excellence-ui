@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "consultant_name": "James Lockie",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 307,
+  "team_average_total_number_of_calls_per_sales_consultant": 195.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 44,
+    "team_average_absolute_number": 32.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 14.332247557003258,
+    "team_average_percentage": 14.688682653193398
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 263,
+    "team_average_absolute_number": 163.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 85.66775244299674,
+    "team_average_percentage": 67.12949916498842
+  },
+  "average_talking_percentage": {
+    "individual_average": 56.91672668842163,
+    "team_average": 53.24963397129906
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 263,
+    "team_total_excluded_transcripts": 1797
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.95,
+      "team_average_final_ranking_score_eligible_transcripts": 159.84,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 110.46
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": null,
+      "team_average_final_ranking_score_eligible_transcripts": null,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": null
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 14.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 50.78,
+      "team_average_final_ranking_score_eligible_transcripts": 149.83,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 96.3
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.23,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 115.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 93.75,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 85.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.48,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 201.19,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.63,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 42.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 57.8,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 114.26,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 88.11,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 118.36,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 67.84,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 88.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.87,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 125.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.8,
+      "team_average_final_ranking_score_eligible_transcripts": 172.12,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 114.89
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Career Navigation",
+        "explanation": "Consultants effectively demonstrate how programs facilitate career transitions through structured pathways while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and professional commitments through practical examples and solutions"
+      },
+      {
+        "headline": "Clear Process Guidance",
+        "explanation": "Effective navigation of enrollment processes with transparent steps and collaborative planning while maintaining engagement momentum"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how specific program elements align with workplace challenges and support career progression goals"
+      },
+      {
+        "headline": "Study Management Strategy",
+        "explanation": "More comprehensive exploration required of workload management approaches and available support mechanisms when addressing student concerns"
+      },
+      {
+        "headline": "Technical Support Enhancement",
+        "explanation": "Clearer demonstration needed of comprehensive technical support resources and proactive online learning guidance"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231378300",
+              "segment_id": "19",
+              "timestamp": "02:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I was wanting to do some type of qualification to just get like a basis, like a foundational understanding of marketing and like possibly pivot my career into a marketing career' (call_597231378300, seg_19), revealing need for structured career transition guidance.",
+          "consultant_response": "Consultant effectively explained: 'This is definitely a good way to see where that can take you, particularly as it is only seven months. It's only four units, so it's not like you're committing to a two-year master's' (call_597231378300, seg_63), showing program's role as career exploration pathway.",
+          "context_impact": "Critical moment requiring clear demonstration of how program supports career pivots while maintaining flexibility.",
+          "recommended_approach": "Include more specific examples of how course content and practical assignments directly support career transition goals."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307999400",
+              "segment_id": "8",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I don't know if I can do it, but that's why I was emailing you' (call_597307999400, seg_8), showing significant concern about managing study commitments.",
+          "consultant_response": "Consultant replied: 'But I think I can't apply it yet because it requires...' (call_597307999400, seg_12), missing opportunity to explore flexible study options and support resources.",
+          "context_impact": "Key opportunity to demonstrate how program flexibility and support systems enable successful study integration.",
+          "recommended_approach": "Provide specific examples of successful study management strategies and comprehensive support resources available to working students."
+        },
+        {
+          "id": 3,
+          "title": "Technical Platform Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609442117",
+              "segment_id": "11",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I had a little bit of trouble with the online experience just before' (call_621609442117, seg_11), indicating critical need for technical platform guidance.",
+          "consultant_response": "Consultant gave generic reply: 'Sure, absolutely okay I can do that for you is' (call_621609442117, seg_15), missing opportunity to demonstrate comprehensive support resources.",
+          "context_impact": "Essential moment to address technical concerns impacting enrollment confidence and online study readiness.",
+          "recommended_approach": "Proactively explore specific technical challenges and showcase available support systems including 24/7 help desk and orientation resources."
+        },
+        {
+          "id": 4,
+          "title": "Multi-Course Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437627547",
+              "segment_id": "11",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'So but at the moment I do halfway through another course which is Advanced Diploma in community management' (call_597437627547, seg_11), expressing interest in concurrent study.",
+          "consultant_response": "Consultant replied: 'I don't think so' (call_597437627547, seg_18), missing opportunity to explore viable study management strategies.",
+          "context_impact": "Required careful exploration of student's capacity to manage multiple courses while maintaining academic success.",
+          "recommended_approach": "Provide detailed guidance on managing multiple courses effectively, including specific time management strategies and available support mechanisms."
+        },
+        {
+          "id": 5,
+          "title": "Enrollment Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539808994",
+              "segment_id": "34",
+              "timestamp": "02:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student inquired: 'I just wanted to know how it works' (call_621539808994, seg_34), seeking clarity on enrollment steps.",
+          "consultant_response": "Consultant provided clear guidance: 'It'll take about five minutes essentially. I do it for you over the phone. So what we do is we just confirm your details...' (call_621539808994, seg_35), effectively outlining steps.",
+          "context_impact": "Essential moment to build confidence through clear process explanation while maintaining enrollment momentum.",
+          "recommended_approach": "Enhance collaborative nature of process by involving student more actively in planning enrollment steps and explaining key documentation requirements."
+        },
+        {
+          "id": 6,
+          "title": "Career Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608603530",
+              "segment_id": "215",
+              "timestamp": "10:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I work with kids, I also, I, like, develop training programs for my staff, I work with Allied Health' (call_621608603530, seg_215), highlighting significant professional experience.",
+          "consultant_response": "Consultant acknowledged: 'Sounds like you're driven and ambitious, which is good' (call_621608603530, seg_219), but missed connecting experience to specific program benefits.",
+          "context_impact": "Crucial opportunity to demonstrate how program enhances existing professional skills and supports career advancement.",
+          "recommended_approach": "Explicitly connect course components to student's current professional responsibilities and demonstrate pathways for skill enhancement."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Career Transition Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231378300",
+              "segment_id": "19",
+              "timestamp": "02:03"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student articulated a clear desire for career transition, stating: 'I was wanting to do some type of qualification to just get like a basis, like a foundational understanding of marketing and like possibly pivot my career into a marketing career' (call_597231378300, seg_19). This expression revealed both immediate educational needs and longer-term career aspirations, presenting a crucial opportunity to demonstrate how the program could facilitate this transition while maintaining flexibility.",
+          "consultant_response": "The consultant effectively addressed both the immediate educational need and career transition aspects by explaining: 'Yeah, alright, so this is definitely a good way to see where that can take you, particularly as it is only seven months. It's only four units, so it's not like you're committing to a two-year master's' (call_597231378300, seg_63). This response successfully positioned the graduate certificate as a manageable stepping stone toward career transition, emphasizing its role as both a foundational qualification and a way to explore the field without excessive commitment. By highlighting the program's shorter duration and flexible structure, the consultant effectively demonstrated how it could serve as a practical pathway for career exploration.",
+          "priority": "high",
+          "recommended_approach": "When addressing career transition inquiries, begin by validating the student's aspirations while maintaining appropriate boundaries between sales and career counseling. Start with acknowledging their goals: 'Your interest in building marketing foundations shows great insight into career development. Could you share what aspects of marketing particularly interest you?' This opens a dialogue about specific career goals while gathering valuable context. Then, draw direct connections between program elements and career development: 'Our marketing fundamentals unit specifically builds the foundational knowledge you're seeking, while our practical assignments let you explore real-world applications.' When discussing program structure, emphasize both flexibility and progression options: 'The certificate's structure allows you to gain essential marketing knowledge while testing your interest in the field, and it can later credit toward a master's if you decide to continue.' Share specific examples from similar students: 'We had a health professional who, like you, started with social media management and used our certificate to successfully transition into a marketing role.' Throughout the conversation, maintain balance between encouraging exploration and setting realistic expectations about the career transition process. Remember to focus on how the program provides a foundation for career development rather than making specific job placement promises."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307999400",
+              "segment_id": "8",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in the conversation, the student expressed significant concern about managing commitments: 'I don't know if I can do it, but that's why I was emailing you' (call_597307999400, seg_8). This statement revealed underlying anxiety about balancing work and study responsibilities, presenting a crucial opportunity to address these concerns through collaborative planning. The student's openness about their uncertainty created an ideal moment to explore flexible study options and support mechanisms.",
+          "consultant_response": "The consultant's response fell short of addressing these concerns, stating: 'But I think I can't apply it yet because it requires...' (call_597307999400, seg_12). This reply missed the opportunity to explore flexible study options and support mechanisms, instead focusing on procedural details. By not addressing the student's core concern about managing their commitments, the consultant failed to demonstrate how the program could accommodate their work schedule and other responsibilities.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by validating the student's thoughtful consideration of their commitments. Start with an empathetic acknowledgment: 'Balancing work and study is a common concern, and it's great that you're thinking about this carefully.' Then, guide the conversation toward exploring specific aspects of their work schedule: 'Could you tell me more about your typical work week? This will help us explore how our flexible study options could fit your schedule.' Share concrete examples of how current working students manage their studies: 'Many of our students with full-time jobs find success by dedicating 2-3 evening hours to study and using weekends for assignments. Our online platform allows you to download materials in advance, so you can study offline when convenient.' Focus on specific program features that support working students, such as asynchronous learning, flexible deadlines, and online resources. Always conclude these discussions by highlighting available support services: 'Remember, our student success team is available seven days a week to help you develop effective study strategies once enrolled.' The key is transforming their scheduling concerns into practical planning opportunities while demonstrating comprehensive support throughout their study journey."
+        },
+        {
+          "id": 3,
+          "title": "Technical Platform Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609442117",
+              "segment_id": "11",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about technical difficulties, stating: 'I had a little bit of trouble with the online experience just before' (call_621609442117, seg_11). This comment revealed anxiety about platform usability and highlighted a critical need to address technical support capabilities. The timing and context suggested this could significantly impact the student's confidence in pursuing online education.",
+          "consultant_response": "The consultant's response was notably inadequate, offering only a generic: 'Sure, absolutely okay I can do that for you is' (call_621609442117, seg_15). This missed the opportunity to explore specific technical challenges, provide reassurance about available support, or demonstrate how similar issues are successfully resolved. The lack of engagement with the technical concern potentially left the student uncertain about their ability to succeed in an online learning environment.",
+          "priority": "high",
+          "recommended_approach": "When students express technical concerns, transform this potential barrier into a confidence-building opportunity. Start by validating their experience: 'I understand technical issues can be frustrating. Can you tell me more about what specific difficulties you encountered?' This opens a dialogue while showing commitment to resolution. Follow with concrete support examples: 'We have dedicated technical support available 24/7, and many students find our orientation module particularly helpful for navigating the platform.' Share specific solutions: 'For instance, if you're having trouble with video playback, our tech team can help optimize your settings, or if accessing materials is challenging, we can walk you through our offline download options.' For particularly concerned students, offer immediate demonstration: 'Would you like me to show you how our platform works? I can walk you through the main features students use most often.' Throughout the conversation, emphasize the comprehensive support available: 'From our IT helpdesk to our online learning coaches, you'll have multiple support channels to ensure a smooth study experience.' Remember to adapt the depth of technical discussion based on the student's comfort level and specific concerns."
+        },
+        {
+          "id": 4,
+          "title": "Multi-Course Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437627547",
+              "segment_id": "11",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student disclosed their current academic commitments: 'So but at the moment I do halfway through another course which is Advanced Diploma in community management and I don't mind to start it with a new course' (call_597437627547, seg_11). This statement revealed both the student's current study load and their interest in concurrent study, requiring careful consideration of their capacity to manage multiple educational commitments.",
+          "consultant_response": "The consultant provided a dismissive response: 'I don't think so' (call_597437627547, seg_18), missing a valuable opportunity to explore the feasibility of managing multiple courses and developing strategies for success. This response failed to address the student's willingness to take on additional study or explore ways to effectively manage the workload.",
+          "priority": "high",
+          "recommended_approach": "When discussing multiple course management, begin by acknowledging the student's ambition while ensuring realistic expectations. Start with understanding their current study load: 'Could you tell me about your experience managing your current diploma? This will help us assess how to best integrate additional studies.' Then explore specific time management strategies: 'Many students successfully manage multiple courses by creating detailed study schedules and utilizing our flexible submission options.' Share practical examples: 'For instance, some students focus on one course's assignments during certain weeks while maintaining regular reading in both programs.' Address potential challenges proactively: 'Let's look at the assessment schedules for both programs to identify any busy periods and plan accordingly.' Finally, highlight available support: 'Our student success team can help you develop effective study strategies and time management plans once enrolled.' The goal is to help students make informed decisions about their study load while providing practical strategies for success."
+        },
+        {
+          "id": 5,
+          "title": "Enrollment Process Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539808994",
+              "segment_id": "34",
+              "timestamp": "02:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed the need for process clarity by stating: 'I just wanted to know how it works' (call_621539808994, seg_34). This request indicated both readiness to proceed and a need for clear guidance on next steps, making it a crucial moment for building confidence in the enrollment journey.",
+          "consultant_response": "The consultant provided clear, step-by-step guidance: 'It'll take about five minutes essentially. I do it for you over the phone. So what we do is we just confirm your details and then while we're on the phone I'm also going to send you an email which is student declaration form which you just need to press accept on to confirm the spot in the course' (call_621539808994, seg_35). This response effectively broke down the process into manageable steps while maintaining a supportive tone that encouraged progression.",
+          "priority": "high",
+          "recommended_approach": "Transform enrollment guidance from a procedural explanation into a collaborative journey. Begin by acknowledging their need for clarity: 'I'm happy to walk you through the enrollment process. Would you like me to explain each step as we go?' This establishes a partnership approach. Guide them through the journey while checking for understanding: 'First, we'll confirm your details - is there anything specific you'd like to verify?' When explaining documentation, make it interactive: 'You'll receive a declaration form - would you prefer me to explain its key points now?' For hesitant students, offer reassurance through examples: 'Many students complete this process in just a few minutes, and I'm here to help with any questions.' Adapt the pace and detail based on student responses: 'Let me know if you'd like more information about any part of the process.' Remember to maintain momentum while ensuring the student feels in control: 'Shall we proceed with confirming your details now?' This approach ensures students feel supported and confident throughout the enrollment process."
+        },
+        {
+          "id": 6,
+          "title": "Career Experience Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608603530",
+              "segment_id": "215",
+              "timestamp": "10:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 621608603530 (segment 215), the student shared significant professional experience: 'I work with kids, I also, I, like, develop training programs for my staff, I work with Allied Health.' This disclosure presented a prime opportunity to demonstrate how the program could enhance and build upon their existing professional skills. The student's diverse experience in education, training, and healthcare management offered multiple connection points for program relevance.",
+          "consultant_response": "The consultant's response acknowledged the student's drive but missed deeper connections: 'Sounds like you're driven and ambitious, which is good.' While this response offered general encouragement, it failed to explicitly connect the student's rich professional experience with specific program benefits or demonstrate how the coursework could enhance their existing skills and career trajectory.",
+          "priority": "high",
+          "recommended_approach": "When students reveal significant professional experience, use this information to create meaningful connections with the program's offerings. Start by acknowledging their expertise: 'Your experience in developing training programs and managing healthcare services provides an excellent foundation for this course.' Then, draw specific connections between their current role and program components: 'Our units on instructional design and organizational development would directly enhance your training program development skills, while the leadership modules could support your team management responsibilities.' Encourage them to envision applying course concepts in their workplace: 'How do you think advanced project management techniques could benefit your current training initiatives?' When discussing course selection, reference their experience: 'Given your background in Allied Health, you might find our healthcare management electives particularly valuable.' Throughout the discussion, maintain focus on how the program can enhance their existing skills while opening new career opportunities, using their current role as a reference point for future growth."
+        }
+      ]
+    }
+  }
+}

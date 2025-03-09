@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Bosman",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 253,
+  "team_average_total_number_of_calls_per_sales_consultant": 195.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 32,
+    "team_average_absolute_number": 32.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 12.648221343873518,
+    "team_average_percentage": 14.688682653193398
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 221,
+    "team_average_absolute_number": 163.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 87.35177865612648,
+    "team_average_percentage": 67.12949916498842
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.83807572864393,
+    "team_average": 53.24963397129906
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 221,
+    "team_total_excluded_transcripts": 1797
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 102.31,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 118.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.65,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 117.24,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 117.25,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 132.35,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.1,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 155.52,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.07,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 141.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.59,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 160.04,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.65,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 125.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.66,
+      "team_average_final_ranking_score_eligible_transcripts": 172.12,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 114.89
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through clear progression guidance"
+      },
+      {
+        "headline": "Work-Life Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through collaborative solution development and practical examples"
+      },
+      {
+        "headline": "Career Development Alignment",
+        "explanation": "Effective exploration of how educational pathways support specific career advancement goals through personalized discussion of professional aspirations while maintaining appropriate boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "Enhanced exploration needed of funding options and planning strategies to address student concerns about program costs and boost enrollment confidence"
+      },
+      {
+        "headline": "Documentation Process Management",
+        "explanation": "More comprehensive guidance required through documentation requirements with clearer alternative pathways and proactive support mechanisms"
+      },
+      {
+        "headline": "Educational Transition Support",
+        "explanation": "Need for more comprehensive guidance during educational transitions to ensure students feel supported through each progression stage"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438181343",
+              "segment_id": "11",
+              "timestamp": "1:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597445346911",
+                "segment_id": "29",
+                "timestamp": "29:56"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm kind of keen on just learning a bit on data analytics, I'm just scoping pathways' (call_597438181343, seg_11), revealing need for program guidance aligned with interests.",
+          "consultant_response": "Consultant replied: 'The analytics is quite technology heavy... but we also have something in the middle, which is managerial analytics' (call_597438181343, seg_22), effectively exploring alternative pathways.",
+          "context_impact": "Critical moment to demonstrate understanding while presenting clear educational pathways aligned with student's goals.",
+          "recommended_approach": "Include more specific examples of successful transitions between different program levels and specializations."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307966307",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231085631",
+                "segment_id": "22",
+                "timestamp": "02:34"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I want to advance my career but I'm worried about balancing study with my current role' (call_597307966307, seg_23), revealing need for practical study solutions.",
+          "consultant_response": "Consultant engaged collaboratively: 'Let's explore some of the flexible study options that could fit around your current role. Could you tell me more about what your typical workweek looks like?' (call_597307966307, seg_24)",
+          "context_impact": "Critical moment requiring demonstration of program flexibility and support to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful work-study integration strategies from current students in similar roles."
+        },
+        {
+          "id": 3,
+          "title": "Career Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597308488615",
+              "segment_id": "25",
+              "timestamp": "02:13"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597308488615",
+                "segment_id": "26",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'And what is the career pathways after the advanced diploma?' (call_597308488615, seg_25), showing active interest in post-graduation opportunities.",
+          "consultant_response": "Consultant explained: 'The graduate's diploma in psychology qualifies you for a lot of non-clinical roles in mental health, as well as HR, marketing, research...' (call_597308488615, seg_26)",
+          "context_impact": "Crucial moment for demonstrating program value by aligning educational outcomes with professional aspirations.",
+          "recommended_approach": "Include more specific examples of alumni career transitions and success stories."
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438546036",
+              "segment_id": "12",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438546036",
+                "segment_id": "17",
+                "timestamp": "01:20"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'So it's a full fee paying place is that right?' (call_597438546036, seg_12), seeking clarity on financial commitments.",
+          "consultant_response": "Consultant stated: 'So you're looking at $4,837.50 per unit, you're an Australian citizen' (call_597438546036, seg_17), providing only basic fee information.",
+          "context_impact": "Financial concerns can significantly impact enrollment decisions if not addressed comprehensively.",
+          "recommended_approach": "Engage in deeper discussion about financial planning options, FEE-HELP availability, and payment flexibility."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231122345",
+              "segment_id": "22",
+              "timestamp": "02:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't received any email saying that it came through' (call_597231122345, seg_22), revealing uncertainty about application progress.",
+          "consultant_response": "Limited response focusing only on immediate document issues without addressing broader process concerns.",
+          "context_impact": "Lack of clarity about application status can create anxiety and derail enrollment momentum.",
+          "recommended_approach": "Provide comprehensive overview of application process with clear timelines and proactive updates."
+        },
+        {
+          "id": 6,
+          "title": "Educational Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358144109",
+              "segment_id": "3",
+              "timestamp": "0:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I have just finished my graduate certification, so I'm moving into Master's right now' (call_597358144109, seg_3).",
+          "consultant_response": "Consultant replied with administrative focus: 'I'm sorry, you've come through to the online section' (call_597358144109, seg_8).",
+          "context_impact": "Critical opportunity to support student's transition between qualification levels.",
+          "recommended_approach": "Develop comprehensive transition planning framework focusing on achievement recognition and next steps."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438181343",
+              "segment_id": "11",
+              "timestamp": "1:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597445346911",
+                "segment_id": "29",
+                "timestamp": "29:56"
+              }
+            ]
+          },
+          "student_trigger": "During a critical moment in the conversation, the student asked: 'I'm kind of keen on just learning a bit on data analytics, I'm just scoping pathways' (call_597438181343, seg_11). This question revealed active interest in understanding program options and potential specializations, making it a crucial moment for demonstrating program flexibility and alignment with their interests.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding: 'The analytics is quite technology heavy... but we also have something in the middle, which is managerial analytics' (call_597438181343, seg_22). This response effectively acknowledged the technical aspects while introducing alternative pathways that might better align with the student's background and goals. The approach maintained appropriate boundaries while exploring options that could meet the student's needs.",
+          "priority": "high",
+          "recommended_approach": "When engaging with students exploring program options, begin by acknowledging their interest and immediately transition into collaborative pathway exploration. Start with broad questions about their background and aspirations: 'Could you tell me more about what draws you to analytics?' Guide the conversation with targeted questions that help uncover their true goals: 'Are you looking to enhance your current role or transition into a new field?' Frame program options in relation to their expressed interests: 'Given your interest in business applications, our managerial analytics stream develops decision-making skills without heavy coding requirements.' Use specific examples from successful students: 'Many of our business professionals choose this pathway because it balances technical knowledge with practical business applications.' Always maintain appropriate boundaries between sales and academic advising roles while ensuring students understand how different pathways align with their goals."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307966307",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231085631",
+                "segment_id": "22",
+                "timestamp": "02:34"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant concern about managing multiple commitments: 'I want to advance my career but I'm worried about balancing study with my current role' (call_597307966307, seg_23). This revealed both their career advancement aspirations and anxiety about managing work-study balance, presenting a critical opportunity for collaborative planning.",
+          "consultant_response": "The consultant engaged proactively: 'Let's explore some of the flexible study options that could fit around your current role. Could you tell me more about what your typical workweek looks like?' (call_597307966307, seg_24). This response effectively validated the concern while initiating practical discussion about solutions.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging both the challenge and opportunity inherent in pursuing education alongside work. Start with validation: 'I understand managing multiple commitments requires careful planning. Many of our successful students initially share similar concerns.' Guide the discussion with practical examples: 'Our program is designed for working professionals. For instance, you can download materials for offline study during quiet periods, or schedule focused study blocks around your work commitments.' Share specific strategies: 'Some students prefer early morning study before work, while others dedicate specific evenings to coursework. The key is finding a rhythm that works for your schedule.' Always emphasize program flexibility while maintaining appropriate boundaries: 'While our learning coaches can help develop detailed study plans after enrollment, let's explore how our flexible study options align with your work patterns.'"
+        },
+        {
+          "id": 3,
+          "title": "Career Pathway Exploration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597308488615",
+              "segment_id": "25",
+              "timestamp": "02:13"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597308488615",
+                "segment_id": "26",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "During a critical moment in the conversation, the student asked: 'And what is the career pathways after the advanced diploma?' (call_597308488615, seg_25). This question revealed their focus on long-term career outcomes and need to understand the professional value of their potential qualification.",
+          "consultant_response": "The consultant provided comprehensive guidance while maintaining appropriate boundaries: 'The graduate's diploma in psychology qualifies you for a lot of non-clinical roles in mental health, as well as HR, marketing, research... the pathway to become a psychologist is the graduate diploma advanced, then master's' (call_597308488615, seg_26). This response effectively outlined both immediate career opportunities and potential advancement pathways.",
+          "priority": "high",
+          "recommended_approach": "When discussing career pathways, start by acknowledging the importance of career planning while maintaining appropriate boundaries. Begin with validation: 'Understanding potential career paths is crucial for making informed decisions about your education.' Frame discussions around program features and general industry pathways: 'Our program develops skills valued across multiple sectors. For example, our research methods unit particularly benefits students interested in research roles, while our organizational behavior unit aligns well with HR career paths.' Share broad outcome examples: 'Many of our graduates work in areas like organizational development, learning and development, or research, while others use this as a stepping stone to further qualifications.' Always position detailed career planning as a post-enrollment service: 'Our career services team can provide more specific guidance once you're enrolled, but let's explore how our program outcomes align with your career interests.'"
+        },
+        {
+          "id": 4,
+          "title": "Financial Planning Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438546036",
+              "segment_id": "12",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438546036",
+                "segment_id": "17",
+                "timestamp": "01:20"
+              }
+            ]
+          },
+          "student_trigger": "The student sought clarity about financial commitments: 'So it's a full fee paying place is that right?' (call_597438546036, seg_12). This revealed underlying concerns about managing program costs and understanding available support options.",
+          "consultant_response": "The consultant provided only basic fee information: 'So you're looking at $4,837.50 per unit, you're an Australian citizen' (call_597438546036, seg_17). This response missed the opportunity to explore financial planning options and support mechanisms that could help the student feel more confident about managing program costs.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial inquiries, begin by acknowledging that cost is an important consideration in educational planning. Start with empathy: 'Understanding the financial commitment is crucial for your planning. Let me walk you through the available options that make this program accessible.' Provide comprehensive information while maintaining appropriate boundaries: 'As an Australian citizen, you have access to FEE-HELP, meaning no upfront payments are required. Many students combine this with flexible payment arrangements to manage their investment effectively.' Use specific examples: 'Some students choose to pay partially upfront to reduce their loan, while others utilize FEE-HELP entirely. The key is finding an approach that works for your circumstances.' Always ensure students understand both immediate costs and long-term financial planning options: 'While I can't provide financial advice, I can connect you with our finance team to explore these options in more detail.'"
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Management",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231122345",
+              "segment_id": "22",
+              "timestamp": "02:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about their application status: 'I haven't received any email saying that it came through' (call_597231122345, seg_22). This revealed anxiety about application progress and need for clear communication about next steps.",
+          "consultant_response": "The response focused only on immediate document issues without providing a comprehensive overview of the application process or clear guidance about next steps. This missed opportunity to build confidence through transparent communication and proactive support.",
+          "priority": "high",
+          "recommended_approach": "When managing document submissions, begin by providing clear visibility of the entire process. Start with confirmation: 'Let me check your application status and outline exactly where we are in the process. I can see your initial submission came through on [date].' Create a structured plan: 'Let's review what documents we have and what's still needed. For your academic transcripts, we'll need certified copies - I can explain exactly how to get these prepared.' Provide proactive guidance: 'Many students find it helpful to have a checklist. I'll send you an email summarizing our discussion with clear instructions for each remaining document.' Always set clear expectations about processing times and next steps: 'Once we receive your certified transcripts, typical processing time is [X] days. I'll check on your application next [day] and send you an update.'"
+        },
+        {
+          "id": 6,
+          "title": "Educational Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358144109",
+              "segment_id": "3",
+              "timestamp": "0:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student indicated readiness for program progression: 'I have just finished my graduate certification, so I'm moving into Master's right now' (call_597358144109, seg_3). This represented a critical transition point requiring careful guidance and support.",
+          "consultant_response": "The consultant provided only administrative information: 'I'm sorry, you've come through to the online section' (call_597358144109, seg_8). This response missed the opportunity to celebrate the achievement and provide strategic guidance for the next stage of their educational journey.",
+          "priority": "high",
+          "recommended_approach": "When supporting educational transitions, begin by celebrating completed achievements while building momentum toward next steps. Start with recognition: 'Congratulations on completing your graduate certificate! That's a significant achievement and excellent preparation for master's level study.' Create a transition framework: 'Let's discuss how your current knowledge will support your progression. Many students find their graduate certificate experience provides a strong foundation for advanced study.' Provide specific guidance: 'You've already developed key research skills. The master's program builds on these through advanced research methods and specialized applications.' Always balance celebration of past achievement with practical planning: 'Your success in the graduate certificate shows you're well-prepared for this next step. Let's explore how the master's program aligns with your professional goals.'"
+        }
+      ]
+    }
+  }
+}

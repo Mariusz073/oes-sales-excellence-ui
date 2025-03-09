@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "consultant_name": "Olive Jerome",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 38,
+  "team_average_total_number_of_calls_per_sales_consultant": 195.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 7,
+    "team_average_absolute_number": 32.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 18.421052631578945,
+    "team_average_percentage": 14.688682653193398
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 31,
+    "team_average_absolute_number": 163.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 81.57894736842105,
+    "team_average_percentage": 67.12949916498842
+  },
+  "average_talking_percentage": {
+    "individual_average": 66.6618717470638,
+    "team_average": 53.24963397129906
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 31,
+    "team_total_excluded_transcripts": 1797
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": null,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 89.65,
+      "team_average_final_ranking_score_eligible_transcripts": 172.12,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 114.89
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Support Navigation",
+        "explanation": "Consultants effectively guide students to appropriate support resources while maintaining clear role boundaries and ensuring smooth transitions"
+      },
+      {
+        "headline": "Proactive Engagement Response",
+        "explanation": "Strong demonstration of readiness to address student inquiries and concerns while creating collaborative dialogue opportunities"
+      },
+      {
+        "headline": "Structured Follow-up Planning",
+        "explanation": "Effective establishment of clear next steps and checkpoints to maintain student momentum through enrollment process"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Comprehensive Action Planning",
+        "explanation": "More thorough development needed of specific, time-bound action steps when working with students facing competing priorities"
+      },
+      {
+        "headline": "Future Pathway Integration",
+        "explanation": "Enhanced exploration needed of future academic opportunities when students indicate temporary shifts in priorities"
+      },
+      {
+        "headline": "Support Service Connection",
+        "explanation": "Clearer explanation required of specific support roles and assistance available while maintaining appropriate boundaries"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525304508",
+              "segment_id": "19",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525221910",
+                "segment_id": "31",
+                "timestamp": "02:05"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I haven't had a chance to look at the setup instructions yet' (call_597525304508, seg_19), revealing need for clear support guidance.",
+          "consultant_response": "Consultant directed effectively: 'I can get our student advisor team to help with that setup' (call_597525304508, seg_21), connecting to appropriate resources while clarifying roles.",
+          "context_impact": "Critical moment requiring appropriate support service direction while maintaining sales role boundaries.",
+          "recommended_approach": "Enhance explanation of specific support roles and assistance available at each stage."
+        },
+        {
+          "id": 2,
+          "title": "Proactive Course Inquiry Response",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525314084",
+              "segment_id": "44",
+              "timestamp": "02:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525254836",
+                "segment_id": "16",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'While I have you, can I just ask you a quick question though about the course' (call_597525314084, seg_44), showing readiness to engage.",
+          "consultant_response": "Consultant replied encouragingly: 'Absolutely. What would you like to know?' (call_597525314084, seg_47), creating space for meaningful dialogue.",
+          "context_impact": "Opportunity to demonstrate accessibility and build trust through collaborative discussion.",
+          "recommended_approach": "Enhance by proactively suggesting key discussion areas while maintaining collaborative approach."
+        },
+        {
+          "id": 3,
+          "title": "Future Planning Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525395179",
+              "segment_id": "12",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525254836",
+                "segment_id": "27",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm not going to be doing the study this year, I've decided to do something else just for the year' (call_597525395179, seg_12), indicating temporary shift.",
+          "consultant_response": "Consultant focused on immediate process: 'If you are sure and not wanting to assist with this course, what I can do is transfer you' (call_597525395179, seg_20), missing opportunity for future planning.",
+          "context_impact": "Critical moment to maintain relationship and explore future pathways while respecting current decision.",
+          "recommended_approach": "Explore future study opportunities while respecting current work focus decision."
+        },
+        {
+          "id": 4,
+          "title": "Action Plan Development",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525314084",
+              "segment_id": "16",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525221910",
+                "segment_id": "28",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "Student mentioned: 'I saw the email but haven't had a chance to look at it yet just because I'm at work' (call_597525314084, seg_16), showing competing priorities.",
+          "consultant_response": "Consultant provided basic reassurance: 'No stress whatsoever, we do have a little bit of time' (call_597525314084, seg_18), without creating specific action steps.",
+          "context_impact": "Opportunity to develop clear action plan while respecting work commitments.",
+          "recommended_approach": "Create time-bound action steps while maintaining appropriate support boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525221910",
+              "segment_id": "27",
+              "timestamp": "01:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525367024",
+                "segment_id": "22",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm currently located in Brisbane and I've just been trying to, obviously, running around' (call_597525221910, seg_27), revealing logistical challenges.",
+          "consultant_response": "Consultant offered targeted assistance: 'No stress in getting that sorted right at this minute. What I'd be happy to do is send you through a text with the student advisor contact number' (call_597525221910, seg_31).",
+          "context_impact": "Key opportunity to demonstrate comprehensive support structure while maintaining boundaries.",
+          "recommended_approach": "Provide clearer explanation of support roles and specific assistance available."
+        },
+        {
+          "id": 6,
+          "title": "Strategic Follow-up Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525293916",
+              "segment_id": "26",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525254836",
+                "segment_id": "42",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Student confirmed: 'Yes, I did get that email' (call_597525293916, seg_26), showing readiness for next steps.",
+          "consultant_response": "Consultant outlined timeline: 'We are starting to get to that time where the teaching period will be beginning' (call_597525293916, seg_27), establishing urgency.",
+          "context_impact": "Opportunity to maintain momentum through strategic planning and clear checkpoints.",
+          "recommended_approach": "Develop specific follow-up schedule with clear expectations and action items."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Support Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525304508",
+              "segment_id": "19",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525221910",
+                "segment_id": "31",
+                "timestamp": "02:05"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed uncertainty about enrollment processes, with one stating 'I haven't had a chance to look at the setup instructions yet' (call_597525304508, seg_19) and another mentioning challenges with account setup while managing other commitments (call_597525221910, seg_27). These moments revealed critical opportunities to demonstrate the support structure while maintaining appropriate role boundaries.",
+          "consultant_response": "The consultants effectively directed students to appropriate resources while maintaining their sales role boundaries. In the primary call, the consultant outlined clear support pathways: 'I can get our student advisor team to help with that setup' (call_597525304508, seg_21). This was reinforced in the supporting call where the consultant committed to ongoing support: 'I'll be touching base over the next few weeks just to ensure that if you need any assistance, I'll be here to help' (call_597525221910, seg_31).",
+          "priority": "high",
+          "recommended_approach": "When students indicate need for enrollment support, create clear pathways to resources while maintaining appropriate boundaries. Begin by acknowledging their specific needs: 'I understand you're looking for guidance with the setup process.' Then outline the support structure: 'We have a dedicated student advisor team specifically trained in helping new students with technical setup.' Explain how different support roles work together: 'While I guide you through enrollment decisions, our advisor team specializes in making the technical setup smooth and stress-free.' Create clear handoff processes: 'They can spend about 15-20 minutes walking you through each step. Would you like me to connect you with them now?' Always maintain focus on enrollment-critical tasks while positioning additional support as valuable resources: 'Once your account is set up with their help, I'll be here to assist with any other enrollment questions.'"
+        },
+        {
+          "id": 2,
+          "title": "Proactive Course Inquiry Response",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525314084",
+              "segment_id": "44",
+              "timestamp": "02:25"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525254836",
+                "segment_id": "16",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "Key opportunities for engagement arose when students expressed interest in course details, with one stating 'While I have you, can I just ask you a quick question though about the course' (call_597525314084, seg_44). These moments indicated readiness to explore program details and demonstrated trust in the consultation process.",
+          "consultant_response": "Consultants demonstrated effective collaborative engagement by creating space for meaningful dialogue. The primary consultant responded with 'Absolutely. What would you like to know?' (call_597525314084, seg_47), showing genuine readiness to assist while encouraging deeper exploration. This approach validated the student's questions and created an environment conducive to meaningful discussion.",
+          "priority": "high",
+          "recommended_approach": "When students demonstrate readiness to engage through course inquiries, leverage this momentum to build trust and understanding. Begin by validating their proactive approach: 'That's a great question\u2014what specific aspects of the course interest you most?' Pay attention to student cues, adjusting the depth and focus of information based on their responses. For instance, if they ask about course structure, respond with: 'Let me outline our flexible learning approach and then we can explore specific aspects that align with your interests.' When students show hesitation, use prompts that help them articulate their concerns: 'Many students ask about [common concern]. Would you like to explore how we address that?' Transform initial inquiries into constructive dialogue that builds confidence while maintaining appropriate boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Future Planning Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525395179",
+              "segment_id": "12",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525254836",
+                "segment_id": "27",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "Critical moments arose when students indicated temporary shifts in their educational plans, exemplified by the statement 'I'm not going to be doing the study this year, I've decided to do something else just for the year, just work instead' (call_597525395179, seg_12). These situations presented crucial opportunities to maintain engagement while respecting current decisions.",
+          "consultant_response": "Consultants often focused solely on immediate administrative actions rather than exploring future possibilities: 'If you are sure and not wanting to assist with this course, what I can do for you is transfer you through to the student advisor team' (call_597525395179, seg_20). This approach missed opportunities to maintain engagement and explore future educational pathways.",
+          "priority": "high",
+          "recommended_approach": "When students indicate a temporary pause in their educational journey, transform this into an opportunity for future planning while respecting their immediate decision. Begin with validation: 'I appreciate you letting us know about your plans to focus on work this year.' Then explore future possibilities: 'While we respect your decision to prioritize work right now, would you be interested in discussing how this experience could enhance your studies when you're ready to return?' Share how other students have successfully integrated work experience: 'Many students find that industry experience strengthens their academic journey.' Outline flexible options for future enrollment: 'Our program is designed to accommodate working professionals, so when you're ready to return, we can explore study patterns that complement your work schedule.' Position the pause as a strategic choice that can strengthen their eventual academic journey."
+        },
+        {
+          "id": 4,
+          "title": "Action Plan Development",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525314084",
+              "segment_id": "16",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525221910",
+                "segment_id": "28",
+                "timestamp": "01:45"
+              }
+            ]
+          },
+          "student_trigger": "Students frequently indicated challenges with managing enrollment tasks alongside other commitments, exemplified by statements like 'I saw the email but haven't had a chance to look at it yet just because I'm at work' (call_597525314084, seg_16). These situations revealed needs for structured support in managing enrollment requirements.",
+          "consultant_response": "Consultants often provided basic reassurance without strategic planning: 'No stress whatsoever, we do have a little bit of time' (call_597525314084, seg_18). While attempting to reduce pressure, these responses missed opportunities to engage in collaborative planning for task completion.",
+          "priority": "high",
+          "recommended_approach": "When students express challenges with managing enrollment tasks, transform this into an opportunity for structured planning while maintaining appropriate boundaries. Begin with acknowledgment: 'I understand you're balancing multiple commitments right now.' Then create a specific action framework: 'Let's identify what needs to be completed and ensure you have the right support at each step.' Break down required tasks: 'The key priorities are reviewing your enrollment letter and setting up your account. Which would be easier to tackle first?' Create accountability through specific timeframes: 'If you could review the letter this evening, I can call you tomorrow at a time that suits to address any questions.' Always maintain proper role boundaries while ensuring clear direction and access to support when needed."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525221910",
+              "segment_id": "27",
+              "timestamp": "01:35"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525367024",
+                "segment_id": "22",
+                "timestamp": "02:15"
+              }
+            ]
+          },
+          "student_trigger": "Students often expressed logistical challenges affecting their enrollment progress, as demonstrated by statements like 'I'm currently located in Brisbane and I've just been trying to, obviously, running around' (call_597525221910, seg_27). These situations presented key opportunities to demonstrate comprehensive support.",
+          "consultant_response": "Consultants effectively offered targeted assistance while preserving role boundaries: 'No stress in getting that sorted right at this minute. What I'd be happy to do is send you through a text with the student advisor contact number' (call_597525221910, seg_31). This approach provided immediate support while directing students to appropriate resources.",
+          "priority": "high",
+          "recommended_approach": "When addressing logistical challenges, transform potential barriers into opportunities to demonstrate comprehensive support. Begin by acknowledging their situation: 'I understand you're managing multiple priorities right now.' Then outline the support framework: 'Let me show you how our different support teams can assist you at each stage.' Be specific about available resources: 'Our student advisors can help with immediate setup needs, and once enrolled, our learning coaches can support your study planning.' Create clear handoff processes: 'I can send you the advisor team's contact details right now, and they typically spend about 15-20 minutes helping with setup.' Maintain proper boundaries while ensuring support: 'While I focus on guiding your enrollment decisions, our specialist teams ensure you have the technical support needed for a smooth start.'"
+        },
+        {
+          "id": 6,
+          "title": "Strategic Follow-up Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525293916",
+              "segment_id": "26",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525254836",
+                "segment_id": "42",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Students showed readiness for progression with statements like 'Yes, I did get that email' (call_597525293916, seg_26), presenting opportunities to maintain momentum through strategic planning. Similar situations arose when students confirmed receipt of enrollment materials.",
+          "consultant_response": "Consultants acknowledged progress and highlighted timing: 'Fantastic. We are starting to get to that time where the teaching period will be beginning' (call_597525293916, seg_27). While this created some urgency, opportunities existed for more strategic planning and specific checkpoint establishment.",
+          "priority": "high",
+          "recommended_approach": "When students demonstrate readiness to proceed, leverage this momentum to create clear progression plans while maintaining appropriate boundaries. Start by affirming their readiness: 'It's great that you've received the enrollment materials. Let's ensure you have everything needed for a smooth start.' Create specific checkpoints: 'Would it be helpful if I called you next Tuesday to verify everything's proceeding smoothly?' For immediate action-takers, provide clear next steps: 'Since you have the enrollment letter now, let's quickly review the key setup requirements. Then I can connect you with our advisor team for any technical assistance.' For those preferring to proceed independently, establish specific follow-up points: 'If you're planning to review everything this evening, would you like me to check in tomorrow to address any questions?' Always maintain focus on enrollment-critical tasks while ensuring clear guidance and support pathways."
+        }
+      ]
+    }
+  }
+}

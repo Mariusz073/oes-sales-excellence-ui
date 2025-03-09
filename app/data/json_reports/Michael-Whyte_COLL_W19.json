@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Whyte",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 122,
+  "team_average_total_number_of_calls_per_sales_consultant": 195.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 34,
+    "team_average_absolute_number": 32.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.86885245901639,
+    "team_average_percentage": 14.688682653193398
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 88,
+    "team_average_absolute_number": 163.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.1311475409836,
+    "team_average_percentage": 67.12949916498842
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.000793706091066,
+    "team_average": 53.24963397129906
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 88,
+    "team_total_excluded_transcripts": 1797
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 98.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.01,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 137.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.21,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 174.96,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.82,
+      "team_average_final_ranking_score_eligible_transcripts": 172.12,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 114.89
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Support Service Integration",
+        "explanation": "Strong demonstration of available support mechanisms and academic resources with clear explanation of post-enrollment assistance while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Career Development Alignment",
+        "explanation": "Effective connection of program elements with specific career goals and professional advancement opportunities through practical examples and progression planning"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Work-Life Integration Planning",
+        "explanation": "Enhanced exploration needed of how program flexibility accommodates varying work and life commitments while maintaining focus on enrollment decisions"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "More comprehensive pre-enrollment financial guidance required, including immediate fee clarity and thorough exploration of payment options"
+      },
+      {
+        "headline": "Transition Support Enhancement",
+        "explanation": "Stronger guidance needed for students navigating major life changes or program transitions with clearer demonstration of flexible study arrangements"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic MBA Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "15",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've got like a certificate for my highest completed qualification and a half complete bachelor's degree but I've got like nine years managerial experience in running my own startup' (call_595732493616, seg_15), revealing need for experience-based pathway planning.",
+          "consultant_response": "Consultant effectively bridged experience gap: 'We also offer our graduate certificate in business administration, so this would be your kind of first steps, the first four units of the MBA anyway' (seg_22), showing practical pathway progression.",
+          "context_impact": "Critical moment requiring demonstration of how substantial professional experience could be leveraged for program entry while maintaining enrollment momentum.",
+          "recommended_approach": "Enhance by exploring specific ways the student's startup experience could contribute to their studies and enrich classroom discussions."
+        },
+        {
+          "id": 2,
+          "title": "Financial Clarity Need",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609046496",
+              "segment_id": "12",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'It's unlikely that I will take a student loan or that I will even be eligible for one, so I still couldn't find a clear black and white fee schedule' (call_621609046496, seg_12), indicating urgent need for financial clarity.",
+          "consultant_response": "Consultant deferred: 'So the way the fees would work is our student advisors would talk you through that once you get enrolled' (seg_14), missing opportunity for immediate clarity.",
+          "context_impact": "Critical moment requiring immediate financial guidance to support informed decision-making and maintain enrollment confidence.",
+          "recommended_approach": "Provide immediate fee schedule and comprehensive exploration of payment options before enrollment, including specific FEE-HELP guidance."
+        },
+        {
+          "id": 3,
+          "title": "Career-Aligned Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444987310",
+              "segment_id": "128",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I recently found this is not the one I want. I want something related to the health' (call_597444987310, seg_71), revealing need for health-sector alignment.",
+          "consultant_response": "Consultant provided clear direction: 'After completion of the graduate certificate you can then go on to do your masters specializing in health administration' (seg_128), effectively showing career progression pathway.",
+          "context_impact": "Critical moment requiring demonstration of pathway flexibility while maintaining strong career relevance.",
+          "recommended_approach": "Include more probing questions about specific healthcare interests to better tailor pathway suggestions and demonstrate industry relevance."
+        },
+        {
+          "id": 4,
+          "title": "Life Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524910875",
+              "segment_id": "34",
+              "timestamp": "4:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm relocating to Melbourne at the moment because my partner's in Melbourne...' (call_597524910875, seg_34), indicating significant life change affecting study plans.",
+          "consultant_response": "Consultant missed opportunity to discuss flexible study options and specific support services available during transition period.",
+          "context_impact": "Critical moment requiring demonstration of program flexibility and support services during major transition.",
+          "recommended_approach": "Explore specific support services and study flexibility options available during major life transitions, providing concrete examples of successful transitions."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231121172",
+              "segment_id": "100",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student heard: 'We also have your student advisors available seven days a week' (call_597231121172, seg_100), providing opportunity to demonstrate comprehensive support structure.",
+          "consultant_response": "Consultant effectively elaborated: 'Their contact information will be there. So if you do need any help or support during the enrollment process or during your studies, they'll be available' (seg_101), establishing clear support pathways.",
+          "context_impact": "Critical moment to build confidence in transition to online study while maintaining clear boundaries between sales and support roles.",
+          "recommended_approach": "Include specific examples of advisor support while maintaining appropriate pre-enrollment scope."
+        },
+        {
+          "id": 6,
+          "title": "Schedule Management Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445112246",
+              "segment_id": "11",
+              "timestamp": "00:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm actually having an extremely busy schedule today' (call_597445112246, seg_11), indicating potential ongoing time management concerns.",
+          "consultant_response": "Consultant offered: 'Is there a better day that might suit you, Hedra?' (seg_16), addressing immediate but not long-term planning needs.",
+          "context_impact": "Opportunity to address scheduling flexibility while maintaining enrollment momentum.",
+          "recommended_approach": "Explore schedule management within context of enrollment decision-making process with specific examples of flexible study arrangements."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic MBA Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "15",
+              "timestamp": "01:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During segment 15 of call 595732493616, the student revealed significant professional experience alongside incomplete formal qualifications, stating: 'I've got like a certificate for my highest completed qualification and a half complete bachelor's degree but I've got like nine years managerial experience in running my own startup.' This disclosure presented a critical opportunity to demonstrate how their extensive professional experience could be leveraged within the academic framework, while addressing potential concerns about formal qualification requirements.",
+          "consultant_response": "The consultant demonstrated exemplary collaborative planning by immediately recognizing the value of the student's experience while outlining a clear pathway forward. Their response, 'We also offer our graduate certificate in business administration, so this would be your kind of first steps, the first four units of the MBA anyway,' effectively bridged the gap between the student's current qualifications and their aspirations. This approach not only addressed immediate concerns about eligibility but also demonstrated how their professional experience could be integrated into their academic journey.",
+          "priority": "high",
+          "recommended_approach": "When encountering students with substantial professional experience but non-traditional academic backgrounds, begin by acknowledging and validating their professional achievements. Start with clear validation: 'Your nine years of startup management experience brings valuable real-world perspective to our program.' Then outline specific entry pathways that align with their circumstances: 'Let me show you how we can leverage your experience through our graduate certificate pathway.' Use examples of similar successful transitions: 'Many of our MBA students began with significant business experience and used the graduate certificate to formally validate their knowledge.' Maintain enthusiasm while being realistic about requirements, showing how each step builds toward their ultimate goal. When discussing the graduate certificate pathway, emphasize immediate value while creating momentum toward the MBA: 'The graduate certificate gives you immediate applicable skills while completing your first four MBA units.' The goal is transforming potential barriers into stepping stones, helping students envision a clear path to their educational goals while maintaining appropriate expectations about the journey ahead."
+        },
+        {
+          "id": 2,
+          "title": "Financial Clarity Need",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609046496",
+              "segment_id": "12",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 621609046496, the student expressed clear concerns about financial planning: 'It's unlikely that I will take a student loan or that I will even be eligible for one, so I still couldn't find a clear black and white fee schedule' (segment 12). This statement revealed significant uncertainty about financial obligations and options, representing a critical moment for providing clarity and support in the enrollment decision-making process.",
+          "consultant_response": "The consultant's response, 'So the way the fees would work is our student advisors would talk you through that once you get enrolled' (segment 14), missed an opportunity to provide immediate financial clarity. By deferring detailed fee discussions to post-enrollment, the consultant failed to address the student's immediate need for financial understanding, potentially creating uncertainty that could impact their enrollment decision.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial concerns, begin with immediate, concrete information while building a comprehensive understanding of the student's financial situation. Start with clear statements: 'Let me provide the current fee structure - each unit costs X, with Y units required for completion.' Then explore payment options: 'As an Australian student, you have several payment pathways available, including FEE-HELP which allows you to defer payment until you're earning above the threshold.' Use specific examples: 'Many students manage their fees through flexible payment plans - for instance, some choose to pay per unit while others utilize FEE-HELP.' Actively engage with questions: 'What specific aspects of the fees or payment options would you like me to clarify?' When discussing FEE-HELP, provide immediate clarity: 'Let me walk you through exactly how FEE-HELP works and how to apply.' Address eligibility concerns directly: 'Your situation as an Australian citizen makes you eligible for FEE-HELP - let me show you how to confirm this.' The goal is transforming financial uncertainty into clear, manageable planning that supports confident enrollment decisions."
+        },
+        {
+          "id": 3,
+          "title": "Career-Aligned Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444987310",
+              "segment_id": "128",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597444987310, the student expressed a clear desire for career alignment: 'I recently found this is not the one I want. I want something related to the health' (segment 71). This declaration represented a critical juncture where the student was actively seeking alignment between their education and career aspirations, presenting an opportunity for collaborative planning to maintain engagement while redirecting their educational journey.",
+          "consultant_response": "The consultant demonstrated skilled pathway planning by showing clear progression options: 'After completion of the graduate certificate you can then go on to do your masters specializing in health administration' (segment 128). This response effectively showed how the student's current path could align with their health sector interests through specialization options. The approach maintained momentum while providing a clear vision for career-relevant education.",
+          "priority": "high",
+          "recommended_approach": "When students express desire for healthcare alignment, begin by exploring their specific interests within the sector: 'Could you tell me more about what aspects of healthcare particularly interest you?' Use this information to tailor program suggestions and demonstrate clear career pathways. For instance, when discussing business programs with health specializations, frame them through concrete healthcare applications: 'Our business management principles directly apply to hospital administration, where you'll learn to manage both resources and healthcare teams effectively.' Show progression opportunities: 'Starting with the graduate certificate gives you a strong foundation, then you can specialize in health administration at the masters level.' Share specific examples of career transitions: 'Many of our graduates have successfully moved into healthcare management roles, applying their business expertise in medical settings.' Address any concerns about sector-specific knowledge: 'While focusing on core business principles, you'll learn to apply these specifically to healthcare challenges through specialized units and real-world cases.' The goal is demonstrating how educational choices create clear pathways to their desired healthcare career while maintaining enrollment momentum."
+        },
+        {
+          "id": 4,
+          "title": "Life Transition Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524910875",
+              "segment_id": "34",
+              "timestamp": "4:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared significant context: 'I'm relocating to Melbourne at the moment because my partner's in Melbourne...' (call_597524910875, seg_34). This disclosure of a major life transition presented a crucial opportunity to demonstrate how our program could accommodate such changes and provide stability during adjustment.",
+          "consultant_response": "The consultant missed critical opportunities to explore how program flexibility could support students during major life changes. By not addressing the implications of transitions or discussing available support mechanisms, the consultant left the student without clarity on managing studies during these periods.",
+          "priority": "high",
+          "recommended_approach": "When students mention significant life transitions, immediately acknowledge the change and demonstrate program adaptability. Begin with empathy: 'Moving to a new city is a significant change. Let me show you how our program is designed to support students through transitions like this.' Explore specific features that aid flexibility: 'Our online learning platform allows you to maintain consistent study progress regardless of location, and you can access materials 24/7 to fit your changing schedule.' Discuss available support services: 'We have student success advisors who specialize in helping students manage studies during transitions, and they can help you adjust your study plan as you settle in.' Consider practical aspects: 'Many students find our asynchronous learning style particularly helpful during relocation, as you can adjust study times around moving and settling in.' Share specific examples: 'One recent student managed their studies effectively during a similar move by downloading materials for offline access and maintaining flexible study hours.' The goal is transforming potential concerns about stability into confidence in the program's ability to provide consistent support throughout life changes."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Communication",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231121172",
+              "segment_id": "100",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical point in the enrollment discussion, the consultant proactively highlighted the availability of support services, stating 'We also have your student advisors available seven days a week' (call_597231121172, seg_100). This statement emerged at a crucial juncture when addressing potential concerns about transitioning to online study.",
+          "consultant_response": "The consultant built upon the introduction of support services with a comprehensive explanation: 'Their contact information will be there. So if you do need any help or support during the enrollment process or during your studies, they'll be available. As well as that, you'll have your online learning advisors' (call_597231121172, seg_101). This detailed response effectively reinforced the ongoing availability of support, creating confidence in post-enrollment assistance.",
+          "priority": "high",
+          "recommended_approach": "When introducing support services during enrollment discussions, consultants should begin with high-level overviews that build confidence while maintaining clear role boundaries. Start with broad statements like 'We have comprehensive support available throughout your journey' then provide specific examples within appropriate pre-enrollment scope: 'Our student advisors are available seven days a week for general guidance, and after enrollment, you'll have dedicated learning advisors for academic support.' Focus on establishing clear pathways to support rather than detailed support planning. When students express specific concerns, acknowledge them and outline relevant support channels: 'That's exactly the kind of situation our support team helps with - once enrolled, they can provide detailed guidance.' Always maintain appropriate boundaries between sales and support roles while creating confidence in the support structure."
+        },
+        {
+          "id": 6,
+          "title": "Schedule Management Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445112246",
+              "segment_id": "11",
+              "timestamp": "00:24"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the conversation, the student expressed immediate time constraints: 'I'm actually having an extremely busy schedule today' (call_597445112246, seg_11). This statement indicated not just a short-term scheduling issue but potentially broader concerns about managing ongoing study commitments alongside existing responsibilities.",
+          "consultant_response": "The consultant's response focused solely on immediate scheduling flexibility: 'Is there a better day that might suit you, Hedra?' (seg_16). While this showed appropriate accommodation of current needs, it missed the opportunity to address underlying concerns about ongoing time management and study commitment balance.",
+          "priority": "high",
+          "recommended_approach": "When addressing scheduling concerns during enrollment discussions, consultants should demonstrate program flexibility while maintaining appropriate pre-enrollment boundaries. Begin with immediate flexibility: 'I understand you're busy today - let's find a time that works better for you.' Then connect to program flexibility within sales role scope: 'Many of our students manage busy schedules successfully. Let me explain how our flexible learning options support this.' Share high-level examples without moving into detailed planning: 'Our online platform allows you to access materials when convenient, and assessment schedules accommodate various commitments.' When discussing ongoing time management, focus on program features while indicating where detailed planning support becomes available: 'Once enrolled, our learning advisors can help you develop specific study strategies.' Maintain focus on enrollment decision factors rather than detailed schedule planning."
+        }
+      ]
+    }
+  }
+}

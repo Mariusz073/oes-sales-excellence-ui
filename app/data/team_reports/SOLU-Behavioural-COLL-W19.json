@@ -1,0 +1,305 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 19,
+    "university": "Monash",
+    "reporting_period": "03-03_03-07",
+    "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [
+            {
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 224.46,
+                "lower_bound": 107.02,
+                "green": 181.48
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 199.83,
+                "lower_bound": 91.28,
+                "green": 160.73
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 207.62,
+                "lower_bound": 115.25,
+                "green": 178.81
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 241.99,
+                "lower_bound": 88.46,
+                "green": 174.2
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "upper_bound": 212.73,
+                "lower_bound": 113.6,
+                "green": 157.75
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "upper_bound": 215.03,
+                "lower_bound": 71.16,
+                "green": 162.74
+            },
+            {
+                "title": "01-27_01-31\nweek 14",
+                "upper_bound": 222.83,
+                "lower_bound": 110.7,
+                "green": 155.43
+            },
+            {
+                "title": "02-03_02-07\nweek 15",
+                "upper_bound": 225.42,
+                "lower_bound": 99.11,
+                "green": 157.11
+            },
+            {
+                "title": "02-10_02-14\nweek 16",
+                "upper_bound": 215.5,
+                "lower_bound": 97.56,
+                "green": 163.3
+            },
+            {
+                "title": "02-17_02-21\nweek 17",
+                "upper_bound": 198.62,
+                "lower_bound": 84.14,
+                "green": 148.21
+            },
+            {
+                "title": "02-24_02-28\nweek 18",
+                "upper_bound": 217.0,
+                "lower_bound": 43.25,
+                "green": 157.4
+            },
+            {
+                "title": "03-03_03-07\nweek 19",
+                "upper_bound": 204.43,
+                "lower_bound": 84.32,
+                "green": 146.3
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 2992,
+        "consultant_results": [
+            {
+                "name": "Sebastian Saunders",
+                "high_need_score": "204.4",
+                "all_score": "114.3",
+                "percentage_high_need": "11/157 (7.0%)",
+                "rank": 1
+            },
+            {
+                "name": "Sarah Charlwood",
+                "high_need_score": "188.3",
+                "all_score": "143.2",
+                "percentage_high_need": "9/133 (6.8%)",
+                "rank": 2
+            },
+            {
+                "name": "Rochelle Khaddage",
+                "high_need_score": "177.3",
+                "all_score": "137.0",
+                "percentage_high_need": "26/150 (17.3%)",
+                "rank": 3
+            },
+            {
+                "name": "Valentina William",
+                "high_need_score": "174.8",
+                "all_score": "100.5",
+                "percentage_high_need": "6/217 (2.8%)",
+                "rank": 4
+            },
+            {
+                "name": "Shelton Frimpong",
+                "high_need_score": "171.4",
+                "all_score": "76.4",
+                "percentage_high_need": "9/161 (5.6%)",
+                "rank": 5
+            },
+            {
+                "name": "Robert Cecere",
+                "high_need_score": "160.6",
+                "all_score": "141.6",
+                "percentage_high_need": "20/252 (7.9%)",
+                "rank": 6
+            },
+            {
+                "name": "Yusuf Aly",
+                "high_need_score": "160.0",
+                "all_score": "137.4",
+                "percentage_high_need": "17/211 (8.1%)",
+                "rank": 7
+            },
+            {
+                "name": "Jack Colleran",
+                "high_need_score": "155.5",
+                "all_score": "114.1",
+                "percentage_high_need": "10/96 (10.4%)",
+                "rank": 8
+            },
+            {
+                "name": "Gabriel Almeida",
+                "high_need_score": "151.8",
+                "all_score": "111.6",
+                "percentage_high_need": "13/218 (6.0%)",
+                "rank": 9
+            },
+            {
+                "name": "Nicholas Bowers",
+                "high_need_score": "143.5",
+                "all_score": "123.3",
+                "percentage_high_need": "16/183 (8.7%)",
+                "rank": 10
+            },
+            {
+                "name": "David Mccarthie",
+                "high_need_score": "132.6",
+                "all_score": "101.7",
+                "percentage_high_need": "8/148 (5.4%)",
+                "rank": 11
+            },
+            {
+                "name": "Bridgett Young",
+                "high_need_score": "124.3",
+                "all_score": "115.1",
+                "percentage_high_need": "15/261 (5.7%)",
+                "rank": 12
+            },
+            {
+                "name": "Michael Kiag",
+                "high_need_score": "120.0",
+                "all_score": "89.0",
+                "percentage_high_need": "22/190 (11.6%)",
+                "rank": 13
+            },
+            {
+                "name": "Jake Mckinnis",
+                "high_need_score": "119.7",
+                "all_score": "84.0",
+                "percentage_high_need": "17/169 (10.1%)",
+                "rank": 14
+            },
+            {
+                "name": "Stephen Taylor",
+                "high_need_score": "110.4",
+                "all_score": "92.6",
+                "percentage_high_need": "12/264 (4.5%)",
+                "rank": 15
+            },
+            {
+                "name": "Alexandra Kepas",
+                "high_need_score": "84.3",
+                "all_score": "89.2",
+                "percentage_high_need": "8/182 (4.4%)",
+                "rank": 16
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "146.3",
+            "all_score": "111.1",
+            "percentage_high_need": "219/2992 (7.3%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": "Student trigger: Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by another stating: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163), revealing critical scheduling flexibility needs. | Context/impact: These moments required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum. | Consultant response: Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility through specific examples. | Improvement: Include more specific examples of successful study patterns from current healthcare students with varied shift patterns and provide detailed offline access capabilities."
+                    },
+                    {
+                        "title": "Leadership Experience Integration",
+                        "content": "Student trigger: Student stated: 'I have done diploma and I'm having quite like 12 to 13 years of experience in as a child care educator and working as an educational leader recently' (call_597438496242, seg_56), revealing extensive professional background. | Context/impact: Critical moment to validate leadership experience and align with program requirements to build enrollment confidence while maintaining appropriate boundaries. | Consultant response: Consultant effectively validated experience: 'So the graduate diploma of early childhood teaching essentially is the post-grad study. So it is a master's level qualification for students that meet entry for this degree' (call_597438496242, seg_69). | Improvement: Include deeper exploration of how specific leadership experience enhances study journey while maintaining clear pre-enrollment boundaries."
+                    },
+                    {
+                        "title": "Alternative Entry Support",
+                        "content": "Student trigger: Student stated: 'I think it was in the 40s. It was a while ago' (call_621608762360, seg_46), revealing anxiety about meeting entry requirements and potential barriers to enrollment. | Context/impact: Critical opportunity to demonstrate alternative pathways while maintaining enrollment momentum through practical solutions. | Consultant response: Consultant offered clear solution: 'You would just have to send through a copy of the diploma award...And we'd be able to get you set up in the Undergraduate Certificate as a pathway into the Bachelor of Laws' (call_621608762360, seg_51). | Improvement: Include more specific examples of successful transitions through alternative entry pathways with clear timelines and progression milestones."
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Career Development Planning",
+                        "content": "Student trigger: Student stated: 'I missed out on the CASPer exam and plus I just wanna continue in the childcare industry' (call_597307800348, seg_63), revealing clear career aspirations alongside immediate concerns. | Context/impact: Moment required clear demonstration of how current enrollment supports long-term career goals while addressing immediate challenges within appropriate boundaries. | Consultant response: Consultant replied: 'Yeah, not yet, not right now. Yeah, that's okay. But look, what I would recommend is because both courses are interchangeable' (call_597307800348, seg_66), missing opportunity to explore career alignment. | Improvement: Demonstrate clear alignment between course components and specific career progression pathways while maintaining appropriate pre-enrollment boundaries."
+                    },
+                    {
+                        "title": "Documentation Process Support",
+                        "content": "Student trigger: Student stated: 'I said look, just take it off and lodge it' (call_597525477275, seg_4), showing frustration with documentation process and need for clearer guidance. | Context/impact: This moment required clear guidance and support to maintain enrollment momentum through administrative challenges. | Consultant response: Consultant provided unclear guidance: 'Bear with me for one moment, I'm just going to put you in a quick hold' (call_597525477275, seg_6), missing opportunity for process clarity. | Improvement: Develop clearer collaborative planning around documentation requirements with specific alternatives and proactive support options."
+                    },
+                    {
+                        "title": "Work-Study Balance Support",
+                        "content": "Student trigger: Student expressed: 'I'm just trying to balance the students with my ECT' (call_621609293046, seg_38), revealing concerns about managing work commitments with study requirements. | Context/impact: Work-study balance concerns can significantly impact enrollment decisions if not effectively addressed through collaborative planning within appropriate boundaries. | Consultant response: Consultant focused only on logistics: 'Yeah, I'd say so, as long as she's there enough to cover the days of your placements' (call_621609293046, seg_48), missing deeper exploration of balance strategies. | Improvement: Develop structured approach to discussing flexible study options and support mechanisms while maintaining appropriate consulting boundaries and connecting to post-enrollment resources."
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": {
+                            "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+                            "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+                            "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities while maintaining enrollment momentum through practical, actionable solutions."
+                        }
+                    },
+                    {
+                        "title": "Leadership Experience Integration",
+                        "content": {
+                            "student_trigger": "During call 597438496242 (segment 56), the student revealed their extensive background: 'I have done diploma and I'm having quite like 12 to 13 years of experience in as a child care educator and working as an educational leader recently.' This declaration showcased both their qualifications and substantial industry experience, presenting a crucial opportunity to validate their readiness for advanced study while addressing any underlying concerns about program suitability.",
+                            "consultant_response": "The consultant effectively aligned the program with the student's experience, stating: 'So the graduate diploma of early childhood teaching essentially is the post-grad study. So it is a master's level qualification for students that meet entry for this degree' (call_597438496242, seg_69). This response successfully validated the student's experience level while positioning the program as an appropriate next step in their educational journey.",
+                            "recommended_approach": "When engaging with experienced professionals seeking further education, begin by acknowledging and validating their industry experience before mapping out educational pathways. Start with validation: 'Your leadership experience in early childhood education provides an excellent foundation for this program.' Then explore specific aspects of their role that align with program outcomes: 'Could you tell me more about your leadership responsibilities? This will help us identify how your experience will enhance your studies.' Use their responses to create clear connections between their practical knowledge and academic requirements. When discussing program content, highlight how their experience will contribute to classroom discussions and project work. For example, 'Your experience managing educational programs will be particularly valuable in our curriculum development units.' Pay special attention to moments where students might undervalue their experience, using specific examples to build confidence. The key is transforming their professional background into a foundation for academic success while maintaining appropriate boundaries around career guidance and clearly indicating what additional support becomes available post-enrollment."
+                        }
+                    },
+                    {
+                        "title": "Alternative Entry Support",
+                        "content": {
+                            "student_trigger": "The student revealed uncertainty about their academic qualifications, stating 'I think it was in the 40s. It was a while ago' (call_621608762360, seg_46). This admission highlighted significant anxiety about meeting entry requirements and potentially feeling inadequate for university study. The moment represented a critical juncture where their academic history could have become a barrier to enrollment.",
+                            "consultant_response": "The consultant demonstrated strong collaborative planning by immediately presenting a viable alternative pathway: 'You would just have to send through a copy of the diploma award, which is the certificate page and the transcript page. And we'd be able to get you set up in the Undergraduate Certificate as a pathway into the Bachelor of Laws' (call_621608762360, seg_51). This response effectively transformed a potential barrier into an opportunity, showing how previous qualifications could be leveraged for program entry while maintaining momentum toward their ultimate goal.",
+                            "recommended_approach": "When addressing concerns about academic qualifications, begin by normalizing diverse educational backgrounds and emphasizing multiple pathway opportunities. Start with validating statements like 'Many successful students come to us through different routes' before exploring specific options. Detail alternative entry pathways clearly, using concrete examples: 'One of our current law students started with the Undergraduate Certificate after being out of study for several years. They're now excelling in their second year of the Bachelor program.' Show how chosen pathways maintain progress toward ultimate goals: 'The units you complete in the Certificate transfer directly to the Bachelor degree, so you're moving forward from day one.' Pay particular attention to students with older qualifications, highlighting how their life experience combines with academic study: 'Your work experience often provides valuable perspectives that enhance your studies.' When discussing documentation requirements, be specific but supportive: 'We'll need your diploma award and transcript, but don't worry if they're not immediately available - we can work with you to obtain these.' The key is transforming perceived barriers into stepping stones while maintaining clear pre-enrollment boundaries and connecting to relevant post-enrollment support services."
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Career Development Planning",
+                        "content": {
+                            "student_trigger": "The student shared clear career intentions: 'I missed out on the CASPer exam and plus I just wanna continue in the childcare industry' (call_597307800348, seg_63). This statement revealed both immediate concerns about a missed opportunity and broader career aspirations in childcare, creating a crucial moment for collaborative planning around career progression through education.",
+                            "consultant_response": "The consultant's response focused primarily on course mechanics rather than career alignment: 'Yeah, not yet, not right now. Yeah, that's okay. But look, what I would recommend is because both courses are interchangeable' (call_597307800348, seg_66). While addressing the immediate course situation, this missed the opportunity to explore specific career goals and demonstrate how the educational pathway would support their industry aspirations.",
+                            "recommended_approach": "When students express specific career intentions, begin by acknowledging both immediate concerns and long-term aspirations while maintaining appropriate pre-enrollment boundaries. Start with empathetic validation: 'I understand your commitment to the childcare industry, and I want to ensure your studies support that goal.' Follow with exploratory questions about specific career ambitions: 'Could you tell me more about your current role and where you'd like to progress?' Use this information to demonstrate clear alignment between course content and career goals: 'The units you'll study directly support your career progression by developing advanced skills in early childhood development and leadership.' When addressing missed opportunities like the CASPer exam, frame alternative pathways in terms of career benefits: 'While this pathway may take a slightly different route, it actually provides additional industry-relevant qualifications that many employers value.' Always ground discussions in practical career outcomes, showing how each unit contributes to professional development: 'For example, the child development unit directly enhances your ability to create age-appropriate learning programs.' The key is maintaining appropriate pre-enrollment boundaries while clearly connecting to post-enrollment career support services."
+                        }
+                    },
+                    {
+                        "title": "Documentation Process Support",
+                        "content": {
+                            "student_trigger": "Early in call 597525477275 (segment 4), the student expressed frustration with documentation requirements stating: 'I said look, just take it off and lodge it.' This moment revealed urgent need for clarity and support around administrative processes, presenting an opportunity for collaborative planning to resolve documentation challenges.",
+                            "consultant_response": "The consultant's response lacked clear direction: 'Bear with me for one moment, I'm just going to put you in a quick hold' (call_597525477275, seg_6). This approach missed the opportunity to engage the student in collaborative problem-solving around documentation requirements, potentially increasing their frustration with administrative processes.",
+                            "recommended_approach": "When students express frustration with documentation requirements, immediately acknowledge their concerns while initiating collaborative problem-solving. Start with empathy: 'I understand this process can be frustrating - let's work together to find the best way forward.' Then explore specific challenges: 'Could you tell me more about which documents are proving difficult to obtain?' Use this information to present alternatives: 'We have several options available - for instance, if the original transcript isn't immediately available, we can often accept a certified copy while waiting.' Create a clear action plan together, outlining exact steps and timelines: 'Let's start by confirming which documents you have readily available, then explore options for any missing items.' Share practical solutions that have worked for other students: 'Many students in similar situations have successfully used employer letters or certified copies when original documents weren't immediately available.' The key is transforming documentation challenges from barriers into manageable tasks through clear guidance and support while maintaining appropriate pre-enrollment boundaries."
+                        }
+                    },
+                    {
+                        "title": "Work-Study Balance Support",
+                        "content": {
+                            "student_trigger": "During call 621609293046 (segment 38), the student expressed concerns about managing their current professional role alongside potential studies, stating 'I'm just trying to balance the students with my ECT.' This revealed their anxiety about maintaining work-life balance while pursuing education - a critical consideration that could potentially impact their enrollment decision.",
+                            "consultant_response": "The consultant's response focused primarily on logistical aspects: 'Yeah, I'd say so, as long as she's there enough to cover the days of your placements.' While this addressed immediate placement concerns, it missed the opportunity to engage in deeper collaborative planning about managing work-study balance.",
+                            "recommended_approach": "When addressing work-study balance concerns, begin by validating the student's realistic approach to planning their educational journey while maintaining appropriate boundaries. Start with acknowledgment: 'I appreciate you thinking carefully about managing your commitments. Let's explore how our program flexibility can support your success.' Guide the conversation through specific examples of how current students manage similar situations: 'Many of our working ECTs find success by utilizing our flexible study options.' For instance, share how asynchronous learning means no mandatory live sessions, and offline access enables study during quiet periods at work. When discussing study patterns, focus on practical strategies: 'Some students download materials before busy work periods, while others break study into smaller segments throughout the week.' Share specific success stories: 'One current student manages their ECT role by dedicating early mornings to readings and using weekends for assignments.' Always maintain appropriate boundaries by focusing on program features rather than detailed study planning, which becomes available through learning advisers post-enrollment. The key is transforming perceived barriers into manageable challenges through practical planning while ensuring clear role distinctions."
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2024-12-13",
+        "report_id": "MONU-B-COLL-W7-2024",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

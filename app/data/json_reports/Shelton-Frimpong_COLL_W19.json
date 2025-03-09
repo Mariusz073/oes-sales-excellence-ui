@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "consultant_name": "Shelton Frimpong",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 161,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 48,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 29.81366459627329,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 113,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 70.1863354037267,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.705350127203126,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 113,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 131.37,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 75.44,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 145.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 91.58,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 157.14,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.5,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 135.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 103.51,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 182.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.77,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 71.16,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 97.79,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 118.6,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.58,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 99.11,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 74.52,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 115.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 72.13,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 84.14,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 77.92,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 132.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.02,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 171.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.39,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining appropriate pre-enrollment boundaries and momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples, specific support options, and clear explanations of asynchronous learning benefits"
+      },
+      {
+        "headline": "Documentation Support Excellence",
+        "explanation": "Effective guidance through documentation requirements with clear digital pathways, proactive validation support, and specific examples that build institutional trust and maintain momentum"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges, professional certifications, and career advancement goals while maintaining appropriate boundaries"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "More comprehensive support needed for students returning to education after extended breaks, focusing on transferable skills, available resources, and emotional readiness"
+      },
+      {
+        "headline": "Health-Sensitive Planning",
+        "explanation": "Deeper collaborative discussion required when addressing health-related study concerns to ensure appropriate support mechanisms are highlighted and accommodation pathways are clear"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444903837",
+              "segment_id": "16",
+              "timestamp": "02:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597444903837",
+                "segment_id": "19",
+                "timestamp": "02:25"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'Yes, I just want to know because I'm currently full-time employment, is it possible for me to still do the course for like after hours?' (call_597444903837, seg_16), revealing crucial need for schedule flexibility.",
+          "consultant_response": "Consultant effectively explained: 'So we have live lectures, okay, but they're also recorded so you can always assess in your own time as well' (call_597444903837, seg_19), showing practical study options.",
+          "context_impact": "This moment required clear demonstration of how program flexibility accommodates full-time work commitments to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how current working professionals successfully manage varied study schedules and utilize asynchronous learning features."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Graduate Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621540432081",
+              "segment_id": "10",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "621540432081",
+                "segment_id": "73",
+                "timestamp": "05:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm just looking at the pathway to go through to an MBA, I believe I have to do a Graduate Certificate in Business Administration first' (call_621540432081, seg_10), seeking pathway clarity.",
+          "consultant_response": "Consultant provided clear explanation: 'That would be the Grad Cert. So you'd do the Grad Cert first, right? Which is four units. And the four units from that normally are in the Masters anyway' (call_621540432081, seg_73).",
+          "context_impact": "Critical opportunity to clarify academic pathway and progression requirements while maintaining enrollment momentum.",
+          "recommended_approach": "Enhance explanation with more emphasis on integrated pathway benefits and specific examples of successful progression patterns."
+        },
+        {
+          "id": 3,
+          "title": "Career Certification Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438170699",
+              "segment_id": "35",
+              "timestamp": "3:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'have some certification on project management' (call_597438170699, seg_35), indicating specific career development goals and certification interests.",
+          "consultant_response": "Consultant provided minimal response: 'Yeah, sure. That's fine. I can help you go for that for you' (call_597438170699, seg_40), without exploring certification pathways.",
+          "context_impact": "Opportunity to align program benefits with professional certification objectives while maintaining appropriate advisory boundaries.",
+          "recommended_approach": "Provide detailed exploration of how program aligns with professional certification requirements while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539558399",
+              "segment_id": "147",
+              "timestamp": "16:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Yeah, nervous but exciting at the same time' (call_621539558399, seg_147), revealing mixed emotions about returning to study after a break.",
+          "consultant_response": "Consultant gave brief reply: 'Okay, fantastic' (call_621539558399, seg_148), missing opportunity to validate feelings and provide support options.",
+          "context_impact": "Critical moment to build confidence and demonstrate comprehensive support mechanisms for returning students.",
+          "recommended_approach": "Acknowledge mixed emotions and discuss comprehensive support mechanisms including orientation services and learning advisor support for returning students."
+        },
+        {
+          "id": 5,
+          "title": "Health-Conscious Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445389868",
+              "segment_id": "79",
+              "timestamp": "13:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student disclosed: 'I am in mental health recovery and I've got degenerative disc disease... but it shouldn't affect this' (call_597445389868, seg_79), showing determination despite health challenges.",
+          "consultant_response": "Consultant explored support options: 'Would you need any support in terms of when you're studying at all?... If you're really struggling, I have needed extensions with assignments before' (call_597445389868, seg_90).",
+          "context_impact": "Crucial opportunity to demonstrate program flexibility and comprehensive support mechanisms for students with health considerations.",
+          "recommended_approach": "Provide more comprehensive overview of specific support services, accommodation options, and successful examples of health-conscious study management."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609407096",
+              "segment_id": "60",
+              "timestamp": "04:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I was really hoping to keep my old transcript as a validity' (call_621609407096, seg_60), revealing significant anxiety about prior credit recognition and documentation.",
+          "consultant_response": "Consultant provided basic guidance: 'My e-quals essentially is like the online version where you can get your transcripts... I'll get everything assessed for you' (call_621609407096, seg_47), missing opportunity for deeper pathway exploration.",
+          "context_impact": "Critical moment requiring clear guidance on transcript validation process to maintain enrollment momentum and build confidence.",
+          "recommended_approach": "Include more comprehensive discussion of similar successful credit transfers and specific documentation requirements."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444903837",
+              "segment_id": "16",
+              "timestamp": "02:10"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597444903837",
+                "segment_id": "19",
+                "timestamp": "02:25"
+              }
+            ]
+          },
+          "student_trigger": "During call 597444903837, the student expressed significant concern about balancing work and study commitments: 'Yes, I just want to know because I'm currently full-time employment, is it possible for me to still do the course for like after hours?' (segment 16). This revealed both interest in the program and anxiety about practical implementation. The student's emphasis on 'after hours' highlighted their need for flexible study options that could accommodate their professional responsibilities.",
+          "consultant_response": "The consultant demonstrated strong understanding of working professionals' needs, responding with practical solutions: 'So we have live lectures, okay, but they're also recorded so you can always assess in your own time as well' (segment 19). This response effectively addressed the core concern by highlighting specific flexibility features of the program. The consultant successfully transformed what could have been a barrier into a manageable aspect of the program, helping the student envision how they could balance work and study commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by validating the common challenge of managing professional commitments alongside education. Start with acknowledgment: 'Many of our successful students are working professionals like yourself.' Then demonstrate specific flexibility features that support working students: 'Our program is designed with working professionals in mind - from recorded lectures you can access anytime to flexible assessment schedules that accommodate busy periods at work.' Share concrete examples of how current students manage: 'For instance, many students download materials for offline study during breaks, or review recorded lectures during their commute.' When students express specific schedule constraints, show how our platform's features directly address their concerns: 'You can access all materials 24/7, study at your own pace, and even download content for offline review during quiet periods at work.' The key is making flexibility tangible rather than theoretical, always grounding explanations in practical workplace scenarios. Pay particular attention to students expressing specific schedule constraints, showing how our platform's features directly address their concerns. The goal is to transform perceived scheduling barriers into manageable planning opportunities, maintaining focus on practical solutions while staying within appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Graduate Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621540432081",
+              "segment_id": "10",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "621540432081",
+                "segment_id": "73",
+                "timestamp": "05:15"
+              }
+            ]
+          },
+          "student_trigger": "In call 621540432081, the student sought clarity about their academic pathway: 'I'm just looking at the pathway to go through to an MBA, I believe I have to do a Graduate Certificate in Business Administration first' (segment 10). This query revealed both long-term aspirations and a need for clear understanding of the progression pathway, making it a crucial moment for providing guidance about academic advancement opportunities.",
+          "consultant_response": "The consultant provided a comprehensive explanation of the pathway: 'That would be the Grad Cert. So you'd do the Grad Cert first, right? Which is four units. And the four units from that normally are in the Masters anyway' (segment 73). This response effectively outlined the progressive nature of the program while highlighting how initial studies contribute to the final qualification, demonstrating both immediate value and long-term benefits of the educational journey.",
+          "priority": "high",
+          "recommended_approach": "When discussing graduate pathways, begin by acknowledging the student's strategic thinking and career aspirations. Start with validation: 'It's great that you're thinking strategically about your MBA journey. Let me show you how our pathway program works to your advantage.' Then provide a clear progression framework: 'The Graduate Certificate isn't just a stepping stone - it's actually the first part of your MBA. Each unit you complete counts toward both qualifications.' Use specific numbers to provide clarity: 'You'll complete 4 units for your Graduate Certificate, and these same 4 units count toward your 12-unit MBA.' Share success stories while maintaining appropriate boundaries: 'Many of our current MBA students started with the Graduate Certificate, finding it provided both immediate credentials and momentum toward their MBA.' When students seek detailed planning guidance, direct to post-enrollment support: 'Once enrolled, our learning advisors can help optimize your study plan based on awarded credits.' The key is helping students see the value of starting with the Graduate Certificate while maintaining clear pre-enrollment consultation boundaries. Focus on progression benefits while directing detailed credit transfer questions to appropriate post-enrollment support services."
+        },
+        {
+          "id": 3,
+          "title": "Career Certification Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438170699",
+              "segment_id": "35",
+              "timestamp": "3:02"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed specific career development goals, stating: 'have some certification on project management' (call_597438170699, seg_35). This clear articulation of professional aspirations presented an opportunity to demonstrate how the program could support their career advancement through relevant certification pathways.",
+          "consultant_response": "The consultant's response was basic and procedural: 'Yeah, sure. That's fine. I can help you go for that for you' (call_597438170699, seg_40), followed immediately by eligibility questions rather than exploring how the program aligns with certification requirements. This approach missed the opportunity to demonstrate program value through career development lens.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in professional certifications, begin by exploring their career context while maintaining appropriate boundaries. Start with acknowledgment: 'Your interest in project management certification shows clear career focus. Let me explain how our program can support your professional development goals.' Then outline relevant program features: 'While we can't provide specific career advice, I can show you how our program components align with standard project management frameworks.' Share general examples: 'Many of our students find that the knowledge and skills gained in our program support their professional certification goals.' When discussing specific certifications, maintain appropriate pre-enrollment boundaries: 'Once enrolled, our career services team can provide more detailed guidance about integrating your studies with professional certifications.' Use specific examples: 'For instance, our project management units cover key methodologies and frameworks that many students find valuable for their professional development.' The key is demonstrating program value while ensuring expectations are clear and avoiding specific career guidance. Focus on program features that support professional development while clearly indicating what detailed support becomes available post-enrollment."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Confidence",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539558399",
+              "segment_id": "147",
+              "timestamp": "16:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed mixed emotions about returning to study: 'Yeah, nervous but exciting at the same time' (call_621539558399, seg_147). This vulnerable moment revealed both anticipation and anxiety about their educational journey, presenting a crucial opportunity for emotional support and collaborative planning.",
+          "consultant_response": "The consultant's brief response of 'Okay, fantastic' (segment 148) failed to acknowledge or explore the student's emotional state. This missed opportunity to provide emotional support and build confidence through collaborative planning could impact the student's comfort with their decision to return to study.",
+          "priority": "high",
+          "recommended_approach": "When students express mixed emotions about returning to study, begin by normalizing their feelings while maintaining appropriate boundaries. Start with validation: 'It's completely natural to feel both nervous and excited about returning to study. Many of our successful students start with similar feelings.' Then explore specific aspects: 'Would you like to discuss what aspects excite you and what makes you nervous? Understanding your concerns helps us ensure you have the right support from day one.' Share relevant support mechanisms: 'We have dedicated Learning Advisors who help students transition back to study, and they can work with you to develop strategies for managing any challenges.' Focus on building confidence through practical support: 'Many students find their professional experience brings valuable perspective to their studies. Our flexible study options and support services are designed to help you leverage these strengths.' Share success stories: 'For example, many of our current students who returned to study after a break found that our orientation programs and support services helped them quickly regain their confidence.' The goal is to acknowledge emotions while focusing on practical support and preparation that's available immediately, clearly indicating what additional support becomes accessible post-enrollment."
+        },
+        {
+          "id": 5,
+          "title": "Health-Conscious Study Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445389868",
+              "segment_id": "79",
+              "timestamp": "13:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597445389868, the student shared their health circumstances: 'I am in mental health recovery and I've got degenerative disc disease... but it shouldn't affect this' (segment 79). This disclosure demonstrated both vulnerability and determination to pursue their studies despite health challenges. The student's proactive sharing of this information presented a crucial opportunity to demonstrate how the program could accommodate their specific needs while supporting their academic goals.",
+          "consultant_response": "The consultant responded with empathy and practical support options: 'Would you need any support in terms of when you're studying at all?... If you're really struggling, I have needed extensions with assignments before' (segment 90). This response effectively acknowledged the student's circumstances while transitioning to a solution-focused discussion about available support mechanisms. The approach demonstrated understanding while maintaining a positive focus on enabling successful study.",
+          "priority": "high",
+          "recommended_approach": "When students disclose health considerations, begin by acknowledging their openness and resilience while maintaining appropriate boundaries. Start with validation: 'Thank you for sharing that information. It's important that we ensure you have the right support to succeed in your studies.' Then engage in collaborative planning that focuses on empowerment rather than limitations: 'Our program includes several flexibility features and support services designed to help you manage your studies effectively.' Outline specific support mechanisms while maintaining clear pre-enrollment boundaries: 'Many students use our flexible assessment arrangements to maintain their academic progress while managing health considerations. Once enrolled, you'll have access to learning advisors who can help you develop study strategies that work with your circumstances.' Frame accommodations as normal support tools: 'For instance, our online platform allows you to pace your study according to your energy levels and health needs.' Share success stories: 'Many students with similar considerations have found our flexible study options and support services help them maintain steady progress toward their goals.' The goal is to position health considerations as something to be planned for rather than obstacles to success, while ensuring students understand what support becomes available immediately versus post-enrollment."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Process Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609407096",
+              "segment_id": "60",
+              "timestamp": "04:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the enrollment conversation, the student expressed significant concern about maintaining the validity of their previous academic achievements: 'I was really hoping to keep my old transcript as a validity' (call_621609407096, seg_60). This moment revealed both the student's commitment to continuing their education and their anxiety about potentially losing recognition for prior academic work.",
+          "consultant_response": "The consultant provided basic guidance: 'My e-quals essentially is like the online version where you can get your transcripts... I'll get everything assessed for you' (call_621609407096, seg_47), without fully exploring the student's concerns about transcript validity or providing a comprehensive explanation of the documentation process.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation concerns, begin by acknowledging the importance of previous academic achievements while outlining clear processes. Start with validation: 'I understand how important it is to maintain recognition for your previous studies. Let me show you exactly how our documentation process works.' Then provide a clear, step-by-step explanation: 'Our digital system makes it straightforward to verify and assess your previous studies. First, we'll secure your transcripts through e-quals, then our assessment team reviews them for credit opportunities.' Share success stories while maintaining appropriate boundaries: 'Many students successfully transfer their academic records through our digital platform. While I can't guarantee specific credit outcomes, I can ensure your documentation is properly assessed.' Focus on immediate next steps: 'Let's start by confirming which documents you have available, then I'll guide you through our submission process.' When students seek detailed credit advice, direct to post-enrollment support: 'Once enrolled, our learning advisors can help optimize your study plan based on awarded credits.' The key is transforming what might seem like a complex documentation challenge into a manageable process with clear support at each stage, while maintaining appropriate pre-enrollment consultation boundaries."
+        }
+      ]
+    }
+  }
+}

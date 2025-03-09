@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "consultant_name": "Jake Mckinnis",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 169,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 60,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 35.50295857988166,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 109,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 64.49704142011834,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 53.17822406358406,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 109,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 158.44,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.26,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 111.13,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.09,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 137.58,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 73.71,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 140.67,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.53,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 148.9,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.26,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 171.09,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.89,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 84.01,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 157.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 60.63,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 135.41,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 111.04,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 119.65,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 83.95,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical examples and tailored solutions"
+      },
+      {
+        "headline": "Documentation Support Planning",
+        "explanation": "Clear, proactive guidance through documentation requirements with specific steps and alternative pathways for complex scenarios"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "More comprehensive discussion needed of financial assistance options and personalized payment pathways aligned with individual circumstances"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "Deeper support required for students expressing anxiety about academic readiness after extended breaks from education"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from other healthcare workers: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "Clear demonstration of program flexibility essential for healthcare workers considering enrollment.",
+          "recommended_approach": "Include more specific examples of successful healthcare student study patterns and shift management strategies."
+        },
+        {
+          "id": 2,
+          "title": "Initial Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438292801",
+              "segment_id": "109",
+              "timestamp": "10:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438292801",
+                "segment_id": "111",
+                "timestamp": "10:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'So I'll probably start with one unit to get back into the flow of study' (call_597438292801, seg_109), showing thoughtful approach to managing study return.",
+          "consultant_response": "Consultant effectively guided: 'The first unit is Learning Communicating for Innovative Business Practices... it sort of teaches you how to drive a car while you drive a car' (call_597438292801, seg_111), demonstrating practical support.",
+          "context_impact": "Critical opportunity to validate student's self-awareness while providing structured re-entry guidance.",
+          "recommended_approach": "Enhance support with more specific examples of successful study patterns from previous returning students."
+        },
+        {
+          "id": 3,
+          "title": "Documentation Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231256946",
+              "segment_id": "11",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I don't know where to look for it. Is it Vet Transcript?' (call_597231256946, seg_11), showing documentation navigation needs.",
+          "consultant_response": "Consultant provided step-by-step guidance: 'On the right-hand side, you'll see a square that says View Vet transcript' (call_597231256946, seg_13), offering clear navigation support.",
+          "context_impact": "Key moment to maintain enrollment momentum through clear documentation guidance.",
+          "recommended_approach": "Enhance documentation support with proactive follow-up and alternative pathway planning for complex cases."
+        },
+        {
+          "id": 4,
+          "title": "Financial Investment Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437723923",
+              "segment_id": "106",
+              "timestamp": "7:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Just the cost of it, because I know that you guys like, so it says $25,000 per year, which is fine, but it's a fair bit higher than the others' (call_597437723923, seg_106), revealing significant cost comparison concerns.",
+          "consultant_response": "Consultant replied: 'Yeah, so the total costing of our course, short answer, is about $50,000 for our degree' (call_597437723923, seg_110), missing opportunity for comprehensive financial planning.",
+          "context_impact": "Critical opportunity to transform cost concerns through collaborative financial planning.",
+          "recommended_approach": "Develop comprehensive financial planning approach incorporating available support options and payment pathways with specific examples."
+        },
+        {
+          "id": 5,
+          "title": "Career Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609276501",
+              "segment_id": "68",
+              "timestamp": "04:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'But if I want to do high school teaching, so what should I do?' (call_621609276501, seg_68), seeking specific career pathway guidance.",
+          "consultant_response": "Consultant provided basic program information: 'We offer two master's programs...Master's of Teaching Primary and Master's of Teaching Secondary' (call_621609276501, seg_69), missing opportunity for deeper exploration.",
+          "context_impact": "Opportunity to demonstrate clear educational pathway aligned with career goals while maintaining appropriate boundaries.",
+          "recommended_approach": "Implement structured career pathway planning incorporating specific subject interests and progression options while maintaining appropriate guidance boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597308514015",
+              "segment_id": "32",
+              "timestamp": "2:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'It's been a while since I've studied formally' (call_597308514015, seg_32), indicating significant anxiety about academic readiness.",
+          "consultant_response": "Consultant acknowledged concern but provided limited practical support: 'Many students return to study successfully' without detailed exploration of available resources.",
+          "context_impact": "Return to study concerns can significantly impact enrollment confidence if not addressed comprehensively.",
+          "recommended_approach": "Create detailed support pathway incorporating specific study skill resources and transition support options with concrete examples of success."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The consultant demonstrated strong understanding of healthcare workflows by responding: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, showing how the program's flexibility directly addresses common healthcare scheduling challenges. The approach effectively transformed perceived scheduling barriers into manageable planning opportunities.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by validating their specific work pattern then immediately bridge to relevant examples that demonstrate our program's practical flexibility. The key is making our platform's features tangible through real-world healthcare scenarios. For example, when a nurse mentions rotating shifts, respond: 'I understand how challenging rotating rosters can be. Let me show you exactly how our program adapts to that. The platform lets you download all your weekly materials before your rotation starts. So if you're working three night shifts, you might download everything on Monday, use those quiet periods around 2-3am for focused reading, then complete your discussion posts during your recovery days.' This specific, healthcare-focused approach resonates more deeply than general statements about flexibility. Pay particular attention to proactively addressing night shifts and long rotations, always keeping examples grounded in the realities of healthcare work patterns."
+        },
+        {
+          "id": 2,
+          "title": "Initial Course Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438292801",
+              "segment_id": "109",
+              "timestamp": "10:37"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438292801",
+                "segment_id": "111",
+                "timestamp": "10:45"
+              }
+            ]
+          },
+          "student_trigger": "The student demonstrated thoughtful consideration of their study approach by stating: 'So I'll probably start with one unit to get back into the flow of study' (call_597438292801, seg_109). This moment revealed both self-awareness about their return to education and a desire for a manageable transition. The student's proactive approach to discussing workload management presented an opportunity to reinforce their decision-making while providing strategic guidance for successful re-entry into academic studies.",
+          "consultant_response": "The consultant provided targeted guidance by responding: 'The first unit that you start with anyway is Learning Communicating for Innovative Business Practices. So, it is an introductory unit for you to take. So, start with that one because it sort of teaches you how to drive a car while you drive a car' (call_597438292801, seg_111). This response effectively validated the student's cautious approach while demonstrating how the program structure naturally supports a gradual return to study through practical, confidence-building steps.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in managing their return to study, begin by validating their thoughtful approach while providing structured guidance that aligns with their needs. Start with acknowledgment: 'Starting with one unit shows good planning on your part.' Then explain how the program structure supports this approach through introductory units specifically designed for returning students. Share concrete examples of how past students have successfully managed their return: 'Many of our returning students find this unit helps them establish effective study routines while building confidence.' Use relatable analogies that make the learning process feel more approachable, always connecting program features to the student's specific situation. Pay particular attention to students expressing caution about workload, showing how the program's flexibility allows them to adjust their study load as they become more comfortable with academic requirements."
+        },
+        {
+          "id": 3,
+          "title": "Documentation Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231256946",
+              "segment_id": "11",
+              "timestamp": "00:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about locating required documentation: 'I don't know where to look for it. Is it Vet Transcript?' (call_597231256946, seg_11). This moment revealed both engagement with the enrollment process and a need for clear guidance to maintain momentum.",
+          "consultant_response": "The consultant provided clear, step-by-step guidance: 'On the right-hand side, you'll see it's obviously you've logged in. Once you've logged in, you'll see a square that says View Vet transcript' (call_597231256946, seg_13). This response effectively broke down the process into manageable steps while maintaining a supportive tone that encouraged continued engagement.",
+          "priority": "high",
+          "recommended_approach": "When assisting students with documentation requirements, begin by acknowledging their engagement with the process and validating their questions. Start with clear, linear instructions: 'Let me guide you through this step by step.' Use visual markers and confirmation points to ensure understanding: 'Do you see the square on the right side of your screen?' Maintain a supportive tone while guiding them through each action. Follow up proactively to confirm successful completion: 'Were you able to locate and download the transcript?' When students encounter difficulties, provide alternative approaches or connect them with appropriate support services. Focus on creating a supportive environment that helps students navigate documentation requirements confidently while maintaining enrollment momentum."
+        },
+        {
+          "id": 4,
+          "title": "Financial Investment Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437723923",
+              "segment_id": "106",
+              "timestamp": "7:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597437723923 (segment 106), the student directly addressed cost concerns: 'Just the cost of it, because I know that you guys like, so it says $25,000 per year, which is fine, but it's a fair bit higher than the others.' This statement revealed both awareness of comparative costs and potential hesitation about the financial commitment, presenting a crucial opportunity for collaborative financial planning.",
+          "consultant_response": "The consultant's response was primarily informational rather than collaborative: 'Yeah, so the total costing of our course, short answer, is about $50,000 for our degree. There are subsidies that students can apply for, however, the onus is always on the student to do that' (segment 110). While providing accurate information, this approach missed the opportunity to engage in meaningful financial planning discussion or explore specific support options.",
+          "priority": "high",
+          "recommended_approach": "When addressing cost concerns, start by acknowledging the significance of financial investment in education before transitioning into a collaborative exploration of available support options. Begin with validation: 'I appreciate you bringing up the cost - it's an important factor to consider carefully.' Then guide the conversation toward specific financial pathways, such as FEE-HELP, scholarships, or flexible payment arrangements. Share success stories of how current students manage their financial commitments, always relating these examples to the student's specific situation. Pay particular attention to their employment status or industry connections that might affect access to additional financial support or employer assistance programs. Transform cost discussions from potential barriers into collaborative planning opportunities by demonstrating how various support mechanisms can make the investment manageable."
+        },
+        {
+          "id": 5,
+          "title": "Career Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609276501",
+              "segment_id": "68",
+              "timestamp": "04:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student sought specific guidance about their career aspirations: 'But if I want to do high school teaching, so what should I do?' (call_621609276501, seg_68). This direct question revealed both clear career goals and a need for detailed pathway planning, presenting a crucial opportunity to demonstrate how the institution could support their professional aspirations.",
+          "consultant_response": "The consultant provided basic program information: 'We offer two master's programs...Master's of Teaching Primary and Master's of Teaching Secondary' (call_621609276501, seg_69). While accurate, this response missed the opportunity to explore the student's specific interests and create a more detailed pathway plan that aligned with their teaching goals.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in specific teaching pathways, begin by exploring their particular subject interests and career aspirations before outlining program options. Start with deeper exploration: 'What subjects are you most passionate about teaching?' This information helps tailor the guidance while showing genuine interest in their goals. Create clear connections between their interests and program specializations, demonstrating how specific courses align with their teaching aspirations. Pay special attention to any unique circumstances or previous experience that might influence their pathway choices. Focus on building a comprehensive understanding of their career vision to ensure program recommendations fully support their professional goals while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597308514015",
+              "segment_id": "32",
+              "timestamp": "2:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about academic readiness: 'It's been a while since I've studied formally' (call_597308514015, seg_32). This statement indicated anxiety about returning to study and the need for comprehensive support in transitioning back to academic requirements.",
+          "consultant_response": "The consultant acknowledged the concern but provided limited practical support, stating only: 'Many students return to study successfully.' This surface-level response missed the opportunity to outline specific support services and resources available to returning students, potentially leaving the student uncertain about their ability to succeed.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study, consultants should create a supportive planning environment that addresses specific anxieties while highlighting available resources. Begin with validation: 'Many successful students share similar concerns about returning to study, and we have comprehensive support to help you transition back.' Then outline specific support systems: 'Our program includes dedicated resources for returning students, including study skills workshops, academic writing support, and one-on-one coaching.' Share success strategies: 'Many returning students find success by starting with our study skills refresher module, which helps rebuild academic confidence.' Create a clear pathway: 'Let's look at the specific resources that would be most helpful for your situation.' Throughout the discussion, maintain focus on building confidence through practical support: 'Our learning coaches specialize in helping students return to study successfully, and they'll be available to support you throughout your journey.'"
+        }
+      ]
+    }
+  }
+}

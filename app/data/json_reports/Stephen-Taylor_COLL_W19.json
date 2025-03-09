@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "consultant_name": "Stephen Taylor",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 264,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 62,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.484848484848484,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 202,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.51515151515152,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 55.529354297300145,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 202,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 173.69,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.69,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 124.05,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 94.05,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 119.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 106.77,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 214.57,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 116.23,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 162.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 127.86,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 108.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.2,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 92.25,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 96.65,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 163.55,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 110.28,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 110.39,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 92.57,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances and commitments through practical, relatable examples"
+      },
+      {
+        "headline": "Professional Experience Recognition",
+        "explanation": "Effective exploration of how prior work experience and qualifications can support academic success while maintaining appropriate boundaries"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Work-Life Balance Planning",
+        "explanation": "More comprehensive strategies needed for demonstrating how program flexibility specifically accommodates various personal and professional commitments"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "Enhanced support needed for students returning to education after extended breaks requiring more comprehensive confidence building"
+      },
+      {
+        "headline": "Alternative Pathway Development",
+        "explanation": "Stronger demonstration needed of alternative solutions when standard processes or documentation requirements present enrollment barriers"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Academic Confidence Building",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444734222",
+              "segment_id": "36",
+              "timestamp": "02:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597444734222, seg_36), revealing significant anxiety about returning to academic study.",
+          "consultant_response": "Consultant provided minimal reassurance without exploring transferable skills or available support services.",
+          "context_impact": "Critical moment to build confidence and demonstrate support structures for returning students.",
+          "recommended_approach": "Implement comprehensive discussion of how professional experience contributes to academic success while introducing available support services."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Transition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438496105",
+              "segment_id": "9",
+              "timestamp": "00:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I am a doctor and I want to switch to secondary teaching' (call_597438496105, seg_9), seeking clear transition guidance.",
+          "consultant_response": "Consultant provided focused pathway guidance: 'So unfortunately you're probably your only option is to either do a Master of Teaching or a Bachelor of Education' (call_597438496105, seg_72).",
+          "context_impact": "Opportunity to demonstrate educational pathways while maintaining appropriate career guidance boundaries.",
+          "recommended_approach": "Include more specific examples of program features supporting career transitions while maintaining focus on educational guidance."
+        },
+        {
+          "id": 4,
+          "title": "Family-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608553793",
+              "segment_id": "11",
+              "timestamp": "00:58"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I actually started a Masters... but obviously I've got small kids so it just become too much' (call_621608553793, seg_11), revealing specific need for family-study balance strategies.",
+          "consultant_response": "Consultant replied: 'Yeah, you can defer all of that. You don't need to pay it up front' (call_621608553793, seg_28), missing opportunity to address core family-study balance concerns.",
+          "context_impact": "Previous difficulties balancing study with parenting required careful exploration of program flexibility and support options.",
+          "recommended_approach": "Implement comprehensive discussion of how program flexibility specifically accommodates family commitments."
+        },
+        {
+          "id": 5,
+          "title": "Teaching Experience Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609316708",
+              "segment_id": "22",
+              "timestamp": "01:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm teaching right now I've been teaching for one year, so I'm a full-time teacher' (call_621609316708, seg_22), indicating need for work-study integration.",
+          "consultant_response": "Consultant provided clear next steps aligned with teaching schedule, showing understanding of work-study balance needs (call_621609316708, seg_25).",
+          "context_impact": "Opportunity to demonstrate how program accommodates full-time teaching commitments.",
+          "recommended_approach": "Further explore specific teaching commitments to create more detailed study planning guidance."
+        },
+        {
+          "id": 6,
+          "title": "Alternative Documentation Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445311366",
+              "segment_id": "35",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm having trouble getting my original transcript' (call_597445311366, seg_35), revealing documentation challenges.",
+          "consultant_response": "Consultant stated: 'We'll need the original transcript for full credit assessment' (call_597445311366, seg_36), missing opportunity to explore alternatives.",
+          "context_impact": "Critical moment to explore alternative options while maintaining enrollment momentum.",
+          "recommended_approach": "Provide comprehensive guidance on alternative documentation options and interim solutions."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Academic Confidence Building",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444734222",
+              "segment_id": "36",
+              "timestamp": "02:35"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant anxiety about returning to academic study after a long break, expressing: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_597444734222, seg_36). This admission demonstrated both vulnerability and a desire for reassurance about their capability to succeed in an academic environment after such a significant gap.",
+          "consultant_response": "Unfortunately, the consultant missed an opportunity to address these fears comprehensively. Instead of exploring the student's professional experiences or discussing available support services, the response was minimal and failed to acknowledge the legitimate nature of these concerns. This gap in addressing the student's anxiety about returning to study likely left them feeling unsupported and uncertain about their ability to succeed in the program.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about returning to study after a long break, begin by validating their feelings while highlighting the value of their life experience: 'I understand returning to study after 15 years feels daunting, but your professional experience during this time is incredibly valuable. Many of our successful students have similar gaps in their formal education.' Guide them to recognize their transferable skills: 'Could you tell me about your current role? Often, skills like time management and problem-solving from your professional life transfer directly to academic success.' Share specific examples: 'One recent student returned to study after 20 years and found their work experience gave them practical insights that enriched class discussions.' When discussing support services, be specific: 'Our learning advisers specialize in helping returning students adjust to academic life, offering everything from study skills workshops to one-on-one support sessions.' The goal is transforming their perceived disadvantage into a foundation for success while ensuring they feel supported throughout their academic journey."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Career Transition",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438496105",
+              "segment_id": "9",
+              "timestamp": "00:48"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a clear career transition goal: 'I am a doctor and I want to switch to secondary teaching' (call_597438496105, seg_9). This statement presented a crucial opportunity to demonstrate how our program supports career transitions while maintaining appropriate boundaries in guidance scope.",
+          "consultant_response": "The consultant provided focused pathway guidance: 'So unfortunately you're probably your only option is to either do a Master of Teaching or a Bachelor of Education' (call_597438496105, seg_72). This response effectively outlined academic requirements while staying within appropriate boundaries of educational guidance.",
+          "priority": "high",
+          "recommended_approach": "When addressing career transition inquiries, begin by acknowledging the student's professional background while maintaining clear boundaries between educational and career guidance. Start with validation: 'Your medical background brings valuable experience to teaching. Let me show you how our education programs can support your transition.' Guide the discussion toward program-specific features: 'Many career changers find our flexible study options particularly helpful during transition periods. For example, you can maintain your current role while gradually building teaching qualifications.' Share relevant examples: 'One recent student transitioned from healthcare to teaching, finding their patient communication skills transferred well to classroom management.' When students seek detailed career guidance, provide clear boundaries: 'While I can outline the educational pathways available, our career advisers can provide more specific guidance after enrollment.' The key is demonstrating program value while maintaining appropriate consultation scope."
+        },
+        {
+          "id": 4,
+          "title": "Family-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608553793",
+              "segment_id": "11",
+              "timestamp": "00:58"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared a significant challenge from their previous study attempt: 'I actually started a Masters... but obviously I've got small kids so it just become too much' (call_621608553793, seg_11). This disclosure revealed both their commitment to education and the realistic constraints of balancing study with parenting responsibilities.",
+          "consultant_response": "The consultant's reply of 'Yeah, you can defer all of that. You don't need to pay it up front' (call_621608553793, seg_28) failed to address the core challenge of managing study alongside parenting duties. This response missed the opportunity to explore practical solutions for balancing academic and family commitments.",
+          "priority": "high",
+          "recommended_approach": "When parents express concerns about balancing study with family responsibilities, begin by acknowledging their unique challenges while maintaining focus on practical solutions. Start with validation: 'I understand managing study with young children requires careful planning - let's explore how our program can work around your family commitments.' Then highlight specific program features that support parents: 'Our flexible study options mean you can access materials when your children are asleep or at daycare, and adjust your study load during school holidays.' Share examples of successful strategies: 'Many parent students study in shorter blocks during nap times or after bedtime, and our 24/7 access means you can study when it works best for your family routine.' When discussing support services, focus on those relevant to parents: 'Once enrolled, our learning coaches can help you develop study plans that work around your family commitments.' The key is demonstrating how the program's flexibility specifically accommodates parenting responsibilities while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Teaching Experience Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609316708",
+              "segment_id": "22",
+              "timestamp": "01:23"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Early in the discussion, the student shared their professional context: 'I'm teaching right now I've been teaching for one year, so I'm a full-time teacher' (call_621609316708, seg_22). This disclosure presented a valuable opportunity to demonstrate how the program could accommodate their teaching commitments while leveraging their professional experience.",
+          "consultant_response": "The consultant effectively acknowledged their role and provided clear next steps aligned with their teaching schedule, showing understanding of the need to balance work and study commitments. This response demonstrated awareness of the student's professional obligations while maintaining focus on practical enrollment steps.",
+          "priority": "high",
+          "recommended_approach": "When engaging with teaching professionals, start by acknowledging their unique perspective: 'Your teaching experience brings valuable insights to your studies. Let's explore how we can structure your learning to complement your teaching role.' Begin with practical scheduling: 'Many of our teaching students find particular study patterns work well with the school term structure. How does your teaching schedule typically flow throughout the year?' Share specific examples: 'For instance, some teachers prefer to complete more units during school holidays, while others maintain a steady pace year-round.' Draw parallels between their professional experience and study success: 'Your classroom management skills often translate well to managing online study, particularly in areas like time management and material engagement.' When discussing workload, provide practical insights: 'Many of our teaching students find downloading materials for offline study during prep periods helps them maintain momentum.' Always maintain appropriate boundaries while emphasizing support: 'While I can explain program flexibility, our learning advisers can provide detailed study planning support once you're enrolled.'"
+        },
+        {
+          "id": 6,
+          "title": "Alternative Documentation Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445311366",
+              "segment_id": "35",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared their documentation challenge: 'I'm having trouble getting my original transcript' (call_597445311366, seg_35). This revealed a potential barrier to enrollment progress and need for alternative solutions to maintain momentum.",
+          "consultant_response": "The consultant's response focused solely on requirements: 'We'll need the original transcript for full credit assessment' (call_597445311366, seg_36). This missed the opportunity to explore alternative options or create a supportive plan for document acquisition.",
+          "priority": "high",
+          "recommended_approach": "When students face documentation challenges, begin by acknowledging the difficulty while focusing on solutions: 'I understand getting original transcripts can be challenging. Let's explore all available options to keep your enrollment moving forward.' Present multiple pathways: 'While we work on obtaining the original transcript, there are several alternatives we could consider. For example, some institutions provide certified digital copies, or we might use a combination of other documents temporarily.' Create clear action steps: 'Let's start by contacting your previous institution together to understand their transcript request process. Meanwhile, I can check if your unofficial transcript could support conditional enrollment.' When discussing timelines, maintain momentum: 'Even if we can't secure all documents immediately, we can still progress other aspects of your enrollment.' The goal is demonstrating flexibility while maintaining progress toward enrollment completion."
+        }
+      ]
+    }
+  }
+}

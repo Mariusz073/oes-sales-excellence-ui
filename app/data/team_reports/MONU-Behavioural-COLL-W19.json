@@ -1,0 +1,260 @@
+{
+    "type": "behavioural",
+    "requirement": "Collaborative planning",
+    "week": 19,
+    "university": "Monash",
+    "reporting_period": "03-03_03-07",
+    "first_page_title": "<em>Monash Collaborative planning |</em> percentage alignment to collaborative planning filtered for high-need students",
+    "second_page_title": "<em>Weekly report initiative 2 |</em> Collaborative planning with high-need students",
+    "graph": {
+        "bars": [
+            {
+                "title": "12-02_12-06\nweek 6",
+                "upper_bound": 269.55,
+                "lower_bound": 118.89,
+                "green": 159.84
+            },
+            {
+                "title": "12-23_12-27\nweek 9",
+                "upper_bound": 201.34,
+                "lower_bound": 51.41,
+                "green": 152.6
+            },
+            {
+                "title": "12-30_01-03\nweek 10",
+                "upper_bound": 185.93,
+                "lower_bound": 14.0,
+                "green": 149.83
+            },
+            {
+                "title": "01-06_01-10\nweek 11",
+                "upper_bound": 190.51,
+                "lower_bound": 60.45,
+                "green": 135.45
+            },
+            {
+                "title": "01-13_01-17\nweek 12",
+                "upper_bound": 183.08,
+                "lower_bound": 82.0,
+                "green": 149.51
+            },
+            {
+                "title": "01-20_01-24\nweek 13",
+                "upper_bound": 189.9,
+                "lower_bound": 85.82,
+                "green": 139.49
+            },
+            {
+                "title": "01-27_01-31\nweek 14",
+                "upper_bound": 225.5,
+                "lower_bound": 84.42,
+                "green": 123.13
+            },
+            {
+                "title": "02-03_02-07\nweek 15",
+                "upper_bound": 214.86,
+                "lower_bound": 42.0,
+                "green": 154.42
+            },
+            {
+                "title": "02-10_02-14\nweek 16",
+                "upper_bound": 178.02,
+                "lower_bound": 98.37,
+                "green": 133.34
+            },
+            {
+                "title": "02-17_02-21\nweek 17",
+                "upper_bound": 207.82,
+                "lower_bound": 86.7,
+                "green": 124.49
+            },
+            {
+                "title": "02-24_02-28\nweek 18",
+                "upper_bound": 160.04,
+                "lower_bound": 88.73,
+                "green": 138.95
+            },
+            {
+                "title": "03-03_03-07\nweek 19",
+                "upper_bound": 221.0,
+                "lower_bound": 125.38,
+                "green": 172.12
+            }
+        ],
+        "green_label": "Team average",
+        "red_label": "Upper & Lower bound",
+        "result_label": "86% = Team Average"
+    },
+    "individual_performance": {
+        "verdicts_count": 2150,
+        "consultant_results": [
+            {
+                "name": "Pawan Thapa",
+                "high_need_score": "221.0",
+                "all_score": "109.3",
+                "percentage_high_need": "4/201 (2.0%)",
+                "rank": 1
+            },
+            {
+                "name": "Elisha Odhiambo",
+                "high_need_score": "205.1",
+                "all_score": "163.0",
+                "percentage_high_need": "17/353 (4.8%)",
+                "rank": 2
+            },
+            {
+                "name": "Mrudang Pancholi",
+                "high_need_score": "191.9",
+                "all_score": "109.9",
+                "percentage_high_need": "15/219 (6.8%)",
+                "rank": 3
+            },
+            {
+                "name": "Michael Whyte",
+                "high_need_score": "175.0",
+                "all_score": "130.8",
+                "percentage_high_need": "14/122 (11.5%)",
+                "rank": 4
+            },
+            {
+                "name": "Alyssa Pennacchia",
+                "high_need_score": "172.9",
+                "all_score": "112.2",
+                "percentage_high_need": "14/305 (4.6%)",
+                "rank": 5
+            },
+            {
+                "name": "Tayla Viglione",
+                "high_need_score": "164.3",
+                "all_score": "116.5",
+                "percentage_high_need": "10/352 (2.8%)",
+                "rank": 6
+            },
+            {
+                "name": "Michael Bosman",
+                "high_need_score": "125.8",
+                "all_score": "101.7",
+                "percentage_high_need": "6/253 (2.4%)",
+                "rank": 7
+            },
+            {
+                "name": "James Lockie",
+                "high_need_score": "125.4",
+                "all_score": "90.8",
+                "percentage_high_need": "12/307 (3.9%)",
+                "rank": 8
+            },
+            {
+                "name": "Olive Jerome",
+                "high_need_score": "0.0",
+                "all_score": "89.7",
+                "percentage_high_need": "0/38 (0.0%)",
+                "rank": 9
+            }
+        ],
+        "average_result": {
+            "name": "Team average",
+            "high_need_score": "172.1",
+            "all_score": "114.9",
+            "percentage_high_need": "92/2150 (4.3%)"
+        }
+    },
+    "weekly_insights": {
+        "verdicts_count": 257,
+        "insights": {
+            "concise": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": "Student trigger: Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from another healthcare worker: 'My roster changes every week' (call_595732548084, seg_163), revealing critical scheduling flexibility needs. | Context/impact: This moment required clear demonstration of how program flexibility specifically accommodates healthcare shift workers to maintain enrollment momentum. | Consultant response: Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility. | Improvement: Include more specific examples of successful study patterns from current healthcare students, particularly addressing various shift patterns and peak period management."
+                    },
+                    {
+                        "title": "Mental Health Career Exploration",
+                        "content": "Student trigger: Student expressed: 'My husband does a lot of work with mental health and it just really interests me and I'm just wanting to find out more about it and see what I could do in that area' (call_597358482960, seg_13), indicating personal connection to field. | Context/impact: Pivotal moment to connect personal motivation with concrete educational pathways while maintaining appropriate boundaries. | Consultant response: Consultant initiated focused exploration: 'So what's got you potentially interested in studying a psychology course?' (call_597358482960, seg_12), encouraging deeper discussion of motivations. | Improvement: Provide more specific examples of program features supporting career exploration while maintaining sales role boundaries."
+                    },
+                    {
+                        "title": "Life Event Study Planning",
+                        "content": "Student trigger: Student stated: 'Yeah, the only thing is I'm due to give birth in the middle of October' (call_123456789012, seg_14), revealing need for program flexibility around major life event. | Context/impact: Critical moment to demonstrate how program flexibility accommodates significant life changes while maintaining momentum. | Consultant response: Consultant effectively responded: 'You can take a year off and you can come back next year...you can take up to three years to finish this course' (call_123456789012, seg_16), showing long-term flexibility. | Improvement: Include more specific examples of how other students have successfully managed similar life transitions while maintaining academic progress."
+                    },
+                    {
+                        "title": "Support Service Navigation",
+                        "content": "Student trigger: Student stated: 'I haven't had a chance to look at the setup instructions yet' (call_597525304508, seg_19), revealing need for clear support guidance. | Context/impact: Critical moment requiring appropriate support service direction while maintaining sales role boundaries. | Consultant response: Consultant directed effectively: 'I can get our student advisor team to help with that setup' (call_597525304508, seg_21), connecting to appropriate resources while clarifying roles. | Improvement: Enhance explanation of specific support roles and assistance available at each stage while maintaining clear boundaries."
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": "Student trigger: Student stated: 'I'm just returning to study' (call_597231463414, seg_15), revealing anxiety about academic reintegration. | Context/impact: Critical moment to build confidence in returning to study through clear support pathways. | Consultant response: Consultant shared: 'I've got a lot of students who have done their studies quite a long time ago and they're just trying to re-engage' (call_597437572321, seg_21), providing basic reassurance without specific support examples. | Improvement: Develop comprehensive discussion of support services and resources available for returning students with concrete examples of successful transitions."
+                    },
+                    {
+                        "title": "Career Transition Planning",
+                        "content": "Student trigger: Student stated: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first' (call_597445341204, seg_117), seeking efficient career transition pathway. | Context/impact: Crucial opportunity to align program flexibility with career transition goals while maintaining appropriate boundaries. | Consultant response: Consultant focused on program logistics: 'The eight units that you'll need to finish... It's exactly the same date, exactly the same time frame' (call_597445341204, seg_102), without exploring how features support career development. | Improvement: Better balance needed between maintaining sales role boundaries while demonstrating program features supporting career development goals."
+                    },
+                    {
+                        "title": "Career Development Integration",
+                        "content": "Enhanced exploration needed of how specific program elements align with workplace challenges and support career transition goals while maintaining appropriate guidance boundaries"
+                    }
+                ]
+            },
+            "verbose": {
+                "positive": [
+                    {
+                        "title": "Effective Work-Study Integration",
+                        "content": {
+                            "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+                            "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+                            "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+                        }
+                    },
+                    {
+                        "title": "Mental Health Career Exploration",
+                        "content": {
+                            "student_trigger": "In call 597358482960 (segment 13), the student revealed personal motivation for pursuing psychology studies: 'My husband does a lot of work with mental health and it just really interests me and I'm just wanting to find out more about it and see what I could do in that area.' This statement demonstrated both personal connection to the field and desire for career exploration, creating an excellent opportunity for collaborative planning around educational pathways in psychology.",
+                            "consultant_response": "The consultant effectively engaged with the student's interest by asking: 'So what's got you potentially interested in studying a psychology course?' (segment 12). This open-ended question encouraged deeper exploration of the student's motivations and allowed for a more targeted discussion of how the psychology programs could align with their career aspirations, demonstrating active listening and setting the foundation for collaborative career planning.",
+                            "recommended_approach": "When students express interest in mental health careers, begin by validating their personal connection while guiding thorough exploration of professional pathways. Start with acknowledging their insight: 'Your exposure to mental health work has clearly inspired meaningful interest in this field.' Then facilitate deeper exploration: 'What aspects of mental health work particularly resonate with you? Understanding this will help us identify the most relevant pathways.' Share specific program features that support career development: 'Our psychology program includes foundational units that help students understand various mental health contexts.' Always maintain appropriate pre-enrollment boundaries while demonstrating how program elements support career development. The goal is to show how our educational pathways can support their professional interests while avoiding specific career guidance beyond our role."
+                        }
+                    },
+                    {
+                        "title": "Life Event Study Planning",
+                        "content": {
+                            "student_trigger": "A crucial moment occurred when the student revealed: 'Yeah, the only thing is I'm due to give birth in the middle of October' (call_123456789012, seg_14). This disclosure represented a significant potential barrier to enrollment, as the student was clearly concerned about managing academic commitments alongside a major life event.",
+                            "consultant_response": "The consultant demonstrated strong collaborative planning skills by responding: 'So as an example, we have six teaching periods a year... And if you do want to take a break and obviously you're having a baby, you can take a year off and you can come back next year and you can start doing a course again. You can take up to three years to finish this course if you really wanted to' (call_123456789012, seg_16). This response effectively addressed multiple aspects of the student's concerns: acknowledging the significance of the life event, providing concrete flexibility options, and demonstrating long-term program accommodation.",
+                            "recommended_approach": "When addressing significant life events like pregnancy, begin by acknowledging the event's importance while focusing on how our program's flexibility supports life transitions. Start with empathetic recognition: 'Having a baby is a significant life event, and it's great you're thinking proactively about managing your studies.' Then outline specific program features that accommodate major life changes: 'Our six teaching periods and three-year completion window give you flexibility to pause and resume studies as needed.' Share examples of how other students have successfully managed similar transitions: 'Many of our students take a break for personal events and return when ready, using our flexible study options to balance their commitments.' Always maintain focus on pre-enrollment decisions while showing how program features support successful transitions. The goal is to transform life events from potential barriers into manageable aspects of the academic journey."
+                        }
+                    },
+                    {
+                        "title": "Support Service Navigation",
+                        "content": {
+                            "student_trigger": "The student revealed uncertainty about setup processes: 'I haven't had a chance to look at the setup instructions yet' (call_597525304508, seg_19). This presented an opportunity to demonstrate the comprehensive support structure while maintaining appropriate sales role boundaries.",
+                            "consultant_response": "The consultant effectively directed the student to appropriate resources while maintaining clear role boundaries: 'I can get our student advisor team to help with that setup' (call_597525304508, seg_21). This response demonstrated understanding of support service boundaries while ensuring the student would receive necessary assistance.",
+                            "recommended_approach": "When discussing support services, create clear pathways to resources while maintaining appropriate boundaries. Begin by acknowledging their specific needs: 'I understand you're looking for guidance with the setup process.' Then outline the support structure: 'We have a dedicated student advisor team specifically trained in helping new students with technical setup.' Explain how different support roles work together: 'While I guide you through enrollment decisions, our advisor team specializes in making the technical setup smooth and stress-free.' Create clear handoff processes: 'They can spend about 15-20 minutes walking you through each step.' Always maintain focus on enrollment-critical tasks while positioning additional support as valuable resources. The goal is to demonstrate comprehensive support while ensuring smooth transitions between service teams."
+                        }
+                    }
+                ],
+                "opportunities": [
+                    {
+                        "title": "Return to Study Support",
+                        "content": {
+                            "student_trigger": "Multiple calls revealed students returning to study after extended breaks, with one stating: 'I'm just returning to study' (call_597231463414, seg_15) and another mentioning completing their previous degree years ago. These situations represented critical opportunities to address common anxieties about academic reintegration while highlighting available support systems.",
+                            "consultant_response": "The consultant provided basic reassurance without exploring specific support mechanisms or success strategies for returning students. While acknowledging the common nature of returning to study, the response missed opportunities to demonstrate concrete support pathways and build student confidence through specific examples.",
+                            "recommended_approach": "When working with returning students, begin by validating their previous academic achievements while acknowledging common concerns about returning to study. Start with confidence-building statements: 'Your prior experience provides a strong foundation, and we have specific support systems to help you successfully return to study.' Then explore their specific concerns: 'Many returning students initially worry about technology or academic writing skills. Let me explain how our orientation program and support services address these exact concerns.' Share concrete examples: 'We have many students who returned to study after several years and are now excelling, thanks to our comprehensive support resources.' Always maintain focus on program features rather than detailed study strategies: 'While our learning coaches will help develop specific study techniques after enrollment, I can explain how our program structure helps returning students succeed.' The goal is to build confidence while maintaining appropriate pre-enrollment boundaries."
+                        }
+                    },
+                    {
+                        "title": "Career Transition Planning",
+                        "content": {
+                            "student_trigger": "The student expressed clear career transition goals: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first' (call_597445341204, seg_117). This statement revealed both their desired direction and timeline concerns, requiring careful balance between providing guidance and maintaining appropriate sales role boundaries.",
+                            "consultant_response": "The consultant focused primarily on program logistics without exploring how program features could support career transition while maintaining appropriate boundaries. The response missed opportunities to demonstrate how program elements align with career development goals while staying within pre-enrollment guidance limits.",
+                            "recommended_approach": "When addressing career transition inquiries, start by acknowledging their career goals while maintaining appropriate role boundaries: 'I understand your interest in transitioning to education. While I can't provide specific career guidance, I can explain how our program's structure might support your transition goals.' Focus on program elements that align with their objectives: 'Our program includes features particularly valuable for career changers, such as flexible study options and foundational industry knowledge.' When discussing timelines, emphasize program structure while avoiding career promises: 'While I can't advise on specific career pathways, I can explain how our program's design allows you to build relevant skills efficiently.' The goal is to demonstrate program value while staying within appropriate pre-enrollment guidance limits."
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "generated_date": "2024-12-13",
+        "report_id": "MONU-B-COLL-W7-2024",
+        "data_source": "OES Sales Excellence.AI"
+    }
+}

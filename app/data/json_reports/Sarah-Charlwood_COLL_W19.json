@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "consultant_name": "Sarah Charlwood",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 133,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 51,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 38.34586466165413,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 82,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 61.65413533834586,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.455601599404126,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 82,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 217.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 148.06,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 199.83,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.04,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 149.85,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 104.75,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 183.43,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 119.92,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 145.3,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 176.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.65,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 155.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 86.36,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 206.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 204.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.65,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 111.99,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.21,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 164.84,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 138.67,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 188.29,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.19,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining appropriate guidance boundaries and connecting to post-enrollment support"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and clear adaptation strategies while directing detailed planning to appropriate services"
+      },
+      {
+        "headline": "Proactive Support Navigation",
+        "explanation": "Effective guidance through available support services while maintaining appropriate pre-enrollment boundaries and highlighting specific post-enrollment resources for detailed assistance"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements specifically align with professional experience and career aspirations while maintaining appropriate guidance boundaries and support service connections"
+      },
+      {
+        "headline": "Work-Study Balance Strategy",
+        "explanation": "More comprehensive strategies required for managing work commitments alongside study while maintaining momentum through practical examples and clear post-enrollment support pathways"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance needed through documentation requirements with specific support mechanisms and alternative pathways while maintaining appropriate boundaries and service connections"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609098833",
+              "segment_id": "131",
+              "timestamp": "21:55"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "621539597571",
+                "segment_id": "31",
+                "timestamp": "01:58"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I want to advance my career but I'm worried about balancing study with my current role' (call_621609098833, seg_131), revealing critical need to demonstrate practical study flexibility for working professionals.",
+          "consultant_response": "Consultant suggested practical approach: 'If you're not too sure, try two. See how you go, because that's a good middle ground to start off with to settle into your first term' (call_621609098833, seg_140), effectively showing program adaptability while connecting to future support.",
+          "context_impact": "This moment required clear demonstration of how program flexibility specifically accommodates working professionals while maintaining enrollment momentum and appropriate support boundaries.",
+          "recommended_approach": "Include more specific examples of how current working students successfully manage their study patterns around professional commitments while clearly delineating pre and post-enrollment support services."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307810889",
+              "segment_id": "84",
+              "timestamp": "13:47"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231176095",
+                "segment_id": "81",
+                "timestamp": "13:21"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first' (call_597307810889, seg_84), revealing urgent career transition goals while seeking accelerated options.",
+          "consultant_response": "Consultant outlined options: 'You have the option to study part-time or full-time with us as well, so you can decide what's best for you in that regard' (call_597307810889, seg_114), effectively showing pathway flexibility while maintaining appropriate boundaries.",
+          "context_impact": "This moment required demonstrating how program flexibility could accommodate accelerated completion while maintaining academic quality and setting appropriate expectations about support services.",
+          "recommended_approach": "Include more specific examples of successful accelerated study patterns and credit recognition pathways while clearly connecting to post-enrollment support services for detailed planning."
+        },
+        {
+          "id": 3,
+          "title": "Documentation Process Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357919652",
+              "segment_id": "31",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked anxiously: 'So what am I going to do now? I'm cut out from it?' (call_597357919652, seg_28), showing concern about meeting reference requirements.",
+          "consultant_response": "Consultant explained options: 'If you're not able to find a previous employer we can use accountants, lawyers, suppliers, anyone who's worked with you professionally' (call_597357919652, seg_31), effectively showing documentation alternatives while maintaining service boundaries.",
+          "context_impact": "Key opportunity to demonstrate program flexibility while maintaining standards and enrollment progress through appropriate guidance boundaries.",
+          "recommended_approach": "Could provide more specific examples of successful alternative reference arrangements while clearly connecting to appropriate support services for detailed assistance."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445327789",
+              "segment_id": "5",
+              "timestamp": "00:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I've actually changed my direction of where I want to go and I was more interested in doing the Diploma of HR' (call_597445327789, seg_5), revealing a significant shift in career goals requiring program alignment.",
+          "consultant_response": "Consultant replied: 'Let me just check through Swinburne Open Education to see if there's... I can have a little look and see what Swinburne Open Ed has' (call_597445327789, seg_11), showing willingness but missing opportunity to highlight program-career alignment and support services.",
+          "context_impact": "This career direction change required careful exploration of educational pathways while maintaining appropriate career guidance boundaries and support service connections.",
+          "recommended_approach": "Should have outlined how program features support career transitions while clearly directing detailed career planning to appropriate post-enrollment services."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307757009",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I want to advance my career but I'm worried about balancing study with my current role' (call_597307757009, seg_23), revealing anxiety about managing multiple commitments.",
+          "consultant_response": "Consultant focused on enrollment timing: 'So our teaching period actually begins next week so I can work with you directly to try and get you a priority assessment' (call_597307757009, seg_23), missing opportunity to demonstrate program flexibility and connect to support services.",
+          "context_impact": "This concern about work-study balance needed addressing with clear explanation of program flexibility and available support services while maintaining appropriate boundaries.",
+          "recommended_approach": "Should have outlined flexible study options while clearly connecting to available post-enrollment support services for detailed planning assistance."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Alternatives",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357919652",
+              "segment_id": "13",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I tried to get the manuscript, the transcripts, but they're too old, I can't use those' (call_597357919652, seg_13), indicating documentation submission challenges.",
+          "consultant_response": "Consultant shifted focus without addressing transcript concerns or connecting to appropriate support services, leaving barrier unresolved and risking enrollment momentum.",
+          "context_impact": "Required structured guidance through submission process with clear support options while maintaining appropriate service boundaries.",
+          "recommended_approach": "Create step-by-step submission planning process with clear support mechanisms and alternative options while maintaining appropriate service boundaries and connections."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609098833",
+              "segment_id": "131",
+              "timestamp": "21:55"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "621539597571",
+                "segment_id": "31",
+                "timestamp": "01:58"
+              }
+            ]
+          },
+          "student_trigger": "During call 621609098833 (segment 131), the student expressed significant concern about balancing professional and educational commitments: 'I want to advance my career but I'm worried about balancing study with my current role.' This disclosure represented a critical moment to demonstrate how program flexibility specifically accommodates working professionals while maintaining appropriate guidance boundaries. Similar concerns emerged in supporting calls, indicating a common need for practical work-study integration strategies.",
+          "consultant_response": "The consultant provided practical guidance by suggesting: 'If you're not too sure, try two. See how you go, because that's a good middle ground to start off with to settle into your first term' (call_621609098833, seg_140). This response effectively demonstrated program adaptability while maintaining appropriate guidance boundaries and connecting to future support services. The approach helped transform perceived barriers into manageable planning opportunities.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study integration concerns, begin by acknowledging the specific challenges working professionals face while maintaining appropriate pre-enrollment boundaries. Start with validation: 'Many of our successful students balance full-time work with study - let me show you how our program specifically supports this.' Then demonstrate practical flexibility: 'Our 24/7 online access means you can study during quiet periods at work, and our flexible assignment deadlines accommodate busy periods.' Share specific examples: 'For instance, many working professionals start with two units to establish effective study routines, downloading materials for offline study during breaks or commutes.' When discussing support services, maintain clear boundaries: 'Once enrolled, our learning coaches can help create detailed study schedules that work around your specific work patterns.' The key is transforming perceived barriers into manageable opportunities while ensuring appropriate guidance scope and support service connections."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307810889",
+              "segment_id": "84",
+              "timestamp": "13:47"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231176095",
+                "segment_id": "81",
+                "timestamp": "13:21"
+              }
+            ]
+          },
+          "student_trigger": "During call 597307810889 (segment 84), the student expressed clear career transition goals: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first.' This revealed both urgent career aspirations and timeline sensitivity, creating a crucial opportunity to demonstrate pathway flexibility while maintaining appropriate expectations and support service boundaries.",
+          "consultant_response": "The consultant effectively outlined flexible options: 'You have the option to study part-time or full-time with us as well, so you can decide what's best for you in that regard' (call_597307810889, seg_114). This response validated the student's goals while providing concrete pathways forward, effectively balancing flexibility with academic requirements and appropriate service boundaries.",
+          "priority": "high",
+          "recommended_approach": "When exploring career transition pathways, start by validating the student's aspirations while establishing realistic expectations about progression and support services. Begin with acknowledgment: 'Your goal of transitioning into education efficiently is important - let's explore options that could support this while ensuring strong foundations.' Present clear pathway options: 'While maintaining our academic standards, we can explore flexible study loads and potential credit recognition to optimize your journey.' When discussing accelerated options, balance encouragement with appropriate expectations: 'Many successful career changers start with full-time study to establish strong foundations before considering increased loads.' When addressing support needs, maintain clear boundaries: 'While I can explain our program pathways now, our learning coaches provide detailed study planning support post-enrollment.' The key is maintaining focus on educational pathways while building confidence in the transition process and ensuring appropriate service connections."
+        },
+        {
+          "id": 3,
+          "title": "Documentation Process Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357919652",
+              "segment_id": "31",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a critical moment in call 597357919652 (segment 28), the student expressed serious concern about meeting reference requirements: 'So what am I going to do now? I'm cut out from it?' This revealed anxiety about potential exclusion from the program due to documentation requirements, presenting an opportunity to demonstrate flexibility while maintaining standards and appropriate service boundaries.",
+          "consultant_response": "The consultant effectively addressed these concerns by outlining multiple acceptable options: 'If you're not able to find a previous employer we can use accountants, lawyers, suppliers, anyone who's worked with you professionally' (segment 31). This response demonstrated valuable flexibility while maintaining professional standards and appropriate service boundaries, transforming a perceived barrier into manageable steps.",
+          "priority": "high",
+          "recommended_approach": "When addressing documentation requirements, begin by acknowledging the student's concerns while maintaining clear standards and service boundaries. Start with empathy: 'I understand getting references can seem challenging - let me show you our flexible options.' Then explore alternatives: 'Beyond traditional employers, we accept references from various professional connections who can verify your capabilities.' Guide through selection: 'Let's review your professional network together. Sometimes people overlook valuable connections from previous projects or associations.' When discussing support services, maintain appropriate boundaries: 'While I can explain our requirements and options now, our admissions team provides detailed document assessment post-submission.' The goal is demonstrating flexibility while ensuring program integrity and maintaining appropriate pre-enrollment scope with clear service connections."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445327789",
+              "segment_id": "5",
+              "timestamp": "00:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597445327789 (segment 5), the student revealed a significant career shift: 'I've actually changed my direction of where I want to go and I was more interested in doing the Diploma of HR.' This disclosure presented a crucial opportunity to demonstrate how program features could support career transitions while maintaining appropriate guidance boundaries and support service connections.",
+          "consultant_response": "The consultant's response focused solely on program availability: 'Let me just check through Swinburne Open Education to see if there's... I can have a little look and see what Swinburne Open Ed has' (segment 11). This missed the opportunity to demonstrate program-career alignment while maintaining appropriate boundaries and connecting to support services.",
+          "priority": "high",
+          "recommended_approach": "When students express interest in career transitions, begin by acknowledging their decision while maintaining appropriate pre-enrollment boundaries and support service connections. Start with validation: 'Career changes often require flexible education options - let me show you how our program supports this transition.' Then demonstrate program relevance: 'Our HR diploma is designed to accommodate career changers through flexible study options and industry-relevant content.' When discussing career development, maintain clear boundaries: 'While detailed career planning happens with our coaches post-enrollment, I can show you how our program structure supports career transitions.' Share specific features: 'For instance, our flexible study loads let you balance current work while building new skills, and our 24/7 online access means you can study around work commitments.' The key is demonstrating program value for career development while ensuring detailed planning occurs with appropriate support services."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Balance",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307757009",
+              "segment_id": "23",
+              "timestamp": "5:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed significant concern about managing multiple commitments: 'I want to advance my career but I'm worried about balancing study with my current role' (call_597307757009, seg_23). This statement revealed both career ambition and anxiety about potential challenges, creating a critical moment for addressing feasibility concerns while maintaining appropriate guidance boundaries and support service connections.",
+          "consultant_response": "The consultant's response focused solely on administrative timing: 'So our teaching period actually begins next week so I can work with you directly to try and get you a priority assessment' (segment 23). This approach missed the crucial opportunity to demonstrate program flexibility and support services while maintaining appropriate pre-enrollment boundaries.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, start by validating the challenge while maintaining appropriate pre-enrollment boundaries and support service connections. Begin with acknowledgment: 'Balancing work and study requires careful planning - let me show you how our program specifically supports working professionals.' Then demonstrate practical flexibility: 'Our structure provides multiple ways to manage this balance. For instance, you can access materials 24/7, adjust study loads each term, and complete assignments around work commitments.' Share specific examples: 'Many working professionals start with two units, downloading materials for study during quiet work periods or commutes.' When discussing support services, maintain clear boundaries: 'Once enrolled, our learning coaches help create detailed study plans that work around your specific work patterns.' The key is demonstrating practical program benefits while ensuring detailed planning occurs with appropriate support services."
+        },
+        {
+          "id": 6,
+          "title": "Documentation Alternatives",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357919652",
+              "segment_id": "13",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597357919652 (segment 13), the student expressed frustration with documentation requirements: 'I tried to get the manuscript, the transcripts, but they're too old, I can't use those.' This revealed a significant barrier to enrollment progression, indicating urgent need for guidance on alternative documentation options while maintaining appropriate service boundaries.",
+          "consultant_response": "The consultant shifted focus without addressing the transcript challenge or connecting to appropriate support services, missing an opportunity to explore alternative documentation options or verification methods. This oversight left the student without clear direction on overcoming this significant enrollment barrier.",
+          "priority": "high",
+          "recommended_approach": "When students face documentation challenges, begin by acknowledging their frustration while maintaining appropriate pre-enrollment boundaries and support service connections. Start with empathy: 'I understand how challenging documentation can be - let me show you our alternative options.' Then explore specific solutions: 'While traditional transcripts are one way to verify academic history, we have several other acceptable methods. For instance, we often work with professional certifications, verified statements of attainment, or other formal records.' Guide through alternatives: 'Let's review what documentation you do have access to. Sometimes students overlook valuable verification options.' When discussing support services, maintain clear boundaries: 'While I can explain our requirements now, our admissions team provides detailed document assessment post-submission.' The goal is demonstrating practical solutions while ensuring appropriate guidance scope and service connections."
+        }
+      ]
+    }
+  }
+}

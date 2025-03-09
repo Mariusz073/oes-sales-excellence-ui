@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "consultant_name": "Pawan Thapa",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 201,
+  "team_average_total_number_of_calls_per_sales_consultant": 195.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 36,
+    "team_average_absolute_number": 32.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 17.91044776119403,
+    "team_average_percentage": 14.688682653193398
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 165,
+    "team_average_absolute_number": 163.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 82.08955223880598,
+    "team_average_percentage": 67.12949916498842
+  },
+  "average_talking_percentage": {
+    "individual_average": 54.03117818573875,
+    "team_average": 53.24963397129906
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 165,
+    "team_total_excluded_transcripts": 1797
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 128.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.78,
+      "team_average_final_ranking_score_eligible_transcripts": 135.45,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 107.66
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 142.73,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 90.73,
+      "team_average_final_ranking_score_eligible_transcripts": 149.51,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 99.85
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 127.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.27,
+      "team_average_final_ranking_score_eligible_transcripts": 139.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.47
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 101.87,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 76.16,
+      "team_average_final_ranking_score_eligible_transcripts": 123.13,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 97.01
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 137.07,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 77.68,
+      "team_average_final_ranking_score_eligible_transcripts": 154.42,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 102.61
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 140.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 74.8,
+      "team_average_final_ranking_score_eligible_transcripts": 133.34,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 101.14
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 101.93,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 79.56,
+      "team_average_final_ranking_score_eligible_transcripts": 124.49,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 93.92
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 124.89,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 99.84,
+      "team_average_final_ranking_score_eligible_transcripts": 138.95,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 104.67
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 221.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.35,
+      "team_average_final_ranking_score_eligible_transcripts": 172.12,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 114.89
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining appropriate consultation boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and specific success strategies"
+      },
+      {
+        "headline": "Life Event Accommodation",
+        "explanation": "Effective integration of major life events into study planning with clear demonstration of program adaptability and comprehensive support options"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with career goals while maintaining appropriate sales role boundaries"
+      },
+      {
+        "headline": "Financial Planning Depth",
+        "explanation": "More comprehensive support needed in exploring payment options and financial pathways when discussing program investments"
+      },
+      {
+        "headline": "Return to Study Confidence",
+        "explanation": "Stronger support required for students returning to education after extended breaks with specific success strategies and confidence building"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by similar concerns from another healthcare worker: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163).",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and detailed flexible study options."
+        },
+        {
+          "id": 2,
+          "title": "Life Event Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "14",
+              "timestamp": "02:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'Yeah, the only thing is I'm due to give birth in the middle of October' (call_123456789012, seg_14), revealing need for program flexibility around major life event.",
+          "consultant_response": "Consultant effectively responded: 'You can take a year off and you can come back next year and you can start doing a course again. You can take up to three years to finish this course if you really wanted to' (call_123456789012, seg_16).",
+          "context_impact": "Critical moment to demonstrate how program flexibility could accommodate significant personal circumstances while maintaining enrollment momentum.",
+          "recommended_approach": "Include more specific examples of how other students have successfully managed similar life transitions."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357674671",
+              "segment_id": "20",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597357591710",
+                "segment_id": "51",
+                "timestamp": "02:09"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'But same situation like I said, there are other students. Now, there is a solution that you can do' (call_597357674671, seg_19), showing openness to exploring alternative pathways.",
+          "consultant_response": "Consultant offered clear solution: 'Now, there is a solution that you can do. The solution is you have a thing called double degree...' (call_597357674671, seg_20), effectively presenting options.",
+          "context_impact": "Critical moment requiring demonstration of viable academic alternatives while maintaining student confidence and enrollment momentum.",
+          "recommended_approach": "Include more collaborative exploration of how alternative pathways align with specific career goals."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437572321",
+              "segment_id": "21",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231463414",
+                "segment_id": "15",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm just returning to study' (call_597231463414, seg_15), indicating anxiety about academic reintegration.",
+          "consultant_response": "Consultant shared: 'I've got a lot of students who have done their studies quite a long time ago and they're just trying to re-engage' (call_597437572321, seg_21), providing basic reassurance.",
+          "context_impact": "Critical moment to build confidence and demonstrate understanding of returning student needs.",
+          "recommended_approach": "Need deeper exploration of specific support mechanisms and success strategies for returning students."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445341204",
+              "segment_id": "117",
+              "timestamp": "04:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597445341204",
+                "segment_id": "102",
+                "timestamp": "05:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first' (call_597445341204, seg_117).",
+          "consultant_response": "Consultant focused on program structure: 'The eight units that you'll need to finish... It's exactly the same date, exactly the same time frame' (call_597445341204, seg_102).",
+          "context_impact": "Crucial opportunity to align program flexibility with career transition goals while maintaining appropriate boundaries.",
+          "recommended_approach": "Better balance needed between maintaining sales role boundaries while exploring relevant program pathways."
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Depth",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539745594",
+              "segment_id": "28",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'I just wondered what the cost was for those first two units?' (call_621539745594, seg_28), seeking comprehensive financial planning.",
+          "consultant_response": "Consultant provided basic information: 'So the unit cost per unit is $4,837.50' (call_621539745594, seg_29), without exploring options.",
+          "context_impact": "Opportunity to transform potential financial barrier into manageable pathway through comprehensive support.",
+          "recommended_approach": "Develop comprehensive discussion of payment options and financial support mechanisms."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Life Event Study Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "14",
+              "timestamp": "02:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "A crucial moment occurred when the student revealed: 'Yeah, the only thing is I'm due to give birth in the middle of October' (call_123456789012, seg_14). This disclosure represented a significant potential barrier to enrollment, as the student was clearly concerned about managing academic commitments alongside a major life event. The timing and context of this revelation made it a critical opportunity for demonstrating program flexibility and support systems.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning skills by responding: 'So as an example, we have six teaching periods a year... And if you do want to take a break and obviously you're having a baby, you can take a year off and you can come back next year and you can start doing a course again. You can take up to three years to finish this course if you really wanted to' (call_123456789012, seg_16). This response effectively addressed multiple aspects of the student's concerns: acknowledging the significance of the life event, providing concrete flexibility options, and demonstrating long-term program accommodation.",
+          "priority": "high",
+          "recommended_approach": "When addressing significant life events, begin by acknowledging the event's importance while focusing on how our program's flexibility supports life transitions. Start with empathetic recognition: 'Having a baby is a significant life event, and it's great you're thinking proactively about managing your studies.' Then outline specific program features that accommodate major life changes: 'Our six teaching periods and three-year completion window give you flexibility to pause and resume studies as needed.' Share examples of how other students have successfully managed similar transitions: 'Many of our students take a break for personal events and return when ready, using our flexible study options to balance their commitments.' Always maintain focus on pre-enrollment decisions while showing how program features support successful transitions. The goal is to transform life events from potential barriers into manageable aspects of the academic journey through clear demonstration of program flexibility and support options."
+        },
+        {
+          "id": 3,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357674671",
+              "segment_id": "20",
+              "timestamp": "01:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597357591710",
+                "segment_id": "51",
+                "timestamp": "02:09"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed openness to exploring alternative pathways: 'But same situation like I said, there are other students. Now, there is a solution that you can do' (call_597357674671, seg_19). This moment represented a critical juncture where the student showed readiness to consider different academic routes while maintaining their core educational aspirations. The timing and phrasing indicated both trust in the consultant's guidance and flexibility in approaching their goals.",
+          "consultant_response": "The consultant provided a clear and strategic response: 'Now, there is a solution that you can do. The solution is you have a thing called double degree... Your master's program in project management is two years. You can do a double degree, which is basically do a Master in Business Management and have a double degree on Project Management' (call_597357674671, seg_20). This response effectively transformed a potential barrier into an opportunity by immediately presenting a viable alternative pathway while maintaining the student's confidence and engagement.",
+          "priority": "high",
+          "recommended_approach": "When guiding students through alternative educational pathways, begin by acknowledging their current circumstances while immediately highlighting viable solutions that align with their goals. The key insight is maintaining momentum through solution-focused dialogue rather than dwelling on limitations. For example, after validating their initial direction, transition with: 'I see several pathways that could work well for your situation - let me share how other students have successfully navigated similar circumstances.' Present alternatives as strategic opportunities for enhanced outcomes rather than compromises, using specific examples of how previous students have succeeded through these routes. When discussing options like double degrees or pathway programs, explicitly connect how they can enhance rather than simply redirect the student's original goals. The goal is to transform potential barriers into stepping stones toward their educational objectives while maintaining appropriate boundaries regarding career guidance."
+        },
+        {
+          "id": 4,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437572321",
+              "segment_id": "21",
+              "timestamp": "02:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231463414",
+                "segment_id": "15",
+                "timestamp": "01:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple calls revealed students returning to study after extended breaks, with one stating: 'I'm just returning to study' (call_597231463414, seg_15) and another mentioning completing their previous degree years ago. These situations represented critical opportunities to address common anxieties about academic reintegration while highlighting available support systems.",
+          "consultant_response": "The consultant provided basic reassurance: 'I've got a lot of students who have done their studies quite a long time ago and they're just trying to re-engage' (call_597437572321, seg_21), but missed opportunities to explore specific support mechanisms or success strategies for returning students.",
+          "priority": "high",
+          "recommended_approach": "When working with returning students, begin by validating their previous academic achievements while acknowledging common concerns about returning to study. Start with confidence-building statements: 'Your prior academic experience provides a strong foundation, and we have specific support systems to help you successfully return to study.' Then explore their specific concerns: 'Many returning students initially worry about technology or academic writing skills. Let me explain how our orientation program and support services address these exact concerns.' Share concrete examples of successful transitions: 'We have many students who returned to study after several years and are now excelling, thanks to our comprehensive support resources.' Always maintain focus on program features rather than detailed study strategies: 'While our learning coaches will help develop specific study techniques after enrollment, I can explain how our program structure helps returning students succeed.' The goal is to build confidence while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Career Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597445341204",
+              "segment_id": "117",
+              "timestamp": "04:58"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597445341204",
+                "segment_id": "102",
+                "timestamp": "05:15"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed clear career transition goals: 'I want to get into the education space and ideally I'd like to get in there faster than having to do a full four years first' (call_597445341204, seg_117). This statement revealed both their desired direction and timeline concerns, requiring careful balance between providing guidance and maintaining appropriate sales role boundaries.",
+          "consultant_response": "The consultant focused primarily on program logistics: 'The eight units that you'll need to finish... It's exactly the same date, exactly the same time frame' (call_597445341204, seg_102). This response, while accurate, missed the opportunity to explore how program features could support career transition while maintaining appropriate boundaries.",
+          "priority": "high",
+          "recommended_approach": "When addressing career transition inquiries, start by acknowledging their career goals while maintaining appropriate role boundaries: 'I understand your interest in transitioning to education. While I can't provide specific career guidance, I can explain how our program's structure might support your transition goals.' Focus on program elements that align with their objectives: 'Our program includes features particularly valuable for career changers, such as flexible study options and foundational industry knowledge.' When discussing timelines, emphasize program structure while avoiding career promises: 'While I can't advise on career pathways, I can explain how our program's design allows you to build relevant skills efficiently.' Always maintain clear boundaries between educational guidance and career advice: 'For detailed career planning, our learning advisers can support you post-enrollment, but let me show you how our program structure supports career development.' The goal is to demonstrate program value while staying within appropriate pre-enrollment guidance limits."
+        },
+        {
+          "id": 6,
+          "title": "Financial Planning Depth",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539745594",
+              "segment_id": "28",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student inquired about program costs: 'I just wondered what the cost was for those first two units?' (call_621539745594, seg_28). This indicated financial considerations were a key factor in their decision-making process and presented an opportunity for comprehensive financial planning discussion.",
+          "consultant_response": "The consultant provided basic cost information: 'So the unit cost per unit is $4,837.50' (call_621539745594, seg_29). While accurate, this response didn't address the broader need for understanding available financial pathways and support mechanisms.",
+          "priority": "high",
+          "recommended_approach": "When students raise questions about costs, use this as an opening to develop comprehensive financial planning discussions that address both immediate and long-term considerations. The key insight is that financial inquiries often represent deeper concerns about the manageability of educational investments. After providing specific costs, transition to exploring support options: 'Let me walk you through the various ways our students manage their investment. We have several payment arrangements and support mechanisms available.' Share specific examples: 'Many students utilize FEE-HELP, which allows for no upfront payments, while others prefer our flexible payment plans that align with their pay cycles.' Always provide written documentation and follow-up: 'I'll email you a detailed breakdown of costs and payment options, including links to financial support resources.' The goal is to transform potential financial barriers into manageable pathways through comprehensive support and clear information."
+        }
+      ]
+    }
+  }
+}

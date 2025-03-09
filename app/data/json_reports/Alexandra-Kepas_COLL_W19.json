@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "consultant_name": "Alexandra Kepas",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 182,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.868131868131865,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 124,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.13186813186813,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 52.750997268839924,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 124,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 158.71,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.39,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 154.77,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.51,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 154.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.25,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 130.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.62,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 175.45,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.8,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 97.56,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 115.05,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 120.4,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 101.48,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 151.82,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.62,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 84.32,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 89.25,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maximizing credit recognition opportunities and maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through adaptable learning options, practical examples, and comprehensive support mechanisms"
+      },
+      {
+        "headline": "Alternative Entry Support",
+        "explanation": "Strong demonstration of exploring and presenting viable alternative entry pathways when standard routes are not available, transforming potential barriers into clear progression opportunities"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how specific program components advance career goals and provide clear return on investment while supporting professional growth through targeted pathways"
+      },
+      {
+        "headline": "Financial Planning Support",
+        "explanation": "More comprehensive exploration needed of payment options, repayment thresholds, and long-term implications while maintaining appropriate guidance boundaries and connecting to resources"
+      },
+      {
+        "headline": "Return to Study Support",
+        "explanation": "Deeper engagement needed in addressing past study challenges and building confidence for students returning to education through comprehensive support mechanisms and clear checkpoints"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and practical time management strategies."
+        },
+        {
+          "id": 2,
+          "title": "Alternative Entry Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608762360",
+              "segment_id": "46",
+              "timestamp": "2:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I think it was in the 40s. It was a while ago' (call_621608762360, seg_46), revealing anxiety about meeting entry requirements and feeling inadequate for university study.",
+          "consultant_response": "Consultant offered solution: 'You would just have to send through a copy of the diploma award...And we'd be able to get you set up in the Undergraduate Certificate as a pathway into the Bachelor of Laws' (call_621608762360, seg_51).",
+          "context_impact": "Critical opportunity to demonstrate alternative pathways and maintain enrollment momentum despite academic history concerns.",
+          "recommended_approach": "Include more specific examples of successful transitions through alternative entry pathways and demonstrate value of life experience."
+        },
+        {
+          "id": 3,
+          "title": "Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444985047",
+              "segment_id": "113",
+              "timestamp": "10:42"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231300984",
+                "segment_id": "79",
+                "timestamp": "4:08"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I might be tempted to start with two, but there's a real possibility I'll have to go back to one' (call_597444985047, seg_113), showing thoughtful consideration of study load management.",
+          "consultant_response": "Consultant advised: 'That's okay. You've got the census date there anyway, which is the end of week three. So if you want to use that as a buffer...' (call_597444985047, seg_116), effectively showing program adaptability.",
+          "context_impact": "This moment required clear demonstration of program flexibility and strategic checkpoints to maintain enrollment momentum while ensuring student success.",
+          "recommended_approach": "Include more specific examples of successful study load management strategies and adjustment points from current students."
+        },
+        {
+          "id": 4,
+          "title": "Career Pathway Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307800348",
+              "segment_id": "63",
+              "timestamp": "15:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I missed out on the CASPer exam and plus I just wanna continue in the childcare industry' (call_597307800348, seg_63), revealing clear career aspirations alongside immediate concerns.",
+          "consultant_response": "Consultant replied: 'Yeah, not yet, not right now. Yeah, that's okay. But look, what I would recommend is because both courses are interchangeable' (call_597307800348, seg_66), missing opportunity to explore career goals.",
+          "context_impact": "Moment required clear demonstration of how current enrollment supports long-term career goals in childcare sector while addressing immediate challenges.",
+          "recommended_approach": "Demonstrate clear alignment between course components and specific career progression pathways while validating industry commitment."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609070182",
+              "segment_id": "54",
+              "timestamp": "05:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just planning on using HECS' (call_621609070182, seg_54), indicating need for comprehensive financial guidance and understanding of implications.",
+          "consultant_response": "Consultant replied: 'Perfect' (call_621609070182, seg_55), missing opportunity for deeper financial planning discussion and resource connection.",
+          "context_impact": "Clear financial understanding crucial for informed enrollment commitment and long-term planning success.",
+          "recommended_approach": "Provide comprehensive HECS explanation including repayment thresholds, census dates, and broader financial planning implications while connecting to support resources."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621540352975",
+              "segment_id": "16",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "621540352975",
+                "segment_id": "29",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'Oh yeah, just like, I want to study back, because before I studied and then I didn't finish that' (call_621540352975, seg_16), revealing uncertainty about re-entering education after previous incomplete attempt.",
+          "consultant_response": "Consultant provided basic response: 'We may be able to use your work experience to get you into the course... Either way, we've got an option there for you' (call_621540352975, seg_29), missing opportunity for deeper support exploration.",
+          "context_impact": "This critical moment required clear demonstration of support mechanisms and confidence-building strategies to transform uncertainty into positive re-enrollment momentum.",
+          "recommended_approach": "Include more comprehensive exploration of past challenges, current motivations, and specific support mechanisms to strengthen re-entry planning and build confidence."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Alternative Entry Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608762360",
+              "segment_id": "46",
+              "timestamp": "2:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed uncertainty about their academic qualifications, stating 'I think it was in the 40s. It was a while ago' (call_621608762360, seg_46). This admission highlighted significant anxiety about meeting entry requirements and potentially feeling inadequate for university study. The moment represented a critical juncture where their academic history could have become a barrier to enrollment.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by immediately presenting a viable alternative pathway: 'You would just have to send through a copy of the diploma award, which is the certificate page and the transcript page. And we'd be able to get you set up in the Undergraduate Certificate as a pathway into the Bachelor of Laws' (call_621608762360, seg_51). This response effectively transformed a potential barrier into an opportunity, showing how previous qualifications could be leveraged for program entry while maintaining momentum toward their ultimate goal.",
+          "priority": "high",
+          "recommended_approach": "When addressing concerns about academic qualifications, begin by normalizing diverse educational backgrounds and emphasizing multiple pathway opportunities. Start with validating statements like 'Many successful students come to us through different routes' before exploring specific options. Detail alternative entry pathways clearly, using concrete examples: 'One of our current law students started with the Undergraduate Certificate after being out of study for several years. They're now excelling in their second year of the Bachelor program.' Show how chosen pathways maintain progress toward ultimate goals: 'The units you complete in the Certificate transfer directly to the Bachelor degree, so you're moving forward from day one.' Pay particular attention to students with older qualifications, highlighting how their life experience combines with academic study: 'Your work experience often provides valuable perspectives that enhance your studies.' When discussing documentation requirements, be specific but supportive: 'We'll need your diploma award and transcript, but don't worry if they're not immediately available - we can work with you to obtain these.' The key is transforming perceived barriers into stepping stones, always maintaining focus on the end goal while providing clear, actionable steps forward."
+        },
+        {
+          "id": 3,
+          "title": "Study Load Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444985047",
+              "segment_id": "113",
+              "timestamp": "10:42"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231300984",
+                "segment_id": "79",
+                "timestamp": "4:08"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed thoughtful consideration about managing study loads alongside various commitments. In the primary example, the student stated: 'I might be tempted to start with two, but there's a real possibility I'll have to go back to one' (call_597444985047, seg_113). This level of self-awareness about potential limitations presented an ideal opportunity for collaborative planning around workload management.",
+          "consultant_response": "Consultants demonstrated strong collaborative planning skills by providing practical, flexible solutions. The primary example showed excellent balance of encouragement with realistic guidance: 'That's okay. You've got the census date there anyway, which is the end of week three. So if you want to use that as a buffer, which is what I recommend for most of my students, do that. See how you go with the two. If it's too much, don't force yourself to just push through it' (call_597444985047, seg_116). This response effectively validated the student's concerns while providing clear checkpoints and adjustment options.",
+          "priority": "high",
+          "recommended_approach": "When addressing study load concerns, begin by acknowledging the student's self-awareness about their capacity and commitments. Start with validation: 'It's great that you're thinking proactively about managing your commitments.' Then outline specific flexibility options within the program structure, using the census date as a natural checkpoint for workload assessment. Share real examples of how current students successfully manage different loads: 'Many students start with two units and use the first three weeks to assess their capacity. Some find it manageable and continue, while others adjust to one unit - both approaches can lead to successful completion.' Pay particular attention to students juggling multiple commitments, helping them identify realistic study patterns that align with their circumstances. For instance, explain how the flexible submission windows can accommodate varying workloads: 'If you have a busy period at work, you can plan your study around it.' The key is demonstrating how the program's flexibility features can be strategically used to create a sustainable study pattern while maintaining progress toward completion."
+        },
+        {
+          "id": 4,
+          "title": "Career Pathway Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307800348",
+              "segment_id": "63",
+              "timestamp": "15:10"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed clear career intentions: 'I missed out on the CASPer exam and plus I just wanna continue in the childcare industry' (call_597307800348, seg_63). This statement revealed both immediate concerns about a missed opportunity and broader career aspirations in childcare, creating a crucial moment for collaborative planning around career progression through education.",
+          "consultant_response": "The consultant's response focused primarily on course mechanics rather than career alignment: 'Yeah, not yet, not right now. Yeah, that's okay. But look, what I would recommend is because both courses are interchangeable' (call_597307800348, seg_66). While addressing the immediate course situation, this missed the opportunity to explore specific career goals and demonstrate how the educational pathway would support their industry aspirations.",
+          "priority": "high",
+          "recommended_approach": "When students express specific career intentions, begin by acknowledging both immediate concerns and long-term aspirations. Start with empathetic validation: 'I understand your commitment to the childcare industry, and I want to ensure your studies support that goal.' Follow with exploratory questions about specific career ambitions: 'Could you tell me more about your current role and where you'd like to progress?' Use this information to demonstrate clear alignment between course content and career goals: 'The units you'll study directly support your career progression by developing advanced skills in early childhood development and leadership.' When addressing missed requirements like the CASPer exam, frame alternative pathways in terms of career benefits: 'While this pathway may take a slightly different route, it actually provides additional industry-relevant qualifications that many employers value.' Always ground discussions in practical career outcomes, showing how each unit contributes to professional development: 'For example, the child development unit directly enhances your ability to create age-appropriate learning programs.' The goal is to transform academic planning into career planning, ensuring students see clear connections between their studies and professional aspirations."
+        },
+        {
+          "id": 5,
+          "title": "Financial Planning Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609070182",
+              "segment_id": "54",
+              "timestamp": "05:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's brief statement about financial arrangements - 'I'm just planning on using HECS' (call_621609070182, seg_54) - presented a critical opportunity to ensure comprehensive understanding of financial implications and planning requirements. The simplicity of the statement suggested potential gaps in understanding that needed exploration.",
+          "consultant_response": "The consultant's minimal response of 'Perfect' (call_621609070182, seg_55) missed a crucial opportunity for deeper financial planning discussion. While maintaining conversation flow, this approach didn't ensure the student fully understood HECS requirements and implications.",
+          "priority": "high",
+          "recommended_approach": "When students indicate their intention to use HECS, transform this into a comprehensive financial planning discussion while maintaining appropriate boundaries. Begin by acknowledging their choice: 'HECS is an excellent option. Let me ensure you have all the information needed to make it work effectively for you.' Provide clear overview of key elements: 'The way FEE-HELP works is there's a salary threshold for repayments, currently at [amount]. You only start repaying through your tax once you earn above that.' Share practical examples: 'Many students find it helpful to understand how HECS fits into their broader financial planning. For instance, knowing the census dates helps with budgeting and planning.' Always connect students with specific resources: 'Our financial advisors can provide detailed guidance about payment thresholds and planning - would you like me to explain how to connect with them?' When discussing documentation requirements, be specific: 'You'll need to complete your HECS-HELP form by [date] to ensure everything's ready for your first study period.' The goal is ensuring students understand both the immediate and long-term implications of their financial choices while maintaining appropriate role boundaries."
+        },
+        {
+          "id": 6,
+          "title": "Return to Study Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621540352975",
+              "segment_id": "16",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "621540352975",
+                "segment_id": "29",
+                "timestamp": "02:45"
+              }
+            ]
+          },
+          "student_trigger": "The student revealed uncertainty about returning to education: 'Oh yeah, just like, I want to study back, because before I studied and then I didn't finish that' (call_621540352975, seg_16). This vulnerable admission indicated both desire to re-engage with education and anxiety about previous incomplete attempts, creating a critical moment for building confidence through clear pathways.",
+          "consultant_response": "The consultant provided a basic response without fully exploring concerns or building confidence: 'We may be able to use your work experience to get you into the course... Either way, we've got an option there for you' (call_621540352975, seg_29). While offering a pathway forward, this missed the opportunity to address underlying anxieties about returning to study.",
+          "priority": "high",
+          "recommended_approach": "When addressing returning students, begin by acknowledging their previous academic journey while immediately demonstrating support for their return: 'Let's start by recognizing the progress you've already made and ensure your return sets you up for success.' Create space for discussing concerns about returning to study: 'Many returning students share similar questions about getting back into academic routines. What aspects feel most challenging to you?' Use their responses to highlight relevant support services and study strategies. When discussing course updates, frame them positively: 'While some units may have evolved since your last study period, our goal is to ensure your previous work is recognized while providing you with the most current knowledge in your field.' The key is building confidence while establishing practical support mechanisms. Throughout the conversation, maintain balance between procedural efficiency and personal support, consistently reinforcing how each step brings them closer to completion. Pay particular attention to identifying specific support needs: 'Let's talk about what support would be most helpful as you return to study.' The goal is creating a comprehensive return-to-study plan that addresses both practical and confidence-building needs."
+        }
+      ]
+    }
+  }
+}

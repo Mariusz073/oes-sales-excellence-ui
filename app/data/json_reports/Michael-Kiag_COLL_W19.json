@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "consultant_name": "Michael Kiag",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 190,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 89,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 46.8421052631579,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 101,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 53.1578947368421,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 48.79685286738227,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 101,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 114.81,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.9,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 136.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.88,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 138.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 108.77,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 108.15,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.91,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 132.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 87.67,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 129.12,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.08,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 122.36,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 91.15,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 119.98,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 89.01,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining appropriate role boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of program flexibility through practical examples and specific strategies for managing study around varied work patterns, family commitments and life circumstances"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Clear communication of comprehensive support systems with appropriate referrals while maintaining role boundaries and connecting students to specific resources"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Health-Conscious Planning",
+        "explanation": "More comprehensive strategies needed for supporting students with health considerations through clear demonstration of flexible study options and support mechanisms"
+      },
+      {
+        "headline": "Life Transition Support",
+        "explanation": "Deeper collaborative planning required around major life changes with clearer demonstration of how program flexibility accommodates personal circumstances"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Healthcare Work Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical need for practical flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career-Education Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438203904",
+              "segment_id": "25",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm currently employed in HR, so as a HR business partner, and the company's kind of put forward the option of studying at Masters of Business Admin' (call_597438203904, seg_25), indicating strong employer support.",
+          "consultant_response": "Consultant effectively demonstrated flexibility: 'You can do your studies on a Monday morning, on a Wednesday night, or on the weekend, as long as you are meeting the deadlines' (call_597438203904, seg_36).",
+          "context_impact": "Critical opportunity to align MBA program benefits with career advancement goals and demonstrate value to both student and employer.",
+          "recommended_approach": "Further explore specific skills and competencies the employer seeks to develop through the MBA program."
+        },
+        {
+          "id": 3,
+          "title": "Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524926602",
+              "segment_id": "143",
+              "timestamp": "21:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597308541100",
+                "segment_id": "88",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I'm in the process of maybe getting a diagnosis for autism, but that will be a while away anyway' (call_597524926602, seg_143), revealing need for clear support pathway guidance.",
+          "consultant_response": "Consultant effectively responded: 'Talk to the student advisors team about that, okay? And that support is palatable... It could be extra tutelage, it could be extensions' (call_597524926602, seg_145).",
+          "context_impact": "Critical moment to demonstrate institutional readiness to provide appropriate accommodations while maintaining pre-enrollment boundaries.",
+          "recommended_approach": "Include more concrete examples of support mechanisms while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 4,
+          "title": "Personal Circumstances Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438203904",
+              "segment_id": "30",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'The only thing for me is my personal circumstances because I've just had a child' (call_597438203904, seg_30), revealing significant life change impacting study planning.",
+          "consultant_response": "Consultant focused solely on program timelines without addressing the implications of new parental responsibilities.",
+          "context_impact": "Critical moment to demonstrate how program flexibility specifically accommodates major life changes while maintaining academic progress.",
+          "recommended_approach": "Develop personalized study plans that specifically account for new parental responsibilities and demonstrate practical flexibility options."
+        },
+        {
+          "id": 5,
+          "title": "Health-Conscious Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231455148",
+              "segment_id": "123",
+              "timestamp": "38:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I saw the doctor this morning and I was like okay I feel okay I want to start uni again' (call_597231455148, seg_123), indicating readiness to return to study.",
+          "consultant_response": "Consultant provided basic reassurance but missed opportunity for deeper health-conscious study planning.",
+          "context_impact": "Critical moment to align study planning with health considerations and support needs.",
+          "recommended_approach": "Develop comprehensive study plan that includes health support mechanisms and flexible study options."
+        },
+        {
+          "id": 6,
+          "title": "Time Management Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597230996556",
+              "segment_id": "18",
+              "timestamp": "00:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Sorry I've been so busy I haven't even had a chance to look at my emails' (call_597230996556, seg_18), indicating time management concerns.",
+          "consultant_response": "Consultant missed opportunity to explore time management strategies and support mechanisms.",
+          "context_impact": "Missed opportunity to address critical time management concerns that could affect enrollment confidence.",
+          "recommended_approach": "Engage in collaborative discussion about specific time management strategies and available support resources."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Healthcare Work Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career-Education Alignment",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438203904",
+              "segment_id": "25",
+              "timestamp": "01:22"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597438203904 (segment 25), the student revealed strong employer support: 'I'm currently employed in HR, so as a HR business partner, and the company's kind of put forward the option of studying at Masters of Business Admin.' This indicated both professional advancement opportunities and organizational backing, creating an ideal scenario for aligning program benefits with career goals.",
+          "consultant_response": "The consultant effectively demonstrated program flexibility while maintaining focus on career development: 'You can do your studies on a Monday morning, on a Wednesday night, or on the weekend, as long as you are meeting the deadlines for when you have to submit all your work' (call_597438203904, seg_36). This response showed practical implementation possibilities while emphasizing how the program could accommodate professional responsibilities.",
+          "priority": "high",
+          "recommended_approach": "When engaging with professionally motivated students, especially those with employer support, begin by acknowledging the value of their company's investment in their development. Start with exploring specific career objectives: 'Tell me more about how this MBA aligns with your HR role and company's goals.' Use this information to highlight relevant program features, such as how specific units complement their current responsibilities. Share examples of how other HR professionals have applied their learning directly to workplace challenges. When discussing flexibility, focus on work-aligned study patterns: 'You might review case studies during your morning commute or complete online discussions during lunch breaks.' Pay particular attention to assessment design: 'Many assignments can be based on real workplace scenarios, making your study immediately relevant to your role.' Remember to emphasize how the program's structure supports professional networking and knowledge sharing among peers, creating additional value for both student and employer."
+        },
+        {
+          "id": 3,
+          "title": "Support Service Navigation",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524926602",
+              "segment_id": "143",
+              "timestamp": "21:45"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597308541100",
+                "segment_id": "88",
+                "timestamp": "02:30"
+              }
+            ]
+          },
+          "student_trigger": "During a critical enrollment discussion, the student shared personal information about an ongoing medical assessment, stating 'I'm in the process of maybe getting a diagnosis for autism, but that will be a while away anyway' (call_597524926602, seg_143). This disclosure represented a crucial opportunity to demonstrate the institution's commitment to supporting diverse student needs and providing appropriate accommodations while maintaining pre-enrollment boundaries.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding, 'Talk to the student advisors team about that, okay? And that support is palatable... It could be extra tutelage, it could be extensions' (call_597524926602, seg_145). This response effectively balanced immediate reassurance with practical guidance by outlining specific support options while maintaining appropriate pre-enrollment boundaries. The approach validated the student's concerns while providing clear pathways to access support services.",
+          "priority": "high",
+          "recommended_approach": "When students disclose potential support needs, begin by validating their disclosure with empathetic acknowledgment: 'Thank you for sharing that information with me. Our institution is committed to supporting diverse student needs, and we have robust systems in place to ensure your success.' Then, outline specific support mechanisms while maintaining pre-enrollment boundaries: 'Our Student Advisors team specializes in coordinating support arrangements and can provide detailed guidance on available accommodations. While I can't make specific arrangements now, I can explain how our support framework operates.' When discussing support options, use concrete examples while avoiding specific commitments: 'Many students work with our advisors to arrange flexible assessment timelines or additional tutoring support based on their individual needs.' Always structure conversations to build confidence in the support framework while setting realistic expectations about accessing it post-enrollment."
+        },
+        {
+          "id": 4,
+          "title": "Personal Circumstances Navigation",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438203904",
+              "segment_id": "30",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597438203904 (segment 30), the student shared important personal context: 'The only thing for me is my personal circumstances because I've just had a child, so for me, it's probably the questions I've got at the moment is how long would it take to complete?' This disclosure represented a critical moment where the student sought understanding of how the program could accommodate their new parental responsibilities while maintaining academic progress.",
+          "consultant_response": "While the consultant provided basic information about program timelines, they missed the opportunity to engage in deeper collaborative planning that would address the student's unique circumstances as a new parent. The response focused solely on standard completion timeframes without exploring how the program's flexibility could specifically support study around childcare responsibilities.",
+          "priority": "high",
+          "recommended_approach": "When students disclose significant life changes like new parenthood, begin by acknowledging this important transition while emphasizing how our program adapts to support their success. Start with validation: 'Congratulations on your new child! Many of our students balance study with parenting, and we have specific features to support this.' Then explore their unique circumstances: 'Let's look at how your daily routine might align with different study options.' Share concrete examples of how other parents succeed: 'Some students complete readings during nap times, while others prefer early morning study before their child wakes.' Discuss specific program features that support parenting needs, such as flexible submission deadlines and mobile access for study during feeding times. Address common concerns proactively: 'If your child is unwell or you have an unexpected parenting commitment, our extension policies provide the flexibility you need.' Remember to emphasize that successful study patterns often evolve as children grow and routines change, showing how our program adapts alongside their journey as a parent."
+        },
+        {
+          "id": 5,
+          "title": "Health-Conscious Planning",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231455148",
+              "segment_id": "123",
+              "timestamp": "38:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared their health context: 'I saw the doctor this morning and I was like okay I feel okay I want to start uni again' (call_597231455148, seg_123). This disclosure represented a crucial opportunity to develop a study plan that considered their health circumstances while maintaining academic progress.",
+          "consultant_response": "While the consultant provided basic reassurance about enrollment timing, they missed the opportunity to engage in deeper collaborative planning that would address the student's health considerations and support needs. This left the student without a clear understanding of how they could successfully manage their studies while maintaining their health.",
+          "priority": "high",
+          "recommended_approach": "When students disclose health-related contexts, begin by acknowledging their proactive approach to returning to study while ensuring they feel supported in their decision. Lead with empathetic understanding: 'It's great that you're feeling ready to return to study. Let's create a plan that supports both your academic goals and wellbeing.' Explore flexible study options that accommodate potential health-related needs, such as the ability to access materials offline during medical appointments or adjust deadlines if needed. Share examples of how other students have successfully managed similar situations, emphasizing the program's built-in flexibility and support systems. Discuss specific strategies for maintaining study momentum during challenging periods, like downloading materials in advance or working with online learning coaches to develop personalized study schedules. Pay particular attention to establishing clear communication channels for when additional support might be needed. The goal is to create a supportive framework that allows the student to pursue their educational goals while prioritizing their health needs."
+        },
+        {
+          "id": 6,
+          "title": "Time Management Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597230996556",
+              "segment_id": "18",
+              "timestamp": "00:50"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed time management concerns by stating: 'Sorry I've been so busy I haven't even had a chance to look at my emails' (call_597230996556, seg_18). This comment indicated a broader need for support in balancing potential study commitments with existing responsibilities.",
+          "consultant_response": "The consultant missed this opportunity to explore time management strategies and support mechanisms that could help the student envision successful study integration into their busy schedule. This oversight left the student without clear guidance on managing their commitments effectively.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about time management, immediately acknowledge their busy schedule while positioning it as a common challenge that can be overcome. Begin by exploring their specific time constraints: 'I understand you're juggling multiple commitments. Could you tell me more about your typical week?' This opens a collaborative dialogue about practical solutions. Share success stories of similar students, for example: 'Many of our busy professionals find success by dedicating specific time blocks to study - like Sunday mornings or Tuesday evenings.' Introduce the concept of flexible study patterns, showing how the online platform allows for adaptation around work and personal commitments. Present specific strategies for managing deadlines, such as using the learning platform's calendar integration and mobile access features. When discussing workload, emphasize how the program's structure allows for adjustment based on busy periods in their life. Pay particular attention to students expressing immediate time pressures, offering concrete examples of how others have transitioned successfully into study routines. The goal is to transform their time management concerns into confidence about their ability to succeed through practical planning and available support resources."
+        }
+      ]
+    }
+  }
+}

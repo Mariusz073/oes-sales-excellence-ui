@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "consultant_name": "Yusuf Aly",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 211,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 58,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 27.488151658767773,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 153,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 72.51184834123224,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.48673011422236,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 153,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-6_12-02_12-06",
+      "average_final_ranking_score_eligible_transcripts": 224.46,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.03,
+      "team_average_final_ranking_score_eligible_transcripts": 181.48,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.4
+    },
+    {
+      "label": "week-9_12-23_12-27",
+      "average_final_ranking_score_eligible_transcripts": 193.63,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 155.72,
+      "team_average_final_ranking_score_eligible_transcripts": 160.73,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 129.43
+    },
+    {
+      "label": "week-10_12-30_01-03",
+      "average_final_ranking_score_eligible_transcripts": 189.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.4,
+      "team_average_final_ranking_score_eligible_transcripts": 178.81,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 131.7
+    },
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 226.5,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 135.47,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 185.97,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 132.36,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 215.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 159.02,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 203.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 161.71,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 165.06,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 158.28,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 198.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 159.61,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 198.62,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 125.43,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 179.91,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 144.74,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 160.02,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 137.43,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through collaborative exploration"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples and personalized study patterns aligned with individual needs"
+      },
+      {
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective demonstration of available support mechanisms while maintaining appropriate boundaries between sales consultation and post-enrollment services"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Goal Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career advancement goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Life Stage Adaptation",
+        "explanation": "More comprehensive collaborative planning needed to help students at different life stages effectively integrate study with existing responsibilities"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and proactive problem-solving approaches"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing a critical need to demonstrate practical study flexibility.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students and demonstrate how different shift patterns can be accommodated."
+        },
+        {
+          "id": 2,
+          "title": "Documentation Process Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231473349",
+              "segment_id": "44",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I have to work out how to get it photocopied because I use a MacBook, so my printer and scanner doesn't work' (call_597231473349, seg_44), revealing technical barriers to document submission.",
+          "consultant_response": "Consultant offered solutions: 'As long as the certificate is certified, you can take a photo and send it to me. Some chemists can do it for you as well' (call_597231473349, seg_51), providing multiple practical options.",
+          "context_impact": "Swift resolution of documentation challenges crucial for maintaining enrollment momentum and demonstrating institutional support.",
+          "recommended_approach": "Include more specific local resources, digital solutions, and step-by-step guidance for document processing while maintaining appropriate boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Life Stage Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307780118",
+              "segment_id": "14",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I'm a 40 year old mother and I'm looking into potentially doing the online primary teaching' (call_597307780118, seg_14), revealing need for life-stage appropriate planning.",
+          "consultant_response": "Consultant focused on HECS eligibility without exploring life circumstances or flexible study options that could support success.",
+          "context_impact": "Critical opportunity to demonstrate how program flexibility accommodates mature students with family responsibilities while building confidence.",
+          "recommended_approach": "Create tailored study plans that acknowledge and accommodate mature student responsibilities while building confidence through specific examples of successful similar students."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358137018",
+              "segment_id": "135",
+              "timestamp": "6:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I want to be in like social work and youth work' (call_597358137018, seg_135), revealing need for guidance on educational requirements for distinct career paths.",
+          "consultant_response": "Consultant explained: 'Social work specifically is a professional pathway that requires a degree in social work... youth work is more nebulously defined' (call_597358137018, seg_136).",
+          "context_impact": "Critical moment requiring clarification of educational pathways while maintaining appropriate guidance boundaries and enrollment focus.",
+          "recommended_approach": "Include more specific examples of how different educational pathways lead to career outcomes while maintaining appropriate boundaries and focusing on immediate enrollment decisions."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357587890",
+              "segment_id": "163",
+              "timestamp": "15:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I think I'll just start with the one for now' (call_597357587890, seg_163), revealing need for collaborative exploration of study load management.",
+          "consultant_response": "Consultant replied: 'Look, what most people do is start off with two' (call_597357587890, seg_164), missing opportunity for collaborative planning.",
+          "context_impact": "Crucial moment to explore student's capacity and concerns while developing appropriate study strategies that maintain momentum.",
+          "recommended_approach": "Explore student's specific circumstances and reasons for preferred study load before providing recommendations, using examples of successful study patterns."
+        },
+        {
+          "id": 6,
+          "title": "Timeline Flexibility Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524825052",
+              "segment_id": "36",
+              "timestamp": "02:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'Yeah, I mean, it's looking like I might have to because I can't, like, move any faster with verifying that' (call_597524825052, seg_36), indicating verification timing constraints.",
+          "consultant_response": "Consultant reframed delay positively: 'might just be a little bit neater and give you more breathing room if we move to the July start date instead' (call_597524825052, seg_40).",
+          "context_impact": "Critical need to maintain enrollment momentum while addressing verification delays through positive alternative planning.",
+          "recommended_approach": "Provide more specific benefits of the alternative timeline and suggest interim preparation activities that maintain engagement."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' Similar concerns emerged from other healthcare workers, highlighting the critical need to demonstrate how our program specifically accommodates these unique scheduling challenges while maintaining enrollment momentum.",
+          "consultant_response": "The consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding positively. The approach effectively moved the conversation from 'if' to 'how', directly addressing practical concerns while maintaining momentum through specific, relevant examples.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Documentation Process Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231473349",
+              "segment_id": "44",
+              "timestamp": "06:00"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597231473349 (segment 44), the student expressed technical difficulties with document submission: 'I have to work out how to get it photocopied because I use a MacBook, so my printer and scanner doesn't work.' This revealed both a practical barrier to enrollment progress and the student's proactive approach to identifying challenges. The timing and technical nature of the issue made it crucial to address promptly to maintain enrollment momentum.",
+          "consultant_response": "The consultant demonstrated effective problem-solving by immediately offering flexible solutions: 'As long as the certificate is certified, you can take a photo and send it to me, that's no problem. Some chemists can do it for you as well' (segment 51). This response showed understanding of the student's time constraints while providing multiple practical options that maintained enrollment momentum through clear, actionable guidance.",
+          "priority": "high",
+          "recommended_approach": "When addressing document submission challenges, start by acknowledging the specific technical or logistical barrier while immediately offering multiple practical solutions. Begin with validation: 'I understand technology issues can be frustrating - let's find an easy solution that works for you.' Then provide specific options: 'Many students use their phone's camera for documents, or we can help you locate nearby certification services.' The key is making documentation requirements feel manageable through clear, actionable steps. For instance, explain exactly how photo submissions should be formatted: 'Make sure all text is clearly visible and the certification stamp is in frame.' Always maintain appropriate boundaries while guiding students to accessible resources: 'Here are several nearby locations that offer these services during extended hours.' Remember to focus on enrollment-relevant aspects while ensuring students feel supported in meeting documentation requirements."
+        },
+        {
+          "id": 3,
+          "title": "Life Stage Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307780118",
+              "segment_id": "14",
+              "timestamp": "01:05"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "At the beginning of call 597307780118 (segment 14), the student shared important context about their life stage and educational goals: 'I'm a 40 year old mother and I'm looking into potentially doing the online primary teaching.' This disclosure provided crucial information about their personal circumstances and professional aspirations, creating an ideal opportunity for tailored educational planning that would acknowledge and accommodate their unique situation as a mature student with family responsibilities.",
+          "consultant_response": "The consultant focused primarily on administrative aspects, discussing HECS eligibility without exploring how the program could accommodate the student's life circumstances as a mother. While providing important information about financial options, this approach missed the opportunity to demonstrate how the program's flexibility could support their success as a mature student balancing family responsibilities with academic goals.",
+          "priority": "high",
+          "recommended_approach": "When mature students share their life context, demonstrate how the program adapts to their specific circumstances while maintaining appropriate boundaries. Begin with validation: 'Your perspective as a parent will be valuable in primary teaching studies. Let's explore how our program can fit around your family commitments.' Follow with questions about current responsibilities: 'What does your typical week look like in terms of family commitments?' Show how program flexibility accommodates their situation through examples of successful mature students: 'Many of our parent students find success downloading materials for offline study during their children's activities.' Discuss specific features like asynchronous learning options and flexible deadlines that help balance academic goals with family responsibilities. The key is making flexibility tangible through real-world examples while building confidence in their ability to succeed. Maintain focus on practical solutions while acknowledging the valuable life experience they bring to their studies."
+        },
+        {
+          "id": 4,
+          "title": "Career Path Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358137018",
+              "segment_id": "135",
+              "timestamp": "6:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the call, the student expressed specific career aspirations: 'I want to be in like social work and youth work' (call_597358137018, seg_135). This statement revealed both clear career goals and a need for guidance on educational requirements for these distinct professional paths. The student's directness in stating their career objectives created an ideal opportunity for collaborative planning to align educational choices with professional aspirations.",
+          "consultant_response": "The consultant provided clear information while maintaining appropriate boundaries: 'Social work specifically is a professional pathway that requires a degree in social work... youth work is more nebulously defined' (call_597358137018, seg_136). This response effectively distinguished between different educational requirements while avoiding detailed career counseling that would exceed appropriate guidance boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students express specific career goals, begin by acknowledging their aspirations while maintaining appropriate guidance boundaries: 'I appreciate your interest in social work and youth work - let me explain how our programs align with these career paths.' Focus on educational requirements rather than detailed career guidance: 'For social work, you'll need an accredited degree, while youth work has multiple pathway options.' Share examples of how current students pursue these paths: 'Many of our students interested in youth work start with our program to build foundational skills, while those focused on social work often transition to specialized programs.' The key is connecting educational options to career goals while maintaining appropriate scope. Pay particular attention to distinguishing between providing educational guidance and career counseling, always redirecting detailed career questions to appropriate resources. When discussing requirements, use practical examples: 'One of our recent graduates began in youth services and later completed additional qualifications for social work registration.' The goal is to empower informed decision-making while maintaining clear professional boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Study Load Discussion",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597357587890",
+              "segment_id": "163",
+              "timestamp": "15:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed a preference for a lighter study load: 'I think I'll just start with the one for now' (call_597357587890, seg_163). This moment represented a crucial opportunity to explore the student's capacity and concerns about managing their studies while demonstrating support for their decision-making process and maintaining enrollment momentum.",
+          "consultant_response": "The consultant's response was brief and prescriptive: 'Look, what most people do is start off with two' (call_597357587890, seg_164). This approach missed the opportunity to explore the student's reasons for preferring a lighter load and failed to demonstrate collaborative planning in developing a suitable study strategy that would maintain their confidence and engagement.",
+          "priority": "high",
+          "recommended_approach": "When discussing study load, start by acknowledging the student's preference and exploring their reasoning: 'I understand you're thinking of starting with one unit. Could you tell me more about what's influencing that decision?' Use their response to guide a collaborative discussion about managing study commitments: 'Let's look at how different study loads might work with your current commitments.' Explain the implications of various options: 'Starting with one unit can help you adjust to online study, though it may extend your overall completion time. Two units is our recommended load as it helps maintain momentum while remaining manageable for most students.' Remember to validate their concerns while providing relevant information: 'Whatever load you choose, we have support services to help you succeed.' Focus on finding the right balance for each student's situation, using examples of successful study patterns: 'Some students start with one unit to build confidence, while others find two units helps them maintain momentum.' The goal is to create a collaborative plan that aligns with the student's capabilities and circumstances while ensuring academic progress."
+        },
+        {
+          "id": 6,
+          "title": "Timeline Flexibility Management",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524825052",
+              "segment_id": "36",
+              "timestamp": "02:53"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed concern about verification delays: 'Yeah, I mean, it's looking like I might have to because I can't, like, move any faster with verifying that' (call_597524825052, seg_36). This revealed both commitment to enrollment and frustration with external constraints. The timing and nature of the concern made it crucial to maintain enrollment momentum while addressing practical timeline challenges.",
+          "consultant_response": "The consultant effectively addressed the timing challenge by suggesting: 'might just be a little bit neater and give you more breathing room if we move to the July start date instead' (call_597524825052, seg_40). This response exemplified strong collaborative planning by reframing the delay as a strategic advantage, reducing immediate pressure while maintaining enrollment momentum through positive alternative planning.",
+          "priority": "high",
+          "recommended_approach": "When addressing timeline constraints, start by validating the student's concern while immediately presenting alternative pathways that maintain momentum. Begin with empathy: 'I understand this verification delay is frustrating, especially when you're ready to begin your studies.' Then reframe the situation positively: 'Let's explore how this timing adjustment might actually enhance your study journey.' Share specific benefits of the alternative timeline: 'Many students find that starting in July allows them to better prepare, complete any pending requirements, and begin their studies with reduced pressure.' When discussing the adjusted timeline, focus on strategic advantages: 'This timing also aligns well with our enhanced orientation program and study group formations.' For students expressing anxiety about delays, demonstrate how the additional time supports success: 'You can use this period to familiarize yourself with our online learning platform, connect with future classmates, and organize your study schedule.' The goal is to transform potential frustration into constructive planning, ensuring students feel supported and strategic about their adjusted start date."
+        }
+      ]
+    }
+  }
+}

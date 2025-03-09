@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "consultant_name": "Jack Colleran",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 96,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 35,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 36.45833333333333,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 61,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 63.541666666666664,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 47.83908462264386,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 61,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 199.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 136.32,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 177.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.78,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 173.94,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 124.86,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 188.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 120.44,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 172.27,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 95.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 118.42,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 81.63,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 109.38,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 131.58,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 139.04,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 113.29,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 155.47,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.14,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through specific, actionable solutions"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through concrete examples and clear pathways that directly address work-life balance concerns"
+      },
+      {
+        "headline": "Proactive Documentation Support",
+        "explanation": "Effective guidance through documentation requirements with clear alternatives and support mechanisms that transform administrative barriers into manageable steps"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and career transition goals while maintaining appropriate pre-enrollment boundaries"
+      },
+      {
+        "headline": "Support Service Alignment",
+        "explanation": "More comprehensive mapping needed between available support services and student circumstances while maintaining clear role boundaries and referral processes"
+      },
+      {
+        "headline": "Process Navigation Enhancement",
+        "explanation": "Clearer guidance required for enrollment processes with specific preparation steps, timelines and support resources that maintain consistent momentum"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524826600",
+              "segment_id": "41",
+              "timestamp": "6:02"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597524826600",
+                "segment_id": "52",
+                "timestamp": "7:15"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'I'm starting a new role in a few weeks, and I'm not sure how I'm going to manage being back at study and back doing almost a full-time job' (call_597524826600, seg_41), revealing critical need for work-study balance planning.",
+          "consultant_response": "Consultant provided practical solution: 'You can do literally one unit. What I recommend is starting with Learning and Communicating Online, which is an easier core unit or Skills for Success, only eight weeks long with no exams' (call_597524826600, seg_52), effectively demonstrating program flexibility.",
+          "context_impact": "This moment required clear demonstration of how program flexibility specifically accommodates working professionals to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current working professionals and detailed time management strategies."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438496315",
+              "segment_id": "37",
+              "timestamp": "3:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just trying to figure out which one has more of a future career pathway' (call_597438496315, seg_37), revealing uncertainty about program alignment with career goals.",
+          "consultant_response": "Consultant advised: 'Well, honestly... financial planning would be more aligned with your kind of end goals' (call_597438496315, seg_39), effectively connecting program features to career objectives.",
+          "context_impact": "Critical moment for demonstrating program relevance to student's career aspirations through collaborative pathway exploration.",
+          "recommended_approach": "Include specific career progression examples and graduate success stories while maintaining appropriate pre-enrollment boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Documentation Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609389321",
+              "segment_id": "26",
+              "timestamp": "01:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm just wondering how I go about that' (call_621609389321, seg_26), showing readiness to understand enrollment steps.",
+          "consultant_response": "Consultant provided clear guidance: 'Reply to that email with two things. I need a copy of your diploma document... and then I also need a copy of your resume' (call_621609389321, seg_32).",
+          "context_impact": "Clear documentation guidance crucial for maintaining enrollment momentum.",
+          "recommended_approach": "Include more context about why specific documents are needed and how they support the enrollment journey."
+        },
+        {
+          "id": 4,
+          "title": "Follow-up Engagement Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "4",
+              "timestamp": "00:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I was just waiting to follow up' (call_123456789012, seg_4), indicating need for resolution and continuity in the enrollment process.",
+          "consultant_response": "Consultant provided minimal acknowledgment: 'No worries' (call_123456789012, seg_15), missing opportunity to demonstrate proactive support.",
+          "context_impact": "This moment required clear demonstration of process understanding and commitment to resolution to maintain student confidence.",
+          "recommended_approach": "Provide clear follow-up plan with specific next steps, timeline, and support resources."
+        },
+        {
+          "id": 5,
+          "title": "Qualification Recognition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358491772",
+              "segment_id": "53",
+              "timestamp": "07:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'Um so i'm currently finishing up my diploma right now i already have my cert three qualification' (call_597358491772, seg_53), indicating potential for recognition of prior learning.",
+          "consultant_response": "Consultant acknowledged with: 'Oh amazing and that's from TAFE as well did you say is it?' (call_597358491772, seg_59), missing opportunity for deeper exemption discussion.",
+          "context_impact": "This moment required detailed exploration of how prior qualifications could enhance their educational pathway through credit recognition.",
+          "recommended_approach": "Provide comprehensive explanation of recognition process with specific documentation requirements and potential benefits."
+        },
+        {
+          "id": 6,
+          "title": "Process Initiation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358491772",
+              "segment_id": "46",
+              "timestamp": "06:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Am I able to, like, start any processes right now or should I just wait?' (call_597358491772, seg_46), showing readiness to begin enrollment steps.",
+          "consultant_response": "Consultant replied: 'No, of course, what you can do is...I can go over eligibility and stuff with you' (call_597358491772, seg_47), missing opportunity for specific process planning.",
+          "context_impact": "This moment required clear guidance on immediate actionable steps in the enrollment process to maintain momentum.",
+          "recommended_approach": "Provide detailed breakdown of immediate preparatory steps with clear timeline and documentation requirements."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597524826600",
+              "segment_id": "41",
+              "timestamp": "6:02"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597524826600",
+                "segment_id": "52",
+                "timestamp": "7:15"
+              }
+            ]
+          },
+          "student_trigger": "The student expressed significant concern about managing their commitments: 'I'm starting a new role in a few weeks, and I'm not sure how I'm going to manage being back at study and back doing almost a full-time job' (call_597524826600, seg_41). This revealed both interest in advancing their education and anxiety about practical implementation, representing a critical moment where effective collaborative planning could address their concerns and maintain enrollment momentum.",
+          "consultant_response": "The consultant demonstrated strong understanding of the need for flexibility, responding with practical solutions: 'You can do literally one unit. What I would advise is you've got eight electives that are exempt and we have a few more electives. What I recommend is starting with Learning and Communicating Online, which is an easier core unit or Skills for Success, only eight weeks long with no exams' (call_597524826600, seg_52). This response effectively addressed the student's concerns by providing specific, manageable options that aligned with their work commitments.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging the legitimate challenge of managing multiple commitments while immediately transitioning to concrete solutions. Start by validating their concerns: 'I understand managing work and study can feel overwhelming. Let's explore how our flexible options can work with your schedule.' Then provide specific, actionable solutions: 'Many of our working students start with one unit to establish their routine. The Learning and Communicating Online unit is particularly suitable as it's eight weeks long with no exams.' Share real examples of successful strategies: 'For instance, one of our current students in a similar situation downloads materials on Sunday evenings, completes readings during lunch breaks, and dedicates two evenings per week to assignments.' The key is transforming perceived barriers into practical solutions through specific examples and clear pathways that demonstrate how our program flexibility aligns with their work commitments. Always ground explanations in real-world scenarios that resonate with their situation while emphasizing the support systems available throughout their journey."
+        },
+        {
+          "id": 2,
+          "title": "Strategic Career Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438496315",
+              "segment_id": "37",
+              "timestamp": "3:27"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in the enrollment discussion, the student expressed career pathway uncertainty, stating: 'I'm just trying to figure out which one has more of a future career pathway' (call_597438496315, seg_37). This revealed their need for guidance in aligning educational choices with long-term professional aspirations, creating an opportunity for meaningful collaborative planning around career development.",
+          "consultant_response": "The consultant demonstrated effective career-focused guidance: 'Well, honestly, if you're not really concentrating on being, if you don't really want to be an accountant, I would say you're better off kind of doing the financial planning. And it seems from basically what your kind of like end goal is, financial planning would be more aligned with your kind of end goals' (call_597438496315, seg_39). This response successfully connected program features with career aspirations while maintaining student autonomy in the decision-making process.",
+          "priority": "high",
+          "recommended_approach": "When addressing career pathway concerns, begin by validating the student's focus on long-term professional outcomes while providing structured guidance that maintains appropriate boundaries. Start with career exploration: 'It's excellent that you're thinking about long-term career impact. Let's explore how each pathway aligns with your goals.' Guide the discussion through specific examples: 'Many of our financial planning graduates move into roles such as independent advisory or corporate consulting within two years of completion.' Share concrete success stories: 'For instance, a recent graduate leveraged our industry connections to secure a position at a top consulting firm before graduation.' The key is demonstrating clear career pathways while maintaining appropriate pre-enrollment boundaries. Focus on program features that directly support career outcomes: 'Our advanced modeling unit, for example, is specifically designed for those aiming for senior advisory roles.' Always balance inspiration with realistic expectations and maintain focus on enrollment-relevant aspects rather than detailed career planning."
+        },
+        {
+          "id": 3,
+          "title": "Documentation Planning Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609389321",
+              "segment_id": "26",
+              "timestamp": "01:09"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the initial enrollment discussion, the student expressed uncertainty about the process by asking 'I'm just wondering how I go about that' (call_621609389321, seg_26). This revealed both their readiness to proceed and their need for clear guidance on documentation requirements.",
+          "consultant_response": "The consultant provided comprehensive guidance by stating: 'Reply to that email with two things. I need a copy of your diploma document... and then I also need a copy of your resume' (call_621609389321, seg_32). This response effectively broke down the requirements into manageable steps while maintaining a collaborative tone.",
+          "priority": "high",
+          "recommended_approach": "When students indicate readiness to understand documentation requirements, transform this into an opportunity to demonstrate our structured yet supportive approach. Begin by acknowledging their proactive interest: 'I appreciate you asking about this. Let's break down exactly what you'll need to get started.' Then outline requirements systematically: 'First, we'll need your academic transcripts to confirm your eligibility, and your resume helps us understand your professional experience.' Create clear action steps: 'Let's go through each requirement one by one, ensuring you understand exactly what's needed and why.' Use specific examples of successful documentation submission: 'Many students find it helpful to gather these documents before starting the application, and we're here to help if you have any questions.' Always emphasize ongoing support: 'Remember, you can reach out at any point if you need clarification or assistance with your documentation.' This approach helps transform administrative requirements into manageable steps while maintaining enrollment momentum."
+        },
+        {
+          "id": 4,
+          "title": "Follow-up Engagement Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "123456789012",
+              "segment_id": "4",
+              "timestamp": "00:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student's statement 'I was just waiting to follow up' (call_123456789012, seg_4) indicated a need for resolution and continuity in their enrollment journey. This moment represented an opportunity to demonstrate institutional reliability and commitment to student support, as the student was actively seeking resolution of previous discussions.",
+          "consultant_response": "The consultant's response of 'No worries' (call_123456789012, seg_15) failed to address the underlying need for clear follow-up planning and resolution. This minimal response missed the opportunity to demonstrate proactive support and provide clear next steps, potentially leaving the student uncertain about progress toward resolution.",
+          "priority": "high",
+          "recommended_approach": "When students initiate follow-up contact, immediately demonstrate both acknowledgment of previous interactions and clear commitment to resolution through specific actions. Begin with appreciation and context: 'Thank you for following up. I can see from your previous conversation that you were discussing [specific topic]. Let's ensure we address everything from that discussion and move forward with clear next steps.' Then outline a specific action plan: 'First, let's confirm your documentation requirements - you'll need your transcripts and identification. Then we'll review your eligibility and map out the enrollment timeline.' Create immediate action items: 'Let's start by reviewing your qualifications while you gather these documents. I'll note in your file that we're aiming to complete the eligibility check by [specific date] and begin the enrollment process by [specific date].' The key is maintaining momentum through clear steps, specific timelines, and tangible progress markers."
+        },
+        {
+          "id": 5,
+          "title": "Qualification Recognition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358491772",
+              "segment_id": "53",
+              "timestamp": "07:31"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared their educational background: 'Um so i'm currently finishing up my diploma right now i already have my cert three qualification' (call_597358491772, seg_53). This disclosure presented a vital opportunity to explore recognition of prior learning and potential course credits.",
+          "consultant_response": "The consultant provided a basic acknowledgment: 'Oh amazing and that's from TAFE as well did you say is it?' (call_597358491772, seg_59). While showing interest, this response missed the opportunity to deeply explore how their qualifications could enhance their educational pathway through potential exemptions.",
+          "priority": "high",
+          "recommended_approach": "When students disclose prior qualifications, immediately demonstrate the value of their existing achievements while providing clear pathways for recognition. Start with specific acknowledgment: 'Your diploma and Certificate III represent significant progress toward your goal. Let me explain how these qualifications can benefit your journey with us.' Then outline the recognition process with clear steps: 'We have a structured process for assessing prior learning. You'll need to provide your transcripts and course outlines, which our academic team will review for maximum credit recognition.' Share specific examples: 'For instance, students with similar qualifications often receive exemptions for foundational units, allowing them to focus on advanced topics.' Always maintain appropriate boundaries by noting: 'While I can explain the general process and benefits, our academic team will make the final assessment once you're enrolled, ensuring you receive all eligible credits.' The key is demonstrating how prior learning creates tangible advantages while providing clear guidance through the recognition process."
+        },
+        {
+          "id": 6,
+          "title": "Process Initiation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597358491772",
+              "segment_id": "46",
+              "timestamp": "06:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed readiness to begin the enrollment process: 'Am I able to, like, start any processes right now or should I just wait?' (call_597358491772, seg_46). This proactive inquiry presented an opportunity to guide them through immediate enrollment steps.",
+          "consultant_response": "The consultant provided a general response: 'No, of course, what you can do is...I can go over eligibility and stuff with you' (call_597358491772, seg_47). This missed the opportunity to provide clear, actionable steps and maintain enrollment momentum.",
+          "priority": "medium",
+          "recommended_approach": "When students show initiative to begin enrollment processes, immediately capitalize on their momentum with clear, actionable guidance. Start with positive affirmation and specific steps: 'Absolutely! We can begin several important steps right now to move your application forward. First, let's confirm your eligibility requirements - you'll need [specific documents]. Then we'll review your qualifications for potential credits and map out your study plan.' Provide clear documentation requirements: 'You'll need your diploma transcripts, identification, and [specific requirements]. I can email you a detailed checklist right after our call.' Create immediate action items: 'Let's start by reviewing your qualifications while you gather these documents. I'll note in your file that we're aiming to complete the eligibility check by [specific date] and begin the enrollment process by [specific date].' The key is maintaining momentum through clear steps, specific timelines, and tangible progress markers."
+        }
+      ]
+    }
+  }
+}

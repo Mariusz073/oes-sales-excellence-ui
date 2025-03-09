@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "consultant_name": "Valentina William",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 217,
+  "team_average_total_number_of_calls_per_sales_consultant": 187.0,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 51,
+    "team_average_absolute_number": 57.5
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 23.502304147465438,
+    "team_average_percentage": 32.00917154724305
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 166,
+    "team_average_absolute_number": 129.5
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 76.49769585253456,
+    "team_average_percentage": 67.99082845275694
+  },
+  "average_talking_percentage": {
+    "individual_average": 49.94055029011917,
+    "team_average": 51.38781986560865
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 166,
+    "team_total_excluded_transcripts": 2072
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-11_01-06_01-10",
+      "average_final_ranking_score_eligible_transcripts": 163.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 143.59,
+      "team_average_final_ranking_score_eligible_transcripts": 174.2,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 118.12
+    },
+    {
+      "label": "week-12_01-13_01-17",
+      "average_final_ranking_score_eligible_transcripts": 157.33,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 107.24,
+      "team_average_final_ranking_score_eligible_transcripts": 157.75,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.37
+    },
+    {
+      "label": "week-13_01-20_01-24",
+      "average_final_ranking_score_eligible_transcripts": 141.2,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 114.26,
+      "team_average_final_ranking_score_eligible_transcripts": 162.74,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 120.37
+    },
+    {
+      "label": "week-14_01-27_01-31",
+      "average_final_ranking_score_eligible_transcripts": 115.03,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 122.83,
+      "team_average_final_ranking_score_eligible_transcripts": 155.43,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 112.46
+    },
+    {
+      "label": "week-15_02-03_02-07",
+      "average_final_ranking_score_eligible_transcripts": 151.59,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.35,
+      "team_average_final_ranking_score_eligible_transcripts": 157.11,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.21
+    },
+    {
+      "label": "week-16_02-10_02-14",
+      "average_final_ranking_score_eligible_transcripts": 148.92,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 98.16,
+      "team_average_final_ranking_score_eligible_transcripts": 163.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.25
+    },
+    {
+      "label": "week-17_02-17_02-21",
+      "average_final_ranking_score_eligible_transcripts": 154.53,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 130.18,
+      "team_average_final_ranking_score_eligible_transcripts": 148.21,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 109.77
+    },
+    {
+      "label": "week-18_02-24_02-28",
+      "average_final_ranking_score_eligible_transcripts": 125.0,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 105.19,
+      "team_average_final_ranking_score_eligible_transcripts": 157.4,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 113.71
+    },
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 174.75,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 100.55,
+      "team_average_final_ranking_score_eligible_transcripts": 146.3,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 111.06
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical, actionable solutions"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through specific examples and clear adaptation strategies that resonate with individual situations"
+      },
+      {
+        "headline": "Support Service Connection",
+        "explanation": "Effective integration of relevant support services into planning discussions while maintaining appropriate pre-enrollment boundaries and creating clear pathways to assistance"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how program elements align with specific workplace challenges and diverse career pathways while maintaining appropriate advisory boundaries"
+      },
+      {
+        "headline": "Life Circumstance Planning",
+        "explanation": "More comprehensive support needed for students managing significant life transitions, including detailed strategies for adapting study plans to changing circumstances"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and immediate assistance options while maintaining momentum"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), followed by another stating: 'My roster changes every week, and I often work nights' (call_595732548084, seg_163), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "These moments required clear demonstration of how our program design specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students, particularly addressing night shift and rotating roster scenarios."
+        },
+        {
+          "id": 2,
+          "title": "Personal Circumstance Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608967453",
+              "segment_id": "35",
+              "timestamp": "1:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I had a really turbulent time. there was some domestic violence and stuff at home so yeah I didn't didn't get very far in that' (call_621608967453, seg_35), indicating need for sensitive support planning.",
+          "consultant_response": "Consultant acknowledged with empathy: 'I'm sorry to hear that but thank you for sharing' and smoothly transitioned to practical support options (call_621608967453, seg_37), maintaining appropriate professional boundaries.",
+          "context_impact": "Critical moment requiring demonstration of institutional support while maintaining professional boundaries and focusing on educational solutions.",
+          "recommended_approach": "Provide more specific examples of support resources and flexible study arrangements while clearly outlining post-enrollment support access."
+        },
+        {
+          "id": 3,
+          "title": "Course Duration Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539718148",
+              "segment_id": "14",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'sometimes students get very stressed about the duration of the course' (call_621539718148, seg_14), indicating anxiety about managing course timeframes and completion.",
+          "consultant_response": "Consultant effectively responded: 'Totally, and that's why we have these studies broken down into manageable units each trimester' (call_621539718148, seg_16), showing clear course structure.",
+          "context_impact": "This concern required immediate addressing to maintain enrollment confidence through practical course structure demonstration.",
+          "recommended_approach": "Provide more detailed examples of successful time management strategies and show how trimester system adapts to different circumstances."
+        },
+        {
+          "id": 4,
+          "title": "Career Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608967453",
+              "segment_id": "97",
+              "timestamp": "17:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'So the Bachelor of Psychological Sciences, what does that, like? What happens at the end of it?' (call_621608967453, seg_97), seeking comprehensive career pathway understanding.",
+          "consultant_response": "Consultant provided limited response: 'It is kind of created for students who are wanting to become psychologists' (call_621608967453, seg_103), missing opportunity to showcase program versatility.",
+          "context_impact": "Critical moment for linking educational investment to diverse career outcomes and immediate employment possibilities.",
+          "recommended_approach": "Explore diverse career pathways and immediate employment possibilities within psychology field, including corporate, education, and healthcare sectors."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525105521",
+              "segment_id": "15",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'No, I haven't. I'm so sorry. With all the stuff happening... I just haven't got a chance to get to it yet' (call_597525105521, seg_15), revealing documentation challenges during crisis.",
+          "consultant_response": "Consultant simply noted: 'We still do have all of today and of course tomorrow' (call_597525105521, seg_23), missing chance to explore alternatives or offer practical assistance.",
+          "context_impact": "Opportunity to provide alternative documentation solutions while maintaining momentum through immediate assistance options.",
+          "recommended_approach": "Offer specific documentation alternatives and immediate assistance options, including guided completion and simplified formats."
+        },
+        {
+          "id": 6,
+          "title": "Study Management Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525527988",
+              "segment_id": "2",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I'm not sure I can commit to the study hours' (call_597525527988, seg_2), revealing significant concerns about managing study commitments.",
+          "consultant_response": "Consultant missed opportunity to explore flexible study options and available support mechanisms.",
+          "context_impact": "Unaddressed study management concerns directly impact enrollment confidence and decision-making.",
+          "recommended_approach": "Develop collaborative discussion exploring specific study management strategies and institutional support resources."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week, and I often work nights.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable' (seg_25). In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing the practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, always start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Personal Circumstance Support",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608967453",
+              "segment_id": "35",
+              "timestamp": "1:42"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in call 621608967453 (segment 35), the student shared significant personal challenges: 'I had a really turbulent time. there was some domestic violence and stuff at home so yeah I didn't didn't get very far in that.' This vulnerable disclosure presented a critical opportunity to demonstrate institutional support while maintaining appropriate professional boundaries. The student's openness indicated both trust and a need for understanding about how the program could accommodate personal circumstances.",
+          "consultant_response": "The consultant responded with appropriate empathy and professionalism: 'Yeah okay now I'm sorry to hear that but yeah thank you for sharing' (call_621608967453, seg_37), before transitioning smoothly to discussing practical support options and credit transfer possibilities. This balanced response acknowledged the student's experiences while maintaining focus on constructive educational planning, effectively demonstrating institutional support without overstepping professional boundaries.",
+          "priority": "high",
+          "recommended_approach": "When students share personal challenges, begin with authentic acknowledgment of their experience while maintaining appropriate professional boundaries. Start with empathetic validation: 'I appreciate you sharing that with me, and I want you to know that supporting students through various life circumstances is important to us.' Then, transition to practical support discussion: 'Let me share some ways our program is designed to support students during challenging times.' Always maintain focus on educational planning while showing institutional support: 'We have flexible study options and support services that can help you succeed in your studies, regardless of external challenges.' Provide specific examples of support mechanisms: 'For instance, our online learning platform allows you to adjust your study schedule when needed, and our student support team can help you develop strategies for managing your studies effectively.' The key is demonstrating institutional support while empowering students to see how they can succeed despite past or current challenges."
+        },
+        {
+          "id": 3,
+          "title": "Course Duration Management",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621539718148",
+              "segment_id": "14",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During the conversation (call_621539718148, segment 14), the student expressed a common concern: 'sometimes students get very stressed about the duration of the course.' This statement revealed underlying anxiety about managing course timeframes and completing the program successfully. Such concerns often represent a critical juncture in the student's decision-making process, as course duration can seem overwhelming without proper context and support structure understanding.",
+          "consultant_response": "The consultant demonstrated excellent collaborative planning skills by immediately responding with: 'Totally, and that's why we have these studies broken down into manageable units each trimester' (segment 16). This response effectively accomplished several key objectives: it validated the student's concern while simultaneously providing a practical solution, broke down the course duration into more digestible segments, and demonstrated how the program structure supports student success. The approach transformed a potential barrier into a manageable pathway.",
+          "priority": "high",
+          "recommended_approach": "When addressing course duration concerns, consultants should begin by acknowledging the validity of these feelings while immediately pivoting to explain how the program structure supports student success. Start with validation: 'It's completely natural to feel concerned about the course duration - many successful students have felt the same way.' Then, break down the program structure into manageable components: 'Let me show you how our trimester system makes this more manageable.' Share specific examples of how current students navigate the program: 'Many of our students find that breaking down the course into trimester units helps them focus on smaller, achievable goals rather than feeling overwhelmed by the full duration.' Additionally, highlight how the flexible study options allow students to adjust their pace when needed, emphasizing that support services are available to help with time management. This approach transforms the duration from an intimidating commitment into a structured journey with clear milestones and support systems."
+        },
+        {
+          "id": 4,
+          "title": "Career Pathway Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608967453",
+              "segment_id": "97",
+              "timestamp": "17:25"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 621608967453 (segment 97), the student directly sought career clarity: 'So the Bachelor of Psychological Sciences, what does that, like? What happens at the end of it?' This question revealed a critical need to understand the practical value and career outcomes of their potential educational investment, presenting a key opportunity to strengthen their enrollment commitment through clear career pathway articulation.",
+          "consultant_response": "The consultant provided limited career information: 'So with this specific degree, it is kind of created for students who are wanting to become psychologists within Australia' (call_621608967453, seg_103). While accurate, this response focused narrowly on one career path without exploring broader opportunities or immediate employment possibilities, potentially limiting the student's understanding of the degree's versatility.",
+          "priority": "high",
+          "recommended_approach": "When students inquire about career outcomes, start by exploring their specific interests within the field: 'What aspects of psychology particularly interest you? Are you drawn more to clinical work, research, or organizational psychology?' Then, provide comprehensive career pathway information: 'This degree opens multiple career paths - from becoming a registered psychologist to roles in human resources, social services, research, or corporate training.' Share specific examples and timelines: 'For instance, some graduates work immediately in youth services or human resources, while others pursue further study to become clinical psychologists.' Always connect program features to career preparation: 'Our curriculum includes practical placements and research projects that build skills valued across multiple sectors.' Include success stories: 'One recent graduate now works as a behavior specialist in schools, while another leads corporate training programs.' The goal is to paint a comprehensive picture of career possibilities while remaining grounded in the student's interests and goals."
+        },
+        {
+          "id": 5,
+          "title": "Documentation Process Support",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525105521",
+              "segment_id": "15",
+              "timestamp": "00:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597525105521 (segment 15), the student expressed difficulty with documentation requirements: 'No, I haven't. I'm so sorry. With all the stuff happening... I just haven't got a chance to get to it yet.' This moment highlighted the need for alternative documentation solutions that could maintain enrollment momentum while accommodating immediate life challenges.",
+          "consultant_response": "The consultant provided only basic timeline acknowledgment: 'We still do have all of today and of course tomorrow' (call_597525105521, seg_23), missing the opportunity to explore alternative documentation options or offer specific assistance that could help overcome the immediate barrier.",
+          "priority": "high",
+          "recommended_approach": "When students express challenges with documentation requirements, immediately pivot to exploring alternative solutions: 'I understand getting documentation together can be challenging right now. Let me share some different ways we can approach this.' Present specific alternatives: 'Instead of a full resume, we could complete a work experience form together over the phone, or I could guide you through a simplified version that covers the key information we need.' Offer practical assistance: 'I can help you identify which documents are essential now versus what can be provided later, or we could break the process into smaller, more manageable steps.' Always provide immediate next steps: 'Let's start with the basic information you have readily available, and I can show you how to efficiently gather the rest.' The goal is to transform documentation barriers into manageable tasks while maintaining enrollment momentum through practical solutions and support."
+        },
+        {
+          "id": 6,
+          "title": "Study Management Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525527988",
+              "segment_id": "2",
+              "timestamp": "00:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student expressed uncertainty about managing study commitments: 'I'm not sure I can commit to the study hours' (call_597525527988, seg_2). This revealed significant concerns about balancing study with other responsibilities, requiring clear demonstration of flexible study options and support resources.",
+          "consultant_response": "The consultant missed the opportunity to explore specific study management strategies or highlight available support mechanisms that could help ensure student success.",
+          "priority": "high",
+          "recommended_approach": "When students express concerns about study commitments, engage them in collaborative planning that addresses their specific circumstances. Start by validating their concern: 'It's great that you're thinking carefully about managing your study commitments. Let's explore this together.' Then probe deeper: 'What are your main commitments currently?' Use this information to suggest specific strategies: 'Many students with similar schedules find success by breaking their study into smaller blocks throughout the week.' Share examples of successful students' approaches: 'One of our current students manages their study by dedicating early mornings before work, while others prefer evening sessions.' Emphasize flexibility and support options: 'Our learning platform allows you to access materials anytime, and our support team can help you develop a personalized study schedule.' The key is transforming their concern into a concrete plan while maintaining realistic expectations about the commitment required."
+        }
+      ]
+    }
+  }
+}

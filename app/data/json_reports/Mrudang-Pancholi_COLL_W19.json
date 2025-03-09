@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "consultant_name": "Mrudang Pancholi",
+    "week_number": 19,
+    "date_range": "03-03_03-07",
+    "report_type": "Collaborative Planning"
+  },
+  "total_number_of_calls": 219,
+  "team_average_total_number_of_calls_per_sales_consultant": 195.45454545454547,
+  "number_of_calls_over_2_minutes": {
+    "absolute_number": 69,
+    "team_average_absolute_number": 32.09090909090909
+  },
+  "percent_of_calls_over_2_minutes": {
+    "percentage": 31.506849315068493,
+    "team_average_percentage": 14.688682653193398
+  },
+  "number_of_calls_under_2_minutes": {
+    "absolute_number": 150,
+    "team_average_absolute_number": 163.36363636363637
+  },
+  "percent_of_calls_under_2_minutes": {
+    "percentage": 68.4931506849315,
+    "team_average_percentage": 67.12949916498842
+  },
+  "average_talking_percentage": {
+    "individual_average": 51.782586199262035,
+    "team_average": 53.24963397129906
+  },
+  "excluded_transcripts": {
+    "individual_excluded_transcripts": 150,
+    "team_total_excluded_transcripts": 1797
+  },
+  "behavioral_scores": [
+    {
+      "label": "week-19_03-03_03-07",
+      "average_final_ranking_score_eligible_transcripts": 191.89,
+      "average_final_ranking_score_all_transcripts_over_2_mins": 109.94,
+      "team_average_final_ranking_score_eligible_transcripts": 172.12,
+      "team_average_final_ranking_score_all_transcripts_over_2_mins": 114.89
+    }
+  ],
+  "themes": {
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances including shift work, parental responsibilities and career commitments through tailored solutions"
+      },
+      {
+        "headline": "Goal-Oriented Dialogue",
+        "explanation": "Effective engagement in mapping short and long-term goals while maintaining appropriate pre-enrollment guidance boundaries and demonstrating program relevance"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Transition Support",
+        "explanation": "Enhanced exploration needed of how program elements specifically support career change goals while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Life Balance Planning",
+        "explanation": "More comprehensive support needed for students managing major life changes and transitions while maintaining academic engagement"
+      },
+      {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance needed for complex documentation scenarios with specific alternative pathways and proactive timeline management"
+      }
+    ]
+  },
+  "conversation_analysis": {
+    "condensed": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I work rotating shifts at the hospital, not sure how I'll manage study' (call_595732493616, seg_23), revealing critical scheduling flexibility needs.",
+          "consultant_response": "Consultant provided practical solution: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24), effectively showing real-world flexibility.",
+          "context_impact": "This moment required clear demonstration of how program flexibility specifically accommodates healthcare shift workers to maintain enrollment momentum.",
+          "recommended_approach": "Include more specific examples of successful study patterns from current healthcare students, particularly those managing night shifts and rotating rosters."
+        },
+        {
+          "id": 2,
+          "title": "Career Change Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621540435850",
+              "segment_id": "26",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I think it was just more so a career change and I just didn't have the skill set that I needed' (call_621540435850, seg_26), indicating clear career transition motivation.",
+          "consultant_response": "Consultant replied: 'Okay and have you completed any undergrads or masters before this one?' (call_621540435850, seg_49), missing opportunity to explore career transition needs.",
+          "context_impact": "Critical opportunity to align program offerings with career change objectives while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Directly address career change motivation by exploring specific skill gaps and how program addresses them while maintaining appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231361665",
+              "segment_id": "18",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'I am waiting for results from another university because I don't think I have reached your, or the Monash WAM requirements' (call_597231361665, seg_12), revealing uncertainty about eligibility.",
+          "consultant_response": "Consultant provided solution: 'If not 70 students, those who are between 60 to 69.9, we also offer something called a Professional Certificate Program that will still let you proceed' (call_597231361665, seg_18), effectively presenting viable alternatives.",
+          "context_impact": "This moment required clear demonstration of alternative pathways to maintain student engagement despite perceived academic barriers.",
+          "recommended_approach": "Begin by gathering more context about academic background and goals before presenting alternative pathways."
+        },
+        {
+          "id": 4,
+          "title": "Life Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444705772",
+              "segment_id": "34",
+              "timestamp": "03:07"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I am just about to have a baby, so sometime in the next year after that' (call_597444705772, seg_34), revealing need for flexible study planning during major life transition.",
+          "consultant_response": "Consultant simply replied: 'Whenever you're ready in the future, feel free to reach out' (call_597444705772, seg_35), missing opportunity to explore immediate flexible options.",
+          "context_impact": "Critical moment to demonstrate program flexibility and support during major life transitions while maintaining enrollment momentum.",
+          "recommended_approach": "Proactively discuss flexible study options and specific support services available for new parents while maintaining focus on enrollment."
+        },
+        {
+          "id": 5,
+          "title": "Study Planning Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525016097",
+              "segment_id": "90",
+              "timestamp": "6:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student expressed: 'With my current work schedule, I'm worried about fitting in study time' (call_597525016097, seg_90), revealing concerns about work-study balance.",
+          "consultant_response": "Consultant explained: 'Our program is designed for working professionals. You can access materials anytime, study at your own pace, and adjust your workload based on your schedule' (call_597525016097, seg_91).",
+          "context_impact": "Need to demonstrate how online program flexibility supports successful study-work integration.",
+          "recommended_approach": "Include more specific examples of successful work-study integration strategies from current students."
+        },
+        {
+          "id": 6,
+          "title": "Professional Background Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438409357",
+              "segment_id": "35",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I have been doing some work in assisting communities with just kind of traumatized communities in my work as a landscape architect' (call_597438409357, seg_35), revealing relevant experience.",
+          "consultant_response": "Consultant replied: 'Yeah absolutely no sounds good and did you receive the email I sent you yesterday' (call_597438409357, seg_42), missing chance to explore professional background.",
+          "context_impact": "Opportunity to connect previous experience with program benefits while maintaining appropriate guidance boundaries.",
+          "recommended_approach": "Leverage shared professional experience to demonstrate program alignment while maintaining focus on educational pathways."
+        }
+      ]
+    },
+    "verbose": {
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Work-Study Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "595732493616",
+              "segment_id": "23",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 595732493616 (segment 23), the student expressed significant concern about balancing study with shift work: 'I work rotating shifts at the hospital, not sure how I'll manage study.' This revealed both interest in the program and anxiety about practical implementation. Similar concerns emerged in call 595732548084 (segment 163) where another healthcare worker noted: 'My roster changes every week.' These moments represented critical opportunities to demonstrate how our program specifically accommodates healthcare professionals' unique scheduling challenges.",
+          "consultant_response": "The primary consultant demonstrated strong understanding of healthcare workflows, responding with: 'Many of our nursing students study between shifts. Our online platform lets you download materials for offline study during quiet periods' (call_595732493616, seg_24). This practical example resonated strongly, with the student responding: 'That actually sounds manageable.' In the supporting call, the consultant built on the flexible access theme: 'The beauty of our platform is you can switch between online and offline study. Some students download their materials before night shifts' (call_595732548084, seg_164). Both consultants effectively moved the conversation from 'if' to 'how', directly addressing practical concerns while maintaining momentum.",
+          "priority": "high",
+          "recommended_approach": "When addressing shift workers' scheduling concerns, start by acknowledging their specific work pattern before showing how our program design aligns with healthcare workflows. Share concrete examples of how current students manage study around shifts - whether it's downloading materials for night shifts, studying during quiet periods, or breaking study into small blocks between shifts. The key is making flexibility tangible rather than theoretical. For instance, explain how asynchronous learning means no mandatory live sessions, and offline access means study can happen even in areas with poor connectivity. For those with rotating rosters, emphasize how weekly study patterns can adapt to changing schedules. Pay particular attention to students working night shifts or long rotations, showing how our platform's flexibility specifically addresses these challenges. The goal is to transform perceived scheduling barriers into manageable planning opportunities, always grounding explanations in healthcare-specific scenarios that resonate with their experience."
+        },
+        {
+          "id": 2,
+          "title": "Career Change Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621540435850",
+              "segment_id": "26",
+              "timestamp": "01:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in the conversation, the student revealed their primary motivation: 'I think it was just more so a career change and I just didn't have the skill set that I needed' (call_621540435850, seg_26). This disclosure presented a critical opportunity to explore how the program could support their career transition goals while maintaining appropriate pre-enrollment guidance boundaries. The student's clarity about seeking skill development indicated readiness for detailed program alignment discussion.",
+          "consultant_response": "The consultant's response fell short of the opportunity presented, merely asking: 'Okay and have you completed any undergrads or masters before this one?' (call_621540435850, seg_49). While gathering academic background is important, this approach missed the chance to explore the career transition motivation and specific skill gaps the student identified. The conversation shifted to administrative details without addressing how the program could support their career change objectives or demonstrate its relevance to their professional goals.",
+          "priority": "high",
+          "recommended_approach": "When students express career change motivations, begin by acknowledging their professional transition goals while maintaining appropriate guidance boundaries. Rather than immediately focusing on academic prerequisites, engage in strategic exploration: 'Could you tell me more about the specific skills you're looking to develop for your career transition?' This creates space for students to articulate their professional objectives while allowing consultants to demonstrate program relevance. Frame program features in terms of skill development and career applicability: 'Our curriculum is designed to build transferable skills through practical applications. For example, many career changers find that our industry-focused assignments help them develop directly relevant capabilities.' Always maintain focus on educational pathways rather than specific career advice, using phrases like 'The program provides foundations in...' rather than making career-specific promises. When discussing skill development, reference how current students apply their learning: 'Many of our students working in similar transitions have found that the program's focus on [specific skill area] helps them build capabilities they can apply immediately.' This approach balances addressing career change motivations while staying within appropriate pre-enrollment guidance boundaries."
+        },
+        {
+          "id": 3,
+          "title": "Effective Alternative Pathway Planning",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231361665",
+              "segment_id": "18",
+              "timestamp": "03:45"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The interaction began with a critical moment when the student expressed uncertainty about meeting academic requirements: 'I am waiting for results from another university because I don't think I have reached your, or the Monash WAM requirements' (call_597231361665, seg_12). This disclosure revealed both interest in the program and anxiety about eligibility, creating a pivotal opportunity for collaborative planning to maintain engagement despite perceived barriers. The student's willingness to share their concern demonstrated readiness for exploring alternative pathways.",
+          "consultant_response": "The consultant effectively transformed this potential barrier into an opportunity by presenting a clear alternative pathway: 'If not 70 students, those who are between 60 to 69.9, we also offer something called a Professional Certificate Program that will still let you proceed with that fourth year sequence. You just have to complete two units. Those two units are part of your GradDeepSciAdvanced, eight units anyway, so you're not studying anything extra' (call_597231361665, seg_18). This response successfully demonstrated collaborative planning by acknowledging the concern while providing a detailed, viable alternative that maintained the student's progression toward their academic goals. The consultant effectively showed how this pathway wouldn't extend their study timeline or add extra units, addressing potential concerns before they arose.",
+          "priority": "high",
+          "recommended_approach": "When addressing academic eligibility concerns, begin by acknowledging the student's expressed uncertainties about meeting requirements, then gather context about their academic background before presenting alternatives. Start with open-ended questions like 'Can you tell me more about your current academic standing and what's drawing you to this program?' This creates space for a more personalized discussion of pathways. When presenting alternatives like the Professional Certificate Program, frame them as strategic stepping stones rather than compromises: 'Based on your background, I can see a clear pathway that would work well for your situation.' Always explain both the immediate steps and the longer-term benefits, such as how completing initial units contributes to the full qualification. The key is transforming what might seem like a barrier into an opportunity for strategic academic planning, always keeping the focus on the student's end goal rather than the immediate challenge of entry requirements."
+        },
+        {
+          "id": 4,
+          "title": "Life Transition Planning",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597444705772",
+              "segment_id": "34",
+              "timestamp": "03:07"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During call 597444705772 (segment 34), the student shared significant life changes: 'I am just about to have a baby, so sometime in the next year after that.' This disclosure represented a crucial moment for demonstrating program flexibility and support during major life transitions. The timing and nature of this information presented an opportunity to show how the program could accommodate new parents while maintaining academic progress.",
+          "consultant_response": "The consultant's response was limited to basic acknowledgment and deferral: 'Whenever you're ready in the future, feel free to reach out' (597444705772, seg_35). While showing basic empathy, this response missed the opportunity to explore immediate flexible options or demonstrate how the program could accommodate new parents. The lack of specific support discussion potentially left the student uncertain about managing both responsibilities.",
+          "priority": "high",
+          "recommended_approach": "When students reveal major life transitions like impending parenthood, immediately acknowledge the significance while demonstrating how our programs adapt to changing circumstances. Begin with genuine congratulations: 'That's wonderful news about your baby! Many of our students successfully balance study with new parenthood through our flexible learning options.' Share specific examples: 'For instance, some parents download materials to review during late-night feedings, while others prefer to study during their baby's naptime.' Discuss concrete support mechanisms: 'Our online platform lets you pause and resume study as needed, and our success coaches understand the unique challenges new parents face.' The key is transforming what might seem like a barrier into a manageable pathway, always grounding examples in real student experiences. Emphasize how flexibility features specifically support parenting challenges: 'You can access materials offline, study at your own pace, and adjust your workload as you settle into your new routine.'"
+        },
+        {
+          "id": 5,
+          "title": "Study Planning Flexibility",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525016097",
+              "segment_id": "90",
+              "timestamp": "6:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Working professionals consistently express scheduling concerns, exemplified when one student stated: 'With my current work schedule, I'm worried about fitting in study time' (call_597525016097, seg_90). These moments reveal critical opportunities to demonstrate how program flexibility specifically accommodates professional commitments while maintaining academic quality. Students often seek concrete evidence that successful study-work integration is achievable.",
+          "consultant_response": "Consultants effectively address these concerns by providing practical solutions, as demonstrated when one explained: 'Our program is designed for working professionals. You can access materials anytime, study at your own pace, and adjust your workload based on your schedule' (call_597525016097, seg_91). This approach successfully shows how program features directly address scheduling challenges while maintaining academic rigor. Consultants consistently link flexibility features to specific work scenarios, helping students envision successful integration of study into their professional lives.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by acknowledging the specific challenges of the student's work pattern, then demonstrate how program flexibility creates practical solutions. Start with validation: 'Managing professional commitments alongside study requires careful planning, which is why our program is designed with working students in mind.' Then provide specific examples of how current students succeed: 'Many of our working professionals download materials for offline study during commutes, complete readings during lunch breaks, and participate in discussions during evening hours that suit their schedule.' The key is making flexibility tangible rather than theoretical. Share specific strategies: 'Some students block out two weekday evenings and Sunday mornings for focused study, while others prefer shorter daily sessions. Our platform supports both approaches, letting you develop a rhythm that works for your schedule.' Always include examples of support mechanisms: 'You'll have access to our learning coaches who can help you develop a personalized study schedule, plus our technical support team ensures you can access materials whenever and wherever you need them.' The goal is to transform perceived time constraints into manageable planning opportunities, always grounding examples in realistic scenarios that resonate with working professionals."
+        },
+        {
+          "id": 6,
+          "title": "Professional Background Integration",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438409357",
+              "segment_id": "35",
+              "timestamp": "02:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student shared valuable professional context: 'I have been doing some work in assisting communities with just kind of traumatized communities in my work as a landscape architect' (call_597438409357, seg_35). This disclosure provided a rich opportunity to demonstrate program relevance and explore how their existing experience could enhance their educational journey while maintaining appropriate pre-enrollment guidance boundaries.",
+          "consultant_response": "The consultant's response significantly underutilized this opportunity, merely stating: 'Yeah absolutely no sounds good and did you receive the email I sent you yesterday' (call_597438409357, seg_42). This response failed to acknowledge the valuable experience shared, missed the chance to connect their background with program benefits, and shifted to administrative matters rather than exploring the educational pathway's alignment with their professional experience.",
+          "priority": "high",
+          "recommended_approach": "When students share relevant professional experience, begin by acknowledging its value while maintaining focus on educational pathways: 'Your experience working with communities brings an important perspective to this program. Could you tell me more about how you see this background contributing to your educational goals?' This creates space for exploring program alignment while staying within appropriate guidance boundaries. Frame program features in terms of their existing expertise: 'Many of our students with community work experience find they can immediately apply our [specific course element] to enhance their current practice.' When discussing program benefits, reference how similar professionals leverage the learning: 'Students with backgrounds similar to yours often find that our focus on [relevant aspect] helps them expand their impact in community work.' Always maintain focus on how their experience enriches the learning journey: 'Your practical experience with communities will provide valuable context for exploring theoretical concepts, while the program can offer new frameworks to enhance your existing approach.' The goal is to demonstrate how their professional background creates a foundation for academic success while showing how the program can expand their capabilities."
+        }
+      ]
+    }
+  }
+}
