@@ -121,38 +121,304 @@
     "positive": [
       {
         "headline": "Strategic Pathway Planning",
-        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum through practical solutions"
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining enrollment momentum and professional alignment"
       },
       {
         "headline": "Flexible Study Integration",
-        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical examples, specific scenarios, and clear support mechanisms"
+        "explanation": "Strong demonstration of how program flexibility accommodates diverse student circumstances through practical, tailored solutions that address specific work-life balance challenges"
       },
       {
-        "headline": "Support System Integration",
-        "explanation": "Effective coordination and demonstration of comprehensive support services while maintaining appropriate pre-enrollment boundaries and clear handoff processes"
+        "headline": "Proactive Support Integration",
+        "explanation": "Effective connection of students with targeted support resources while removing technical and administrative barriers through clear guidance and immediate assistance"
       }
     ],
     "improvement": [
       {
+        "headline": "Documentation Process Planning",
+        "explanation": "Clearer guidance required for complex documentation scenarios with specific alternative pathways and consistent information delivery across all touchpoints"
+      },
+      {
+        "headline": "Work-Life Integration Planning",
+        "explanation": "Enhanced collaborative planning needed around balancing work commitments with study requirements through specific strategies and tailored examples"
+      },
+      {
         "headline": "Career Development Integration",
-        "explanation": "Enhanced exploration needed of how program elements align with specific career goals while maintaining appropriate advisory boundaries and providing concrete examples"
-      },
-      {
-        "headline": "Context-Based Planning",
-        "explanation": "Deeper exploration required of student circumstances and preferences before suggesting solutions to ensure more personalized pathway guidance and targeted support"
-      },
-      {
-        "headline": "Crisis-Aware Support Enhancement",
-        "explanation": "More comprehensive approach needed for adapting processes and demonstrating flexibility when students face personal emergencies while maintaining enrollment momentum"
+        "explanation": "Stronger exploration needed of how program elements specifically align with workplace challenges and professional advancement goals through concrete examples"
       }
     ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231322282",
+              "segment_id": "237",
+              "timestamp": "34:17"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438348960",
+                "segment_id": "37",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "Student asked: 'Have you looked at our double majors in accounting and financial planning?' (call_597231322282, seg_237), followed by exploration of historical credits: 'I've got some university study before 1985' (call_597438348960, seg_37).",
+          "consultant_response": "Consultant effectively outlined accreditation benefits: 'The double major gets you the ACIC accreditation as well as the CPA accreditation needed for accounting' (call_597231322282, seg_239), while acknowledging historical study value.",
+          "context_impact": "Critical moments for demonstrating pathway flexibility while maintaining academic recognition and professional advancement opportunities.",
+          "recommended_approach": "Include more specific examples of successful pathway progression and credit recognition outcomes."
+        },
+        {
+          "id": 2,
+          "title": "Technical Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437703976",
+              "segment_id": "22",
+              "timestamp": "2:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I tried to re-login to my old account, like using my password, but it never worked' (call_597437703976, seg_22), revealing technical obstacles to enrollment.",
+          "consultant_response": "Consultant offered direct assistance: 'If I can transfer you to Swinburne campus... to action that as soon as possible' (call_597437703976, seg_28), providing immediate solution.",
+          "context_impact": "Immediate resolution of technical barriers was essential to maintain enrollment momentum.",
+          "recommended_approach": "Develop comprehensive self-service guidance while maintaining immediate support options."
+        },
+        {
+          "id": 3,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437713535",
+              "segment_id": "135",
+              "timestamp": "13:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'Sorry to ask you but is it a commonwealth supported place?' (call_597437713535, seg_135), indicating financial considerations as a key decision factor.",
+          "consultant_response": "Consultant confirmed: 'As an Australian citizen you're eligible for hex and all of our courses are commonwealth support' (call_597437713535, seg_136), providing immediate reassurance.",
+          "context_impact": "Clear financial pathway information was crucial for removing potential enrollment barriers.",
+          "recommended_approach": "Proactively integrate financial planning earlier in pathway discussions."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438348960",
+              "segment_id": "8",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438348960",
+                "segment_id": "37",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'Well, I spoke to Swinburne Online, Jake said that I didn't, no documents were required, whereas I spoke to Jack and Jack said... that I do need documents' (call_597438348960, seg_8).",
+          "consultant_response": "Consultant's limited response: 'Okay, so you've been in contact with Jack?' (call_597438348960, seg_17) failed to address confusion or provide clear guidance.",
+          "context_impact": "Conflicting information risked eroding trust and creating enrollment barriers.",
+          "recommended_approach": "Implement standardized documentation guidance with clear alternatives and consistent messaging."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437713535",
+              "segment_id": "34",
+              "timestamp": "05:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231322282",
+                "segment_id": "237",
+                "timestamp": "34:17"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'I have to check my work hours also study hours because I wasn't expecting this big this big from you' (call_597437713535, seg_34).",
+          "consultant_response": "Consultant's inadequate reply: 'That's yeah so look I'm not I can't tell you which course is better' (call_597437713535, seg_39) missed opportunity for strategic planning.",
+          "context_impact": "Critical opportunity to demonstrate program flexibility and build confidence in manageability.",
+          "recommended_approach": "Develop comprehensive work-study integration framework with specific examples and success strategies."
+        },
+        {
+          "id": 6,
+          "title": "Career Pathway Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231322282",
+              "segment_id": "237",
+              "timestamp": "34:17"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597437713535",
+                "segment_id": "34",
+                "timestamp": "05:12"
+              }
+            ]
+          },
+          "student_trigger": "Student inquired: 'Have you looked at our double majors in accounting and financial planning?' (call_597231322282, seg_237).",
+          "consultant_response": "Consultant effectively highlighted professional benefits: 'The double major gets you the ACIC accreditation as well as the CPA accreditation needed for accounting' (call_597231322282, seg_239).",
+          "context_impact": "Opportunity to demonstrate clear professional advancement pathways through program structure.",
+          "recommended_approach": "Expand discussion of specific career progression pathways and professional integration opportunities."
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Strategic Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231322282",
+              "segment_id": "237",
+              "timestamp": "34:17"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438348960",
+                "segment_id": "37",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "During call 597231322282 (segment 237), the student expressed interest in advanced study options, asking 'Have you looked at our double majors in accounting and financial planning?' This revealed both ambition and readiness to explore comprehensive educational pathways. In a supporting call (597438348960, segment 37), another student raised historical credit concerns: 'I've got some university study before 1985,' highlighting the need for flexible pathway recognition.",
+          "consultant_response": "The consultant effectively highlighted professional benefits, explaining 'The double major gets you the ACIC accreditation as well as the CPA accreditation needed for accounting' (call_597231322282, seg_239). This response demonstrated strong understanding of industry requirements while showing how program structure supports career advancement. For historical credits, the consultant showed understanding of unique situations while offering practical guidance: 'Our system does have some specifics around how academic history affects entry, let's look into what documents you might need' (call_597438348960, seg_38).",
+          "priority": "high",
+          "recommended_approach": "When exploring educational pathways, begin by validating the student's aspirations while ensuring they understand available options. Start with exploring motivations: 'The double major offers excellent professional advantages. What attracted you to combining these areas?' Then provide concrete examples of successful progression: 'Many students find our integrated curriculum helps complete dual qualifications efficiently.' For historical credits, acknowledge prior learning value: 'Your previous university experience is valuable. Let me explain how we assess and recognize historical qualifications.' Address workload planning: 'We can adjust study loads between sessions based on your commitments.' The key is creating clear, personalized pathways that align with both professional goals and personal circumstances while maintaining momentum toward enrollment through practical examples and proven strategies."
+        },
+        {
+          "id": 2,
+          "title": "Technical Support Integration",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437703976",
+              "segment_id": "22",
+              "timestamp": "2:34"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student faced technical access challenges, expressing frustration: 'I tried to re-login to my old account, like using my password, but it never worked' (call_597437703976, seg_22). This situation presented a potential barrier to enrollment progress, requiring immediate attention to maintain momentum and demonstrate institutional support capabilities.",
+          "consultant_response": "The consultant took decisive action, offering immediate assistance: 'If I can transfer you to Swinburne campus... to action that as soon as possible' (call_597437703976, seg_28). This response showed commitment to quick resolution while ensuring the student received expert technical support. The approach maintained enrollment momentum by removing barriers promptly rather than allowing technical issues to create delays.",
+          "priority": "high",
+          "recommended_approach": "When addressing technical barriers, demonstrate both empathy and efficiency in resolution. Begin by acknowledging frustration: 'I understand how challenging technical issues can be, especially during enrollment.' Then provide immediate solutions: 'Let me connect you directly with our technical team who can reset your access now.' Use resolution time effectively: 'While we get this sorted, I'll explain your next enrollment steps.' Create proactive support plans: 'Here's direct contact information for future technical needs.' The key is transforming barriers into opportunities to demonstrate institutional support while maintaining enrollment momentum through immediate, practical solutions. Share specific examples: 'Many students face similar login issues, which we typically resolve within minutes through our dedicated support team.'"
+        },
+        {
+          "id": 3,
+          "title": "Financial Support Navigation",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437713535",
+              "segment_id": "135",
+              "timestamp": "13:18"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student raised financial concerns early in the discussion, asking 'Sorry to ask you but is it a commonwealth supported place?' (call_597437713535, seg_135). This question indicated both awareness of support options and the importance of financial planning in their decision-making process.",
+          "consultant_response": "The consultant provided clear, affirming information: 'As an Australian citizen you're eligible for hex and all of our courses are commonwealth support' (call_597437713535, seg_136). This direct response offered immediate reassurance while confirming eligibility for financial support.",
+          "priority": "high",
+          "recommended_approach": "When addressing financial support queries, combine clear information with comprehensive guidance about available options. Start by affirming eligibility: 'Yes, as an Australian citizen, you have access to several financial support options, including Commonwealth Supported Places.' Outline practical benefits: 'This means you can defer tuition through HECS-HELP, focusing on studies without upfront payments.' Share specific examples: 'Many students use HECS-HELP effectively, only beginning repayments once their income reaches the threshold.' Integrate support information naturally: 'While we explore your study options, let me explain how our financial support systems make this achievable.' The key is transforming financial considerations from potential barriers into manageable aspects of their educational journey through clear, supportive guidance and practical examples."
+        },
+        {
+          "id": 4,
+          "title": "Documentation Process Clarity",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597438348960",
+              "segment_id": "8",
+              "timestamp": "02:30"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597438348960",
+                "segment_id": "37",
+                "timestamp": "03:15"
+              }
+            ]
+          },
+          "student_trigger": "Multiple students expressed confusion about documentation requirements, with one stating: 'Well, I spoke to Swinburne Online, Jake said that I didn't, no documents were required, whereas I spoke to Jack and Jack said... that I do need documents' (call_597438348960, seg_8). This revealed critical issues with consistency in documentation guidance.",
+          "consultant_response": "Consultants showed varying levels of effectiveness in addressing documentation confusion. One response was particularly inadequate: 'Okay, so you've been in contact with Jack?' (call_597438348960, seg_17), failing to address the core issue of conflicting information or provide clear guidance.",
+          "priority": "high",
+          "recommended_approach": "When handling documentation inquiries, start by establishing clear authority: 'Let me definitively clarify the exact requirements for your situation.' Immediately acknowledge any confusion: 'I understand you've received different information, which must be frustrating. Let me provide the correct details.' Provide comprehensive guidance: 'For your specific enrollment pathway, you'll need [X, Y, Z documents]. Each serves a specific purpose in ensuring smooth processing.' Create clear action plans: 'Let's create a checklist of required documents and acceptable alternatives.' Share specific examples: 'Many students successfully use [specific alternative] when original documents aren't available.' The key is transforming documentation requirements from potential barriers into manageable steps through clear, consistent guidance and practical solutions."
+        },
+        {
+          "id": 5,
+          "title": "Work-Study Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597437713535",
+              "segment_id": "34",
+              "timestamp": "05:12"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597231322282",
+                "segment_id": "237",
+                "timestamp": "34:17"
+              }
+            ]
+          },
+          "student_trigger": "Students consistently expressed concerns about managing work and study commitments, with one stating: 'I have to check my work hours also study hours because I wasn't expecting this big this big from you' (call_597437713535, seg_34). This revealed critical need for clear work-study integration strategies.",
+          "consultant_response": "Some consultants struggled to provide effective guidance, as evidenced by responses like: 'That's yeah so look I'm not I can't tell you which course is better' (call_597437713535, seg_39), missing opportunities for strategic planning.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study integration, begin with validation: 'It's excellent that you're thinking proactively about managing your commitments. Let's explore specific strategies that work for busy professionals.' Share concrete examples: 'Many working students succeed by creating structured study blocks around their work patterns. For instance, downloading materials for offline study during quiet periods.' Provide flexible solutions: 'Our program adapts to your work schedule - you can adjust study loads between sessions based on work demands.' Demonstrate support systems: 'Our online platform allows 24/7 access to materials, and our support teams understand the unique challenges of working students.' Include success stories: 'One of our current students manages a full-time healthcare role by utilizing our flexible submission options and mobile study resources.' The key is creating confidence through practical strategies and real-world examples."
+        },
+        {
+          "id": 6,
+          "title": "Career Pathway Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597231322282",
+              "segment_id": "237",
+              "timestamp": "34:17"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597437713535",
+                "segment_id": "34",
+                "timestamp": "05:12"
+              }
+            ]
+          },
+          "student_trigger": "Students showed strong interest in professional advancement opportunities, with one asking: 'Have you looked at our double majors in accounting and financial planning?' (call_597231322282, seg_237). This revealed desire for clear career progression pathways.",
+          "consultant_response": "Some consultants effectively highlighted professional benefits: 'The double major gets you the ACIC accreditation as well as the CPA accreditation needed for accounting' (call_597231322282, seg_239), demonstrating strong understanding of industry requirements.",
+          "priority": "high",
+          "recommended_approach": "When discussing career pathways, begin by exploring professional goals: 'Let's understand your career aspirations and how our program can support them.' Demonstrate industry alignment: 'Our curriculum is designed with input from industry leaders to ensure relevance.' Share specific progression examples: 'Recent graduates have used their combined qualifications to [specific career outcome].' Create clear connections: 'Each unit develops specific workplace competencies - for instance, our advanced units enhance leadership capabilities valued in senior roles.' Provide practical applications: 'You can apply course concepts directly to workplace challenges, creating immediate professional value.' The key is showing how program elements directly support career advancement while maintaining appropriate pre-enrollment boundaries through specific examples and industry-relevant outcomes."
+        }
+      ]
     }
   }
 }

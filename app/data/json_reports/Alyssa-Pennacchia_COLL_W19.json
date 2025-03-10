@@ -3,7 +3,7 @@
     "consultant_name": "Alyssa Pennacchia",
     "week_number": 19,
     "date_range": "03-03_03-07",
-    "report_type": "Collaborative planning"
+    "report_type": "Collaborative Planning"
   },
   "total_number_of_calls": 305,
   "team_average_total_number_of_calls_per_sales_consultant": 195.45454545454547,
@@ -118,15 +118,283 @@
     }
   ],
   "themes": {
-    "positive": [],
-    "improvement": []
+    "positive": [
+      {
+        "headline": "Strategic Pathway Planning",
+        "explanation": "Consultants effectively create personalized educational pathways that balance immediate constraints with long-term aspirations while maintaining appropriate guidance boundaries"
+      },
+      {
+        "headline": "Flexible Study Integration",
+        "explanation": "Strong demonstration of program flexibility accommodates diverse student circumstances through practical examples and personalized scheduling solutions"
+      },
+      {
+        "headline": "Professional Experience Validation",
+        "explanation": "Effective leveraging of students' work experience to build academic confidence and demonstrate program alignment with career progression goals"
+      }
+    ],
+    "improvement": [
+      {
+        "headline": "Career Development Integration",
+        "explanation": "Enhanced exploration needed of how specific program elements align with career transitions while maintaining appropriate pre-enrollment guidance boundaries"
+      },
+      {
+        "headline": "Alternative Pathway Planning",
+        "explanation": "More comprehensive development needed of alternative educational pathways when students don't meet traditional program requirements while maintaining momentum"
+      },
+      {
+        "headline": "Support Service Navigation",
+        "explanation": "Clearer delineation needed between pre-enrollment guidance and post-enrollment support while maintaining appropriate boundaries and engagement"
+      }
+    ]
   },
   "conversation_analysis": {
     "condensed": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Master's Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609242552",
+              "segment_id": "31",
+              "timestamp": "3:28"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student stated: 'Well for me the intention actually is to get directly to the to the masters, right?' (call_621609242552, seg_31), revealing need for clear pathway planning with visa considerations.",
+          "consultant_response": "Consultant provided solution: 'Only because your visa doesn't cover the full length of the master's... we'll start you in the grad dip and then we can move you into the masters once you get a new visa' (call_621609242552, seg_23), effectively outlining a practical pathway.",
+          "context_impact": "Critical moment requiring demonstration of program flexibility while addressing international student visa constraints.",
+          "recommended_approach": "Include more specific examples of successful progression pathways that have worked for other international students."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608784240",
+              "segment_id": "51",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525497259",
+                "segment_id": "67",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "Student expressed: 'Yeah, online would be best. And yeah, I would be looking to study and work simultaneously' (call_621608784240, seg_51), revealing need for flexible study options.",
+          "consultant_response": "Consultant provided specific solution: 'Pretty much all our students are working full-time, about 99% of the cohort are, so it is designed that you can do those two things at once' (call_621608784240, seg_55).",
+          "context_impact": "Addressing work-study balance concerns directly influences enrollment decision by demonstrating program feasibility.",
+          "recommended_approach": "Include more examples of successful study patterns from current working students."
+        },
+        {
+          "id": 3,
+          "title": "Building Academic Confidence",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609064869",
+              "segment_id": "45",
+              "timestamp": "04:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student shared: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_621609064869, seg_45), revealing significant concerns about returning to study.",
+          "consultant_response": "Consultant validated and redirected: 'That's a common concern for many of our successful students. Could you tell me about what you've been doing professionally during that time?' (call_621609064869, seg_46).",
+          "context_impact": "Addressing study confidence concerns directly impacts enrollment likelihood and student commitment.",
+          "recommended_approach": "Provide specific examples of how professional skills transfer to academic success."
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608838143",
+              "segment_id": "17",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student stated: 'I'm sort of trying to get into the digital health space, yes. I'm a medical doctor, but I think I want to do sort of a bit of a career pivot' (call_621608838143, seg_17), revealing need for career transition guidance.",
+          "consultant_response": "Consultant engaged effectively: 'Amazing. So you're looking at a potential career change, is that right? Now just to confirm, what have you studied before?' (call_621608838143, seg_21), initiating strategic career exploration.",
+          "context_impact": "Pivotal moment requiring demonstration of program relevance for healthcare professionals transitioning to digital health.",
+          "recommended_approach": "Include more specific examples of how program specializations align with digital health career paths while maintaining sales role boundaries."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307690162",
+              "segment_id": "26",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student asked: 'How do I manage the workload with my current job?' (call_597307690162, seg_26), seeking specific study management guidance.",
+          "consultant_response": "Consultant attempted detailed study planning instead of highlighting post-enrollment support services and maintaining appropriate boundaries.",
+          "context_impact": "Critical opportunity to explain available support services while maintaining appropriate pre-enrollment boundaries.",
+          "recommended_approach": "Clearly outline support services available post-enrollment while focusing on high-level program structure during sales discussion."
+        },
+        {
+          "id": 6,
+          "title": "Strategic Documentation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525468242",
+              "segment_id": "152",
+              "timestamp": "32:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "Student mentioned: 'I remember the email had about three or four things to send on there' (call_597525468242, seg_152), focusing on administrative tasks.",
+          "consultant_response": "Consultant provided purely administrative guidance without connecting to student's career aspirations or enrollment journey.",
+          "context_impact": "Opportunity to connect documentation process with broader career advancement goals while maintaining focus on enrollment.",
+          "recommended_approach": "Link document requirements to enrollment journey and career progression while maintaining appropriate administrative boundaries."
+        }
+      ]
     },
     "verbose": {
-      "conversations": []
+      "conversations": [
+        {
+          "id": 1,
+          "title": "Effective Master's Pathway Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609242552",
+              "segment_id": "31",
+              "timestamp": "3:28"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "595732548084",
+                "segment_id": "163",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "In call 621609242552 (segment 31), the student expressed their educational goal: 'Well for me the intention actually is to get directly to the to the masters, right?' This revealed both their aspiration for higher qualification and need for clarity around pathway planning, particularly given visa considerations. The statement created a crucial moment for demonstrating program flexibility while addressing international student requirements.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by responding: 'Only because your visa doesn't cover the full length of the master's... we can start you in the grad dip and then we can move you into the masters... once you get a new visa or extend your visa as long as you get a weighted average mark of 60% on your grad dip' (call_621609242552, seg_23). This response effectively balanced the student's aspirations with practical constraints, offering a clear pathway forward while addressing potential obstacles. The consultant's approach validated the student's goals while providing realistic steps for achievement.",
+          "priority": "high",
+          "recommended_approach": "When addressing students' aspirations for direct entry into advanced programs, begin by acknowledging their goals while preparing to explore practical pathways. The key insight is that students need both validation of their ambitions and clear guidance on achieving them within existing constraints. Start by validating their goal: 'I understand your aim is to complete the Master's degree - let's explore how we can make that work within current requirements.' When discussing progression requirements, maintain focus on the achievable nature of the transition: 'Many of our students successfully progress from the graduate diploma to masters by following this pathway.' Use specific examples: 'For instance, one of our current master's students began with the graduate diploma while extending their visa, maintaining the required grade average, and transitioned smoothly into the master's program.' Pay particular attention to visa considerations, framing them as planning opportunities rather than obstacles: 'Let's map out a progression that aligns with your visa timeline while keeping you on track for your Master's goals.' The aim is to demonstrate how staged progression enhances rather than delays their ultimate academic achievements."
+        },
+        {
+          "id": 2,
+          "title": "Work-Study Balance Integration",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608784240",
+              "segment_id": "51",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": [
+              {
+                "call_id": "597525497259",
+                "segment_id": "67",
+                "timestamp": "03:45"
+              }
+            ]
+          },
+          "student_trigger": "During call 621608784240 (segment 51), the student expressed need for study flexibility: 'Yeah, online would be best. And yeah, I would be looking to study and work simultaneously.' This revealed their need for clear demonstration of how the program could accommodate their professional commitments while enabling academic progress. Similar concerns emerged across multiple calls, highlighting this as a common barrier to enrollment confidence.",
+          "consultant_response": "The consultant provided a comprehensive response that effectively addressed work-study balance concerns: 'Pretty much all our students are working full-time, about 99% of the cohort are, so it is designed that you can do those two things at once. The way that it's structured is we have six teaching periods a year. They run for just six weeks each and you complete only one unit at a time' (call_621608784240, seg_55). This response successfully normalized working while studying and positioned the program's design as specifically accommodating working professionals.",
+          "priority": "high",
+          "recommended_approach": "When addressing work-study balance concerns, begin by normalizing their situation while immediately positioning program flexibility as the solution. Start with validation: 'Many of our most successful students are working professionals like yourself - our program is specifically designed for this.' Then demonstrate concrete flexibility features: 'Let me show you exactly how our six-week teaching periods and single-unit focus make this manageable.' Share specific examples: 'For instance, many students complete their readings during commutes, engage in online discussions during lunch breaks, and dedicate weekend mornings to assignments.' When discussing time management, provide practical strategies: 'Most working students find success by breaking study into manageable daily blocks - perhaps an hour before work and longer sessions on weekends.' Always maintain focus on practical solutions: 'Our online platform lets you download materials for offline study during quiet periods, and assessment deadlines account for typical work commitments.' The goal is transforming perceived scheduling barriers into manageable planning opportunities, always grounding explanations in real-world scenarios that resonate with their experience."
+        },
+        {
+          "id": 3,
+          "title": "Building Academic Confidence",
+          "type": "positive",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621609064869",
+              "segment_id": "45",
+              "timestamp": "04:30"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "The student revealed significant anxiety about returning to education: 'I haven't studied for 15 years - I'm worried I won't be able to keep up' (call_621609064869, seg_45). This vulnerability represented a crucial moment where the student needed reassurance about their ability to succeed in an academic environment after a long break, making it a critical opportunity to build confidence while maintaining enrollment momentum.",
+          "consultant_response": "The consultant demonstrated effective confidence building: 'That's a common concern for many of our successful students. Could you tell me about what you've been doing professionally during that time?' (call_621609064869, seg_46). This response successfully normalized their concerns while redirecting focus to their professional achievements as valuable preparation for academic success. The consultant's approach helped bridge the perceived gap between work experience and academic capability.",
+          "priority": "high",
+          "recommended_approach": "When students express anxiety about returning to study after a long break, begin by normalizing their feelings while highlighting the value of their professional experience. Start with validation: 'Your concerns are completely natural - many of our most successful students felt the same way before starting.' Then, guide them to recognize their existing capabilities: 'Let's look at how your professional experience has actually been preparing you for success.' Use specific examples of how workplace skills transfer to academic success: 'Your experience managing complex projects has developed exactly the kind of organizational skills that help our students excel.' Share success stories: 'One of our recent graduates hadn't studied for 20 years before starting, but found her industry experience gave her a unique advantage in applying theoretical concepts.' When discussing study strategies, connect them to familiar workplace skills: 'Report writing at work has actually been preparing you for academic writing - we'll just add some new elements to skills you already have.' The goal is transforming their perceived disadvantage into a strength, helping them see how their work experience provides a strong foundation for academic achievement."
+        },
+        {
+          "id": 4,
+          "title": "Career Transition Planning",
+          "type": "positive",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "621608838143",
+              "segment_id": "17",
+              "timestamp": "01:20"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "During a pivotal moment in the conversation, the student revealed their career aspirations: 'I'm sort of trying to get into the digital health space, yes. I'm a medical doctor, but I think I want to do sort of a bit of a career pivot' (call_621608838143, seg_17). This statement represented a critical opportunity to demonstrate how the program could facilitate their transition while leveraging their existing medical expertise.",
+          "consultant_response": "The consultant demonstrated strong collaborative planning by immediately engaging with the career transition aspect: 'Amazing. So you're looking at a potential career change, is that right? Now just to confirm, what have you studied before?' (call_621608838143, seg_21). This response validated the student's career aspirations while gathering crucial background information to tailor the discussion. The consultant maintained appropriate boundaries while exploring how their medical background could enhance their transition into digital health.",
+          "priority": "high",
+          "recommended_approach": "When engaging with professionals seeking career transitions, begin by validating their existing expertise while showing enthusiasm for their career evolution. Start with acknowledgment: 'Your medical background provides an excellent foundation for moving into digital health.' Then explore how the program supports this transition: 'Many of our students from traditional healthcare backgrounds have found our digital specializations particularly valuable.' Use specific examples: 'For instance, one of our recent graduates, also a medical doctor, now leads digital transformation projects in healthcare.' When discussing program features, connect them directly to their transition goals: 'Our coursework combines technical skills with healthcare context, perfect for professionals like yourself moving into digital health.' Always maintain appropriate pre-enrollment boundaries: 'While detailed career planning happens with our career services team after enrollment, I can show you how our program structure supports healthcare professionals transitioning to digital roles.' The goal is demonstrating clear pathways while staying within the sales role scope."
+        },
+        {
+          "id": 5,
+          "title": "Support Service Integration",
+          "type": "improvement",
+          "is_aggregated": true,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597307690162",
+              "segment_id": "26",
+              "timestamp": "03:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In call 597307690162 (segment 26), the student sought specific guidance: 'How do I manage the workload with my current job?' This question presented an opportunity to explain available support services while maintaining appropriate pre-enrollment boundaries. The inquiry revealed their need for concrete understanding of how the program's support systems would help them succeed.",
+          "consultant_response": "The consultant attempted to provide detailed study planning advice rather than focusing on high-level program structure and highlighting post-enrollment support services. This approach risked creating unrealistic expectations about pre-enrollment support levels and missed the opportunity to demonstrate the comprehensive support available after enrollment.",
+          "priority": "high",
+          "recommended_approach": "When addressing support service queries, maintain clear boundaries while demonstrating comprehensive post-enrollment assistance. Start with high-level program structure: 'Our online program is designed with flexible study options averaging 12-15 hours per week.' Then introduce support services: 'Once enrolled, you'll have access to our learning coaches who specialize in creating personalized study plans.' Outline general support framework: 'Our support team includes academic advisors, career counselors, and study skills specialists - all experienced in helping students balance work and study.' Always maintain appropriate pre-enrollment boundaries: 'While I can outline our support services, detailed study planning happens with our learning coaches after enrollment.' The key is demonstrating robust support availability while keeping focus on enrollment decision-making. Use examples: 'Many working professionals find our support services invaluable - from time management workshops to individual coaching sessions.' Remember to emphasize the transition: 'These comprehensive support services become available immediately upon enrollment.'"
+        },
+        {
+          "id": 6,
+          "title": "Strategic Documentation Support",
+          "type": "improvement",
+          "is_aggregated": false,
+          "related_calls": {
+            "primary_call": {
+              "call_id": "597525468242",
+              "segment_id": "152",
+              "timestamp": "32:15"
+            },
+            "supporting_calls": []
+          },
+          "student_trigger": "In the latter part of the conversation, the student focused on administrative requirements: 'I remember the email had about three or four things to send on there' (call_597525468242, seg_152). This presented an opportunity to transform a procedural discussion into a meaningful conversation about their educational journey and career aspirations.",
+          "consultant_response": "The consultant maintained a purely administrative focus, providing basic guidance about document requirements without connecting these steps to the student's broader goals or enrollment journey. This approach missed the opportunity to frame document submission as a strategic step toward their career advancement or program success.",
+          "priority": "high",
+          "recommended_approach": "When handling documentation discussions, transform administrative tasks into meaningful steps toward enrollment while maintaining appropriate boundaries. Begin by acknowledging the practical aspect: 'Yes, those documents are important for your enrollment process' then connect to their goals: 'Each document helps us ensure you're properly positioned for success in the program.' Focus on how efficient document submission supports their enrollment journey without straying into detailed career planning. Use examples that demonstrate value: 'Your work experience documentation, for instance, helps us understand how your professional background will enhance your learning experience.' Maintain clear role boundaries by providing high-level guidance about document requirements while directing specific questions to appropriate support services. The goal is making administrative tasks feel purposeful while staying within pre-enrollment guidance scope."
+        }
+      ]
     }
   }
 }
