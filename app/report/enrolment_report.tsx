@@ -171,12 +171,14 @@ export default function EnrolmentReportPage({
                 {reportData.bargraph_legend[0].green_label}
               </span>
             </div>
-            <div className="flex items-center gap-2">
-              <div className="w-6 h-[2px] bg-white"></div>
-              <span className="text-xs text-[#e5e5e5] font-normal">
-                {reportData.bargraph_legend[0].benchmark_label}
-              </span>
-            </div>
+            {reportData.bargraph_legend[0].benchmark_label && (
+              <div className="flex items-center gap-2">
+                <div className="w-6 h-[2px] bg-white"></div>
+                <span className="text-xs text-[#e5e5e5] font-normal">
+                  {reportData.bargraph_legend[0].benchmark_label}
+                </span>
+              </div>
+            )}
           </div>
 
           <div className="relative h-[400px] mt-16 mb-16">
@@ -226,12 +228,14 @@ export default function EnrolmentReportPage({
                           }}
                         ></div>
                         {/* Benchmark line */}
-                        <div
-                          className="absolute w-full bg-white h-[2px]"
-                          style={{
-                            bottom: `${score.benchmark}%`,
-                          }}
-                        ></div>
+                        {score.benchmark !== undefined && (
+                          <div
+                            className="absolute w-full bg-white h-[2px]"
+                            style={{
+                              bottom: `${score.benchmark}%`,
+                            }}
+                          ></div>
+                        )}
                       </>
                     </div>
                     {/* X-axis label */}
