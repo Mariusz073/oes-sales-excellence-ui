@@ -1,227 +1,368 @@
 {
-  "metadata": {
-    "consultant_name": "Alexandra Kepas",
-    "week_number": 16,
-    "date_range": "02-10_02-14",
-    "report_type": "Enrolment closing - condensed"
-  },
-  "percentage_of_consultation": {
-    "individual": 44,
-    "team": 50
-  },
-  "percentage_of_attempted_close": {
-    "individual": 18,
-    "team": 22
-  },
-  "percentage_of_positive_response": {
-    "individual": 6,
-    "team": 8
-  },
-  "bargraph_sub_requirements": [
-    {
-      "label": "Next steps & follow-up",
-      "green": 35,
-      "red": 51
+    "metadata": {
+        "consultant_name": "Alyssa Pennacchia",
+        "week_number": 18,
+        "date_range": "02-24_02-28",
+        "report_type": "Enrolment closing - condensed"
     },
-    {
-      "label": "Clear action plan",
-      "green": 28,
-      "red": 24
+    "percentage_of_consultation": {
+        "individual": 60,
+        "team": 67
     },
-    {
-      "label": "Mutual commitment establishment",
-      "green": 20,
-      "red": 25
+    "percentage_of_attempted_close": {
+        "individual": 10,
+        "team": 20
     },
-    {
-      "label": "Proactive support & follow-up scheduling",
-      "green": 45,
-      "red": 20
-    }
-  ],
-  "bargraph_historical": [
-    {
-      "label": "Feb-Mar 2024 2000 hours",
-      "green": 35,
-      "red": 51
+    "percentage_of_positive_response": {
+        "individual": 33,
+        "team": 47
     },
-    {
-      "label": "week-11_01-06_01-10",
-      "green": 28,
-      "red": 24
-    },
-    {
-      "label": "week-12_01-06_01-10",
-      "green": 20,
-      "red": 25
-    },
-    {
-      "label": "week-13_01-06_01-10",
-      "green": 45,
-      "red": 20
-    },
-    {
-      "label": "week-14_01-06_01-11",
-      "green": 28,
-      "red": 24
-    },
-    {
-      "label": "week-15_01-06_01-17",
-      "green": 20,
-      "red": 25
-    },
-    {
-      "label": "week-16_01-06_01-10",
-      "green": 45,
-      "red": 20
-    }
-  ],
-  "bargraph_legend": [
-    {
-      "green_label": "Full fulfilment",
-      "red_label": "Partial fulfilment"
-    }
-  ],
-  "themes": {
-    "positive": [
-      {
-        "headline": "Process Control Leadership",
-        "explanation": "Your crystal-clear breakdown of next steps with specific deadlines is driving enrollment completion - keep detailing each stage of the journey with exact dates and consequences"
-      },
-      {
-        "headline": "Direct Documentation Support",
-        "explanation": "Your proactive scheduling of specific follow-up appointments for document submission is maintaining strong momentum - continue setting these concrete checkpoints"
-      },
-      {
-        "headline": "Alternative Pathway Navigation",
-        "explanation": "Your direct, confident tone when outlining enrollment requirements creates clarity and trust - maintain this authoritative yet supportive approach"
-      }
-    ],
-    "improvement": [
-      {
-        "headline": "Commitment Securing Enhancement",
-        "explanation": "Convert your clear step explanations into firm commitments by directly asking 'Should we complete your enrollment now?' rather than leaving next steps open-ended"
-      },
-      {
-        "headline": "Timeline Management Control",
-        "explanation": "Strengthen your document collection by setting specific submission deadlines and scheduling follow-up calls to check on progress - 'I'll call you Wednesday at 2pm to confirm receipt'"
-      },
-      {
-        "headline": "Financial Clarity Leadership",
-        "explanation": "Take more control of the enrollment process by actively scheduling next steps rather than saying 'Let me know if you have any questions' - own the follow-up timeline"
-      }
-    ]
-  },
-  "conversation_analysis": {
-    "condensed": {
-      "insights": [
+    "bargraph_sub_requirements": [
         {
-          "number": 1,
-          "title": "Effective Enrollment Close",
-          "type": "positive",
-          "is_aggregated": true,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "596019635356",
-              "segment_id": "23",
-              "timestamp": "2:09"
-            }
-          },
-          "student_trigger": "I can see you're interested in the March intake. Let's secure your place right now - I'll guide you through the enrollment form and we can submit your documents by Friday. Should we do that now?",
-          "context_impact": "I'm interested but not sure about the documents - I'll need to check what I have...",
-          "consultant_response": "I understand. Let's start the enrollment now to secure your place, and I'll call you tomorrow at 2pm specifically to help with the document process. That way you won't miss out on the March intake. Does that time work for you?",
-          "improvement": "Initial attempt: Perfect execution - direct, specific, and action-oriented Adaptation: Excellent balance of maintaining momentum while addressing concerns"
+            "label": "Next steps & follow-up",
+            "green": 0,
+            "red": 77,
+            "benchmark": 35
         },
         {
-          "number": 2,
-          "title": "Strong Document Collection Management",
-          "type": "positive",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "595732493616",
-              "segment_id": "23",
-              "timestamp": "02:15"
-            }
-          },
-          "student_trigger": "The application deadline is February 19th. I'll send you the course information and you can let me know if you want to proceed.",
-          "context_impact": "Thanks, yes I'll have a think about it...",
-          "consultant_response": "Actually, since you're interested in starting in March, why don't we secure your spot now? I can walk you through the enrollment form right here on the phone. It only takes 10 minutes.",
-          "improvement": "Initial attempt: Should have been more direct and action-oriented from the start Adaptation: Perfect recovery - took control and created urgency while offering immediate support"
+            "label": "Clear action plan",
+            "green": 18,
+            "red": 5,
+            "benchmark": 28
         },
         {
-          "number": 3,
-          "title": "Missed Enrollment Close Opportunity",
-          "type": "positive",
-          "is_aggregated": false,
-          "related_calls": {
-            "primary_call": {
-              "call_id": "595908510694",
-              "segment_id": "135",
-              "timestamp": "5:45"
-            }
-          },
-          "student_trigger": "Great to hear you're interested. Just upload your documents to the student hub when you're ready.",
-          "context_impact": "Okay, I'll try to do that soon.",
-          "consultant_response": "You can reach out if you have any questions.",
-          "improvement": "Initial attempt: Should have proposed immediate enrollment with specific document timeline Adaptation: Needed to regain control by scheduling specific follow-up and offering guided document submission"
+            "label": "Mutual commitment establishment",
+            "green": 5,
+            "red": 0,
+            "benchmark": 15
+        },
+        {
+            "label": "Proactive support & follow-up scheduling",
+            "green": 9,
+            "red": 0,
+            "benchmark": 25
         }
-      ]
-    },
-    "effective_collaborating_planning": {
-      "insights": [
+    ],
+    "bargraph_historical": [
         {
-          "number": 1,
-          "title": "Effective Collaborative Planning in Goal Setting",
-          "type": "positive",
-          "priority": "high",
-          "is_aggregated": true,
-          "related_calls": {
-                  "primary_call": {
-                      "call_id": "596761162391",
-                      "segment_id": "70",
-                      "timestamp": "03:05"
+            "label": "week-18_02-24_02-28",
+            "green": 0,
+            "red": 77
+        }
+    ],
+    "bargraph_legend": [
+        {
+            "green_label": "Full fulfilment",
+            "red_label": "Partial fulfilment",
+            "benchmark_label": "Team benchmark"
+        }
+    ],
+    "themes": {
+        "positive": [
+            {
+                "headline": "Direct Process Control",
+                "explanation": "Consultants effectively maintain enrollment leadership through clear guidance and confident ownership of action steps, demonstrating strong direction while building student commitment confidence"
+            },
+            {
+                "headline": "Strategic Timeline Management",
+                "explanation": "Strong demonstration of immediate alternative options and clear intake pathways that transform timeline constraints into enrollment opportunities while maintaining momentum"
+            },
+            {
+                "headline": "Financial Navigation Leadership",
+                "explanation": "Effective conversion of payment concerns into actionable solutions through confident presentation of specific options and immediate steps toward enrollment commitment"
             }
-          },
-          "student_trigger": "The consultant took a passive approach, providing only basic logistical information without actively guiding the enrollment process: 'Just upload your documents to the student hub when you're ready. There's a tab in there for you to be able to do that.' This response failed to create any urgency or demonstrate ownership of the enrollment journey.",
-          "consultant_response": "The student's non-committal reply indicated potential interest but lack of clear direction: 'Okay, I'll try to do that soon. I'm still thinking about how I'm going to pay for it myself.' This response was a clear signal for needing more guidance on both the practical and financial aspects of enrollment.",
-          "recommended_improvement": "Initial attempt: The consultant should have: Taken immediate control of the enrollment process Addressed the financial aspect directly by exploring payment options and support Proposed a specific time to complete the enrollment together Set clear document submission deadlines Example stronger approach: 'I understand you're managing this independently. Let's break this down into manageable steps. First, shall we explore the payment options available? I can walk you through those right now. Then, we can secure your place while I guide you through the document submission process. Would you have your documents ready for review by this Wednesday? I can schedule a call at 2pm to help you through that process.' Adaptation needed: Should have recognized the financial concern as a key trigger for deeper discussion Needed to provide specific support for both document submission and financial planning Could have scheduled a concrete follow-up appointment to maintain momentum Should have demonstrated proactive support rather than leaving the initiative with the student"
-        },
-        {
+        ],
+        "improvement": [
+            {
+                "headline": "Commitment Securing",
+                "explanation": "Enhanced focus needed on converting information-sharing moments into immediate enrollment actions through explicit verbal agreements and specific next steps"
+            },
+            {
+                "headline": "Alternative Pathway Navigation",
+                "explanation": "Stronger emphasis required on maintaining enrollment momentum when redirecting to alternative programs through specific referrals and active support commitments"
+            },
+            {
+                "headline": "Follow-up Planning",
+                "explanation": "More structured approach needed for converting extended timelines into specific engagement commitments through clear milestone planning and consistent momentum maintenance"
+            }
+        ]
+    },
+    "conversation_analysis": {
+        "condensed": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Timeline Control",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761550385",
+                            "segment_id": "13",
+                            "timestamp": "01:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597158679947",
+                                "segment_id": "40",
+                                "timestamp": "01:45"
+                            }
+                        ]
+                    },
+                    "attempted_close": "Student asked: 'I was checking if there is any chance that I could get to this in March' (call_596761550385, seg_13), revealing immediate enrollment readiness requiring timeline guidance.",
+                    "response": "Critical moment to maintain enrollment momentum while redirecting to available intake options through confident alternative presentation.",
+                    "recommendation": "Consultant redirected effectively: 'We can't enroll you for March, but we can enroll you for May. So now we are enrolling for May' (call_596761550385, seg_11), maintaining momentum through clear alternative and immediate action focus. Add specific next steps to secure May enrollment while interest is high by obtaining verbal commitment and establishing immediate documentation timeline."
+                },
+                {
                     "number": "2",
-                    "title": "Effective Documentation Guidance",
+                    "title": "Effective Financial Options Communication",
+                    "type": "positive",
+                    "is_aggregated": false,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "597148339897",
+                            "segment_id": "139",
+                            "timestamp": "13:43"
+                        }
+                    },
+                    "attempted_close": "Student asked: 'You don't have to pay the 18 at the start do you?' (call_597148339897, seg_139), revealing concerns about upfront financial commitments that could impact enrollment decision.",
+                    "response": "Critical opportunity to transform financial concerns into enrollment action through clear payment flexibility demonstration.",
+                    "recommendation": "Consultant responded confidently: 'You just pay per unit or you can put it all onto FeeHelp which is a student loan' (call_597148339897, seg_141), effectively presenting clear, actionable options that maintain momentum. Include specific payment success examples and immediately transition to securing enrollment commitment with preferred payment option."
+                },
+                {
+                    "number": "3",
+                    "title": "Strong Qualification Validation",
+                    "type": "positive",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761117983",
+                            "segment_id": "33",
+                            "timestamp": "02:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147711241",
+                                "segment_id": "76",
+                                "timestamp": "04:25"
+                            }
+                        ]
+                    },
+                    "attempted_close": "Student stated: 'I have a bachelor degree in business' (call_596761117983, seg_33), presenting opportunity to validate qualifications and secure immediate enrollment commitment.",
+                    "response": "Critical moment to transform qualification confirmation into enrollment action through immediate program fit validation.",
+                    "recommendation": "Consultant confirmed confidently: 'A bachelor of business is considered related. So as long as you have a WAM of 60, you should start directly in the Masters' (call_596761117983, seg_33), effectively establishing direct entry pathway. Immediately transition from qualification validation to enrollment action by sharing success examples and securing application commitment."
+                },
+                {
+                    "number": "4",
+                    "title": "Missed Enrollment Commitment",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761117983",
+                            "segment_id": "142",
+                            "timestamp": "7:20"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983142458",
+                                "segment_id": "90",
+                                "timestamp": "06:35"
+                            }
+                        ]
+                    },
+                    "attempted_close": "Student asked: 'What are the next steps with this?' (call_596761117983, seg_142), signaling clear readiness for enrollment action requiring immediate commitment securing.",
+                    "response": "Critical opportunity to convert next steps inquiry into immediate enrollment commitment through specific action guidance.",
+                    "recommendation": "Consultant provided passive information: 'Beautiful. Well, I'll send you through the handbook...' (call_596761117983, seg_143), failing to secure commitment when student showed clear readiness. Transform next steps inquiries into immediate enrollment action by securing verbal commitment and initiating application process."
+                },
+                {
+                    "number": "5",
+                    "title": "Alternative Pathway Direction",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983103005",
+                            "segment_id": "33",
+                            "timestamp": "02:06"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147797453",
+                                "segment_id": "57",
+                                "timestamp": "01:56"
+                            }
+                        ]
+                    },
+                    "attempted_close": "Student asked: 'What is a bachelor degree that I can do to get into that?' (call_596983103005, seg_33), seeking specific pathway guidance requiring clear direction maintenance.",
+                    "response": "Critical moment to maintain institutional engagement through clear alternative pathway guidance and active support commitment.",
+                    "recommendation": "Consultant stated passively: 'I'm not too sure, sorry, I only work for this online Monash with our postgraduate courses' (call_596983103005, seg_34), failing to provide clear direction or maintain engagement. Provide immediate pathway guidance through specific referrals and secure next step commitments while maintaining institutional engagement."
+                },
+                {
+                    "number": "6",
+                    "title": "Follow-up Planning",
+                    "type": "improvement",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914926264",
+                            "segment_id": "47",
+                            "timestamp": "01:18"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914913508",
+                                "segment_id": "78",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "attempted_close": "Student stated: 'Maybe in a year or so, yeah.' (call_596914926264, seg_47), indicating extended timeline requiring structured engagement planning.",
+                    "response": "Critical opportunity to convert extended timeline into immediate engagement commitments through clear follow-up structure.",
+                    "recommendation": "Consultant suggested passively: 'Look, because it's probably too early now to start an application then, we'll wait for you to complete your PR and we'll go from there.' (call_596914926264, seg_49), surrendering timeline control. Establish immediate engagement through specific follow-up dates and secure commitment to next conversation while maintaining momentum."
+                }
+            ]
+        },
+        "effective_collaborating_planning": {
+            "insights": [
+                {
+                    "number": "1",
+                    "title": "Effective Timeline Control",
+                    "type": "positive",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761550385",
+                            "segment_id": "13",
+                            "timestamp": "01:15"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597158679947",
+                                "segment_id": "40",
+                                "timestamp": "01:45"
+                            }
+                        ]
+                    },
+                    "attempted_close": "During the enrollment discussion, the student expressed immediate interest by asking: 'I was checking if there is any chance that I could get to this in March' (call_596761550385, seg_13). This direct inquiry about March enrollment demonstrated strong motivation to begin studies promptly, presenting a crucial opportunity to maintain this momentum while managing timeline expectations effectively.",
+                    "response": "The consultant demonstrated excellent control of the enrollment timeline by responding: 'We can't enroll you for March, but we can enroll you for May. So now we are enrolling for May' (call_596761550385, seg_11). This response effectively balanced honesty about March unavailability with an immediate alternative solution, maintaining enrollment momentum by redirecting the student's interest to the next available intake without leaving room for uncertainty.",
+                    "recommendation": "When handling timeline inquiries, immediately acknowledge the student's eagerness while confidently presenting available options. Begin with clear information: 'While March enrollment is closed, I can help you secure your place in our May intake right now.' Then immediately pivot to action: 'Since you're ready to begin your studies, let's complete your application today to ensure your spot in May.' When students express disappointment about missed dates, acknowledge their enthusiasm while highlighting immediate benefits: 'Your motivation to start is excellent - let's use that energy to get your May enrollment secured today. This timing actually allows us to ensure everything is perfectly prepared for your start.' Always follow timeline discussions with specific next steps: 'Should we begin your application now? I can help you submit your documents this week.' The key is transforming timeline discussions into immediate enrollment action, maintaining control while building excitement for the available intake."
+                },
+                {
+                    "number": "2",
+                    "title": "Effective Financial Options Communication",
                     "type": "positive",
                     "priority": "high",
                     "is_aggregated": false,
                     "related_calls": {
                         "primary_call": {
-                            "call_id": "597148119117",
-                            "segment_id": "41",
-                            "timestamp": "2:45"
+                            "call_id": "597148339897",
+                            "segment_id": "139",
+                            "timestamp": "13:43"
                         }
                     },
-                    "student_trigger": "During a critical enrollment discussion, the student expressed uncertainty about documentation requirements by asking 'So like a pay slip for four years?' (call_597148119117, seg_39). This question revealed both willingness to provide documentation and need for clear guidance, representing a crucial opportunity to maintain enrollment momentum through effective process control.",
-                    "consultant_response": "The consultant demonstrated strong enrollment closing behavior by immediately taking control with a clear, actionable response: 'So we just need a copy of your resume, so I'll send you an email now. I'll CC in Bridget and I'll include a resume template for you.' (call_597148119117, seg_41). This response exemplified several key strengths: immediate action, clear requirements, and proactive support through template provision. The consultant effectively transformed potential documentation anxiety into a clear, manageable process.",
-                    "recommended_approach": "When addressing documentation requirements, begin by immediately simplifying the process through clear, actionable steps. Start with clarification: 'Let me make this simple - we just need your resume with your work history, and I'll help you get that ready.' Then take immediate action: 'I'm sending our resume template to your email now - let me know when you receive it.' Guide through specific sections: 'Let's look at the template together. Start with your current role details, and I'll show you exactly how to format the dates and responsibilities.' Set clear timelines: 'Most students complete this in about 30 minutes. I'll call you tomorrow at 2pm to review what you've done and help finalize any sections.' Always maintain support continuity: 'Feel free to start filling it out, and I'll be here to answer any questions. Then during our call tomorrow, we can ensure everything is formatted perfectly for your application.' This approach transforms what might seem like a complex requirement into a straightforward task with immediate, ongoing support. End with specific commitment: 'Let's aim to submit your completed resume by Friday - I'll call you tomorrow at 2pm to check your progress and answer any questions.'"
+                    "attempted_close": "At a crucial point in the enrollment discussion, the student expressed concern about upfront financial commitments by asking 'You don't have to pay the 18 at the start do you?' (call_597148339897, seg_139). This question revealed underlying anxiety about financial obligations and demonstrated the student's need for clarity regarding payment structures. The timing and nature of this question indicated it was a potential barrier to enrollment that needed immediate addressing to maintain momentum in the enrollment process.",
+                    "response": "The consultant demonstrated strong enrollment closing behavior by responding clearly and confidently with 'You just pay per unit or you can put it all onto FeeHelp which is a student loan' (call_597148339897, seg_141). This response effectively addressed the student's concerns by presenting clear, manageable options. The direct communication style and immediate presentation of solutions helped transform a potential barrier into a path forward. By providing specific payment options, the consultant maintained control of the conversation while empowering the student with clear choices, ultimately contributing to increased confidence in proceeding with enrollment.",
+                    "recommendation": "When addressing financial concerns, consultants should recognize these moments as critical opportunities to demonstrate the program's accessibility while maintaining enrollment momentum. Begin by acknowledging the importance of financial planning, then immediately present clear, specific payment options. For example, 'I understand managing the financial commitment is important. Let me walk you through your options - you can either pay per unit as you study, which many students find manageable, or utilize FeeHelp to defer the entire amount.' Always frame the discussion in terms of solutions rather than obstacles, using confident language that assumes progression toward enrollment. Make the FeeHelp option tangible by explaining specifics: 'With FeeHelp, you won't start repayments until your income reaches the threshold, currently at $47,014.' Follow up by checking the student's preference: 'Which of these payment options would work better for your situation?' This approach maintains momentum while ensuring the student feels supported in their financial decision-making. Once a preferred payment option is identified, immediately move to secure enrollment: 'Now that we've clarified the payment structure, shall we proceed with your enrollment for the upcoming intake?'"
                 },
                 {
                     "number": "3",
-                    "title": "Financial Clarity Enhancement",
-                    "type": "improvement",
+                    "title": "Strong Qualification Validation",
+                    "type": "positive",
                     "priority": "high",
-                    "is_aggregated": false,
+                    "is_aggregated": true,
                     "related_calls": {
                         "primary_call": {
-                            "call_id": "596914648672",
-                            "segment_id": "132",
-                            "timestamp": "08:15"
-                        }
+                            "call_id": "596761117983",
+                            "segment_id": "33",
+                            "timestamp": "02:30"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147711241",
+                                "segment_id": "76",
+                                "timestamp": "04:25"
+                            }
+                        ]
                     },
-                    "student_trigger": "The student directly asked about financial arrangements: 'And then how does it work exactly with HECS and repaying it?' (call_596914648672, seg_132). This question represented a critical moment where clear financial information could reduce enrollment barriers and build confidence in the decision to proceed. The student's inquiry indicated a need for specific, authoritative information about the financial commitment involved in their education.",
-                    "consultant_response": "The consultant's response was notably suboptimal, stating 'Yeah, there are calculators online. I don't think they're that reputable...' (call_596914648672, seg_190). This response introduced uncertainty rather than providing clear, authoritative information about HECS arrangements. By referring to potentially unreliable tools and failing to provide concrete information, the consultant missed an opportunity to build confidence in the financial aspects of enrollment.",
-                    "recommended_approach": "When addressing HECS and financial queries, lead with clear, authoritative information that builds confidence in the financial aspects of enrollment. Begin with direct acknowledgment: 'Understanding HECS repayment is crucial for your planning, let me walk you through exactly how it works.' Then provide specific, accurate information: 'HECS repayments only begin when your income reaches the threshold, currently at $48,000. The repayments are automatically calculated as a percentage of your income, starting at 1% and increasing gradually.' Use real examples to illustrate: 'For instance, if you're earning $75,000 as a teacher, your repayment would be approximately $3,750 per year, automatically managed through your tax.' Always direct students to official resources: 'You can find detailed information on the StudyAssist website, which I'll include in my follow-up email, along with our HECS-HELP guide.' The key is to transform financial concerns from potential barriers into manageable aspects of their educational journey through clear, authoritative guidance. End with confidence-building assurance: 'Let's schedule a follow-up call tomorrow at 2pm to review any other financial questions and proceed with your enrollment.'"
+                    "attempted_close": "The student disclosed their educational background with key details: 'I have a bachelor degree in business' (call_596761117983, seg_33). This revealed both their qualifications and readiness for discussion about program fit, presenting an ideal opportunity to build enrollment confidence through immediate validation.",
+                    "response": "The consultant effectively validated qualifications and built confidence by stating: 'A bachelor of business is considered related. So as long as you have a WAM of 60, you should start directly in the Masters' (call_596761117983, seg_33). This response confirmed eligibility while maintaining forward momentum toward enrollment by highlighting direct entry potential.",
+                    "recommendation": "When validating student qualifications, immediately connect their background to program success. Start with enthusiastic confirmation: 'Your business degree provides an excellent foundation for our Masters program - you're exactly the type of student who excels here.' Then share specific success stories: 'Just last trimester, we had several students with business backgrounds who are now leading major projects in their organizations.' Move quickly to enrollment action: 'Since your qualifications are clearly a strong fit, let's secure your place in the program today. I can help you submit your application right now.' Use qualification validation to build immediate momentum: 'With your background, you're perfectly positioned to start with our next intake. Should we begin your enrollment process?' Always maintain control by guiding qualification discussions directly into enrollment actions, transforming eligibility confirmation into program commitment."
+                },
+                {
+                    "number": "4",
+                    "title": "Missed Enrollment Commitment",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596761117983",
+                            "segment_id": "142",
+                            "timestamp": "7:20"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596983142458",
+                                "segment_id": "90",
+                                "timestamp": "06:35"
+                            }
+                        ]
+                    },
+                    "attempted_close": "The student directly indicated readiness to proceed by asking: 'What are the next steps with this?' (call_596761117983, seg_142). This question clearly signaled their interest in moving forward with enrollment and presented a prime opportunity to secure commitment.",
+                    "response": "The consultant missed the opportunity by responding with general information: 'Beautiful. Well, I'll send you through the handbook...' (call_596761117983, seg_143). While informative, this response failed to capitalize on the student's readiness by not pursuing immediate enrollment commitment.",
+                    "recommendation": "When students express interest in next steps, immediately transition into securing enrollment commitment. Begin with enthusiasm while taking control: 'Excellent - let's get your enrollment started right now while you're ready to move forward.' Move directly to application initiation: 'I'll help you complete your application today to secure your spot in the program. Should we begin with your personal details?' If students request information first, maintain momentum: 'I'll send you the handbook while we start your application - that way you can review the details as we secure your place.' Always focus on immediate action: 'Since you're ready to proceed, let's submit your application now. I can guide you through each step to ensure everything's done correctly.' The key is transforming interest in next steps into immediate enrollment action, maintaining control while providing supportive guidance throughout the process."
+                },
+                {
+                    "number": "5",
+                    "title": "Alternative Pathway Direction",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596983103005",
+                            "segment_id": "33",
+                            "timestamp": "02:06"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "597147797453",
+                                "segment_id": "57",
+                                "timestamp": "01:56"
+                            }
+                        ]
+                    },
+                    "attempted_close": "The student sought guidance on educational pathways by asking: 'What is a bachelor degree that I can do to get into that?' (call_596983103005, seg_33). This question demonstrated their interest in pursuing necessary qualifications and represented a crucial opportunity to provide clear direction while maintaining institutional engagement.",
+                    "response": "The consultant's response was inadequate: 'I'm not too sure, sorry, I only work for this online Monash with our postgraduate courses' (call_596983103005, seg_34). This response failed to provide meaningful guidance and missed the opportunity to maintain the student's engagement with the institution.",
+                    "recommendation": "When students seek alternative pathways, immediately take ownership of their educational journey. Begin with enthusiasm: 'I'm glad you're asking about bachelor pathways - this shows excellent planning for your education goals.' Then provide immediate assistance: 'While I specialize in postgraduate programs, I can personally connect you with our undergraduate team who will guide you to the best bachelor program for your goals.' Take concrete action: 'Let me introduce you to our undergraduate advisors right now - would you prefer a phone call or email introduction? I'll brief them on your background to ensure they can provide targeted guidance.' Always maintain momentum: 'While we arrange your undergraduate consultation, let me share an overview of how different bachelor programs align with our Masters requirements.' The key is transforming pathway inquiries into immediate action while ensuring continuous institutional engagement through warm handoffs and clear guidance."
+                },
+                {
+                    "number": "6",
+                    "title": "Follow-up Planning",
+                    "type": "improvement",
+                    "priority": "high",
+                    "is_aggregated": true,
+                    "related_calls": {
+                        "primary_call": {
+                            "call_id": "596914926264",
+                            "segment_id": "47",
+                            "timestamp": "01:18"
+                        },
+                        "supporting_calls": [
+                            {
+                                "call_id": "596914913508",
+                                "segment_id": "78",
+                                "timestamp": "03:45"
+                            }
+                        ]
+                    },
+                    "attempted_close": "The student indicated an extended timeline by stating: 'Maybe in a year or so, yeah.' (call_596914926264, seg_47). This presented a critical opportunity to establish a structured follow-up plan and maintain engagement throughout their decision timeline.",
+                    "response": "The consultant's passive response failed to maintain momentum: 'Look, because it's probably too early now to start an application then, we'll wait for you to complete your PR and we'll go from there.' (call_596914926264, seg_49). This approach surrendered control of the follow-up process and missed the opportunity to secure specific commitments.",
+                    "recommendation": "When students indicate extended timelines, immediately establish structured engagement plans. Begin with validation while taking control: 'Planning ahead is excellent - let's create a specific roadmap to keep your enrollment on track.' Then set concrete checkpoints: 'I'll schedule monthly check-ins to support your progress. Let's start with our first call next Tuesday at 2 PM to review your timeline.' Create clear milestones: 'Between now and our next call, I'll send you program materials to review, and we can discuss any questions then.' Always secure immediate commitments: 'Would you like morning or afternoon for our first check-in call next week?' The key is maintaining consistent engagement through regular, purposeful contact while keeping the enrollment process moving forward systematically."
                 }
-      ]
+            ]
+        }
     }
-  }
 }

@@ -171,6 +171,12 @@ export default function EnrolmentReportPage({
                 {reportData.bargraph_legend[0].green_label}
               </span>
             </div>
+            <div className="flex items-center gap-2">
+              <div className="w-6 h-[2px] bg-white"></div>
+              <span className="text-xs text-[#e5e5e5] font-normal">
+                {reportData.bargraph_legend[0].benchmark_label}
+              </span>
+            </div>
           </div>
 
           <div className="relative h-[400px] mt-16 mb-16">
@@ -217,6 +223,13 @@ export default function EnrolmentReportPage({
                           style={{
                             height: `${score.red}%`,
                             bottom: `${score.green}%`,
+                          }}
+                        ></div>
+                        {/* Benchmark line */}
+                        <div
+                          className="absolute w-full bg-white h-[2px]"
+                          style={{
+                            bottom: `${score.benchmark}%`,
                           }}
                         ></div>
                       </>
@@ -335,27 +348,21 @@ export default function EnrolmentReportPage({
                   <div className="space-y-2 text-lg font-normal">
                     <p>
                       <span className="font-semibold">
-                        Student Trigger:
+                        Attempted close:
                       </span>
-                      <br /> {insight.student_trigger}
+                      <br /> {insight.attempted_close}
                     </p>
                     <p>
                       <span className="font-semibold">
-                        Context Impact:
+                        Response:
                       </span>
-                      <br /> {insight.context_impact}
+                      <br /> {insight.response}
                     </p>
                     <p>
                       <span className="font-semibold">
-                        Consultant Response:
+                        Recommendation:
                       </span>
-                      <br /> {insight.consultant_response}
-                    </p>
-                    <p>
-                      <span className="font-semibold">
-                        Improvement:
-                      </span>
-                      <br /> {insight.improvement}
+                      <br /> {insight.recommendation}
                     </p>
                   </div>
                 </div>
@@ -375,21 +382,21 @@ export default function EnrolmentReportPage({
               {/* Student Trigger */}
               <div className="space-y-2">
                 <h3 className="text-xl font-normal italic">
-                  Student Trigger:
+                  Attempted close:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
-                  <p className="text-lg font-normal">{insight.student_trigger}</p>
+                  <p className="text-lg font-normal">{insight.attempted_close}</p>
                 </div>
               </div>
 
               {/* Consultant Response */}
               <div className="space-y-2">
                 <h3 className="text-xl font-normal italic">
-                  Consultant Response:
+                  Response:
                 </h3>
                 <div className="border border-[#78c38e] rounded-lg p-6">
                   <p className="text-lg font-normal">
-                    {insight.consultant_response}
+                    {insight.response}
                   </p>
                 </div>
               </div>
@@ -397,11 +404,11 @@ export default function EnrolmentReportPage({
               {/* Recommended Improvement */}
               <div className="space-y-2">
                 <h3 className="text-xl font-normal italic">
-                  Recommended Approach:
+                  Recommendation:
                 </h3>
                 <div className="border border-[#FF6B8A] rounded-lg p-6">
                   <p className="text-lg font-normal">
-                    {insight.recommended_approach}
+                    {insight.recommendation}
                   </p>
                 </div>
               </div>

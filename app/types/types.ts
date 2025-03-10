@@ -30,15 +30,18 @@ export interface EnrolmentReportData {
     label: string;
     green: number;
     red: number;
+    benchmark: number;
   }[];
   bargraph_historical: {
     label: string;
     green: number;
     red: number;
+    benchmark: number;
   }[];
   bargraph_legend: {
     green_label: string;
     red_label: string;
+    benchmark_label: string;
   }[];
   themes: {
     positive: {
@@ -64,10 +67,9 @@ export interface EnrolmentReportData {
             timestamp: string;
           };
         };
-        student_trigger: string;
-        context_impact: string;
-        consultant_response: string;
-        improvement: string;
+        attempted_close: string;
+        response: string;
+        recommendation: string;
       }[];
     };
     effective_collaborating_planning: {
@@ -84,9 +86,9 @@ export interface EnrolmentReportData {
             timestamp: string;
           };
         };
-        student_trigger: string;
-        consultant_response: string;
-        recommended_approach: string;
+        attempted_close: string;
+        response: string;
+        recommendation: string;
       }[];
     };
   };
